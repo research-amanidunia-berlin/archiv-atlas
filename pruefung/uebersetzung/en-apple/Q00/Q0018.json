@@ -1,4 +1,837 @@
 {
+  "Q001801": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "Da die Anhänge im Auszug fehlen",
+            "englisch": "Since the excerpts of the appendices are missing",
+            "besser": "Since the appendices are not included in the excerpt"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "den Einsatz großer KI-Modelle",
+            "englisch": "the use of large AI models",
+            "besser": "the use of large AI models"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "eine umfassende Verbindung von KI und Fertigung",
+            "englisch": "a comprehensive connection between AI and manufacturing",
+            "besser": "comprehensive integration of AI and manufacturing"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die angekündigten Anhänge",
+            "englisch": "The announced attachments",
+            "besser": "The announced appendices"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Dies sind politische Zielmarken",
+            "englisch": "These are political target markets",
+            "besser": "These are political targets"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die angekündigten Anhänge zu Branchen",
+            "englisch": "The announced annexes to industries",
+            "besser": "The announced appendices on industries"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q001801",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:18:52"
+  },
+  "Q001802": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "geringere Gefälligkeit gegenüber Nutzenden",
+            "englisch": "lower propensity toward users",
+            "besser": "less sycophancy toward users"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "einen Sicherheitsansatz namens „safe-completions“",
+            "englisch": "A security approach called \"safe-completions\"",
+            "besser": "A safety approach called \"safe-completions\""
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "stuft … vorsorglich als hoch ein",
+            "englisch": "preliminarily classifies … as high",
+            "besser": "precautionarily classifies … as high"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "schweren biologischen Schaden zu verursachen",
+            "englisch": "cause serious biological damage",
+            "besser": "cause serious biological harm"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Der Auszug … beschreibt … er",
+            "englisch": "he describes",
+            "besser": "it describes"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "dass das Modell einer unerfahrenen Person … dabei helfen könne, schweren biologischen Schaden zu verursachen",
+            "englisch": "there is no definitive evidence of significant assistance in severe biological damage",
+            "besser": "there is no definitive evidence that the model could significantly help an inexperienced person cause serious biological harm"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "schwerem biologischem Schaden",
+            "englisch": "severe biological damage",
+            "besser": "serious biological harm"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "übermäßige Gefälligkeit",
+            "englisch": "excessive friendliness",
+            "besser": "excessive sycophancy"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "einen Sicherheitsansatz",
+            "englisch": "a security approach",
+            "besser": "a safety approach"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "dass das Modell einer unerfahrenen Person erheblich bei schwerem biologischem Schaden helfen könne",
+            "englisch": "that the model could significantly help an inexperienced person with severe biological damage",
+            "besser": "that the model could significantly help an inexperienced person cause serious biological harm"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "fehlender definitiver Evidenz für erhebliche Schadenshilfe",
+            "englisch": "definitive evidence for significant damage mitigation is lacking",
+            "besser": "definitive evidence that it could significantly help cause harm is lacking"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "erhebliche Schadenshilfe",
+            "englisch": "significant damage mitigation",
+            "besser": "significant assistance in causing harm"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Bio-/Chemiebereich",
+            "englisch": "bio/chemistry field",
+            "besser": "biological and chemical fields"
+          }
+        ]
+      }
+    ],
+    "q": "Q001802",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:19:04"
+  },
+  "Q001804": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "die erste Ausgabe seiner Umfragereihe",
+            "englisch": "the first issue of its survey series",
+            "besser": "the first edition of its survey series"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "bei einem Anteil von 50 Prozent",
+            "englisch": "for a 50 percent sample size",
+            "besser": "for a 50 percent proportion"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "rechtliche Haftung von KI-Unternehmen für Schäden",
+            "englisch": "legal liability for AI companies for damages",
+            "besser": "legal liability for harm caused by AI companies"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Anthropics US-Umfrage",
+            "englisch": "Anthropics US survey",
+            "besser": "Anthropic’s US survey"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheit vor Wachstum",
+            "englisch": "security against growth",
+            "besser": "safety over growth"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Haftung von Unternehmen [im Kontext: KI-Unternehmen]",
+            "englisch": "liability for companies",
+            "besser": "liability for AI companies"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Anthropics US-Umfrage",
+            "englisch": "Anthropics US survey",
+            "besser": "Anthropic’s US survey"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "staatlicher Aufsicht",
+            "englisch": "state oversight",
+            "besser": "government oversight"
+          }
+        ]
+      }
+    ],
+    "q": "Q001804",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:19:25"
+  },
+  "Q001806": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Harmonisierten Normen zufolge des Berichts, technische Fachgremien …",
+            "englisch": "According to the harmonized standards according to the report, technical expert committees …",
+            "besser": "According to the report, technical expert committees …"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Qualitätsmanagement einschließlich Marktüberwachung",
+            "englisch": "quality management including market monitoring",
+            "besser": "quality management, including market surveillance"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Konformitätsbewertung",
+            "englisch": "compliance assessment",
+            "besser": "conformity assessment"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "vertrauenswürdige KI",
+            "englisch": "reliable AI",
+            "besser": "trustworthy AI"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "EU-Amtsblatt / Amtsblatt",
+            "englisch": "EU Official Journal / official gazette",
+            "besser": "EU Official Journal"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "auf Anfrage der Kommission",
+            "englisch": "on request of the Commission",
+            "besser": "at the Commission’s request"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Als nicht vollständig passende Grundlage nennt er ISO/IEC 42001:2023.",
+            "englisch": "He cites ISO/IEC 42001:2023 as an insufficiently suitable basis.",
+            "besser": "It cites ISO/IEC 42001:2023 as a basis that is not fully suitable."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "rechtliche Konformitätsvermutung",
+            "englisch": "legal conformity presumption",
+            "besser": "legal presumption of conformity"
+          }
+        ]
+      }
+    ],
+    "q": "Q001806",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:19:24"
+  },
+  "Q001807": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "Anlass sei der Übergang von KI-Experimenten zu einer breiten Anwendung …",
+            "englisch": "The occasion is the transition from AI experiments to widespread application …",
+            "besser": "The stated context is a transition from AI experiments to widespread application …"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "Risikohinweise",
+            "englisch": "risk assessments",
+            "besser": "risk notices"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "KI-Sicherheit",
+            "englisch": "AI security",
+            "besser": "AI safety"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Anhand nationaler Initiativen und konkreter Anwendungsfälle soll erörtert werden, wie KI … unterstützen kann.",
+            "englisch": "It will discuss how AI can support … through national initiatives and concrete use cases.",
+            "besser": "Using national initiatives and concrete use cases, the event will discuss how AI can support …"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Qualifizierung",
+            "englisch": "qualification",
+            "besser": "skills development"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheitswerkzeugen",
+            "englisch": "security tools",
+            "besser": "safety tools"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Er ordnet den Gipfel in einen Wandel ein",
+            "englisch": "It frames the summit as a turning point",
+            "besser": "It places the summit in the context of a shift"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "KI werde zunehmend … eingesetzt, während autonome KI-Agenten … aufwürfen.",
+            "englisch": "AI is increasingly being used … while autonomous AI agents are raising …",
+            "besser": "The contribution says that AI is increasingly being used … while autonomous AI agents are raising …"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheitswerkzeuge",
+            "englisch": "security tools",
+            "besser": "safety tools"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Qualifizierung",
+            "englisch": "qualification",
+            "besser": "skills development"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q001807",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:19:51"
+  },
+  "Q001808": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "bei 29 Prozent der MCP-Server beziehungsweise 38 Prozent der Werkzeuge",
+            "englisch": "on 29 percent of MCP servers or 38 percent of tools",
+            "besser": "in 29 percent of MCP servers and 38 percent of tools, respectively"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Für hoch relevante Berufe wie Finanzdienstleister, Buchhalter und Finanzmanager",
+            "englisch": "for highly relevant professions such as financial service providers, accountants, and financial managers",
+            "besser": "for high-impact occupations such as financial services professionals, accountants, and financial managers"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "ordnet die Untersuchung die meisten Aktionswerkzeuge Tätigkeiten mit mittlerem Risiko zu",
+            "englisch": "the study classifies most action tools as activities with medium risk",
+            "besser": "the study maps most action tools to tasks rated as medium risk"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q001808",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:19:50"
+  },
+  "Q001810": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Die berichteten Benchmarks fallen stark aus",
+            "englisch": "The reported benchmarks vary widely",
+            "besser": "The reported benchmarks are strong"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Faltungsnetzwerke zur Erkennung kurzer Sequenzmuster",
+            "englisch": "folding networks for detecting short sequence patterns",
+            "besser": "convolutional networks for detecting short sequence patterns"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Spleißstellen und deren Ausprägung",
+            "englisch": "splice sites and their expression",
+            "besser": "splice sites and their activity"
+          }
+        ]
+      }
+    ],
+    "q": "Q001810",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:19:49"
+  },
+  "Q001816": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "wie die Organisation 2025 … beigetragen haben will",
+            "englisch": "how the organization intended to contribute in 2025",
+            "besser": "how the organization says it contributed in 2025"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Klassifizierung und Einstufung der Sicherheit von KI-Anwendungen",
+            "englisch": "the classification and classification of the security of AI applications",
+            "besser": "the security classification and rating of AI applications"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Eine nachgestellte Anmerkung ergänzt",
+            "englisch": "A fictitious note adds",
+            "besser": "An appended note adds"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "einen Bericht zu KI und Biowissenschaften",
+            "englisch": "a report on AI and biotechnology",
+            "besser": "a report on AI and the life sciences"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "die Beiträge, die die Organisation für KI-Sicherheit und Governance beansprucht",
+            "englisch": "the contributions that the organization for AI security and governance claims",
+            "besser": "the contributions the organization claims to have made to AI security and governance"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Sie habe an chinesischen nationalen und regionalen Standards mitgewirkt",
+            "englisch": "It has contributed to Chinese national and regional standards",
+            "besser": "It says it contributed to Chinese national and regional standards"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "nahm 34 Affiliates auf",
+            "englisch": "hired 34 affiliates",
+            "besser": "welcomed 34 affiliates"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Organisatorisch",
+            "englisch": "Organisatorically",
+            "besser": "Organizationally"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q001816",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:20:16"
+  },
+  "Q001818": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "umfassender Sicherheitsansatz",
+            "englisch": "comprehensive security approach",
+            "besser": "comprehensive safety approach"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Drei Abbildungen werden als nachgereichte Grafiken aufgeführt",
+            "englisch": "Three images are listed as submitted graphics",
+            "besser": "Three figures are listed as graphics added later"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "ihr Sicherheitsansatz",
+            "englisch": "its security approach",
+            "besser": "its safety approach"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "umfassende Sicherheitsansatz",
+            "englisch": "comprehensive security approach",
+            "besser": "comprehensive safety approach"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Drei nachgereichte Abbildungen",
+            "englisch": "Three attached images",
+            "besser": "Three figures added later"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "sind in diesem Auszug nicht inhaltlich erkennbar",
+            "englisch": "are not contentually recognizable in this excerpt",
+            "besser": "their content is not discernible in this excerpt"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "genauere Grenzen des Sicherheitsansatzes",
+            "englisch": "more precise boundaries of the security approach",
+            "besser": "more precise limits of the safety approach"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "bisherigen Sicherheitsansatz",
+            "englisch": "the previous security approach",
+            "besser": "the previous safety approach"
+          }
+        ]
+      }
+    ],
+    "q": "Q001818",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-20T03:20:11"
+  },
   "Q001866": {
     "fassungen": [
       {
