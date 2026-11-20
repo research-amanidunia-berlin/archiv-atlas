@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T02",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Veröffentlichen Labore abgestimmte Cyber-Tests, die zeigen, was jedes Modell mehr leistet als ein Mensch ohne KI-Hilfe?",
+    "en": "Will labs publish matched cyber evaluations showing what each model adds beyond unaided human performance?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "cyber-10",
+      "text": {
+        "de": "An die Labore beider Seiten: Veröffentlichen Sie abgestimmte Cyber-Bewertungen, die zeigen, was jedes Modell gegenüber der Leistung eines Menschen ohne Hilfsmittel hinzufügt?",
+        "en": "Labs on both sides: will you publish matched cyber evaluations showing what each model adds beyond unaided human performance?"
+      }
+    }
+  ],
+  "bewertung": null
+}

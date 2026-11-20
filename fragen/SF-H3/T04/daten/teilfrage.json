@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H3-T04",
+  "sammelfrage": "SF-H3",
+  "frage": {
+    "de": "Welches Protokoll zum Datenaustausch ließe ein Ministerium in jedem Staat prüfen, dass die Cyberfähigkeiten eines eingesetzten Modells denen der geprüften Fassung entsprechen, ohne Gewichte oder Nutzerdaten offenzulegen?",
+    "en": "Which data-sharing protocol would let a ministry in any state verify that a deployed model's cyber capabilities match the evaluated version, without exposing weights or user data?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "verify-30",
+      "text": {
+        "de": "Welches Protokoll zum Datenaustausch würde es einem Ministerium auf jeder Seite erlauben zu überprüfen, dass die Cyber-Fähigkeiten eines eingesetzten Modells der geprüften Version entsprechen, ohne Modellgewichte oder Nutzerdaten offenzulegen?",
+        "en": "What data-sharing protocol would let a ministry on either side verify that a deployed model's cyber capabilities match the evaluated version, without exposing weights or user data?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T2-T02",
+  "sammelfrage": "SF-T2",
+  "frage": {
+    "de": "Wenn ein Labor zusagt, weitere Skalierung von sich aus zurückzuhalten oder die Ausrichtungsforschung (Forschung dazu, wie Modelle den vorgesehenen Zielen und Werten folgen) den Fähigkeiten voraus zu halten: Umfasst die Zusage nur neues Training oder auch mehr Rechenleistung beim Einsatz, mehr Denkaufwand, Werkzeugzugang und ausgetauschte Modelle auf dem Server, und welche dieser Änderungen würde es vorher ankündigen?",
+    "en": "When a lab commits to unilaterally withhold further scaling or to keep alignment research (research on making models follow intended goals and values) ahead of capabilities, does the commitment cover only new training runs, or also more inference-time compute, reasoning effort, tool access and server-side model swaps, and which of those changes would it announce beforehand?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-35",
+      "text": {
+        "de": "Wenn Sie sich verpflichten, „einseitig auf weitere Skalierung zu verzichten\" (A4) oder die Alignment-Forschung „den Fähigkeiten voraus\" zu halten (ST30) — gilt diese Verpflichtung nur für neue Trainingsläufe, oder auch für Erhöhungen der Rechenleistung zur Inferenzzeit, des Reasoning-Aufwands, des Werkzeugzugriffs und für serverseitige Modellwechsel — und welche dieser Änderungen würden Sie ankündigen, bevor Sie sie vornehmen?",
+        "en": "When you commit to \"unilaterally withhold further scaling\" (A4) or to keep alignment research \"ahead of capabilities\" (ST30), does the commitment cover only new training runs, or also increases in inference-time compute, reasoning effort, tool access, and server-side model swaps — and which of those changes would you announce before making them?"
+      }
+    }
+  ],
+  "bewertung": null
+}

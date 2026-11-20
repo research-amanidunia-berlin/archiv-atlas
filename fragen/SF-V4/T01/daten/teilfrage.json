@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V4-T01",
+  "sammelfrage": "SF-V4",
+  "frage": {
+    "de": "Falls ein Modell kein durchgehendes Selbst hat: Kann es überhaupt an den vorgesehenen Zielen und Werten ausgerichtet sein, oder nur seine Ausgaben?",
+    "en": "If a model has no continuous self, can it be aligned with intended goals and values at all, or only its outputs?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-01",
+      "text": {
+        "de": "Wenn ein Modell kein fortlaufendes Selbst hat: Kann es überhaupt ausgerichtet sein – oder nur seine Ausgaben?",
+        "en": "If a model has no continuous self, can it be aligned at all — or only its outputs?"
+      }
+    }
+  ],
+  "bewertung": null
+}

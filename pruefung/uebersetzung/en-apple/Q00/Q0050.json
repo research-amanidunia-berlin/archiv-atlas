@@ -1,0 +1,231 @@
+{
+  "Q005038": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Aussagen zu Produktivität, Sicherheit und Kundennutzen",
+            "englisch": "Statements regarding productivity, safety, and customer benefit",
+            "besser": "Statements regarding productivity, security, and customer benefit"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "dass Zoom Claude in kundenorientierte KI-Produkte integrieren will",
+            "englisch": "that it wants to integrate Zoom Claude into customer-oriented AI products",
+            "besser": "that Zoom wants to integrate Claude into customer-facing AI products"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "Anthropics KI-Assistenten Claude",
+            "englisch": "Anthropic's AI assistants Claude",
+            "besser": "Anthropic's AI assistant Claude"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Zoom verfolge dabei einen föderierten Ansatz",
+            "englisch": "Zoom is taking a federated approach",
+            "besser": "According to Anthropic, Zoom is taking a federated approach"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "vertrauenswürdige und sichere KI-Anwendungen",
+            "englisch": "reliable and secure AI applications",
+            "besser": "trustworthy and secure AI applications"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q005038",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:53:06"
+  },
+  "Q005075": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Seitentexten",
+            "englisch": "side text",
+            "besser": "page text"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "zwischenspeicherte",
+            "englisch": "store ... in memory",
+            "besser": "cached"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "den Verlauf ebenfalls zwischenspeichern",
+            "englisch": "to also save the history in between",
+            "besser": "to cache the history as well"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "aus einem öffentlichen Demokatalog für 32 Bücher jeweils sechs Angaben sammeln",
+            "englisch": "collect six pieces of information from a public demo catalog for 32 books each",
+            "besser": "collect six pieces of information from a public demo catalog containing 32 books"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "beim Kürzen jeweils den neuesten",
+            "englisch": "retained the latest one each time they were trimmed",
+            "besser": "retained the latest screenshot each time screenshots were trimmed"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Asanas CTO",
+            "englisch": "Asanas CTO",
+            "besser": "Asana’s CTO"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Verlaufslimit",
+            "englisch": "loop limit",
+            "besser": "history limit"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Zwischenspeicherung",
+            "englisch": "intermediate storage",
+            "besser": "caching"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Verlaufslimit",
+            "englisch": "run length limit",
+            "besser": "history limit"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "um das 76-Fache",
+            "englisch": "by a factor of 76",
+            "besser": "by a factor of 76"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "GPT‑6 Astra",
+            "englisch": "Astra ... using GPT-6",
+            "besser": "GPT-6 Astra"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Seitentexten",
+            "englisch": "side text",
+            "besser": "page text"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Verlaufslimit",
+            "englisch": "run limit",
+            "besser": "history limit"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "GPT‑6.1 Sol",
+            "englisch": "GPT-6.1",
+            "besser": "GPT-6.1 Sol"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Verlaufslimit",
+            "englisch": "run limit",
+            "besser": "history limit"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Ausgangswerte",
+            "englisch": "input values",
+            "besser": "baseline values"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "um das 76-Fache",
+            "englisch": "by 76 times",
+            "besser": "by a factor of 76"
+          }
+        ]
+      }
+    ],
+    "q": "Q005075",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:53:35"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H1-T03",
+  "sammelfrage": "SF-H1",
+  "frage": {
+    "de": "Mit welchen technischen Kontrollen und Prüfspuren erkennen, melden und verhindern Labore unerlaubte Destillation und den Abfluss von Modellgewichten (den gelernten Parametern) über Grenzen hinweg?",
+    "en": "Which technical controls and audit trails let labs detect, report and prevent unauthorised distillation and the exfiltration of model weights (the learned parameters) across borders?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-04",
+      "text": {
+        "de": "Welche technischen Kontrollen und Prüfspuren würden US-amerikanische und chinesische KI-Labore einführen, um unerlaubte Modell-Destillation oder den unerlaubten Abfluss von Modellgewichten über Grenzen hinweg zu erkennen, zu melden und zu verhindern?",
+        "en": "What technical controls and audit trails would US and Chinese AI labs implement to detect, report, and prevent unauthorized model distillation or weight exfiltration across borders?"
+      }
+    }
+  ],
+  "bewertung": null
+}

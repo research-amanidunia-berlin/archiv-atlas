@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P5-T03",
+  "sammelfrage": "SF-P5",
+  "frage": {
+    "de": "Wie oft, durch wen und nach welcher veröffentlichten Prüfliste prüft eine Stelle von außen, ob jeder Staat die zweiseitigen KI-Zusagen noch einhält, und welches einzelne benannte Ereignis zieht eine Prüfung vor, wenn ein Staat vermutet, dass der andere sie heimlich nicht erfüllt? Welches vorab vereinbarte, objektiv prüfbare Ereignis (etwa ein neues Modell, das eine erklärte Fähigkeitsschwelle überschreitet, der Durchbruch eines ausländischen Labors, eine bestätigte Verletzung des Meldekanals zwischen den Staaten oder ein Wechsel der nationalen Führung) muss die Vereinbarung auch ohne Verdacht förmlich zur Prüfung öffnen, und wer kann diese Prüfung ohne Zustimmung des anderen Staates einberufen?",
+    "en": "How often, by whom and against what published checklist does an outside body review whether each state is still living up to the bilateral AI commitments, and which single named event brings a review forward when one state suspects the other of quietly not doing so? Which pre-agreed, objectively verifiable event (such as a new model crossing a declared capability threshold, a foreign lab's breakthrough, a verified breach of the reporting channel between the states or a change in national leadership) must formally reopen the agreement for review even without suspicion, and who can call that review without the other state's consent?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-52",
+      "text": {
+        "de": "Wie oft, von wem und anhand welcher veröffentlichten Checkliste wird eine externe Stelle erneut prüfen, ob jede Seite die bilateralen KI-Zusagen noch einhält — und welches einzelne, benannte Ereignis reicht aus, um eine turnusmäßige Prüfung vorzuziehen, wenn eine Seite vermutet, dass die andere sich still daran nicht hält?",
+        "en": "How often, by whom, and against what published checklist will an outside body re-examine whether each side is still living up to the bilateral AI commitments — and what single, named event is enough to bring a routine review forward when one side suspects the other of quietly not doing so?"
+      }
+    },
+    {
+      "id": "trust-35",
+      "text": {
+        "de": "An beide Regierungen: Bei welchem vorab vereinbarten, objektiv überprüfbaren Ereignis – ein neues Modell überschreitet eine erklärte Fähigkeitsschwelle, ein Durchbruch eines ausländischen Labors, ein nachgewiesener Verstoß gegen die Hotline oder ein Wechsel in der nationalen Führung – muss das Abkommen förmlich zur Überprüfung wieder geöffnet werden, und wer kann diese Überprüfung ohne Zustimmung der Gegenseite einberufen?",
+        "en": "To both governments: Under what pre-agreed, objectively verifiable event — a new model crossing a declared capability threshold, a foreign lab's breakthrough, a verified hotline breach, or a change in national leadership — must the agreement be formally reopened for review, and who can call that review without the other side's consent?"
+      }
+    }
+  ],
+  "bewertung": null
+}

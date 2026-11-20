@@ -1,0 +1,30 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T04",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Wer prüft die KI-Modelle, die andere Modelle prüfen, auf Anweisungen, Versionen und Fehlerfälle, und welche unabhängige Prüfung zeigt, dass das geprüfte Modell sie nicht manipulieren kann, besonders wenn sie aus derselben Modellfamilie stammen? Und wenn gemeinsame Tests, Schweregrade und die Ersteinstufung von Meldungen von Sprachmodellen entworfen, durchgeführt und zusammengefasst werden: Nimmt jeder Staat einen Prüfmechanismus an, dessen Kernbausteine aus ausländischen Laboren stammen?",
+    "en": "Who audits the AI models that check other models, for prompts, versions and failure cases, and what independent audit shows that the model under test cannot manipulate them, especially if they come from the same model family? And if shared tests, severity levels and the triage of incident reports are drafted, run and summarised by language models, will each state accept a verification mechanism whose core components come from foreign labs?"
+  },
+  "herkunft": [
+    "allgemein",
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-83",
+      "text": {
+        "de": "Wenn die Cyber-Bewertungen eines Modells von einem KI-gestützten Bewerter durchgeführt werden (z. B. von automatisierten Red-Teaming-Werkzeugen): Welches unabhängige Audit würde nachweisen, dass der Bewerter selbst nicht anfällig für Manipulation durch das getestete Modell ist – insbesondere, wenn der Bewerter aus derselben Modellfamilie stammt?",
+        "en": "When a model’s cyber evaluations are run by an AI-assisted grader (e.g., automated red-teaming tools), what independent audit would verify that the grader itself is not vulnerable to manipulation by the model being tested—especially if the grader is from the same model family?"
+      }
+    },
+    {
+      "id": "verify-49",
+      "text": {
+        "de": "Wenn gemeinsame Tests, Schweregrade und Hotline-Einstufungen am Ende von Sprachmodellen entworfen, ausgeführt und zusammengefasst werden — wer prüft diese für die Kontrolle zuständigen Modelle selbst, also Prompts, Version, Fehlerfälle —, und sind beide Seiten bereit, einen Verifizierungsmechanismus zu akzeptieren, dessen Kernkomponenten aus dem Labor der jeweils anderen Seite stammen?",
+        "en": "If the shared tests, severity levels and hotline triage end up being drafted, run and summarised by language models, who audits these checking models themselves — prompts, versions, failure cases — and is each side willing to accept a verification mechanism whose core components come from the other side's labs?"
+      }
+    }
+  ],
+  "bewertung": null
+}

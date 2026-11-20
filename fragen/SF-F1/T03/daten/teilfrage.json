@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T03",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Auf welche einzelne Zahl zur offensiven Cyberfähigkeit eines Modells würden sich Regierungen einigen, um sie vor der Freigabe zu veröffentlichen, nicht erst danach?",
+    "en": "Which single number about a model's offensive cyber capability would governments agree to publish before release, not after?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "cyber-22",
+      "text": {
+        "de": "Auf welche einzelne Zahl zur offensiven Cyber-Fähigkeit eines Modells würden sich beide Regierungen einigen, um sie vor der Veröffentlichung zu publizieren, nicht danach?",
+        "en": "Which single number about a model's offensive cyber capability would both governments agree to publish before release, not after?"
+      }
+    }
+  ],
+  "bewertung": null
+}

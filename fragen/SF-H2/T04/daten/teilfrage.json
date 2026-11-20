@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H2-T04",
+  "sammelfrage": "SF-H2",
+  "frage": {
+    "de": "Wie sollen Staaten mit Open-Source-Modellen aus einem Land umgehen, die in einem anderen schädlich genutzt werden könnten, ohne legitime Forschungszusammenarbeit zu verhindern?",
+    "en": "How should states handle open-source models developed in one country that could be used for harm in another, without preventing legitimate research collaboration?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-20",
+      "text": {
+        "de": "Wie sollten die USA und China mit offenen Quellenmodellen umgehen, die in einem Land entwickelt wurden aber potenziell für schädliche Zwecke in einem anderen Land eingesetzt werden könnten, ohne die legitime Forschungszusammenarbeit zu verhindern?",
+        "en": "How should the US and China handle open-source models developed in one country that could potentially be used for harmful purposes in another country, without preventing legitimate research collaboration?"
+      }
+    }
+  ],
+  "bewertung": null
+}

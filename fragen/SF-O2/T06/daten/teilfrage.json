@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O2-T06",
+  "sammelfrage": "SF-O2",
+  "frage": {
+    "de": "Prüfer mit dauerhaftem Zugang im Labor sollen Nachprüfbarkeit, Transparenz und eine zweite Meinung bringen. Was sollten sie darüber hinaus veröffentlichen, das heute vertraulich bleibt, etwa Beinahe-Vorfälle oder Teilprüfungen noch unveröffentlichter Modelle?",
+    "en": "Evaluators with standing access inside a lab are meant to bring verifiability, transparency and a second opinion. Beyond these, what should they publish that is confidential today, such as near-miss incidents or partial evaluations of unpublished models?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "hotline-16",
+      "text": {
+        "de": "Was sollten Prüfer über Nachprüfbarkeit, Transparenz und Zweitmeinung (P21–P23) hinaus veröffentlichen, das heute vertraulich ist – Beinahe-Vorfälle, Teilbewertungen unveröffentlichter Modelle?",
+        "en": "Beyond verifiability, transparency, and second opinion (P21–P23), what should evaluators publish that's currently confidential — near-miss incidents, partial evaluations of unpublished models?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T08",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Wenn ein gemeinsamer Mechanismus für KI-Vorfälle in einem UN-Gremium liegt: Akzeptieren die ständigen Mitglieder des UN-Sicherheitsrats, dass keines von ihnen allein die Veröffentlichung eines Vorfallberichts blockieren kann?",
+    "en": "If a shared AI incident mechanism sits in a UN body, will the permanent members of the Security Council accept that no single one of them can unilaterally block the publication of an incident report?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-29",
+      "text": {
+        "de": "Wenn der gemeinsame KI-Vorfallmechanismus am Ende bei einem UN-Gremium angesiedelt wird — würden die ständigen Mitglieder, einschließlich der USA und Chinas, akzeptieren, dass kein einzelnes ständiges Mitglied im Alleingang die Veröffentlichung eines Vorfallberichts verhindern kann?",
+        "en": "If a shared AI incident mechanism ends up inside a UN body, will the permanent members, including the United States and China, accept that no single permanent member can unilaterally block the publication of an incident report?"
+      }
+    }
+  ],
+  "bewertung": null
+}

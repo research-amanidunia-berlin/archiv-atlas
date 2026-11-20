@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O2-T07",
+  "sammelfrage": "SF-O2",
+  "frage": {
+    "de": "Was ist das erste schriftliche Ergebnis eines Gipfeltreffens zu KI, und bis wann soll es umgesetzt sein? Gefragt wurde das zum Treffen von Trump und Xi.",
+    "en": "What is the first written deliverable of a summit on AI, and by when should it be operational? This was asked about the Trump–Xi meeting."
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-55",
+      "text": {
+        "de": "An beide Regierungen: Was ist das erste schriftliche Ergebnis, das vom Treffen zwischen Trump und Xi zum Thema KI erwartet wird, und in welchem Zeitrahmen erwarten beide Seiten dessen Umsetzung — eine gemeinsame Erklärung, ein Mandat für eine Arbeitsgruppe oder etwas anderes?",
+        "en": "To both governments: What is the first written deliverable expected from the Trump–Xi meeting on AI, and within what timeline would both sides expect to see it operationalized — a joint statement, a working-group mandate, or something else?"
+      }
+    }
+  ],
+  "bewertung": null
+}

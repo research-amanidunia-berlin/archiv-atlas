@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A3-T01",
+  "sammelfrage": "SF-A3",
+  "frage": {
+    "de": "Welche Beobachtungen oder gemeinsamen Tests erkennen entstehende Abstimmung, Absprachen oder Kettenfehler zwischen Modellen in Arbeitsabläufen, Lieferketten und Gruppen vieler Agenten (Schwärmen), die kein einzelnes Labor steuert oder vorhersieht?",
+    "en": "Which observations or shared tests detect emergent coordination, collusion or cascading failures among models in workflows, supply chains and swarms of many agents that no single lab controls or predicts?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-37",
+      "text": {
+        "de": "Da Modelle zunehmend als Agenten in Multi-Modell-Workflows, Lieferketten und Schwärmen auftreten — welche Beobachtungen oder gemeinsamen Tests würden emergente Koordination, Absprachen oder Kaskadenausfälle zwischen KI-Systemen erkennen, die kein einzelnes Labor kontrolliert oder vorhersieht?",
+        "en": "As models increasingly act as agents in multi-model workflows, supply chains, and swarms, what observations or shared tests would detect emergent coordination, collusion, or cascading failures among AI systems that no single lab controls or predicts?"
+      }
+    }
+  ],
+  "bewertung": null
+}

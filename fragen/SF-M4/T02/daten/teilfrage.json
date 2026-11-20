@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M4-T02",
+  "sammelfrage": "SF-M4",
+  "frage": {
+    "de": "Wie sähen Selbstkontrolle und Informationsaustausch zwischen Laboren verschiedener Staaten praktisch aus (eine gemeinsame Vorlage für Vorfallberichte, gemeinsame Übungen oder ein gemeinsames Register), und wer dürfte die Berichte sehen?",
+    "en": "What would self-policing and information sharing between labs in different countries look like in practice (a common incident-report template, joint drills or a shared register), and who would be allowed to see the reports?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-15",
+      "text": {
+        "de": "Wie sähen „Selbstüberwachung und Informationsaustausch“ zwischen US-amerikanischen und chinesischen Laboren in der Praxis aus – eine gemeinsame Vorlage für Vorfallsberichte, gemeinsame Übungen oder ein gemeinsames Register –, und wer dürfte die Berichte sehen?",
+        "en": "What would \"self-policing and information sharing\" look like in practice between US and Chinese labs — a common incident-report template, joint drills, or a shared register — and who would be allowed to see the reports?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P1-T07",
+  "sammelfrage": "SF-P1",
+  "frage": {
+    "de": "Wie könnten Labore verschiedener Staaten gegenseitige Prüfvereinbarungen treffen, um zu überwachen, ob vereinbarte Sicherheitspraktiken eingehalten werden?",
+    "en": "How might labs in different countries set up reciprocal audit arrangements to monitor adherence to agreed safety practices?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-18",
+      "text": {
+        "de": "Wie könnten US-amerikanische und chinesische KI-Labore gegenseitige Prüfvereinbarungen treffen, um die Einhaltung vereinbarter Sicherheitspraktiken zu überwachen?",
+        "en": "How might US and Chinese AI laboratories establish reciprocal audit arrangements for monitoring adherence to agreed safety practices?"
+      }
+    }
+  ],
+  "bewertung": null
+}

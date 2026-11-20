@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P2-T02",
+  "sammelfrage": "SF-P2",
+  "frage": {
+    "de": "Bevor eine Prüfvereinbarung zwischen Staaten auf eingebetteten Prüfungen aufbaut, also auf unabhängigen Prüfern mit dauerhaftem, mitarbeiterähnlichem Zugang in KI-Firmen: Sagen die Labore jeweils zu, dass keine eingebettete Prüfung, die das geprüfte Labor selbst bezahlt, in diesem Zusammenhang als Beleg dient? Und behandeln die Regierungen eine vom Labor bezahlte Prüfung für sich genommen als unzureichend für Tests von Modellen auf akute Risiken vor der Veröffentlichung, damit die ersten Berichte nicht stillschweigend einen Präzedenzfall setzen?",
+    "en": "Before a verification arrangement between states builds on embedded evaluations, that is, on independent evaluators with ongoing, employee-like access inside AI companies, will the labs each commit that no embedded evaluation paid for by the lab being evaluated serves as evidence in that context? And will the governments treat lab-funded evaluation as insufficient per se for testing models for acute risks before release, so that the first embedded reports cannot quietly set a precedent?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-85",
+      "text": {
+        "de": "Das Mandat von Accenture als eingebetteter Prüfer wurde am 18. September angekündigt, wobei Anthropic „die Arbeit von Accenture direkt finanziert“ und es „keine Standards dafür gibt, auf welche Informationen eingebettete Prüfer Zugriff haben sollten oder wie sie über ihre Befunde berichten sollten“ (beides Anthropic, 18. September, zitiert in den Belegen zu verify-21 und verify-22). Anthropics eigener Essay nennt das Finanzierungsproblem ungelöst und verweist langfristig auf gebündelte oder staatliche Mittel. Bevor eine bilaterale Verifikationsvereinbarung auf dieser Praxis aufbaut: Werden sich Anthropic und OpenAI jeweils verpflichten, dass keine eingebettete Bewertung, die in einem US-chinesischen Kontext als Beleg dient, aus einem Mandat stammt, das von dem bewerteten Labor finanziert wird – und werden beide Regierungen eine vom Labor finanzierte Bewertung als per se unzureichend für Tests der Stufe 2 (P46) behandeln, damit die ersten eingebetteten Berichte nicht stillschweigend einen Präzedenzfall schaffen können?",
+        "en": "Accenture's embedded-evaluator engagement was announced 18 September with Anthropic \"funding Accenture's work directly\" and with \"no standards for what information embedded evaluators should have access to, or how they should report what they find\" (both Anthropic, 18 Sept, quoted in verify-21 and verify-22 evidence). Anthropic's own essay calls the funding problem open and points to pooled or government money long-term. Before any bilateral verification arrangement builds on this practice: will Anthropic and OpenAI each commit that no embedded evaluation used as evidence in a US–China context comes from an engagement funded by the lab being evaluated — and will both governments treat lab-funded evaluation as per se insufficient for Level 2 testing (P46), so that the first embedded reports cannot quietly set the precedent?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T01",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Welcher gemeinsame Rahmen für Labore macht Selbstüberwachung überprüfbar, ohne geschütztes geistiges Eigentum offenzulegen, und welche unabhängigen Verfahren Dritter, falls es sie gibt, bestätigen, dass die Selbstüberwachung riskantes Verhalten vor der Freigabe wirklich findet und nicht nur Schein ist?",
+    "en": "Which shared framework for labs makes self-monitoring verifiable without revealing proprietary intellectual property, and which independent third-party mechanisms, if any, confirm that self-monitoring really catches risky behaviour before release rather than merely giving the appearance of compliance?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-16",
+      "text": {
+        "de": "Welchen standardisierten Rahmen können Labore auf beiden Seiten übernehmen, damit „Selbstüberwachung“ überprüfbar wird, ohne geschütztes geistiges Eigentum preiszugeben?",
+        "en": "What standardized framework can be adopted by labs on both sides to ensure \"self-monitoring\" is verifiable without compromising proprietary intellectual property?"
+      }
+    },
+    {
+      "id": "verify-19",
+      "text": {
+        "de": "Welche unabhängigen Mechanismen Dritter, falls überhaupt, würden bestätigen, dass die Selbstüberwachung der Labore riskantes Verhalten tatsächlich vor der Veröffentlichung erkennt, statt nur dem äußeren Anschein von Regeltreue zu dienen?",
+        "en": "What independent third-party mechanisms, if any, would validate that lab self-monitoring systems actually catch risky behaviors before release rather than serving as compliance optics?"
+      }
+    }
+  ],
+  "bewertung": null
+}

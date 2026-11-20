@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O1-T01",
+  "sammelfrage": "SF-O1",
+  "frage": {
+    "de": "Wohin wenden sich Mitarbeitende, wenn das beratende Sicherheitsgremium und die Leitung eine Meldung beide ablehnen, welche Zahlen führt das Labor (gemeldet, geprüft, veröffentlicht, zurückgehalten), und wer außerhalb des Labors prüft, wie Fälle eingeordnet werden?",
+    "en": "Where do staff escalate when both the safety advisory group and leadership decline a report, which figures does the lab keep (reported, reviewed, published, withheld), and who outside the lab checks how cases are sorted?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "hotline-17",
+      "text": {
+        "de": "Wohin eskaliert ein Mitarbeiter, wenn der Sicherheitsbeirat und die Leitung eine Meldung ablehnen – welche Zahlen zu gemeldeten, geprüften, veröffentlichten und zurückgehaltenen Fällen führt das Labor, und wer außerhalb des Labors prüft die Zuordnung der Fälle?",
+        "en": "Where does an employee escalate when the safety advisory group and leadership both decline a report — which countable statistics of reported, reviewed, published and withheld cases does the lab keep, and who outside the lab checks how cases are sorted?"
+      }
+    }
+  ],
+  "bewertung": null
+}

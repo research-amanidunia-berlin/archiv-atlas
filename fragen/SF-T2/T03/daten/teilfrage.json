@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T2-T03",
+  "sammelfrage": "SF-T2",
+  "frage": {
+    "de": "Wenn eine Vereinbarung Fähigkeitsschwellen, rote Linien oder Prüfungen vor der Freigabe festlegt: Binden diese Grenzen auch Modelle, die am Tag der Unterzeichnung schon im Einsatz oder schon frei im Umlauf sind, oder nur künftige Modelle und Freigaben?",
+    "en": "If an agreement sets capability thresholds, red lines or pre-release testing, do those limits bind models already deployed or already released into the wild on the day it is signed, or only future models and releases?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-32",
+      "text": {
+        "de": "Wenn dieser Gipfel oder der Dialog Fähigkeitsschwellen, rote Linien oder ein Testregime vor Veröffentlichung vereinbart — binden diese Grenzen Modelle, die am Tag der Unterzeichnung bereits eingesetzt oder bereits frei verfügbar sind, oder nur künftige Modelle und künftige Veröffentlichungen?",
+        "en": "If this summit or the dialogue agrees capability thresholds, red lines, or a pre-release testing regime, do those limits bind models already deployed, or already released into the wild, on the day they are signed — or only future models and future releases?"
+      }
+    }
+  ],
+  "bewertung": null
+}

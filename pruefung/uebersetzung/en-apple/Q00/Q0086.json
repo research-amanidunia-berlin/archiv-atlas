@@ -1,0 +1,122 @@
+{
+  "Q008605": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Die Verfassenden",
+            "englisch": "The framers",
+            "besser": "The authors"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "vor der Einführung",
+            "englisch": "before implementation",
+            "besser": "before deployment"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "nach der Einführung",
+            "englisch": "after implementation",
+            "besser": "after deployment"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "ihre Befolgung durchzusetzen",
+            "englisch": "enforce their compliance",
+            "besser": "enforce compliance with them"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheitsstandards",
+            "englisch": "security standards",
+            "besser": "safety standards"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "vor und nach der Einführung",
+            "englisch": "before and after implementation",
+            "besser": "before and after deployment"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Basismodelle",
+            "englisch": "AI baseline models",
+            "besser": "AI foundation models"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die Verfassenden",
+            "englisch": "the framers",
+            "besser": "the authors"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Missbrauch nach der Bereitstellung",
+            "englisch": "misuse after provision",
+            "besser": "misuse after deployment"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "vor der Einführung",
+            "englisch": "before implementation",
+            "besser": "before deployment"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "nach der Einführung",
+            "englisch": "after implementation",
+            "besser": "after deployment"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Die Autorinnen- und Autorenliste gilt laut Text nicht als Zustimmung aller Mitwirkenden zu sämtlichen Aussagen",
+            "englisch": "the list of authors does not constitute the consent of all contributors to all statements",
+            "besser": "According to the text, the list of authors does not mean that all contributors endorse every statement"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q008605",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:55:30"
+  }
+}

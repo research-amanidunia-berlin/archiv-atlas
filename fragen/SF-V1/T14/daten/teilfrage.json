@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T14",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Wenn man einem fremden, nichtmenschlichen Geist eine einzige Frage stellen könnte: Welche wäre es, und würde man der Antwort glauben?",
+    "en": "If one could put a single question to an alien, non-human mind, what would it be, and would one believe the answer?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-05",
+      "text": {
+        "de": "Wenn Sie einem fremden Geist eine einzige Frage stellen könnten: Was würden Sie fragen – und würden Sie der Antwort glauben?",
+        "en": "If you could put one question to an alien mind, what would you ask — and would you believe the answer you got?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H6-T02",
+  "sammelfrage": "SF-H6",
+  "frage": {
+    "de": "Nennen zwei Staaten die Modelle des anderen ein Spionagerisiko, der eine wegen Datenabfluss, der andere wegen Diebstahls von Modellgewichten (den gelernten Parametern): Welche Belege würde jedes Ministerium als Widerlegung anerkennen, und wer darf sie sammeln?",
+    "en": "If two states call each other's models an espionage risk, one citing data leakage, the other the theft of model weights (the learned parameters), what evidence would each ministry accept as refutation, and who may collect it?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "origin-08",
+      "text": {
+        "de": "Jede Seite nennt die Modelle der anderen ein Spionagerisiko: hier Datenabfluss, in P39 Diebstahl von Modellgewichten. Welche Belege würde jedes Ministerium als Widerlegung akzeptieren, und wer darf sie erheben?",
+        "en": "Each side calls the other's models an espionage risk: data leakage here, weight theft in P39. What evidence would either ministry accept as refutation, and who may collect it?"
+      }
+    }
+  ],
+  "bewertung": null
+}

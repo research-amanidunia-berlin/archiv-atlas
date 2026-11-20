@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H4-T02",
+  "sammelfrage": "SF-H4",
+  "frage": {
+    "de": "Welches prüfbare Verfahren (Gewichte vernichten, Zugang über die Programmierschnittstelle sperren, Eintrag in ein öffentliches Register) stellt sicher, dass ein stillgelegtes Modell und seine durch weiteres Training angepassten Ableger nicht mehr einsetzbar sind, und wer prüft das in jedem Staat unabhängig vom Labor?",
+    "en": "Which verifiable process (weight destruction, revoking access through the programming interface or API, a public registry entry) ensures that a retired model and its fine-tuned derivatives are no longer deployable, and who in each state audits it independently of the lab?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-16",
+      "text": {
+        "de": "An beide Regierungen und die Frontier-Labore: Wenn ein Frontier-Modell außer Dienst gestellt oder abgeschaltet wird — welcher überprüfbare Prozess, der die Vernichtung der Gewichte, den Entzug des API-Zugangs und einen Eintrag in einem öffentlichen Register umfasst, stellt sicher, dass das Modell und seine feinabgestimmten Ableitungen nicht mehr einsetzbar sind, und wer prüft diesen Prozess auf jeder Seite unabhängig vom Labor?",
+        "en": "To both governments and frontier labs: when a frontier model is retired or decommissioned, what verifiable process — covering weight destruction, API access revocation, and a public registry entry — ensures the model and its fine-tuned derivatives are no longer deployable, and who on each side audits that process independently of the lab?"
+      }
+    }
+  ],
+  "bewertung": null
+}

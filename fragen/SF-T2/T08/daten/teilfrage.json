@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T2-T08",
+  "sammelfrage": "SF-T2",
+  "frage": {
+    "de": "Wird ein Labor vor einer Tempozusage prüfen, ob es eine unabhängig begründete Pause einhalten könnte, ohne Finanzierungs- oder Abnahmepflichten für Rechenleistung zu verletzen, und welche Vertragsänderungen nötig wären, wo diese Pflichten es sonst zum Neustart drängen würden?",
+    "en": "Before a pacing commitment, will a lab test whether it could honour an independently warranted pause without breaching financing or compute-purchase obligations, and which contract changes would be needed where those obligations would otherwise pressure it to restart?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "redlines-43",
+      "text": {
+        "de": "Bevor Sie eine Zusage zum Tempo machen: Werden Sie prüfen, ob das Labor eine unabhängig begründete Pause einhalten könnte, ohne Finanzierungspflichten oder Pflichten zum Kauf von Rechenleistung zu verletzen, und ermitteln, welche Vertragsänderungen nötig wären, wo diese Pflichten es sonst unter Druck setzen würden, wieder zu starten?",
+        "en": "Before making a pacing commitment, will you test whether the lab could honor an independently warranted pause without breaching financing or compute-purchase obligations, and identify what contractual changes would be needed where those obligations would otherwise pressure it to restart?"
+      }
+    }
+  ],
+  "bewertung": null
+}

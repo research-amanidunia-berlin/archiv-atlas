@@ -1,0 +1,183 @@
+{
+  "Q006444": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Aufenthaltsort Verdachtsfälle",
+            "englisch": "place of residence of suspected cases",
+            "besser": "whereabouts of suspected cases"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Lückenhafte oder ungenaue Angaben könnten wichtige Kontakte übersehen lassen",
+            "englisch": "Incomplete or inaccurate information could overlook important contacts",
+            "besser": "Incomplete or inaccurate information could lead to important contacts being missed."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Abhängigkeit manueller Kontaktbefragungen von der Erinnerung Erkrankter",
+            "englisch": "the dependence of manual contact interviews on reminding patients",
+            "besser": "the dependence of manual contact interviews on patients’ recollections"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Krankenhausambulanzen",
+            "englisch": "hospital emergency rooms",
+            "besser": "hospital outpatient clinics"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q006444",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:54:20"
+  },
+  "Q006490": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "vertreten die Einschätzung, dass die chinesische Regierung dafür mehrere koordinierte Wege nutze",
+            "englisch": "state that the Chinese government uses several coordinated channels for this purpose",
+            "besser": "believe that the Chinese government uses several coordinated channels for this purpose"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Maßnahmen sollten vielmehr gezielt bestimmte Erwerbswege erschweren",
+            "englisch": "Measures should rather targetively make certain acquisition routes difficult",
+            "besser": "Measures should instead specifically make certain acquisition routes more difficult"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die Widerstandsfähigkeit ihrer Unternehmen",
+            "englisch": "the resilience of its companies",
+            "besser": "the resilience of their companies"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Auslandsstipendien",
+            "englisch": "foreign scholarships",
+            "besser": "scholarships abroad"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "Andrew Imbries",
+            "englisch": "Andrew Imbries",
+            "besser": "Andrew Imbrie's"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "ein Bildhinweis",
+            "englisch": "an image caption",
+            "besser": "a reference to an image"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Viele dieser Wege seien legal oder schwer zu überwachen.",
+            "englisch": "Many of these methods are legal or difficult to monitor.",
+            "besser": "Many of these methods are legal or operate outside clear legal boundaries, and are inadequately understood or monitored."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "besonders schützenswerte Technologien",
+            "englisch": "particularly highly protected technologies",
+            "besser": "technologies that warrant particular protection"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Marktverlusten",
+            "englisch": "market losses",
+            "besser": "losses of market share"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "gezielter zu beobachten",
+            "englisch": "monitoring ... more closely",
+            "besser": "monitoring ... more selectively"
+          }
+        ]
+      }
+    ],
+    "q": "Q006490",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:54:43"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H1-T04",
+  "sammelfrage": "SF-H1",
+  "frage": {
+    "de": "Welche Maßnahmen für Transparenz über Destillationsverfahren könnten Labore einführen, um Sicherheitsbedenken zu begegnen, ohne geschützte Innovation preiszugeben?",
+    "en": "Which transparency measures on distillation methods could labs adopt to address safety concerns without giving away proprietary innovation?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-05",
+      "text": {
+        "de": "Welche Transparenzmaßnahmen zu Techniken der Modell-Destillation könnten KI-Labore einführen, um Sicherheitsbedenken zu begegnen, ohne geschützte Innovationen preiszugeben?",
+        "en": "What transparency measures could AI laboratories adopt regarding model distillation techniques to address safety concerns without compromising proprietary innovation?"
+      }
+    }
+  ],
+  "bewertung": null
+}

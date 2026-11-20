@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H6-T01",
+  "sammelfrage": "SF-H6",
+  "frage": {
+    "de": "Werden Firmen in jedem Land vergleichbare Prüfungen ihrer Flüsse sensibler Daten veröffentlichen: Zugriff, Aufbewahrung, Weitergabe?",
+    "en": "Will companies in each country publish comparable audits of sensitive-data flows: access, retention, onward transfer?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "origin-07",
+      "text": {
+        "de": "An die Industrie beider Seiten: Veröffentlichen Sie vergleichbare Prüfungen der Flüsse sensibler Daten, einschließlich Zugriff, Aufbewahrung und Weitergabe?",
+        "en": "Industry on both sides: will you publish comparable audits of sensitive-data flows, including access, retention and onward transfer?"
+      }
+    }
+  ],
+  "bewertung": null
+}

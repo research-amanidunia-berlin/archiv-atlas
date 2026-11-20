@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F5-T05",
+  "sammelfrage": "SF-F5",
+  "frage": {
+    "de": "Welche gemeinsamen Abläufe zur Deeskalation gibt es, um eine Blitz-Eskalation zu erkennen und zu unterbrechen, also sich aufschaukelnde Krisen, ausgelöst durch spieltheoretische Rückkopplungen im Bruchteil einer Sekunde zwischen gegnerischen autonomen Agentensystemen für Cyberabwehr und Nachrichtendienst, die schneller arbeiten als diplomatische Kanäle zwischen Menschen?",
+    "en": "What joint de-escalation protocols exist to detect and interrupt flash escalation, meaning cascading crises triggered by sub-second, game-theoretic feedback loops between opposing autonomous cyber-defence and intelligence agent systems that operate faster than human diplomatic hotlines?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "cyber-28",
+      "text": {
+        "de": "An die Verteidigungsressorts der Vereinigten Staaten und Chinas: Welche gemeinsamen Deeskalationsprotokolle gibt es, um „Blitz-Eskalation\" zu erkennen und zu unterbrechen — kaskadierende Krisen, ausgelöst durch spieltheoretische Rückkopplungsschleifen im Bruchteil einer Sekunde zwischen gegnerischen autonomen Cyberabwehr- und Geheimdienst-Agentensystemen, die schneller arbeiten als diplomatische Hotlines zwischen Menschen?",
+        "en": "To the defense establishments of the United States and China: What joint de-escalation protocols exist to detect and interrupt \"flash escalation\"—cascading crises triggered by sub-second, game-theoretic feedback loops between opposing autonomous cyber-defense and intelligence agent systems operating faster than human diplomatic hotlines?"
+      }
+    }
+  ],
+  "bewertung": null
+}

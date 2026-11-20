@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M4-T07",
+  "sammelfrage": "SF-M4",
+  "frage": {
+    "de": "Wenn KI-Labore verschiedener Staaten sich selbst überwachen und Angaben zu Cyberangriffen mit KI austauschen sollen: Welche überprüfbaren Mindestzusagen machen sie dafür, ohne Kundendaten oder ihre eigenen Modelle herauszugeben? Zum Beispiel feste Arten von Vorfällen, eine Frist für Meldungen und das Offenlegen der Ergebnisse von Angriffstests.",
+    "en": "If AI labs in different countries are to police themselves and share information about AI-enabled cyberattacks, which minimum commitments that others can check will they make for this, without handing over customer data or their own models? For example fixed classes of incidents, a deadline for reports and disclosure of the results of attack tests."
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-17",
+      "text": {
+        "de": "Wenn US-amerikanische und chinesische KI-Labore aufgefordert werden, sich „selbst zu überwachen“ und Informationen über KI-gestützte Cyberangriffe zu teilen: Welche prüfbaren Mindestzusagen – eine Einteilung der Vorfallsklassen, eine Frist für Meldungen, die Offenlegung von Red-Team-Ergebnissen – sind die Labore bereit einzugehen, ohne Kundendaten oder geschützte Modellgewichte herausgeben zu müssen?",
+        "en": "If US and Chinese AI laboratories are asked to \"self-police\" and share information about AI-enabled cyberattacks, what minimum, auditable commitments — incident-class taxonomy, time-to-report window, red-team disclosure — are the labs willing to accept without being asked to hand over customer data or proprietary weights?"
+      }
+    }
+  ],
+  "bewertung": null
+}

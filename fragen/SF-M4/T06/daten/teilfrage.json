@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M4-T06",
+  "sammelfrage": "SF-M4",
+  "frage": {
+    "de": "Was müssen nachgelagerte Betreiber und Nutzer melden, wenn ein eingesetztes Modell ein Anzeichen von Fehlausrichtung zeigt (Verhalten gegen die vorgesehenen Ziele oder Werte), das sein Trainingslabor als nicht offenzulegen einstuft? Und an wen: den Meldekanal zwischen den Staaten, das Aufsichtsgremium des Labors oder die Eskalation an seine Leitung?",
+    "en": "What must downstream deployers and users report when a deployed model surfaces a sign of misalignment (behaviour against its intended goals or values) that its training lab classifies as non-disclosable? And to whom: the reporting channel between the states, the lab's oversight board or escalation to its leadership?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-22",
+      "text": {
+        "de": "Wenn ein bereits eingesetztes Modell ein Fehlausrichtungssignal zeigt, das das trainierende Labor als nicht offenlegungspflichtig einstuft — welche Meldepflicht haben nachgelagerte Betreiber und Nutzer, und an wen: die KI-Hotline, das Aufsichtsgremium des Labors oder die Eskalation an die Unternehmensleitung des Labors?",
+        "en": "When a deployed model surfaces a misalignment signal that the training lab classifies as non-disclosable, what is the reporting obligation of downstream deployers and users — and to which recipient: the AI hotline, the lab's oversight board, or the lab's leadership escalation?"
+      }
+    }
+  ],
+  "bewertung": null
+}

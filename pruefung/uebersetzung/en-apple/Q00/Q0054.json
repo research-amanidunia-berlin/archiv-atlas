@@ -1,0 +1,123 @@
+{
+  "Q005493": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "mit stärkerem Wissen",
+            "englisch": "with stronger knowledge",
+            "besser": "with broader knowledge"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Interne Benchmarks fallen teils besser als bei GPT‑4o, teils schlechter als bei o3-mini (high) aus",
+            "englisch": "Internal benchmarks perform sometimes better than with GPT-4o, sometimes worse than with o3-mini (high)",
+            "besser": "Internal benchmarks sometimes show better results than GPT-4o and sometimes worse results than o3-mini (high)."
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheitsprüfungen",
+            "englisch": "Security tests",
+            "besser": "Safety evaluations"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Behauptungen zu weniger Halluzinationen und besserer Zusammenarbeit stützt der Beitrag auf frühe Tests und eigene Bewertungen.",
+            "englisch": "The claim of fewer hallucinations and better collaboration is supported by the article by early tests and its own evaluations.",
+            "besser": "The article bases its claims of fewer hallucinations and better collaboration on early tests and its own evaluations."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Der Beitrag erklärt sich selbst für veraltet",
+            "englisch": "The article states for itself that it is outdated",
+            "besser": "The article explicitly labels itself as outdated"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Chatmodell",
+            "englisch": "chatbot model",
+            "besser": "chat model"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "eine Gedankenkette zu bilden",
+            "englisch": "forming a thought chain",
+            "besser": "forming a chain of thought"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "überwachten Feinabstimmungen",
+            "englisch": "monitored fine-tuning",
+            "besser": "supervised fine-tuning"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Systemkarte",
+            "englisch": "system chart",
+            "besser": "system card"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "weniger Halluzinationen als Erwartung beziehungsweise Ergebnis eigener früher Tests",
+            "englisch": "fewer hallucinations than expected or observed in the results of the author's own earlier tests",
+            "besser": "The text describes fewer hallucinations as an expectation or as a result of its own earlier tests."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Vorschau für zahlende Nutzungstarife",
+            "englisch": "preview for paid usage rates",
+            "besser": "preview for paid usage tiers"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "den Launch-Beitrag ausdrücklich als veraltet",
+            "englisch": "the launch contribution as outdated",
+            "besser": "the launch post as outdated"
+          }
+        ]
+      }
+    ],
+    "q": "Q005493",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:54:12"
+  }
+}

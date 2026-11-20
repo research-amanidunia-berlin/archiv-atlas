@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T05",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Welche Mechanismen könnten geschaffen werden, damit Standards und Praktiken der KI-Sicherheit in Ländern des Globalen Südens berücksichtigt und nicht allein von wenigen Staaten bestimmt werden?",
+    "en": "What mechanisms could be established to ensure that AI safety standards and practices in Global South countries are taken into account and not determined solely by a few states?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-32",
+      "text": {
+        "de": "Welche Mechanismen könnten geschaffen werden, um sicherzustellen, dass AI-Sicherheitsstandards und -praktiken in Ländern des globalen Südens berücksichtigt werden und nicht ausschließlich von den USA und China bestimmt werden?",
+        "en": "What mechanisms could be established to ensure that AI safety standards and practices in Global South countries are taken into account and not determined solely by the US and China?"
+      }
+    }
+  ],
+  "bewertung": null
+}

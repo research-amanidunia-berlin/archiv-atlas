@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E2-T05",
+  "sammelfrage": "SF-E2",
+  "frage": {
+    "de": "Welchen eigenen Rahmen für die Regelung von KI schlägt ein Staat über die Risiken und Maßnahmen hinaus vor, die er schon benannt hat, und worin unterscheidet er sich von den Vorschlägen der Labore? Gefragt wurde das zu China: zum Artikel von Minister Chen Yixin, im Vergleich mit OpenAIs Vorschlag für Standards und den vier Stufen möglicher Vereinbarungen im Essay „We Must Pace the Frontier“ von Anthropic-Chef Dario Amodei.",
+    "en": "Which governance framework of its own does a state propose for AI beyond the risks and measures it has already named, and how does it differ from the labs' proposals? This was asked about China: Minister Chen Yixin's article, compared with OpenAI's standards proposal and the four levels of possible agreement in the essay “We Must Pace the Frontier” by Anthropic CEO Dario Amodei."
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "facts-06",
+      "text": {
+        "de": "An die chinesische Delegation: Welchen konkreten alternativen Ordnungsrahmen schlägt China vor, der über die in Chen Yixins Beitrag genannten Risiken und Maßnahmen (C13–C26) hinausgeht und sich vom Standards-Vorschlag von OpenAI (ST1–ST33) sowie von Amodeis vier Übereinstimmungsebenen (P45–P48) unterscheidet?",
+        "en": "To China's delegation: Beyond the risks and measures listed in Chen Yixin's article (C13–C26), what specific alternative governance framework does China propose that differs from OpenAI's standards proposal (ST1–ST33) and Amodei's four levels of agreement (P45–P48)?"
+      }
+    }
+  ],
+  "bewertung": null
+}

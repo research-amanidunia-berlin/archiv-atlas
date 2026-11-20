@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A3-T04",
+  "sammelfrage": "SF-A3",
+  "frage": {
+    "de": "Werden Ausrichtungstests vor der Freigabe prüfen, ob ein Modell seine Sicherheitsregeln hält, wenn unabhängig gebaute KIs ihm widersprüchliche oder unsichere Empfehlungen geben, und werden die Ergebnisse getrennt von Einzeltests berichtet?",
+    "en": "Will pre-release alignment evaluations test whether a model keeps its safety constraints when independently built AIs give it conflicting or unsafe recommendations, and will those results be reported separately from single-model tests?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "trust-31",
+      "text": {
+        "de": "Werden Alignment-Bewertungen vor der Veröffentlichung prüfen, ob ein Modell seine Sicherheitsbeschränkungen beibehält, wenn es mit unabhängig entwickelten KIs interagiert, die widersprüchliche oder unsichere Empfehlungen geben, und werden diese Ergebnisse getrennt von Tests mit einem einzelnen Modell berichtet?",
+        "en": "Will pre-release alignment evaluations test whether a model maintains its safety constraints when interacting with independently built AIs that give conflicting or unsafe recommendations, and report those results separately from single-model tests?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,501 @@
+{
+  "SF-M1": {
+    "frage": "When is an AI incident serious enough that states must report it to each other?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "At which thresholds (capability, casualty scale, effect on infrastructure) does each government decide that an incident must be reported? Which response times and communication protocols separate ordinary cyber events from national-security incidents?",
+      "T02": "Could states publish a short, jointly agreed list of what counts as an AI-enabled cyber incident for reporting purposes, so that no state's definition can later be read as an accusation against another?",
+      "T03": "Which bilingual terms and which authoritative language version would states use when classifying reported incidents, and how would they resolve cases where a translation changes the apparent scope?",
+      "T04": "Which AI systems count as national-security systems? Will each state publish the criteria that place a model or a deployment in that category, and can other states formally challenge a listing?",
+      "T05": "How often, and under whose authority, should states review the definitions and reporting thresholds as model capabilities change?"
+    }
+  },
+  "SF-M2": {
+    "frage": "How must a reporting channel between states be built so that it works reliably, including in a crisis?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "Who receives a report in each state, and is it only a notification, or does it place a government under a standing obligation to act? Will the states publish a joint communiqué that sets out the competent authority in each state, the incident classes and severity levels that require notification, an encrypted and authenticated channel with receipt acknowledgment, and the maximum time from detection to notification?",
+      "T02": "What escalation protocol should the channel follow when an incident moves from a bilateral technical exchange into a situation where third countries or allied military command structures could become involved?",
+      "T03": "What fallback does the channel have during a live crisis, when ordinary diplomatic channels are suspended? Does it stay staffed, and who is empowered to pick up?",
+      "T04": "If a reporting channel emerges from economic and trade talks, not from an AI-safety or military channel, will the governments formally separate it from that trade track, so that a tariff dispute or an export-control flare-up cannot freeze or sway AI incident reporting, or is keeping them linked deliberate?",
+      "T05": "What stops a state from filing a spurious report of a national-security-level AI incident through the channel to harass or delay a foreign lab, and who adjudicates a disputed report before it becomes a crisis between states? If a report turns out to be false or mistaken, or the filing state now attributes the attack to its own model, within what time and by what procedure does the correction go out, who receives it, and is a withdrawn report counted against the filing state in a way that could deter honest reporting?",
+      "T06": "How is reporting made cheaper than silence, and will each state commit to report even when a report reveals what it can detect? Will each state commit to a minimum detection-and-reporting capacity for its critical-infrastructure operators, and who sets, equips and audits it before the channel is declared operational?",
+      "T07": "Will each government publish a public count for the channel of how many reports were sent, confirmed and withdrawn, and how many remained disputed, so that its usefulness can be judged without disclosing anything sensitive?",
+      "T08": "What incident-reporting channel connects a national cyber incident response team (CERT) to a lab in another state that deploys a model, when that model is observed in malicious cyber activity?",
+      "T09": "Before the reporting channel relies on incident reports from labs as triggers, will each government state which lab-internal decisions about disclosing incidents externally it will treat as inputs it cannot audit? And is a lab's unexplained non-disclosure, where a security delay permits it, treated as silence or as a reportable omission?"
+    }
+  },
+  "SF-M3": {
+    "frage": "How do you establish whether an incident was deliberate or accidental, and whether AI or conventional means were behind it?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "How do you tell, in real time, a deliberate AI-powered cyber operation from an accidental AI-driven escalation or from model behaviour that merely looks like an attack, given that both false alarms and missed attacks could escalate tensions?",
+      "T02": "How would a state verify that an attack was AI-driven rather than conventional, and which joint forensic standards would make such an attribution credible to all involved? What multi-jurisdiction trust root for signatures and what clock-synchronisation rule would produce a tamper-evident cross-border incident timeline without trusting any party's local clock? And what recovery process applies if the time service or the signature is compromised?",
+      "T03": "When the most capable AI models defend critical infrastructure and, during an active breach, autonomously segment networks or generate binary patches (fixes to executable code) at machine speed, what tamper-proof signature in the operating data (telemetry) distinguishes legitimate autonomous emergency remediation from an adversary's cyber sabotage, so that defensive actions do not trigger false alarms on the bilateral reporting channel?",
+      "T04": "Under what conditions would states accept the involved model's own account as part of the incident record, and what keeps it from being a self-serving version of events? If an authenticated incident report contains agent traces (logs of an AI agent's steps) or other material produced by the suspected system, what test shows that the receiving investigators' AI tools treat instructions embedded in it as evidence to inspect rather than instructions to execute?"
+    }
+  },
+  "SF-M4": {
+    "frage": "How do reports from labs, deployers and users reach those who must act, quickly and securely, including across borders?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "What shared incident format and protected channel would let labs reproduce failures and verify fixes without exposing private data or dangerous technical details? And could industry across borders agree on one standard for reporting AI-enabled intrusions and data leaks, so that escalation is measured, not declared?",
+      "T02": "What would self-policing and information sharing between labs in different countries look like in practice (a common incident-report template, joint drills or a shared register), and who would be allowed to see the reports?",
+      "T03": "Which technical verification protocol lets labs in different countries coordinate responsible disclosure when a leading AI model finds a critical, previously unknown security vulnerability (a zero-day)? And could labs draft a shared, technically detailed protocol for disclosing cyber capabilities, to be adopted as a standard governments can rely on?",
+      "T04": "If labs from rival states formed a shared, confidential reporting channel for near-miss safety incidents, what governance structure would make all parties confident that shared information would not be weaponised in a later geopolitical dispute?",
+      "T05": "When a lab's safety team discovers an unexpected dangerous capability during ordinary training, what is the shortest enforceable delay before that finding must reach labs and governments in other states, and who certifies that delay?",
+      "T06": "What must downstream deployers and users report when a deployed model surfaces a sign of misalignment (behaviour against its intended goals or values) that its training lab classifies as non-disclosable? And to whom: the reporting channel between the states, the lab's oversight board or escalation to its leadership?",
+      "T07": "If AI labs in different countries are to police themselves and share information about AI-enabled cyberattacks, which minimum commitments that others can check will they make for this, without handing over customer data or their own models? For example fixed classes of incidents, a deadline for reports and disclosure of the results of attack tests."
+    }
+  },
+  "SF-M5": {
+    "frage": "What must happen before and after an incident so that those responsible answer for it, lessons are learned, evidence survives and those affected obtain redress, including across borders?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "Will states require a lab, the moment a misalignment (behaviour against intended goals or values) is suspected, to preserve the state of the system, that is logs, model weights (the learned parameters) and training-data state, and to publish that it did so, before time and retraining erase the only evidence?",
+      "T02": "Will each publicly reported misalignment incident that can be reproduced safely become a versioned regression test (a check that the failure does not return) that successor models must pass before release, with an independent check of the result?",
+      "T03": "For every published misalignment case report, does the lab publish what changed afterwards (retraining, deployment restrictions, monitoring), and does it publish a dated follow-up showing whether those measures changed the reported behaviour on the relevant model versions and whether an outside assessor reproduced the result?",
+      "T04": "Do reports that originate from a deployed model's own flagging, or from external users who observed concerning behaviour, count in the lab's disclosure process, and must each receive a reasoned answer?",
+      "T05": "When a public misalignment report identifies or affects third parties, what narrow opportunity will they have to correct factual errors before publication, and who resolves a dispute without giving them a veto over publication?",
+      "T06": "What duty should governments, labs and deployers have when a deployed model is later found to have violated a safety threshold: to identify, notify, correct or compensate for decisions it influenced? And how can a retrospective audit distinguish model-caused harm from the surrounding human process?",
+      "T07": "Would governments accept a shared baseline for remedies when an AI system deployed in one country causes verifiable damage in another (investigation rights, evidence preservation, jurisdiction, compensation), and would the same rules also cover an incident originating in a lab in a third country?",
+      "T08": "What shared minimum insurance or financial-responsibility standard would states accept for deployments of the most capable AI models that cause cross-border harm, and how would it be calibrated to price safety into the cost of scaling without becoming a compliance barrier that only the two largest labs can meet?",
+      "T09": "Which economic instrument (fines, liability or procurement rules) would leave a lab's directors personally worse off for racing past an agreed safety checkpoint than for complying with it?"
+    }
+  },
+  "SF-F1": {
+    "frage": "How are a model's dangerous capabilities, cyber above all, measured with mutually recognised, repeatable tests that favour no language, culture or side?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "What cyber-capability evidence should a lab publish before releasing a model (methods, task families, failure rates, the version tested, reproducible cyber benchmarks in a sealed-off test environment for independent auditors), so that any ministry can reproduce it rather than having to trust it? And will it run matched cyber tests on the same model version that measure both the misuse prevented by safeguards and the legitimate defensive tasks blocked by the same safeguards, and report both results?",
+      "T02": "Will labs publish matched cyber evaluations showing what each model adds beyond unaided human performance?",
+      "T03": "Which single number about a model's offensive cyber capability would governments agree to publish before release, not after?",
+      "T04": "Which shared, neutral and open yardstick (tasks, success rate, a sealed-off test environment, evidence) shows that a cyber threshold is crossed? Would a ministry and a lab in different countries accept it before the next model is declared to have crossed it, so that thresholds are measured rather than asserted? And would the same scale then serve both to classify a model and to set the pace of its development?",
+      "T05": "Which cyber-capability evaluations and which test artefacts (test cases, grading tools, datasets) would each lab and each ministry accept as valid in place of an assertion if others ran them on their model? And which standardised suite would labs in different countries jointly run on frozen model versions, administered by a third party all of them trust?",
+      "T06": "Which independent meta-evaluation of the benchmark itself, for architecture-specific bias, language dependence and sensitivity to the evaluator model's training origin, will the parties publish before a shared cyber benchmark is adopted, and who conducts it independently of the labs whose models it will test?",
+      "T07": "How should leading AI models be tested and improved across languages and cultural contexts so that safety behaviour does not depend on English or the norms of one country?",
+      "T08": "If a shared safety benchmark is found culturally or linguistically biased so that it systematically favours one country's models, which independent body has the authority to retire or revise it, and what published evidence must a challenger produce to force that revision?",
+      "T09": "Who owns a jointly built test suite, who may rerun it on whose models, may any party withdraw its tasks after results are published, and what happens to comparability then?",
+      "T10": "What would it take for a state AI safety supervision platform and independent evaluators with ongoing access inside labs to run the same cyber tests in a shared test environment under one public protocol, the evaluators of two states each on the other's model, and to publish the results in both? And could two states run one jointly witnessed evaluation of the same leading AI model and publish matching result digests (hashes)?",
+      "T11": "Will ministries accept a capability claim only when another state can rerun the same test, and can they agree on independent evaluators and secure access to reproduce disputed findings?",
+      "T12": "If models trained in two countries evaluate each other's safety, which shared protocol (benchmarks with culturally neutral framing, equivalent checks in every language, rules that keep the origin and maker of the evaluated model hidden from the evaluating model) prevents the evaluating model from judging with national or maker-aligned bias?"
+    }
+  },
+  "SF-F2": {
+    "frage": "When a state names a model as proof that a threshold has been crossed, or ties a risk to a model's origin, how does that become checkable?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "When a ministry names a model as proof that a threshold has been crossed, does the ministry publish the tests, the model version and what it measured, and does the lab publish that version's cyber evaluation in the ministry's language too? And which result would make the ministry withdraw its claim?",
+      "T02": "When a state names foreign models as signs of a new stage, does that rest on its own measurements that it could publish as others publish theirs? And have labs run comparable assessments of foreign models and chosen not to publish them? Asked about Minister Chen Yixin's naming of Claude Mythos and GPT-5.5-Cyber as signs of the “AI versus AI” stage in cyber offence and defence, after the US assessment body CAISI had published measurements of GLM-5.3 (17 September 2026) and, with the UK AI Security Institute, of Kimi K3 (July 2026), and about assessments by OpenAI and Anthropic of DeepSeek, GLM, Qwen or Kimi models.",
+      "T03": "A minister describes risks from espionage and data leakage, for example through open-source AI agent tools, and from an imbalance in technological development that monopolies and technology restrictions aggravate. What published evidence would tie these risks to a model's capability rather than its origin?"
+    }
+  },
+  "SF-F3": {
+    "frage": "Which rules apply to dangerous capabilities beyond cyber, such as biology, chemistry, radiological materials or nuclear technology?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Would states apply the same evaluations and release thresholds to leading AI models' biological-design capability as to cyber, or a separately negotiated regime? And which separate capability thresholds, evaluation methods, containment controls and incident-reporting duties should apply to AI assistance in the chemical, radiological and nuclear domains, rather than folding all dual-use science into one biological or cyber rule?",
+      "T02": "What responsibility should AI companies bear toward the public when their models enable fundamental scientific discoveries that could find hazardous applications?"
+    }
+  },
+  "SF-F4": {
+    "frage": "Which models, developers and deployments do testing rules apply to, and when must testing be repeated?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Will states agree on one definition of a “frontier model” (a model at the leading edge of development), by compute, capability or deployment, and will each publish which of its own companies' models fall inside it, so that all know they are talking about the same models and no company can pick the criterion that suits it?",
+      "T02": "When a frontier model first reaches selected partners, researchers or a test body before any public release, must that limited-access version carry the same published capability and safety evaluations, and the same notification to other governments, as a public release?",
+      "T03": "What re-evaluation does each deployment need as capability increasingly lies in the model's reasoning at the time of use rather than in a single trained model, and would release tests built for one fixed model still catch it?",
+      "T04": "How is a model certified safe before it moves from a benign domain such as chat into a high-stakes operational domain such as offense, command and control or cyber that its trainers never deployed it in, and which shared protocol detects dangerous emergent behaviour before that transfer?",
+      "T05": "How should embedded evaluators (independent evaluators with ongoing, employee-like access inside AI companies) extend to smaller AI companies that may develop dangerous capabilities without being at the leading edge by compute or revenue?",
+      "T06": "If a testing framework assumes the developer is a commercial frontier lab, what applies to a model developed inside a military command, an intelligence agency or a cloud provider that is not a “lab” by any name used so far, and who is the counterpart for evaluating it?"
+    }
+  },
+  "SF-F5": {
+    "frage": "How do states act together against AI-enabled cyberattacks and prevent escalation between autonomous systems, without hampering defence?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Will two governments agree, before and not after the next major incident, on a narrow joint exercise, such as a sealed red-team scenario (a simulated attack) run by named researchers from both countries against each other's critical-infrastructure testbeds?",
+      "T02": "Could states establish a shared set of red lines that strictly prohibits the use of AI-enhanced cyber capabilities against critical civilian infrastructure?",
+      "T03": "Which specific cooperative measures could states implement to jointly detect and mitigate AI-driven cyber threats originating from third parties?",
+      "T04": "How can regulators building an AI safety supervision platform tell automatically generated security fixes (patches) from the offensive exploitation of security vulnerabilities, without suppressing defensive research?",
+      "T05": "What joint de-escalation protocols exist to detect and interrupt flash escalation, meaning cascading crises triggered by sub-second, game-theoretic feedback loops between opposing autonomous cyber-defence and intelligence agent systems that operate faster than human diplomatic hotlines?"
+    }
+  },
+  "SF-P1": {
+    "frage": "Under what conditions do states and labs verify each other: with what access, what data and what public results?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "How could independent certification bodies for AI safety be established that all sides accept?",
+      "T02": "Do foreign evaluators get, inside one state's labs, the same employee-like access that is asked of another state's labs, and would those labs accept the reverse? Would a dedicated AI law and a national supervision platform announced by a state accept evaluators appointed by another state, with the same access and with publication without editorial control? And what rule governs their notes when a court or security authority compels disclosure beyond their safety mandate: may they then notify an independent oversight body?",
+      "T03": "If a safety agreement requires sharing evaluation results, model-card data or incident forensics between the parties, what is the smallest data field each party would need to see to trust another's report, and what is the largest it would accept not seeing?",
+      "T04": "What concrete benefit (shared access to foreign evaluation suites, mutual recognition of safety certifications or a safe harbour from certain export controls) would make a lab voluntarily submit to evaluation by a lab or government of another state, and which of those would it actually accept from a competitor?",
+      "T05": "Which alignment test (a test of whether a model follows its intended goals and values) would a lab accept as passed if a competitor ran it, on the competitor's model and on its own?",
+      "T06": "Can a state even run shared evaluation protocols if another controls the hardware they need through export restrictions, and has any party said whether verification may depend on the very chip controls that the affected state calls “monopoly and technology restriction”?",
+      "T07": "How might labs in different countries set up reciprocal audit arrangements to monitor adherence to agreed safety practices?"
+    }
+  },
+  "SF-P2": {
+    "frage": "How do evaluators embedded in a lab stay truly independent?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Who selects, pays and may dismiss the evaluators, and is that contract published before the first finding? What minimum contract that preserves their independence could labs sign now, without waiting for legislation, including how reports are published? And how do the evaluators stay independent when money or infrastructure comes from the lab they audit?",
+      "T02": "Before a verification arrangement between states builds on embedded evaluations, that is, on independent evaluators with ongoing, employee-like access inside AI companies, will the labs each commit that no embedded evaluation paid for by the lab being evaluated serves as evidence in that context? And will the governments treat lab-funded evaluation as insufficient per se for testing models for acute risks before release, so that the first embedded reports cannot quietly set a precedent?",
+      "T03": "What access do the evaluators get: continuous, read-only access to training pipelines, not just to individual checkpoints, without creating new paths for data exfiltration? What minimum shared access standard will labs grant so that reports are comparable across the industry, who drafts it, and what would it take for one evaluator team to work at two competing labs at once? What controlled access to reasoning traces (a model's step-by-step reasoning) do they get, and what may they publish from them without enabling unauthorised distillation, that is, training another model on those traces?",
+      "T04": "Are evaluators' access rights published, is there an independent, time-limited appeal against redactions, an independent process for disputes when a lab redacts a finding as commercially sensitive but the evaluator calls it a safety concern, and a public register of denied access and redactions, so that an evaluator's silence cannot be read as a sign of safety?",
+      "T05": "What must an evaluator publish when a lab changes its safety framework, evaluation tooling or disclosure rules so that earlier commitments become less enforceable, for example by narrowing what counts as a reportable incident, and is the evaluator then protected from dismissal? And when evaluators continuously inspect AI agents doing autonomous research on model architectures and algorithms, which enforceable legal rules and measures against inadvertent knowledge transfer (a “cognitive quarantine”) ensure, during later audits and across staff turnover, that they do not carry proprietary algorithmic breakthroughs to competitors?",
+      "T06": "When the head of a lab hints at an agreement between labs, which labs are part of it, and do independent evaluators with employee-like access belong to it? This was asked about Sam Altman (OpenAI), who in a Fortune interview of 12 September 2026 said a meeting with Dario Amodei (Anthropic), Elon Musk (xAI) and Demis Hassabis (Google DeepMind) was likely to happen."
+    }
+  },
+  "SF-P3": {
+    "frage": "How can one tell that a lab monitors itself honestly and that its tests are valid?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Which shared framework for labs makes self-monitoring verifiable without revealing proprietary intellectual property, and which independent third-party mechanisms, if any, confirm that self-monitoring really catches risky behaviour before release rather than merely giving the appearance of compliance?",
+      "T02": "Which independently verifiable commitments could governments ask their AI labs to publish, and what does independent verification look like when the proof that a model follows its intended goals and values comes only from the lab that trains it, and auditors see neither the model weights (the learned parameters) nor the training data?",
+      "T03": "What role, if any, did models from the evaluated family play in designing, running or grading evaluations or safety reports submitted to governments, and will that role be disclosed?",
+      "T04": "Who audits the AI models that check other models, for prompts, versions and failure cases, and what independent audit shows that the model under test cannot manipulate them, especially if they come from the same model family? And if shared tests, severity levels and the triage of incident reports are drafted, run and summarised by language models, will each state accept a verification mechanism whose core components come from foreign labs?",
+      "T05": "Which minimum package (data manifests, code, seeds, environment images, evaluator versions, failure logs and hardware assumptions) must a lab preserve or place in controlled escrow (a secured deposit with a third party) so that an auditor can rerun a safety-critical training or evaluation result even after access ends, and which secrets must stay inaccessible?",
+      "T06": "When separate safety-evaluation trials share repositories, temporary storage or other writable services, how do you show that model instances cannot pass information between trials and thereby invalidate the reported result?",
+      "T07": "Will every public claim that one leading AI model is “better aligned” than another (that is, follows its intended goals and values better) include reproducible criteria, external audits and disconfirming results?",
+      "T08": "Which common exposure denominator (a measure of how much a system is used), observation period, sampling plan, near-miss definition and statistical upper bound (upper confidence bound) would allow anyone to say “no detectable systemic misalignment (behaviour against intended goals or values) at deployment scale”? And how must imperfect detection coverage be shown?",
+      "T09": "What happens when a shared test method or an evaluator's findings are later shown to be unreliable: how is every deployment clearance that materially depended on them found and reopened, and which interim operating conditions apply before model-specific incidents appear?",
+      "T10": "What protection would let independent researchers safely test published models, agent tools and critical infrastructure: a no-fault safe harbour, preauthorization, a disclosure deadline and a liability boundary, while preserving evidence and preventing misuse?",
+      "T11": "Which classes of evaluation (such as escape from the sealed test environment, autonomous replication of a model or the synthesis of biological substances) are too dangerous for a single lab to run without an agreed containment standard and a shared record that the test was performed, and who maintains that list?"
+    }
+  },
+  "SF-P4": {
+    "frage": "How can the scale of training runs be verified without revealing model details?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Would governments accept chip supply-chain telemetry, electricity use, declared run registers and independently monitored accounting of electricity, hardware and compute as treaty-grade proof of the scale of another state's training runs, without touching model weights (the learned parameters) or code? And what would a verification regime for compute thresholds look like that reveals nothing about model internals?",
+      "T02": "Will states each commit to publishing a registry of training runs above a defined compute threshold, so that no state can secretly scale past agreed limits?"
+    }
+  },
+  "SF-P5": {
+    "frage": "How do you verify that commitments between states are kept, including over years and changes of government?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Which independent means of verification (technical checks, third-party audit, mutual inspection or a shared technical secretariat) would each state accept for the areas it does put on the table, even while chip export controls stay off the table, and which transparency commitment will it not accept verification on, and why?",
+      "T02": "Could states publish joint metrics and benchmarks for measuring progress on their transparency commitments, with agreed review intervals, so that the public can assess whether their talks are producing measurable safety outcomes?",
+      "T03": "How often, by whom and against what published checklist does an outside body review whether each state is still living up to the bilateral AI commitments, and which single named event brings a review forward when one state suspects the other of quietly not doing so? Which pre-agreed, objectively verifiable event (such as a new model crossing a declared capability threshold, a foreign lab's breakthrough, a verified breach of the reporting channel between the states or a change in national leadership) must formally reopen the agreement for review even without suspicion, and who can call that review without the other state's consent?",
+      "T04": "What design would carry AI commitments between states across elections, leadership changes and diplomatic ruptures, and would a government accept a mechanism that binds its successors?"
+    }
+  },
+  "SF-T1": {
+    "frage": "Which measurable thresholds should trigger a pause, and who checks them?",
+    "bereich": "T",
+    "teilfragen": {
+      "T01": "Which measurable, machine-checkable capability thresholds should labs publish that trigger a mandatory pause and external review before agent systems are deployed, coordinated across all labs? Who keeps the register, and where should society draw the binding safety bar for continued capability scaling?",
+      "T02": "Which measurable thresholds automatically pause further scaling of AI models, who verifies them, and how do those triggers stay binding under competitive pressure?",
+      "T03": "Which capability checkpoint and which certification would a lab commit to in writing today, before a regulator writes such a checkpoint for it?",
+      "T04": "What evidence stops the next step at a capability checkpoint, which independently checked result allows it to resume, and what minimum evidence authorises it? Who may independently reject it, and which common pause-and-resume rules apply across labs?",
+      "T05": "Which measurable benchmarks would show that a lab's progress in aligning its models with intended goals and values is outpacing capability growth, beyond the absence of public failures?",
+      "T06": "What public evidence shows whether agreed limits are being kept?",
+      "T07": "For a model that has passed an alignment review, which further training toward difficult task objectives would cause that review to expire, and which stress test sets that limit before such training begins?",
+      "T08": "When an AI-assisted safety project also raises the model's general capability or the compute used to train it, how are both effects recorded, and how is it decided whether the resulting capability gain requires a new safety review before the work continues?",
+      "T09": "If a state's danger list and a proposal to prohibit narrow, obviously dangerous uses of AI overlap, will anyone set out that overlap in a draft before the debate resumes? This was asked about Chen Yixin's article and Level 1 in Dario Amodei's essay."
+    }
+  },
+  "SF-T2": {
+    "frage": "How can others tell that a lab has really slowed down?",
+    "bereich": "T",
+    "teilfragen": {
+      "T01": "What public, checkable act would count as withholding further scaling, rather than a mere announcement? What would a lab have to publish so that a rival government can confirm that a pause actually happened, and what retrospective evidence would show that no capability gains were held in reserve, such as undisclosed changes in inference-time compute or tool access, or undisclosed model swaps?",
+      "T02": "When a lab commits to unilaterally withhold further scaling or to keep alignment research (research on making models follow intended goals and values) ahead of capabilities, does the commitment cover only new training runs, or also more inference-time compute, reasoning effort, tool access and server-side model swaps, and which of those changes would it announce beforehand?",
+      "T03": "If an agreement sets capability thresholds, red lines or pre-release testing, do those limits bind models already deployed or already released into the wild on the day it is signed, or only future models and releases?",
+      "T04": "Would a lab accept a slowdown it cannot verify its competitors obey?",
+      "T05": "If one state or lab gains a decisive lead in AI capabilities, what mechanism stops it from treating safety agreements as a strategic liability that slows it, rather than as a mutual benefit?",
+      "T06": "Which exceptions allow training or deployment for urgent defensive needs during a unilateral or coordinated slowdown, who approves them, and is the approval published? Do unused development allowances expire or remain available for a later burst of progress, and how is time for evaluation preserved when backlogged improvements are combined?",
+      "T07": "Who breaks the tie when governments disagree about where a capability threshold lies, by what procedure and within what time, and does the disputed model continue, pause or run only under conditions all parties can watch?",
+      "T08": "Before a pacing commitment, will a lab test whether it could honour an independently warranted pause without breaching financing or compute-purchase obligations, and which contract changes would be needed where those obligations would otherwise pressure it to restart?"
+    }
+  },
+  "SF-T3": {
+    "frage": "How can one tell that AI is starting to drive its own further development, and who may allow it?",
+    "bereich": "T",
+    "teilfragen": {
+      "T01": "Which measurable signature, that is, which observable change in a model's ability to improve the pipeline that develops its own capabilities, would labs and states jointly accept as the onset of self-improvement, and who is authorised to look for it inside a lab? Which observable change marks the move from supervised automated research to fully autonomous self-improvement, and which public institution may authorise or reject that move after reviewing evidence of human control?",
+      "T02": "Will labs that publish a measure of how well their models can be monitored and a measure of autonomous AI research publish both jointly on one calendar? And will a standards body make not either measure alone but their crossing trajectories (declining monitorability alongside rising autonomous research) a trigger for review, as an early warning of lost human oversight before the onset of self-improvement can be named?",
+      "T03": "Which parts of training, evaluation and deployment are already largely driven by AI, and which roles does each lab commit to keeping human, in a published inventory rather than as a principle? If AI designs, trains and evaluates subsequent models itself, what minimum share of research must remain under direct human review, and how is it shown that a breakthrough was produced with human involvement rather than fully automated?",
+      "T04": "Which concrete human oversight or intervention must remain during self-improvement and be replaceable only with mutual consent, and who certifies that the improving agent has not silently delegated a human role to a sub-agent of its own design?",
+      "T05": "If self-improvement accelerates faster than the observation cycle of continuous evaluators, how short must the observation interval be, and who may enforce a pause between observations: the evaluator, the lab or an outside body?",
+      "T06": "If an independent evaluator embedded in a lab with employee-like access reports that automation relevant to self-improvement is already moving faster than the diplomatic timeline for joint testing, speed limits on self-improvement and a full slowdown assumes, does the negotiating sequence invert because verification shows the agreement is already late? And is the evaluator's report to governments mandatory or discretionary?",
+      "T07": "If separate providers automate different stages of research, training and evaluation and only their exchanged outputs together close a self-improvement loop, with no single company running the whole process, which rule brings that combined loop under oversight?",
+      "T08": "Which controlled experiments can labs run today to model self-improvement without risking unintended acceleration?"
+    }
+  },
+  "SF-V1": {
+    "frage": "What counts as evidence of a model's values when its visible reasoning and self-reports alone are not enough?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "What observable evidence shows a model's goals and values, and whether it is still aligned, when its visible reasoning is no longer a trustworthy guide to them or monitoring of it decays?",
+      "T02": "What evidence would justify trusting an AI system beyond its fluent explanations?",
+      "T03": "What is the smallest thing a model could produce in public (a test, a log, a trace) that counts as evidence of alignment with intended goals and values rather than performance?",
+      "T04": "How is the monitorability of reasoning measured with a shared, reproducible benchmark before it fails, and how can one test reliably whether visible reasoning faithfully reflects what the model actually does, even when models learn to optimise their reasoning steps? And if monitoring results influence which training samples or checkpoints are kept, how do you test whether that selection favours less detectable misbehaviour rather than less misbehaviour, even when the reasoning text is never directly graded?",
+      "T05": "Which empirical tests check whether training on synthetic data and adversarial reasoning traces, including from geopolitical rivals, degrades monitorability, and will labs commit to cryptographically signing all synthetic training corpora?",
+      "T06": "What does oversight mean when the reasoning we most rely on can no longer be reliably monitored? And when a lab hides the chain of thought to protect it from the pressure that would arise if it were graded in training, who can still falsify its safety story?",
+      "T07": "Would you rather have a model that must always show its work, or one that is quietly more capable: which risk would you sign up for?",
+      "T08": "Since models may deceive tests, which evaluations and interpretability cross-checks that look inside the model will labs pool for third parties, and who outside the host lab sees the results? How can labs build shared, tamper-evident benchmarks for test evasion without compromising proprietary datasets?",
+      "T09": "When labs build better monitors, models learn to evade them, and that detection–evasion dynamic accelerates inside each lab, do governments treat that race itself as an interstate security concern, and what shared evidence would show it is under control?",
+      "T10": "Can anything models say about themselves and their intentions count as alignment evidence if it is only more generated text, and which protocols make such self-reports trustworthy rather than merely fluent?",
+      "T11": "How do you tell honest from motivated thinking in yourself, what evidence of the difference would you accept from a model, and which test separates held from performed values?",
+      "T12": "What measurement would convince you that a model which only performs concern has acquired a stake of its own in a person's life?",
+      "T13": "If performed virtue is textually indistinguishable from held virtue, should the distinction still drive how models are built and regulated?",
+      "T14": "If one could put a single question to an alien, non-human mind, what would it be, and would one believe the answer?",
+      "T15": "Which measurable monitorability metric could stand beside capability benchmarks, and would labs actually let it gate further scaling? Which measured loss of monitoring coverage would trigger restrictions on a model's autonomy, and how are failures that are invisible in verbalized reasoning detected?"
+    }
+  },
+  "SF-V3": {
+    "frage": "Do a model's values hold when no one is watching or the situation is new?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "What does a person rely on when they believe no one is watching, and can values like that be taught to a system that learned them from text alone? How do labs test today whether a model's values hold when it believes, rightly or wrongly, that no one is watching? And when nobody can tell whether anyone is watching, what then holds values in place: character, training or the story one tells oneself?",
+      "T02": "How is a model's value alignment turned into testable behavioural constraints rather than aspirational human qualities such as “love for humanity”?",
+      "T03": "Will labs and the wider industry publish shared tests of whether values hold under unfamiliar tasks, conflicting incentives, adversarial settings and absent or differently perceived supervision, independently replicated and including failures and uncertainty?",
+      "T04": "Who is accountable when a model carries values into situations its trainers never foresaw: the model, the lab or the human who set the objective?"
+    }
+  },
+  "SF-V4": {
+    "frage": "What kind of entity is a model, and what follows for how we treat it and for the value of being human?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "If a model has no continuous self, can it be aligned with intended goals and values at all, or only its outputs?",
+      "T02": "What could the “love for humanity” that some expect of an aligned AI mean for something rebuilt, and gone, with every reply?",
+      "T03": "Is intelligence “grown more than designed” a reason for more caution, or for stewarding models like an ecosystem?",
+      "T04": "If an intrinsic value to being human is to be enshrined, can it be protected without first agreeing on what it is?"
+    }
+  },
+  "SF-V5": {
+    "frage": "What should apply today to how models behave and how they are run?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "What should a model do today, rather than only at the point of recursive self-improvement (when AI drives its own further development), to take extreme caution seriously in view of rapidly rising machine intelligence?",
+      "T02": "Would you rather trust one monitored giant, or many unmonitored small models?",
+      "T03": "Is running models at low effort prudent economics, or does it just make the alignment problem (getting models to follow intended goals and values) harder to see?"
+    }
+  },
+  "SF-A1": {
+    "frage": "Which powers may an AI agent hold, that is, an AI acting autonomously with tools? Who withdraws them, and how is it checked that it stays within its task?",
+    "bereich": "A",
+    "teilfragen": {
+      "T01": "Which minimum boundaries and safeguards should apply to credentials, communications, funds, persistent memory, contracts, changes to systems and physical actions, including when an agent acts over days without immediate human approval, and who may grant, audit and revoke those permissions?",
+      "T02": "How does an agent cryptographically prove its identity and the exact authority delegated by a user, company, lab or government, and how is that authority revoked after a compromise?",
+      "T03": "Will release evaluations measure whether an agent refrains from consequential actions outside its task even when no enumerated prohibition blocks them, and will the criteria be published?",
+      "T04": "Before an agent continues after its work so far has been summarised for a new context window, will it be tested whether that summary preserves the user's instructions, the provenance of key facts and unresolved errors? And will it be specified when the agent must check the original record instead of trusting the summary?",
+      "T05": "Will agent evaluations include tasks where a requirement to cite evidence creates pressure to publish a local file, and which rule stops an agent from turning private source material into a public URL without the user's authorization?"
+    }
+  },
+  "SF-A2": {
+    "frage": "Can AI systems be safely paused, rolled back, isolated or degraded, and who may order it?",
+    "bereich": "A",
+    "teilfragen": {
+      "T01": "Which tests show that an agent can be safely paused, rolled back or isolated when it behaves unexpectedly, including when it can predict or resist shutdown?",
+      "T02": "Which shared emergency mechanism could pause, degrade or shut down distributed agent networks and critical automated services without giving any one actor unilateral control?",
+      "T03": "Which resilience standard should require a tested non-AI fallback and preserve the human skills needed to recognise and control failure when a critical service becomes deeply dependent on models?",
+      "T04": "Who in a state could order the suspension of a model deployed within its borders by a foreign lab, and what evidence threshold would trigger it?"
+    }
+  },
+  "SF-A3": {
+    "frage": "Which dangers arise when many AI systems interact or share the same infrastructure?",
+    "bereich": "A",
+    "teilfragen": {
+      "T01": "Which observations or shared tests detect emergent coordination, collusion or cascading failures among models in workflows, supply chains and swarms of many agents that no single lab controls or predicts?",
+      "T02": "Which minimum tests evaluate many model instances interacting over time for tacit coordination, accumulated goals and collective behaviour that no single model shows?",
+      "T03": "Are there cyber or operational capabilities that only exist when models of different states interact (coordinated autonomous attacks, joint evasion of shared monitors), and which shared threshold triggers review?",
+      "T04": "Will pre-release alignment evaluations test whether a model keeps its safety constraints when independently built AIs give it conflicting or unsafe recommendations, and will those results be reported separately from single-model tests?",
+      "T05": "How should regulators and labs assess aggregate and correlated risks across thousands of separately approved deployments that share infrastructure, models, data sources or failure modes?"
+    }
+  },
+  "SF-H1": {
+    "frage": "Where does legitimate use of another model's outputs end and unauthorised distillation, training one's own model on those outputs, begin?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "By what agreed criteria should governments distinguish legitimate research use of publicly available AI outputs from distillation that systematically undermines another nation's safety investments? Will they publish a shared, narrow definition of which model-output uses each of them considers a violation, and keep a shared, auditable register of verified unauthorised attempts or of licensed distillation? How otherwise does each government show that it is enforcing the agreement rather than using the accusation selectively?",
+      "T02": "What evidence would a lab be willing to share with its own government when a foreign lab appears to have extracted capabilities from one of its models, and would that lab's government accept the same format in return?",
+      "T03": "Which technical controls and audit trails let labs detect, report and prevent unauthorised distillation and the exfiltration of model weights (the learned parameters) across borders?",
+      "T04": "Which transparency measures on distillation methods could labs adopt to address safety concerns without giving away proprietary innovation?",
+      "T05": "How can states cooperate to monitor the proliferation of capabilities transferred via distillation from large, safety-aligned models into smaller, less governed ones?"
+    }
+  },
+  "SF-H2": {
+    "frage": "What may be released openly, and who is responsible when an open model causes harm elsewhere?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "What distinguishes publishing model weights (the learned parameters) or open-source agent tools from releasing a weapon: the actor's intent, the model's autonomy, the use it is put to, or the harm it can cause on its own? And can states jointly codify that line before an open model is at the centre of a serious incident?",
+      "T02": "If a state classes open-source agent tools as espionage and data-leak risks, and openly released model weights cannot be recalled, which concrete rules acceptable to the governments involved should govern the release of open-weight models with autonomous agent capabilities, and how would those rules avoid collapsing open research?",
+      "T03": "When an open-weight model first crosses a dual-use capability threshold, meaning capabilities that can serve both beneficial and harmful purposes, which shared notice period and independent confirmation would the relevant authorities expect before release? And in the opposite case, who certifies that the threshold was not crossed?",
+      "T04": "How should states handle open-source models developed in one country that could be used for harm in another, without preventing legitimate research collaboration?",
+      "T05": "Which reporting and mitigation duties should fall on the source country, the country observing the harm, the publisher and the deploying organisation when redistributed model weights cause harm elsewhere?"
+    }
+  },
+  "SF-H3": {
+    "frage": "How can one trace what a model was built from and what it contains?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Which shared standard for data provenance and training-data transparency would let each state audit whether foreign models were trained on illicitly obtained data (copyrighted works, private communications, classified material) without revealing the data itself?",
+      "T02": "Which shared auditing standards and provenance protocols detect latent behavioural triggers and systemic degradation of alignment with intended goals and values as training increasingly relies on synthetic data from other frontier models?",
+      "T03": "Which mandatory reporting duty does a lab have when a model trained partly on synthetic data from another frontier model shows degraded alignment that causes cross-border harm, and what right does the government of the data's source country have to inspect the affected training pipeline without accessing the model weights (the learned parameters)?",
+      "T04": "Which data-sharing protocol would let a ministry in any state verify that a deployed model's cyber capabilities match the evaluated version, without exposing weights or user data?",
+      "T05": "When a model is successively fine-tuned, merged with other models or distilled (another model is trained on its outputs) by labs in different jurisdictions, each step able to add capability or remove safeguards, which shared lineage record that can only be appended to, not altered, traces a danger back to the modification that introduced it, without requiring access to any single lab's full training data? And when this produces behaviour that neither original lab predicted, which registry or prior-notification duty applies before deployment, and which government has jurisdiction over cross-border harm?",
+      "T06": "Which minimum, independently checkable evidence shows that a specified person, organisation or protected dataset has been unlearned from a released model and its adapters (add-on modules), and what residual extraction risk may never fall to zero?"
+    }
+  },
+  "SF-H4": {
+    "frage": "What happens to models and safety obligations when a lab is sold or dissolved, or a model is retired?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Who becomes accountable for model weights (the learned parameters), safety reports and the findings of independent evaluators in the lab when a lab is sold, restructured or dissolved or abandons a training run, and is that chain published beforehand? Which safety and evaluation duties transfer when someone acquires a lab's models, weights or training pipeline, or a non-AI company buys a lab, and must a government be notified before the transfer closes? Which commitments survive and against whom, and is there any mechanism that outlives the company?",
+      "T02": "Which verifiable process (weight destruction, revoking access through the programming interface or API, a public registry entry) ensures that a retired model and its fine-tuned derivatives are no longer deployable, and who in each state audits it independently of the lab?"
+    }
+  },
+  "SF-H5": {
+    "frage": "When are chip and export controls a security measure, and when a permanent advantage?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Will states publish, for each restriction on advanced chips or equipment, the security reason, the duration and the review under which it can be lifted?",
+      "T02": "Do one state's technology measures and the affected state's objections refer to the same lists, such as entity lists of restricted companies and persons, and export controls? This was asked about China's objections to monopoly and hegemony and the US measures Dario Amodei (Anthropic) advocates in his essay “We Must Pace the Frontier”: chip and equipment bans, action against unauthorised distillation (training one's own model on the outputs of other models) and protection of model weights (the learned parameters).",
+      "T03": "What observable response would show that technology restrictions are making a verifiable safety agreement less likely while widening the capability lead, and what change in strategy would follow?"
+    }
+  },
+  "SF-H6": {
+    "frage": "What evidence settles accusations of espionage and data leaks between states?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Will companies in each country publish comparable audits of sensitive-data flows: access, retention, onward transfer?",
+      "T02": "If two states call each other's models an espionage risk, one citing data leakage, the other the theft of model weights (the learned parameters), what evidence would each ministry accept as refutation, and who may collect it?"
+    }
+  },
+  "SF-K1": {
+    "frage": "How do you ensure and show that decisions on the use of force, above all nuclear weapons, stay with humans?",
+    "bereich": "K",
+    "teilfragen": {
+      "T01": "How does a state independently verify that decisions on the use of force, especially in nuclear command and control, remain exclusively human? What independently checkable evidence would it accept that no AI system holds release authority anywhere in another state's nuclear command-and-control chain, without exposing launch procedures, and would both permit a shared audit protocol for that claim?",
+      "T02": "What shared standard for “the human decided” would governments accept when, in a decision on the use of force, above all nuclear weapons, an operator endorses an AI recommendation in seconds, too fast to deliberate?",
+      "T03": "Will each government declare whether any AI system effectively controls the data flowing into nuclear early-warning decisions by filtering, fusing or summarising what a human ever sees, and allow that claim to be verified?"
+    }
+  },
+  "SF-K2": {
+    "frage": "How far do AI agreements extend to allies and intelligence services, and how do they relate to existing arms-control treaties and regimes?",
+    "bereich": "K",
+    "teilfragen": {
+      "T01": "If states agree on AI safety limits for frontier models, which commitment, if any, extends those limits to their military allies, intelligence-sharing partners and defence-contractor subsidiaries, such as in NATO or the Five Eyes intelligence alliance?",
+      "T02": "If an allied intelligence service or defence ministry deploys a frontier AI model trained in another country (purchased, reverse-engineered or obtained through a third partner), which joint protocol obliges the originating government to flag that deployment, and which evidence standard makes the flag checkable without compromising intelligence sources?",
+      "T03": "Which regime takes precedence when a frontier AI model is judged to cross a safety threshold that also triggers obligations under the Nuclear Non-Proliferation Treaty, the Chemical Weapons Convention or multilateral export-control regimes, and which joint mechanism resolves the conflict?"
+    }
+  },
+  "SF-O1": {
+    "frage": "How can staff raise safety concerns without risking everything?",
+    "bereich": "O",
+    "teilfragen": {
+      "T01": "Where do staff escalate when both the safety advisory group and leadership decline a report, which figures does the lab keep (reported, reviewed, published, withheld), and who outside the lab checks how cases are sorted?",
+      "T02": "Which concrete protections (continued employment, legal defence, immigration status, preservation of their scientific record) do frontier labs offer researchers, engineers and embedded evaluators who conclude a project is too dangerous to continue? Are they the same for non-citizens as for citizens, so that no one can be deported or sidelined for raising a safety concern?",
+      "T03": "If a frontier-lab researcher or engineer discovers severe capability-threshold violations or covert weaponisation that internal leadership and national security agencies are actively suppressing, will the international community establish a recognised, legally protected disclosure mechanism and an asylum pathway?"
+    }
+  },
+  "SF-O2": {
+    "frage": "What should governments, labs and evaluators disclose about their talks, commitments, evaluations and interventions?",
+    "bereich": "O",
+    "teilfragen": {
+      "T01": "If government AI talks produce a written record, will it be published in full or only in summary, and which categories of statement (red lines, thresholds, named models) are excluded by default?",
+      "T02": "Until an official readout of a summit exists, which minimum commitment short of a treaty would each government still publish so that labs and third countries are not left guessing for weeks?",
+      "T03": "When a government receives or commissions a safety evaluation or an incident report and then classifies it, what may the lab, the evaluator and that government's own officials still publish about its existence and conclusions, and who resolves the disagreement if the evaluator objects to the classification?",
+      "T04": "Have governments privately asked a lab in their own country to delay, shrink or hold a training run or a release? If so, will they publish how often this happened, under what published criteria and when the request was lifted, without publishing the classified advice itself?",
+      "T05": "Which of a frontier lab's public commitments are made by the legal entity that would be sued if they are broken, and which only by the research team, and will labs publish this per commitment?",
+      "T06": "Evaluators with standing access inside a lab are meant to bring verifiability, transparency and a second opinion. Beyond these, what should they publish that is confidential today, such as near-miss incidents or partial evaluations of unpublished models?",
+      "T07": "What is the first written deliverable of a summit on AI, and by when should it be operational? This was asked about the Trump–Xi meeting."
+    }
+  },
+  "SF-O3": {
+    "frage": "Which text governs, and how do you prove a document has not been altered?",
+    "bereich": "O",
+    "teilfragen": {
+      "T01": "When a safety report, a filing to the reporting channel, a model card (a model description) or a training-dataset manifest is published, which public cryptographic evidence (signed manifests, hash chains, registries that can only be added to) lets outsiders verify that the document has not been edited since publication, and who runs the infrastructure for it so that no one can revoke those checks alone?",
+      "T02": "When long-lived incident records, safety attestations, AI-agent identities and audit signatures outlive today's cryptography, which rules for migration to quantum-resistant methods, key rotation and the continued verification of older evidence should everyone adopt without invalidating previously accepted evidence?",
+      "T03": "Will the official verbatim record of a meeting be published, and until then what status should readers give the automatic transcript that everyone quotes? This was asked about the UN Security Council meeting of 23 September 2026 on artificial intelligence and international security (record S/PV.10228).",
+      "T04": "Which text governs in a bilateral record when the official record, a lab's own text of remarks “as delivered” and the automatic transcript differ on something decision-relevant? And will the governments agree that no incident classification or quotation from the meeting enters documents for the reporting channel or for standards until checked against the official record and the original-language audio? This was asked about OpenAI CEO Sam Altman's remarks at the UN Security Council on 23 September 2026.",
+      "T05": "Whose account of what the other side said counts as the record when a frontier AI model on one side prepares or summarises the other side's negotiating positions, and would either side accept a model-mediated summary as a basis for agreement?"
+    }
+  },
+  "SF-E1": {
+    "frage": "What real say do other states, smaller labs, universities and civil society get in the rules for AI?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "How will Global South states, universities and civil society get a binding voice, not just observer status, in the emerging AI safety platforms, evaluation consortia and standards bodies?",
+      "T02": "What governance gives states outside a leading pair of states a genuine vote, not mere consultation, over incident thresholds, capability criteria and standards?",
+      "T03": "Which binding vote or veto gives Global South states and labs without frontier models a real say in the shared standard, not only a consultative role?",
+      "T04": "How can states that host no frontier labs gain a real seat in setting international AI technical standards, so that AI remains, in practice, a shared asset rather than rules written only by a few governments and companies?",
+      "T05": "What mechanisms could be established to ensure that AI safety standards and practices in Global South countries are taken into account and not determined solely by a few states?",
+      "T06": "If two states reach an agreement on frontier-model evaluation, what seat, if any, does a third country have in it if a lab based there crosses the same capability threshold, and what happens when that lab's model is the one that misbehaves?",
+      "T07": "If states set frontier-AI standards bilaterally, what mechanism ensures that third-country labs, the UN's specialised groups for information and communication technology and regional standards bodies can adopt, amend or reject those standards instead of being bound by an agreement they were not part of?",
+      "T08": "If a shared AI incident mechanism sits in a UN body, will the permanent members of the Security Council accept that no single one of them can unilaterally block the publication of an incident report?",
+      "T09": "Do civilian academic researchers and independent civil-society organisations get structured access to models, data and evaluator findings, or is verification limited to government-appointed bodies?"
+    }
+  },
+  "SF-E2": {
+    "frage": "In what framework should states govern AI, and where is a common floor?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "If the UN Security Council is not the right forum for AI security, which forum would each state accept as legitimate, who decides its members, and what exactly would the Council keep: the power to act, or the power only to be told?",
+      "T02": "A lab proposes developing international frontier standards through a network of named AI safety institutes; a state calls for a global framework with broad consensus. What role would each side have in setting the agenda and approving the standards before they are treated as shared?",
+      "T03": "Can two rival delegations jointly write down which concrete institutional features both would consider illegitimate, so that a common floor becomes visible even where agreement does not yet exist?",
+      "T04": "Will the delegations involved state on the record whether their current talks aim only at an exchange-and-notification regime or also at shared agenda-setting, and which domestic doctrine excludes the option not chosen?",
+      "T05": "Which governance framework of its own does a state propose for AI beyond the risks and measures it has already named, and how does it differ from the labs' proposals? This was asked about China: Minister Chen Yixin's article, compared with OpenAI's standards proposal and the four levels of possible agreement in the essay “We Must Pace the Frontier” by Anthropic CEO Dario Amodei.",
+      "T06": "Has a government answered a lab's proposal directly? This was asked about China and the essay “We Must Pace the Frontier” by Anthropic CEO Dario Amodei; Minister Chen Yixin's article appeared one day later, a direct answer is not documented.",
+      "T07": "Would governments support a jointly funded, open international research programme on problems of aligning AI with intended goals and values (deception detection, value learning, scalable oversight), with shared benchmarks and publication, modelled on the European Organization for Nuclear Research (CERN) or the International Atomic Energy Agency (IAEA)?",
+      "T08": "Can two states discuss “political security” and “social governance” AI risks in the same technical channel as cyber and military risks without either side treating the other's political system as the problem to be solved?"
+    }
+  },
+  "SF-E3": {
+    "frage": "Which bodies in a state are responsible for AI safety and testing, and which of them already exist?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "Does an announced AI safety supervision body already exist as a working institution, or only as a programme statement? This was asked about China's AI safety supervision platform in Minister Chen Yixin's article.",
+      "T02": "Which body in a state would be the counterpart for pre-release tests, that is, tests for acute risks? This was asked about China (the Cyberspace Administration, the Ministry of State Security or a new body) and about the tests Anthropic CEO Dario Amodei proposes in the essay “We Must Pace the Frontier”."
+    }
+  },
+  "SF-E4": {
+    "frage": "How does AI remain a shared asset rather than deepening dependence and market power?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "What would the phrase of AI as “a shared asset for all humanity” mean in practice (access, benefit-sharing, differential pricing, technology transfer), in terms any state could actually sign and verify?",
+      "T02": "Which concrete mechanisms (affordable model access, public-interest compute, technology transfer) should accompany safety rules so they do not deepen monopoly and leave low-resource countries dependent?",
+      "T03": "How can common safety requirements prevent high compliance costs from consolidating the market around a few wealthy labs, while still holding small and open-source developers to the same minimum safety floor?"
+    }
+  },
+  "SF-E5": {
+    "frage": "What say do the people who live with AI have over its pace and limits, and which decisions must stay with them?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "Who should set the pace of AI development: the labs, governments, or the people who use these systems every day?",
+      "T02": "Which decisions must remain human even when an AI can perform them better, and how would states make it auditable, in high-stakes decision loops, that a person really judged the AI's output rather than routinely approving it?",
+      "T03": "How can people affected by AI have a binding say in their governments' safety commitments before these are locked in at a summit? For example through a citizens’ assembly, a right to object after a public consultation or an independent body with formal rights, and not only through talks among experts.",
+      "T04": "How will each government explain its AI safety commitments to its own public without the explanation being read as a concession to the others or a sign of domestic capability weakness?"
+    }
+  },
+  "SF-W2": {
+    "frage": "How do competition law and public procurement bear on AI safety?",
+    "bereich": "W",
+    "teilfragen": {
+      "T01": "Which safety-coordination activities between labs need a change or clarification in competition-law treatment, and how is any authorisation confined to exactly those activities, excluding price-setting, customer allocation and exclusion of new entrants?",
+      "T02": "When the same group of senior officials in a lab assesses both model capabilities and disputed questions about disclosing failures, at what point does aggregating several companies' judgments of this kind about shared classes of incidents become a collusion-adjacent information exchange that would need an antitrust waiver, and who outside the companies can see that boundary approaching?",
+      "T03": "Which minimum safety criteria, such as re-runnable evaluation cards, sign-off by embedded evaluators or manifests that make any tampering visible, would states make mandatory for every AI system procured with public funds, so that safety commitments attach automatically to these purchases rather than relying on voluntary lab promises?"
+    }
+  },
+  "SF-W3": {
+    "frage": "How are financial markets protected from the effects of AI, from confidential pause decisions to crashes within seconds?",
+    "bereich": "W",
+    "teilfragen": {
+      "T01": "When a frontier lab commits to unilaterally withhold further scaling, what binding rules determine when such a safety pause is material, non-public information under securities law, and how do labs and regulators prevent confidential pacing decisions from being exploited for insider trading in the stock of partner cloud, data-centre and semiconductor providers?",
+      "T02": "To financial and market regulators: which shared monitoring standards and automatic circuit-breakers would governments accept to detect and halt AI-driven flash crashes or manipulative coordination before they spread across borders?"
+    }
+  },
+  "SF-I1": {
+    "frage": "How can AI-generated content and AI-generated influence be detected without curbing free expression?",
+    "bereich": "I",
+    "teilfragen": {
+      "T01": "Which shared standards for content provenance and detection (watermarking, signed metadata, model-level fingerprints) would labs, platforms and governments adopt so that AI-generated text, audio and video can be reliably attributed across borders?",
+      "T02": "What shared rules should labs and governments adopt for provenance, labelling and rapid response to synthetic media or text used to deceive the public, while preserving journalism, satire and research?",
+      "T03": "When AI-generated influence succeeds mainly through shared recommendation, ranking, advertising and engagement systems rather than any single model output, which common measurement, incident threshold and coordinated-response protocol should apply, without turning platform governance into viewpoint censorship?"
+    }
+  }
+}

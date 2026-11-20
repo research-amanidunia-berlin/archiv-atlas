@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T07",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Wenn Staaten Standards für Spitzen-KI bilateral festlegen: Welcher Mechanismus stellt sicher, dass Labore aus Drittstaaten sowie die Fachgruppen der UN für Informations- und Kommunikationstechnik und regionale Normungsgremien diese Standards übernehmen, ändern oder ablehnen können, statt an ein Abkommen gebunden zu sein, an dem sie nicht beteiligt waren?",
+    "en": "If states set frontier-AI standards bilaterally, what mechanism ensures that third-country labs, the UN's specialised groups for information and communication technology and regional standards bodies can adopt, amend or reject those standards instead of being bound by an agreement they were not part of?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-35",
+      "text": {
+        "de": "Wenn die USA und China Frontier-KI-Standards bilateral festlegen — welcher Mechanismus stellt sicher, dass Labore in Drittstaaten, die IKT-Fachgruppen der UN und regionale Normungsgremien diese Standards übernehmen, ändern oder ablehnen können — statt an ein bilaterales Abkommen gebunden zu sein, an dem sie nicht beteiligt waren?",
+        "en": "If the US and China set frontier-AI standards bilaterally, what mechanism ensures that third-country labs, the UN's specialized ICT groups, and regional standards bodies can adopt, amend, or reject those standards — rather than being bound by a bilateral agreement they were not in?"
+      }
+    }
+  ],
+  "bewertung": null
+}

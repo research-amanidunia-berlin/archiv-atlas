@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H3-T05",
+  "sammelfrage": "SF-H3",
+  "frage": {
+    "de": "Wenn ein Modell nacheinander von Laboren in verschiedenen Rechtsordnungen feinjustiert, mit anderen Modellen zusammengeführt oder destilliert wird (ein weiteres Modell wird mit seinen Ausgaben trainiert) und jede Stufe Fähigkeiten hinzufügen oder Schutzvorkehrungen entfernen kann: Welches gemeinsame Herkunftsregister, das sich nur ergänzen und nicht ändern lässt, verfolgt eine Gefahr bis zu der Änderung zurück, die sie brachte, ohne die vollständigen Trainingsdaten eines einzelnen Labors zu verlangen? Und wenn dabei ein Verhalten entsteht, das keines der Ursprungslabore vorhergesehen hat: Welche Register- oder Vorabmeldepflicht gilt vor dem Einsatz, und welcher Staat ist bei grenzüberschreitendem Schaden zuständig?",
+    "en": "When a model is successively fine-tuned, merged with other models or distilled (another model is trained on its outputs) by labs in different jurisdictions, each step able to add capability or remove safeguards, which shared lineage record that can only be appended to, not altered, traces a danger back to the modification that introduced it, without requiring access to any single lab's full training data? And when this produces behaviour that neither original lab predicted, which registry or prior-notification duty applies before deployment, and which government has jurisdiction over cross-border harm?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-51",
+      "text": {
+        "de": "An beide Regierungen und die Frontier-Labore: Wenn ein Frontier-Modell mit einem anderen Modell aus einer anderen Rechtsordnung feinabgestimmt oder zusammengeführt wird und dabei ein System entsteht, dessen Verhalten keines der beiden ursprünglichen Labore vorhergesagt hat — welches gemeinsame Register oder welche Pflicht zur vorherigen Meldung gilt, bevor das zusammengeführte System eingesetzt wird, und welche Regierung ist zuständig, wenn es grenzüberschreitenden Schaden verursacht?",
+        "en": "To both governments and frontier labs: when a frontier model is fine-tuned or merged with another model from a different jurisdiction, producing a system whose behavior neither original lab predicted, what shared registry or prior-notification duty applies before the merged system is deployed, and which government has jurisdiction when it causes cross-border harm?"
+      }
+    },
+    {
+      "id": "origin-30",
+      "text": {
+        "de": "An beide Regierungen, Frontier-Labore und eingebettete Prüfer: Wenn ein Frontier-Modell nacheinander durch mehrere unabhängige Labore in verschiedenen Rechtsordnungen feinabgestimmt, zusammengeführt oder destilliert wird – wobei jedes Fähigkeiten hinzufügt oder Schutzvorkehrungen entfernt –, welches gemeinsame, nur erweiterbare Herkunftsprotokoll würde es beiden Seiten erlauben, ein gefährliches Verhalten auf die konkrete Änderung zurückzuführen, die es eingeführt hat, ohne Zugang zu den vollständigen Trainingsdaten eines einzelnen Labors zu verlangen?",
+        "en": "To both governments, frontier labs, and embedded evaluators: When a frontier model is successively fine-tuned, merged, or distilled through multiple independent labs in different jurisdictions — each adding capability or removing safeguards — what shared, append-only lineage record would let either side trace a dangerous behavior back to the specific modification that introduced it, without requiring access to any single lab's full training data?"
+      }
+    }
+  ],
+  "bewertung": null
+}

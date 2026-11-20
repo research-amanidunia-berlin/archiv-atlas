@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T12",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Prüfen in zwei Staaten trainierte Modelle gegenseitig ihre Sicherheit: Welches gemeinsame Verfahren (Vergleichstests mit kulturell neutraler Formulierung, gleichwertige Prüfung in jeder Sprache, Regeln, nach denen das prüfende Modell Herkunft und Hersteller des geprüften nicht erfährt) verhindert, dass das prüfende Modell nach Land oder Hersteller voreingenommen urteilt?",
+    "en": "If models trained in two countries evaluate each other's safety, which shared protocol (benchmarks with culturally neutral framing, equivalent checks in every language, rules that keep the origin and maker of the evaluated model hidden from the evaluating model) prevents the evaluating model from judging with national or maker-aligned bias?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-66",
+      "text": {
+        "de": "An beide Regierungen, Bewertungsgremien und Forscher: Wenn ein in den USA trainiertes Modell die Sicherheit eines in China trainierten Modells bewertet und umgekehrt, welches gemeinsame Protokoll — einschließlich kulturell neutraler Rahmungs-Benchmarks, Sprachparitätsprüfungen und Verblindungsregeln für Prüfer — verhindert, dass die eigenen nationalen und herstellerbezogenen Verzerrungen des bewertenden Modells die Bewertung verfälschen?",
+        "en": "To both governments, evaluation bodies, and researchers: if a US-trained model evaluates a Chinese-trained model's safety and vice versa, what shared protocol — including culturally neutral framing benchmarks, language-parity checks, and evaluator-blinding rules — prevents the evaluating model's own national and maker-aligned biases from corrupting the assessment?"
+      }
+    }
+  ],
+  "bewertung": null
+}

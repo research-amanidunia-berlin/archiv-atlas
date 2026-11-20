@@ -1,0 +1,97 @@
+{
+  "Q007081": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "beschreibt die Expansion als Teil des internationalen Ausbaus",
+            "englisch": "describes the expansion as part of the international expansion",
+            "besser": "describes the expansion as part of its international growth"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Japans besondere Bedürfnisse",
+            "englisch": "Japan's special needs",
+            "besser": "Japan's specific needs"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die Präsidentschaft von OpenAI Japan",
+            "englisch": "the presidency of OpenAI Japan",
+            "besser": "the role of president of OpenAI Japan"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Außenbeziehungen, Markteinführung",
+            "englisch": "foreign relations, market entry",
+            "besser": "external relations, product launches"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "ein Netzwerk zum Austausch bewährter Einsatzpraktiken",
+            "englisch": "a network to exchange proven use practices",
+            "besser": "a network for sharing best practices"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Die Stadt habe ChatGPT im vergangenen Jahr schrittweise fast allen Beschäftigten zugänglich gemacht",
+            "englisch": "The city gradually made ChatGPT accessible to almost all employees last year",
+            "besser": "The city reportedly made ChatGPT available to almost all employees gradually over the past year"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Ein Netzwerk aus 21 Kommunen tausche Anwendungserfahrungen aus.",
+            "englisch": "A network of 21 municipalities is exchanging application experiences.",
+            "besser": "A network of 21 municipalities is sharing experiences with AI applications."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "werden im Bericht nicht unabhängig überprüft oder methodisch näher erläutert",
+            "englisch": "are not independently verified or methodically further explained in the report",
+            "besser": "are not independently verified or explained in further methodological detail in the report"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q007081",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:54:44"
+  }
+}

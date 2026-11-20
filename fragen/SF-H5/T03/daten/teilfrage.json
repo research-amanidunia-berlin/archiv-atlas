@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H5-T03",
+  "sammelfrage": "SF-H5",
+  "frage": {
+    "de": "Welche beobachtbare Reaktion würde zeigen, dass Technologiebeschränkungen ein überprüfbares Sicherheitsabkommen unwahrscheinlicher machen, während sie den Fähigkeitsvorsprung vergrößern, und wie würde sich die Strategie dann ändern?",
+    "en": "What observable response would show that technology restrictions are making a verifiable safety agreement less likely while widening the capability lead, and what change in strategy would follow?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-28",
+      "text": {
+        "de": "Welche beobachtbare Reaktion würde Sie zu dem Schluss bringen, dass Technologiebeschränkungen die Aussicht auf ein überprüfbares Sicherheitsabkommen verringern, selbst während sie den Fähigkeitsvorsprung vergrößern, und welche Änderung der Strategie würde aus diesem Befund folgen?",
+        "en": "What observable response would make you conclude that technology restrictions are reducing the prospect of a verifiable safety agreement even while widening the capability lead, and what change in strategy would follow that finding?"
+      }
+    }
+  ],
+  "bewertung": null
+}

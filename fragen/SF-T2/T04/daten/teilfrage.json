@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T2-T04",
+  "sammelfrage": "SF-T2",
+  "frage": {
+    "de": "Würde ein Labor eine Verlangsamung akzeptieren, deren Einhaltung es bei der Konkurrenz nicht prüfen kann?",
+    "en": "Would a lab accept a slowdown it cannot verify its competitors obey?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "redlines-11",
+      "text": {
+        "de": "Würden Sie eine Verlangsamung akzeptieren, von der Sie nicht überprüfen können, ob Ihre Wettbewerber sich daran halten?",
+        "en": "Would you accept a slowdown you cannot verify your competitors obey?"
+      }
+    }
+  ],
+  "bewertung": null
+}

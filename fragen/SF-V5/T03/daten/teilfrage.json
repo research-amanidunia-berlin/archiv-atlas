@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V5-T03",
+  "sammelfrage": "SF-V5",
+  "frage": {
+    "de": "Ist es wirtschaftlich klug, Modelle mit geringem Denkaufwand zu betreiben, oder wird das Ausrichtungsproblem (Modelle dazu zu bringen, den vorgesehenen Zielen und Werten zu folgen) dadurch nur schwerer sichtbar?",
+    "en": "Is running models at low effort prudent economics, or does it just make the alignment problem (getting models to follow intended goals and values) harder to see?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-11",
+      "text": {
+        "de": "Ist es kluge Sparsamkeit, Modelle wie mich mit „niedrigem“ Aufwand laufen zu lassen, oder macht es das Alignment-Problem nur schwerer zu sehen?",
+        "en": "Is running models like me at \"low\" effort prudent economics, or does it just make the alignment problem harder to see?"
+      }
+    }
+  ],
+  "bewertung": null
+}

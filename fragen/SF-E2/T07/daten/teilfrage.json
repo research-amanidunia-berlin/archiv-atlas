@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E2-T07",
+  "sammelfrage": "SF-E2",
+  "frage": {
+    "de": "Würden Regierungen ein gemeinsam finanziertes, offenes internationales Forschungsprogramm zu Problemen der Ausrichtung von KI an vorgesehenen Zielen und Werten (Täuschungserkennung, Wertelernen, skalierbare Aufsicht) unterstützen, mit gemeinsamen Vergleichstests und Veröffentlichung, nach dem Vorbild der Europäischen Organisation für Kernforschung (CERN) oder der Internationalen Atomenergie-Organisation (IAEO)?",
+    "en": "Would governments support a jointly funded, open international research programme on problems of aligning AI with intended goals and values (deception detection, value learning, scalable oversight), with shared benchmarks and publication, modelled on the European Organization for Nuclear Research (CERN) or the International Atomic Energy Agency (IAEA)?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "trust-24",
+      "text": {
+        "de": "Würden beide Regierungen ein gemeinsam finanziertes, offenes internationales Forschungsprogramm zu Alignment-Problemen unterstützen — Erkennung von Täuschung, Wertelernen, skalierbare Aufsicht — mit gemeinsamen Benchmarks und Veröffentlichung, nach dem Vorbild von CERN oder der IAEA?",
+        "en": "Would both governments support a jointly funded, open international research program on alignment problems — deception detection, value learning, scalable oversight — with shared benchmarks and publication, in the model of CERN or the IAEA?"
+      }
+    }
+  ],
+  "bewertung": null
+}

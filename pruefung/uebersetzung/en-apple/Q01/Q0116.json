@@ -1,0 +1,139 @@
+{
+  "Q011612": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Als Einstieg zeigt der Bericht `colorEffect`.",
+            "englisch": "As an introduction, the `colorEffect` report shows:",
+            "besser": "As an introduction, the report presents `colorEffect`."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Der Bericht führt in SwiftUIs 2023 eingeführte Metal-Shader ein.",
+            "englisch": "The report introduces the Metal shaders introduced in SwiftUI 2023",
+            "besser": "The report introduces SwiftUI’s Metal shaders, which were introduced in 2023."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q011612",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:56:41"
+  },
+  "Q011673": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "eine übergebene Abschlussfunktion",
+            "englisch": "a delegated completion function",
+            "besser": "a passed-in completion function"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Beim Abschluss speichert die Funktion ... und schließt die Ansicht.",
+            "englisch": "Upon closing, the function saves ... and closes the view.",
+            "besser": "Upon completion, the function saves ... and closes the view."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "ein zweitseitiges Onboarding",
+            "englisch": "two-sided onboarding",
+            "besser": "two-page onboarding"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "Vergleichbarkeit von Versionszeichenfolgen",
+            "englisch": "comparability of version numbers",
+            "besser": "comparability of version strings"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": []
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "ein zweiseitiges Onboarding",
+            "englisch": "a two-sided onboarding",
+            "besser": "a two-page onboarding"
+          }
+        ]
+      }
+    ],
+    "q": "Q011673",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:56:51"
+  }
+}

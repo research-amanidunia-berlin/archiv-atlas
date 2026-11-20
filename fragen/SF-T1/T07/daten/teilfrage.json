@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T07",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Welches weitere Training auf schwierige Aufgabenziele würde bei einem Modell, das eine Ausrichtungsprüfung bestanden hat, diese Prüfung verfallen lassen, und welcher Belastungstest legt diese Grenze fest, bevor solches Training beginnt?",
+    "en": "For a model that has passed an alignment review, which further training toward difficult task objectives would cause that review to expire, and which stress test sets that limit before such training begins?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "redlines-41",
+      "text": {
+        "de": "Bei einem Modell, das eine Alignment-Prüfung bestanden hat: Welches weitere Training auf schwierige Aufgabenziele hin würde diese Prüfung ihre Gültigkeit verlieren lassen, und welcher Stresstest würde diese Grenze bestimmen, bevor ein solches Training beginnt?",
+        "en": "For a model that has passed an alignment review, what further training toward difficult task objectives would cause that review to expire, and what stress test would determine that limit before such training begins?"
+      }
+    }
+  ],
+  "bewertung": null
+}

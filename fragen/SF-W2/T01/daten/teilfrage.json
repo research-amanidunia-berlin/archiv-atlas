@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-W2-T01",
+  "sammelfrage": "SF-W2",
+  "frage": {
+    "de": "Welche Maßnahmen zur Sicherheitskoordination zwischen Laboren brauchen eine Änderung oder Klarstellung in ihrer wettbewerbsrechtlichen Behandlung, und wie bleibt eine Erlaubnis auf genau diese Maßnahmen begrenzt, so dass Preisabsprachen, die Aufteilung von Kunden und der Ausschluss neuer Anbieter ausgeschlossen bleiben?",
+    "en": "Which safety-coordination activities between labs need a change or clarification in competition-law treatment, and how is any authorisation confined to exactly those activities, excluding price-setting, customer allocation and exclusion of new entrants?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "facts-08",
+      "text": {
+        "de": "Welche konkreten, in P32 vorgeschlagenen Tätigkeiten zur Sicherheitskoordinierung erfordern eine Änderung oder Klarstellung ihrer wettbewerbsrechtlichen Behandlung, und wie würden Sie eine etwaige Genehmigung auf diese Tätigkeiten begrenzen und dabei Preisfestsetzung, Kundenaufteilung oder den Ausschluss neuer Marktteilnehmer ausklammern?",
+        "en": "Which specific safety-coordination activities proposed in P32 require a change or clarification in competition-law treatment, and how would you confine any authorization to those activities while excluding price-setting, customer allocation, or exclusion of new entrants?"
+      }
+    }
+  ],
+  "bewertung": null
+}

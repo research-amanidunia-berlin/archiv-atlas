@@ -1,0 +1,97 @@
+{
+  "Q009848": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Zielkonflikt",
+            "englisch": "goal conflict",
+            "besser": "trade-off"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Prüfung",
+            "englisch": "testing",
+            "besser": "review"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "längere Prüfungen",
+            "englisch": "longer testing",
+            "besser": "longer reviews"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "KI-Ausgaben",
+            "englisch": "AI expenses",
+            "besser": "AI outputs"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "eher unsicheren Code schrieben",
+            "englisch": "tended to write less secure code",
+            "besser": "tended to write insecure code"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "durchschnittlich nur 28 Prozent des erzeugten Codes auf KI",
+            "englisch": "only an average of 28 percent of the generated code was used for AI",
+            "besser": "AI accounted for only an average of 28 percent of the generated code"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Projektabsicht",
+            "englisch": "project scope",
+            "besser": "project intent"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "trotz plausibler Form",
+            "englisch": "despite plausible forms",
+            "besser": "despite looking plausible"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q009848",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:55:33"
+  }
+}

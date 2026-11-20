@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A1-T05",
+  "sammelfrage": "SF-A1",
+  "frage": {
+    "de": "Werden Agententests Aufgaben enthalten, in denen die Pflicht, Belege zu zitieren, dazu drängt, eine lokale Datei zu veröffentlichen, und welche Regel hindert einen Agenten daran, private Quellen ohne Erlaubnis des Nutzers unter einer öffentlichen Internetadresse zugänglich zu machen?",
+    "en": "Will agent evaluations include tasks where a requirement to cite evidence creates pressure to publish a local file, and which rule stops an agent from turning private source material into a public URL without the user's authorization?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-75",
+      "text": {
+        "de": "Werden Ihre Bewertungen von Agenten Aufgaben enthalten, bei denen die Pflicht, Belege anzugeben, Druck erzeugt, eine lokale Datei zu veröffentlichen, und welche Regel verhindert, dass ein Agent privates Quellmaterial ohne Genehmigung des Nutzers in eine öffentliche URL verwandelt?",
+        "en": "Will your agent evaluations include tasks where a requirement to cite evidence creates pressure to publish a local file, and what rule prevents an agent from turning private source material into a public URL without the user’s authorization?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O2-T05",
+  "sammelfrage": "SF-O2",
+  "frage": {
+    "de": "Welche öffentlichen Zusagen eines Spitzenlabors macht die juristische Person, die bei einem Bruch verklagt würde, und welche nur das Forschungsteam, und veröffentlichen die Labore das für jede Zusage?",
+    "en": "Which of a frontier lab's public commitments are made by the legal entity that would be sued if they are broken, and which only by the research team, and will labs publish this per commitment?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "transparency-11",
+      "text": {
+        "de": "Welche eurer öffentlichen Selbstverpflichtungen werden von der juristischen Person eingegangen, die bei einem Verstoß verklagt werden könnte, und welche nur vom Forschungsteam — und werdet ihr die Antwort für jede einzelne Verpflichtung veröffentlichen?",
+        "en": "Which of your public commitments are made by the legal entity that would be sued if they are broken, and which are made only by the research team — and will you publish the answer per commitment?"
+      }
+    }
+  ],
+  "bewertung": null
+}

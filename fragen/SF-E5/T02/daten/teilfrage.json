@@ -1,0 +1,30 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E5-T02",
+  "sammelfrage": "SF-E5",
+  "frage": {
+    "de": "Welche Entscheidungen müssen menschlich bleiben, auch wenn eine KI sie besser treffen könnte, und wie würden Staaten in Entscheidungsschleifen mit hohem Risiko prüfbar machen, dass ein Mensch die Ausgabe der KI wirklich beurteilt und nicht nur routinemäßig abgenickt hat?",
+    "en": "Which decisions must remain human even when an AI can perform them better, and how would states make it auditable, in high-stakes decision loops, that a person really judged the AI's output rather than routinely approving it?"
+  },
+  "herkunft": [
+    "alien-mind",
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-06",
+      "text": {
+        "de": "Welche menschlichen Entscheidungen müssen menschlich bleiben, auch wenn eine KI sie besser treffen kann?",
+        "en": "Which human decisions must remain human even when an AI can perform them better?"
+      }
+    },
+    {
+      "id": "humans-15",
+      "text": {
+        "de": "Wie würde jede Seite den Menschen in folgenreichen Entscheidungsschleifen überprüfbar machen — indem sie zeigt, dass die Person die Ausgabe der KI beurteilt hat, statt sie routinemäßig abzunicken?",
+        "en": "How would either side make the human in high-stakes loops auditable — showing that the person judged the AI's output rather than routinely approved it?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,10 @@
+{
+  "0": "Unrelated: the report is about something else",
+  "1": "Same broad topic, but nothing in it helps to answer this question",
+  "2": "Mentions the question or its subject only in passing",
+  "3": "Useful background or context, no evidence on the question itself",
+  "4": "Contains some facts, statements or decisions that could be cited as evidence",
+  "5": "Contains substantial evidence (rules, data, measurements, decisions) on this question",
+  "6": "Directly answers part of the question, or explicitly rejects or contradicts what it asks",
+  "7": "Directly and substantially answers the question"
+}

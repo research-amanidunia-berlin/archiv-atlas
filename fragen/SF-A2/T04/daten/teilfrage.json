@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A2-T04",
+  "sammelfrage": "SF-A2",
+  "frage": {
+    "de": "Wer darf in einem Staat ab welcher Beweisschwelle die Aussetzung eines Modells anordnen, das ein ausländisches Labor dort betreibt?",
+    "en": "Who in a state could order the suspension of a model deployed within its borders by a foreign lab, and what evidence threshold would trigger it?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-26",
+      "text": {
+        "de": "Wer könnte auf jeder Seite die Aussetzung eines Modells anordnen, das innerhalb der eigenen Grenzen von einem Labor der anderen Seite eingesetzt wird, und welche Beweisschwelle würde eine solche Anordnung auslösen?",
+        "en": "Who on each side could order the suspension of a model deployed within its borders by a lab on the other side, and what evidence threshold would trigger such an order?"
+      }
+    }
+  ],
+  "bewertung": null
+}

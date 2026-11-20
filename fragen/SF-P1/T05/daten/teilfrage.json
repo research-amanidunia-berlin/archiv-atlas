@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P1-T05",
+  "sammelfrage": "SF-P1",
+  "frage": {
+    "de": "Welchen Ausrichtungstest (eine Prüfung, ob ein Modell den vorgesehenen Zielen und Werten folgt) würde ein Labor als bestanden anerkennen, wenn ein Konkurrent ihn durchführt, an dessen Modell und am eigenen?",
+    "en": "Which alignment test (a test of whether a model follows its intended goals and values) would a lab accept as passed if a competitor ran it, on the competitor's model and on its own?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "verify-29",
+      "text": {
+        "de": "Welchen Alignment-Test würden Sie als bestanden anerkennen, wenn ein Wettbewerber ihn durchgeführt hat, an seinem Modell und an Ihrem?",
+        "en": "Which alignment test would you accept as passed if a competitor ran it, on their model and on yours?"
+      }
+    }
+  ],
+  "bewertung": null
+}

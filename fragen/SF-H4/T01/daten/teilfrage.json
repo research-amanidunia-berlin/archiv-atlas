@@ -1,0 +1,37 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H4-T01",
+  "sammelfrage": "SF-H4",
+  "frage": {
+    "de": "Wer trägt die Verantwortung für Modellgewichte (die gelernten Parameter), Sicherheitsberichte und die Befunde der unabhängigen Prüfer im Labor, wenn ein Labor verkauft, umgebaut oder aufgelöst wird oder einen Trainingslauf aufgibt, und wird diese Kette vorher veröffentlicht? Welche Sicherheits- und Prüfpflichten gehen mit, wenn jemand Modelle, Gewichte oder Trainingsabläufe eines Labors erwirbt oder eine Firma außerhalb der KI ein Labor kauft, und muss eine Regierung vor dem Abschluss benachrichtigt werden? Welche Zusagen gelten weiter, gegen wen lassen sie sich durchsetzen, und gibt es einen Mechanismus, der das Unternehmen überdauert?",
+    "en": "Who becomes accountable for model weights (the learned parameters), safety reports and the findings of independent evaluators in the lab when a lab is sold, restructured or dissolved or abandons a training run, and is that chain published beforehand? Which safety and evaluation duties transfer when someone acquires a lab's models, weights or training pipeline, or a non-AI company buys a lab, and must a government be notified before the transfer closes? Which commitments survive and against whom, and is there any mechanism that outlives the company?"
+  },
+  "herkunft": [
+    "allgemein",
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-19",
+      "text": {
+        "de": "Wenn Ihr Unternehmen aufgekauft wird, aufgelöst wird oder sein Frontier-Trainingslauf abgebrochen wird, wer wird dann verantwortlich für die Gewichte, die Sicherheitsberichte und die Erkenntnisse der eingebetteten Prüfer — und werden Sie diese Verwahrungskette veröffentlichen, bevor der Wechsel stattfindet, damit der nächste Eigentümer oder Empfänger dokumentierte Pflichten erbt, nicht nur Vermögenswerte?",
+        "en": "If your company is acquired, dissolved, or its frontier training run is abandoned, who becomes accountable for the weights, the safety reports, and the embedded evaluators' findings — and will you publish that chain of custody before the change happens, so the next owner or receiver inherits documented duties, not just assets?"
+      }
+    },
+    {
+      "id": "origin-21",
+      "text": {
+        "de": "Wenn ein Unternehmen die Modelle, Gewichte oder die Trainings-Pipeline eines anderen Labors übernimmt — oder ein Nicht-KI-Unternehmen ein Labor übernimmt — welche Sicherheitspflichten und Bewertungsaufgaben gehen dann mit den Vermögenswerten über, und muss eine der beiden Regierungen vor Abschluss der Übertragung benachrichtigt werden?",
+        "en": "When a company acquires another lab's models, weights, or training pipeline — or a non-AI company acquires a lab — which safety obligations and evaluation duties transfer with the assets, and must either government be notified before the transfer closes?"
+      }
+    },
+    {
+      "id": "trust-36",
+      "text": {
+        "de": "An beide Regierungen und an die Labore: Wenn das Labor, das die Sicherheitszusagen für ein Modell gemacht hat, übernommen, umstrukturiert oder aufgelöst wird, welche dieser Zusagen bleiben bestehen und gegenüber wem – und gibt es irgendeinen Mechanismus, der das Unternehmen überdauert?",
+        "en": "To both governments and to labs: if the lab that made a model's safety commitments is acquired, restructured, or dissolved, which of those commitments survive and against whom — and is there any mechanism that outlives the company?"
+      }
+    }
+  ],
+  "bewertung": null
+}

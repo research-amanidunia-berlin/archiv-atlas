@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T15",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Welches messbare Maß für Überwachbarkeit könnte neben Fähigkeitstests stehen, und würden Labore es tatsächlich über weitere Skalierung entscheiden lassen? Welcher gemessene Verlust an Überwachung würde Einschränkungen der Selbstständigkeit eines Modells auslösen, und wie erkennt man Fehler, die im sichtbaren Denken nicht auftauchen?",
+    "en": "Which measurable monitorability metric could stand beside capability benchmarks, and would labs actually let it gate further scaling? Which measured loss of monitoring coverage would trigger restrictions on a model's autonomy, and how are failures that are invisible in verbalized reasoning detected?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "redlines-12",
+      "text": {
+        "de": "Wenn die Validierung wichtiger ist als die Technik (A22): Welche messbare Kennzahl für Überwachbarkeit könnte neben den Fähigkeits-Benchmarks stehen – und würden die Labore weiteres Skalieren tatsächlich von ihr abhängig machen (A41)?",
+        "en": "If validation matters more than techniques (A22), what measurable monitorability metric could stand beside capability benchmarks — and would labs let it actually gate scaling (A41)?"
+      }
+    },
+    {
+      "id": "redlines-13",
+      "text": {
+        "de": "Welcher gemessene Verlust an Überwachungsabdeckung würde Beschränkungen der Autonomie eines Modells auslösen, und wie würden Sie Fehler erkennen, die im ausgesprochenen Denken unsichtbar sind (A25–A29)?",
+        "en": "What measured loss of monitoring coverage would trigger restrictions on a model's autonomy, and how would you detect failures invisible to verbalized reasoning (A25–A29)?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F5-T04",
+  "sammelfrage": "SF-F5",
+  "frage": {
+    "de": "Wie unterscheiden Aufsichtsbehörden, die eine Plattform zur Aufsicht über KI-Sicherheit aufbauen, automatisch erzeugte Sicherheitskorrekturen (Patches) von der offensiven Ausnutzung von Sicherheitslücken, ohne Verteidigungsforschung zu unterdrücken?",
+    "en": "How can regulators building an AI safety supervision platform tell automatically generated security fixes (patches) from the offensive exploitation of security vulnerabilities, without suppressing defensive research?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "cyber-26",
+      "text": {
+        "de": "Wie können Aufsichtsbehörden, die eine „Aufsichtsplattform für KI-Sicherheit“ aufbauen, automatisiertes Erzeugen von Patches (Korrekturen für Software) von offensiver Ausnutzung unterscheiden, ohne die Verteidigungsforschung zu unterdrücken?",
+        "en": "How can regulators building an \"AI safety supervision platform\" distinguish automated patch synthesis from offensive exploitation without suppressing defensive research?"
+      }
+    }
+  ],
+  "bewertung": null
+}

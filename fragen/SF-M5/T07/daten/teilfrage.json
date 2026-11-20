@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T07",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Würden Regierungen gemeinsame Mindestregeln für Abhilfe annehmen, wenn ein in einem Land eingesetztes KI-System in einem anderen nachweisbaren Schaden verursacht (Untersuchungsrechte, Sicherung von Beweisen, Zuständigkeit, Entschädigung), und würden dieselben Regeln auch gelten, wenn der Vorfall von einem Labor in einem Drittstaat ausgeht?",
+    "en": "Would governments accept a shared baseline for remedies when an AI system deployed in one country causes verifiable damage in another (investigation rights, evidence preservation, jurisdiction, compensation), and would the same rules also cover an incident originating in a lab in a third country?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-16",
+      "text": {
+        "de": "Würden beide Regierungen eine gemeinsame Mindestgrundlage für Abhilfemaßnahmen akzeptieren, wenn ein in einem Land eingesetztes KI-System im anderen Land nachweisbaren Schaden verursacht — Untersuchungsrechte, Beweissicherung, Entschädigung?",
+        "en": "Would both governments accept a shared baseline for remedies when an AI system deployed in one country causes verifiable damage in the other — investigation rights, evidence preservation, compensation?"
+      }
+    },
+    {
+      "id": "humans-20",
+      "text": {
+        "de": "Wenn ein KI-Vorfall, der in einem Land seinen Ursprung hat, dem anderen Land schadet — welche vereinbarten Regeln zu Beweisen, Gerichtsbarkeit und Entschädigung würden gelten, und würden dieselben Regeln auch einen Vorfall abdecken, der in einem Labor eines Drittstaats seinen Ursprung hat?",
+        "en": "If an AI incident originating in one country damages the other, what agreed rules on evidence, jurisdiction and compensation would apply — and would those same rules cover an incident originating in a lab in a third country?"
+      }
+    }
+  ],
+  "bewertung": null
+}

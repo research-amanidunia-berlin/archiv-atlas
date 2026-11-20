@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-I1-T02",
+  "sammelfrage": "SF-I1",
+  "frage": {
+    "de": "Welche gemeinsamen Regeln sollten Labore und Regierungen für Herkunftsnachweis, Kennzeichnung und schnelle Reaktion auf maschinell erzeugte oder veränderte Medien oder Texte annehmen, die eingesetzt werden, um die Öffentlichkeit zu täuschen, und dabei Journalismus, Satire und Forschung schützen?",
+    "en": "What shared rules should labs and governments adopt for provenance, labelling and rapid response to synthetic media or text used to deceive the public, while preserving journalism, satire and research?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "trust-25",
+      "text": {
+        "de": "Welche gemeinsamen Regeln sollten Labore und Regierungen für Herkunftsnachweis, Kennzeichnung und schnelle Reaktion auf synthetische Medien oder Texte festlegen, die zur Täuschung der Öffentlichkeit genutzt werden — und zugleich Journalismus, Satire und Forschung schützen?",
+        "en": "What shared rules should labs and governments adopt for provenance, labeling, and rapid response to synthetic media or text used to deceive the public, while preserving journalism, satire, and research?"
+      }
+    }
+  ],
+  "bewertung": null
+}

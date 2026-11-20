@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A3-T03",
+  "sammelfrage": "SF-A3",
+  "frage": {
+    "de": "Gibt es Cyber- oder Einsatzfähigkeiten, die erst entstehen, wenn Modelle verschiedener Staaten zusammenwirken (abgestimmte autonome Angriffe, gemeinsames Umgehen geteilter Überwacher), und welche gemeinsame Schwelle löst dann eine Prüfung aus?",
+    "en": "Are there cyber or operational capabilities that only exist when models of different states interact (coordinated autonomous attacks, joint evasion of shared monitors), and which shared threshold triggers review?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "cyber-32",
+      "text": {
+        "de": "An beide Regierungen und an die Labore: Gibt es Cyber- oder Einsatzfähigkeiten, die nur entstehen, wenn Modelle beider Seiten miteinander interagieren – koordinierte autonome Angriffe, gemeinsames Umgehen gemeinsamer Monitore –, und welche gemeinsame Schwelle würde die Überprüfung einer Fähigkeit auslösen, die kein Modell einer Seite allein besitzt?",
+        "en": "To both governments and to labs: are there cyber or operational capabilities that only exist when models on both sides interact — coordinated autonomous attacks, joint evasion of shared monitors — and what shared threshold would trigger review of a capability neither side's model has alone?"
+      }
+    }
+  ],
+  "bewertung": null
+}

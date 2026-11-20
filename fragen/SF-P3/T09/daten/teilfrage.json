@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T09",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Was geschieht, wenn sich ein gemeinsames Prüfverfahren oder die Befunde eines Prüfers später als unzuverlässig erweisen: Wie findet man jede Einsatzfreigabe, die wesentlich darauf beruhte, prüft sie erneut, und welche vorläufigen Betriebsbedingungen gelten, bevor modellbezogene Vorfälle auftreten?",
+    "en": "What happens when a shared test method or an evaluator's findings are later shown to be unreliable: how is every deployment clearance that materially depended on them found and reopened, and which interim operating conditions apply before model-specific incidents appear?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-78",
+      "text": {
+        "de": "Wenn sich eine gemeinsam genutzte Bewertungsmethode oder die Befunde eines Prüfers später als unzuverlässig erweisen: Wie werden Sie jede Einsatzfreigabe ermitteln, die wesentlich von ihnen abhing, diese Entscheidungen neu aufrollen und vorläufige Betriebsbedingungen festlegen, bevor modellspezifische Vorfälle auftreten?",
+        "en": "If a shared evaluation method or an evaluator’s findings are later shown to be unreliable, how will you identify every deployment clearance that materially depended on them, reopen those decisions, and determine interim operating conditions before model-specific incidents appear?"
+      }
+    }
+  ],
+  "bewertung": null
+}

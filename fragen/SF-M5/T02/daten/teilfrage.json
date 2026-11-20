@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T02",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Wird jeder öffentlich gemeldete Vorfall von Fehlausrichtung, der sich gefahrlos nachstellen lässt, zu einem versionierten Regressionstest (einer Prüfung, ob der Fehler wiederkehrt), den Nachfolgemodelle vor der Freigabe bestehen müssen, mit unabhängiger Prüfung des Ergebnisses?",
+    "en": "Will each publicly reported misalignment incident that can be reproduced safely become a versioned regression test (a check that the failure does not return) that successor models must pass before release, with an independent check of the result?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-73",
+      "text": {
+        "de": "Wird jeder öffentlich gemeldete Vorfall von Fehlausrichtung, der sich sicher reproduzieren lässt, zu einem versionierten Regressionstest, den Nachfolgemodelle vor ihrer Veröffentlichung bestehen müssen, mit einer unabhängigen Überprüfung des Ergebnisses?",
+        "en": "Will each publicly reported misalignment incident that can be reproduced safely become a versioned regression test that successor models must pass before release, with an independent check of the result?"
+      }
+    }
+  ],
+  "bewertung": null
+}

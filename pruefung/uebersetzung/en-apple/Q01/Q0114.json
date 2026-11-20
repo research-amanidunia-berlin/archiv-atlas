@@ -1,0 +1,92 @@
+{
+  "Q011473": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "über `UNNotificationResponse`",
+            "englisch": "about `UNNotificationResponse`",
+            "besser": "via `UNNotificationResponse`"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "eigene URL-Schemata",
+            "englisch": "own URL schemes",
+            "besser": "custom URL schemes"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "eigene Prüfung der Beispiele",
+            "englisch": "a personal review of the examples",
+            "besser": "its own evaluation of the examples"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "Universal Links erfordern laut Bericht Associated Domains und eine `apple-app-site-association`-Datei auf der eigenen Domain.",
+            "englisch": "Universal links require, according to the Associated Domains report, a `apple-app-site-association` file on the own domain.",
+            "besser": "According to the report, Universal Links require Associated Domains and an `apple-app-site-association` file hosted on the app’s domain."
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Associated Domains",
+            "englisch": "Universal links require, according to the Associated Domains report, ...",
+            "besser": "Universal Links require Associated Domains ..."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "eine `apple-app-site-association`-Datei",
+            "englisch": "a `apple-app-site-association` file",
+            "besser": "an `apple-app-site-association` file"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "auf der eigenen Domain",
+            "englisch": "on the own domain",
+            "besser": "on the app’s domain"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q011473",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:56:22"
+  }
+}

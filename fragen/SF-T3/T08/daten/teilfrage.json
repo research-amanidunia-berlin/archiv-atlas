@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T3-T08",
+  "sammelfrage": "SF-T3",
+  "frage": {
+    "de": "Welche kontrollierten Versuche können Labore heute machen, um Selbstverbesserung nachzubilden, ohne eine unbeabsichtigte Beschleunigung zu riskieren?",
+    "en": "Which controlled experiments can labs run today to model self-improvement without risking unintended acceleration?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "redlines-16",
+      "text": {
+        "de": "Welche kontrollierten Experimente könnten die Labore heute durchführen, um rekursive Selbstverbesserung (P5) zu modellieren, ohne eine unbeabsichtigte Beschleunigung zu riskieren?",
+        "en": "What controlled experiments could labs conduct today to model recursive self-improvement (P5) without risking unintended acceleration?"
+      }
+    }
+  ],
+  "bewertung": null
+}

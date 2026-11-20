@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-I1-T01",
+  "sammelfrage": "SF-I1",
+  "frage": {
+    "de": "Welche gemeinsamen Standards für Herkunftsnachweis und Erkennung (Wasserzeichen, signierte Metadaten, Fingerabdrücke von Modellen) würden Labore, Plattformen und Regierungen einführen, damit KI-erzeugte Texte, Tonaufnahmen und Videos über Ländergrenzen hinweg zuverlässig zuzuordnen sind?",
+    "en": "Which shared standards for content provenance and detection (watermarking, signed metadata, model-level fingerprints) would labs, platforms and governments adopt so that AI-generated text, audio and video can be reliably attributed across borders?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "trust-23",
+      "text": {
+        "de": "Welche gemeinsamen Standards zur Herkunftskennzeichnung und Erkennung von Inhalten — Wasserzeichen, signierte Metadaten, modellspezifische Fingerabdrücke — würden Labore, Plattformen und beide Regierungen übernehmen, damit KI-generierter Text, Audio und Video im Informationsraum beider Länder zuverlässig zugeordnet werden können?",
+        "en": "What shared standards for content provenance and detection — watermarking, signed metadata, model-level fingerprints — would labs, platforms, and both governments adopt so that AI-generated text, audio, and video can be reliably attributed across the information space of both countries?"
+      }
+    }
+  ],
+  "bewertung": null
+}

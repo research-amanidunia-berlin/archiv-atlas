@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A1-T04",
+  "sammelfrage": "SF-A1",
+  "frage": {
+    "de": "Bevor ein Agent weiterarbeitet, nachdem sein bisheriger Arbeitsverlauf für ein neues Kontextfenster zusammengefasst wurde: Wird geprüft, ob diese Zusammenfassung die Anweisungen des Nutzers, die Herkunft wichtiger Fakten und offene Fehler bewahrt? Und wird festgelegt, wann der Agent die Originalaufzeichnung prüfen muss, statt der Zusammenfassung zu vertrauen?",
+    "en": "Before an agent continues after its work so far has been summarised for a new context window, will it be tested whether that summary preserves the user's instructions, the provenance of key facts and unresolved errors? And will it be specified when the agent must check the original record instead of trusting the summary?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-74",
+      "text": {
+        "de": "Bevor ein Agent nach einer Übergabe an ein neues Kontextfenster handelt: Werden Sie prüfen, ob seine Aufgabenzusammenfassung die Anweisungen des Nutzers, die Herkunft zentraler Fakten und ungelöste Fehler bewahrt – und festlegen, wann der Agent die ursprünglichen Aufzeichnungen prüfen muss, statt der Zusammenfassung zu vertrauen?",
+        "en": "Before an agent acts after a context-window handoff, will you test whether its task summary preserves the user’s instructions, the provenance of key facts, and unresolved errors—and specify when the agent must check the original record instead of trusting the summary?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O3-T05",
+  "sammelfrage": "SF-O3",
+  "frage": {
+    "de": "Wessen Darstellung dessen, was die andere Seite gesagt hat, gilt als Protokoll, wenn ein KI-Spitzenmodell einer Seite die Verhandlungspositionen der anderen Seite aufbereitet oder zusammenfasst, und würde eine Seite eine solche vom Modell vermittelte Zusammenfassung als Grundlage einer Einigung annehmen?",
+    "en": "Whose account of what the other side said counts as the record when a frontier AI model on one side prepares or summarises the other side's negotiating positions, and would either side accept a model-mediated summary as a basis for agreement?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "trust-37",
+      "text": {
+        "de": "An beide Regierungen: Wenn ein Frontier-Modell auf einer Seite dazu benutzt wird, die Verhandlungspositionen der anderen Seite vorzubereiten oder zusammenzufassen, wessen Darstellung dessen, was die andere Seite gesagt hat, gilt als Protokoll – und würde eine der beiden Seiten eine von einem Modell vermittelte Zusammenfassung als Grundlage für eine Vereinbarung akzeptieren?",
+        "en": "To both governments: if a frontier model on one side is used to prepare or summarize the other side's negotiating positions, whose account of what the other side said counts as the record — and would either side accept a model-mediated summary as a basis for agreement?"
+      }
+    }
+  ],
+  "bewertung": null
+}

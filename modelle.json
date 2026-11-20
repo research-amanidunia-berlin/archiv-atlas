@@ -1,0 +1,48 @@
+[
+  {
+    "k": "clef",
+    "name": "clef",
+    "modell": "clef:27b",
+    "weg": "Ollama Cloud (Zentrale)"
+  },
+  {
+    "k": "luna",
+    "name": "Luna",
+    "modell": "gpt-6-luna",
+    "weg": "OpenAI Decisions (n8n)",
+    "datei": "archiv-luna.json",
+    "fertig": 7924
+  },
+  {
+    "k": "d3-ultra",
+    "name": "d3-ultra",
+    "modell": "vllm-sr/d3-ultra",
+    "weg": "vLLM-SR (Zentrale)",
+    "datei": "archiv-d3-ultra.json",
+    "fertig": 4771
+  },
+  {
+    "k": "jev",
+    "name": "JEV",
+    "modell": "jev-1.14.0",
+    "weg": "TypeSafe (Zentrale)",
+    "datei": "archiv-jev.json",
+    "fertig": 5667
+  },
+  {
+    "k": "amos",
+    "name": "amos",
+    "modell": "amos-1-large",
+    "weg": "Scira (Zentrale)",
+    "datei": "archiv-amos.json",
+    "fertig": 7924
+  },
+  {
+    "k": "drex",
+    "name": "drex",
+    "modell": "drex-max-v1.1",
+    "weg": "Nace (Zentrale)",
+    "datei": "archiv-drex.json",
+    "fertig": 5685
+  }
+]

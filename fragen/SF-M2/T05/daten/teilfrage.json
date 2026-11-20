@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T05",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Was hindert einen Staat daran, über den Kanal eine unbegründete Meldung über einen KI-Vorfall der nationalen Sicherheit abzusetzen, um ein ausländisches Labor zu schikanieren oder aufzuhalten, und wer entscheidet über eine bestrittene Meldung, bevor daraus eine Krise zwischen Staaten wird? Erweist sich eine Meldung als falsch oder irrtümlich oder schreibt der meldende Staat den Angriff inzwischen seinem eigenen Modell zu: In welcher Frist und nach welchem Verfahren geht die Berichtigung hinaus, wer erhält sie, und wird eine zurückgezogene Meldung dem meldenden Staat so angerechnet, dass ehrliches Melden abgeschreckt werden könnte?",
+    "en": "What stops a state from filing a spurious report of a national-security-level AI incident through the channel to harass or delay a foreign lab, and who adjudicates a disputed report before it becomes a crisis between states? If a report turns out to be false or mistaken, or the filing state now attributes the attack to its own model, within what time and by what procedure does the correction go out, who receives it, and is a withdrawn report counted against the filing state in a way that could deter honest reporting?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-41",
+      "text": {
+        "de": "An beide Regierungen: Was hindert eine Seite daran, über die Hotline einen unbegründeten Bericht über einen „KI-Vorfall auf der Ebene der nationalen Sicherheit“ einzureichen, um das Labor der Gegenseite zu schikanieren oder auszubremsen, und wer entscheidet über einen strittigen Bericht, bevor er zu einer bilateralen Krise wird?",
+        "en": "To both governments: what stops a side from filing a spurious \"national-security-level AI incident\" report through the hotline to harass or delay the other side's lab, and who adjudicates a disputed report before it becomes a bilateral crisis?"
+      }
+    },
+    {
+      "id": "hotline-28",
+      "text": {
+        "de": "Wenn eine Seite eine Meldung abgibt, die sich als falsch oder irrtümlich erweist oder auf einem Angriff beruht, den sie inzwischen ihrem eigenen Modell zuschreibt – in welcher Frist und nach welchem Verfahren geht die Berichtigung hinaus, wer erhält sie, und wird eine zurückgezogene Meldung der meldenden Seite in irgendeiner Weise angelastet, die ehrliches Melden abschrecken könnte?",
+        "en": "If a side files a report that turns out to be false, mistaken, or based on an attack it now attributes to its own model, within what time window and by what procedure does the correction go out, who receives it, and is a withdrawn report counted against the filing side in any way that could deter honest reporting?"
+      }
+    }
+  ],
+  "bewertung": null
+}

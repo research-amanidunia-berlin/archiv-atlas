@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F2-T03",
+  "sammelfrage": "SF-F2",
+  "frage": {
+    "de": "Ein Minister beschreibt Risiken durch Spionage und Datenabfluss, etwa über quelloffene KI-Agentenwerkzeuge, und durch ein Ungleichgewicht in der technologischen Entwicklung, das Monopole und Technologiebeschränkungen verschärfen. Welche veröffentlichten Belege würden diese Risiken an der Fähigkeit eines Modells statt an seiner Herkunft festmachen?",
+    "en": "A minister describes risks from espionage and data leakage, for example through open-source AI agent tools, and from an imbalance in technological development that monopolies and technology restrictions aggravate. What published evidence would tie these risks to a model's capability rather than its origin?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "origin-09",
+      "text": {
+        "de": "Welche veröffentlichten Belege würden die Risikolinien von C15 und C16 von der Herkunft auf die Fähigkeit verschieben?",
+        "en": "What published evidence would move the risk lines of C15 and C16 from origin to capability?"
+      }
+    }
+  ],
+  "bewertung": null
+}

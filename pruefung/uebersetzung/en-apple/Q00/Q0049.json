@@ -1,0 +1,115 @@
+{
+  "Q004965": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "mehr als 800 Studienangebote",
+            "englisch": "more than 800 degree programs",
+            "besser": "more than 800 academic programs"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "über 200 Projekte seien in den meisten Fachbereichen und Hochschulkollegien angelaufen",
+            "englisch": "more than 200 projects had been launched in most departments and college councils",
+            "besser": "more than 200 projects had been launched across most departments and colleges"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Die Vorschläge hätten mehr als 80 Prozent der Schulen und Colleges der ASU vertreten.",
+            "englisch": "The proposals represented more than 80 percent of the ASU schools and colleges.",
+            "besser": "The proposals came from more than 80 percent of ASU’s schools and colleges."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Die Gesprächsprotokolle erleichterten ihr qualitatives Feedback bei der Bewertung.",
+            "englisch": "the conversation protocols made her qualitative feedback on evaluations easier",
+            "besser": "the conversation transcripts made it easier for her to provide qualitative feedback when assessing the work"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Ein weiteres GPT soll Forschenden helfen, Einladungen zur Studienteilnahme verständlich ... zu formulieren.",
+            "englisch": "Another GPT is intended to help researchers formulate invitations to study participation in an understandable way",
+            "besser": "Another GPT is intended to help researchers write clear invitations to participate in studies"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "neue Bachelor- und Masterstudiengänge mit KI-Bezug",
+            "englisch": "new bachelor's and master's degree programs with an AI focus",
+            "besser": "new bachelor’s and master’s programs related to AI"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "liefert aber keine unabhängige Wirkungsmessung, keinen Vergleich ...",
+            "englisch": "but does not provide independent impact measurement, no comparison ...",
+            "besser": "but provides neither an independent impact assessment nor a comparison ..."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "an der Arizona State University (ASU)",
+            "englisch": "at the Arizona State University (ASU)",
+            "besser": "at Arizona State University (ASU)"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Hochschulkollegien",
+            "englisch": "college faculties",
+            "besser": "colleges"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Eine Dozentin berichtet ...",
+            "englisch": "A female professor reports ...",
+            "besser": "A lecturer reports ..."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Gesprächsprotokolle erleichterten ihr die qualitative Bewertung",
+            "englisch": "conversation protocols made her qualitative evaluation easier",
+            "besser": "conversation transcripts made it easier for her to provide qualitative feedback"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q004965",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:52:58"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E2-T08",
+  "sammelfrage": "SF-E2",
+  "frage": {
+    "de": "Können zwei Staaten KI-Risiken für „politische Sicherheit“ und „gesellschaftliche Steuerung“ im selben technischen Kanal besprechen wie Cyber- und Militärrisiken, ohne dass eine Seite das politische System der anderen als das zu lösende Problem behandelt?",
+    "en": "Can two states discuss “political security” and “social governance” AI risks in the same technical channel as cyber and military risks without either side treating the other's political system as the problem to be solved?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "trust-26",
+      "text": {
+        "de": "Können die USA und China KI-Risiken der „politischen Sicherheit“ und der „gesellschaftlichen Steuerung“ im selben technischen Kanal besprechen wie Cyber- und militärische Risiken, ohne dass eine Seite das politische System der anderen als das zu lösende Problem behandelt?",
+        "en": "Can the US and China discuss \"political security\" and \"social governance\" AI risks in the same technical channel as cyber and military risks without either side treating the other's political system as the problem to be solved?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T09",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Wenn sich eine staatliche Gefahrenliste und ein Vorschlag, eng begrenzte, offensichtlich gefährliche KI-Verwendungen zu verbieten, überschneiden: Schreibt jemand die Überschneidung als Entwurf auf, bevor die Debatte wieder aufgenommen wird? Gefragt wurde das zu Chen Yixins Artikel und zu Stufe 1 in Dario Amodeis Essay.",
+    "en": "If a state's danger list and a proposal to prohibit narrow, obviously dangerous uses of AI overlap, will anyone set out that overlap in a draft before the debate resumes? This was asked about Chen Yixin's article and Level 1 in Dario Amodei's essay."
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "redlines-15",
+      "text": {
+        "de": "Die Gefahrenliste des Artikels und Stufe 1 (P45) überschneiden sich bei Anwendungen, die beide als offensichtlich gefährlich bezeichnen. Wird jemand diese Liste entwerfen, bevor die Debatte über die Mauer wieder beginnt?",
+        "en": "The article's danger list and Level 1 (P45) overlap on uses both call obviously dangerous. Will anyone draft it before the wall debate resumes?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T01",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Verlangen Staaten von einem Labor, beim Verdacht auf Fehlausrichtung (Verhalten gegen die vorgesehenen Ziele oder Werte) sofort den Zustand des Systems zu sichern, also Protokolle, Modellgewichte (die gelernten Parameter) und den Stand der Trainingsdaten, und zu veröffentlichen, dass es das getan hat, bevor Zeit und erneutes Training die einzigen Beweise löschen?",
+    "en": "Will states require a lab, the moment a misalignment (behaviour against intended goals or values) is suspected, to preserve the state of the system, that is logs, model weights (the learned parameters) and training-data state, and to publish that it did so, before time and retraining erase the only evidence?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-39",
+      "text": {
+        "de": "Werden beide Seiten ein Labor verpflichten, den Zustand eines Systems in dem Moment zu sichern, in dem eine Fehlausrichtung vermutet wird – Protokolle, Gewichte, Stand der Trainingsdaten –, und zu veröffentlichen, dass diese Sicherung stattgefunden hat, bevor Zeit und Nachtraining den einzigen Beleg löschen?",
+        "en": "Will both sides require a lab to preserve the state of a system at the moment a suspected misalignment is discovered — logs, weights, training-data state — and to publish that the preservation happened, before time and retraining erase the only evidence?"
+      }
+    }
+  ],
+  "bewertung": null
+}

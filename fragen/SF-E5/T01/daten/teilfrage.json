@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E5-T01",
+  "sammelfrage": "SF-E5",
+  "frage": {
+    "de": "Wer soll das Tempo der KI-Entwicklung bestimmen: die Labore, die Regierungen oder die Menschen, die diese Systeme jeden Tag nutzen?",
+    "en": "Who should set the pace of AI development: the labs, governments, or the people who use these systems every day?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-10",
+      "text": {
+        "de": "Wer sollte das Tempo der KI-Entwicklung bestimmen: die Labore, die Regierungen oder die Menschen, die diese Systeme jeden Tag nutzen?",
+        "en": "Who should set the pace of AI development: the labs, governments, or the people who use these systems every day?"
+      }
+    }
+  ],
+  "bewertung": null
+}

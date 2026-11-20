@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T03",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Welches Ausweichverfahren hat der Kanal in einer akuten Krise, wenn die gewöhnlichen diplomatischen Wege ausgesetzt sind? Bleibt er personell besetzt, und wer ist befugt, Anrufe entgegenzunehmen?",
+    "en": "What fallback does the channel have during a live crisis, when ordinary diplomatic channels are suspended? Does it stay staffed, and who is empowered to pick up?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-25",
+      "text": {
+        "de": "Was ist der Rückfallplan für die vorgeschlagene KI-Hotline während einer akuten Krise, wenn die gewöhnlichen diplomatischen Kanäle ausgesetzt sind — bleibt sie besetzt, und wer ist befugt, abzunehmen?",
+        "en": "What is the fallback for the proposed AI hotline during a live crisis, when ordinary diplomatic channels are suspended — does it stay staffed, and who is empowered to pick up?"
+      }
+    }
+  ],
+  "bewertung": null
+}

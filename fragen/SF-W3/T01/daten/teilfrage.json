@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-W3-T01",
+  "sammelfrage": "SF-W3",
+  "frage": {
+    "de": "Wenn ein Spitzenlabor zusagt, weiteres Skalieren einseitig zurückzuhalten: Welche verbindlichen Regeln legen fest, wann eine solche Sicherheitspause eine wesentliche, nicht öffentliche Information im Sinne des Wertpapierrechts ist, und wie verhindern Labore und Aufsicht, dass vertrauliche Entscheidungen über das Tempo für Insiderhandel mit Aktien von Partnern aus Cloud, Rechenzentren und Halbleitern genutzt werden?",
+    "en": "When a frontier lab commits to unilaterally withhold further scaling, what binding rules determine when such a safety pause is material, non-public information under securities law, and how do labs and regulators prevent confidential pacing decisions from being exploited for insider trading in the stock of partner cloud, data-centre and semiconductor providers?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "redlines-46",
+      "text": {
+        "de": "Wenn sich ein Frontier-Labor verpflichtet, „weitere Skalierung einseitig zurückzuhalten“ (A4, UN13): Welche verbindlichen Regeln legen fest, wann eine solche Sicherheitspause nach Wertpapierrecht eine wesentliche, nicht öffentliche Information darstellt, und wie werden Labore und Regulierungsbehörden verhindern, dass vertrauliche Entscheidungen über das Tempo für Insiderhandel mit Aktien von Partneranbietern für Cloud, Rechenzentren und Halbleiter ausgenutzt werden?",
+        "en": "When a frontier lab commits to \"unilaterally withhold further scaling\" (A4, UN13), what binding rules determine when such a safety pause constitutes material, non-public information under securities law, and how will labs and regulators prevent confidential pacing decisions from being exploited for insider trading in the stock of partner cloud, data center, and semiconductor providers?"
+      }
+    }
+  ],
+  "bewertung": null
+}

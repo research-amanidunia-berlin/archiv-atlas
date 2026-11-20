@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O3-T01",
+  "sammelfrage": "SF-O3",
+  "frage": {
+    "de": "Wenn ein Sicherheitsbericht, eine Meldung an den Meldekanal, eine Modellbeschreibung (Modellkarte) oder ein Verzeichnis der Trainingsdaten veröffentlicht wird: Welche öffentlichen kryptografischen Belege (signierte Verzeichnisse, verkettete Prüfsummen, Register, die sich nur erweitern lassen) lassen Außenstehende prüfen, dass das Dokument seit der Veröffentlichung nicht verändert wurde, und wer betreibt die Infrastruktur dafür so, dass niemand diese Prüfungen allein widerrufen kann?",
+    "en": "When a safety report, a filing to the reporting channel, a model card (a model description) or a training-dataset manifest is published, which public cryptographic evidence (signed manifests, hash chains, registries that can only be added to) lets outsiders verify that the document has not been edited since publication, and who runs the infrastructure for it so that no one can revoke those checks alone?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-16",
+      "text": {
+        "de": "Wenn ein Sicherheitsbericht, eine Hotline-Meldung, eine Modellkarte oder ein Trainingsdatensatz-Manifest veröffentlicht wird, welcher öffentliche, kryptografische Nachweis — signierte Manifeste, Hash-Ketten, unveränderliche Register — lässt eine außenstehende Partei überprüfen, dass das Dokument seit der Veröffentlichung nicht bearbeitet wurde, und wer betreibt die Infrastruktur, die diese Prüfungen vorhält, damit keine Seite sie einseitig widerrufen kann?",
+        "en": "When a safety report, a hotline filing, a model card, or a training-dataset manifest is published, what public, cryptographic evidence — signed manifests, hash chains, append-only registries — lets an outside party verify the document has not been edited since publication, and who runs the infrastructure that holds those checks so neither side can unilaterally revoke them?"
+      }
+    }
+  ],
+  "bewertung": null
+}

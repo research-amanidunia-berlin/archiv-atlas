@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O2-T04",
+  "sammelfrage": "SF-O2",
+  "frage": {
+    "de": "Haben Regierungen ein Labor im eigenen Land vertraulich gebeten, einen Trainingslauf oder eine Freigabe zu verschieben, zu verkleinern oder anzuhalten? Falls ja: Veröffentlichen sie, wie oft das geschah, nach welchen veröffentlichten Kriterien und wann die Bitte aufgehoben wurde, ohne die als geheim eingestufte Empfehlung selbst zu veröffentlichen?",
+    "en": "Have governments privately asked a lab in their own country to delay, shrink or hold a training run or a release? If so, will they publish how often this happened, under what published criteria and when the request was lifted, without publishing the classified advice itself?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-22",
+      "text": {
+        "de": "Haben Sie ein Labor im eigenen Land privat gebeten, einen Trainingslauf oder eine Veröffentlichung zu verzögern, zu verkleinern oder zurückzuhalten — und wenn ja, werden Sie veröffentlichen, wie oft das vorgekommen ist, nach welchen veröffentlichten Kriterien und wann es aufgehoben wurde, ohne den vertraulichen Rat selbst zu veröffentlichen?",
+        "en": "Have you privately asked a lab in your own country to delay, shrink, or hold a training run or a release — and if so, will you publish how many times that has happened, under what published criteria, and when it was lifted, without publishing the classified advice itself?"
+      }
+    }
+  ],
+  "bewertung": null
+}

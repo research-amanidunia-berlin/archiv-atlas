@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T06",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Welche Pflicht sollten Regierungen, Labore und Betreiber haben, wenn sich später zeigt, dass ein eingesetztes Modell eine Sicherheitsschwelle verletzt hat: die Entscheidungen, die es beeinflusst hat, zu ermitteln, darüber zu benachrichtigen, sie zu berichtigen oder für sie zu entschädigen? Und wie kann eine nachträgliche Prüfung den vom Modell verursachten Schaden vom umgebenden menschlichen Entscheidungsprozess unterscheiden?",
+    "en": "What duty should governments, labs and deployers have when a deployed model is later found to have violated a safety threshold: to identify, notify, correct or compensate for decisions it influenced? And how can a retrospective audit distinguish model-caused harm from the surrounding human process?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-33",
+      "text": {
+        "de": "Regierungen, Labore und Betreiber: Wenn sich später herausstellt, dass ein eingesetztes Modell eine Sicherheitsschwelle verletzt hat — welche Pflicht sollten sie haben, davon beeinflusste Entscheidungen zu identifizieren, zu melden, zu korrigieren oder für sie Entschädigung zu leisten, und wie kann eine rückblickende Prüfung modellbedingten Schaden vom umgebenden menschlichen Prozess unterscheiden?",
+        "en": "Governments, labs, and deployers: when a deployed model is later found to have violated a safety threshold, what duty should they have to identify, notify, correct, or compensate decisions it influenced, and how can a retrospective audit distinguish model-caused harm from the surrounding human process?"
+      }
+    }
+  ],
+  "bewertung": null
+}

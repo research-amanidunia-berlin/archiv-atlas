@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P1-T04",
+  "sammelfrage": "SF-P1",
+  "frage": {
+    "de": "Welcher konkrete Nutzen (Zugang zu fremden Testsammlungen, gegenseitige Anerkennung von Sicherheitszertifikaten oder eine Ausnahme von bestimmten Exportkontrollen) brächte ein Labor dazu, sich freiwillig von einem Labor oder einer Regierung eines anderen Staates prüfen zu lassen, und welchen davon würde es von einem Konkurrenten tatsächlich annehmen?",
+    "en": "What concrete benefit (shared access to foreign evaluation suites, mutual recognition of safety certifications or a safe harbour from certain export controls) would make a lab voluntarily submit to evaluation by a lab or government of another state, and which of those would it actually accept from a competitor?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-87",
+      "text": {
+        "de": "An die Frontier-Labore auf beiden Seiten: Welcher konkrete Vorteil – gemeinsamer Zugang zu den Evaluierungssuiten der Gegenseite, gegenseitige Anerkennung von Sicherheitszertifizierungen oder ein sicherer Hafen vor bestimmten Exportkontrollen – würde Ihr Labor dazu bringen, sich freiwillig der Evaluierung durch ein Labor oder eine Regierung der Gegenseite zu unterziehen, und welchen davon würden Sie tatsächlich von einem Konkurrenten annehmen?",
+        "en": "To frontier labs on both sides: what concrete benefit — shared access to the other side's evaluation suites, mutual recognition of safety certifications, or a safe harbor from certain export controls — would make your lab voluntarily submit to evaluation by a lab or government on the other side, and which of those would you actually accept from a competitor?"
+      }
+    }
+  ],
+  "bewertung": null
+}

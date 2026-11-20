@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-W2-T02",
+  "sammelfrage": "SF-W2",
+  "frage": {
+    "de": "Wenn in einem Labor dasselbe Gremium leitender Führungskräfte sowohl die Fähigkeiten von Modellen als auch strittige Fragen zur Offenlegung von Fehlern beurteilt: Ab wann wird das Bündeln solcher Urteile mehrerer Firmen über gemeinsame Arten von Vorfällen zu einem Informationsaustausch nahe an einer Absprache, der eine kartellrechtliche Ausnahme bräuchte, und wer außerhalb der Firmen sieht diese Grenze näherkommen?",
+    "en": "When the same group of senior officials in a lab assesses both model capabilities and disputed questions about disclosing failures, at what point does aggregating several companies' judgments of this kind about shared classes of incidents become a collusion-adjacent information exchange that would need an antitrust waiver, and who outside the companies can see that boundary approaching?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "transparency-26",
+      "text": {
+        "de": "Ihr Rahmenwerk für Meldungen leitet Hinweise von Mitarbeitern über eine Untersuchung an die Safety Advisory Group und dann an die Leitung weiter (F24); die SAG ist „eine Gruppe leitender Verantwortlicher aus dem gesamten Unternehmen“, die zugleich das Preparedness Framework beaufsichtigt – das heißt, dieselben Verantwortlichen, deren Laufbahn vom Unternehmen abhängt, beurteilen sowohl Fähigkeiten als auch die Offenlegung von Fehlern. Sie rufen außerdem zu einem „Wettlauf nach oben“ auf, bei dem Sicherheit eine Achse des Wettbewerbs ist (P3, Anthropic, aber dieselbe Logik). Ab welchem Punkt wird die Bündelung der Urteile einzelner Unternehmen auf SAG-Niveau über gemeinsame Vorfallsklassen (ST28) zu jener Art von absprachenahem Informationsaustausch, für den laut Amodeis eigener Fußnote eine kartellrechtliche Ausnahmegenehmigung nötig ist (P7 Fn. 1, P32) – und wer außerhalb der Unternehmen kann sehen, dass man sich dieser Grenze nähert?",
+        "en": "Your reporting framework routes employee flags through investigation, then the Safety Advisory Group, then leadership (F24); the SAG is \"a group of senior officials from across the company\" that also oversees the Preparedness Framework — meaning the same career-dependent officials judge both capabilities and the disclosure of failures. You also call for \"a race to the top\" where safety is a competitive axis (P3, Anthropic, but the same logic). At what point does the aggregation of individual companies' SAG-grade judgments about shared incident classes (ST28) become the kind of collusion-adjacent information exchange that Amodei's own footnote says needs an antitrust waiver (P7 fn. 1, P32) — and who outside the companies can see that boundary being approached?"
+      }
+    }
+  ],
+  "bewertung": null
+}

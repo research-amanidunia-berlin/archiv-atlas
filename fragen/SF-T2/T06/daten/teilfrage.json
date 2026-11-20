@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T2-T06",
+  "sammelfrage": "SF-T2",
+  "frage": {
+    "de": "Welche Ausnahmen erlauben es während einer einseitigen oder abgestimmten Verlangsamung, für dringende Abwehr dennoch zu trainieren oder einzusetzen, wer genehmigt sie, und wird die Genehmigung veröffentlicht? Verfallen ungenutzte Entwicklungsspielräume oder bleiben sie für einen späteren Schub erhalten, und wie bleibt Zeit zum Prüfen, wenn aufgestaute Verbesserungen zusammenkommen?",
+    "en": "Which exceptions allow training or deployment for urgent defensive needs during a unilateral or coordinated slowdown, who approves them, and is the approval published? Do unused development allowances expire or remain available for a later burst of progress, and how is time for evaluation preserved when backlogged improvements are combined?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-36",
+      "text": {
+        "de": "Wenn eine einseitige oder koordinierte Verlangsamung in Kraft ist — welches Ausnahmeverfahren würde trotzdem erlauben, dass für einen dringenden Verteidigungsbedarf, etwa die Absicherung kritischer Infrastruktur während eines laufenden KI-gestützten Angriffs, Systeme trainiert oder eingesetzt werden, wer genehmigt diese Ausnahme, und wird die Genehmigung veröffentlicht?",
+        "en": "If a unilateral or coordinated slowdown is in force, what exception process would still allow an urgent defensive need — such as hardening critical infrastructure during an active AI-driven attack — to be trained or deployed, who approves that exception, and is the approval published?"
+      }
+    },
+    {
+      "id": "redlines-45",
+      "text": {
+        "de": "Wenn erlaubte Arbeit während einer Verlangsamung einen Rückstau an Modellverbesserungen erzeugt: Würden ungenutzte Entwicklungskontingente verfallen oder für einen späteren Fortschrittsschub verfügbar bleiben, und wie würde die Vereinbarung Zeit für die Bewertung sichern, wenn diese Verbesserungen zusammengeführt werden?",
+        "en": "If permitted work during a slowdown produces a backlog of model improvements, would unused development allowances expire or remain available for a burst of progress later, and how would the arrangement preserve time for evaluation when those improvements are combined?"
+      }
+    }
+  ],
+  "bewertung": null
+}

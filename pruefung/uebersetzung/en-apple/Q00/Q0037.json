@@ -1,0 +1,111 @@
+{
+  "Q003770": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Sozial- und Geisteswissenschaften",
+            "englisch": "the social and humanities",
+            "besser": "the social sciences and humanities"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "als ausbaufähig",
+            "englisch": "as expandable",
+            "besser": "as needing further improvement"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die Mitglieder seien ... benannt oder ... empfohlen worden",
+            "englisch": "Despite these selection criteria",
+            "besser": "Despite these selection processes"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "eine Vertretung der OECD",
+            "englisch": "a representation of the OECD",
+            "besser": "an OECD representative"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "eine Person aus einem OECD beratenden Expertengremium",
+            "englisch": "a person from an OECD advisory expert group",
+            "besser": "a person from an OECD advisory expert committee"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "eine unabhängige Prüfung ist darin nicht enthalten",
+            "englisch": "an independent review is not included",
+            "besser": "it does not include an independent verification"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "die Benennung der Mitglieder",
+            "englisch": "the naming of the members",
+            "besser": "the appointment of the members"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "63 Prozent aus der Wissenschaft",
+            "englisch": "63 percent came from science",
+            "besser": "63 percent came from academia"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Benannt worden seien sie",
+            "englisch": "They had been named",
+            "besser": "They had been appointed"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "keine Darstellung ihrer Arbeitsergebnisse",
+            "englisch": "does not contain a representation of its work results",
+            "besser": "does not describe the group’s results"
+          }
+        ]
+      }
+    ],
+    "q": "Q003770",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:51:46"
+  }
+}

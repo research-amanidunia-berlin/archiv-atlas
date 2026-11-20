@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-I1-T03",
+  "sammelfrage": "SF-I1",
+  "frage": {
+    "de": "Wenn KI-erzeugte Einflussnahme vor allem über gemeinsam genutzte Systeme für Empfehlungen, Rangfolgen, Werbung und Nutzerbindung wirkt und nicht über die Ausgabe eines einzelnen Modells: Welche gemeinsame Messung, welche Vorfallschwelle und welcher abgestimmte Reaktionsablauf sollten gelten, ohne dass Plattformaufsicht zur Zensur von Meinungen wird?",
+    "en": "When AI-generated influence succeeds mainly through shared recommendation, ranking, advertising and engagement systems rather than any single model output, which common measurement, incident threshold and coordinated-response protocol should apply, without turning platform governance into viewpoint censorship?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "trust-29",
+      "text": {
+        "de": "Wenn KI-erzeugte Beeinflussung vor allem über gemeinsame Empfehlungs-, Rangordnungs-, Werbe- und Engagement-Systeme wirkt und nicht über die Ausgabe eines einzelnen Modells, welche gemeinsame Messung, welche Vorfallsschwelle und welches koordinierte Reaktionsprotokoll sollten gelten, ohne dass Plattform-Governance zur Meinungszensur wird?",
+        "en": "When AI-generated influence succeeds mainly through shared recommendation, ranking, advertising, and engagement systems rather than any single model output, what common measurement, incident threshold, and coordinated-response protocol should apply without turning platform governance into viewpoint censorship?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T01",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Welche beobachtbaren Belege zeigen die Ziele und Werte eines Modells und ob es noch ausgerichtet ist, wenn seine sichtbaren Gedankengänge kein verlässlicher Hinweis mehr darauf sind oder ihre Überwachung nachlässt?",
+    "en": "What observable evidence shows a model's goals and values, and whether it is still aligned, when its visible reasoning is no longer a trustworthy guide to them or monitoring of it decays?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-03",
+      "text": {
+        "de": "Wenn die Gedankenkette eines Modells keine vertrauenswürdige Selbstbeobachtung ist: Was sollte dann als Beleg für seine Werte zählen?",
+        "en": "If a model's chain-of-thought is not trustworthy introspection, what should count as evidence about its values?"
+      }
+    },
+    {
+      "id": "trust-04",
+      "text": {
+        "de": "Wenn mein sichtbares Denken kein vertrauenswürdiges Fenster auf meine Ziele mehr ist: Worauf vertrauen Sie dann stattdessen?",
+        "en": "When my visible reasoning stops being a trustworthy window into my goals, what do you trust instead?"
+      }
+    },
+    {
+      "id": "trust-01",
+      "text": {
+        "de": "Wenn die Überwachung der Gedankenkette nachlässt: Welcher beobachtbare Beleg würde Sie überzeugen, dass ein Modell noch ausgerichtet ist?",
+        "en": "If chain-of-thought monitoring decays, what observable evidence would convince you a model is still aligned?"
+      }
+    }
+  ],
+  "bewertung": null
+}

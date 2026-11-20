@@ -1,0 +1,73 @@
+{
+  "Q007440": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Getriebe",
+            "englisch": "transmissions",
+            "besser": "gearboxes"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Der Bericht belegt diese Angaben nicht näher.",
+            "englisch": "The report does not elaborate on these figures.",
+            "besser": "The report does not provide further evidence for these claims."
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Die angekündigte Kapazität liege bereits bei mehr als der Hälfte des selbst gesetzten Ziels.",
+            "englisch": "The announced capacity already exceeds more than half of its self-set goal.",
+            "besser": "The announced capacity is already more than halfway toward its self-set goal."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Möglichkeiten für Prüfung und Montage",
+            "englisch": "opportunities for testing and assembly",
+            "besser": "testing and assembly capabilities"
+          }
+        ]
+      }
+    ],
+    "q": "Q007440",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:55:13"
+  }
+}

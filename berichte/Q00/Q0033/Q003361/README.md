@@ -1,0 +1,17 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# The hippocampus as a predictive map
+
+Report Q003361 · Source deepmind.google · Date 2017-10-02 · [Open original](https://deepmind.google/blog/the-hippocampus-as-a-predictive-map/)
+
+[All reports](../../../README.md) · Data: [bericht.json](bericht.json)
+
+## Summary (German, by Luna, unchecked)
+
+Die Autoren schlagen vor, dass der Hippocampus zukünftige Zustände als „prädiktive Karte“ repräsentiert und so Belohnungen effizient abschätzen könnte. Der Beitrag erläutert die theoretische Verbindung zur Successor Representation, berichtet aber keine neue empirische Bestätigung und nennt das Zusammenspiel verschiedener Lernformen im Gehirn als offene Frage.
+
+## Collected questions
+
+Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
+
+No collected question reaches 10 % in levels 3–7 with any model.

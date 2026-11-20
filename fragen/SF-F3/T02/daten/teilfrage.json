@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F3-T02",
+  "sammelfrage": "SF-F3",
+  "frage": {
+    "de": "Welche Verantwortung sollten KI-Firmen gegenüber der Öffentlichkeit tragen, wenn ihre Modelle grundlegende wissenschaftliche Entdeckungen ermöglichen, die gefährliche Anwendungen finden könnten?",
+    "en": "What responsibility should AI companies bear toward the public when their models enable fundamental scientific discoveries that could find hazardous applications?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "redlines-30",
+      "text": {
+        "de": "Welche Verantwortung sollten AI-Unternehmen gegenüber der Allgemeinheit übernehmen, wenn ihre Modelle grundlegende wissenschaftliche Entdeckungen ermöglichen, die potenziell gefährliche Anwendungen finden könnten?",
+        "en": "What responsibility should AI companies bear toward the public when their models enable fundamental scientific discoveries that could potentially find hazardous applications?"
+      }
+    }
+  ],
+  "bewertung": null
+}

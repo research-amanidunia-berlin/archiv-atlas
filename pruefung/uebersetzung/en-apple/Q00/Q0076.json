@@ -1,0 +1,129 @@
+{
+  "Q007611": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Apps können laut Bericht Gespräche um Informationen ergänzen.",
+            "englisch": "apps can supplement conversations for information",
+            "besser": "apps can supplement conversations with information"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "eine quelloffene UI-Bibliothek",
+            "englisch": "a open-source UI library",
+            "besser": "an open-source UI library"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "von konkreten Nutzerabsichten auszugehen",
+            "englisch": "assuming specific user intentions",
+            "besser": "starting from specific user needs"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die Angebote sollten klar eingegrenzt sein.",
+            "englisch": "The offerings should be clearly limited.",
+            "besser": "The apps should be clearly scoped."
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "in Gesprächen begonnene Abläufe",
+            "englisch": "ongoing processes started in conversations",
+            "besser": "processes started in conversations"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "OpenAIs Nutzungsrichtlinien",
+            "englisch": "OpenAI's terms of use",
+            "besser": "OpenAI's usage policies"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "ChatGPT will offenlegen, welche Datentypen mit dem Drittanbieter geteilt werden können.",
+            "englisch": "ChatGPT should disclose which types of data can be shared with the third party",
+            "besser": "ChatGPT will disclose which types of data may be shared with the third party"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "ein Verzeichnis zu ihrer Entdeckung",
+            "englisch": "a directory of their discoveries",
+            "besser": "a directory for discovering them"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Prüfregeln",
+            "englisch": "testing rules",
+            "besser": "review requirements"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Anforderungen an Nutzen",
+            "englisch": "requirements for use",
+            "besser": "requirements for usefulness"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Verbundene Apps",
+            "englisch": "Linked apps",
+            "besser": "Connected apps"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "OpenAI empfiehlt klar umrissene Apps",
+            "englisch": "OpenAI clearly recommends apps with clear functionality",
+            "besser": "OpenAI recommends clearly scoped apps"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Anforderungen an Nutzen",
+            "englisch": "requirements for use",
+            "besser": "requirements for usefulness"
+          }
+        ]
+      }
+    ],
+    "q": "Q007611",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:55:18"
+  }
+}

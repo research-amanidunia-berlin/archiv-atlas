@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H3-T03",
+  "sammelfrage": "SF-H3",
+  "frage": {
+    "de": "Welche verbindliche Meldepflicht hat ein Labor, wenn ein Modell, das zum Teil mit synthetischen Daten eines fremden Spitzenmodells trainiert wurde, eine schlechtere Ausrichtung zeigt, die grenzüberschreitend Schaden verursacht, und welches Recht hat die Regierung des Landes, aus dem die Daten stammen, den betroffenen Trainingsablauf zu prüfen, ohne an die Modellgewichte (die gelernten Parameter) zu kommen?",
+    "en": "Which mandatory reporting duty does a lab have when a model trained partly on synthetic data from another frontier model shows degraded alignment that causes cross-border harm, and what right does the government of the data's source country have to inspect the affected training pipeline without accessing the model weights (the learned parameters)?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-17",
+      "text": {
+        "de": "An beide Regierungen und die Frontier-Labore: Wenn ein Modell, das teilweise mit synthetischen Ausgaben eines anderen Frontier-Modells trainiert wurde, verschlechterte Alignment-Eigenschaften zeigt, die grenzüberschreitenden Schaden verursachen — welche verpflichtende Meldepflicht gilt für das trainierende Labor, und welches Recht hat die Regierung des Landes, aus dem die synthetischen Daten stammen, die kontaminierte Pipeline zu prüfen, ohne Zugang zu proprietären Gewichten zu erhalten?",
+        "en": "To both governments and frontier labs: when a model trained partly on synthetic outputs from another frontier model shows degraded alignment properties that cause cross-border harm, what mandatory reporting duty applies to the training lab, and what right does the synthetic-data source country's government have to inspect the contaminated pipeline without accessing proprietary weights?"
+      }
+    }
+  ],
+  "bewertung": null
+}

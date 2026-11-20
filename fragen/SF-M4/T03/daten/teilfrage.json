@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M4-T03",
+  "sammelfrage": "SF-M4",
+  "frage": {
+    "de": "Mit welchem technischen Prüfverfahren stimmen Labore verschiedener Staaten die verantwortliche Offenlegung ab, wenn ein führendes KI-Modell eine kritische, bislang unbekannte Sicherheitslücke (Zero-Day) findet? Und könnten Labore ein gemeinsames, technisch ausgearbeitetes Protokoll für die Offenlegung von Cyberfähigkeiten entwerfen, das als Standard übernommen wird, auf den sich Regierungen stützen können?",
+    "en": "Which technical verification protocol lets labs in different countries coordinate responsible disclosure when a leading AI model finds a critical, previously unknown security vulnerability (a zero-day)? And could labs draft a shared, technically detailed protocol for disclosing cyber capabilities, to be adopted as a standard governments can rely on?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "hotline-13",
+      "text": {
+        "de": "Welches technische Prüfprotokoll würde es Laboren beider Seiten erlauben, eine verantwortungsvolle Offenlegung abzustimmen, wenn ein Spitzenmodell eine kritische Zero-Day-Lücke findet?",
+        "en": "What technical verification protocol would allow labs on both sides to coordinate responsible disclosure when a frontier model discovers a critical zero-day vulnerability?"
+      }
+    },
+    {
+      "id": "hotline-14",
+      "text": {
+        "de": "Könnten die Labore ein gemeinsames, technisch detailliertes Protokoll für die Offenlegung von Cyber-Fähigkeiten entwerfen, das als Standard übernommen wird, auf den sich beide Regierungen stützen können?",
+        "en": "Could a shared, technically detailed protocol for cyber-capability disclosure be drafted by labs and adopted as a standard both governments could rely on?"
+      }
+    }
+  ],
+  "bewertung": null
+}

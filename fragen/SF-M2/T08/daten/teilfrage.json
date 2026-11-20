@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T08",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Über welchen Meldekanal erreicht eine nationale Stelle für Cybersicherheitsvorfälle (CERT) ein Labor in einem anderen Staat, das ein Modell einsetzt, wenn dieses Modell bei bösartiger Cyberaktivität beobachtet wird?",
+    "en": "What incident-reporting channel connects a national cyber incident response team (CERT) to a lab in another state that deploys a model, when that model is observed in malicious cyber activity?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "hotline-12",
+      "text": {
+        "de": "Welcher Meldekanal würde ein nationales CERT auf der einen Seite mit dem Labor auf der anderen Seite verbinden, das ein Modell betreibt, wenn dieses Modell bei bösartiger Cyber-Aktivität beobachtet wird?",
+        "en": "What incident-reporting channel would connect a national CERT on one side to the deploying lab on the other when a model is observed in malicious cyber activity?"
+      }
+    }
+  ],
+  "bewertung": null
+}

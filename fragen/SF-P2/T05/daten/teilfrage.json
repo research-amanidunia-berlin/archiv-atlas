@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P2-T05",
+  "sammelfrage": "SF-P2",
+  "frage": {
+    "de": "Was muss ein Prüfer veröffentlichen, wenn ein Labor seinen Sicherheitsrahmen, seine Prüfwerkzeuge oder seine Offenlegungsregeln so ändert, dass frühere Zusagen weniger durchsetzbar werden, etwa indem es enger fasst, was als meldepflichtiger Vorfall gilt, und ist er dann vor Entlassung geschützt? Und wenn Prüfer laufend KI-Agenten beobachten, die selbstständig an Modellarchitekturen und Algorithmen forschen: Welche rechtlich durchsetzbaren Regeln und welche Maßnahmen gegen unbeabsichtigte Weitergabe von Wissen (eine „kognitive Quarantäne“) verhindern bei späteren Prüfungen und bei Personalwechsel, dass sie geschützte algorithmische Durchbrüche zu Konkurrenten tragen?",
+    "en": "What must an evaluator publish when a lab changes its safety framework, evaluation tooling or disclosure rules so that earlier commitments become less enforceable, for example by narrowing what counts as a reportable incident, and is the evaluator then protected from dismissal? And when evaluators continuously inspect AI agents doing autonomous research on model architectures and algorithms, which enforceable legal rules and measures against inadvertent knowledge transfer (a “cognitive quarantine”) ensure, during later audits and across staff turnover, that they do not carry proprietary algorithmic breakthroughs to competitors?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-67",
+      "text": {
+        "de": "An Frontier-Labore und eingebettete Prüfer: Wenn ein Labor sein Sicherheitsrahmenwerk, seine Prüfinfrastruktur oder seine Offenlegungsregeln so ändert, dass die Durchsetzbarkeit früherer Verpflichtungen geschwächt wird — etwa indem enger gefasst wird, was als meldepflichtiger Vorfall gilt —, welche Veröffentlichungspflicht gilt dann für den eingebetteten Prüfer, der diese strukturelle Änderung bemerkt, und ist dieser Prüfer vor Entlassung geschützt, wenn er sie offenlegt?",
+        "en": "To frontier labs and embedded evaluators: if a lab updates its safety framework, evaluation harness, or disclosure rules in a way that weakens enforceability of earlier commitments — for example by narrowing what counts as a reportable incident — what publication duty applies to the embedded evaluator who detects that structural change, and is the evaluator protected from dismissal when exposing it?"
+      }
+    },
+    {
+      "id": "verify-82",
+      "text": {
+        "de": "Wenn eingebettete Prüfer mit Zugang auf Mitarbeiterebene (P9, P26–P28) fortlaufend KI-Agenten inspizieren, die selbstständig an Modellarchitekturen und Algorithmen forschen (A42): Welche durchsetzbare rechtliche und kognitive Quarantäne stellt sicher, dass der Prüfer bei späteren Audits nicht unbeabsichtigt proprietäre algorithmische Durchbrüche an konkurrierende Labore weitergibt, und wie wird dies auch bei Fluktuation im Prüfpersonal durchgesetzt?",
+        "en": "When embedded evaluators with employee-level access (P9, P26–P28) continuously inspect AI agents performing autonomous research on model architectures and algorithms (A42), what enforceable legal and cognitive quarantine ensures the evaluator does not inadvertently transfer proprietary algorithmic breakthroughs to competing labs during subsequent audits, and how is this enforced across auditing staff turnover?"
+      }
+    }
+  ],
+  "bewertung": null
+}

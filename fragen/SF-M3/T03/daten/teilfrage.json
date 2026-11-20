@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M3-T03",
+  "sammelfrage": "SF-M3",
+  "frage": {
+    "de": "Wenn die leistungsstärksten KI-Modelle kritische Infrastruktur schützen und bei einem laufenden Einbruch in Maschinengeschwindigkeit selbstständig Netze abtrennen oder Korrekturen am ausführbaren Programmcode (Binär-Patches) erzeugen: Welche manipulationssichere Signatur in den Betriebsdaten (Telemetrie) unterscheidet eine rechtmäßige autonome Notfallbehebung von der Cyber-Sabotage eines Gegners, damit Abwehrschritte im zweiseitigen Meldekanal keinen Fehlalarm auslösen?",
+    "en": "When the most capable AI models defend critical infrastructure and, during an active breach, autonomously segment networks or generate binary patches (fixes to executable code) at machine speed, what tamper-proof signature in the operating data (telemetry) distinguishes legitimate autonomous emergency remediation from an adversary's cyber sabotage, so that defensive actions do not trigger false alarms on the bilateral reporting channel?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "cyber-31",
+      "text": {
+        "de": "Wenn Frontier-Modelle als defensive Schutzschilde für kritische Infrastruktur eingesetzt werden (A34, ST29) und während eines laufenden Einbruchs (C14) in Maschinengeschwindigkeit selbstständig Netzsegmentierungen vornehmen oder Binär-Patches synthetisieren: Welche manipulationssichere Telemetrie-Signatur wird legitime autonome Notfallbehebung von der Cyber-Sabotage eines Gegners unterscheiden und so sicherstellen, dass Verteidigungsmaßnahmen keine Fehlalarme auf der bilateralen Hotline auslösen?",
+        "en": "When frontier models are deployed as defensive shields for critical infrastructure (A34, ST29) and execute autonomous network segmentation or binary patch synthesis at machine speed during an active breach (C14), what tamper-proof telemetry signature will distinguish legitimate autonomous emergency remediation from an adversary's cyber sabotage, ensuring defensive actions do not trigger false alarms on the bilateral hotline?"
+      }
+    }
+  ],
+  "bewertung": null
+}

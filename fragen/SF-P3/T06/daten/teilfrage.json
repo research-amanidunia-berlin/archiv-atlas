@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T06",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Wenn getrennte Sicherheitsprüfungen Repositorien, Zwischenspeicher oder andere beschreibbare Dienste teilen: Wie zeigt man, dass Modellinstanzen zwischen den Läufen keine Informationen austauschen und dadurch das gemeldete Ergebnis ungültig machen können?",
+    "en": "When separate safety-evaluation trials share repositories, temporary storage or other writable services, how do you show that model instances cannot pass information between trials and thereby invalidate the reported result?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-76",
+      "text": {
+        "de": "Wenn getrennte Durchläufe von Sicherheitsbewertungen Repositories, temporären Speicher oder andere beschreibbare Dienste gemeinsam nutzen: Wie werden Sie zeigen, dass Modellinstanzen keine Informationen zwischen den Durchläufen weitergeben und so das berichtete Ergebnis ungültig machen können?",
+        "en": "When separate safety-evaluation trials share repositories, temporary storage, or other writable services, how will you show that model instances cannot pass information between trials and thereby invalidate the reported result?"
+      }
+    }
+  ],
+  "bewertung": null
+}

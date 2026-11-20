@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T06",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Wie wird Melden günstiger als Schweigen, und verpflichtet sich jeder Staat zu melden, auch wenn eine Meldung offenlegt, was er erkennen kann? Verpflichtet sich jeder Staat zu einer Mindestfähigkeit zum Erkennen und Melden für seine Betreiber kritischer Infrastruktur, und wer legt diese fest, stattet sie aus und prüft sie, bevor der Kanal als betriebsbereit erklärt wird?",
+    "en": "How is reporting made cheaper than silence, and will each state commit to report even when a report reveals what it can detect? Will each state commit to a minimum detection-and-reporting capacity for its critical-infrastructure operators, and who sets, equips and audits it before the channel is declared operational?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-19",
+      "text": {
+        "de": "Ein Hotline-Bericht kann offenlegen, was die meldende Seite erkennen kann. Wenn das teuer ist, könnte eine Seite über einen Vorfall schweigen, den sie gesehen hat. Wie macht die Hotline das Melden zur günstigeren Wahl — und wird sich jede Seite verpflichten zu melden, selbst wenn der Bericht eine ihrer Erkennungsfähigkeiten offenlegt?",
+        "en": "A hotline report can reveal what the reporting side is able to detect. If that is costly, a side may stay silent about an incident it has seen. How will the hotline make reporting the cheaper choice — and will each side commit to report even when the report exposes one of its detection capabilities?"
+      }
+    },
+    {
+      "id": "hotline-32",
+      "text": {
+        "de": "Eine Hotline kann nur Vorfälle melden, die jemand entdeckt. Chinas Aufsichtsplattform (C22) und die sicheren Kanäle, die für Betreiber kritischer Infrastruktur und für Regierungen vorgeschlagen werden (ST29), setzen voraus, dass die Betreiber KI-gesteuerte Angriffe erkennen können. Wird sich jede Seite auf eine Mindestfähigkeit zum Erkennen und Melden bei ihren Betreibern kritischer Infrastruktur verpflichten – wer legt sie fest, stattet sie aus und prüft sie –, bevor der Mechanismus für einsatzbereit erklärt wird?",
+        "en": "A hotline can only report incidents that someone detects. China's supervision platform (C22) and the secure channels proposed for critical infrastructure operators and governments (ST29) presume operators can see AI-driven attacks. Will each side commit to a minimum detection-and-reporting capacity for its critical-infrastructure operators — who sets, equips and audits it — before the mechanism is declared operational?"
+      }
+    }
+  ],
+  "bewertung": null
+}

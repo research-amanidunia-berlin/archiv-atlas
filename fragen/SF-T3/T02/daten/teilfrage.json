@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T3-T02",
+  "sammelfrage": "SF-T3",
+  "frage": {
+    "de": "Werden Labore, die ein Maß für die Überwachbarkeit ihrer Modelle und ein Maß für selbstständige KI-Forschung veröffentlichen, diese beiden Maße gemeinsam nach demselben Zeitplan veröffentlichen? Und wird eine Normungsstelle nicht jedes Maß für sich, sondern ihre sich kreuzenden Verläufe (sinkende Überwachbarkeit bei steigender selbstständiger Forschung) zum Auslöser einer Überprüfung machen, als Frühwarnung für den Verlust menschlicher Aufsicht, noch bevor sich der Beginn der Selbstverbesserung benennen lässt?",
+    "en": "Will labs that publish a measure of how well their models can be monitored and a measure of autonomous AI research publish both jointly on one calendar? And will a standards body make not either measure alone but their crossing trajectories (declining monitorability alongside rising autonomous research) a trigger for review, as an early warning of lost human oversight before the onset of self-improvement can be named?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-37",
+      "text": {
+        "de": "Pachocki schreibt, dass Modelle „viel klüger werden, selbst ganz ohne ausformuliertes Denken“ (A28) und dass der Verlass auf die Überwachung der Gedankenkette „schrittweise abnimmt“ (A25), während OpenAI davon getrennt vorschlägt, „den Umfang autonomer Forschung innerhalb eines KI-Unternehmens“ zu messen (ST26). Die Kennzahl von ST26 ist verhaltensbezogen – sie zählt, was Forschende tun. Was niemand vorgeschlagen hat, ist die Kopplung: Ein gemessener Rückgang der Überwachbarkeit (A25) zusammen mit einem gemessenen Anstieg autonomer Forschung (ST26) ist das, was das Material einer operativen Frühwarnsignatur für den Verlust menschlicher Aufsicht am nächsten bietet – noch bevor der Beginn von RSI (#106) überhaupt benannt werden kann. Werden die Labore, die beide Zahlen veröffentlichen – OpenAI veröffentlicht eine Kennzahl für Überwachbarkeit (g-mean²), Anthropic seinen RSI-Minitest –, sie gemeinsam nach ein und demselben Kalender veröffentlichen, und wird das Standardisierungsgremium ihre sich kreuzenden Verläufe, nicht eine der beiden allein, als Auslöser für eine Überprüfung behandeln?",
+        "en": "Pachocki writes that models \"become much smarter even without using verbalized reasoning at all\" (A28) and that reliance on CoT monitoring is \"progressively diminishing\" (A25), while OpenAI separately proposes measuring \"the amount of autonomous research happening within an AI company\" (ST26). ST26's metric is behavioral — it counts what researchers do. What nobody has proposed is the pairing: a measured decline in monitorability (A25) alongside a measured rise in autonomous research (ST26) is the closest thing the material offers to an operational early-warning signature for the loss of human oversight, before RSI onset (#106) can even be named. Will the labs that publish both numbers — OpenAI publishes a monitorability metric (g-mean²); Anthropic publishes its RSI mini-test — publish them jointly on one calendar, and will the standards body treat their crossing trajectories, not either alone, as a review trigger?"
+      }
+    }
+  ],
+  "bewertung": null
+}

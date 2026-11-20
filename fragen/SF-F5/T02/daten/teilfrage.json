@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F5-T02",
+  "sammelfrage": "SF-F5",
+  "frage": {
+    "de": "Könnten Staaten gemeinsame rote Linien vereinbaren, die den Einsatz KI-verstärkter Cyberfähigkeiten gegen kritische zivile Infrastruktur strikt verbieten?",
+    "en": "Could states establish a shared set of red lines that strictly prohibits the use of AI-enhanced cyber capabilities against critical civilian infrastructure?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "cyber-25",
+      "text": {
+        "de": "Könnten die USA und China gemeinsame „rote Linien“ für KI-gestützte Cyberfähigkeiten festlegen, deren Einsatz gegen kritische zivile Infrastruktur strikt verboten ist?",
+        "en": "Could the US and China establish a shared set of \"red lines\" regarding AI-enhanced cyber-capabilities that are strictly prohibited for use against critical civilian infrastructure?"
+      }
+    }
+  ],
+  "bewertung": null
+}

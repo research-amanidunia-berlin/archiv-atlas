@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P5-T02",
+  "sammelfrage": "SF-P5",
+  "frage": {
+    "de": "Könnten Staaten gemeinsame Kennzahlen und Vergleichsmaßstäbe für den Fortschritt bei ihren Transparenzzusagen veröffentlichen, mit vereinbarten Prüfabständen, damit die Öffentlichkeit beurteilen kann, ob ihre Gespräche messbare Ergebnisse für die Sicherheit bringen?",
+    "en": "Could states publish joint metrics and benchmarks for measuring progress on their transparency commitments, with agreed review intervals, so that the public can assess whether their talks are producing measurable safety outcomes?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-14",
+      "text": {
+        "de": "Könnten beide Seiten gemeinsame Kennzahlen und Benchmarks veröffentlichen, um den Fortschritt bei Transparenzzusagen zu messen, mit vereinbarten Prüfabständen, damit die Öffentlichkeit beurteilen kann, ob der Dialog messbare Sicherheitsergebnisse bringt?",
+        "en": "Could both sides publish joint metrics and benchmarks for measuring progress on transparency commitments, with agreed review intervals, so the public can assess whether the dialogue is producing measurable safety outcomes?"
+      }
+    }
+  ],
+  "bewertung": null
+}

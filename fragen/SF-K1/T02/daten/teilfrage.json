@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-K1-T02",
+  "sammelfrage": "SF-K1",
+  "frage": {
+    "de": "Welchen gemeinsamen Maßstab dafür, dass „der Mensch entschieden hat“, würden Regierungen annehmen, wenn ein Bediener bei einer Entscheidung über den Einsatz von Gewalt, vor allem über Atomwaffen, eine KI-Empfehlung in Sekunden bestätigt, zu schnell zum Abwägen?",
+    "en": "What shared standard for “the human decided” would governments accept when, in a decision on the use of force, above all nuclear weapons, an operator endorses an AI recommendation in seconds, too fast to deliberate?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-18",
+      "text": {
+        "de": "Das Material besagt, dass Entscheidungen über den Einsatz von Gewalt, vor allem das nukleare Kommando, menschlich bleiben müssen. Wenn ein KI-System eine Vorgehensweise empfiehlt, der ein menschlicher Bediener in Sekunden zustimmt — zu schnell, um abzuwägen —, was ist der gemeinsame Maßstab dafür, dass „der Mensch entschieden hat\", den beide Regierungen als Wahrung der menschlichen Entscheidung akzeptieren würden?",
+        "en": "The material says decisions on the use of force, above all nuclear command, must stay human. If an AI system recommends a course of action that a human operator endorses in seconds — too fast to deliberate — what is the shared standard for \"the human decided\" that both governments would accept as keeping the decision human?"
+      }
+    }
+  ],
+  "bewertung": null
+}

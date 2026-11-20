@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T03",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Welchen Prüfpunkt für Fähigkeiten und welche Bescheinigung würde ein Labor heute schriftlich zusagen, bevor eine Aufsichtsbehörde ihm einen solchen Prüfpunkt vorschreibt?",
+    "en": "Which capability checkpoint and which certification would a lab commit to in writing today, before a regulator writes such a checkpoint for it?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "redlines-06",
+      "text": {
+        "de": "Welchen Fähigkeits-Kontrollpunkt X und welche Zertifizierung Y (P33) würden Sie heute schriftlich zusagen, bevor eine Aufsichtsbehörde sie für Sie festschreibt?",
+        "en": "Which capability checkpoint X and certification Y (P33) would you commit to in writing today, before a regulator writes one for you?"
+      }
+    }
+  ],
+  "bewertung": null
+}

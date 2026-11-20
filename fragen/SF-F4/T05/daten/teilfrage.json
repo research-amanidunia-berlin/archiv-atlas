@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F4-T05",
+  "sammelfrage": "SF-F4",
+  "frage": {
+    "de": "Wie sollen eingebettete Prüfer (unabhängige Prüfer mit dauerhaftem, mitarbeiterähnlichem Zugang in KI-Firmen) auch bei kleineren KI-Firmen zum Einsatz kommen, die gefährliche Fähigkeiten entwickeln können, ohne nach Rechenaufwand oder Umsatz zur Spitze zu zählen?",
+    "en": "How should embedded evaluators (independent evaluators with ongoing, employee-like access inside AI companies) extend to smaller AI companies that may develop dangerous capabilities without being at the leading edge by compute or revenue?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "verify-31",
+      "text": {
+        "de": "Wie sollten eingebettete Prüfer auch kleinere KI-Firmen erreichen, die gefährliche Fähigkeiten entwickeln könnten, ohne nach Rechenleistung oder Umsatz zur Spitze zu gehören?",
+        "en": "How should embedded evaluators extend to smaller AI companies that may develop dangerous capabilities without being \"frontier\" by compute or revenue?"
+      }
+    }
+  ],
+  "bewertung": null
+}

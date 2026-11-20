@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A1-T02",
+  "sammelfrage": "SF-A1",
+  "frage": {
+    "de": "Wie weist ein Agent kryptografisch nach, wer er ist und welche genaue Befugnis ihm ein Nutzer, eine Firma, ein Labor oder eine Regierung übertragen hat, und wie wird sie nach einer Kompromittierung entzogen?",
+    "en": "How does an agent cryptographically prove its identity and the exact authority delegated by a user, company, lab or government, and how is that authority revoked after a compromise?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "cyber-27",
+      "text": {
+        "de": "Wie sollte ein KI-Agent kryptografisch seine Identität und die genaue, ihm von einem Nutzer, einem Unternehmen, einem Labor oder einer Regierung übertragene Befugnis nachweisen, und wie sollte diese Befugnis nach einer Kompromittierung widerrufen werden?",
+        "en": "How should an AI agent cryptographically prove its identity and the exact authority delegated by a user, company, lab, or government, and how should that authority be revoked after a compromise?"
+      }
+    }
+  ],
+  "bewertung": null
+}

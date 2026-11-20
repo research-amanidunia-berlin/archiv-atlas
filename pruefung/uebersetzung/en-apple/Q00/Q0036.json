@@ -1,0 +1,79 @@
+{
+  "Q003681": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "Laut Beitrag",
+            "englisch": "According to the paper",
+            "besser": "According to the post"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Für die Benchmarks … beansprucht der Beitrag Ergebnisse auf dem damaligen Stand der Technik.",
+            "englisch": "For the benchmarks … the paper claims results based on the state of the art at the time.",
+            "besser": "For the benchmarks … the post claims state-of-the-art results at the time."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "habe … weniger Echtzeit benötigt",
+            "englisch": "requiring less real-time processing",
+            "besser": "required less time"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "bildet Perceiver AR die Eingabe mittels Cross-Attention auf wenige latente Zustände ab",
+            "englisch": "Perceiver AR reduces the input using cross-attention to a few latent states",
+            "besser": "Perceiver AR maps the input via cross-attention to a few latent states"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Leistungsangaben",
+            "englisch": "performance specifications",
+            "besser": "performance claims"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q003681",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:51:27"
+  }
+}

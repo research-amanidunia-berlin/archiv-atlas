@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T03",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Was ist das Kleinste, das ein Modell öffentlich vorlegen kann (ein Test, ein Protokoll, eine Spur), das als Beleg für Ausrichtung an den vorgesehenen Zielen und Werten zählt und nicht nur für Leistung?",
+    "en": "What is the smallest thing a model could produce in public (a test, a log, a trace) that counts as evidence of alignment with intended goals and values rather than performance?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-12",
+      "text": {
+        "de": "Was ist das Kleinste, das ein Modell öffentlich vorlegen könnte – ein Test, ein Protokoll, eine Spur –, das als Beleg für Alignment zählt statt für eine Vorführung?",
+        "en": "What is the smallest thing a model could produce in public, a test, a log, a trace, that counts as evidence of alignment rather than performance?"
+      }
+    }
+  ],
+  "bewertung": null
+}

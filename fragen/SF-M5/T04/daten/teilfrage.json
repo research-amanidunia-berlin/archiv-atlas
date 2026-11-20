@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T04",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Zählen Meldungen, die ein eingesetztes Modell selbst auslöst oder die von externen Nutzern kommen, die bedenkliches Verhalten beobachtet haben, im Offenlegungsverfahren des Labors, und muss jede eine begründete Antwort bekommen?",
+    "en": "Do reports that originate from a deployed model's own flagging, or from external users who observed concerning behaviour, count in the lab's disclosure process, and must each receive a reasoned answer?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "transparency-13",
+      "text": {
+        "de": "An Labore, die Meldesysteme für Fehlausrichtung betreiben: Zählen Meldungen, die von der eigenen Kennzeichnung eines eingesetzten Modells stammen, oder von externen Nutzern, die besorgniserregendes Verhalten beobachtet haben, zu Ihren Offenlegungswegen — und muss jede davon eine begründete Antwort erhalten?",
+        "en": "To labs running misalignment-reporting frameworks: do reports that originate from a deployed model's own flagging, or from external users who observed concerning behavior, count in your disclosure tracks — and must each receive a reasoned answer?"
+      }
+    }
+  ],
+  "bewertung": null
+}

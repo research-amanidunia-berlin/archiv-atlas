@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T05",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Welche Cyber-Prüfungen und welche Testbausteine (Testfälle, Bewertungswerkzeuge, Datensätze) würden jedes Labor und jedes Ministerium anstelle einer bloßen Behauptung als gültig anerkennen, wenn andere sie an ihrem Modell durchführen? Und welche genormte Testsammlung würden Labore verschiedener Staaten gemeinsam an eingefrorenen Modellversionen laufen lassen, verwaltet von einer dritten Stelle, der alle trauen?",
+    "en": "Which cyber-capability evaluations and which test artefacts (test cases, grading tools, datasets) would each lab and each ministry accept as valid in place of an assertion if others ran them on their model? And which standardised suite would labs in different countries jointly run on frozen model versions, administered by a third party all of them trust?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "cyber-19",
+      "text": {
+        "de": "Welche Bewertung der Cyber-Fähigkeit würden jedes Labor und jedes Ministerium als gültig anerkennen, wenn die andere Seite sie an ihrem Modell durchführt?",
+        "en": "Which cyber-capability evaluation would each lab and each ministry accept as valid if the other side ran it on their model?"
+      }
+    },
+    {
+      "id": "cyber-20",
+      "text": {
+        "de": "Welche konkreten Testmaterialien – Testfälle, Bewertungsverfahren, Datensätze – würden Sie von einem ausländischen Labor anstelle einer bloßen Behauptung akzeptieren?",
+        "en": "What specific test artefacts — test cases, graders, datasets — would you accept from a foreign lab in place of an assertion?"
+      }
+    },
+    {
+      "id": "cyber-21",
+      "text": {
+        "de": "Welche standardisierte Sammlung von Cyber-Bewertungen würden US-amerikanische und chinesische Spitzenlabore gemeinsam an eingefrorenen Modellversionen durchführen, und welche beiderseits vertrauenswürdige dritte Partei würde sie verwalten?",
+        "en": "What standardized cyber-capability evaluation suite would US and Chinese frontier labs jointly run on frozen model versions, and which mutually trusted third party would administer it?"
+      }
+    }
+  ],
+  "bewertung": null
+}

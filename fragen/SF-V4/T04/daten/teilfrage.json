@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V4-T04",
+  "sammelfrage": "SF-V4",
+  "frage": {
+    "de": "Wenn ein Eigenwert des Menschseins verankert werden soll: Lässt er sich schützen, ohne sich vorher zu einigen, worin er besteht?",
+    "en": "If an intrinsic value to being human is to be enshrined, can it be protected without first agreeing on what it is?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-08",
+      "text": {
+        "de": "Der Essay fordert uns auf, „einen dem Menschsein innewohnenden Wert festzuschreiben“ (A48). Können wir diesen Wert schützen, ohne uns zuerst zu einigen, was er ist?",
+        "en": "The essay asks us to \"enshrine an intrinsic value to being human\" (A48). Can we protect that value without first agreeing on what it is?"
+      }
+    }
+  ],
+  "bewertung": null
+}

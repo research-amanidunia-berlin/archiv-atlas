@@ -1,0 +1,99 @@
+{
+  "Q004180": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "mögliche Schäden",
+            "englisch": "possible damages",
+            "besser": "possible harms"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Diese Forschung habe ethische Fragen der Datenverarbeitung in einen breiteren Zusammenhang sozialer Gerechtigkeit gestellt.",
+            "englisch": "This research has placed ethical questions of data processing in a broader context of social justice.",
+            "besser": "This research is said to have placed ethical questions of data processing in a broader context of social justice."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "technische Schadensbegrenzung",
+            "englisch": "technical damage limitation",
+            "besser": "technical harm mitigation"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Datenvorteile",
+            "englisch": "data advantages",
+            "besser": "benefits from data use"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Der vorliegende Auszug … konkrete Projektergebnisse nennt er nicht.",
+            "englisch": "The present excerpt … he does not mention specific project results.",
+            "besser": "The present excerpt … it does not mention specific project results."
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Datengerechtigkeit weiter zu fassen",
+            "englisch": "to further define data justice",
+            "besser": "to broaden the understanding of data justice"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "gerechte Verteilung von Datenvorteilen",
+            "englisch": "fair distribution of data advantages",
+            "besser": "fair distribution of the benefits of data use"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Der vorliegende Auszug … konkrete Projektergebnisse nennt er nicht.",
+            "englisch": "The present excerpt … he does not mention specific project results.",
+            "besser": "The present excerpt … it does not mention specific project results."
+          }
+        ]
+      }
+    ],
+    "q": "Q004180",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:51:56"
+  }
+}

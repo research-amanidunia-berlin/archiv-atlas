@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T08",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Wird ein gemeinsamer Sicherheitstest als kulturell oder sprachlich verzerrt befunden, sodass er die Modelle eines Landes systematisch bevorzugt: Welche unabhängige Stelle ist befugt, ihn zurückzuziehen oder zu überarbeiten, und welche veröffentlichten Belege muss jemand vorlegen, der ihn anficht, um die Überarbeitung zu erzwingen?",
+    "en": "If a shared safety benchmark is found culturally or linguistically biased so that it systematically favours one country's models, which independent body has the authority to retire or revise it, and what published evidence must a challenger produce to force that revision?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-50",
+      "text": {
+        "de": "An beide Regierungen und die Normungsgremien, die Frontier-KI-Benchmarks beherbergen werden: Wenn sich zeigt, dass ein gemeinsamer Sicherheits-Benchmark kulturell oder sprachlich verzerrt ist und systematisch die Modelle eines Landes gegenüber denen des anderen bevorzugt — welche unabhängige Stelle hat die Befugnis, ihn abzuschaffen oder zu überarbeiten, und welche veröffentlichten Belege muss eine anfechtende Partei vorlegen, um diese Überarbeitung zu erzwingen?",
+        "en": "To both governments and the standards bodies that will host frontier-AI benchmarks: if a shared safety benchmark is found to be culturally or linguistically biased so that it systematically favors one country's models over the other's, what independent body has the authority to retire or revise it, and what published evidence must a challenger produce to force that revision?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,91 @@
+{
+  "Q001866": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "handeln gleichzeitig mit einer gegnerischen Partei",
+            "englisch": "simultaneously trade with an opposing faction",
+            "besser": "simultaneously engage with an opposing faction"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "auf dem Weg zu Agenten",
+            "englisch": "a step in the way toward agents",
+            "besser": "a step toward agents"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "den Einstieg ... unterstützen",
+            "englisch": "support the introduction",
+            "besser": "support getting started"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "laut Beitrag",
+            "englisch": "according to the paper",
+            "besser": "according to the article"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "schränkt zudem ausdrücklich ein, dass KI noch weit davon entfernt sei",
+            "englisch": "explicitly limits that AI is still far from",
+            "besser": "also explicitly notes that AI is still far from"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "eine bildbasierte Schnittstelle",
+            "englisch": "a image-based interface",
+            "besser": "an image-based interface"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Lernaufgaben",
+            "englisch": "scenarios",
+            "besser": "learning tasks"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": []
+      }
+    ],
+    "q": "Q001866",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:50:42"
+  }
+}

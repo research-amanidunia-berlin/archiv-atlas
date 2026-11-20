@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T05",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Wenn ein öffentlicher Bericht über Fehlausrichtung Dritte nennt oder betrifft: Welche eng begrenzte Gelegenheit haben sie, vor der Veröffentlichung Tatsachenfehler zu berichtigen, und wer entscheidet im Streit, ohne ihnen ein Veto über die Veröffentlichung zu geben?",
+    "en": "When a public misalignment report identifies or affects third parties, what narrow opportunity will they have to correct factual errors before publication, and who resolves a dispute without giving them a veto over publication?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "transparency-25",
+      "text": {
+        "de": "Wenn ein öffentlicher Bericht über Fehlausrichtung einen Dritten benennt oder betrifft: Welche eng begrenzte Möglichkeit erhält dieser Dritte, sachliche Fehler vor der Veröffentlichung zu korrigieren, und wer entscheidet einen Streit, ohne dem Dritten ein Veto gegen die Veröffentlichung zu geben?",
+        "en": "When a public misalignment report identifies or affects a third party, what narrow opportunity will that party have to correct factual errors before publication, and who resolves a dispute without giving the party a veto over publication?"
+      }
+    }
+  ],
+  "bewertung": null
+}

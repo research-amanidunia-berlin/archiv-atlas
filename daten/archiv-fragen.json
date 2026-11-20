@@ -1,0 +1,268 @@
+{
+  "fragen": {
+    "SF-A1": {
+      "nr": 20,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Welche Befugnisse darf ein KI-Agent haben, also eine KI, die selbstständig mit Werkzeugen handelt? Wer entzieht sie ihm, und wie prüft man, dass er in seinem Auftrag bleibt?"
+    },
+    "SF-A2": {
+      "nr": 21,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Lassen sich KI-Systeme sicher anhalten, zurücksetzen, abschotten oder drosseln, und wer darf das anordnen?"
+    },
+    "SF-A3": {
+      "nr": 22,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Welche Gefahren entstehen, wenn viele KI-Systeme zusammenwirken oder dieselbe Infrastruktur teilen?"
+    },
+    "SF-E1": {
+      "nr": 38,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Welche echte Stimme bekommen weitere Staaten, kleine Labore, Hochschulen und Zivilgesellschaft bei den Regeln für KI?"
+    },
+    "SF-E2": {
+      "nr": 39,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "In welchem Rahmen sollen Staaten KI regeln, und wo liegt eine gemeinsame Untergrenze?"
+    },
+    "SF-E3": {
+      "nr": 40,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Welche Stellen sind in einem Staat für KI-Sicherheit und Prüfungen zuständig, und was davon gibt es schon?"
+    },
+    "SF-E4": {
+      "nr": 41,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen?"
+    },
+    "SF-E5": {
+      "nr": 42,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Welche Mitsprache haben die Menschen, die mit KI leben, bei Tempo und Grenzen, und welche Entscheidungen müssen bei ihnen bleiben?"
+    },
+    "SF-F1": {
+      "nr": 10,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Wie misst man gefährliche Fähigkeiten eines Modells, vor allem im Cyberbereich, mit gemeinsam anerkannten, wiederholbaren Tests, die keine Sprache, Kultur oder Seite bevorzugen?"
+    },
+    "SF-F2": {
+      "nr": 11,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Wenn ein Staat ein Modell als Beleg für eine überschrittene Schwelle nennt oder ein Risiko an der Herkunft eines Modells festmacht: Wie wird das überprüfbar?"
+    },
+    "SF-F3": {
+      "nr": 12,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Welche Regeln gelten für gefährliche Fähigkeiten jenseits von Cyber, etwa in Biologie, Chemie, bei radioaktiven Stoffen oder in der Nukleartechnik?"
+    },
+    "SF-F4": {
+      "nr": 13,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Für welche Modelle, Entwickler und Einsätze gelten Prüfregeln, und wann muss neu geprüft werden?"
+    },
+    "SF-F5": {
+      "nr": 18,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Wie gehen Staaten gemeinsam gegen KI-gestützte Cyberangriffe vor und verhindern Eskalation zwischen autonomen Systemen, ohne die Verteidigung zu behindern?"
+    },
+    "SF-H1": {
+      "nr": 33,
+      "b": 6,
+      "bn": "Weitergeben",
+      "de": "Wo endet die erlaubte Nutzung fremder Modellausgaben, und wo beginnt unerlaubte Destillation, also das Trainieren eines eigenen Modells mit diesen Ausgaben?"
+    },
+    "SF-H2": {
+      "nr": 17,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Was darf offen veröffentlicht werden, und wer ist verantwortlich, wenn ein offenes Modell anderswo Schaden anrichtet?"
+    },
+    "SF-H3": {
+      "nr": 7,
+      "b": 2,
+      "bn": "Zusehen",
+      "de": "Wie lässt sich nachverfolgen, woraus ein Modell entstanden ist und was in ihm steckt?"
+    },
+    "SF-H4": {
+      "nr": 34,
+      "b": 6,
+      "bn": "Weitergeben",
+      "de": "Was geschieht mit Modellen und Sicherheitspflichten, wenn ein Labor verkauft, aufgelöst oder ein Modell stillgelegt wird?"
+    },
+    "SF-H5": {
+      "nr": 5,
+      "b": 1,
+      "bn": "Bauen",
+      "de": "Wann sind Chip- und Exportkontrollen eine Sicherheitsmaßnahme, und wann ein dauerhafter Vorteil?"
+    },
+    "SF-H6": {
+      "nr": 8,
+      "b": 2,
+      "bn": "Zusehen",
+      "de": "Welche Belege klären Vorwürfe von Spionage und Datenabfluss zwischen Staaten?"
+    },
+    "SF-I1": {
+      "nr": 25,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Wie erkennt man KI-erzeugte Inhalte und KI-erzeugte Einflussnahme, ohne die Meinungsfreiheit zu beschneiden?"
+    },
+    "SF-K1": {
+      "nr": 23,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Wie stellt man sicher und weist nach, dass Entscheidungen über den Einsatz von Gewalt, vor allem über Atomwaffen, beim Menschen bleiben?"
+    },
+    "SF-K2": {
+      "nr": 37,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Wie weit gelten KI-Abkommen für Verbündete und Geheimdienste, und wie verhalten sie sich zu bestehenden Rüstungskontrollverträgen und -regimen?"
+    },
+    "SF-M1": {
+      "nr": 26,
+      "b": 5,
+      "bn": "Melden",
+      "de": "Ab wann ist ein KI-Vorfall so ernst, dass Staaten ihn einander melden müssen?"
+    },
+    "SF-M2": {
+      "nr": 27,
+      "b": 5,
+      "bn": "Melden",
+      "de": "Wie muss ein Meldekanal zwischen Staaten gebaut sein, damit er verlässlich arbeitet, auch in einer Krise?"
+    },
+    "SF-M3": {
+      "nr": 28,
+      "b": 5,
+      "bn": "Melden",
+      "de": "Wie stellt man fest, ob ein Vorfall gewollt oder versehentlich war, und ob KI oder herkömmliche Mittel dahinterstecken?"
+    },
+    "SF-M4": {
+      "nr": 29,
+      "b": 5,
+      "bn": "Melden",
+      "de": "Wie kommen Meldungen von Laboren, Betreibern und Nutzern schnell und geschützt zu den Stellen, die handeln müssen, auch über Grenzen hinweg?"
+    },
+    "SF-M5": {
+      "nr": 30,
+      "b": 5,
+      "bn": "Melden",
+      "de": "Was muss vor und nach einem Vorfall geschehen, damit Verantwortliche einstehen, man daraus lernt, Beweise bleiben und Betroffene auch über Grenzen hinweg zu ihrem Recht kommen?"
+    },
+    "SF-O1": {
+      "nr": 9,
+      "b": 2,
+      "bn": "Zusehen",
+      "de": "Wie können Mitarbeitende Sicherheitsbedenken melden, ohne alles zu riskieren?"
+    },
+    "SF-O2": {
+      "nr": 31,
+      "b": 5,
+      "bn": "Melden",
+      "de": "Was sollten Regierungen, Labore und Prüfer über ihre Gespräche, Zusagen, Prüfungen und Eingriffe offenlegen?"
+    },
+    "SF-O3": {
+      "nr": 32,
+      "b": 5,
+      "bn": "Melden",
+      "de": "Welcher Text gilt, und wie beweist man, dass ein Dokument nicht verändert wurde?"
+    },
+    "SF-P1": {
+      "nr": 35,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Unter welchen Bedingungen lassen Staaten und Labore sich gegenseitig prüfen: mit welchem Zugang, welchen Daten und welchen öffentlichen Ergebnissen?"
+    },
+    "SF-P2": {
+      "nr": 6,
+      "b": 2,
+      "bn": "Zusehen",
+      "de": "Wie bleiben Prüfer, die in einem Labor arbeiten, wirklich unabhängig?"
+    },
+    "SF-P3": {
+      "nr": 14,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind?"
+    },
+    "SF-P4": {
+      "nr": 1,
+      "b": 1,
+      "bn": "Bauen",
+      "de": "Wie lässt sich die Größe von Trainingsläufen überprüfen, ohne Modelldetails offenzulegen?"
+    },
+    "SF-P5": {
+      "nr": 36,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Wie überprüft man, ob Zusagen zwischen Staaten eingehalten werden, auch über Jahre und Regierungswechsel hinweg?"
+    },
+    "SF-T1": {
+      "nr": 2,
+      "b": 1,
+      "bn": "Bauen",
+      "de": "Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie?"
+    },
+    "SF-T2": {
+      "nr": 3,
+      "b": 1,
+      "bn": "Bauen",
+      "de": "Woran erkennen andere, dass ein Labor wirklich bremst?"
+    },
+    "SF-T3": {
+      "nr": 4,
+      "b": 1,
+      "bn": "Bauen",
+      "de": "Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben?"
+    },
+    "SF-V1": {
+      "nr": 15,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Was zählt als Beleg für die Werte eines Modells, wenn sein sichtbares Denken und seine Selbstauskünfte allein nicht genügen?"
+    },
+    "SF-V3": {
+      "nr": 16,
+      "b": 3,
+      "bn": "Freigeben",
+      "de": "Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist?"
+    },
+    "SF-V4": {
+      "nr": 44,
+      "b": 8,
+      "bn": "Verstehen",
+      "de": "Was für ein Wesen ist ein Modell, und was folgt daraus für den Umgang mit ihm und für den Wert des Menschseins?"
+    },
+    "SF-V5": {
+      "nr": 19,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Was soll heute für das Verhalten und den Betrieb von Modellen gelten?"
+    },
+    "SF-W2": {
+      "nr": 43,
+      "b": 7,
+      "bn": "Entscheiden",
+      "de": "Wie wirken sich Wettbewerbsrecht und öffentliche Beschaffung auf die KI-Sicherheit aus?"
+    },
+    "SF-W3": {
+      "nr": 24,
+      "b": 4,
+      "bn": "Betreiben",
+      "de": "Wie schützt man Finanzmärkte vor Folgen von KI, von vertraulichen Entscheidungen über Pausen bis zu Kursstürzen in Sekunden?"
+    }
+  }
+}

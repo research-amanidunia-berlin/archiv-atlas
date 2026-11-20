@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T05",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Welches Mindestpaket (Datenverzeichnisse, Code, Zufallsstartwerte, Abbilder der Rechenumgebung, Prüferversionen, Fehlerprotokolle und Annahmen über die Hardware) muss ein Labor sichern oder kontrolliert hinterlegen, damit ein Prüfer ein sicherheitskritisches Trainings- oder Prüfergebnis auch nach Ende seines Zugangs nachrechnen kann, und welche Geheimnisse bleiben unzugänglich?",
+    "en": "Which minimum package (data manifests, code, seeds, environment images, evaluator versions, failure logs and hardware assumptions) must a lab preserve or place in controlled escrow (a secured deposit with a third party) so that an auditor can rerun a safety-critical training or evaluation result even after access ends, and which secrets must stay inaccessible?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-62",
+      "text": {
+        "de": "Welches Mindestpaket zur Reproduzierbarkeit — Datenmanifeste, Code, Zufallswerte, Umgebungs-Abbilder, Versionen der Prüfwerkzeuge, Fehlerprotokolle und Annahmen zur Hardware — muss ein Labor aufbewahren oder unter kontrollierter Treuhandschaft hinterlegen, damit ein Prüfer ein sicherheitskritisches Trainings- oder Bewertungsergebnis auch nach Ende des Zugangs erneut durchführen kann — und welche Geheimnisse müssen dabei unzugänglich bleiben?",
+        "en": "What minimum reproducibility package—data manifests, code, seeds, environment images, evaluator versions, failure logs, and hardware assumptions—must a lab preserve or place under controlled escrow so an auditor can rerun a safety-critical training or evaluation result after access ends, and which secrets must remain inaccessible?"
+      }
+    }
+  ],
+  "bewertung": null
+}

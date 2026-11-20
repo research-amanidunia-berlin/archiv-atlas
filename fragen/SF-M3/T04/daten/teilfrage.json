@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M3-T04",
+  "sammelfrage": "SF-M3",
+  "frage": {
+    "de": "Unter welchen Bedingungen würden Staaten die eigene Darstellung des beteiligten Modells als Teil der Vorfallakte anerkennen, und was verhindert, dass sie eine eigennützige Fassung der Ereignisse ist? Enthält ein authentifizierter Vorfallbericht Agentenspuren (Protokolle der Arbeitsschritte eines KI-Agenten) oder anderes Material des verdächtigen Systems: Welcher Test zeigt, dass die KI-Werkzeuge der empfangenden Ermittler darin eingebettete Anweisungen als Beweismittel prüfen, statt sie auszuführen?",
+    "en": "Under what conditions would states accept the involved model's own account as part of the incident record, and what keeps it from being a self-serving version of events? If an authenticated incident report contains agent traces (logs of an AI agent's steps) or other material produced by the suspected system, what test shows that the receiving investigators' AI tools treat instructions embedded in it as evidence to inspect rather than instructions to execute?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-40",
+      "text": {
+        "de": "An die Regierungen und an Normungsgremien: Wenn ein KI-Vorfall eintritt, kann das beteiligte Modell gefragt werden, was geschehen ist; unter welchen Bedingungen würden beide Seiten die eigene Darstellung eines Modells als Teil der Vorfallsakte akzeptieren, und was verhindert, dass diese Darstellung eine beschönigende Version der Ereignisse ist?",
+        "en": "To the governments and to standards bodies: when an AI incident occurs, the model involved can be asked what happened; under what conditions would both sides accept a model's own account as part of the incident record, and what prevents that account from being a self-serving version of events?"
+      }
+    },
+    {
+      "id": "hotline-35",
+      "text": {
+        "de": "Wenn ein authentifizierter Vorfallsbericht Agenten-Spuren oder anderes Material enthält, das von dem verdächtigten System erzeugt wurde: Welcher Test wird nachweisen, dass die KI-Werkzeuge der empfangenden Ermittler eingebettete Anweisungen als zu untersuchende Belege behandeln und nicht als auszuführende Anweisungen?",
+        "en": "If an authenticated incident report contains agent traces or other material produced by the suspected system, what test will demonstrate that receiving investigators’ AI tools treat embedded instructions as evidence to inspect rather than instructions to execute?"
+      }
+    }
+  ],
+  "bewertung": null
+}

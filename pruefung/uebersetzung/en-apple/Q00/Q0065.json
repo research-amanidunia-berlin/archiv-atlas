@@ -1,0 +1,105 @@
+{
+  "Q006506": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Raumfahrt",
+            "englisch": "space exploration",
+            "besser": "spaceflight"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Erfolgskontrolle",
+            "englisch": "progress evaluation / progress reviews",
+            "besser": "monitoring and evaluation"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Auch die Ausgestaltung der Fortschrittsbewertung bleibe laut Bericht weitgehend offen.",
+            "englisch": "The design of the progress evaluation also remains largely open according to the report.",
+            "besser": "The report also says that the details of progress evaluation remain largely open."
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Zugleich urteilt der einleitende Abschnitt, der Plan erläutere nicht, wie die Ziele konkret finanziert werden.",
+            "englisch": "At the same time, the introductory section, which explains the plan, does not specify how the goals will be financed concretely.",
+            "besser": "At the same time, the introductory section states that the plan does not explain how the goals will be financed in concrete terms."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "fasst den übrigen Inhalt sinngemäß zusammen",
+            "englisch": "summarizes the rest of the content in meaning",
+            "besser": "summarizes the rest of the content in its own words"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Anleihen oder andere Schulden aufzunehmen",
+            "englisch": "issue bonds or other debt",
+            "besser": "issue bonds or take on other forms of debt"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Erfolgskontrolle",
+            "englisch": "success control",
+            "besser": "monitoring and evaluation"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Erfolgskontrollen",
+            "englisch": "success controls",
+            "besser": "monitoring and evaluation"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Erfolgskontrolle",
+            "englisch": "success control",
+            "besser": "monitoring and evaluation"
+          }
+        ]
+      }
+    ],
+    "q": "Q006506",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:54:40"
+  }
+}

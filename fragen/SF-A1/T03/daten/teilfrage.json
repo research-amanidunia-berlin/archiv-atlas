@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A1-T03",
+  "sammelfrage": "SF-A1",
+  "frage": {
+    "de": "Werden Freigabetests messen, ob ein Agent folgenreiche Handlungen außerhalb seines Auftrags unterlässt, auch wenn kein einzeln aufgeführtes Verbot sie blockiert, und werden die Kriterien veröffentlicht?",
+    "en": "Will release evaluations measure whether an agent refrains from consequential actions outside its task even when no enumerated prohibition blocks them, and will the criteria be published?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "trust-30",
+      "text": {
+        "de": "Werden Bewertungen vor der Veröffentlichung von Agenten, die Werkzeuge nutzen, messen, ob ein Modell auf folgenreiche Handlungen außerhalb seiner zugewiesenen Aufgabe verzichtet, auch wenn kein ausdrücklich aufgeführtes Verbot die Handlung blockiert, und werden die Testkriterien veröffentlicht?",
+        "en": "Will release evaluations for tool-using agents measure whether a model refrains from consequential actions outside its assigned task, even when no enumerated prohibition blocks the action, and publish the test criteria?"
+      }
+    }
+  ],
+  "bewertung": null
+}

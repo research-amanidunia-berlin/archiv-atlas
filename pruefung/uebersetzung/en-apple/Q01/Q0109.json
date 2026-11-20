@@ -1,0 +1,159 @@
+{
+  "Q010970": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "„ohne besondere Vorerfahrung oder mit kurzer Einarbeitung startbar“",
+            "englisch": "“without special prior experience or with a short onboarding period”",
+            "besser": "“can be started without special prior experience or after a short training period”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„Sprecherarbeit“",
+            "englisch": "“speaking work”; später: “public speaking”",
+            "besser": "“voice-over work”"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "„Als Grenzen der Darstellung nennt der Text keine Quellen, Datenerhebung oder Berechnung für die Verdienstspannen.“",
+            "englisch": "“The text does not cite any sources, data collection, or calculations for the income ranges as the limits of the presentation.”",
+            "besser": "“The presentation’s limitations include the fact that the article provides no sources, data collection, or calculations for the income ranges.”"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "„versieht sie mit teils hohen Verdienstangaben“",
+            "englisch": "“provides them with sometimes high earnings figures”",
+            "besser": "“assigns sometimes high earnings figures to them”"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "„eigenes Wissen für Kurse“",
+            "englisch": "“personal knowledge of courses”",
+            "besser": "“subject-matter expertise for creating courses”"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q010970",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:56:25"
+  },
+  "Q010971": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Der Beitrag schildert als persönliche Erfolgsgeschichte, wie ...",
+            "englisch": "The article describes as a personal success story how ...",
+            "besser": "The article presents a personal success story about how ..."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "... mit dem Geld kaum Miete und Rechnungen bezahlen konnte ...",
+            "englisch": "... could barely pay rent and bills with the money ...",
+            "besser": "... could barely afford rent and bills ..."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "... den Einstieg in freiberufliche Arbeit ...",
+            "englisch": "... to start a freelance career ...",
+            "besser": "... to start working as a freelancer ..."
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "... ein persönlicher Erfahrungsbericht ...",
+            "englisch": "... a personal experience report ...",
+            "besser": "... a personal account ..."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "... schreibt KI eine wichtige Rolle beim Weg aus ... Not zu ...",
+            "englisch": "... writes that AI plays an important role in the way out of ... difficulties ...",
+            "besser": "... credits AI with playing an important role in overcoming ... hardship ..."
+          }
+        ]
+      }
+    ],
+    "q": "Q010971",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:56:23"
+  }
+}

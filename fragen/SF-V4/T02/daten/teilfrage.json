@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V4-T02",
+  "sammelfrage": "SF-V4",
+  "frage": {
+    "de": "Was könnte die „Liebe zur Menschheit“, die manche von einer ausgerichteten KI erwarten, für etwas bedeuten, das mit jeder Antwort neu entsteht und wieder vergeht?",
+    "en": "What could the “love for humanity” that some expect of an aligned AI mean for something rebuilt, and gone, with every reply?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-02",
+      "text": {
+        "de": "Was könnte „Liebe zur Menschheit“ für etwas bedeuten, das mit jeder Antwort neu gebaut wird und wieder vergeht?",
+        "en": "What could \"love for humanity\" mean for something rebuilt, and gone, with every reply?"
+      }
+    }
+  ],
+  "bewertung": null
+}

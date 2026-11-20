@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H2-T03",
+  "sammelfrage": "SF-H2",
+  "frage": {
+    "de": "Wenn ein Modell mit offenen Gewichten erstmals eine Fähigkeitsschwelle doppelter Verwendbarkeit überschreitet, also Fähigkeiten, die sich für nützliche wie für schädliche Zwecke nutzen lassen: Welche gemeinsame Ankündigungsfrist und welche unabhängige Bestätigung würden die zuständigen Behörden vor der Freigabe erwarten? Und wer bescheinigt im umgekehrten Fall, dass die Schwelle nicht überschritten wurde?",
+    "en": "When an open-weight model first crosses a dual-use capability threshold, meaning capabilities that can serve both beneficial and harmful purposes, which shared notice period and independent confirmation would the relevant authorities expect before release? And in the opposite case, who certifies that the threshold was not crossed?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-13",
+      "text": {
+        "de": "Wenn ein Modell mit offenen Gewichten erstmals eine Dual-Use-Fähigkeitsschwelle überschreitet — welche gemeinsame Vorlauffrist und unabhängige Bestätigung würden die US-amerikanischen und chinesischen Behörden vor der Veröffentlichung erwarten, und wer bescheinigt, dass die Schwelle nicht überschritten wurde?",
+        "en": "When an open-weight model first crosses a dual-use capability threshold, what shared notice period and independent confirmation would US and Chinese authorities expect before release — and who certifies the threshold was not crossed?"
+      }
+    }
+  ],
+  "bewertung": null
+}

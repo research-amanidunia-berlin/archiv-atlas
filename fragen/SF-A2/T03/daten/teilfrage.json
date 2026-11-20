@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A2-T03",
+  "sammelfrage": "SF-A2",
+  "frage": {
+    "de": "Welcher Standard für Widerstandsfähigkeit soll einen geprüften Ersatzweg ohne KI verlangen und die menschlichen Fähigkeiten erhalten, Fehler zu erkennen und zu beherrschen, wenn ein kritischer Dienst stark von Modellen abhängig wird?",
+    "en": "Which resilience standard should require a tested non-AI fallback and preserve the human skills needed to recognise and control failure when a critical service becomes deeply dependent on models?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-22",
+      "text": {
+        "de": "Welcher Resilienzstandard sollte einen erprobten Rückfallmechanismus ohne KI verlangen und die menschlichen Fähigkeiten erhalten, die nötig sind, um ein Versagen zu erkennen und zu kontrollieren, wenn ein kritischer Dienst stark von Modellen abhängig wird?",
+        "en": "What resilience standard should require a tested non-AI fallback and preserve the human skills needed to recognize and control failure when a critical service becomes deeply dependent on models?"
+      }
+    }
+  ],
+  "bewertung": null
+}

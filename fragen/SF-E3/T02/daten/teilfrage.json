@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E3-T02",
+  "sammelfrage": "SF-E3",
+  "frage": {
+    "de": "Welche Stelle eines Staates wäre das Gegenüber für Prüfungen vor der Veröffentlichung, also Tests auf akute Risiken? Gefragt wurde das zu China (Cyberspace-Verwaltung, Ministerium für Staatssicherheit oder eine neue Stelle) und zu den Prüfungen, die Anthropic-Chef Dario Amodei im Essay „We Must Pace the Frontier“ vorschlägt.",
+    "en": "Which body in a state would be the counterpart for pre-release tests, that is, tests for acute risks? This was asked about China (the Cyberspace Administration, the Ministry of State Security or a new body) and about the tests Anthropic CEO Dario Amodei proposes in the essay “We Must Pace the Frontier”."
+  },
+  "herkunft": [
+    "sachfragen"
+  ],
+  "originale": [
+    {
+      "id": "facts-02",
+      "text": {
+        "de": "Wer wäre auf chinesischer Seite Ansprechpartner für Tests vor der Veröffentlichung, wie sie der Essay vorschlägt (P46): die Cyberspace-Verwaltung, das Ministerium für Staatssicherheit oder ein neues Gremium?",
+        "en": "Who on the Chinese side would be the counterpart for pre-release tests of the kind the essay proposes (P46): the Cyberspace Administration, the Ministry of State Security, or a new body?"
+      }
+    }
+  ],
+  "bewertung": null
+}

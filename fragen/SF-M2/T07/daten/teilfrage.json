@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T07",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Veröffentlicht jede Regierung für den Kanal eine öffentliche Zählung, wie viele Meldungen gesendet, bestätigt und zurückgezogen wurden und wie viele strittig blieben, damit sich sein Nutzen beurteilen lässt, ohne Sensibles preiszugeben?",
+    "en": "Will each government publish a public count for the channel of how many reports were sent, confirmed and withdrawn, and how many remained disputed, so that its usefulness can be judged without disclosing anything sensitive?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-24",
+      "text": {
+        "de": "Werden beide Regierungen für die Hotline selbst eine zählbare öffentliche Statistik veröffentlichen — wie viele Berichte gesendet wurden, wie viele bestätigt wurden, wie viele umstritten blieben, wie viele zurückgezogen wurden —, damit der Nutzen des Kanals beurteilt werden kann, ohne etwas Sensibles zu veröffentlichen?",
+        "en": "Will both governments publish, for the hotline itself, a countable public statistic — how many reports were sent, how many were confirmed, how many remained disputed, how many were withdrawn — so that the channel's usefulness can be judged without publishing anything sensitive?"
+      }
+    }
+  ],
+  "bewertung": null
+}

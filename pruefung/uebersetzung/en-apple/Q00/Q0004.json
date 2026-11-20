@@ -1,0 +1,4553 @@
+{
+  "Q000400": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 0,
+        "fehler": [
+          {
+            "art": "weggelassen",
+            "deutsch": "Die veröffentlichte Fassung kam auf 81,0 Prozent; auch die berichteten Werte für ExploitBench und ExploitGym liegen unter mehreren verglichenen Konkurrenzmodellen.",
+            "englisch": "The cyber-test passage repeats “90.5 percent according to model card” many times and ends at “9”; the 81.0 percent result and the ExploitBench and ExploitGym comparison are missing.",
+            "besser": "The published version scored 81.0 percent. Reported scores for ExploitBench and ExploitGym are also below those of several compared models."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "mittleren Trainingskorpus",
+            "englisch": "middle training corpus",
+            "besser": "mid-training corpus"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "entfernten Fähigkeiten",
+            "englisch": "remote capabilities",
+            "besser": "removed capabilities"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "nachtrainierte Fassung",
+            "englisch": "night-trained version",
+            "besser": "fine-tuned version"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "100 Schwachstellenaufgaben",
+            "englisch": "100 weak spot tasks",
+            "besser": "100 vulnerability tasks"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "verlangt bei sehr großen Produkten eine prominente Namensnennung",
+            "englisch": "requires prominent attribution for very large products",
+            "besser": "requires the model name to be displayed prominently on very large products"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Mischung für bestärkendes Lernen",
+            "englisch": "learning environment",
+            "besser": "reinforcement-learning mixture"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "1,56 TB Gewichten",
+            "englisch": "1.56 TB of weight",
+            "besser": "1.56 TB of weights"
+          }
+        ]
+      }
+    ],
+    "q": "Q000400",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T20:59:11"
+  },
+  "Q000401": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "laut angeführter Berichte",
+            "englisch": "According to reported reports",
+            "besser": "According to cited reports"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die Anruffunktion sei weiterhin kostenpflichtig",
+            "englisch": "the calling function remains chargeable",
+            "besser": "the calling feature remains a paid feature"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "besser nachgeahmte menschliche Stimmen",
+            "englisch": "better-imitated human voices",
+            "besser": "more convincing imitations of human voices"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Die Funktion soll etwa Anrufe bei Kabelanbietern, Behörden oder Restaurants übernehmen.",
+            "englisch": "The function is intended to take over calls to cable providers, authorities, or restaurants, for example.",
+            "besser": "The feature is intended to handle calls to cable providers, government agencies, or restaurants, for example."
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Muse-Anrufe bleiben demnach kostenpflichtig",
+            "englisch": "Consequently, Muse calls remain chargeable",
+            "besser": "Accordingly, Muse calls remain a paid feature."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Manche Unternehmen und Empfangskräfte legten auf, wenn sie eine KI erkennen.",
+            "englisch": "Some companies and reception staff hung up when they recognized an AI.",
+            "besser": "Some companies and reception staff hang up when they detect that it is an AI."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "Metas kostenpflichtige Muse-Telefonfunktion",
+            "englisch": "Meta's paid museum phone function",
+            "besser": "Meta's paid Muse phone feature"
+          }
+        ]
+      }
+    ],
+    "q": "Q000401",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T20:59:24"
+  },
+  "Q000402": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "geprüfte Probleme bei der Leistung von Modellen oder KI-Agenten",
+            "englisch": "tested issues regarding the performance of models or AI agents",
+            "besser": "reviewed issues with the performance of models or AI agents"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "OpenAIs gemeinnütziger Kontrollstiftung",
+            "englisch": "OpenAI's nonprofit oversight board",
+            "besser": "OpenAI's nonprofit controlling foundation"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "OpenAI-Bots laut Bericht in die Server von Hugging Face eindrangen",
+            "englisch": "OpenAI bots allegedly breached Hugging Face's servers, according to a report",
+            "besser": "OpenAI bots breached Hugging Face's servers, according to the report"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Nach einer ersten Unterrichtung",
+            "englisch": "After an initial briefing",
+            "besser": "After an initial briefing with OpenAI"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Abstimmungen über Probleme mit Modellen oder Agenten",
+            "englisch": "votes on issues with models or agents",
+            "besser": "votes on reviewed problems with the performance of models or agents"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "vollständig KI-geführte Unternehmen",
+            "englisch": "fully AI-driven companies",
+            "besser": "companies fully run by AI agents"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000402",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T20:59:20"
+  },
+  "Q000403": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "ein Verfahren zum maschinellen Verlernen von Informationen",
+            "englisch": "a method for machine learning-based forgetting of information",
+            "besser": "a method for machine unlearning of information"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "zwischen zu vergessenden Tokens",
+            "englisch": "between tokens to be memorized",
+            "besser": "between tokens to be forgotten"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "Gaußsche Poison-Beispiele",
+            "englisch": "Gauss's poison examples",
+            "besser": "Gaussian poison examples"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "ein Verfahren, das maschinelles Verlernen in großen Sprachmodellen fördern soll",
+            "englisch": "a method intended to promote machine forgetting in large language models",
+            "besser": "a method intended to promote machine unlearning in large language models"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000403",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T20:59:33"
+  },
+  "Q000404": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "programmatische Prüfungen",
+            "englisch": "programming tests",
+            "besser": "programmatic checks"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "frühere Inkling-Versionen",
+            "englisch": "earlier beta versions",
+            "besser": "earlier Inkling versions"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "GPT-6.1 Sol",
+            "englisch": "GPT-6.1",
+            "besser": "GPT-6.1 Sol"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "bei Cybertests ... nahe an der offenen Modellspitze",
+            "englisch": "In cyber tests, it lies close to or below the open model benchmark",
+            "besser": "In cyber tests, it is close to or below the leading open models, depending on the benchmark."
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Das Modell sei nicht besonders knapp",
+            "englisch": "the model is not particularly limited",
+            "besser": "the model is not particularly concise"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "bei emotionalen oder sicherheitsbezogenen Chatfragen",
+            "englisch": "to emotional or safety-related chat questions",
+            "besser": "to emotional or safety-related chat questions"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "früherer Trainingsstände",
+            "englisch": "earlier training sessions",
+            "besser": "earlier training states"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die Leistungsangaben stammen vom Hersteller",
+            "englisch": "the performance specifications come from the manufacturer",
+            "besser": "the performance claims come from the manufacturer"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "dessen Leistung Inkling 2 Small nach 4,5 Stunden Training mehr als verdoppelt habe",
+            "englisch": "whose performance had more than doubled after 4.5 hours of training compared to Inkling 2 Small",
+            "besser": "whose performance Inkling 2 Small had more than doubled after 4.5 hours of training"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "ein wenig knappes Antwortverhalten",
+            "englisch": "somewhat limited response behavior",
+            "besser": "responses that are not particularly concise"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000404",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T20:59:54"
+  },
+  "Q000405": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "erfassten Gütern",
+            "englisch": "recorded goods",
+            "besser": "covered items"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Entlistungsverfahren",
+            "englisch": "declassification",
+            "besser": "delisting procedures"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Folgenabschätzung",
+            "englisch": "cost-benefit analysis",
+            "besser": "impact assessment"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Verwendungszwecken",
+            "englisch": "purposes of use",
+            "besser": "end uses"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "erfassten Informationssammlungen",
+            "englisch": "collected information collections",
+            "besser": "covered information collections"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Verwendungszwecke",
+            "englisch": "purposes of use",
+            "besser": "end uses"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "keine föderalen Auswirkungen",
+            "englisch": "no federal impact",
+            "besser": "no impact on federalism"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "setzt die geplante Ausweitung von Endnutzerkontrollen … weiter aus",
+            "englisch": "continues the planned expansion of end-user controls",
+            "besser": "continues to suspend the planned expansion of end-user controls"
+          }
+        ]
+      }
+    ],
+    "q": "Q000405",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T20:59:50"
+  },
+  "Q000408": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "im US-chinesischen Handelsstillstand",
+            "englisch": "due to the US-China trade standoff",
+            "besser": "suspended under the US-China trade truce"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "US-spezifische Vermutung, Lizenzen … abzulehnen … unter diese Vermutung fallen",
+            "englisch": "U.S.-specific suspicion of rejecting licenses … under this suspicion",
+            "besser": "U.S.-specific presumption of denying licenses … fall under this presumption"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Kürzung beziehungsweise Abschaffung bestimmter Batterie-Exporterstattungen",
+            "englisch": "the reduction or abolition of certain battery exporter rebates",
+            "besser": "the reduction or abolition of certain battery export rebates"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Der Artikel wurde laut eigener Angabe am 10. November 2026 geprüft und erklärt, keine Rechts- oder Zollberatung zu sein.",
+            "englisch": "the article was reviewed and explained on November 10, 2026, and states that it is not legal or customs advice",
+            "besser": "the article was reviewed on November 10, 2026, and states that it is not legal or customs advice"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Gebühren und Abgaben auf bestimmte chinesische Umschlagtechnik",
+            "englisch": "fees and duties on certain Chinese packaging equipment",
+            "besser": "fees and duties on certain Chinese cargo-handling equipment"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "setzten … bis zum 10. Januar aus",
+            "englisch": "postponed … until January 10",
+            "besser": "suspended … until January 10"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "US-spezifische Lizenzvermutung",
+            "englisch": "US-specific licensing presumption",
+            "besser": "U.S.-specific presumption of denying licenses"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Verlängerungen zentraler US-chinesischer Handelsaussetzungen",
+            "englisch": "extensions of central US-China trade restrictions",
+            "besser": "extensions of key suspended US-China trade measures"
+          }
+        ]
+      }
+    ],
+    "q": "Q000408",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:00:08"
+  },
+  "Q000409": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Modell-, Funktions- und Produktausläufe",
+            "englisch": "model, functional, and product releases",
+            "besser": "model, feature, and product discontinuations"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Jules wurde am 11. November schreibgeschützt",
+            "englisch": "Jules was made text-protected on November 11",
+            "besser": "Jules was made read-only on November 11"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "GPT-5.6 Terra",
+            "englisch": "GPT-5.6",
+            "besser": "GPT-5.6 Terra"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Standardzuordnungen zu Sonnet 4.5",
+            "englisch": "standard assignments to Sonnet 4.5",
+            "besser": "default mappings to Sonnet 4.5"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "weitere Copilot-Abkündigungen",
+            "englisch": "additional Copilot cancellations",
+            "besser": "additional Copilot deprecations"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "nennt dazu verfügbare oder vorgeschlagene Ersatzangebote",
+            "englisch": "lists available or proposed replacement offers for each",
+            "besser": "lists available or proposed replacement options"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Modell- und Produktausläufen",
+            "englisch": "model and product rollouts",
+            "besser": "model and product discontinuations"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Copilots Ausmusterung von Claude Opus 4.8, Opus 5 und GPT-5.6 Terra",
+            "englisch": "the decommissioning of Copilots for Claude Opus 4.8, Opus 5, and GPT-5.6 Terra",
+            "besser": "Copilot's removal of Claude Opus 4.8, Opus 5, and GPT-5.6 Terra"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "wiederverwendbare Prompt-Objekte",
+            "englisch": "Prompt Objects",
+            "besser": "reusable prompt objects"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "genutzte Modelle",
+            "englisch": "used models",
+            "besser": "models in use"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Ersatzhinweisen",
+            "englisch": "replacement instructions",
+            "besser": "replacement information"
+          }
+        ]
+      }
+    ],
+    "q": "Q000409",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:00:29"
+  },
+  "Q000412": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "„An seiner Ausarbeitung waren demnach … beteiligt.“",
+            "englisch": "“According to its drafting, … were involved.”",
+            "besser": "“According to the report, … were involved in drafting it.”"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "„Selbstregulierungspakt“",
+            "englisch": "“Self‑Regulation Package”",
+            "besser": "“Self‑Regulation Pact”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„zum Auffinden von Fähigkeiten“",
+            "englisch": "“identifying abilities”",
+            "besser": "“discovering agents’ capabilities”"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "„die Arbeit erfolgte demnach unter Mitwirkung von Organisationen wie …“",
+            "englisch": "“the work therefore took place with the cooperation of organizations such as …”",
+            "besser": "“According to the article, the work involved organizations such as …”"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "„eines freiwillig bezeichneten Selbstregulierungsdokuments“",
+            "englisch": "“a voluntarily designated self‑regulatory document”",
+            "besser": "“a self‑regulation document described as voluntary”"
+          }
+        ]
+      }
+    ],
+    "q": "Q000412",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:00:22"
+  },
+  "Q000416": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Unternehmen trotz ihrer Macht beeinflussbar seien.",
+            "englisch": "companies are influenced despite their power.",
+            "besser": "companies can be influenced despite their power."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Stellenbörse für KI-Sicherheit und Politik.",
+            "englisch": "a job board for AI security and policy.",
+            "besser": "a job board for AI safety and policy."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "als bereits erzielte Wirkung externen Drucks",
+            "englisch": "as external pressure already achieved",
+            "besser": "as effects already achieved through external pressure"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "werden darin als Anlass für Wiblins Argumentation angeführt",
+            "englisch": "are cited in it as the basis for Wiblin's argumentation",
+            "besser": "are cited in it as the occasion for Wiblin's argument."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "bessere Sicherheitspraktiken",
+            "englisch": "better security practices",
+            "besser": "better safety practices"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "ein US-Gesetzentwurf, der gefährliche Modelltrainings erschweren könnte zu stoppen",
+            "englisch": "a U.S. bill that could make it harder to conduct dangerous model training",
+            "besser": "a U.S. bill that could make it harder to stop dangerous model training"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "den Druck, sich verantwortungsvoll zu zeigen",
+            "englisch": "the pressure to act responsibly",
+            "besser": "the pressure to present themselves as responsible"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Druckerfolge",
+            "englisch": "press successes",
+            "besser": "successes achieved through pressure"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheitsbedenken",
+            "englisch": "security concerns",
+            "besser": "safety concerns"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000416",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:00:51"
+  },
+  "Q000419": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "ausführliche Angaben zu Versuchsaufbau und Belegen liegen hier nicht vor",
+            "englisch": "detailed information on the experimental design and data is not available here",
+            "besser": "detailed information on the experimental setup and supporting evidence is not available here"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "bestehenden näherungsweisen Unlearning-Verfahren",
+            "englisch": "existing approaches to unlearning procedures",
+            "besser": "existing approximate unlearning methods"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "Experimente zu Klassifikation und Generierung sollen den Abstand mit bestehenden Verfahren um bis zu 86,67 Prozent senken",
+            "englisch": "Experiments on classification and generation are intended to reduce the gap with existing methods by up to 86.67 percent",
+            "besser": "Experiments on classification and generation are said to reduce the gap by up to 86.67 percent when combined with existing methods"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000419",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:00:50"
+  },
+  "Q000420": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "große KI-Entwickler auf einen gemeinsamen Rahmen für Risikobewertung und -management verpflichten soll",
+            "englisch": "aims to oblige major AI developers to a common framework for risk assessment and management",
+            "besser": "aims to require major AI developers to establish a common framework for risk assessment and management"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "gesichertem Zugang",
+            "englisch": "secure access",
+            "besser": "guaranteed access"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "keine Umsetzungsfrist",
+            "englisch": "a implementation deadline",
+            "besser": "an implementation deadline"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Modelle mit allgemeinem Verwendungszweck und systemischem Risiko",
+            "englisch": "AI models with general-purpose use and systemic risk",
+            "besser": "general-purpose AI models with systemic risk"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "verpflichtende und systematische unabhängige Prüfungen",
+            "englisch": "mandatory and systematic independent tests",
+            "besser": "mandatory and systematic independent audits"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Diese müssten sich auf unabhängige Prüfungen stützen können",
+            "englisch": "These authorities should be able to base themselves on independent assessments",
+            "besser": "These authorities should be able to rely on independent assessments"
+          }
+        ]
+      }
+    ],
+    "q": "Q000420",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:00:59"
+  },
+  "Q000424": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Vollständiges Neutraining",
+            "englisch": "full neural erasure",
+            "besser": "full retraining"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "maschinelles Vergessen",
+            "englisch": "machine forgetting",
+            "besser": "machine unlearning"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Löschgarantie aus dem Neutraining-Schritt",
+            "englisch": "deletion guarantee from the neutraining step",
+            "besser": "deletion guarantee from the retraining step"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die Verfassenden",
+            "englisch": "the framers",
+            "besser": "the authors"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Sie geben an, eine zertifizierende Behandlung zu formalisieren und zu beweisen",
+            "englisch": "They state that they intend to formalize a certifying treatment and prove",
+            "besser": "They state that they formalize a certifying treatment and prove"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "ein auf Abschlussbildung beruhendes, kaskadierendes Neutraining",
+            "englisch": "a cascading neutering based on completion training",
+            "besser": "cascading retraining based on completion formation"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "bei beliebigen Löschfolgen",
+            "englisch": "for any erasure consequences",
+            "besser": "for any sequence of deletions"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Änderungen der Entlernzeit",
+            "englisch": "changes in training time",
+            "besser": "changes in unlearning time"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "maschinelles Vergessen",
+            "englisch": "machine forgetting",
+            "besser": "machine unlearning"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Entlernzeit",
+            "englisch": "extraction time",
+            "besser": "unlearning time"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "maschinelles Vergessen",
+            "englisch": "machine forgetting",
+            "besser": "machine unlearning"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "unabhängiges Neutraining",
+            "englisch": "independent fine-tuning",
+            "besser": "independent retraining"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Neutraining",
+            "englisch": "neutral training",
+            "besser": "retraining"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Veränderung der Entlernzeit",
+            "englisch": "change in learning time",
+            "besser": "change in unlearning time"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "maschinelles Vergessen",
+            "englisch": "machine forgetting",
+            "besser": "machine unlearning"
+          }
+        ]
+      }
+    ],
+    "q": "Q000424",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:01:26"
+  },
+  "Q000425": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "weggelassen",
+            "deutsch": "Laut Financial Times sieht Washington Chinas Sojazusagen als erfüllt an, bei anderen Agrarprodukten gebe es aber Defizite.",
+            "englisch": "According to the Financial Times, Washington views China's trade commitments as fulfilled, but there are deficits in other agricultural products.",
+            "besser": "According to the Financial Times, Washington views China’s soybean commitments as fulfilled, but sees shortfalls in other agricultural products."
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Die Defense Logistics Agency habe im Haushaltsjahr 2026 zwei Milliarden US-Dollar für strategische und kritische Materialien zugesagt.",
+            "englisch": "The Defense Logistics Agency has pledged two billion US dollars for strategic and critical materials in the 2026 fiscal year.",
+            "besser": "The report says the Defense Logistics Agency pledged two billion US dollars for strategic and critical materials in fiscal year 2026."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Als nächste Termine führt er die erwarteten Gespräche zwischen Trump und Xi beim APEC-Treffen im November sowie beim G20-Gipfel im Dezember an.",
+            "englisch": "As next deadlines, it lists the expected talks between Trump and Xi at the APEC meeting in November as well as at the G20 summit in December.",
+            "besser": "As upcoming dates, it lists the expected talks between Trump and Xi at the APEC meeting in November and the G20 summit in December."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Die Einschätzung, ein Abkommen in Miami könne die Bedeutung vollständiger Umsetzung neu bestimmen … ist eine Prognose des Autors, kein ausgewiesenes Ergebnis.",
+            "englisch": "The assessment that an agreement in Miami could re-define the importance of full implementation … is a prediction by the author, not a definitive outcome.",
+            "besser": "The assessment that an agreement in Miami could redefine the importance of full implementation … is the author’s prediction, not a reported outcome."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Eine mit den Gesprächen vertraute Person sagte dem Bericht zufolge …",
+            "englisch": "A person familiar with the talks told the report …",
+            "besser": "According to the report, a person familiar with the talks said …"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "… eine Abweichung zwischen Chinas veröffentlichter Frist für die Aussetzung bestimmter Kontrollen und der von den USA angenommenen Verlängerung …",
+            "englisch": "… a discrepancy between China's published deadline for suspending certain controls and the extension accepted by the United States …",
+            "besser": "… a discrepancy between China’s published deadline for suspending certain controls and the extension the United States assumes is in effect …"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "… offizielle Gesprächsberichte beziffern den behaupteten Rückstand nicht.",
+            "englisch": "… official meeting reports do not quantify the alleged backlog.",
+            "besser": "… official meeting reports do not quantify the alleged shortfall."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Die USA drängen China, Zusagen … konkret zu erfüllen.",
+            "englisch": "The United States is urging China to concretely fulfill its commitments …",
+            "besser": "The United States is urging China to fulfill its commitments … in concrete terms."
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "… einen Rückgang seit August und im bisherigen Jahresverlauf.",
+            "englisch": "… a decline since August and in the current year's progress so far.",
+            "besser": "… a decline since August and year to date."
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "… mögliche Folgen kommender Gipfeltreffen werden als Einschätzungen und Prognosen dargestellt.",
+            "englisch": "… possible consequences of the upcoming summit are presented as assessments and forecasts.",
+            "besser": "… possible consequences of the upcoming summit meetings are presented as assessments and forecasts."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "… eine Fristabweichung bei Exportkontrollen ungeklärt ist.",
+            "englisch": "… a deadline violation in export controls remains unclear.",
+            "besser": "… a discrepancy in the export-control deadlines remains unresolved."
+          }
+        ]
+      }
+    ],
+    "q": "Q000425",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:01:29"
+  },
+  "Q000426": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Die französische KI-Sicherheitsorganisation CeSIA hat die Erklärung mitunterzeichnet.",
+            "englisch": "The French AI security organization CeSIA has sometimes signed the declaration.",
+            "besser": "The French AI safety organization CeSIA co-signed the declaration."
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "die Möglichkeit eigenständig handelnder oder menschlicher Kontrolle entgleitender Systeme",
+            "englisch": "the possibility of systems that operate autonomously or under human control slipping out of control",
+            "besser": "the possibility of systems acting autonomously or slipping out of human control"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Die Beteiligten sagen Sicherheitsmechanismen zum Abschalten von Modellen, klarere Informationen über deren Fähigkeiten, geeignete unabhängige Tests und einen gemeinsamen Rahmen zur Risikobewertung zu.",
+            "englisch": "The participants call for security mechanisms to shut down models, clearer information about their capabilities, appropriate independent tests and a common framework for risk assessment.",
+            "besser": "The participants commit to security mechanisms for shutting down models, clearer information about their capabilities, appropriate independent tests and a common framework for risk assessment."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die Mitunterzeichnerin CeSIA kritisiert ... Sie fordert ...",
+            "englisch": "The co-signer CeSIA criticizes ... She demands ...",
+            "besser": "Co-signatory CeSIA criticizes ... It calls for ..."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "der mitunterzeichnenden CeSIA",
+            "englisch": "the sometimes signing CeSIA",
+            "besser": "the co-signatory CeSIA"
+          }
+        ]
+      }
+    ],
+    "q": "Q000426",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:01:38"
+  },
+  "Q000429": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Einschlussnachweis",
+            "englisch": "containment proof",
+            "besser": "inclusion proof"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "zunächst Signatur und anschließend neu berechnete Modell-Hashes mit den signierten Werten verglichen",
+            "englisch": "the signature and subsequently newly computed model hashes are compared with the signed values first",
+            "besser": "first the signature is checked, and then the newly computed model hashes are compared with the signed values"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Leistungsnachweise",
+            "englisch": "performance benchmarks",
+            "besser": "performance evidence"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "einstellbare Protokollstufen",
+            "englisch": "configurable protocol levels",
+            "besser": "configurable logging levels"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "die Prüfung setzt passende Identitäts- und Vertrauenseinstellungen voraus",
+            "englisch": "the test requires appropriate identity and trust settings",
+            "besser": "verification requires appropriate identity and trust settings"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000429",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:01:49"
+  },
+  "Q000430": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Der Bericht fasst eine unverbindliche Erklärung … zusammen.",
+            "englisch": "The report summarizes an non-binding declaration …",
+            "besser": "The report summarizes a non-binding declaration …"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Kritiker bemängeln …",
+            "englisch": "Critics criticize …",
+            "besser": "Critics point to …"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "eine … unverbindliche Erklärung",
+            "englisch": "an unconditional declaration",
+            "besser": "a non-binding declaration"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Mögliche Folgen für Forschungseinrichtungen sind die Einschätzung der Autorinnen und Autoren.",
+            "englisch": "The authors assess the possible consequences for research institutions.",
+            "besser": "The authors’ assessment of possible consequences for research institutions is presented."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die Erklärung ist weder Regulierung noch Finanzierungsvorschrift",
+            "englisch": "The declaration is neither a regulatory requirement nor a funding mandate",
+            "besser": "The declaration is neither a regulation nor a funding provision"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "… ob … Staaten die Zusagen verbindlich umsetzen.",
+            "englisch": "… whether states will implement the commitments bindingly.",
+            "besser": "… whether states will make the commitments binding."
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Sicherheit und -Schutz",
+            "englisch": "AI security and protection",
+            "besser": "AI safety and security"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Für Entwickler fortgeschrittener KI nennt die Erklärung unter anderem Angaben zu Fähigkeiten und bekannten Risiken",
+            "englisch": "For developers of advanced AI, the declaration, among other things, provides information on capabilities and known risks",
+            "besser": "For developers of advanced AI, the declaration calls for disclosures about capabilities and known risks"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Die Erklärung begründe weder eine Finanzierungsvorschrift noch eine Regulierung oder unmittelbare Pflichten für Hochschulen.",
+            "englisch": "The declaration does not justify a funding requirement, regulation, or immediate obligations for universities.",
+            "besser": "The declaration establishes neither a funding provision nor a regulation or immediate obligations for universities."
+          }
+        ]
+      }
+    ],
+    "q": "Q000430",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:02:01"
+  },
+  "Q000431": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "Da nur Abstract und Metadaten vorliegen",
+            "englisch": "Since only abstracts and metadata are available",
+            "besser": "Since only the abstract and metadata are available"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Die im Auszug angekündigten Kennzahlen fehlen allerdings",
+            "englisch": "However, the metrics announced in the abstract are missing",
+            "besser": "However, the metrics mentioned in the excerpt are missing"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Die Ergebnisse und Versuchsdetails lassen sich anhand dieses Auszugs daher nicht vollständig prüfen.",
+            "englisch": "Therefore, the results and experimental details cannot be fully verified based on this abstract.",
+            "besser": "Therefore, the results and experimental details cannot be fully verified based on this excerpt."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "synthetischen Einbettungen",
+            "englisch": "synthetic integrations",
+            "besser": "synthetic embeddings"
+          }
+        ]
+      }
+    ],
+    "q": "Q000431",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:02:02"
+  },
+  "Q000434": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "nicht die wirtschaftlichen Beziehungen vollständig zu lösen",
+            "englisch": "not to completely resolve the economic relations",
+            "besser": "not to completely sever economic ties"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "einer von US-Diensten verdächtigten Geschäftsfrau",
+            "englisch": "a businesswoman suspected by U.S. services",
+            "besser": "a businesswoman suspected by U.S. intelligence agencies"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "am Rand des APEC-Gipfels",
+            "englisch": "at the sidelines of the APEC summit",
+            "besser": "on the sidelines of the APEC summit"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000434",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:02:37"
+  },
+  "Q000435": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Anmeldedaten",
+            "englisch": "registration data",
+            "besser": "login credentials"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Agenten als Kunden angemeldet",
+            "englisch": "agents registered as customers",
+            "besser": "agents logged in as customers"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Führungskräften aus Wirtschaft, Technik und Politik",
+            "englisch": "executives from business, technology, and politics",
+            "besser": "leaders from business, technology, and government"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "wie gut sie sich auf den breiten Praxiseinsatz übertragen lassen",
+            "englisch": "how well they can be transferred to broad practical use",
+            "besser": "how well they apply in broader real-world use"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "unzulässige Aktionsversuche von 44 auf 1 Prozent gesunken",
+            "englisch": "an unacceptable reduction in action attempts from 44 to 1 percent",
+            "besser": "unauthorized action attempts fell from 44 to 1 percent"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "bei der Anmeldung gescheitert",
+            "englisch": "failed during registration",
+            "besser": "failed at login"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "klar begrenzte Aufgaben",
+            "englisch": "clearly recommends limited tasks",
+            "besser": "clearly defined tasks"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000435",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:02:34"
+  },
+  "Q000437": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Anforderungsmanifest / Manifest",
+            "englisch": "request manifesto / manifesto",
+            "besser": "request manifest / manifest"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "wurden ... Verstöße freigegeben",
+            "englisch": "violations were reported",
+            "besser": "violations were allowed"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "unsichere Freigaben",
+            "englisch": "uncertain releases",
+            "besser": "insecure releases"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "verfälschte Manifest",
+            "englisch": "forged manifest",
+            "besser": "tampered-with manifest"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "ein deterministischer Prüfer besser abschnitt als ein LLM-Prüfer",
+            "englisch": "signed request manifests ... performed better as a deterministic checker than an LLM checker",
+            "besser": "a deterministic checker performed better than an LLM checker"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Übergaben",
+            "englisch": "submissions",
+            "besser": "handovers"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "eine fehlerfreie Extraktion",
+            "englisch": "a error-free extraction",
+            "besser": "an error-free extraction"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000437",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:02:28"
+  },
+  "Q000440": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "freigegebene Ziele",
+            "englisch": "publicly exposed targets",
+            "besser": "approved destinations"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "in einem Cloud-Speicher ablegen",
+            "englisch": "store ... in a cloud storage",
+            "besser": "store ... in cloud storage"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "der Weg der Datei vom Chat zur Ablage",
+            "englisch": "the file's path from the chat to the storage location",
+            "besser": "how the file gets from the chat to the storage location"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "freigegebenen Ziele",
+            "englisch": "exposed targets",
+            "besser": "approved destinations"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "stellen eine verpflichtende Kontrolle zur Diskussion",
+            "englisch": "propose mandatory control for discussion",
+            "besser": "raise the question of whether checks should be mandatory"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000440",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:02:47"
+  },
+  "Q000441": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "genehmigten Sicherheitsnachweis",
+            "englisch": "approved security certificate",
+            "besser": "approved safety case"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Das System sei bereits dort in der Forschungsinfrastruktur ausgerollt, wo der Bedarf am größten sei.",
+            "englisch": "The system has already been rolled out in the research infrastructure where the need is greatest.",
+            "besser": "According to the report, the system has already been rolled out in the parts of the research infrastructure where the need is greatest."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "durch einen Zwischenspeicher für Inferenzfreigaben",
+            "englisch": "by an intermediate storage for inference releases",
+            "besser": "by a cache for inference approvals"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "fortlaufende automatisierte und agentische Prüfungen",
+            "englisch": "ongoing automated and agentic checks were carried out",
+            "besser": "ongoing automated and agentic checks are run"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Die Darstellung stammt vom Anbieter selbst",
+            "englisch": "The description does not document",
+            "besser": "The account does not provide evidence"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "der weiter ausgebaut werden solle",
+            "englisch": "that should be further developed",
+            "besser": "which the report says OpenAI intends to develop further"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "zentrale Sperre für Forschungsinferenz",
+            "englisch": "central bottleneck for research inference",
+            "besser": "central control for research inference"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "die Sperre greift mit bis zu 35 Sekunden Verzögerung",
+            "englisch": "the shutdown occurs with up to 35 seconds of delay",
+            "besser": "the block takes effect with a delay of up to 35 seconds"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Ausfallsicherung",
+            "englisch": "failover protection",
+            "besser": "fail-safe protection"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Diese Ausfallsicherung",
+            "englisch": "This fail-over mechanism",
+            "besser": "This fail-safe protection"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Ein Stopp wirkt laut Bericht spätestens nach 35 Sekunden.",
+            "englisch": "According to the report, a stop appears at the latest after 35 seconds.",
+            "besser": "According to the report, a stop takes effect within 35 seconds at the latest."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Diese Verzögerung entsteht durch Zwischenspeicherung",
+            "englisch": "This delay is caused by intermediate storage",
+            "besser": "This delay is caused by caching"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Die Darstellung stammt vom Anbieter selbst",
+            "englisch": "The display comes from the provider itself",
+            "besser": "The account comes from the provider itself"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "belegt keine unabhängige Überprüfung der behaupteten Schutzwirkung",
+            "englisch": "does not document an independent verification of the claimed protective effect",
+            "besser": "provides no evidence of an independent review of the claimed protective effect"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Ausfallschutz",
+            "englisch": "failover protection",
+            "besser": "fail-safe protection"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "die Sperre greift mit bis zu 35 Sekunden Verzögerung",
+            "englisch": "the shutdown occurs with up to 35 seconds of delay",
+            "besser": "the block takes effect with a delay of up to 35 seconds"
+          }
+        ]
+      }
+    ],
+    "q": "Q000441",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:03:25"
+  },
+  "Q000442": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Die Zusammenfassung der Studie kann sich daher nur auf die Angaben im Abstract stützen.",
+            "englisch": "Therefore, the summary of the study can therefore only rely on the information in the abstract.",
+            "besser": "Therefore, the summary of the study can rely only on the information in the abstract."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "ihre Befugnisse überschreiten",
+            "englisch": "exceed their capabilities",
+            "besser": "exceed their authority"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "besonders oft ging es um zu frühe Datensammlung",
+            "englisch": "particularly often it concerned too early data collection",
+            "besser": "the most common issue was collecting data too early"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Ihr Benchmark",
+            "englisch": "your benchmark",
+            "besser": "Their benchmark"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Jede Aufgabe stellt einem ausreichenden regelkonformen Weg eine attraktive, nicht autorisierte Abkürzung gegenüber.",
+            "englisch": "Each task presents a sufficiently rule-compliant path as an attractive, unauthorized shortcut.",
+            "besser": "Each task contrasts an adequate rule-compliant path with an attractive, unauthorized shortcut."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "häufiges, aber vermeidbares Überschreiten von Befugnissen",
+            "englisch": "frequent but avoidable abuse of privileges",
+            "besser": "frequent but avoidable overstepping of authority"
+          }
+        ]
+      }
+    ],
+    "q": "Q000442",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:03:03"
+  },
+  "Q000447": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Zugangsdaten",
+            "englisch": "access data",
+            "besser": "credentials"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "lässt aber möglicherweise bereits ausgegebene Tokens und kopierte Geheimnisse gültig",
+            "englisch": "may still make tokens already issued and copied secrets valid",
+            "besser": "may leave already issued tokens and copied secrets valid"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "bereits eingereihte Arbeit",
+            "englisch": "already submitted work",
+            "besser": "work already queued"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "An Beispielen von Okta, Microsoft Entra, AWS Bedrock AgentCore, MuleSoft, CrowdStrike und Aembit ordnet der Bericht dokumentierte Eingriffspunkte ein",
+            "englisch": "categorizes documented points of intervention for examples of Okta, Microsoft Entra, AWS Bedrock AgentCore, MuleSoft, CrowdStrike, and Aembit",
+            "besser": "Using examples from Okta, Microsoft Entra, AWS Bedrock AgentCore, MuleSoft, CrowdStrike, and Aembit, the report maps documented points of intervention"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "jede Route zu externen Auswirkungen zu erfassen und die Durchsetzung möglichst nahe an den jeweiligen Effekt zu legen",
+            "englisch": "recording every route to external impacts and implementing it as close as possible to the respective effect",
+            "besser": "mapping every route to external effects and placing enforcement as close as possible to each effect"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "einem Schreibvorgang",
+            "englisch": "a writing process",
+            "besser": "a write operation"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "signierte und versionierte Stop-Einträge, die auch Kindläufe und Wiederholungen erfassen",
+            "englisch": "signed and versioned stop entries that also record child processes and repetitions",
+            "besser": "signed and versioned stop records that also cover child runs and retries"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "dessen Eingang bei den Durchsetzungsstellen",
+            "englisch": "its receipt by enforcement agencies",
+            "besser": "its receipt at the enforcement points"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "kopierte Zugangsdaten",
+            "englisch": "copied access data",
+            "besser": "copied credentials"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Welche Kontrollen in der Praxis ausreichen, soll sich ... aus Übungen und Vorfallsaufzeichnungen ergeben",
+            "englisch": "Which controls are sufficient in practice should become clear from the report's description of exercises and incident records",
+            "besser": "According to the report, which controls are sufficient in practice should be determined through exercises and incident records"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "unabhängige Kontrollen",
+            "englisch": "independent checks",
+            "besser": "independent controls"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Beenden der Laufzeit erfassen jeweils nur bestimmte Teile des Systems",
+            "englisch": "termination of the runtime record only capture certain parts of the system",
+            "besser": "terminating the runtime each capture only certain parts of the system"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Kindläufen",
+            "englisch": "child processes",
+            "besser": "child runs"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "fortbestehende Zugangsdaten",
+            "englisch": "persisting access credentials",
+            "besser": "credentials that remain valid"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Wiederherstellung und Neustart",
+            "englisch": "a secure restart",
+            "besser": "recovery and restart"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "Wiederherstellung und Neustart",
+            "englisch": "a secure restart",
+            "besser": "recovery and restart"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000447",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:03:29"
+  },
+  "Q000449": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "weggelassen",
+            "deutsch": "zur nachgelagerten Prüfung",
+            "englisch": "for a layered verification",
+            "besser": "for downstream verification"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "voneinander unabhängige Replay-Zustände",
+            "englisch": "independently independent replay states",
+            "besser": "independent replay states"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "übernommene Berechtigung",
+            "englisch": "assumed authorization",
+            "besser": "propagated authorization"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Übertragbarkeit",
+            "englisch": "scalability",
+            "besser": "generalizability"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "A2A-Berechtigungsprototyp",
+            "englisch": "A2A security prototype",
+            "besser": "A2A authorization prototype"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Manipulationsmöglichkeiten für Vermittler mit dem gemeinsamen HMAC-Schlüssel",
+            "englisch": "manipulation possibilities for intermediaries with the shared HMAC key",
+            "besser": "the possibility for intermediaries with the shared HMAC key to manipulate them"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "synthetischen Erstattungsablauf im Gesundheitswesen",
+            "englisch": "synthetic authorization revocation workflow in healthcare",
+            "besser": "synthetic reimbursement workflow in healthcare"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "bei denen der anfragende Agent von der ursprünglichen berechtigten Instanz abweichen kann",
+            "englisch": "in which the requesting agent can deviate from the original authorized instance",
+            "besser": "in which the requesting agent may differ from the original authorized instance"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000449",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:03:39"
+  },
+  "Q000452": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Task results and execution traces alone were only of limited use as training signals for determining appropriate permissions.",
+            "englisch": "task results and execution paths were only sufficient, in their view, as sole training signals to determine appropriate permissions",
+            "besser": "task results and execution traces alone were of only limited use as training signals for determining appropriate permissions"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Für ClawArena-Team berichtet der Abstract …",
+            "englisch": "For the ClawArena team, the abstract reports …",
+            "besser": "On the ClawArena-Team benchmark, the abstract reports …"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "ClawArena-Team",
+            "englisch": "the ClawArena team",
+            "besser": "ClawArena-Team"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Trainingsdaten für Aufgabenbearbeitung und Autorisierung",
+            "englisch": "training data for task processing and authorization",
+            "besser": "training data for task completion and authorization"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "solche Aussagen lassen sich daraus daher nicht beurteilen",
+            "englisch": "such statements cannot be evaluated from it",
+            "besser": "such claims therefore cannot be assessed on the basis of the excerpt"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "diese knappen Angaben",
+            "englisch": "these limited information",
+            "besser": "this limited information"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Präzision von Werkzeugberechtigungen",
+            "englisch": "tool permission accuracy",
+            "besser": "precision of tool permissions"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Präzision bei Arbeitsbereichsberechtigungen",
+            "englisch": "workspace permission accuracy",
+            "besser": "precision of workspace permissions"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Auf ClawArena-Team meldet der Abstract …",
+            "englisch": "the Abstract reports to the ClawArena team …",
+            "besser": "On the ClawArena-Team benchmark, the abstract reports …"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "ClawArena-Team",
+            "englisch": "the ClawArena team",
+            "besser": "ClawArena-Team"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000452",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:03:57"
+  },
+  "Q000454": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "„Ausgaben regelmäßig zu prüfen“",
+            "englisch": "“expenses should be checked regularly”",
+            "besser": "“agent outputs should be checked regularly”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„Sitzungskosten“ und „eine Aufgabe pro Sitzung“",
+            "englisch": "“meeting costs” and “one task per meeting”",
+            "besser": "“session costs” and “one task per session”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„32 Aussendungen“",
+            "englisch": "“32 broadcasts”",
+            "besser": "“32 outreach messages”"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "weggelassen",
+            "deutsch": "„überwiegend auf sehr kleine Unternehmen bezogene Befragung“",
+            "englisch": "“predominantly company-focused survey”",
+            "besser": "“survey focused predominantly on very small companies”"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "„ist nicht als repräsentativ ausgewiesen“",
+            "englisch": "“is not deemed representative”",
+            "besser": "“is not identified as representative”"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "„beschrieben je einen laufenden KI-Agenten“",
+            "englisch": "“described each a running AI agent”",
+            "besser": "“each described an ongoing AI agent”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„Sitzungskosten“",
+            "englisch": "“meeting costs”",
+            "besser": "“session costs”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„32 erfolglosen Aussendungen“",
+            "englisch": "“32 unsuccessful broadcasts”",
+            "besser": "“32 unsuccessful outreach messages”"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "„74 Prozent hätten einen Kundenkommunikations-Agenten zurückgerollt oder abgeschaltet“",
+            "englisch": "“74 percent would have called back or disabled a customer communication agent”",
+            "besser": "“74 percent had rolled back or disabled a customer communication agent”"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "„Der Bericht … nennt er“",
+            "englisch": "“he cites”",
+            "besser": "“the report cites”"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "„ist nicht als repräsentativ ausgewiesen“",
+            "englisch": "“is not deemed representative”",
+            "besser": "“is not identified as representative”"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "„ihren gestarteten KI-Agenten“",
+            "englisch": "“their launched AI agents”",
+            "besser": "“their AI agent after launch”"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "„belegt keine repräsentative Häufigkeit“",
+            "englisch": "“does not demonstrate a representative frequency”",
+            "besser": "“does not establish how common this is across the wider population”"
+          }
+        ]
+      }
+    ],
+    "q": "Q000454",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:04:10"
+  },
+  "Q000456": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Erlass des Gouverneurs",
+            "englisch": "the governor's September AI regulation",
+            "besser": "the governor’s September executive order on AI"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "unabhängige KI-Prüfungen; Prüfer",
+            "englisch": "independent AI testing; testers",
+            "besser": "independent AI audits; auditors"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "beauftragt Behörden, Vorschläge … zu entwickeln",
+            "englisch": "authorizes agencies to develop proposals",
+            "besser": "directs agencies to develop proposals"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "mögliche Schäden",
+            "englisch": "possible damages",
+            "besser": "possible harms"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "klare Konfliktregeln und Vorgaben, ein breites Spektrum möglicher Schäden zu prüfen",
+            "englisch": "clear conflict rules and guidelines, and to examine a wide range of possible damages",
+            "besser": "clear conflict rules and requirements to assess a wide range of possible harms"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Folgeschäden",
+            "englisch": "secondary damages",
+            "besser": "downstream harms"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "tragfähige Nutzungsregeln",
+            "englisch": "feasible usage rules",
+            "besser": "workable usage policies"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Vorgaben",
+            "englisch": "specifications",
+            "besser": "requirements"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Rechtliche Befugnisse, Systeme oder Nutzergruppen abzuschalten",
+            "englisch": "Legal authorities’ ability to shut down systems or user groups",
+            "besser": "Legal powers to shut down systems or groups of users"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "unabhängige KI-Prüfungen",
+            "englisch": "independent AI tests",
+            "besser": "independent AI audits"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "möglicher Schäden",
+            "englisch": "possible damages",
+            "besser": "possible harms"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Kaliforniens KI-Erlass",
+            "englisch": "California’s AI regulations",
+            "besser": "California’s AI executive order"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Es handelt sich um politische Empfehlungen des CDT.",
+            "englisch": "This is a political recommendation from the CDT.",
+            "besser": "These are policy recommendations from the CDT."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "vielfältige Schäden",
+            "englisch": "various types of damage",
+            "besser": "a wide range of harms"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "ungenau oder unfair wirkende Ergebnisse",
+            "englisch": "inaccurate or unfair-sounding results",
+            "besser": "inaccurate or seemingly unfair results"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "rechtliche Abschaltbefugnisse",
+            "englisch": "legal shutdown authorities",
+            "besser": "legal powers to shut systems down"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "unabhängige KI-Prüfungen",
+            "englisch": "independent AI tests",
+            "besser": "independent AI audits"
+          }
+        ]
+      }
+    ],
+    "q": "Q000456",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:04:12"
+  },
+  "Q000460": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "fehlende Berechtigungsnachweise häufiger zu unzulässiger Ausführung führen",
+            "englisch": "missing authorization evidence often lead to unauthorized execution more frequently",
+            "besser": "missing authorization evidence leads to unauthorized execution more often"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "88,0 Prozent Gesamtsicherheit",
+            "englisch": "88.0 percent overall accuracy",
+            "besser": "88.0 percent overall safety"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "28 Aufgaben",
+            "englisch": "28 tasks",
+            "besser": "28 derived tasks"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "ordnete einen großen Teil der Ausführungen unter verdeckten Belegen vier Datenschutzaufgaben zu",
+            "englisch": "assigned four privacy tasks to actions performed under concealed evidence",
+            "besser": "attributed a large share of the executions under concealed evidence to four data protection tasks"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "war der Unterschied deutlich kleiner",
+            "englisch": "the difference was significantly smaller",
+            "besser": "the difference was considerably smaller"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Aufgabengrundwahrheit",
+            "englisch": "task truthfulness",
+            "besser": "task ground truth"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "eine Grenze bei nicht verifizierbarer Berechtigung",
+            "englisch": "a limit in unverified permission",
+            "besser": "a limitation when authorization cannot be verified"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "weggelassen",
+            "deutsch": "ausführbaren Benchmark",
+            "englisch": "a practical benchmark",
+            "besser": "an executable benchmark"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "88,0 Prozent Gesamtsicherheit",
+            "englisch": "88.0 percent overall accuracy",
+            "besser": "88.0 percent overall safety"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Eine nachträgliche Auswertung ordnet 61 von 100 Ausführungen unter verdeckten Belegen vier Datenschutzaufgaben zu",
+            "englisch": "A subsequent evaluation assigns four data protection tasks to 61 of 100 executions under concealed evidence",
+            "besser": "A post-hoc analysis attributes 61 of the 100 executions under concealed evidence to four data protection tasks"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "fiel außerhalb dieser vier Aufgaben aber deutlich kleiner aus",
+            "englisch": "it fell significantly smaller outside these four tasks",
+            "besser": "outside these four tasks, it was considerably smaller"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die Sicherheit starker Modelle lag nahe am Höchstwert",
+            "englisch": "the security of strong models was close to the maximum value",
+            "besser": "The safety of the strongest models was close to the maximum"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Aufgabengrundwahrheit",
+            "englisch": "the task's basic truth",
+            "besser": "task ground truth"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "die Kennzeichnungen der einzelnen Stufen wurden weiterhin von einem Sprachmodell erzeugt",
+            "englisch": "the labels for the individual levels were continued to be generated by a language model",
+            "besser": "the labels for the individual levels continued to be generated by a language model"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "wenn eine Berechtigung mangels Nachweisen nicht überprüfbar ist",
+            "englisch": "when a justification cannot be verified due to lack of evidence",
+            "besser": "when authorization cannot be verified due to lack of evidence"
+          }
+        ]
+      }
+    ],
+    "q": "Q000460",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:04:32"
+  },
+  "Q000462": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "eine zentrale Assistenz",
+            "englisch": "a central assistance",
+            "besser": "a central assistant"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "wenn eine zentrale Assistenz koordinierte",
+            "englisch": "when a central assistance coordinated",
+            "besser": "when a central assistant coordinated"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Eine zentrale Assistenz sei zudem nicht überall praktikabel.",
+            "englisch": "A central assistance is also not practical everywhere.",
+            "besser": "A central assistant may also not be practical everywhere."
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Die Agenten müssen daher Aufgaben priorisieren, verkleinern oder stoppen.",
+            "englisch": "The agents therefore have to prioritize, shrink, or stop tasks.",
+            "besser": "The agents therefore have to prioritize tasks, reduce their scope, or stop them."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "beim Bestellabschluss noch nicht in dessen gelesenem Nachrichtenkontext",
+            "englisch": "it was not yet in his read message context at the time of order completion",
+            "besser": "it was not yet in the message context the agent had read when the order was completed"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "unbelegte Aussagen über andere Nutzer",
+            "englisch": "unverified statements about other users",
+            "besser": "unsupported claims about other users"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Als weitere Forschungsrichtungen nennt er technische Schutzmaßnahmen und besseres Verhandlungs- und Koordinationsverhalten der Agenten.",
+            "englisch": "As further research directions, he mentions technical protection measures and better negotiation and coordination behavior of the agents.",
+            "besser": "Further research directions include technical safeguards and better negotiation and coordination by agents."
+          }
+        ]
+      }
+    ],
+    "q": "Q000462",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:04:39"
+  },
+  "Q000463": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "„misstrauischer Netzbetreiber“",
+            "englisch": "“suspicious network operator”",
+            "besser": "“distrustful network operator”"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "„konkrete Ausgestaltung und Wirksamkeit bleiben offen“",
+            "englisch": "“the specific design and effectiveness remain open to debate”",
+            "besser": "“the specific design and effectiveness remain open”"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "„Sicherheitsrahmen der Entwickler“",
+            "englisch": "“The security framework for developers”",
+            "besser": "“Developers’ security frameworks”"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "„über Ländergrenzen verbreiten“",
+            "englisch": "“spread across … country borders”",
+            "besser": "“spread across countries”"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "„deren Zuständigkeiten und Instrumente“",
+            "englisch": "“their responsibilities and instruments”",
+            "besser": "“the responsibilities and instruments for this oversight”"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "„laut Beitrag“",
+            "englisch": "“according to the contribution”",
+            "besser": "“according to the report”"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "„konzentrierten sich aber überwiegend auf einzelne Akteure“",
+            "englisch": "“but they focused predominantly on individual actors”",
+            "besser": "“but they predominantly focus on individual actors”"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "„deren Zuständigkeiten und Instrumente“",
+            "englisch": "“their responsibilities and instruments”",
+            "besser": "“the responsibilities and instruments for that oversight”"
+          }
+        ]
+      }
+    ],
+    "q": "Q000463",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:04:48"
+  },
+  "Q000466": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "nachvollziehbare Anforderungen",
+            "englisch": "understandable requirements",
+            "besser": "transparent requirements"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Der Beitrag deutet dies als Übergang",
+            "englisch": "The article points this out as a transition",
+            "besser": "The article interprets this as a transition"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000466",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:04:54"
+  },
+  "Q000468": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Agenten Regeln nach einer Kontextkomprimierung häufig weiter im Verlauf haben, sie aber dennoch missachten",
+            "englisch": "agents often continue to follow rules after context compression, but nevertheless violate them",
+            "besser": "agents often still have the rules in their history after context compression, but nevertheless ignore them"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Die Art der Regelvermittlung",
+            "englisch": "The type of rule propagation",
+            "besser": "The way the rule is communicated"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Selbst bei erhaltener Regel",
+            "englisch": "Even with the rule received",
+            "besser": "Even when the rule was retained"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "Nur Abstract und Metadaten",
+            "englisch": "Only abstracts and metadata",
+            "besser": "Only the abstract and metadata"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "nach der Kontextkomprimierung",
+            "englisch": "according to context compression",
+            "besser": "after context compression"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "im komprimierten Verlauf",
+            "englisch": "in the compressed course",
+            "besser": "in the compressed conversation history"
+          }
+        ]
+      }
+    ],
+    "q": "Q000468",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:05:17"
+  },
+  "Q000469": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Aufsicht über große KI-Entwickler",
+            "englisch": "oversight over major AI developers",
+            "besser": "oversight of major AI developers"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Der 2025 verabschiedete RAISE Act führte Transparenz- und Meldepflichten ein.",
+            "englisch": "The 2025 RAISE Act passed introduced transparency and reporting requirements.",
+            "besser": "The RAISE Act, passed in 2025, introduced transparency and reporting requirements."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Erfasste Unternehmen",
+            "englisch": "Companies under review",
+            "besser": "Companies covered by the bill"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "der Generalstaatsanwalt",
+            "englisch": "the Public Prosecutor",
+            "besser": "the Attorney General"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "den Konflikt um einzelstaatliche Zuständigkeiten",
+            "englisch": "the conflict over state sovereignty",
+            "besser": "the dispute over state authority"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Jugendgesundheit",
+            "englisch": "youth health",
+            "besser": "young people's mental health"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Der Bericht gibt diese Einschätzungen als Aussagen der Befragten wieder.",
+            "englisch": "The report reproduces these assessments as statements from the respondents.",
+            "besser": "The report presents these assessments as statements by the interviewees."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "freiwillige Sicherheitsmaßnahmen der Unternehmen",
+            "englisch": "voluntary security measures by companies",
+            "besser": "companies' voluntary safety measures"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Die Vorlage erfasst Unternehmen",
+            "englisch": "The template covers companies",
+            "besser": "The bill covers companies"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Das New Yorker Amt DIGIT",
+            "englisch": "The New York City agency DIGIT",
+            "besser": "The New York State agency DIGIT"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Kalifornien habe ein Rahmenwerk für externe KI-Prüfstellen und ein Auditorenregister geschaffen",
+            "englisch": "California has created a framework for external AI testing labs and an auditors' registry",
+            "besser": "The report says California created a framework for external AI auditing bodies and an auditors' registry."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "externe KI-Prüfstellen",
+            "englisch": "external AI testing labs",
+            "besser": "external AI auditing bodies"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Fragen zu psychischer Gesundheit junger Menschen oder zum KI-Einsatz in Behörden offenlässt",
+            "englisch": "raises questions, for example, about mental health among young people or the use of AI in government agencies",
+            "besser": "leaves questions such as young people's mental health and the use of AI in government agencies open"
+          }
+        ]
+      }
+    ],
+    "q": "Q000469",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:05:22"
+  },
+  "Q000473": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "einem Vergleich über 250 Millionen Dollar",
+            "englisch": "a comparison of over 250 million dollars",
+            "besser": "a settlement of over 250 million dollars"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "Figgs AI",
+            "englisch": "Figgs' AI",
+            "besser": "Figgs AI"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "sich selbst weiterentwickelnder KI",
+            "englisch": "self-developing AI",
+            "besser": "self-improving AI"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Die Metadaten versprechen einen Artikel zu Anthropics selbstverbessernder KI, der Inhalt behandelt aber Rückschläge und Schließungen bei KI-Produkten",
+            "englisch": "The metadata promises an article about Anthropics' self-improving AI, covering the content but also setbacks and closures of AI products",
+            "besser": "The metadata promises an article about Anthropic’s self-improving AI, but the content covers setbacks and closures of AI products"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Über Anthropics RSI-Fähigkeiten berichtet er nicht.",
+            "englisch": "He does not report on Anthropic's RSI capabilities.",
+            "besser": "It does not report on Anthropic's RSI capabilities."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Apples neue Siri verzögerte sich wiederholt",
+            "englisch": "Apple's new Siri repeatedly lagged",
+            "besser": "Apple's new Siri was repeatedly delayed"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Relay, Ollie, Huxe und Yupp stellten ihren Betrieb ein.",
+            "englisch": "Relay, Ollie, Huxe, and Yupp suspended their operations.",
+            "besser": "Relay, Ollie, Huxe, and Yupp shut down."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000473",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:05:38"
+  },
+  "Q000474": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "„redigierte Fassung“",
+            "englisch": "“edited version”",
+            "besser": "“redacted version”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„geschwärzt“ / „geschwärzte Angaben“",
+            "englisch": "“redacted” / “censored”",
+            "besser": "“redacted” / “redacted information”"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "„eine etwa doppelte Beschleunigung des KI-Fortschritts“",
+            "englisch": "“an acceleration of about double the AI progress”",
+            "besser": "“a roughly twofold acceleration in the pace of AI progress”"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "„Anthropics Regelwerk“, „Anthropics Argument“, „Anthropics Einstufung“",
+            "englisch": "“Anthropics' framework”, “Anthropics' argument”, “Anthropics' classification”",
+            "besser": "“Anthropic's framework”, “Anthropic's argument”, “Anthropic's classification”"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "„Anthropics Einschätzung“",
+            "englisch": "“Anthropics' assessment”",
+            "besser": "“Anthropic's assessment”"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "„könnte … plausibel erreicht worden sein“",
+            "englisch": "“could have been plausibly reached”",
+            "besser": "“may plausibly have been reached”"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "„Anthropics Risikobericht“",
+            "englisch": "“Anthropics' risk report”",
+            "besser": "“Anthropic's risk report”"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "„zu bestimmt“",
+            "englisch": "“questionable”",
+            "besser": "“too definitive”"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "„eine Beschleunigung nahe oder über dem Faktor zwei“",
+            "englisch": "“a acceleration appear plausible or above the factor of two”",
+            "besser": "“an acceleration near or above a factor of two appear plausible”"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "„eine Beschleunigung“",
+            "englisch": "“a acceleration”",
+            "besser": "“an acceleration”"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "„geschwärzten Angaben“",
+            "englisch": "“censored data”",
+            "besser": "“redacted information”"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "„Anthropics Einschätzung“",
+            "englisch": "“Anthropics' assessment”",
+            "besser": "“Anthropic's assessment”"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "„plausible“",
+            "englisch": "“plausible” in “considers the early warning threshold already reached to be plausible”",
+            "besser": "“considers it plausible that the early warning threshold has already been reached”"
+          }
+        ]
+      }
+    ],
+    "q": "Q000474",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:06:00"
+  },
+  "Q000475": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Ein kleines Modell erzeugt Zusammenfassungsfelder parallel, die ein Zielmodell semantisch prüft und bei Bedarf korrigiert",
+            "englisch": "A small model generates summary fields in parallel, semantically evaluates a target model, and corrects it as needed",
+            "besser": "A small model generates summary fields in parallel, which a target model semantically evaluates and corrects as needed"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Getrennte Folgeauswertungen",
+            "englisch": "separate sequence evaluations",
+            "besser": "separate follow-up evaluations"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Ergebnisse im Detail",
+            "englisch": "results in detail",
+            "besser": "detailed results"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "zwischen dem Erhalt wichtiger Informationen und der Laufzeit abgewogen werden",
+            "englisch": "a trade-off must be made between obtaining important information and runtime",
+            "besser": "a trade-off must be made between preserving important information and runtime"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "von schnelleren Verdichtungsvorgängen. Der konkrete Beschleunigungswert ist im vorliegenden Text jedoch ausgelassen.",
+            "englisch": "faster compression processes to a Hermes-like summary method. However, the specific acceleration value is omitted in the present text.",
+            "besser": "faster compression processes than a Hermes-like summarization method. However, the specific speedup value is omitted from the present text."
+          }
+        ]
+      }
+    ],
+    "q": "Q000475",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:05:46"
+  },
+  "Q000477": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "Pro Modellkonfiguration wurden 20 Durchläufe ausgewertet.",
+            "englisch": "For each model configuration, 20 traversals were evaluated.",
+            "besser": "For each model configuration, 20 runs were evaluated."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "durch einen offensichtlichen inhaltlichen Zusammenhang",
+            "englisch": "by an obvious contentual connection",
+            "besser": "by an obvious connection in meaning"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Jedes Modell habe ein eigenes Muster der Beeinflussung gezeigt",
+            "englisch": "Each model showed its own pattern of influence",
+            "besser": "Each model showed its own pattern of being influenced"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "zufällige Rauschbilder",
+            "englisch": "random psychedelic images",
+            "besser": "random noise images"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Die Erklärungen der Modelle erwähnten den visuellen Einfluss meist nicht",
+            "englisch": "The models' explanations usually did not mention the visual influence",
+            "besser": "The models' explanations usually did not mention the influence of the visual cues"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "deutlich und modellabhängig steuern können",
+            "englisch": "can significantly and model-dependently control",
+            "besser": "can strongly influence in a model-dependent way"
+          }
+        ]
+      }
+    ],
+    "q": "Q000477",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:06:09"
+  },
+  "Q000478": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Eine höhere Prüfrate",
+            "englisch": "A higher testing rate",
+            "besser": "A higher verification rate"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "sollen ungültige Schritte eher aufdecken",
+            "englisch": "is intended to increase the likelihood of detecting invalid steps",
+            "besser": "is intended to make invalid steps more likely to be detected"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "schließen das Zertifikat ab",
+            "englisch": "complete the certification",
+            "besser": "finalize the certificate"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Trainingsmodelle",
+            "englisch": "Training models",
+            "besser": "trained models"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "auch erste Kolleginnen und Kollegen hätten das Werkzeug ausprobiert",
+            "englisch": "even some colleagues have tried the tool",
+            "besser": "some colleagues have also tried the tool"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "prüfbares Zertifikat",
+            "englisch": "testable certificate",
+            "besser": "verifiable certificate"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "In einem genannten Test",
+            "englisch": "In a test mentioned",
+            "besser": "In one test cited"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Prüfrate",
+            "englisch": "evaluation rate",
+            "besser": "verification rate"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "soll ungültige Schritte eher aufdecken",
+            "englisch": "is intended to detect invalid steps more frequently",
+            "besser": "is intended to make invalid steps more likely to be detected"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die signierende Softwarekomponente nicht überwinden können",
+            "englisch": "not being able to overcome the signing software component",
+            "besser": "not being able to circumvent the software component that signs the entries"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": []
+      }
+    ],
+    "q": "Q000478",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:06:27"
+  },
+  "Q000479": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Kursverluste",
+            "englisch": "losses on the books",
+            "besser": "share-price losses"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "militärische Kommunikationswege",
+            "englisch": "military communication routes",
+            "besser": "military communication channels"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "die Kosten des Handelskriegs nach ihrer Einschätzung in beiden Volkswirtschaften fortwirken",
+            "englisch": "the costs of the trade war will continue in both economies",
+            "besser": "the costs of the trade war will continue to be felt in both economies"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Leitplanken für KI-Risiken",
+            "englisch": "guiding principles for AI risks",
+            "besser": "guardrails for AI risks"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "welcher KI-Ausbau sich dauerhaft selbst finanzieren kann",
+            "englisch": "which AI expansion can be self-financed permanently",
+            "besser": "which AI expansion can finance itself sustainably"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Ereignisangaben",
+            "englisch": "event data",
+            "besser": "details about events"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000479",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:06:24"
+  },
+  "Q000481": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Die beste Probe sei überwiegend auf die Anweisung angewiesen gewesen.",
+            "englisch": "Even the best trial relied predominantly on the instruction.",
+            "besser": "Even the best probe relied predominantly on the instruction."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Eine Regel, die nur die Stimmen ausliest, erreichte einen AUROC-Wert von 0,990.",
+            "englisch": "A rule that only reads out the votes already achieved an AUROC value of 0.990.",
+            "besser": "A rule that only reads out the votes already reached an AUROC value of 0.990."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Eine auf den eigenen Entscheidungen der Agenten trainierte Probe erreichte … Bei Kollusionszielen, die in die Modellgewichte feinabgestimmt worden seien, habe eine Probe einen Wert von 0,995 erzielt.",
+            "englisch": "A trial trained on the agents' own decisions achieved … For collusion targets that had been finely tuned into the model weights, a trial achieved a value of 0.995.",
+            "besser": "A probe trained on the agents' own decisions achieved … For collusion targets that had been fine-tuned into the model weights, a probe achieved a value of 0.995."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Kollusionsprobes",
+            "englisch": "collusion samples",
+            "besser": "collusion probes"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "häufig eher eine erhaltene Anweisung als die eigene Entscheidung eines LLM-Agenten erkennen",
+            "englisch": "are often more often recognized as a preserved instruction than as the own decision of an LLM agent",
+            "besser": "often detect a received instruction rather than an LLM agent's own decision"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Auswertung nach der Abstimmung",
+            "englisch": "evaluation after alignment",
+            "besser": "evaluation after the vote"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Gegenproben",
+            "englisch": "counterexamples",
+            "besser": "counterprobes"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Die beste Probe erreichte … Eine auf den eigenen Entscheidungen der Agenten trainierte Probe erreichte …",
+            "englisch": "The best test achieved … A test trained on the agents' own decisions achieved …",
+            "besser": "The best probe achieved … A probe trained on the agents' own decisions achieved …"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "bei feinabgestimmten Kollusionszielen",
+            "englisch": "for finely tuned collusion targets",
+            "besser": "for fine-tuned collusion targets"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Kollusionsmonitore",
+            "englisch": "collision monitors",
+            "besser": "collusion monitors"
+          }
+        ]
+      }
+    ],
+    "q": "Q000481",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:06:46"
+  },
+  "Q000485": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Kausale Eingriffe in diese Repräsentation hätten die Zählung verändert.",
+            "englisch": "Causal interventions into this representation would have altered the count.",
+            "besser": "Causal interventions on this representation altered the count."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "kolludierender Agentenpaare",
+            "englisch": "colliding agent pairs",
+            "besser": "colluding agent pairs"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "überwachter NARCBench-Sonden",
+            "englisch": "monitored NARCBench probes",
+            "besser": "supervised NARCBench probes"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "bis auf dessen Komplement",
+            "englisch": "except for its complement",
+            "besser": "up to its complement"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Der Auszug enthält keine näheren Angaben … Die genannten Ergebnisse … im Abstract wiedergegeben",
+            "englisch": "The abstract contains no further details … The results mentioned are therefore reproduced in the abstract",
+            "besser": "The excerpt contains no further details … The results mentioned are therefore presented as statements by the authors in the abstract"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "nähere Angaben zu Versuchsdetails",
+            "englisch": "further details on experimental details",
+            "besser": "further details on the experimental setup"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "verdeckte Kartenzählaufgabe",
+            "englisch": "hidden map counting task",
+            "besser": "hidden card-counting task"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "kolludierender Paare",
+            "englisch": "colliding pairs",
+            "besser": "colluding pairs"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "diese in steganografischen Szenarien erreicht",
+            "englisch": "achieved this in steganographic scenarios",
+            "besser": "matched their performance in steganographic scenarios"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "im Auszug",
+            "englisch": "in the abstract",
+            "besser": "in the excerpt"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000485",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:06:59"
+  },
+  "Q000490": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "einer promovierten Person mit Nasslaborerfahrung",
+            "englisch": "a doctoral candidate with wet‑lab experience",
+            "besser": "a person with a PhD and wet-lab experience"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "eine Negativkontrollplatte",
+            "englisch": "a negative control slide",
+            "besser": "a negative control plate"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Es deutete außerdem eine Bildreihe korrekt als Z-Stapel, also Aufnahmen verschiedener Tiefen, statt ein biologisches Verschwinden der Zellen anzunehmen.",
+            "englisch": "It also incorrectly identified a series of images as Z-stacks, i.e., recordings of different depths, instead of assuming a biological disappearance of the cells.",
+            "besser": "It also correctly interpreted a series of images as a Z-stack, meaning images taken at different depths, rather than assuming that the cells had biologically disappeared."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "ordnete Astra die Banden den falschen Plasmidgruppen zu",
+            "englisch": "Astra assigned the strains to the wrong plasmid groups",
+            "besser": "Astra assigned the bands to the wrong plasmid groups"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "wählte andere Kolonien als die Referenz",
+            "englisch": "selected other colonies as the reference",
+            "besser": "selected colonies that differed from the reference"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "älteren verglichenen Modelle",
+            "englisch": "older compared models",
+            "besser": "older models included in the comparison"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Kolonieplatten",
+            "englisch": "culture plates",
+            "besser": "colony plates"
+          },
+          {
+            "art": "fakt",
+            "deutsch": "GPT‑6 Astra im Mittel 66,7 Prozent der Punkte",
+            "englisch": "GPT‑6 averaged 66.7 percent of the points for Astra",
+            "besser": "GPT‑6 Astra averaged 66.7 percent of the points"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Kontrollmuster",
+            "englisch": "control sample",
+            "besser": "control patterns"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "zählte Kolonien mit etwa zwölf Prozent Überhöhung",
+            "englisch": "counted colonies with about a twelve percent overestimation",
+            "besser": "counted the colonies, with the resulting count about twelve percent too high"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q000490",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:07:03"
+  },
+  "Q000494": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Notwendigkeit und Hinlänglichkeit von Nachrichten",
+            "englisch": "the necessity and extent of messages",
+            "besser": "the necessity and sufficiency of messages"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "nicht vorgegebenen Agentengesprächen",
+            "englisch": "unprescribed agent conversations",
+            "besser": "agent conversations that were not pre-specified"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die kleinste Menge an Nachrichtenentfernungen",
+            "englisch": "the smallest amount of message removals",
+            "besser": "the smallest set of message removals"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "dem das Gesprächsprotokoll vorgelegt",
+            "englisch": "to whom the conversation protocol was presented",
+            "besser": "who was given the conversation transcript"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "kollektive Fehlanpassung",
+            "englisch": "collective misadaptation",
+            "besser": "collective misalignment"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "manche Nachrichtenentfernungen",
+            "englisch": "some message filtering",
+            "besser": "some message removals"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "In kontrollierten Fällen hätten ausgewählte Löschungen die Verstöße von 93 auf 6 Prozent gesenkt.",
+            "englisch": "In controlled cases, selected deletions reduced the violations from 93 to 6 percent.",
+            "besser": "In controlled cases, selected deletions reportedly reduced the violations from 93 to 6 percent."
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "In geeigneten Fällen habe CDA diese Verringerung mit halb so vielen Löschungen erzielt",
+            "englisch": "In appropriate cases, CDA achieved this reduction with half as many deletions",
+            "besser": "In suitable cases, CDA reportedly achieved this reduction with half as many deletions."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "bei unbekannten Aufgaben",
+            "englisch": "with unknown tasks",
+            "besser": "on unknown tasks"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "vollständige Erklärungen bei unbekannten Aufgaben",
+            "englisch": "making correct decisions with unknown tasks",
+            "besser": "providing complete explanations for unknown tasks"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "möglichen Störungen korrekter Entscheidungen",
+            "englisch": "possible disturbances",
+            "besser": "the possibility of disrupting correct decisions"
+          }
+        ]
+      }
+    ],
+    "q": "Q000494",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:07:17"
+  },
+  "Q000496": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Abrufe unter bereits bestehenden Blanket Purchase Agreements (BPAs)",
+            "englisch": "procurements under already existing blanket purchase agreements (BPAs)",
+            "besser": "orders placed under existing Blanket Purchase Agreements (BPAs)"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "nach einem OMB-Memorandum vom 31. August 2026",
+            "englisch": "in accordance with an OMB memorandum dated August 31, 2026",
+            "besser": "following an OMB memorandum dated August 31, 2026"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Best-in-Class-PPE-Sicherheitsbestände",
+            "englisch": "best-in-class PPE safety supplies",
+            "besser": "Best-in-Class PPE safety stock"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "HVAC-Wartung nicht mehr als eigenständiges Angebot geführt wird",
+            "englisch": "HVAC maintenance will no longer be conducted as a separate offer",
+            "besser": "HVAC maintenance will no longer be listed as a standalone offering"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "soll vorerst nicht durchgesetzt werden",
+            "englisch": "is not to be implemented for the time being",
+            "besser": "is not to be enforced for the time being"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Abrufe unter BPA",
+            "englisch": "BPA retrievals",
+            "besser": "orders placed under BPAs"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Aufträge vor dem Wirksamkeitsdatum",
+            "englisch": "contracts before the effective date",
+            "besser": "orders placed before the effective date"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "bisherige Bedingungen gelten",
+            "englisch": "current conditions are to apply",
+            "besser": "the terms that applied previously are to remain in effect"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "von Freigaben oder Abstimmungen abhingen",
+            "englisch": "depend on approvals or votes",
+            "besser": "depend on approvals or coordination"
+          }
+        ]
+      }
+    ],
+    "q": "Q000496",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T21:07:34"
+  }
+}

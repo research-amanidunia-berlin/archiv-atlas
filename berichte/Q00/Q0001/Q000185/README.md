@@ -1,0 +1,41 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# Let China copy American AI
+
+Report Q000185 · Source economist.com · Date 2026-10-29 · [Open original](https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai)
+
+[All reports](../../../README.md) · Data: [bericht.json](bericht.json)
+
+## Collected questions
+
+Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
+
+| Question | clef | Luna | d3-ultra | JEV | amos | drex |
+|---|---|---|---|---|---|---|
+| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 25 / 45 % | 25 / 66 % | – | 70 / 84 % | 12 / 36 % | 9 / 25 % |
+| [SF-E2](../../../../fragen/SF-E2/) In what framework should states govern AI, and where is a common floor? | 18 / 41 % | 0 / 0 % | – | 64 / 75 % | 11 / 34 % | 7 / 22 % |
+| [SF-H1](../../../../fragen/SF-H1/) Where does legitimate use of another model's outputs end and unauthorised distillation, training one's own model on those outputs, begin? | 52 / 68 % | 27 / 55 % | – | 7 / 32 % | 40 / 63 % | 53 / 69 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 19 / 35 % | 16 / 51 % | – | 49 / 66 % | 9 / 22 % | 12 / 26 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 9 / 36 % | 35 / 65 % | – | 8 / 22 % | 5 / 10 % | 4 / 7 % |
+| [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 30 / 47 % | 19 / 51 % | – | 0 / 0 % | 10 / 27 % | 25 / 41 % |
+| [SF-E1](../../../../fragen/SF-E1/) What real say do other states, smaller labs, universities and civil society get in the rules for AI? | 18 / 39 % | 23 / 47 % | – | 5 / 18 % | 6 / 19 % | 6 / 15 % |
+| [SF-V4](../../../../fragen/SF-V4/) What kind of entity is a model, and what follows for how we treat it and for the value of being human? | 0 / 0 % | 19 / 40 % | – | 19 / 43 % | 0 / 0 % | 0 / 0 % |
+| [SF-H2](../../../../fragen/SF-H2/) What may be released openly, and who is responsible when an open model causes harm elsewhere? | 0 / 0 % | 0 / 0 % | – | 7 / 19 % | 8 / 19 % | 13 / 24 % |
+| [SF-F2](../../../../fragen/SF-F2/) When a state names a model as proof that a threshold has been crossed, or ties a risk to a model's origin, how does that become checkable? | 12 / 26 % | 6 / 31 % | – | 5 / 21 % | 6 / 20 % | 6 / 15 % |
+| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 0 / 0 % | – | 12 / 29 % | 5 / 19 % | 5 / 15 % |
+| [SF-W2](../../../../fragen/SF-W2/) How do competition law and public procurement bear on AI safety? | 11 / 27 % | 0 / 0 % | – | 0 / 0 % | 7 / 18 % | 6 / 14 % |
+| [SF-H6](../../../../fragen/SF-H6/) What evidence settles accusations of espionage and data leaks between states? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 8 / 21 % | 10 / 21 % |
+| [SF-P1](../../../../fragen/SF-P1/) Under what conditions do states and labs verify each other: with what access, what data and what public results? | 9 / 33 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 4 / 10 % |
+| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 5 / 19 % | – | 2 / 11 % | 6 / 15 % | 8 / 18 % |
+| [SF-O2](../../../../fragen/SF-O2/) What should governments, labs and evaluators disclose about their talks, commitments, evaluations and interventions? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 10 % | 8 / 19 % |
+| [SF-A3](../../../../fragen/SF-A3/) Which dangers arise when many AI systems interact or share the same infrastructure? | 6 / 21 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 2 / 6 % |
+| [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 9 % | 5 / 11 % |
+| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 3 / 7 % |
+| [SF-F1](../../../../fragen/SF-F1/) How are a model's dangerous capabilities, cyber above all, measured with mutually recognised, repeatable tests that favour no language, culture or side? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 12 % | 4 / 8 % |
+| [SF-F4](../../../../fragen/SF-F4/) Which models, developers and deployments do testing rules apply to, and when must testing be repeated? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 3 / 8 % |
+| [SF-F5](../../../../fragen/SF-F5/) How do states act together against AI-enabled cyberattacks and prevent escalation between autonomous systems, without hampering defence? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 10 % | 3 / 6 % |
+| [SF-A2](../../../../fragen/SF-A2/) Can AI systems be safely paused, rolled back, isolated or degraded, and who may order it? | 5 / 17 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 3 / 9 % |
+| [SF-W3](../../../../fragen/SF-W3/) How are financial markets protected from the effects of AI, from confidential pause decisions to crashes within seconds? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 5 / 12 % |
+| [SF-H4](../../../../fragen/SF-H4/) What happens to models and safety obligations when a lab is sold or dissolved, or a model is retired? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 5 / 10 % |
+| [SF-P5](../../../../fragen/SF-P5/) How do you verify that commitments between states are kept, including over years and changes of government? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 10 % | 4 / 10 % |
+| [SF-E3](../../../../fragen/SF-E3/) Which bodies in a state are responsible for AI safety and testing, and which of them already exist? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 5 / 12 % |

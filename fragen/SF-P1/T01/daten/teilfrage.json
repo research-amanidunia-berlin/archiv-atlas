@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P1-T01",
+  "sammelfrage": "SF-P1",
+  "frage": {
+    "de": "Wie ließen sich unabhängige Zertifizierungsstellen für KI-Sicherheit schaffen, die alle Seiten anerkennen?",
+    "en": "How could independent certification bodies for AI safety be established that all sides accept?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "cyber-29",
+      "text": {
+        "de": "Wie könnten unabhängige Zertifizierungsstellen für AI-Sicherheit etabliert werden, die sowohl von den USA als auch von China akzeptiert werden könnten, um objektive Bewertungen von Modellsicherheit durchzuführen?",
+        "en": "How could independent certification bodies for AI safety be established that could be accepted by both the US and China to conduct objective assessments of model safety?"
+      }
+    }
+  ],
+  "bewertung": null
+}

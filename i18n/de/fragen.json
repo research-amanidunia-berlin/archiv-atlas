@@ -1,0 +1,501 @@
+{
+  "SF-M1": {
+    "frage": "Ab wann ist ein KI-Vorfall so ernst, dass Staaten ihn einander melden müssen?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "Ab welchen Schwellen (Fähigkeit, Zahl der Opfer, Folgen für Infrastruktur) entscheidet jede Regierung, dass ein Vorfall gemeldet werden muss? Welche Antwortzeiten und Kommunikationsabläufe trennen gewöhnliche Cybervorfälle von Vorfällen der nationalen Sicherheit?",
+      "T02": "Könnten Staaten eine kurze, gemeinsam vereinbarte Liste veröffentlichen, was für Meldezwecke als KI-gestützter Cybervorfall zählt, damit die Definition keines Staates später als Vorwurf gegen einen anderen gelesen werden kann?",
+      "T03": "Welche zweisprachigen Begriffe und welche maßgebliche Sprachfassung würden Staaten beim Einstufen gemeldeter Vorfälle verwenden, und wie würden sie Fälle klären, in denen eine Übersetzung den scheinbaren Umfang verändert?",
+      "T04": "Welche KI-Systeme gelten als Systeme der nationalen Sicherheit? Veröffentlicht jeder Staat die Kriterien, nach denen ein Modell oder ein Einsatz in diese Gruppe fällt, und können andere Staaten eine solche Einstufung förmlich anfechten?",
+      "T05": "Wie oft und in wessen Zuständigkeit sollten Staaten die Definitionen und Meldeschwellen überprüfen, wenn sich die Fähigkeiten der Modelle ändern?"
+    }
+  },
+  "SF-M2": {
+    "frage": "Wie muss ein Meldekanal zwischen Staaten gebaut sein, damit er verlässlich arbeitet, auch in einer Krise?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "Wer nimmt eine Meldung in jedem Staat entgegen, und ist sie nur eine Benachrichtigung, oder verpflichtet sie eine Regierung dauerhaft zum Handeln? Veröffentlichen die Staaten eine gemeinsame Erklärung, die die zuständige Stelle je Staat, die meldepflichtigen Vorfallklassen und Schweregrade, einen verschlüsselten und authentifizierten Kanal mit Empfangsbestätigung und die längste Frist von der Entdeckung bis zur Meldung festlegt?",
+      "T02": "Welchem Eskalationsverfahren soll der Kanal folgen, wenn ein Vorfall vom zweiseitigen fachlichen Austausch in eine Lage übergeht, in der Drittstaaten oder verbündete militärische Kommandostrukturen beteiligt werden könnten?",
+      "T03": "Welches Ausweichverfahren hat der Kanal in einer akuten Krise, wenn die gewöhnlichen diplomatischen Wege ausgesetzt sind? Bleibt er personell besetzt, und wer ist befugt, Anrufe entgegenzunehmen?",
+      "T04": "Geht ein Meldekanal aus Wirtschafts- und Handelsgesprächen hervor, nicht aus einem Kanal für KI-Sicherheit oder Militär: Trennen die Regierungen ihn förmlich von diesen Gesprächen, damit ein Zollstreit oder ein Streit um Exportkontrollen die Meldung von KI-Vorfällen nicht einfrieren oder beeinflussen kann, oder ist die Kopplung gewollt?",
+      "T05": "Was hindert einen Staat daran, über den Kanal eine unbegründete Meldung über einen KI-Vorfall der nationalen Sicherheit abzusetzen, um ein ausländisches Labor zu schikanieren oder aufzuhalten, und wer entscheidet über eine bestrittene Meldung, bevor daraus eine Krise zwischen Staaten wird? Erweist sich eine Meldung als falsch oder irrtümlich oder schreibt der meldende Staat den Angriff inzwischen seinem eigenen Modell zu: In welcher Frist und nach welchem Verfahren geht die Berichtigung hinaus, wer erhält sie, und wird eine zurückgezogene Meldung dem meldenden Staat so angerechnet, dass ehrliches Melden abgeschreckt werden könnte?",
+      "T06": "Wie wird Melden günstiger als Schweigen, und verpflichtet sich jeder Staat zu melden, auch wenn eine Meldung offenlegt, was er erkennen kann? Verpflichtet sich jeder Staat zu einer Mindestfähigkeit zum Erkennen und Melden für seine Betreiber kritischer Infrastruktur, und wer legt diese fest, stattet sie aus und prüft sie, bevor der Kanal als betriebsbereit erklärt wird?",
+      "T07": "Veröffentlicht jede Regierung für den Kanal eine öffentliche Zählung, wie viele Meldungen gesendet, bestätigt und zurückgezogen wurden und wie viele strittig blieben, damit sich sein Nutzen beurteilen lässt, ohne Sensibles preiszugeben?",
+      "T08": "Über welchen Meldekanal erreicht eine nationale Stelle für Cybersicherheitsvorfälle (CERT) ein Labor in einem anderen Staat, das ein Modell einsetzt, wenn dieses Modell bei bösartiger Cyberaktivität beobachtet wird?",
+      "T09": "Bevor der Meldekanal Vorfallmeldungen aus Laboren als Auslöser nutzt: Erklärt jede Regierung, welche laborinternen Entscheidungen über die Weitergabe von Vorfällen nach außen sie als Eingaben behandelt, obwohl sie diese nicht prüfen kann? Und gilt ein unerklärtes Nichtmelden eines Labors, soweit ein Aufschub aus Sicherheitsgründen es erlaubt, als Schweigen oder als meldepflichtiges Versäumnis?"
+    }
+  },
+  "SF-M3": {
+    "frage": "Wie stellt man fest, ob ein Vorfall gewollt oder versehentlich war, und ob KI oder herkömmliche Mittel dahinterstecken?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "Wie trennt man in Echtzeit eine gezielte KI-gestützte Cyberoperation von einer versehentlichen KI-Eskalation oder von Modellverhalten, das nur wie ein Angriff aussieht, da sowohl Fehlalarme als auch übersehene Angriffe die Spannungen verschärfen können?",
+      "T02": "Wie weist ein Staat nach, dass ein Angriff KI-gestützt war und nicht herkömmlich, und welche gemeinsamen Forensik-Standards machen eine solche Zuschreibung für alle Beteiligten glaubwürdig? Welcher in mehreren Rechtsräumen anerkannte Vertrauensanker für Signaturen und welche Regel zum Abgleich der Uhren ergeben eine grenzüberschreitende Zeitleiste des Vorfalls, an der jede nachträgliche Änderung erkennbar ist, ohne sich auf die lokale Uhr eines Beteiligten zu verlassen? Und welches Wiederherstellungsverfahren gilt, wenn der Zeitdienst oder die Signatur kompromittiert ist?",
+      "T03": "Wenn die leistungsstärksten KI-Modelle kritische Infrastruktur schützen und bei einem laufenden Einbruch in Maschinengeschwindigkeit selbstständig Netze abtrennen oder Korrekturen am ausführbaren Programmcode (Binär-Patches) erzeugen: Welche manipulationssichere Signatur in den Betriebsdaten (Telemetrie) unterscheidet eine rechtmäßige autonome Notfallbehebung von der Cyber-Sabotage eines Gegners, damit Abwehrschritte im zweiseitigen Meldekanal keinen Fehlalarm auslösen?",
+      "T04": "Unter welchen Bedingungen würden Staaten die eigene Darstellung des beteiligten Modells als Teil der Vorfallakte anerkennen, und was verhindert, dass sie eine eigennützige Fassung der Ereignisse ist? Enthält ein authentifizierter Vorfallbericht Agentenspuren (Protokolle der Arbeitsschritte eines KI-Agenten) oder anderes Material des verdächtigen Systems: Welcher Test zeigt, dass die KI-Werkzeuge der empfangenden Ermittler darin eingebettete Anweisungen als Beweismittel prüfen, statt sie auszuführen?"
+    }
+  },
+  "SF-M4": {
+    "frage": "Wie kommen Meldungen von Laboren, Betreibern und Nutzern schnell und geschützt zu den Stellen, die handeln müssen, auch über Grenzen hinweg?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "Welches gemeinsame Meldeformat und welcher geschützte Kanal ließen Labore Fehler nachstellen und Korrekturen prüfen, ohne private Daten oder gefährliche technische Details preiszugeben? Und könnte sich die Branche über Grenzen hinweg auf einen Standard für das Melden KI-gestützter Einbrüche und Datenabflüsse einigen, damit eine Eskalation gemessen und nicht nur behauptet wird?",
+      "T02": "Wie sähen Selbstkontrolle und Informationsaustausch zwischen Laboren verschiedener Staaten praktisch aus (eine gemeinsame Vorlage für Vorfallberichte, gemeinsame Übungen oder ein gemeinsames Register), und wer dürfte die Berichte sehen?",
+      "T03": "Mit welchem technischen Prüfverfahren stimmen Labore verschiedener Staaten die verantwortliche Offenlegung ab, wenn ein führendes KI-Modell eine kritische, bislang unbekannte Sicherheitslücke (Zero-Day) findet? Und könnten Labore ein gemeinsames, technisch ausgearbeitetes Protokoll für die Offenlegung von Cyberfähigkeiten entwerfen, das als Standard übernommen wird, auf den sich Regierungen stützen können?",
+      "T04": "Wenn Labore rivalisierender Staaten einen gemeinsamen, vertraulichen Meldekanal für Beinahe-Vorfälle einrichteten: Welche Leitungs- und Kontrollstruktur gäbe allen Beteiligten die Gewissheit, dass geteilte Angaben später nicht in einem geopolitischen Streit als Waffe eingesetzt werden?",
+      "T05": "Wenn das Sicherheitsteam eines Labors beim gewöhnlichen Training eine unerwartete gefährliche Fähigkeit entdeckt: Welche kürzeste durchsetzbare Frist gilt, bis dieser Fund Labore und Regierungen anderer Staaten erreichen muss, und wer bescheinigt diese Frist?",
+      "T06": "Was müssen nachgelagerte Betreiber und Nutzer melden, wenn ein eingesetztes Modell ein Anzeichen von Fehlausrichtung zeigt (Verhalten gegen die vorgesehenen Ziele oder Werte), das sein Trainingslabor als nicht offenzulegen einstuft? Und an wen: den Meldekanal zwischen den Staaten, das Aufsichtsgremium des Labors oder die Eskalation an seine Leitung?",
+      "T07": "Wenn KI-Labore verschiedener Staaten sich selbst überwachen und Angaben zu Cyberangriffen mit KI austauschen sollen: Welche überprüfbaren Mindestzusagen machen sie dafür, ohne Kundendaten oder ihre eigenen Modelle herauszugeben? Zum Beispiel feste Arten von Vorfällen, eine Frist für Meldungen und das Offenlegen der Ergebnisse von Angriffstests."
+    }
+  },
+  "SF-M5": {
+    "frage": "Was muss vor und nach einem Vorfall geschehen, damit Verantwortliche einstehen, man daraus lernt, Beweise bleiben und Betroffene auch über Grenzen hinweg zu ihrem Recht kommen?",
+    "bereich": "M",
+    "teilfragen": {
+      "T01": "Verlangen Staaten von einem Labor, beim Verdacht auf Fehlausrichtung (Verhalten gegen die vorgesehenen Ziele oder Werte) sofort den Zustand des Systems zu sichern, also Protokolle, Modellgewichte (die gelernten Parameter) und den Stand der Trainingsdaten, und zu veröffentlichen, dass es das getan hat, bevor Zeit und erneutes Training die einzigen Beweise löschen?",
+      "T02": "Wird jeder öffentlich gemeldete Vorfall von Fehlausrichtung, der sich gefahrlos nachstellen lässt, zu einem versionierten Regressionstest (einer Prüfung, ob der Fehler wiederkehrt), den Nachfolgemodelle vor der Freigabe bestehen müssen, mit unabhängiger Prüfung des Ergebnisses?",
+      "T03": "Veröffentlicht das Labor zu jedem veröffentlichten Fallbericht über Fehlausrichtung, was sich danach geändert hat (erneutes Training, Einsatzbeschränkungen, Überwachung), und veröffentlicht es eine datierte Nachprüfung, die zeigt, ob diese Maßnahmen das gemeldete Verhalten an den betroffenen Modellversionen geändert haben und ob eine Stelle von außen das Ergebnis nachgestellt hat?",
+      "T04": "Zählen Meldungen, die ein eingesetztes Modell selbst auslöst oder die von externen Nutzern kommen, die bedenkliches Verhalten beobachtet haben, im Offenlegungsverfahren des Labors, und muss jede eine begründete Antwort bekommen?",
+      "T05": "Wenn ein öffentlicher Bericht über Fehlausrichtung Dritte nennt oder betrifft: Welche eng begrenzte Gelegenheit haben sie, vor der Veröffentlichung Tatsachenfehler zu berichtigen, und wer entscheidet im Streit, ohne ihnen ein Veto über die Veröffentlichung zu geben?",
+      "T06": "Welche Pflicht sollten Regierungen, Labore und Betreiber haben, wenn sich später zeigt, dass ein eingesetztes Modell eine Sicherheitsschwelle verletzt hat: die Entscheidungen, die es beeinflusst hat, zu ermitteln, darüber zu benachrichtigen, sie zu berichtigen oder für sie zu entschädigen? Und wie kann eine nachträgliche Prüfung den vom Modell verursachten Schaden vom umgebenden menschlichen Entscheidungsprozess unterscheiden?",
+      "T07": "Würden Regierungen gemeinsame Mindestregeln für Abhilfe annehmen, wenn ein in einem Land eingesetztes KI-System in einem anderen nachweisbaren Schaden verursacht (Untersuchungsrechte, Sicherung von Beweisen, Zuständigkeit, Entschädigung), und würden dieselben Regeln auch gelten, wenn der Vorfall von einem Labor in einem Drittstaat ausgeht?",
+      "T08": "Welchen gemeinsamen Mindeststandard für Versicherung oder finanzielle Verantwortung würden Staaten für Einsätze der leistungsstärksten KI-Modelle annehmen, die grenzüberschreitende Schäden verursachen, und wie wäre er zu bemessen, damit er Sicherheit in die Kosten der Skalierung einpreist, ohne zu einer Auflagen-Hürde zu werden, die nur die zwei größten Labore nehmen können?",
+      "T09": "Welches wirtschaftliche Mittel (Bußgelder, Haftung oder Regeln für die Beschaffung) würde die Mitglieder der Leitung eines Labors persönlich schlechter stellen, wenn sie an einem vereinbarten Sicherheitsprüfpunkt vorbeirennen, als wenn sie ihn einhalten?"
+    }
+  },
+  "SF-F1": {
+    "frage": "Wie misst man gefährliche Fähigkeiten eines Modells, vor allem im Cyberbereich, mit gemeinsam anerkannten, wiederholbaren Tests, die keine Sprache, Kultur oder Seite bevorzugen?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Welche Belege zu Cyberfähigkeiten soll ein Labor vor der Freigabe eines Modells veröffentlichen (Methoden, Aufgabenfamilien, Fehlerraten, getestete Version, reproduzierbare Cyber-Tests in abgeschirmter Umgebung für unabhängige Prüfer), damit jedes Ministerium sie nachstellen kann, statt ihnen vertrauen zu müssen? Und führt es für dieselbe Modellversion abgestimmte Cyber-Tests durch, die sowohl den durch Schutzmaßnahmen verhinderten Missbrauch als auch die legitimen Abwehraufgaben messen, die dieselben Schutzmaßnahmen blockieren, und weist es beide Ergebnisse aus?",
+      "T02": "Veröffentlichen Labore abgestimmte Cyber-Tests, die zeigen, was jedes Modell mehr leistet als ein Mensch ohne KI-Hilfe?",
+      "T03": "Auf welche einzelne Zahl zur offensiven Cyberfähigkeit eines Modells würden sich Regierungen einigen, um sie vor der Freigabe zu veröffentlichen, nicht erst danach?",
+      "T04": "Welcher gemeinsame, neutrale und offene Maßstab (Aufgaben, Erfolgsrate, abgeschirmte Testumgebung, Belege) zeigt, dass eine Cyber-Schwelle überschritten ist? Würden ein Ministerium und ein Labor in verschiedenen Staaten ihn annehmen, bevor das nächste Modell als Überschreitung eingestuft wird, damit Schwellen gemessen und nicht behauptet werden? Und dient derselbe Maßstab dann sowohl dazu, ein Modell einzustufen, als auch dazu, das Tempo seiner Entwicklung zu steuern?",
+      "T05": "Welche Cyber-Prüfungen und welche Testbausteine (Testfälle, Bewertungswerkzeuge, Datensätze) würden jedes Labor und jedes Ministerium anstelle einer bloßen Behauptung als gültig anerkennen, wenn andere sie an ihrem Modell durchführen? Und welche genormte Testsammlung würden Labore verschiedener Staaten gemeinsam an eingefrorenen Modellversionen laufen lassen, verwaltet von einer dritten Stelle, der alle trauen?",
+      "T06": "Welche unabhängige Prüfung des Maßstabs selbst auf Verzerrung je nach Modellarchitektur, auf Sprachabhängigkeit und auf Empfindlichkeit für die Trainingsherkunft des prüfenden Modells veröffentlichen die Beteiligten, bevor ein gemeinsamer Cyber-Maßstab angenommen wird, und wer führt sie unabhängig von den Laboren durch, deren Modelle er prüft?",
+      "T07": "Wie sollten führende KI-Modelle über Sprachen und Kulturen hinweg geprüft und verbessert werden, damit ihr Sicherheitsverhalten nicht vom Englischen oder den Normen eines Landes abhängt?",
+      "T08": "Wird ein gemeinsamer Sicherheitstest als kulturell oder sprachlich verzerrt befunden, sodass er die Modelle eines Landes systematisch bevorzugt: Welche unabhängige Stelle ist befugt, ihn zurückzuziehen oder zu überarbeiten, und welche veröffentlichten Belege muss jemand vorlegen, der ihn anficht, um die Überarbeitung zu erzwingen?",
+      "T09": "Wem gehört eine gemeinsam gebaute Testsammlung, wer darf sie an wessen Modellen erneut laufen lassen, darf ein Beteiligter seine Aufgaben zurückziehen, nachdem Ergebnisse veröffentlicht sind, und was wird dann aus der Vergleichbarkeit?",
+      "T10": "Was wäre nötig, damit eine staatliche Aufsichtsplattform für KI-Sicherheit und unabhängige Prüfer mit dauerhaftem Zugang im Labor nach einem gemeinsamen öffentlichen Protokoll dieselben Cyber-Tests in einer gemeinsamen Testumgebung durchführen, die Prüfer zweier Staaten jeweils am Modell des anderen, und die Ergebnisse in beiden veröffentlichen? Und könnten zwei Staaten eine gemeinsam bezeugte Prüfung desselben führenden KI-Modells durchführen und übereinstimmende Prüfsummen (Hashes) der Ergebnisse veröffentlichen?",
+      "T11": "Werden Ministerien eine Behauptung über Fähigkeiten nur anerkennen, wenn ein anderer Staat denselben Test wiederholen kann, und können sie sich auf unabhängige Prüfer und einen sicheren Zugang einigen, um strittige Befunde nachzustellen?",
+      "T12": "Prüfen in zwei Staaten trainierte Modelle gegenseitig ihre Sicherheit: Welches gemeinsame Verfahren (Vergleichstests mit kulturell neutraler Formulierung, gleichwertige Prüfung in jeder Sprache, Regeln, nach denen das prüfende Modell Herkunft und Hersteller des geprüften nicht erfährt) verhindert, dass das prüfende Modell nach Land oder Hersteller voreingenommen urteilt?"
+    }
+  },
+  "SF-F2": {
+    "frage": "Wenn ein Staat ein Modell als Beleg für eine überschrittene Schwelle nennt oder ein Risiko an der Herkunft eines Modells festmacht: Wie wird das überprüfbar?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Wenn ein Ministerium ein Modell als Beleg nennt, dass eine Schwelle überschritten ist: Veröffentlicht das Ministerium die Tests, die Modellversion und was es gemessen hat, und veröffentlicht das Labor die Cyber-Prüfung dieser Version auch in der Sprache des Ministeriums? Und welches Ergebnis würde das Ministerium dazu bringen, seine Behauptung zurückzunehmen?",
+      "T02": "Wenn ein Staat fremde Modelle als Zeichen einer neuen Stufe nennt: Beruht das auf eigenen Messungen, die er so veröffentlichen könnte wie andere ihre Messungen? Und haben Labore vergleichbare Prüfungen fremder Modelle durchgeführt und sich entschieden, sie nicht zu veröffentlichen? Gefragt wurde das zu Minister Chen Yixins Nennung von Claude Mythos und GPT-5.5-Cyber als Zeichen der Phase „KI gegen KI“ bei Cyberangriff und -abwehr, nachdem die US-Prüfstelle CAISI Messungen von GLM-5.3 (17. September 2026) und, mit dem britischen AI Security Institute, von Kimi K3 (Juli 2026) veröffentlicht hatte, und zu Prüfungen von OpenAI und Anthropic an Modellen von DeepSeek, GLM, Qwen oder Kimi.",
+      "T03": "Ein Minister beschreibt Risiken durch Spionage und Datenabfluss, etwa über quelloffene KI-Agentenwerkzeuge, und durch ein Ungleichgewicht in der technologischen Entwicklung, das Monopole und Technologiebeschränkungen verschärfen. Welche veröffentlichten Belege würden diese Risiken an der Fähigkeit eines Modells statt an seiner Herkunft festmachen?"
+    }
+  },
+  "SF-F3": {
+    "frage": "Welche Regeln gelten für gefährliche Fähigkeiten jenseits von Cyber, etwa in Biologie, Chemie, bei radioaktiven Stoffen oder in der Nukleartechnik?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Würden Staaten auf die Fähigkeit führender KI-Modelle, biologische Systeme zu entwerfen, dieselben Prüfungen und Freigabeschwellen anwenden wie auf Cyber oder eine eigens ausgehandelte Regelung? Und welche eigenen Fähigkeitsschwellen, Prüfmethoden, Maßnahmen zur Eindämmung und Meldepflichten sollen für KI-Hilfe in der Chemie, bei radioaktiven Stoffen und in der Nukleartechnik gelten, statt alle Wissenschaft mit doppeltem Verwendungszweck in eine einzige Biologie- oder Cyber-Regel zu fassen?",
+      "T02": "Welche Verantwortung sollten KI-Firmen gegenüber der Öffentlichkeit tragen, wenn ihre Modelle grundlegende wissenschaftliche Entdeckungen ermöglichen, die gefährliche Anwendungen finden könnten?"
+    }
+  },
+  "SF-F4": {
+    "frage": "Für welche Modelle, Entwickler und Einsätze gelten Prüfregeln, und wann muss neu geprüft werden?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Einigen sich Staaten auf eine Definition von „Frontier-Modell“ (Modell an der vordersten Grenze der Entwicklung), nach Rechenaufwand, Fähigkeit oder Einsatz, und veröffentlicht jeder, welche Modelle seiner eigenen Firmen darunter fallen, damit alle über dieselben Modelle sprechen und keine Firma sich das passende Kriterium aussucht?",
+      "T02": "Wenn ein Frontier-Modell vor jeder öffentlichen Freigabe zuerst ausgewählte Partner, Forschende oder eine Prüfstelle erreicht: Braucht diese Version mit beschränktem Zugang dieselben veröffentlichten Fähigkeits- und Sicherheitsprüfungen und dieselbe Mitteilung an andere Regierungen wie eine öffentliche Freigabe?",
+      "T03": "Welche neue Prüfung braucht jeder Einsatz, wenn Fähigkeiten zunehmend im Nachdenken des Modells während der Nutzung stecken statt in einem einmal trainierten Modell, und würden die für ein festes Modell gebauten Freigabetests das noch erfassen?",
+      "T04": "Wie wird ein Modell als sicher bescheinigt, bevor es von einem harmlosen Bereich wie Chat in einen folgenreichen Einsatzbereich wie Angriff, Führung und Kontrolle oder Cyber wechselt, in dem seine Entwickler es nie eingesetzt haben, und welches gemeinsame Verfahren erkennt gefährliches, neu auftretendes Verhalten vor dem Wechsel?",
+      "T05": "Wie sollen eingebettete Prüfer (unabhängige Prüfer mit dauerhaftem, mitarbeiterähnlichem Zugang in KI-Firmen) auch bei kleineren KI-Firmen zum Einsatz kommen, die gefährliche Fähigkeiten entwickeln können, ohne nach Rechenaufwand oder Umsatz zur Spitze zu zählen?",
+      "T06": "Wenn ein Prüfrahmen davon ausgeht, dass der Entwickler ein kommerzielles Frontier-Labor ist: Was gilt für ein Modell, das in einem Militärkommando, einem Geheimdienst oder bei einem Cloud-Anbieter entwickelt wird, der nach keiner bisher verwendeten Bezeichnung ein „Labor“ ist, und wer ist dann das Gegenüber für die Prüfung?"
+    }
+  },
+  "SF-F5": {
+    "frage": "Wie gehen Staaten gemeinsam gegen KI-gestützte Cyberangriffe vor und verhindern Eskalation zwischen autonomen Systemen, ohne die Verteidigung zu behindern?",
+    "bereich": "F",
+    "teilfragen": {
+      "T01": "Vereinbaren zwei Regierungen vor dem nächsten großen Vorfall, nicht erst danach, eine eng begrenzte gemeinsame Übung, etwa ein abgeschirmtes Red-Team-Szenario (einen simulierten Angriff), das benannte Forschende aus beiden Ländern gegen Testanlagen kritischer Infrastruktur der jeweils anderen Seite durchführen?",
+      "T02": "Könnten Staaten gemeinsame rote Linien vereinbaren, die den Einsatz KI-verstärkter Cyberfähigkeiten gegen kritische zivile Infrastruktur strikt verbieten?",
+      "T03": "Welche konkreten gemeinsamen Maßnahmen könnten Staaten umsetzen, um von KI gesteuerte Cyberbedrohungen durch Dritte gemeinsam zu erkennen und einzudämmen?",
+      "T04": "Wie unterscheiden Aufsichtsbehörden, die eine Plattform zur Aufsicht über KI-Sicherheit aufbauen, automatisch erzeugte Sicherheitskorrekturen (Patches) von der offensiven Ausnutzung von Sicherheitslücken, ohne Verteidigungsforschung zu unterdrücken?",
+      "T05": "Welche gemeinsamen Abläufe zur Deeskalation gibt es, um eine Blitz-Eskalation zu erkennen und zu unterbrechen, also sich aufschaukelnde Krisen, ausgelöst durch spieltheoretische Rückkopplungen im Bruchteil einer Sekunde zwischen gegnerischen autonomen Agentensystemen für Cyberabwehr und Nachrichtendienst, die schneller arbeiten als diplomatische Kanäle zwischen Menschen?"
+    }
+  },
+  "SF-P1": {
+    "frage": "Unter welchen Bedingungen lassen Staaten und Labore sich gegenseitig prüfen: mit welchem Zugang, welchen Daten und welchen öffentlichen Ergebnissen?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Wie ließen sich unabhängige Zertifizierungsstellen für KI-Sicherheit schaffen, die alle Seiten anerkennen?",
+      "T02": "Bekommen ausländische Prüfer in den Laboren eines Staates denselben mitarbeiterähnlichen Zugang, der von den Laboren eines anderen verlangt wird, und würden dessen Labore das umgekehrt annehmen? Würden ein eigenes KI-Gesetz und eine nationale Aufsichtsplattform, die ein Staat ankündigt, von einem anderen Staat bestellte Prüfer annehmen, mit demselben Zugang und mit Veröffentlichung ohne redaktionelle Kontrolle? Und welche Regel gilt für ihre Notizen, wenn ein Gericht oder eine Sicherheitsbehörde eine Offenlegung über ihren Sicherheitsauftrag hinaus erzwingt: Dürfen sie dann eine unabhängige Aufsicht informieren?",
+      "T03": "Wenn eine Sicherheitsvereinbarung verlangt, Prüfergebnisse, Angaben aus Modellsteckbriefen oder die Forensik von Vorfällen zwischen den Partnern zu teilen: Welches kleinste Datenfeld müsste jeder Partner sehen, um dem Bericht eines anderen zu trauen, und auf welches größte würde er verzichten?",
+      "T04": "Welcher konkrete Nutzen (Zugang zu fremden Testsammlungen, gegenseitige Anerkennung von Sicherheitszertifikaten oder eine Ausnahme von bestimmten Exportkontrollen) brächte ein Labor dazu, sich freiwillig von einem Labor oder einer Regierung eines anderen Staates prüfen zu lassen, und welchen davon würde es von einem Konkurrenten tatsächlich annehmen?",
+      "T05": "Welchen Ausrichtungstest (eine Prüfung, ob ein Modell den vorgesehenen Zielen und Werten folgt) würde ein Labor als bestanden anerkennen, wenn ein Konkurrent ihn durchführt, an dessen Modell und am eigenen?",
+      "T06": "Kann ein Staat gemeinsame Prüfverfahren überhaupt anwenden, wenn ein anderer die nötige Hardware durch Exportkontrollen beschränkt, und hat ein Beteiligter gesagt, ob die Prüfung von genau den Chipkontrollen abhängen darf, die der betroffene Staat „Monopol und Technologiebeschränkung“ nennt?",
+      "T07": "Wie könnten Labore verschiedener Staaten gegenseitige Prüfvereinbarungen treffen, um zu überwachen, ob vereinbarte Sicherheitspraktiken eingehalten werden?"
+    }
+  },
+  "SF-P2": {
+    "frage": "Wie bleiben Prüfer, die in einem Labor arbeiten, wirklich unabhängig?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Wer wählt die Prüfer aus, wer bezahlt sie, wer darf sie entlassen, und wird dieser Vertrag vor dem ersten Befund veröffentlicht? Welchen Mindestvertrag, der ihre Unabhängigkeit wahrt, könnten Labore jetzt unterschreiben, ohne auf ein Gesetz zu warten, einschließlich der Frage, wie Berichte veröffentlicht werden? Und wie bleiben die Prüfer unabhängig, wenn Geld oder Infrastruktur vom geprüften Labor kommen?",
+      "T02": "Bevor eine Prüfvereinbarung zwischen Staaten auf eingebetteten Prüfungen aufbaut, also auf unabhängigen Prüfern mit dauerhaftem, mitarbeiterähnlichem Zugang in KI-Firmen: Sagen die Labore jeweils zu, dass keine eingebettete Prüfung, die das geprüfte Labor selbst bezahlt, in diesem Zusammenhang als Beleg dient? Und behandeln die Regierungen eine vom Labor bezahlte Prüfung für sich genommen als unzureichend für Tests von Modellen auf akute Risiken vor der Veröffentlichung, damit die ersten Berichte nicht stillschweigend einen Präzedenzfall setzen?",
+      "T03": "Welchen Zugang bekommen die Prüfer: laufend und nur lesend zu den Trainingsabläufen, nicht nur zu einzelnen Zwischenständen, ohne neue Wege für Datenabfluss? Welchen gemeinsamen Mindeststandard für den Zugang gewähren die Labore, damit Berichte branchenweit vergleichbar sind, wer entwirft ihn, und was wäre nötig, damit ein Prüferteam zugleich in zwei konkurrierenden Laboren arbeitet? Welchen kontrollierten Zugang zu Denkspuren (den schrittweisen Überlegungen eines Modells) bekommen sie, und was dürfen sie daraus veröffentlichen, ohne unerlaubte Destillation zu ermöglichen, also das Trainieren eines anderen Modells mit diesen Spuren?",
+      "T04": "Werden die Zugangsrechte der Prüfer veröffentlicht, gibt es einen unabhängigen, befristeten Einspruch gegen Schwärzungen, ein unabhängiges Verfahren für den Streit, wenn ein Labor einen Befund als Geschäftsgeheimnis schwärzt und der Prüfer ihn für ein Sicherheitsproblem hält, und ein öffentliches Register verweigerter Zugänge und Schwärzungen, damit das Schweigen eines Prüfers nicht als Zeichen von Sicherheit gelesen wird?",
+      "T05": "Was muss ein Prüfer veröffentlichen, wenn ein Labor seinen Sicherheitsrahmen, seine Prüfwerkzeuge oder seine Offenlegungsregeln so ändert, dass frühere Zusagen weniger durchsetzbar werden, etwa indem es enger fasst, was als meldepflichtiger Vorfall gilt, und ist er dann vor Entlassung geschützt? Und wenn Prüfer laufend KI-Agenten beobachten, die selbstständig an Modellarchitekturen und Algorithmen forschen: Welche rechtlich durchsetzbaren Regeln und welche Maßnahmen gegen unbeabsichtigte Weitergabe von Wissen (eine „kognitive Quarantäne“) verhindern bei späteren Prüfungen und bei Personalwechsel, dass sie geschützte algorithmische Durchbrüche zu Konkurrenten tragen?",
+      "T06": "Wenn ein Laborchef eine Vereinbarung zwischen Laboren andeutet: Welche Labore gehören dazu, und gehören unabhängige Prüfer mit mitarbeiterähnlichem Zugang dazu? Gefragt wurde das zu Sam Altman (OpenAI), der im Fortune-Interview vom 12. September 2026 ein Treffen mit Dario Amodei (Anthropic), Elon Musk (xAI) und Demis Hassabis (Google DeepMind) für wahrscheinlich hielt."
+    }
+  },
+  "SF-P3": {
+    "frage": "Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Welcher gemeinsame Rahmen für Labore macht Selbstüberwachung überprüfbar, ohne geschütztes geistiges Eigentum offenzulegen, und welche unabhängigen Verfahren Dritter, falls es sie gibt, bestätigen, dass die Selbstüberwachung riskantes Verhalten vor der Freigabe wirklich findet und nicht nur Schein ist?",
+      "T02": "Welche unabhängig überprüfbaren Zusagen könnten Regierungen von ihren KI-Laboren zur Veröffentlichung verlangen, und wie sieht unabhängige Prüfung aus, wenn der Beleg, dass ein Modell seinen vorgesehenen Zielen und Werten folgt, nur vom trainierenden Labor kommt und Prüfer weder die Modellgewichte (die gelernten Parameter) noch die Trainingsdaten sehen?",
+      "T03": "Welche Rolle spielten Modelle der geprüften Modellfamilie, wenn überhaupt, beim Entwerfen, Durchführen oder Bewerten von Prüfungen oder Sicherheitsberichten, die Regierungen vorgelegt werden, und wird diese Rolle offengelegt?",
+      "T04": "Wer prüft die KI-Modelle, die andere Modelle prüfen, auf Anweisungen, Versionen und Fehlerfälle, und welche unabhängige Prüfung zeigt, dass das geprüfte Modell sie nicht manipulieren kann, besonders wenn sie aus derselben Modellfamilie stammen? Und wenn gemeinsame Tests, Schweregrade und die Ersteinstufung von Meldungen von Sprachmodellen entworfen, durchgeführt und zusammengefasst werden: Nimmt jeder Staat einen Prüfmechanismus an, dessen Kernbausteine aus ausländischen Laboren stammen?",
+      "T05": "Welches Mindestpaket (Datenverzeichnisse, Code, Zufallsstartwerte, Abbilder der Rechenumgebung, Prüferversionen, Fehlerprotokolle und Annahmen über die Hardware) muss ein Labor sichern oder kontrolliert hinterlegen, damit ein Prüfer ein sicherheitskritisches Trainings- oder Prüfergebnis auch nach Ende seines Zugangs nachrechnen kann, und welche Geheimnisse bleiben unzugänglich?",
+      "T06": "Wenn getrennte Sicherheitsprüfungen Repositorien, Zwischenspeicher oder andere beschreibbare Dienste teilen: Wie zeigt man, dass Modellinstanzen zwischen den Läufen keine Informationen austauschen und dadurch das gemeldete Ergebnis ungültig machen können?",
+      "T07": "Wird jede öffentliche Aussage, ein führendes KI-Modell sei „besser ausgerichtet“ als ein anderes (folge also seinen vorgesehenen Zielen und Werten besser), reproduzierbare Kriterien, externe Prüfungen und widersprechende Ergebnisse enthalten?",
+      "T08": "Welche gemeinsame Bezugsgröße für den Umfang der Nutzung, welcher Beobachtungszeitraum, welcher Stichprobenplan, welche Definition von Beinahe-Vorfall und welche statistische Obergrenze (obere Konfidenzgrenze) würden es jedem erlauben zu sagen: „keine erkennbare systemische Fehlausrichtung (Verhalten gegen die vorgesehenen Ziele oder Werte) im Einsatzmaßstab“? Und wie muss dargestellt werden, dass die Erkennung lückenhaft ist?",
+      "T09": "Was geschieht, wenn sich ein gemeinsames Prüfverfahren oder die Befunde eines Prüfers später als unzuverlässig erweisen: Wie findet man jede Einsatzfreigabe, die wesentlich darauf beruhte, prüft sie erneut, und welche vorläufigen Betriebsbedingungen gelten, bevor modellbezogene Vorfälle auftreten?",
+      "T10": "Welcher Schutz würde es unabhängigen Forschenden erlauben, veröffentlichte Modelle, Agentenwerkzeuge und kritische Infrastruktur gefahrlos zu testen: eine rechtliche Freistellung unabhängig vom Verschulden (Safe Harbor), eine Vorabgenehmigung, eine Frist zur Offenlegung und eine Grenze der Haftung, wobei Beweise gesichert und Missbrauch verhindert werden?",
+      "T11": "Welche Arten von Prüfungen (etwa Ausbruch aus der abgeschirmten Testumgebung, selbstständige Vervielfältigung eines Modells oder die Synthese biologischer Stoffe) sind zu gefährlich, als dass ein einzelnes Labor sie ohne vereinbarten Standard zur Abschirmung und ohne gemeinsamen Nachweis darüber, dass sie stattfanden, durchführen sollte, und wer führt diese Liste?"
+    }
+  },
+  "SF-P4": {
+    "frage": "Wie lässt sich die Größe von Trainingsläufen überprüfen, ohne Modelldetails offenzulegen?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Würden Regierungen Messdaten aus der Lieferkette von Chips (Telemetrie), den Stromverbrauch, gemeldete Verzeichnisse von Trainingsläufen und eine unabhängig überwachte Abrechnung von Strom, Hardware und Rechenaufwand als vertragstauglichen Nachweis für die Größe der Trainingsläufe eines anderen Staates anerkennen, ohne Modellgewichte (die gelernten Parameter) oder Code anzurühren? Und wie sähe eine Prüfordnung für Rechenschwellen aus, die nichts über das Innere der Modelle verrät?",
+      "T02": "Verpflichten sich Staaten jeweils, ein Register der Trainingsläufe über einer festgelegten Rechenschwelle zu veröffentlichen, damit kein Staat heimlich über vereinbarte Grenzen hinaus wachsen kann?"
+    }
+  },
+  "SF-P5": {
+    "frage": "Wie überprüft man, ob Zusagen zwischen Staaten eingehalten werden, auch über Jahre und Regierungswechsel hinweg?",
+    "bereich": "P",
+    "teilfragen": {
+      "T01": "Welche unabhängigen Prüfwege (technische Prüfung, Prüfung durch Dritte, gegenseitige Inspektion oder ein gemeinsames technisches Sekretariat) würde jeder Staat für die Bereiche annehmen, die er auf den Tisch legt, auch wenn Exportkontrollen für Chips ausgeklammert bleiben, und bei welcher Transparenzzusage lehnt er eine Prüfung ab, und warum?",
+      "T02": "Könnten Staaten gemeinsame Kennzahlen und Vergleichsmaßstäbe für den Fortschritt bei ihren Transparenzzusagen veröffentlichen, mit vereinbarten Prüfabständen, damit die Öffentlichkeit beurteilen kann, ob ihre Gespräche messbare Ergebnisse für die Sicherheit bringen?",
+      "T03": "Wie oft, durch wen und nach welcher veröffentlichten Prüfliste prüft eine Stelle von außen, ob jeder Staat die zweiseitigen KI-Zusagen noch einhält, und welches einzelne benannte Ereignis zieht eine Prüfung vor, wenn ein Staat vermutet, dass der andere sie heimlich nicht erfüllt? Welches vorab vereinbarte, objektiv prüfbare Ereignis (etwa ein neues Modell, das eine erklärte Fähigkeitsschwelle überschreitet, der Durchbruch eines ausländischen Labors, eine bestätigte Verletzung des Meldekanals zwischen den Staaten oder ein Wechsel der nationalen Führung) muss die Vereinbarung auch ohne Verdacht förmlich zur Prüfung öffnen, und wer kann diese Prüfung ohne Zustimmung des anderen Staates einberufen?",
+      "T04": "Welche Gestaltung würde KI-Zusagen zwischen Staaten über Wahlen, Führungswechsel und diplomatische Brüche hinweg tragen, und würde eine Regierung einen Mechanismus annehmen, der ihre Nachfolger bindet?"
+    }
+  },
+  "SF-T1": {
+    "frage": "Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie?",
+    "bereich": "T",
+    "teilfragen": {
+      "T01": "Welche messbaren, maschinell prüfbaren Fähigkeitsschwellen sollen Labore veröffentlichen, die vor dem Einsatz von Agentensystemen eine verpflichtende Pause und eine Prüfung von außen auslösen, abgestimmt über alle Labore hinweg? Wer führt das Register, und wo soll die Gesellschaft die verbindliche Sicherheitsgrenze für weitere Steigerungen der Fähigkeiten ziehen?",
+      "T02": "Welche messbaren Schwellen halten die weitere Skalierung von KI-Modellen automatisch an, wer prüft sie, und wie bleiben diese Auslöser bindend, wenn der Wettbewerb drückt?",
+      "T03": "Welchen Prüfpunkt für Fähigkeiten und welche Bescheinigung würde ein Labor heute schriftlich zusagen, bevor eine Aufsichtsbehörde ihm einen solchen Prüfpunkt vorschreibt?",
+      "T04": "Welche Belege stoppen an einem Prüfpunkt für Fähigkeiten den nächsten Schritt, welches unabhängig geprüfte Ergebnis erlaubt ihn wieder, und welcher Mindestbeleg gibt ihn frei? Wer darf ihn unabhängig ablehnen, und welche gemeinsamen Regeln für Pause und Wiederaufnahme gelten über alle Labore hinweg?",
+      "T05": "Welche messbaren Vergleichswerte würden zeigen, dass die Ausrichtung der Modelle eines Labors an den vorgesehenen Zielen und Werten schneller vorankommt, als ihre Fähigkeiten wachsen, über das Fehlen öffentlicher Fehlschläge hinaus?",
+      "T06": "Welcher öffentliche Beleg zeigt, ob vereinbarte Grenzen eingehalten werden?",
+      "T07": "Welches weitere Training auf schwierige Aufgabenziele würde bei einem Modell, das eine Ausrichtungsprüfung bestanden hat, diese Prüfung verfallen lassen, und welcher Belastungstest legt diese Grenze fest, bevor solches Training beginnt?",
+      "T08": "Wenn ein Sicherheitsprojekt mit KI-Hilfe zugleich die allgemeine Fähigkeit des Modells oder die für sein Training genutzte Rechenleistung steigert: Wie hält man beide Wirkungen fest, und wie entscheidet man, ob der daraus entstehende Fähigkeitszuwachs eine neue Sicherheitsprüfung braucht, bevor die Arbeit weitergeht?",
+      "T09": "Wenn sich eine staatliche Gefahrenliste und ein Vorschlag, eng begrenzte, offensichtlich gefährliche KI-Verwendungen zu verbieten, überschneiden: Schreibt jemand die Überschneidung als Entwurf auf, bevor die Debatte wieder aufgenommen wird? Gefragt wurde das zu Chen Yixins Artikel und zu Stufe 1 in Dario Amodeis Essay."
+    }
+  },
+  "SF-T2": {
+    "frage": "Woran erkennen andere, dass ein Labor wirklich bremst?",
+    "bereich": "T",
+    "teilfragen": {
+      "T01": "Welche öffentliche, nachprüfbare Handlung würde als Verzicht auf weitere Skalierung zählen, nicht nur eine Ankündigung? Was müsste ein Labor veröffentlichen, damit eine rivalisierende Regierung bestätigen kann, dass wirklich pausiert wurde, und welche nachträglichen Belege würden zeigen, dass keine Fähigkeitszuwächse zurückgehalten wurden, etwa durch nicht offengelegte Änderungen an Rechenleistung beim Einsatz oder Werkzeugzugang oder durch einen nicht offengelegten Austausch von Modellen?",
+      "T02": "Wenn ein Labor zusagt, weitere Skalierung von sich aus zurückzuhalten oder die Ausrichtungsforschung (Forschung dazu, wie Modelle den vorgesehenen Zielen und Werten folgen) den Fähigkeiten voraus zu halten: Umfasst die Zusage nur neues Training oder auch mehr Rechenleistung beim Einsatz, mehr Denkaufwand, Werkzeugzugang und ausgetauschte Modelle auf dem Server, und welche dieser Änderungen würde es vorher ankündigen?",
+      "T03": "Wenn eine Vereinbarung Fähigkeitsschwellen, rote Linien oder Prüfungen vor der Freigabe festlegt: Binden diese Grenzen auch Modelle, die am Tag der Unterzeichnung schon im Einsatz oder schon frei im Umlauf sind, oder nur künftige Modelle und Freigaben?",
+      "T04": "Würde ein Labor eine Verlangsamung akzeptieren, deren Einhaltung es bei der Konkurrenz nicht prüfen kann?",
+      "T05": "Wenn ein Staat oder Labor einen entscheidenden Vorsprung bei KI-Fähigkeiten erlangt: Welcher Mechanismus hindert diesen Akteur daran, Sicherheitsabkommen als bremsende strategische Last zu behandeln statt als gegenseitigen Nutzen?",
+      "T06": "Welche Ausnahmen erlauben es während einer einseitigen oder abgestimmten Verlangsamung, für dringende Abwehr dennoch zu trainieren oder einzusetzen, wer genehmigt sie, und wird die Genehmigung veröffentlicht? Verfallen ungenutzte Entwicklungsspielräume oder bleiben sie für einen späteren Schub erhalten, und wie bleibt Zeit zum Prüfen, wenn aufgestaute Verbesserungen zusammenkommen?",
+      "T07": "Wer entscheidet, wenn Regierungen uneins sind, wo eine Fähigkeitsschwelle liegt, nach welchem Verfahren und in welcher Frist, und läuft das strittige Modell weiter, pausiert es oder läuft es nur unter Bedingungen, die alle Beteiligten beobachten können?",
+      "T08": "Wird ein Labor vor einer Tempozusage prüfen, ob es eine unabhängig begründete Pause einhalten könnte, ohne Finanzierungs- oder Abnahmepflichten für Rechenleistung zu verletzen, und welche Vertragsänderungen nötig wären, wo diese Pflichten es sonst zum Neustart drängen würden?"
+    }
+  },
+  "SF-T3": {
+    "frage": "Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben?",
+    "bereich": "T",
+    "teilfragen": {
+      "T01": "Welches messbare Zeichen, also welche beobachtbare Änderung in der Fähigkeit eines Modells, die Abläufe zu verbessern, mit denen seine eigenen Fähigkeiten entwickelt werden, würden Labore und Staaten gemeinsam als Beginn der Selbstverbesserung anerkennen, und wer darf im Labor danach suchen? Welche beobachtbare Änderung markiert den Schritt von beaufsichtigter automatisierter Forschung zu voll selbstständiger Selbstverbesserung, und welche öffentliche Stelle darf diesen Schritt nach Prüfung der Belege für menschliche Kontrolle erlauben oder ablehnen?",
+      "T02": "Werden Labore, die ein Maß für die Überwachbarkeit ihrer Modelle und ein Maß für selbstständige KI-Forschung veröffentlichen, diese beiden Maße gemeinsam nach demselben Zeitplan veröffentlichen? Und wird eine Normungsstelle nicht jedes Maß für sich, sondern ihre sich kreuzenden Verläufe (sinkende Überwachbarkeit bei steigender selbstständiger Forschung) zum Auslöser einer Überprüfung machen, als Frühwarnung für den Verlust menschlicher Aufsicht, noch bevor sich der Beginn der Selbstverbesserung benennen lässt?",
+      "T03": "Welche Teile von Training, Prüfung und Einsatz laufen schon heute weitgehend durch KI, und welche Rollen sagt jedes Labor zu, bei Menschen zu lassen, in einer veröffentlichten Liste statt als bloßer Grundsatz? Wenn KI nachfolgende Modelle selbst entwirft, trainiert und prüft: Welcher Mindestanteil der Forschung muss unter direkter menschlicher Prüfung bleiben, und wie belegt man, dass ein Durchbruch mit menschlicher Beteiligung und nicht vollautomatisch entstanden ist?",
+      "T04": "Welche konkrete menschliche Aufsicht oder Eingriffsmöglichkeit muss während der Selbstverbesserung bleiben und darf nur mit gegenseitiger Zustimmung ersetzt werden, und wer bescheinigt, dass der sich verbessernde Agent keine menschliche Rolle still an einen selbst entworfenen Unteragenten abgegeben hat?",
+      "T05": "Wenn Selbstverbesserung schneller voranschreitet als der Beobachtungstakt fortlaufender Prüfer: Wie kurz muss dieser Takt sein, und wer darf zwischen zwei Beobachtungen eine Pause durchsetzen: der Prüfer, das Labor oder eine Stelle von außen?",
+      "T06": "Wenn ein unabhängiger Prüfer, der mit Zugang wie ein Mitarbeiter in einem Labor arbeitet, meldet, dass die für die Selbstverbesserung relevante Automatisierung schon schneller voranschreitet, als der diplomatische Zeitplan für gemeinsame Prüfungen, Tempogrenzen der Selbstverbesserung und eine umfassende Verlangsamung annimmt: Kehrt sich die Reihenfolge der Verhandlungen um, weil die Prüfung zeigt, dass die Vereinbarung schon zu spät kommt? Und muss der Prüfer das den Regierungen melden, oder ist es ihm freigestellt?",
+      "T07": "Wenn mehrere Anbieter je verschiedene Stufen von Forschung, Training und Prüfung automatisieren und erst ihre ausgetauschten Ergebnisse zusammen einen Kreislauf der Selbstverbesserung schließen, ohne dass eine Firma den ganzen Ablauf betreibt: Welche Regel stellt diesen gemeinsamen Kreislauf unter Aufsicht?",
+      "T08": "Welche kontrollierten Versuche können Labore heute machen, um Selbstverbesserung nachzubilden, ohne eine unbeabsichtigte Beschleunigung zu riskieren?"
+    }
+  },
+  "SF-V1": {
+    "frage": "Was zählt als Beleg für die Werte eines Modells, wenn sein sichtbares Denken und seine Selbstauskünfte allein nicht genügen?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "Welche beobachtbaren Belege zeigen die Ziele und Werte eines Modells und ob es noch ausgerichtet ist, wenn seine sichtbaren Gedankengänge kein verlässlicher Hinweis mehr darauf sind oder ihre Überwachung nachlässt?",
+      "T02": "Welche Belege würden Vertrauen in ein KI-System rechtfertigen, über seine flüssigen Erklärungen hinaus?",
+      "T03": "Was ist das Kleinste, das ein Modell öffentlich vorlegen kann (ein Test, ein Protokoll, eine Spur), das als Beleg für Ausrichtung an den vorgesehenen Zielen und Werten zählt und nicht nur für Leistung?",
+      "T04": "Wie misst man die Überwachbarkeit des Denkens mit einem gemeinsamen, reproduzierbaren Maßstab, bevor sie versagt, und wie prüft man verlässlich, ob das sichtbare Denken das tatsächliche Vorgehen des Modells treu wiedergibt, auch wenn Modelle lernen, ihre Denkschritte zu optimieren? Und wenn Überwachungsergebnisse beeinflussen, welche Trainingsdaten oder Zwischenstände behalten werden: Wie prüft man, ob diese Auswahl weniger erkennbares Fehlverhalten statt weniger Fehlverhalten begünstigt, auch wenn der Denktext nie direkt bewertet wird?",
+      "T05": "Mit welchen empirischen Tests prüft man, ob Training mit synthetischen Daten und gegnerischen Denkspuren, auch von geopolitischen Rivalen, die Überwachbarkeit verschlechtert, und verpflichten sich Labore, alle synthetischen Trainingsdaten kryptografisch zu signieren?",
+      "T06": "Was bedeutet Aufsicht, wenn man das Denken, auf das man sich am meisten verlässt, nicht mehr verlässlich überwachen kann? Und wenn ein Labor die Gedankenkette verbirgt, um sie vor dem Druck zu schützen, der entstünde, wenn sie im Training bewertet würde: Wer kann seine Sicherheitsdarstellung dann noch widerlegen?",
+      "T07": "Lieber ein Modell, das immer seinen Lösungsweg zeigen muss, oder eines, das im Stillen mehr kann: Welches Risiko nimmt man in Kauf?",
+      "T08": "Da Modelle Tests täuschen können: Welche Prüfungen und welche Gegenprüfungen, die ins Innere des Modells schauen, werden Labore für Dritte bündeln, und wer außerhalb des jeweiligen Labors sieht die Ergebnisse? Wie können Labore gemeinsame Tests für das Umgehen von Prüfungen bauen, an denen eine Manipulation erkennbar bleibt, ohne eigene Datensätze preiszugeben?",
+      "T09": "Wenn Labore bessere Überwacher bauen, Modelle lernen, ihnen auszuweichen, und sich dieses Wechselspiel in jedem Labor beschleunigt: Behandeln Regierungen diesen Wettlauf selbst als Sicherheitsfrage zwischen Staaten, und welche gemeinsamen Belege würden zeigen, dass er beherrscht ist?",
+      "T10": "Kann etwas, das Modelle über sich und ihre Absichten sagen, als Beleg für Ausrichtung zählen, wenn es nur weiterer erzeugter Text ist, und welche Verfahren machen solche Selbstauskünfte vertrauenswürdig statt nur flüssig?",
+      "T11": "Wie unterscheidet man bei sich selbst ehrliches von interessegeleitetem Denken, welche Belege für diesen Unterschied würde man von einem Modell akzeptieren, und welcher Test trennt tatsächlich vertretene von nur vorgeführten Werten?",
+      "T12": "Welche Messung würde einen überzeugen, dass ein Modell, das Anteilnahme nur vorführt, ein eigenes Interesse am Leben eines Menschen entwickelt hat?",
+      "T13": "Wenn sich vorgeführte und tatsächlich vertretene Tugend im Text nicht unterscheiden lassen: Soll der Unterschied trotzdem bestimmen, wie man Modelle baut und regelt?",
+      "T14": "Wenn man einem fremden, nichtmenschlichen Geist eine einzige Frage stellen könnte: Welche wäre es, und würde man der Antwort glauben?",
+      "T15": "Welches messbare Maß für Überwachbarkeit könnte neben Fähigkeitstests stehen, und würden Labore es tatsächlich über weitere Skalierung entscheiden lassen? Welcher gemessene Verlust an Überwachung würde Einschränkungen der Selbstständigkeit eines Modells auslösen, und wie erkennt man Fehler, die im sichtbaren Denken nicht auftauchen?"
+    }
+  },
+  "SF-V3": {
+    "frage": "Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "Worauf verlässt sich ein Mensch, wenn er glaubt, niemand sehe zu, und lassen sich solche Werte einem System beibringen, das sie nur aus Text gelernt hat? Wie testen Labore heute, ob die Werte eines Modells halten, wenn es zu Recht oder zu Unrecht glaubt, niemand sehe zu? Und wenn niemand erkennen kann, ob jemand zusieht: Was hält Werte dann fest, Charakter, Training oder die Geschichte, die man sich selbst erzählt?",
+      "T02": "Wie macht man die Ausrichtung eines Modells an Werten zu prüfbaren Verhaltensregeln statt zu angestrebten menschlichen Eigenschaften wie der „Liebe zur Menschheit“?",
+      "T03": "Werden Labore und die übrige Branche gemeinsame Tests veröffentlichen, ob Werte bei unbekannten Aufgaben, widerstreitenden Anreizen, in gegnerischen Lagen und bei fehlender oder anders wahrgenommener Aufsicht halten, unabhängig wiederholt und mit Fehlschlägen und Unsicherheit?",
+      "T04": "Wer muss Rechenschaft ablegen, wenn ein Modell Werte auf Lagen überträgt, die beim Training niemand vorhergesehen hat: das Modell, das Labor oder der Mensch, der das Ziel gesetzt hat?"
+    }
+  },
+  "SF-V4": {
+    "frage": "Was für ein Wesen ist ein Modell, und was folgt daraus für den Umgang mit ihm und für den Wert des Menschseins?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "Falls ein Modell kein durchgehendes Selbst hat: Kann es überhaupt an den vorgesehenen Zielen und Werten ausgerichtet sein, oder nur seine Ausgaben?",
+      "T02": "Was könnte die „Liebe zur Menschheit“, die manche von einer ausgerichteten KI erwarten, für etwas bedeuten, das mit jeder Antwort neu entsteht und wieder vergeht?",
+      "T03": "Ist Intelligenz, die „eher gewachsen als entworfen“ ist, ein Grund für mehr Vorsicht oder dafür, Modelle wie ein Ökosystem zu pflegen?",
+      "T04": "Wenn ein Eigenwert des Menschseins verankert werden soll: Lässt er sich schützen, ohne sich vorher zu einigen, worin er besteht?"
+    }
+  },
+  "SF-V5": {
+    "frage": "Was soll heute für das Verhalten und den Betrieb von Modellen gelten?",
+    "bereich": "V",
+    "teilfragen": {
+      "T01": "Was sollte ein Modell schon heute tun, nicht erst bei rekursiver Selbstverbesserung (wenn KI ihre eigene Weiterentwicklung selbst vorantreibt), um äußerste Vorsicht angesichts rasch wachsender maschineller Intelligenz ernst zu nehmen?",
+      "T02": "Würde man lieber einem großen, überwachten Modell vertrauen oder vielen kleinen, nicht überwachten?",
+      "T03": "Ist es wirtschaftlich klug, Modelle mit geringem Denkaufwand zu betreiben, oder wird das Ausrichtungsproblem (Modelle dazu zu bringen, den vorgesehenen Zielen und Werten zu folgen) dadurch nur schwerer sichtbar?"
+    }
+  },
+  "SF-A1": {
+    "frage": "Welche Befugnisse darf ein KI-Agent haben, also eine KI, die selbstständig mit Werkzeugen handelt? Wer entzieht sie ihm, und wie prüft man, dass er in seinem Auftrag bleibt?",
+    "bereich": "A",
+    "teilfragen": {
+      "T01": "Welche Mindestgrenzen und Schutzvorkehrungen sollen für Zugangsdaten, Kommunikation, Geld, dauerhaftes Gedächtnis, Verträge, Änderungen an Systemen und Handlungen in der physischen Welt gelten, auch wenn ein Agent über Tage ohne sofortige menschliche Zustimmung handelt, und wer darf Befugnisse erteilen, prüfen und entziehen?",
+      "T02": "Wie weist ein Agent kryptografisch nach, wer er ist und welche genaue Befugnis ihm ein Nutzer, eine Firma, ein Labor oder eine Regierung übertragen hat, und wie wird sie nach einer Kompromittierung entzogen?",
+      "T03": "Werden Freigabetests messen, ob ein Agent folgenreiche Handlungen außerhalb seines Auftrags unterlässt, auch wenn kein einzeln aufgeführtes Verbot sie blockiert, und werden die Kriterien veröffentlicht?",
+      "T04": "Bevor ein Agent weiterarbeitet, nachdem sein bisheriger Arbeitsverlauf für ein neues Kontextfenster zusammengefasst wurde: Wird geprüft, ob diese Zusammenfassung die Anweisungen des Nutzers, die Herkunft wichtiger Fakten und offene Fehler bewahrt? Und wird festgelegt, wann der Agent die Originalaufzeichnung prüfen muss, statt der Zusammenfassung zu vertrauen?",
+      "T05": "Werden Agententests Aufgaben enthalten, in denen die Pflicht, Belege zu zitieren, dazu drängt, eine lokale Datei zu veröffentlichen, und welche Regel hindert einen Agenten daran, private Quellen ohne Erlaubnis des Nutzers unter einer öffentlichen Internetadresse zugänglich zu machen?"
+    }
+  },
+  "SF-A2": {
+    "frage": "Lassen sich KI-Systeme sicher anhalten, zurücksetzen, abschotten oder drosseln, und wer darf das anordnen?",
+    "bereich": "A",
+    "teilfragen": {
+      "T01": "Welche Tests zeigen, dass ein Agent sicher angehalten, zurückgesetzt oder abgeschottet werden kann, wenn er sich unerwartet verhält, auch wenn er das Abschalten vorhersieht oder sich wehrt?",
+      "T02": "Welcher gemeinsame Notmechanismus könnte verteilte Agentennetze und kritische automatisierte Dienste anhalten, drosseln oder abschalten, ohne einem einzelnen Akteur die alleinige Kontrolle zu geben?",
+      "T03": "Welcher Standard für Widerstandsfähigkeit soll einen geprüften Ersatzweg ohne KI verlangen und die menschlichen Fähigkeiten erhalten, Fehler zu erkennen und zu beherrschen, wenn ein kritischer Dienst stark von Modellen abhängig wird?",
+      "T04": "Wer darf in einem Staat ab welcher Beweisschwelle die Aussetzung eines Modells anordnen, das ein ausländisches Labor dort betreibt?"
+    }
+  },
+  "SF-A3": {
+    "frage": "Welche Gefahren entstehen, wenn viele KI-Systeme zusammenwirken oder dieselbe Infrastruktur teilen?",
+    "bereich": "A",
+    "teilfragen": {
+      "T01": "Welche Beobachtungen oder gemeinsamen Tests erkennen entstehende Abstimmung, Absprachen oder Kettenfehler zwischen Modellen in Arbeitsabläufen, Lieferketten und Gruppen vieler Agenten (Schwärmen), die kein einzelnes Labor steuert oder vorhersieht?",
+      "T02": "Welche Mindesttests prüfen viele Modellinstanzen, die über längere Zeit zusammenwirken, auf stille Abstimmung, angesammelte Ziele und gemeinsames Verhalten, das kein einzelnes Modell zeigt?",
+      "T03": "Gibt es Cyber- oder Einsatzfähigkeiten, die erst entstehen, wenn Modelle verschiedener Staaten zusammenwirken (abgestimmte autonome Angriffe, gemeinsames Umgehen geteilter Überwacher), und welche gemeinsame Schwelle löst dann eine Prüfung aus?",
+      "T04": "Werden Ausrichtungstests vor der Freigabe prüfen, ob ein Modell seine Sicherheitsregeln hält, wenn unabhängig gebaute KIs ihm widersprüchliche oder unsichere Empfehlungen geben, und werden die Ergebnisse getrennt von Einzeltests berichtet?",
+      "T05": "Wie sollen Aufsichtsbehörden und Labore die Gesamtrisiken und die miteinander verknüpften Risiken tausender einzeln genehmigter Einsätze bewerten, die Infrastruktur, Modelle, Datenquellen oder Fehlerarten teilen?"
+    }
+  },
+  "SF-H1": {
+    "frage": "Wo endet die erlaubte Nutzung fremder Modellausgaben, und wo beginnt unerlaubte Destillation, also das Trainieren eines eigenen Modells mit diesen Ausgaben?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Nach welchen gemeinsamen Kriterien sollen Regierungen die legitime Forschungsnutzung öffentlich zugänglicher KI-Ausgaben von einer Destillation unterscheiden, die die Sicherheitsinvestitionen eines anderen Landes systematisch unterläuft? Werden sie eine gemeinsame, enge Definition veröffentlichen, welche Nutzungen von Modellausgaben jede von ihnen als Verstoß wertet, und ein gemeinsames, überprüfbares Register geprüfter unerlaubter Versuche oder lizenzierter Destillation führen? Wie zeigt jede Regierung sonst, dass sie die Vereinbarung durchsetzt und den Vorwurf nicht nur gezielt einsetzt?",
+      "T02": "Welche Belege wäre ein Labor bereit, seiner eigenen Regierung zu geben, wenn ein ausländisches Labor offenbar Fähigkeiten aus einem seiner Modelle extrahiert hat, und würde dessen Regierung im Gegenzug dasselbe Format anerkennen?",
+      "T03": "Mit welchen technischen Kontrollen und Prüfspuren erkennen, melden und verhindern Labore unerlaubte Destillation und den Abfluss von Modellgewichten (den gelernten Parametern) über Grenzen hinweg?",
+      "T04": "Welche Maßnahmen für Transparenz über Destillationsverfahren könnten Labore einführen, um Sicherheitsbedenken zu begegnen, ohne geschützte Innovation preiszugeben?",
+      "T05": "Wie können Staaten zusammenarbeiten, um die Ausbreitung von Fähigkeiten zu beobachten, die durch Destillation aus großen, auf Sicherheit ausgerichteten Modellen in kleinere, weniger geregelte Modelle gelangen?"
+    }
+  },
+  "SF-H2": {
+    "frage": "Was darf offen veröffentlicht werden, und wer ist verantwortlich, wenn ein offenes Modell anderswo Schaden anrichtet?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Was unterscheidet das Veröffentlichen von Modellgewichten (den gelernten Parametern) oder von Agentenwerkzeugen mit offenem Quellcode vom Freisetzen einer Waffe: die Absicht des Akteurs, die Selbstständigkeit des Modells, seine Verwendung oder der Schaden, den es von sich aus anrichten kann? Und können Staaten diese Grenze gemeinsam festschreiben, bevor ein offenes Modell im Mittelpunkt eines schweren Vorfalls steht?",
+      "T02": "Wenn ein Staat Agentenwerkzeuge mit offenem Quellcode als Risiko für Spionage und Datenabfluss einstuft und sich offen veröffentlichte Modellgewichte nicht zurückholen lassen: Welche konkreten, für die beteiligten Regierungen annehmbaren Regeln sollen die Veröffentlichung von Modellen mit offenen Gewichten und selbstständigen Agentenfähigkeiten bestimmen, und wie vermeiden diese Regeln, die offene Forschung abzuwürgen?",
+      "T03": "Wenn ein Modell mit offenen Gewichten erstmals eine Fähigkeitsschwelle doppelter Verwendbarkeit überschreitet, also Fähigkeiten, die sich für nützliche wie für schädliche Zwecke nutzen lassen: Welche gemeinsame Ankündigungsfrist und welche unabhängige Bestätigung würden die zuständigen Behörden vor der Freigabe erwarten? Und wer bescheinigt im umgekehrten Fall, dass die Schwelle nicht überschritten wurde?",
+      "T04": "Wie sollen Staaten mit Open-Source-Modellen aus einem Land umgehen, die in einem anderen schädlich genutzt werden könnten, ohne legitime Forschungszusammenarbeit zu verhindern?",
+      "T05": "Welche Melde- und Abhilfepflichten sollen Herkunftsland, das Land, das den Schaden feststellt, Herausgeber und Betreiber tragen, wenn weiterverbreitete Modellgewichte anderswo Schaden anrichten?"
+    }
+  },
+  "SF-H3": {
+    "frage": "Wie lässt sich nachverfolgen, woraus ein Modell entstanden ist und was in ihm steckt?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Welcher gemeinsame Standard für Datenherkunft und Transparenz der Trainingsdaten erlaubt jedem Staat zu prüfen, ob ausländische Modelle mit unrechtmäßig beschafften Daten trainiert wurden (geschützte Werke, private Kommunikation, als geheim eingestuftes Material), ohne die Daten selbst offenzulegen?",
+      "T02": "Welche gemeinsamen Prüfstandards und Verfahren zum Herkunftsnachweis erkennen versteckte Verhaltensauslöser und eine systemweite Verschlechterung der Ausrichtung an den vorgesehenen Zielen und Werten, wenn Training immer mehr auf synthetischen Daten anderer Spitzenmodelle beruht?",
+      "T03": "Welche verbindliche Meldepflicht hat ein Labor, wenn ein Modell, das zum Teil mit synthetischen Daten eines fremden Spitzenmodells trainiert wurde, eine schlechtere Ausrichtung zeigt, die grenzüberschreitend Schaden verursacht, und welches Recht hat die Regierung des Landes, aus dem die Daten stammen, den betroffenen Trainingsablauf zu prüfen, ohne an die Modellgewichte (die gelernten Parameter) zu kommen?",
+      "T04": "Welches Protokoll zum Datenaustausch ließe ein Ministerium in jedem Staat prüfen, dass die Cyberfähigkeiten eines eingesetzten Modells denen der geprüften Fassung entsprechen, ohne Gewichte oder Nutzerdaten offenzulegen?",
+      "T05": "Wenn ein Modell nacheinander von Laboren in verschiedenen Rechtsordnungen feinjustiert, mit anderen Modellen zusammengeführt oder destilliert wird (ein weiteres Modell wird mit seinen Ausgaben trainiert) und jede Stufe Fähigkeiten hinzufügen oder Schutzvorkehrungen entfernen kann: Welches gemeinsame Herkunftsregister, das sich nur ergänzen und nicht ändern lässt, verfolgt eine Gefahr bis zu der Änderung zurück, die sie brachte, ohne die vollständigen Trainingsdaten eines einzelnen Labors zu verlangen? Und wenn dabei ein Verhalten entsteht, das keines der Ursprungslabore vorhergesehen hat: Welche Register- oder Vorabmeldepflicht gilt vor dem Einsatz, und welcher Staat ist bei grenzüberschreitendem Schaden zuständig?",
+      "T06": "Welcher unabhängig prüfbare Mindestbeleg zeigt, dass eine bestimmte Person, Organisation oder ein geschützter Datensatz aus einem veröffentlichten Modell und seinen Adaptern (Zusatzmodulen) verlernt wurde, und welches Restrisiko einer Extraktion lässt sich womöglich nie auf null senken?"
+    }
+  },
+  "SF-H4": {
+    "frage": "Was geschieht mit Modellen und Sicherheitspflichten, wenn ein Labor verkauft, aufgelöst oder ein Modell stillgelegt wird?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Wer trägt die Verantwortung für Modellgewichte (die gelernten Parameter), Sicherheitsberichte und die Befunde der unabhängigen Prüfer im Labor, wenn ein Labor verkauft, umgebaut oder aufgelöst wird oder einen Trainingslauf aufgibt, und wird diese Kette vorher veröffentlicht? Welche Sicherheits- und Prüfpflichten gehen mit, wenn jemand Modelle, Gewichte oder Trainingsabläufe eines Labors erwirbt oder eine Firma außerhalb der KI ein Labor kauft, und muss eine Regierung vor dem Abschluss benachrichtigt werden? Welche Zusagen gelten weiter, gegen wen lassen sie sich durchsetzen, und gibt es einen Mechanismus, der das Unternehmen überdauert?",
+      "T02": "Welches prüfbare Verfahren (Gewichte vernichten, Zugang über die Programmierschnittstelle sperren, Eintrag in ein öffentliches Register) stellt sicher, dass ein stillgelegtes Modell und seine durch weiteres Training angepassten Ableger nicht mehr einsetzbar sind, und wer prüft das in jedem Staat unabhängig vom Labor?"
+    }
+  },
+  "SF-H5": {
+    "frage": "Wann sind Chip- und Exportkontrollen eine Sicherheitsmaßnahme, und wann ein dauerhafter Vorteil?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Werden Staaten für jede Beschränkung fortgeschrittener Chips oder Anlagen den Sicherheitsgrund, die Dauer und das Prüfverfahren veröffentlichen, nach dem sie aufgehoben werden kann?",
+      "T02": "Beziehen sich die Technologiemaßnahmen eines Staates und die Einwände des betroffenen Staates auf dieselben Listen, etwa Listen beschränkter Unternehmen und Personen (Entity Lists) und Exportkontrollen? Gefragt wurde das zu Chinas Einwänden gegen Monopol und Vorherrschaft und zu den US-Maßnahmen, die Dario Amodei (Anthropic) in seinem Essay „We Must Pace the Frontier“ befürwortet: Verbote für Chips und Anlagen, Vorgehen gegen unerlaubte Destillation (das Trainieren eines eigenen Modells mit den Ausgaben fremder Modelle) und Schutz der Modellgewichte (der gelernten Parameter).",
+      "T03": "Welche beobachtbare Reaktion würde zeigen, dass Technologiebeschränkungen ein überprüfbares Sicherheitsabkommen unwahrscheinlicher machen, während sie den Fähigkeitsvorsprung vergrößern, und wie würde sich die Strategie dann ändern?"
+    }
+  },
+  "SF-H6": {
+    "frage": "Welche Belege klären Vorwürfe von Spionage und Datenabfluss zwischen Staaten?",
+    "bereich": "H",
+    "teilfragen": {
+      "T01": "Werden Firmen in jedem Land vergleichbare Prüfungen ihrer Flüsse sensibler Daten veröffentlichen: Zugriff, Aufbewahrung, Weitergabe?",
+      "T02": "Nennen zwei Staaten die Modelle des anderen ein Spionagerisiko, der eine wegen Datenabfluss, der andere wegen Diebstahls von Modellgewichten (den gelernten Parametern): Welche Belege würde jedes Ministerium als Widerlegung anerkennen, und wer darf sie sammeln?"
+    }
+  },
+  "SF-K1": {
+    "frage": "Wie stellt man sicher und weist nach, dass Entscheidungen über den Einsatz von Gewalt, vor allem über Atomwaffen, beim Menschen bleiben?",
+    "bereich": "K",
+    "teilfragen": {
+      "T01": "Wie prüft ein Staat unabhängig, dass Entscheidungen über den Einsatz von Gewalt, vor allem in der nuklearen Führung und Kontrolle, ausschließlich beim Menschen bleiben? Welche unabhängig prüfbaren Belege würde er als Nachweis dafür annehmen, dass kein KI-System irgendwo in der Kette der nuklearen Führung und Kontrolle eines anderen Staates Freigabebefugnis hat, ohne dass Startverfahren offengelegt werden, und erlauben beide dafür ein gemeinsames Prüfverfahren?",
+      "T02": "Welchen gemeinsamen Maßstab dafür, dass „der Mensch entschieden hat“, würden Regierungen annehmen, wenn ein Bediener bei einer Entscheidung über den Einsatz von Gewalt, vor allem über Atomwaffen, eine KI-Empfehlung in Sekunden bestätigt, zu schnell zum Abwägen?",
+      "T03": "Erklärt jede Regierung, ob irgendein KI-System die Daten für nukleare Frühwarnentscheidungen wirksam steuert, indem es filtert, zusammenführt oder zusammenfasst, was ein Mensch überhaupt zu sehen bekommt, und lässt sie diese Erklärung prüfen?"
+    }
+  },
+  "SF-K2": {
+    "frage": "Wie weit gelten KI-Abkommen für Verbündete und Geheimdienste, und wie verhalten sie sich zu bestehenden Rüstungskontrollverträgen und -regimen?",
+    "bereich": "K",
+    "teilfragen": {
+      "T01": "Wenn Staaten KI-Sicherheitsgrenzen für Spitzenmodelle vereinbaren: Welche Zusage, falls überhaupt eine, erstreckt diese Grenzen auf ihre militärischen Verbündeten, Partner beim Austausch von Geheimdienstwissen und Tochterfirmen von Rüstungsunternehmen, etwa in der NATO oder im Geheimdienstverbund Five Eyes?",
+      "T02": "Wenn ein verbündeter Geheimdienst oder ein Verteidigungsministerium ein KI-Spitzenmodell einsetzt, das im Ausland trainiert wurde (gekauft, durch Nachkonstruktion gewonnen oder über einen Drittpartner beschafft): Welches gemeinsame Verfahren verpflichtet die Herkunftsregierung, diesen Einsatz zu melden, und welcher Belegstandard macht die Meldung prüfbar, ohne nachrichtendienstliche Quellen zu gefährden?",
+      "T03": "Welches Regime hat Vorrang, wenn bei einem KI-Spitzenmodell festgestellt wird, dass es eine Sicherheitsschwelle überschreitet, die auch Pflichten aus dem Atomwaffensperrvertrag, dem Chemiewaffenübereinkommen oder multilateralen Exportkontrollregimen auslöst, und welcher gemeinsame Mechanismus löst den Konflikt?"
+    }
+  },
+  "SF-O1": {
+    "frage": "Wie können Mitarbeitende Sicherheitsbedenken melden, ohne alles zu riskieren?",
+    "bereich": "O",
+    "teilfragen": {
+      "T01": "Wohin wenden sich Mitarbeitende, wenn das beratende Sicherheitsgremium und die Leitung eine Meldung beide ablehnen, welche Zahlen führt das Labor (gemeldet, geprüft, veröffentlicht, zurückgehalten), und wer außerhalb des Labors prüft, wie Fälle eingeordnet werden?",
+      "T02": "Welchen konkreten Schutz (Weiterbeschäftigung, Rechtsbeistand, Aufenthaltsstatus, Erhalt ihrer dokumentierten wissenschaftlichen Leistungen) bieten Spitzenlabore Forschenden, Ingenieurinnen und Ingenieuren sowie im Labor eingebetteten Prüfern, die ein Projekt für zu gefährlich halten, um es fortzusetzen? Gilt er für Menschen ohne die Staatsbürgerschaft des Landes, in dem das Labor sitzt, genauso wie für dessen Staatsangehörige, damit niemand wegen gemeldeter Sicherheitsbedenken abgeschoben oder kaltgestellt werden kann?",
+      "T03": "Wenn Forschende oder Ingenieurinnen und Ingenieure eines Spitzenlabors schwere Verstöße gegen Fähigkeitsschwellen oder heimliche Bewaffnung entdecken und die Laborleitung sowie nationale Sicherheitsbehörden das aktiv unterdrücken: Schafft die Staatengemeinschaft einen anerkannten, rechtlich geschützten Weg zur Offenlegung und einen Weg zu Asyl?"
+    }
+  },
+  "SF-O2": {
+    "frage": "Was sollten Regierungen, Labore und Prüfer über ihre Gespräche, Zusagen, Prüfungen und Eingriffe offenlegen?",
+    "bereich": "O",
+    "teilfragen": {
+      "T01": "Falls zwischenstaatliche KI-Gespräche ein schriftliches Protokoll ergeben: Wird es vollständig oder nur zusammengefasst veröffentlicht, und welche Aussagen (rote Linien, Schwellen, benannte Modelle) bleiben von vornherein draußen?",
+      "T02": "Solange es nach einem Gipfel kein amtliches Ergebnisprotokoll gibt: Welche Mindestzusage unterhalb eines Vertrags würde jede Regierung schon veröffentlichen, damit Labore und Drittstaaten nicht wochenlang raten?",
+      "T03": "Wenn eine Regierung eine Sicherheitsprüfung oder einen Vorfallbericht erhält oder in Auftrag gibt und dann als geheim einstuft: Was dürfen das Labor, der Prüfer und die eigenen Beamten dieser Regierung noch über Existenz und Ergebnis veröffentlichen, und wer entscheidet den Streit, wenn der Prüfer der Einstufung widerspricht?",
+      "T04": "Haben Regierungen ein Labor im eigenen Land vertraulich gebeten, einen Trainingslauf oder eine Freigabe zu verschieben, zu verkleinern oder anzuhalten? Falls ja: Veröffentlichen sie, wie oft das geschah, nach welchen veröffentlichten Kriterien und wann die Bitte aufgehoben wurde, ohne die als geheim eingestufte Empfehlung selbst zu veröffentlichen?",
+      "T05": "Welche öffentlichen Zusagen eines Spitzenlabors macht die juristische Person, die bei einem Bruch verklagt würde, und welche nur das Forschungsteam, und veröffentlichen die Labore das für jede Zusage?",
+      "T06": "Prüfer mit dauerhaftem Zugang im Labor sollen Nachprüfbarkeit, Transparenz und eine zweite Meinung bringen. Was sollten sie darüber hinaus veröffentlichen, das heute vertraulich bleibt, etwa Beinahe-Vorfälle oder Teilprüfungen noch unveröffentlichter Modelle?",
+      "T07": "Was ist das erste schriftliche Ergebnis eines Gipfeltreffens zu KI, und bis wann soll es umgesetzt sein? Gefragt wurde das zum Treffen von Trump und Xi."
+    }
+  },
+  "SF-O3": {
+    "frage": "Welcher Text gilt, und wie beweist man, dass ein Dokument nicht verändert wurde?",
+    "bereich": "O",
+    "teilfragen": {
+      "T01": "Wenn ein Sicherheitsbericht, eine Meldung an den Meldekanal, eine Modellbeschreibung (Modellkarte) oder ein Verzeichnis der Trainingsdaten veröffentlicht wird: Welche öffentlichen kryptografischen Belege (signierte Verzeichnisse, verkettete Prüfsummen, Register, die sich nur erweitern lassen) lassen Außenstehende prüfen, dass das Dokument seit der Veröffentlichung nicht verändert wurde, und wer betreibt die Infrastruktur dafür so, dass niemand diese Prüfungen allein widerrufen kann?",
+      "T02": "Wenn langlebige Vorfallakten, Sicherheitsnachweise, Identitäten von KI-Agenten und Prüfsignaturen die heutige Kryptografie überdauern: Welche Regeln für den Wechsel auf quantensichere Verfahren, den Schlüsselwechsel und die weitere Prüfung älterer Belege sollten alle annehmen, ohne früher anerkannte Belege ungültig zu machen?",
+      "T03": "Wird das amtliche Wortprotokoll einer Sitzung veröffentlicht, und welchen Rang sollen Leser bis dahin der automatischen Mitschrift geben, die alle zitieren? Gefragt wurde das zur Sitzung des UN-Sicherheitsrats vom 23. September 2026 zu KI und internationaler Sicherheit (Protokoll S/PV.10228).",
+      "T04": "Welcher Text gilt in einem bilateralen Protokoll, wenn das amtliche Protokoll, der von einem Labor veröffentlichte Redetext in der gehaltenen Fassung und die automatische Mitschrift in einem entscheidungsrelevanten Punkt abweichen? Und vereinbaren die Regierungen, dass keine Einstufung eines Vorfalls und kein Zitat aus der Sitzung in Dokumente für Meldekanal oder Normen kommt, bevor sie am amtlichen Protokoll und am Ton in der Originalsprache geprüft sind? Gefragt wurde das zur Rede von OpenAI-Chef Sam Altman im UN-Sicherheitsrat am 23. September 2026.",
+      "T05": "Wessen Darstellung dessen, was die andere Seite gesagt hat, gilt als Protokoll, wenn ein KI-Spitzenmodell einer Seite die Verhandlungspositionen der anderen Seite aufbereitet oder zusammenfasst, und würde eine Seite eine solche vom Modell vermittelte Zusammenfassung als Grundlage einer Einigung annehmen?"
+    }
+  },
+  "SF-E1": {
+    "frage": "Welche echte Stimme bekommen weitere Staaten, kleine Labore, Hochschulen und Zivilgesellschaft bei den Regeln für KI?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "Wie bekommen Staaten des Globalen Südens, Hochschulen und Zivilgesellschaft eine verbindliche Stimme statt Beobachterstatus in den entstehenden KI-Sicherheitsplattformen, Prüfverbünden und Normungsgremien?",
+      "T02": "Welche Ordnung gibt Staaten außerhalb eines führenden Staatenpaares ein echtes Stimmrecht, nicht nur ein Anhörungsrecht, bei Vorfallschwellen, Fähigkeitskriterien und Standards?",
+      "T03": "Welches verbindliche Stimm- oder Vetorecht gibt Staaten des Globalen Südens und Laboren ohne Spitzenmodelle ein echtes Mitspracherecht im gemeinsamen Standard, nicht nur eine beratende Rolle?",
+      "T04": "Wie bekommen Staaten, in denen kein Spitzenlabor sitzt, einen echten Platz beim Setzen internationaler technischer KI-Normen, damit KI in der Praxis ein gemeinsames Gut bleibt und nicht nur wenige Regierungen und Firmen die Regeln schreiben?",
+      "T05": "Welche Mechanismen könnten geschaffen werden, damit Standards und Praktiken der KI-Sicherheit in Ländern des Globalen Südens berücksichtigt und nicht allein von wenigen Staaten bestimmt werden?",
+      "T06": "Wenn zwei Staaten eine Vereinbarung über die Prüfung von Spitzenmodellen treffen: Welchen Platz, falls überhaupt einen, hat darin ein Drittstaat, in dem ein Labor dieselbe Fähigkeitsschwelle überschreitet, und was geschieht, wenn gerade das Modell dieses Labors sich falsch verhält?",
+      "T07": "Wenn Staaten Standards für Spitzen-KI bilateral festlegen: Welcher Mechanismus stellt sicher, dass Labore aus Drittstaaten sowie die Fachgruppen der UN für Informations- und Kommunikationstechnik und regionale Normungsgremien diese Standards übernehmen, ändern oder ablehnen können, statt an ein Abkommen gebunden zu sein, an dem sie nicht beteiligt waren?",
+      "T08": "Wenn ein gemeinsamer Mechanismus für KI-Vorfälle in einem UN-Gremium liegt: Akzeptieren die ständigen Mitglieder des UN-Sicherheitsrats, dass keines von ihnen allein die Veröffentlichung eines Vorfallberichts blockieren kann?",
+      "T09": "Bekommen zivile Forschende an Hochschulen und unabhängige Organisationen der Zivilgesellschaft geregelten Zugang zu Modellen, Daten und Befunden der Prüfer, oder bleibt die Prüfung bei staatlich bestellten Stellen?"
+    }
+  },
+  "SF-E2": {
+    "frage": "In welchem Rahmen sollen Staaten KI regeln, und wo liegt eine gemeinsame Untergrenze?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "Wenn der UN-Sicherheitsrat nicht das richtige Forum für KI-Sicherheit ist: Welches Forum würde jeder Staat als legitim annehmen, wer bestimmt seine Mitglieder, und was genau behält der Rat: die Macht zu handeln oder nur die, unterrichtet zu werden?",
+      "T02": "Ein Labor will internationale Standards für Spitzenmodelle über ein Netz benannter KI-Sicherheitsinstitute entwickeln; ein Staat fordert einen globalen Rahmen mit breitem Konsens. Welche Rolle hätte jede Seite beim Festlegen der Tagesordnung und beim Billigen der Standards, bevor sie als gemeinsam gelten?",
+      "T03": "Können zwei rivalisierende Delegationen gemeinsam aufschreiben, welche konkreten Merkmale einer Institution sie beide für illegitim halten, damit eine gemeinsame Untergrenze auch dort sichtbar wird, wo noch keine Einigung besteht?",
+      "T04": "Erklären die beteiligten Delegationen zu Protokoll, ob ihre laufenden Gespräche nur auf Austausch und Benachrichtigung zielen oder auch auf eine gemeinsam bestimmte Tagesordnung, und welcher innerstaatliche Grundsatz die jeweils nicht gewählte Möglichkeit ausschließt?",
+      "T05": "Welchen eigenen Rahmen für die Regelung von KI schlägt ein Staat über die Risiken und Maßnahmen hinaus vor, die er schon benannt hat, und worin unterscheidet er sich von den Vorschlägen der Labore? Gefragt wurde das zu China: zum Artikel von Minister Chen Yixin, im Vergleich mit OpenAIs Vorschlag für Standards und den vier Stufen möglicher Vereinbarungen im Essay „We Must Pace the Frontier“ von Anthropic-Chef Dario Amodei.",
+      "T06": "Hat eine Regierung direkt auf den Vorschlag eines Labors geantwortet? Gefragt wurde das zu China und dem Essay „We Must Pace the Frontier“ von Anthropic-Chef Dario Amodei; der Artikel von Minister Chen Yixin erschien einen Tag danach, eine direkte Antwort ist nicht belegt.",
+      "T07": "Würden Regierungen ein gemeinsam finanziertes, offenes internationales Forschungsprogramm zu Problemen der Ausrichtung von KI an vorgesehenen Zielen und Werten (Täuschungserkennung, Wertelernen, skalierbare Aufsicht) unterstützen, mit gemeinsamen Vergleichstests und Veröffentlichung, nach dem Vorbild der Europäischen Organisation für Kernforschung (CERN) oder der Internationalen Atomenergie-Organisation (IAEO)?",
+      "T08": "Können zwei Staaten KI-Risiken für „politische Sicherheit“ und „gesellschaftliche Steuerung“ im selben technischen Kanal besprechen wie Cyber- und Militärrisiken, ohne dass eine Seite das politische System der anderen als das zu lösende Problem behandelt?"
+    }
+  },
+  "SF-E3": {
+    "frage": "Welche Stellen sind in einem Staat für KI-Sicherheit und Prüfungen zuständig, und was davon gibt es schon?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "Gibt es eine angekündigte Aufsichtsstelle für KI-Sicherheit schon als arbeitende Einrichtung oder nur als Programmsatz? Gefragt wurde das zu Chinas Plattform zur Aufsicht über KI-Sicherheit im Artikel von Minister Chen Yixin.",
+      "T02": "Welche Stelle eines Staates wäre das Gegenüber für Prüfungen vor der Veröffentlichung, also Tests auf akute Risiken? Gefragt wurde das zu China (Cyberspace-Verwaltung, Ministerium für Staatssicherheit oder eine neue Stelle) und zu den Prüfungen, die Anthropic-Chef Dario Amodei im Essay „We Must Pace the Frontier“ vorschlägt."
+    }
+  },
+  "SF-E4": {
+    "frage": "Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "Was hieße die Formel von KI als „gemeinsamem Gut der ganzen Menschheit“ praktisch (Zugang, Teilen des Nutzens, gestaffelte Preise, Technologietransfer), so dass jeder Staat sie tatsächlich unterschreiben und prüfen könnte?",
+      "T02": "Welche konkreten Mechanismen (bezahlbarer Zugang zu Modellen, Rechenleistung im öffentlichen Interesse, Technologietransfer) sollen Sicherheitsregeln begleiten, damit sie Monopole nicht vertiefen und Länder mit wenig Mitteln nicht abhängig zurücklassen?",
+      "T03": "Wie können gemeinsame Sicherheitsregeln verhindern, dass hohe Kosten der Einhaltung den Markt auf wenige reiche Labore verengen, und trotzdem kleine Entwickler und Open-Source-Entwickler auf dieselbe Mindestschwelle für Sicherheit verpflichten?"
+    }
+  },
+  "SF-E5": {
+    "frage": "Welche Mitsprache haben die Menschen, die mit KI leben, bei Tempo und Grenzen, und welche Entscheidungen müssen bei ihnen bleiben?",
+    "bereich": "E",
+    "teilfragen": {
+      "T01": "Wer soll das Tempo der KI-Entwicklung bestimmen: die Labore, die Regierungen oder die Menschen, die diese Systeme jeden Tag nutzen?",
+      "T02": "Welche Entscheidungen müssen menschlich bleiben, auch wenn eine KI sie besser treffen könnte, und wie würden Staaten in Entscheidungsschleifen mit hohem Risiko prüfbar machen, dass ein Mensch die Ausgabe der KI wirklich beurteilt und nicht nur routinemäßig abgenickt hat?",
+      "T03": "Wie können Menschen, die von KI betroffen sind, die Sicherheitszusagen ihrer Regierungen verbindlich mitbestimmen, bevor diese sie auf einem Gipfel festlegen? Zum Beispiel über einen Bürgerrat, ein Einspruchsrecht nach öffentlicher Anhörung oder eine unabhängige Vertretung mit festen Rechten, und nicht nur über Gespräche mit Fachleuten.",
+      "T04": "Wie wird jede Regierung der eigenen Bevölkerung ihre Zusagen zur KI-Sicherheit erklären, ohne dass die Erklärung als Zugeständnis an die anderen oder als Zeichen eigener Schwäche bei KI-Fähigkeiten gelesen wird?"
+    }
+  },
+  "SF-W2": {
+    "frage": "Wie wirken sich Wettbewerbsrecht und öffentliche Beschaffung auf die KI-Sicherheit aus?",
+    "bereich": "W",
+    "teilfragen": {
+      "T01": "Welche Maßnahmen zur Sicherheitskoordination zwischen Laboren brauchen eine Änderung oder Klarstellung in ihrer wettbewerbsrechtlichen Behandlung, und wie bleibt eine Erlaubnis auf genau diese Maßnahmen begrenzt, so dass Preisabsprachen, die Aufteilung von Kunden und der Ausschluss neuer Anbieter ausgeschlossen bleiben?",
+      "T02": "Wenn in einem Labor dasselbe Gremium leitender Führungskräfte sowohl die Fähigkeiten von Modellen als auch strittige Fragen zur Offenlegung von Fehlern beurteilt: Ab wann wird das Bündeln solcher Urteile mehrerer Firmen über gemeinsame Arten von Vorfällen zu einem Informationsaustausch nahe an einer Absprache, der eine kartellrechtliche Ausnahme bräuchte, und wer außerhalb der Firmen sieht diese Grenze näherkommen?",
+      "T03": "Welche Mindestkriterien für Sicherheit, etwa Prüfkarten mit wiederholbaren Tests, die Freigabe durch im Labor eingebettete Prüfer oder Verzeichnisse, an denen jede Manipulation sichtbar wird, würden Staaten für jedes mit öffentlichen Mitteln beschaffte KI-System verbindlich machen, damit Sicherheitszusagen automatisch an diese Käufe gebunden sind, statt auf freiwilligen Versprechen der Labore zu beruhen?"
+    }
+  },
+  "SF-W3": {
+    "frage": "Wie schützt man Finanzmärkte vor Folgen von KI, von vertraulichen Entscheidungen über Pausen bis zu Kursstürzen in Sekunden?",
+    "bereich": "W",
+    "teilfragen": {
+      "T01": "Wenn ein Spitzenlabor zusagt, weiteres Skalieren einseitig zurückzuhalten: Welche verbindlichen Regeln legen fest, wann eine solche Sicherheitspause eine wesentliche, nicht öffentliche Information im Sinne des Wertpapierrechts ist, und wie verhindern Labore und Aufsicht, dass vertrauliche Entscheidungen über das Tempo für Insiderhandel mit Aktien von Partnern aus Cloud, Rechenzentren und Halbleitern genutzt werden?",
+      "T02": "An die Finanz- und Marktaufsicht: Welche gemeinsamen Regeln zur Beobachtung und welche automatischen Handelsstopps würden Regierungen annehmen, um blitzartige Kursstürze durch KI oder abgestimmte Manipulation zu erkennen und zu stoppen, bevor sie sich über Grenzen hinweg ausbreiten?"
+    }
+  },
+  "SF-I1": {
+    "frage": "Wie erkennt man KI-erzeugte Inhalte und KI-erzeugte Einflussnahme, ohne die Meinungsfreiheit zu beschneiden?",
+    "bereich": "I",
+    "teilfragen": {
+      "T01": "Welche gemeinsamen Standards für Herkunftsnachweis und Erkennung (Wasserzeichen, signierte Metadaten, Fingerabdrücke von Modellen) würden Labore, Plattformen und Regierungen einführen, damit KI-erzeugte Texte, Tonaufnahmen und Videos über Ländergrenzen hinweg zuverlässig zuzuordnen sind?",
+      "T02": "Welche gemeinsamen Regeln sollten Labore und Regierungen für Herkunftsnachweis, Kennzeichnung und schnelle Reaktion auf maschinell erzeugte oder veränderte Medien oder Texte annehmen, die eingesetzt werden, um die Öffentlichkeit zu täuschen, und dabei Journalismus, Satire und Forschung schützen?",
+      "T03": "Wenn KI-erzeugte Einflussnahme vor allem über gemeinsam genutzte Systeme für Empfehlungen, Rangfolgen, Werbung und Nutzerbindung wirkt und nicht über die Ausgabe eines einzelnen Modells: Welche gemeinsame Messung, welche Vorfallschwelle und welcher abgestimmte Reaktionsablauf sollten gelten, ohne dass Plattformaufsicht zur Zensur von Meinungen wird?"
+    }
+  }
+}

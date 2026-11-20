@@ -1,0 +1,74 @@
+{
+  "Q010205": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "dass man beim Umsetzen bereits bekannter Python-Kenntnisse weiterlerne",
+            "englisch": "when implementing, one can learn further on already known Python knowledge",
+            "besser": "that implementing the projects helps learners build on their existing Python knowledge"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Word-Vorlagen über Platzhalter zu befüllen",
+            "englisch": "fill in Word templates with placeholders",
+            "besser": "fill Word templates by replacing placeholders"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Messwerte",
+            "englisch": "measurement values",
+            "besser": "measurements"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "bis zur eigenen Arbeitsaufgabe",
+            "englisch": "to his own work task",
+            "besser": "to a self-chosen task at work"
+          }
+        ]
+      }
+    ],
+    "q": "Q010205",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:55:39"
+  }
+}

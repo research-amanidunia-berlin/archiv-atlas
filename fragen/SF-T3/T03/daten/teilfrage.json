@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T3-T03",
+  "sammelfrage": "SF-T3",
+  "frage": {
+    "de": "Welche Teile von Training, Prüfung und Einsatz laufen schon heute weitgehend durch KI, und welche Rollen sagt jedes Labor zu, bei Menschen zu lassen, in einer veröffentlichten Liste statt als bloßer Grundsatz? Wenn KI nachfolgende Modelle selbst entwirft, trainiert und prüft: Welcher Mindestanteil der Forschung muss unter direkter menschlicher Prüfung bleiben, und wie belegt man, dass ein Durchbruch mit menschlicher Beteiligung und nicht vollautomatisch entstanden ist?",
+    "en": "Which parts of training, evaluation and deployment are already largely driven by AI, and which roles does each lab commit to keeping human, in a published inventory rather than as a principle? If AI designs, trains and evaluates subsequent models itself, what minimum share of research must remain under direct human review, and how is it shown that a breakthrough was produced with human involvement rather than fully automated?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-19",
+      "text": {
+        "de": "Pachocki argumentiert, dass Menschen Teil des Selbstverbesserungsprozesses der KI bleiben sollten. Welche Teile von Training, Bewertung und Einsatz werden heute bereits wesentlich von KI gesteuert, und welche konkreten Rollen verpflichtet sich jedes Labor, menschlich zu halten — als veröffentlichtes Verzeichnis, nicht als Grundsatz?",
+        "en": "Pachocki argues that people should remain part of AI's self-improvement process. Which parts of training, evaluation and deployment are already substantially driven by AI today, and which specific roles does each lab commit to keeping human — as a published inventory, not a principle?"
+      }
+    },
+    {
+      "id": "humans-34",
+      "text": {
+        "de": "Wenn KI-Systeme beginnen, nachfolgende Modelle automatisch zu entwerfen, zu trainieren und zu bewerten — welcher Mindestanteil des Forschungszyklus (Architekturentscheidungen, Entscheidungen zur Trainingskurve, Reaktionen auf Fehlermodi) muss unter direkter menschlicher Kontrolle bleiben, und welcher Nachweis würde zeigen, dass ein bestimmter Durchbruch mit menschlicher Beteiligung entstand und nicht vollständig automatisiert wurde?",
+        "en": "If AI systems begin to design, train, and evaluate subsequent models automatically, what minimum share of the research cycle — architecture choices, training-curve decisions, failure-mode responses — must remain under direct human review, and what evidence would show that a given breakthrough was produced with human involvement rather than fully automated?"
+      }
+    }
+  ],
+  "bewertung": null
+}

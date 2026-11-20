@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V4-T03",
+  "sammelfrage": "SF-V4",
+  "frage": {
+    "de": "Ist Intelligenz, die „eher gewachsen als entworfen“ ist, ein Grund für mehr Vorsicht oder dafür, Modelle wie ein Ökosystem zu pflegen?",
+    "en": "Is intelligence “grown more than designed” a reason for more caution, or for stewarding models like an ecosystem?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-09",
+      "text": {
+        "de": "Ist Intelligenz, die „mehr gewachsen als entworfen“ ist, ein Grund für mehr Vorsicht – oder dafür, Modelle wie Ökosysteme zu behandeln, die wir pflegen?",
+        "en": "Is intelligence \"grown more than designed\" a reason for more caution — or for treating models like ecosystems we steward?"
+      }
+    }
+  ],
+  "bewertung": null
+}

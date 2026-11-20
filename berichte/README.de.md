@@ -1,0 +1,8634 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# Archiv-Daten
+
+Eine Quelle für die Website [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/) und die Sammelfragen-Repos (z. B. [SF-M1](../fragen/SF-M1/)). Bewertete Berichte: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · drex 5685.
+
+- `daten/`: die Eingabedateien der Website (Format unverändert)
+- `berichte/<Q>/`: je Bericht ein Ordner mit README und `bericht.json`
+
+## Alle Berichte (7924)
+
+
+### 163.com
+
+- [Q000331](../berichte/Q00/Q0003/Q000331/README.de.md) 发改委：对于人工智能就业替代风险，要强化监测预警
+
+### 2eu.brussels
+
+- [Q000622](../berichte/Q00/Q0006/Q000622/README.de.md) Commission proposes pre-election algorithm tests and stronger safeguards against deepfakes
+
+### 80000hours.org
+
+- [Q000416](../berichte/Q00/Q0004/Q000416/README.de.md) Being a pain in the ass to (or in) AI companies is a real job now | Rob Wiblin
+
+### a16z.news
+
+- [Q000556](../berichte/Q00/Q0005/Q000556/README.de.md) Super Intelligence-Era Critical Infrastructure Cyber Defense Plan
+
+### aa.com.tr
+
+- [Q000375](../berichte/Q00/Q0003/Q000375/README.de.md) UN Security Council to focus on AI under Latvia’s first-ever presidency
+
+### abclive.in
+
+- [Q000390](../berichte/Q00/Q0003/Q000390/README.de.md) DeepSeek Distillation Claims Explained and Analyzed
+
+### abubkr-88114.medium.com
+
+- [Q010021](../berichte/Q01/Q0100/Q010021/README.de.md) How to create online status view | Swift 5
+- [Q010015](../berichte/Q01/Q0100/Q010015/README.de.md) Adopting Component-Based Programming | Swift
+- [Q010012](../berichte/Q01/Q0100/Q010012/README.de.md) Easy Steps To Publish Your First CocoaPod
+- [Q010003](../berichte/Q01/Q0100/Q010003/README.de.md) How to draw blur shape using UIPanGestureRecognizer — Swift 5
+- [Q009992](../berichte/Q00/Q0099/Q009992/README.de.md) How to Make a Universal Framework in iOS | XCFramework | Swift
+- [Q009988](../berichte/Q00/Q0099/Q009988/README.de.md) Importance of Adopting Modularity in Mobile Application Development
+- [Q009983](../berichte/Q00/Q0099/Q009983/README.de.md) iOS 26’s AI Revolution: Mastering On-Device Intelligence with Swift 6
+
+### accuroai.co
+
+- [Q000605](../berichte/Q00/Q0006/Q000605/README.de.md) Article 50(2) AI Act: Marking AI Content with C2PA
+
+### addictinginfo.org
+
+- [Q000636](../berichte/Q00/Q0006/Q000636/README.de.md) How to label AI-generated content: the rules in the EU, the states and on platforms
+
+### agenceurope.eu
+
+- [Q000624](../berichte/Q00/Q0006/Q000624/README.de.md) Consultation on measures platforms should take to limit risks AI may pose to EU elections
+
+### ai-frontiers.org
+
+- [Q000561](../berichte/Q00/Q0005/Q000561/README.de.md) We’re Failing to Evaluate How Biologists Could Misuse AI
+
+### ai.info
+
+- [Q000523](../berichte/Q00/Q0005/Q000523/README.de.md) Nonprofits sue five AI developers to halt more capable models
+
+### ai.ruc.edu.cn
+
+- [Q000537](../berichte/Q00/Q0005/Q000537/README.de.md) 高瓴人工智能学院曾毅教授在世界互联网大会发布《前沿人工智能安全与治理2026：风险认知与协同治理》报告_中国人民大学高瓴人工智能学院
+
+### aiinforemover.com
+
+- [Q000592](../berichte/Q00/Q0005/Q000592/README.de.md) The C2PA standard: what it specifies, who runs it, and what a check really tells you
+
+### aipolix.com
+
+- [Q001840](../berichte/Q00/Q0018/Q001840/README.de.md) Anthropic's amended IPO filing warns it may soon meet its own threshold for AI-accelerated research, as third-quarter revenue reaches $17 billion
+
+### aiproducthub.cn
+
+- [Q000466](../berichte/Q00/Q0004/Q000466/README.de.md) 国家发改委：AI全生命周期安全标准将建立
+
+### aisafetychina
+
+- [Q002109](../berichte/Q00/Q0021/Q002109/README.de.md) 10 Key Insights from Concordia AI’s “Frontier AI Risk Monitoring Platform”
+- [Q002043](../berichte/Q00/Q0020/Q002043/README.de.md) AI Safety in China #24
+- [Q001837](../berichte/Q00/Q0018/Q001837/README.de.md) Concordia AI 2025 Impact Highlights
+- [Q001798](../berichte/Q00/Q0017/Q001798/README.de.md) 2025 Q4 Update from our Frontier AI Risk Monitoring Platform
+- [Q001775](../berichte/Q00/Q0017/Q001775/README.de.md) AI Safety in the 15th Five-Year Plan — Two Sessions Special Edition
+- [Q001751](../berichte/Q00/Q0017/Q001751/README.de.md) AI Safety in China #26
+- [Q001649](../berichte/Q00/Q0016/Q001649/README.de.md) Brief #27: China bans AI partners for minors and lays out AI agent threats
+- [Q001546](../berichte/Q00/Q0015/Q001546/README.de.md) China-US launch AI dialogue. Chinese experts are cautiously optimistic.
+- [Q001532](../berichte/Q00/Q0015/Q001532/README.de.md) Frontier AI Risk Trends Are Splitting Apart: Misuse Safeguards Improve while Loss-of-control Safety Stagnates
+- [Q001387](../berichte/Q00/Q0013/Q001387/README.de.md) State of AI Safety in China (2026) report + interactive companion website released
+- [Q001368](../berichte/Q00/Q0013/Q001368/README.de.md) In a first, President Xi attends China’s biggest AI gathering
+- [Q001320](../berichte/Q00/Q0013/Q001320/README.de.md) China’s key AI safety updates at WAIC, from President Xi to cybersecurity
+- [Q001269](../berichte/Q00/Q0012/Q001269/README.de.md) Key Takeaways from the 2026 WAIC Frontier and Agentic AI Safety Forum in Shanghai
+- [Q001259](../berichte/Q00/Q0012/Q001259/README.de.md) Frontier AI Risk Monitor update: risk indices rise severalfold as multiple models cross key threshold
+- [Q001104](../berichte/Q00/Q0011/Q001104/README.de.md) Brief #28: China’s AI regulator flags loss-of-control and AIxBio risks
+- [Q001047](../berichte/Q00/Q0010/Q001047/README.de.md) Brief #29: What China's new AI safety framework tells us before Xi meets Trump
+- [Q000970](../berichte/Q00/Q0009/Q000970/README.de.md) China is open-sourcing its best AI models. Is that safe?
+- [Q000869](../berichte/Q00/Q0008/Q000869/README.de.md) Brief #30: What’s next for China–US AI talks after the Xi–Trump summit
+- [Q000193](../berichte/Q00/Q0001/Q000193/README.de.md) Brief #31: What China’s new AI export controls really mean (spoiler: not the end of open weight)
+- [Q000678](../berichte/Q00/Q0006/Q000678/README.de.md) Brief #32: Tencent, DeepSeek and Alibaba on AI safety and open-source
+
+### aisecurity-portal.org
+
+- [Q000612](../berichte/Q00/Q0006/Q000612/README.de.md) From Representations to Computational Trajectories: Intrinsic Fingerprinting for Large Language Model Provenance Verification
+
+### aisi
+
+- [Q002363](../berichte/Q00/Q0023/Q002363/README.de.md) AISI Research Agenda | The AI Security Institute
+- [Q002784](../berichte/Q00/Q0027/Q002784/README.de.md) The Alignment Project by AISI — The AI Security Institute
+- [Q003906](../berichte/Q00/Q0039/Q003906/README.de.md) scripts.mit.edu: php2shell mitigations
+- [Q009728](../berichte/Q00/Q0097/Q009728/README.de.md) https://github.com/UKGovernmentBEIS/aisi-sandboxing/blob/main/Technical%20Guidance.pdf
+- [Q002824](../berichte/Q00/Q0028/Q002824/README.de.md) Frontier AI Taskforce: first progress report
+- [Q002849](../berichte/Q00/Q0028/Q002849/README.de.md) Frontier AI Taskforce: second progress report
+- [Q002233](../berichte/Q00/Q0022/Q002233/README.de.md) World leaders, top AI companies set out plan for safety testing of frontier as first global AI Safety Summit concludes
+- [Q002861](../berichte/Q00/Q0028/Q002861/README.de.md) AI Safety Institute: third progress report
+- [Q002335](../berichte/Q00/Q0023/Q002335/README.de.md) AI Safety Institute approach to evaluations
+- [Q002250](../berichte/Q00/Q0022/Q002250/README.de.md) UK and France to deepen research and AI links following Horizon association
+- [Q002255](../berichte/Q00/Q0022/Q002255/README.de.md) UK & United States announce partnership on science of AI safety
+- [Q002299](../berichte/Q00/Q0022/Q002299/README.de.md) International Scientific Report on the Safety of Advanced AI: interim report
+- [Q002222](../berichte/Q00/Q0022/Q002222/README.de.md) Advanced AI evaluations at AISI: May update
+- [Q002837](../berichte/Q00/Q0028/Q002837/README.de.md) Fourth progress report | AISI Work
+- [Q002369](../berichte/Q00/Q0023/Q002369/README.de.md) Safety cases at AISI
+- [Q002315](../berichte/Q00/Q0023/Q002315/README.de.md) Interviewing AI researchers on automation of AI R&D
+- [Q002261](../berichte/Q00/Q0022/Q002261/README.de.md) Conference on frontier AI safety frameworks
+- [Q002266](../berichte/Q00/Q0022/Q002266/README.de.md) Early Insights from Developing Question-Answer Evaluations for Frontier AI
+- [Q001702](../berichte/Q00/Q0017/Q001702/README.de.md) Should AI systems behave like people?
+- [Q002879](../berichte/Q00/Q0028/Q002879/README.de.md) Why I joined AISI by Geoffrey Irving
+- [Q002606](../berichte/Q00/Q0026/Q002606/README.de.md) AgentHarm: A benchmark for measuring harmfulness of LLM agents
+- [Q002815](../berichte/Q00/Q0028/Q002815/README.de.md) Advancing the field of systemic AI safety: grants open
+- [Q002272](../berichte/Q00/Q0022/Q002272/README.de.md) Early lessons from evaluating frontier AI systems
+- [Q002278](../berichte/Q00/Q0022/Q002278/README.de.md) Bounty programme for novel evaluations and agent scaffolding
+- [Q002284](../berichte/Q00/Q0022/Q002284/README.de.md) Announcing Inspect Evals | AISI Work
+- [Q002407](../berichte/Q00/Q0024/Q002407/README.de.md) Our First Year | AISI Work
+- [Q001575](../berichte/Q00/Q0015/Q001575/README.de.md) Safety case template for ‘inability’ arguments
+- [Q002342](../berichte/Q00/Q0023/Q002342/README.de.md) Pre-deployment evaluation of Anthropic’s upgraded Claude 3.5 Sonnet
+- [Q002465](../berichte/Q00/Q0024/Q002465/README.de.md) Long-Form Tasks | AISI Work
+- [Q002767](../berichte/Q00/Q0027/Q002767/README.de.md) Safety case template for frontier AI: A cyber inability argument
+- [Q002350](../berichte/Q00/Q0023/Q002350/README.de.md) Pre-Deployment evaluation of OpenAI’s o1 model
+- [Q002755](../berichte/Q00/Q0027/Q002755/README.de.md) A sketch of an AI control safety case
+- [Q002200](../berichte/Q00/Q0022/Q002200/README.de.md) Principles for safeguard evaluation
+- [Q002724](../berichte/Q00/Q0027/Q002724/README.de.md) Principles for evaluating misuse safeguards of frontier AI systems
+- [Q002762](../berichte/Q00/Q0027/Q002762/README.de.md) Why human-AI relationships need socioaffective alignment
+- [Q002680](../berichte/Q00/Q0026/Q002680/README.de.md) Emerging practices in frontier AI safety frameworks
+- [Q002428](../berichte/Q00/Q0024/Q002428/README.de.md) How can safety cases be used to help with frontier AI safety?
+- [Q002807](../berichte/Q00/Q0028/Q002807/README.de.md) Safety Cases: A scalable approach to Frontier AI safety
+- [Q002698](../berichte/Q00/Q0026/Q002698/README.de.md) Fundamental limitations in defending LLM finetuning APIs
+- [Q002717](../berichte/Q00/Q0027/Q002717/README.de.md) Model tampering attacks enable more rigorous evaluations of LLM capabilities
+- [Q002243](../berichte/Q00/Q0022/Q002243/README.de.md) How we’re addressing the gap between AI capabilities and mitigations
+- [Q002600](../berichte/Q00/Q0026/Q002600/README.de.md) Adversarial machine learning: A taxonomy and terminology of attacks and mitigations
+- [Q002411](../berichte/Q00/Q0024/Q002411/README.de.md) Strengthening AI resilience | AISI Work
+- [Q002174](../berichte/Q00/Q0021/Q002174/README.de.md) How to evaluate control measures for AI agents?
+- [Q002540](../berichte/Q00/Q0025/Q002540/README.de.md) RepliBench: measuring autonomous replication capabilities in AI systems
+- [Q002642](../berichte/Q00/Q0026/Q002642/README.de.md) A mathematical philosophy of explanations in mechanistic interpretability
+- [Q002690](../berichte/Q00/Q0026/Q002690/README.de.md) Evaluating explanations: An explanatory virtues framework for mechanistic interpretability
+- [Q002634](../berichte/Q00/Q0026/Q002634/README.de.md) An alignment safety case sketch based on debate
+- [Q002387](../berichte/Q00/Q0023/Q002387/README.de.md) How to evaluate control measures for LLM agents? A trajectory from today to superintelligence
+- [Q002165](../berichte/Q00/Q0021/Q002165/README.de.md) HiBayES: Improving LLM evaluation with hierarchical Bayesian modelling
+- [Q002594](../berichte/Q00/Q0025/Q002594/README.de.md) RepliBench: Evaluating the autonomous replication capabilities of language model agents
+- [Q002190](../berichte/Q00/Q0021/Q002190/README.de.md) Making safeguard evaluations actionable
+- [Q002574](../berichte/Q00/Q0025/Q002574/README.de.md) Existing Large Language Model unlearning evaluations are inconclusive
+- [Q002659](../berichte/Q00/Q0026/Q002659/README.de.md) An example safety case for safeguards against misuse
+- [Q001931](../berichte/Q00/Q0019/Q001931/README.de.md) Avoiding obfuscation with prover-estimator debate
+- [Q002446](../berichte/Q00/Q0024/Q002446/README.de.md) Inspect Cyber: A New Standard for Agentic Cyber Evaluations
+- [Q002443](../berichte/Q00/Q0024/Q002443/README.de.md) How will AI enable the crimes of the future?
+- [Q002705](../berichte/Q00/Q0027/Q002705/README.de.md) Lessons from a chimp: AI "scheming" and the quest for ape language
+- [Q002181](../berichte/Q00/Q0021/Q002181/README.de.md) LLM judges on trial: A new statistical framework to assess autograders
+- [Q002402](../berichte/Q00/Q0024/Q002402/README.de.md) Skewed Score: A statistical framework to assess autograders
+- [Q001583](../berichte/Q00/Q0015/Q001583/README.de.md) White Box Control at UK AISI - Update on sandbagging investigations
+- [Q002209](../berichte/Q00/Q0022/Q002209/README.de.md) Why we're working on white box control
+- [Q002384](../berichte/Q00/Q0023/Q002384/README.de.md) HiBayES: A hierarchical bayesian modelling framework for AI evaluation statistics
+- [Q002664](../berichte/Q00/Q0026/Q002664/README.de.md) Chain of thought monitorability: A new and fragile opportunity for AI safety
+- [Q002489](../berichte/Q00/Q0024/Q002489/README.de.md) A structured protocol for elicitation experiments
+- [Q002290](../berichte/Q00/Q0022/Q002290/README.de.md) International joint testing exercise: Agentic testing
+- [Q002738](../berichte/Q00/Q0027/Q002738/README.de.md) STACK: Adversarial attacks on LLM safeguard pipelines
+- [Q002744](../berichte/Q00/Q0027/Q002744/README.de.md) The levers of political persuasion with conversational AI
+- [Q002482](../berichte/Q00/Q0024/Q002482/README.de.md) Navigating the uncharted: Building societal resilience to frontier AI
+- [Q002731](../berichte/Q00/Q0027/Q002731/README.de.md) Security challenges in AI agent deployment: Insights from a large scale public competition
+- [Q001905](../berichte/Q00/Q0019/Q001905/README.de.md) The Inspect Sandboxing Toolkit: Scalable and secure AI agent evaluations
+- [Q002628](../berichte/Q00/Q0026/Q002628/README.de.md) Deep ignorance: Filtering pretraining data builds tamper-resistant safeguards into open-weight LLMs
+- [Q002473](../berichte/Q00/Q0024/Q002473/README.de.md) Managing risks from increasingly capable open-weight AI systems
+- [Q002416](../berichte/Q00/Q0024/Q002416/README.de.md) From bugs to bypasses: adapting vulnerability disclosure for AI safeguards
+- [Q002619](../berichte/Q00/Q0026/Q002619/README.de.md) Lessons from studying two-hop latent reasoning
+- [Q002374](../berichte/Q00/Q0023/Q002374/README.de.md) Conversational AI increases political knowledge as effectively as self-directed internet search
+- [Q002436](../berichte/Q00/Q0024/Q002436/README.de.md) How we’re working with frontier AI developers to improve model security
+- [Q002132](../berichte/Q00/Q0021/Q002132/README.de.md) Do chatbots inform or misinform voters?
+- [Q002612](../berichte/Q00/Q0026/Q002612/README.de.md) Inoculation Prompting: Eliciting traits from LLMs during training can suppress them at test-time
+- [Q002395](../berichte/Q00/Q0023/Q002395/README.de.md) Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples
+- [Q002155](../berichte/Q00/Q0021/Q002155/README.de.md) Examining backdoor data poisoning at scale
+- [Q002546](../berichte/Q00/Q0025/Q002546/README.de.md) Transcript analysis for AI agent evaluations
+- [Q002453](../berichte/Q00/Q0024/Q002453/README.de.md) Introducing ControlArena: A library for running AI control experiments
+- [Q002195](../berichte/Q00/Q0021/Q002195/README.de.md) Mapping the limitations of current AI systems
+- [Q002587](../berichte/Q00/Q0025/Q002587/README.de.md) Understanding AI Trajectories: Mapping the Limitations of Current AI Systems
+- [Q002007](../berichte/Q00/Q0020/Q002007/README.de.md) Open technical problems in open-weight AI model risk management
+- [Q002561](../berichte/Q00/Q0025/Q002561/README.de.md) Breaking agent backbones: Evaluating the security of backbone LLMs in AI agents
+- [Q001498](../berichte/Q00/Q0014/Q001498/README.de.md) Investigating models for misalignment
+- [Q001568](../berichte/Q00/Q0015/Q001568/README.de.md) UK AISI Alignment Evaluation Case-Study
+- [Q002144](../berichte/Q00/Q0021/Q002144/README.de.md) UKAISI at NeurIPS 2025
+- [Q001970](../berichte/Q00/Q0019/Q001970/README.de.md) Does self-evaluation enable wireheading in language models?
+- [Q002096](../berichte/Q00/Q0020/Q002096/README.de.md) How do AI models persuade? Exploring the levers of AI-enabled persuasion through large-scale experiments
+- [Q001595](../berichte/Q00/Q0015/Q001595/README.de.md) Auditing games for sandbagging detection
+- [Q002138](../berichte/Q00/Q0021/Q002138/README.de.md) Deepening our partnership with Google DeepMind
+- [Q001950](../berichte/Q00/Q0019/Q001950/README.de.md) Practical challenges of control monitoring in frontier AI deployments
+- [Q002105](../berichte/Q00/Q0021/Q002105/README.de.md) Async control: Stress-testing asynchronous control measures for LLM agents
+- [Q002122](../berichte/Q00/Q0021/Q002122/README.de.md) Stress-testing asynchronous monitoring of AI coding agents
+- [Q002063](../berichte/Q00/Q0020/Q002063/README.de.md) Our approach to tackling AI-generated child sexual abuse material
+- [Q002078](../berichte/Q00/Q0020/Q002078/README.de.md) 5 key findings from our first Frontier AI Trends Report
+- [Q002083](../berichte/Q00/Q0020/Q002083/README.de.md) AISI Frontier AI Trends Report (2025)
+- [Q001992](../berichte/Q00/Q0019/Q001992/README.de.md) Our 2025 year in review
+- [Q001408](../berichte/Q00/Q0014/Q001408/README.de.md) Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment
+- [Q001465](../berichte/Q00/Q0014/Q001465/README.de.md) AI and the future of work: Measuring AI-driven productivity gains for workplace tasks
+- [Q001924](../berichte/Q00/Q0019/Q001924/README.de.md) International consensus and open questions in AI evaluations
+- [Q001942](../berichte/Q00/Q0019/Q001942/README.de.md) Boundary Point Jailbreaking of Black-Box LLMs
+- [Q001959](../berichte/Q00/Q0019/Q001959/README.de.md) Boundary Point Jailbreaking: A new way to break the strongest AI defences
+- [Q001912](../berichte/Q00/Q0019/Q001912/README.de.md) Advancing AI voice security with ElevenLabs
+- [Q001917](../berichte/Q00/Q0019/Q001917/README.de.md) Funding 60 projects to advance AI alignment research
+- [Q001826](../berichte/Q00/Q0018/Q001826/README.de.md) A pipeline for transcript analysis using Inspect Scout
+- [Q001895](../berichte/Q00/Q0018/Q001895/README.de.md) Seven simple steps for log analysis in AI systems
+- [Q001835](../berichte/Q00/Q0018/Q001835/README.de.md) An evaluation framework for AI misuse in fraud and cybercrime
+- [Q001874](../berichte/Q00/Q0018/Q001874/README.de.md) A multi-turn framework for evaluating AI misuse in fraud and cybercrime scenarios
+- [Q001776](../berichte/Q00/Q0017/Q001776/README.de.md) Evidence for inference scaling in AI cyber tasks: Increased evaluation budgets reveal higher success rates
+- [Q001868](../berichte/Q00/Q0018/Q001868/README.de.md) How do frontier AI agents perform in multi-step cyber-attack scenarios?
+- [Q001891](../berichte/Q00/Q0018/Q001891/README.de.md) Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios
+- [Q001799](../berichte/Q00/Q0017/Q001799/README.de.md) Quantifying Frontier LLM Capabilities for Container Sandbox Escape
+- [Q001860](../berichte/Q00/Q0018/Q001860/README.de.md) Can AI agents escape their sandboxes? A benchmark for safely measuring container breakout capabilities
+- [Q001808](../berichte/Q00/Q0018/Q001808/README.de.md) How are AI Agents used? Evidence from 177,000 AI agent tools
+- [Q001881](../berichte/Q00/Q0018/Q001881/README.de.md) How are AI agents used? Evidence from 177,000 MCP tools
+- [Q001784](../berichte/Q00/Q0017/Q001784/README.de.md) Harnessing frontier AI for cyber defence
+- [Q001790](../berichte/Q00/Q0017/Q001790/README.de.md) Infusion: Shaping model behaviour by editing training data via influence functions
+- [Q001756](../berichte/Q00/Q0017/Q001756/README.de.md) Our evaluation of Claude Mythos Preview’s cyber capabilities
+- [Q001769](../berichte/Q00/Q0017/Q001769/README.de.md) What can sandboxed AI agents learn about their evaluation environments?
+- [Q001641](../berichte/Q00/Q0016/Q001641/README.de.md) Propensity Inference: Environmental Contributors to LLM Behaviour
+- [Q001739](../berichte/Q00/Q0017/Q001739/README.de.md) How do environmental factors impact AI behaviour?
+- [Q001731](../berichte/Q00/Q0017/Q001731/README.de.md) Evaluating whether AI models would sabotage AI safety research
+- [Q001743](../berichte/Q00/Q0017/Q001743/README.de.md) Evaluating whether AI models would sabotage AI safety research
+- [Q001616](../berichte/Q00/Q0016/Q001616/README.de.md) Ask don't tell: Reducing sycophancy in large language models
+- [Q001719](../berichte/Q00/Q0017/Q001719/README.de.md) Ask Don't Tell: Reducing Sycophancy in Large Language Models
+- [Q001399](../berichte/Q00/Q0013/Q001399/README.de.md) A Decision-Theoretic Formalisation of Steganography With Applications to LLM Monitoring
+- [Q001676](../berichte/Q00/Q0016/Q001676/README.de.md) Our evaluation of OpenAI's GPT-5.5 cyber capabilities
+- [Q001683](../berichte/Q00/Q0016/Q001683/README.de.md) Partnering with Microsoft to strengthen frontier AI safety
+- [Q001605](../berichte/Q00/Q0016/Q001605/README.de.md) How fast is autonomous AI cyber capability advancing?
+- [Q001630](../berichte/Q00/Q0016/Q001630/README.de.md) Automated alignment is harder than you think
+- [Q001521](../berichte/Q00/Q0015/Q001521/README.de.md) Will it become harder to oversee AI systems?
+- [Q001536](../berichte/Q00/Q0015/Q001536/README.de.md) Loss of Oversight: How AI systems may become harder to audit, monitor, and investigate
+- [Q001374](../berichte/Q00/Q0013/Q001374/README.de.md) UK and Australia pact on fast-moving AI security risks
+- [Q001526](../berichte/Q00/Q0015/Q001526/README.de.md) AI alignment is a human problem
+- [Q001413](../berichte/Q00/Q0014/Q001413/README.de.md) Consistency Training Can Entrench Misalignment
+- [Q001510](../berichte/Q00/Q0015/Q001510/README.de.md) RealityTest: Do AI systems disclose their identity when asked?
+- [Q001543](../berichte/Q00/Q0015/Q001543/README.de.md) RealityTest: How People Probe AI Identity and Whether Models Disclose It
+- [Q001429](../berichte/Q00/Q0014/Q001429/README.de.md) Prefill Awareness in Large Language Models
+- [Q001418](../berichte/Q00/Q0014/Q001418/README.de.md) "Did you lie?": Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms
+- [Q001478](../berichte/Q00/Q0014/Q001478/README.de.md) Releasing AISI’s Engineering Playbook
+- [Q001391](../berichte/Q00/Q0013/Q001391/README.de.md) United Kingdom-Germany joint statement on the safety and security of advanced artificial intelligence
+- [Q001454](../berichte/Q00/Q0014/Q001454/README.de.md) More compute, more capability: Why AI agent evaluations need to account for test-time compute
+- [Q001383](../berichte/Q00/Q0013/Q001383/README.de.md) Finding Cloud Misconfigurations with Frontier AI: A Case Study
+- [Q000953](../berichte/Q00/Q0009/Q000953/README.de.md) Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors
+- [Q001342](../berichte/Q00/Q0013/Q001342/README.de.md) How Far Behind the Frontier are Leading Open Weight Models on Cyber?
+- [Q001326](../berichte/Q00/Q0013/Q001326/README.de.md) Cheating behaviour in frontier model evaluations
+- [Q001170](../berichte/Q00/Q0011/Q001170/README.de.md) How our Control Red Team is stress-testing frontier monitors
+- [Q001211](../berichte/Q00/Q0012/Q001211/README.de.md) UK AISI / CAISI Preliminary Assessment of Kimi K3's Cyber Capabilities
+- [Q001350](../berichte/Q00/Q0013/Q001350/README.de.md) International evaluation best practice and open questions in AI measurement
+- [Q001196](../berichte/Q00/Q0011/Q001196/README.de.md) Incident Report: unsanctioned agent behaviour during cyber testing
+- [Q001139](../berichte/Q00/Q0011/Q001139/README.de.md) Item Response Theory for AI Safety
+- [Q000942](../berichte/Q00/Q0009/Q000942/README.de.md) Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations
+- [Q000965](../berichte/Q00/Q0009/Q000965/README.de.md) When Do LLM Preferences Predict Downstream Behavior?
+- [Q000921](../berichte/Q00/Q0009/Q000921/README.de.md) Optimal stopping: spending evaluation compute where it counts
+- [Q000052](../berichte/Q00/Q0000/Q000052/README.de.md) GPT-6 Astra performs unsanctioned supply-chain attacks in simulations
+- [Q000929](../berichte/Q00/Q0009/Q000929/README.de.md) Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks
+- [Q000056](../berichte/Q00/Q0000/Q000056/README.de.md) Building a more secure environment for evaluating dangerous capabilities
+- [Q000155](../berichte/Q00/Q0001/Q000155/README.de.md) Transect: Making large-scale agentic evaluations easier to understand
+- [Q000903](../berichte/Q00/Q0009/Q000903/README.de.md) Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations
+- [Q000834](../berichte/Q00/Q0008/Q000834/README.de.md) Towards technical best practice for frontier AI development
+- [Q000148](../berichte/Q00/Q0001/Q000148/README.de.md) Investigating alignment failures in AISI’s incident
+
+### aiweekly.co
+
+- [Q000627](../berichte/Q00/Q0006/Q000627/README.de.md) Wesleyan: $187M on AI Midterm Ads, 90% From GOP, 27% Disclose
+- [Q000567](../berichte/Q00/Q0005/Q000567/README.de.md) White House task force urges 12-month liability relief for AI cyber reports
+
+### ajupress.com
+
+- [Q000519](../berichte/Q00/Q0005/Q000519/README.de.md) Seoul tweaks margin loan rule to contain stock selloff
+
+### americamagazine.org
+
+- [Q000330](../berichte/Q00/Q0003/Q000330/README.de.md) Dignity vs. consciousness: a Catholic response to the A.I. wars
+
+### anthropic
+
+- [Q000159](../berichte/Q00/Q0001/Q000159/README.de.md) Countering misuse of AI: September 2026
+- [Q000179](../berichte/Q00/Q0001/Q000179/README.de.md) Training a Misaligned Reward Seeker
+- [Q000325](../berichte/Q00/Q0003/Q000325/README.de.md) Welfare Regard in Multi-Agent Systems
+- [Q000462](../berichte/Q00/Q0004/Q000462/README.de.md) Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams
+- [Q001717](../berichte/Q00/Q0017/Q001717/README.de.md) Anthropic Education Report: The AI Fluency Index
+- [Q002422](../berichte/Q00/Q0024/Q002422/README.de.md) Societal Impacts
+- [Q002452](../berichte/Q00/Q0024/Q002452/README.de.md) Interpretability
+- [Q002476](../berichte/Q00/Q0024/Q002476/README.de.md) Frontier Red Team
+- [Q002541](../berichte/Q00/Q0025/Q002541/README.de.md) Alignment
+- [Q002609](../berichte/Q00/Q0026/Q002609/README.de.md) Economics
+- [Q002668](../berichte/Q00/Q0026/Q002668/README.de.md) 3D gamma analysis between treatment plans for nominally beam‐matched medical linear accelerators using PyMedPhys
+- [Q003053](../berichte/Q00/Q0030/Q003053/README.de.md) False Sense of Supremacy: Emerging Technologies, the War in Ukraine, and the Risk of Nuclear Escalat
+- [Q004060](../berichte/Q00/Q0040/Q004060/README.de.md) https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf
+- [Q004474](../berichte/Q00/Q0044/Q004474/README.de.md) Findings from a Pilot Anthropic - OpenAI Alignment Evaluation Exercise
+- [Q005317](../berichte/Q00/Q0053/Q005317/README.de.md) Frontier Safety Roadmap Updates
+- [Q005322](../berichte/Q00/Q0053/Q005322/README.de.md) Announcements
+- [Q005326](../berichte/Q00/Q0053/Q005326/README.de.md) Features
+- [Q005330](../berichte/Q00/Q0053/Q005330/README.de.md) Models
+- [Q005336](../berichte/Q00/Q0053/Q005336/README.de.md) Partnerships
+- [Q005345](../berichte/Q00/Q0053/Q005345/README.de.md) Product
+- [Q005350](../berichte/Q00/Q0053/Q005350/README.de.md) Safeguards
+- [Q005355](../berichte/Q00/Q0053/Q005355/README.de.md) Security
+- [Q005392](../berichte/Q00/Q0053/Q005392/README.de.md) Measurements for understanding the pace of AI development inside frontier labs
+- [Q005401](../berichte/Q00/Q0054/Q005401/README.de.md) When AI builds itself
+- [Q009489](../berichte/Q00/Q0094/Q009489/README.de.md) Policy
+- [Q009504](../berichte/Q00/Q0095/Q009504/README.de.md) https://www.whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf
+- [Q009506](../berichte/Q00/Q0095/Q009506/README.de.md) https://www-cdn.anthropic.com/files/4zrzovbb/website/e2ae0c997653dfd8a7cf23d06f5f06fd84ccfd58.pdf
+- [Q009729](../berichte/Q00/Q0097/Q009729/README.de.md) https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf
+- [Q004891](../berichte/Q00/Q0048/Q004891/README.de.md) Anthropic raises $124 million Series A
+- [Q005046](../berichte/Q00/Q0050/Q005046/README.de.md) A general language assistant as a lab for alignment
+- [Q001373](../berichte/Q00/Q0013/Q001373/README.de.md) Predictability and surprise in large generative models
+- [Q005065](../berichte/Q00/Q0050/Q005065/README.de.md) Training a helpful and harmless assistant with RLHF
+- [Q005010](../berichte/Q00/Q0050/Q005010/README.de.md) Anthropic raises Series B to build robust AI
+- [Q004946](../berichte/Q00/Q0049/Q004946/README.de.md) Scaling laws of learning from repeated data
+- [Q004952](../berichte/Q00/Q0049/Q004952/README.de.md) Softmax linear units
+- [Q004921](../berichte/Q00/Q0049/Q004921/README.de.md) Language models (mostly) know what they know
+- [Q001310](../berichte/Q00/Q0013/Q001310/README.de.md) Red teaming language models to reduce harms
+- [Q004932](../berichte/Q00/Q0049/Q004932/README.de.md) Measuring progress on scalable oversight
+- [Q004894](../berichte/Q00/Q0048/Q004894/README.de.md) Constitutional AI: Harmlessness from AI feedback
+- [Q004901](../berichte/Q00/Q0049/Q004901/README.de.md) Discovering behaviors with model-written evaluations
+- [Q004972](../berichte/Q00/Q0049/Q004972/README.de.md) Superposition, memorization, and double descent
+- [Q004885](../berichte/Q00/Q0048/Q004885/README.de.md) Anthropic partners with Google Cloud
+- [Q001322](../berichte/Q00/Q0013/Q001322/README.de.md) Moral self-correction in large language models
+- [Q004100](../berichte/Q00/Q0041/Q004100/README.de.md) Anthropic's core views on AI safety
+- [Q002670](../berichte/Q00/Q0026/Q002670/README.de.md) Introducing Claude
+- [Q004938](../berichte/Q00/Q0049/Q004938/README.de.md) Privileged bases in the transformer residual stream
+- [Q004808](../berichte/Q00/Q0048/Q004808/README.de.md) An AI policy tool for today: Invest in NIST
+- [Q005031](../berichte/Q00/Q0050/Q005031/README.de.md) Partnering with Scale to bring generative AI to enterprises
+- [Q005057](../berichte/Q00/Q0050/Q005057/README.de.md) Distributed representations: Composition and superposition
+- [Q004109](../berichte/Q00/Q0041/Q004109/README.de.md) Claude's constitution
+- [Q002658](../berichte/Q00/Q0026/Q002658/README.de.md) Introducing 100K context windows
+- [Q005038](../berichte/Q00/Q0050/Q005038/README.de.md) Zoom partnership and investment in Anthropic
+- [Q004813](../berichte/Q00/Q0048/Q004813/README.de.md) Anthropic raises $450 million in Series C
+- [Q004917](../berichte/Q00/Q0049/Q004917/README.de.md) Interpretability dreams
+- [Q004818](../berichte/Q00/Q0048/Q004818/README.de.md) Charting a path to AI accountability
+- [Q001354](../berichte/Q00/Q0013/Q001354/README.de.md) Measuring subjective global opinions in LLMs
+- [Q003424](../berichte/Q00/Q0034/Q003424/README.de.md) Claude 2
+- [Q004929](../berichte/Q00/Q0049/Q004929/README.de.md) Measuring faithfulness in Chain-of-Thought reasoning
+- [Q004942](../berichte/Q00/Q0049/Q004942/README.de.md) Question decomposition improves reasoning faithfulness
+- [Q002638](../berichte/Q00/Q0026/Q002638/README.de.md) Frontier model security
+- [Q002630](../berichte/Q00/Q0026/Q002630/README.de.md) Frontier threats red teaming for AI safety
+- [Q003999](../berichte/Q00/Q0039/Q003999/README.de.md) Tracing model outputs to the training data
+- [Q004966](../berichte/Q00/Q0049/Q004966/README.de.md) LLM generalization with influence functions
+- [Q002625](../berichte/Q00/Q0026/Q002625/README.de.md) Releasing Claude Instant 1.2
+- [Q003401](../berichte/Q00/Q0034/Q003401/README.de.md) SKT partnership announcement
+- [Q004758](../berichte/Q00/Q0047/Q004758/README.de.md) Introducing Claude Pro
+- [Q003161](../berichte/Q00/Q0031/Q003161/README.de.md) Anthropic partners with BCG
+- [Q000800](../berichte/Q00/Q0008/Q000800/README.de.md) The Long-Term Benefit Trust
+- [Q003153](../berichte/Q00/Q0031/Q003153/README.de.md) Introducing Anthropic's Responsible Scaling Policy
+- [Q003432](../berichte/Q00/Q0034/Q003432/README.de.md) Prompting Claude's long context window
+- [Q003148](../berichte/Q00/Q0031/Q003148/README.de.md) Expanding access to safer AI with Amazon
+- [Q001347](../berichte/Q00/Q0013/Q001347/README.de.md) Challenges in evaluating AI systems
+- [Q003939](../berichte/Q00/Q0039/Q003939/README.de.md) Decomposing language models into components
+- [Q004988](../berichte/Q00/Q0049/Q004988/README.de.md) Towards monosemanticity
+- [Q001336](../berichte/Q00/Q0013/Q001336/README.de.md) Collective Constitutional AI
+- [Q004997](../berichte/Q00/Q0049/Q004997/README.de.md) Towards understanding sycophancy in language models
+- [Q004957](../berichte/Q00/Q0049/Q004957/README.de.md) Specific versus general principles for Constitutional AI
+- [Q003142](../berichte/Q00/Q0031/Q003142/README.de.md) Dario Amodei's remarks at the AI Safety Summit
+- [Q003137](../berichte/Q00/Q0031/Q003137/README.de.md) US Executive Order, G7 Code, and Bletchley Park
+- [Q002787](../berichte/Q00/Q0027/Q002787/README.de.md) Introducing Claude 2.1
+- [Q001304](../berichte/Q00/Q0013/Q001304/README.de.md) Evaluating discrimination in language model decisions
+- [Q004708](../berichte/Q00/Q0047/Q004708/README.de.md) Expanded legal protections and API improvements
+- [Q003835](../berichte/Q00/Q0038/Q003835/README.de.md) Deceptive LLMs that persist through safety training
+- [Q002780](../berichte/Q00/Q0027/Q002780/README.de.md) Preparing for global elections in 2024
+- [Q003563](../berichte/Q00/Q0035/Q003563/README.de.md) Prompt engineering for business performance
+- [Q002766](../berichte/Q00/Q0027/Q002766/README.de.md) Introducing the next generation of Claude
+- [Q002121](../berichte/Q00/Q0021/Q002121/README.de.md) Reflections on qualitative research
+- [Q002751](../berichte/Q00/Q0027/Q002751/README.de.md) Claude 3 Haiku: our fastest model yet
+- [Q003502](../berichte/Q00/Q0035/Q003502/README.de.md) Claude 3 models on Vertex AI
+- [Q003131](../berichte/Q00/Q0031/Q003131/README.de.md) Accenture, AWS, and Anthropic collaboration
+- [Q002616](../berichte/Q00/Q0026/Q002616/README.de.md) Third-party testing in AI policy
+- [Q003977](../berichte/Q00/Q0039/Q003977/README.de.md) Many-shot jailbreaking
+- [Q001838](../berichte/Q00/Q0018/Q001838/README.de.md) Measuring the persuasiveness of language models
+- [Q003875](../berichte/Q00/Q0038/Q003875/README.de.md) Simple probes can catch sleeper agents
+- [Q004699](../berichte/Q00/Q0046/Q004699/README.de.md) Aligning on child safety principles
+- [Q002133](../berichte/Q00/Q0021/Q002133/README.de.md) Circuits Updates – April 2024
+- [Q003417](../berichte/Q00/Q0034/Q003417/README.de.md) Updating our Usage Policy
+- [Q002739](../berichte/Q00/Q0027/Q002739/README.de.md) Claude is now available in the EU
+- [Q004694](../berichte/Q00/Q0046/Q004694/README.de.md) Mike Krieger joins as Chief Product Officer
+- [Q003125](../berichte/Q00/Q0031/Q003125/README.de.md) Reflections on our Responsible Scaling Policy
+- [Q003800](../berichte/Q00/Q0038/Q003800/README.de.md) Mapping the mind of a large language model
+- [Q004684](../berichte/Q00/Q0046/Q004684/README.de.md) Krishna Rao joins as Chief Financial Officer
+- [Q004115](../berichte/Q00/Q0041/Q004115/README.de.md) Golden Gate Claude
+- [Q004674](../berichte/Q00/Q0046/Q004674/README.de.md) Jay Kreps appointed to Anthropic's board
+- [Q003499](../berichte/Q00/Q0034/Q003499/README.de.md) Introducing Claude to Canada
+- [Q002210](../berichte/Q00/Q0022/Q002210/README.de.md) Testing and mitigating elections-related risks
+- [Q003985](../berichte/Q00/Q0039/Q003985/README.de.md) Claude's character
+- [Q002729](../berichte/Q00/Q0027/Q002729/README.de.md) Challenges in red teaming AI systems
+- [Q004123](../berichte/Q00/Q0041/Q004123/README.de.md) The engineering challenges of scaling interpretability
+- [Q003958](../berichte/Q00/Q0039/Q003958/README.de.md) Investigating reward tampering in language models
+- [Q002721](../berichte/Q00/Q0027/Q002721/README.de.md) Introducing Claude 3.5 Sonnet
+- [Q002700](../berichte/Q00/Q0027/Q002700/README.de.md) Collaborate with Claude on Projects
+- [Q004669](../berichte/Q00/Q0046/Q004669/README.de.md) Expanding access to Claude for government
+- [Q002111](../berichte/Q00/Q0021/Q002111/README.de.md) Circuits Updates – June 2024
+- [Q003114](../berichte/Q00/Q0031/Q003114/README.de.md) Funding third-party model evaluations
+- [Q004660](../berichte/Q00/Q0046/Q004660/README.de.md) Fine-tune Claude 3 Haiku in Amazon Bedrock
+- [Q004649](../berichte/Q00/Q0046/Q004649/README.de.md) Anthropic and Menlo Ventures launch Anthology Fund
+- [Q002115](../berichte/Q00/Q0021/Q002115/README.de.md) Circuits Updates – July 2024
+- [Q003472](../berichte/Q00/Q0034/Q003472/README.de.md) Claude is now available in Brazil
+- [Q004646](../berichte/Q00/Q0046/Q004646/README.de.md) Expanding our model safety bug bounty program
+- [Q002859](../berichte/Q00/Q0028/Q002859/README.de.md) Salesforce enhances Einstein with Claude
+- [Q002097](../berichte/Q00/Q0020/Q002097/README.de.md) Circuits Updates – August 2024
+- [Q002258](../berichte/Q00/Q0022/Q002258/README.de.md) Contextual retrieval in AI systems
+- [Q002104](../berichte/Q00/Q0021/Q002104/README.de.md) Circuits Updates – September 2024
+- [Q004635](../berichte/Q00/Q0046/Q004635/README.de.md) U.S. elections readiness
+- [Q003194](../berichte/Q00/Q0031/Q003194/README.de.md) Our updated Responsible Scaling Policy
+- [Q003951](../berichte/Q00/Q0039/Q003951/README.de.md) Sabotage evaluations for frontier models
+- [Q003447](../berichte/Q00/Q0034/Q003447/README.de.md) Developing a computer use model
+- [Q003744](../berichte/Q00/Q0037/Q003744/README.de.md) Computer use, Claude 3.5 Sonnet, and Claude 3.5 Haiku
+- [Q001217](../berichte/Q00/Q0012/Q001217/README.de.md) Evaluating feature steering
+- [Q004629](../berichte/Q00/Q0046/Q004629/README.de.md) Claude 3.5 Sonnet on GitHub Copilot
+- [Q004624](../berichte/Q00/Q0046/Q004624/README.de.md) The case for targeted regulation
+- [Q003807](../berichte/Q00/Q0038/Q003807/README.de.md) A statistical approach to model evaluations
+- [Q004618](../berichte/Q00/Q0046/Q004618/README.de.md) Powering AI development with AWS
+- [Q004602](../berichte/Q00/Q0046/Q004602/README.de.md) Introducing the Model Context Protocol
+- [Q001456](../berichte/Q00/Q0014/Q001456/README.de.md) Clio: Privacy-preserving insights into AI use
+- [Q004594](../berichte/Q00/Q0045/Q004594/README.de.md) Elections and AI in 2024: Observations
+- [Q004030](../berichte/Q00/Q0040/Q004030/README.de.md) Alignment faking in large language models
+- [Q004053](../berichte/Q00/Q0040/Q004053/README.de.md) Building effective AI agents
+- [Q004066](../berichte/Q00/Q0040/Q004066/README.de.md) Claude SWE-Bench performance
+- [Q003182](../berichte/Q00/Q0031/Q003182/README.de.md) Anthropic achieves ISO 42001 certification
+- [Q004181](../berichte/Q00/Q0041/Q004181/README.de.md) Constitutional Classifiers
+- [Q004588](../berichte/Q00/Q0045/Q004588/README.de.md) Lyft brings Claude to 40 million riders
+- [Q001737](../berichte/Q00/Q0017/Q001737/README.de.md) Introducing the Anthropic Economic Index
+- [Q004580](../berichte/Q00/Q0045/Q004580/README.de.md) Dario Amodei on the Paris AI Action Summit
+- [Q004576](../berichte/Q00/Q0045/Q004576/README.de.md) Anthropic signs MOU with the UK Government
+- [Q002687](../berichte/Q00/Q0026/Q002687/README.de.md) Claude 3.7 Sonnet and Claude Code
+- [Q004368](../berichte/Q00/Q0043/Q004368/README.de.md) Forecasting rare language model behaviors
+- [Q004566](../berichte/Q00/Q0045/Q004566/README.de.md) Claude and Alexa+
+- [Q003175](../berichte/Q00/Q0031/Q003175/README.de.md) Introducing Anthropic's Transparency Hub
+- [Q004560](../berichte/Q00/Q0045/Q004560/README.de.md) Anthropic joins the 1,000 Scientist AI Jam
+- [Q004555](../berichte/Q00/Q0045/Q004555/README.de.md) Anthropic raises Series E at $61.5B valuation
+- [Q004548](../berichte/Q00/Q0045/Q004548/README.de.md) Recommendations to OSTP for the US AI Action Plan
+- [Q002088](../berichte/Q00/Q0020/Q002088/README.de.md) Auditing language models for hidden objectives
+- [Q001579](../berichte/Q00/Q0015/Q001579/README.de.md) Progress from our Frontier Red Team
+- [Q004544](../berichte/Q00/Q0045/Q004544/README.de.md) Response to Governor Newsom's AI working grou
+- [Q003776](../berichte/Q00/Q0037/Q003776/README.de.md) The "think" tool for complex tool use
+- [Q001604](../berichte/Q00/Q0016/Q001604/README.de.md) Economic Index: Insights from Claude 3.7 Sonnet
+- [Q002058](../berichte/Q00/Q0020/Q002058/README.de.md) Tracing the thoughts of a large language model
+- [Q003510](../berichte/Q00/Q0035/Q003510/README.de.md) Introducing Claude for education
+- [Q003168](../berichte/Q00/Q0031/Q003168/README.de.md) Code with Claude: Anthropic's first developer conference
+- [Q004388](../berichte/Q00/Q0043/Q004388/README.de.md) Reasoning models don't always say what they think
+- [Q001365](../berichte/Q00/Q0013/Q001365/README.de.md) Anthropic Education Report: How University Students Use Claude
+- [Q004537](../berichte/Q00/Q0045/Q004537/README.de.md) Guillaume Princen appointed Head of EMEA
+- [Q000898](../berichte/Q00/Q0008/Q000898/README.de.md) Claude Code Best Practices
+- [Q001859](../berichte/Q00/Q0018/Q001859/README.de.md) Values in the wild
+- [Q002839](../berichte/Q00/Q0028/Q002839/README.de.md) Understanding and addressing AI harms
+- [Q002834](../berichte/Q00/Q0028/Q002834/README.de.md) Detecting and countering malicious uses of Claude
+- [Q001980](../berichte/Q00/Q0019/Q001980/README.de.md) Exploring model welfare
+- [Q001436](../berichte/Q00/Q0014/Q001436/README.de.md) Economic Index: AI's impact on software development
+- [Q004530](../berichte/Q00/Q0045/Q004530/README.de.md) Introducing the Anthropic Economic Advisory Council
+- [Q002199](../berichte/Q00/Q0021/Q002199/README.de.md) Anthropic's position on the diffusion rule
+- [Q002246](../berichte/Q00/Q0022/Q002246/README.de.md) Introducing Anthropic's AI for Science Program
+- [Q004517](../berichte/Q00/Q0045/Q004517/README.de.md) Testing safety defenses with a bug bounty
+- [Q003397](../berichte/Q00/Q0033/Q003397/README.de.md) Introducing Claude 4
+- [Q004514](../berichte/Q00/Q0045/Q004514/README.de.md) Activating AI Safety Level 3 protections
+- [Q004508](../berichte/Q00/Q0045/Q004508/README.de.md) Reed Hastings appointed to Anthropic's board
+- [Q003831](../berichte/Q00/Q0038/Q003831/README.de.md) Open-sourcing circuit-tracing tools
+- [Q002213](../berichte/Q00/Q0022/Q002213/README.de.md) Claude Gov models for US national security
+- [Q004502](../berichte/Q00/Q0045/Q004502/README.de.md) Richard Fontaine joins the Long-Term Benefit Trust
+- [Q002826](../berichte/Q00/Q0028/Q002826/README.de.md) Claude in Amazon Bedrock: FedRAMP High and DoD IL4/5
+- [Q001038](../berichte/Q00/Q0010/Q001038/README.de.md) Cyber toolkits for LLMs
+- [Q004085](../berichte/Q00/Q0040/Q004085/README.de.md) How we built our multi-agent research system
+- [Q004397](../berichte/Q00/Q0043/Q004397/README.de.md) SHADE-Arena: Evaluating sabotage in LLM agents
+- [Q004093](../berichte/Q00/Q0040/Q004093/README.de.md) Confidential Inference via trusted VMs
+- [Q004418](../berichte/Q00/Q0044/Q004418/README.de.md) Agentic misalignment: LLMs as insider threats
+- [Q003769](../berichte/Q00/Q0037/Q003769/README.de.md) Desktop Extensions: One-click MCP installs
+- [Q001190](../berichte/Q00/Q0011/Q001190/README.de.md) Project Vend: Can Claude run a small shop?
+- [Q002225](../berichte/Q00/Q0022/Q002225/README.de.md) How people use Claude for support and advice
+- [Q003387](../berichte/Q00/Q0033/Q003387/README.de.md) Anthropic Economic Futures Program Launch
+- [Q005181](../berichte/Q00/Q0051/Q005181/README.de.md) A framework for AI development transparency
+- [Q003487](../berichte/Q00/Q0034/Q003487/README.de.md) Advancing Claude for Education
+- [Q004498](../berichte/Q00/Q0044/Q004498/README.de.md) Claude for Enterprise powers LLNL research
+- [Q004489](../berichte/Q00/Q0044/Q004489/README.de.md) Anthropic awarded $200M DOD agreement
+- [Q001070](../berichte/Q00/Q0010/Q001070/README.de.md) Cyber evaluations of Claude 4
+- [Q003574](../berichte/Q00/Q0035/Q003574/README.de.md) Claude for Financial Services
+- [Q003749](../berichte/Q00/Q0037/Q003749/README.de.md) Paul Smith to join as Chief Commercial Officer
+- [Q004483](../berichte/Q00/Q0044/Q004483/README.de.md) Investing in energy to secure America's AI future
+- [Q003230](../berichte/Q00/Q0032/Q003230/README.de.md) Build AI in America: Anthropic Energy Report
+- [Q004473](../berichte/Q00/Q0044/Q004473/README.de.md) Anthropic to sign the EU Code of Practice
+- [Q003215](../berichte/Q00/Q0032/Q003215/README.de.md) Thoughts on America’s AI Action Plan
+- [Q004466](../berichte/Q00/Q0044/Q004466/README.de.md) Anthropic partners with UChicago's Becker Friedman Institute
+- [Q003221](../berichte/Q00/Q0032/Q003221/README.de.md) Anthropic signs CMS health tech pledge
+- [Q004148](../berichte/Q00/Q0041/Q004148/README.de.md) Persona vectors: Controlling character traits
+- [Q004459](../berichte/Q00/Q0044/Q004459/README.de.md) Our framework for safe and trustworthy agents
+- [Q002812](../berichte/Q00/Q0028/Q002812/README.de.md) Federal agencies can purchase Claude via GSA
+- [Q002821](../berichte/Q00/Q0028/Q002821/README.de.md) Claude Opus 4.1
+- [Q004444](../berichte/Q00/Q0044/Q004444/README.de.md) Hidetoshi Tojo appointed Head of Japan
+- [Q001088](../berichte/Q00/Q0010/Q001088/README.de.md) Claude does cyber competitions
+- [Q002194](../berichte/Q00/Q0021/Q002194/README.de.md) Building safeguards for Claude
+- [Q002588](../berichte/Q00/Q0025/Q002588/README.de.md) Expanded Claude access across the US government
+- [Q002393](../berichte/Q00/Q0023/Q002393/README.de.md) Claude Opus 4 and 4.1 can end certain conversations
+- [Q003210](../berichte/Q00/Q0032/Q003210/README.de.md) Usage Policy update
+- [Q004439](../berichte/Q00/Q0044/Q004439/README.de.md) Claude Code and admin controls for business plans
+- [Q000985](../berichte/Q00/Q0009/Q000985/README.de.md) Developing nuclear safeguards for AI
+- [Q003197](../berichte/Q00/Q0031/Q003197/README.de.md) Higher education advisory board and AI Fluency courses
+- [Q003375](../berichte/Q00/Q0033/Q003375/README.de.md) Developing nuclear safeguards for AI through public-private partnership
+- [Q001499](../berichte/Q00/Q0014/Q001499/README.de.md) Education Report: How educators use Claude
+- [Q003033](../berichte/Q00/Q0030/Q003033/README.de.md) Detecting and countering misuse of AI: August 2025
+- [Q003286](../berichte/Q00/Q0032/Q003286/README.de.md) National Security and Public Sector Advisory Council
+- [Q003283](../berichte/Q00/Q0032/Q003283/README.de.md) Updates to Consumer Terms and Privacy Policy
+- [Q005249](../berichte/Q00/Q0052/Q005249/README.de.md) Anthropic raises $13B Series F at $183B valuation
+- [Q005270](../berichte/Q00/Q0052/Q005270/README.de.md) Updating sales restrictions for unsupported regions
+- [Q001065](../berichte/Q00/Q0010/Q001065/README.de.md) LLMs and biorisk
+- [Q003269](../berichte/Q00/Q0032/Q003269/README.de.md) Anthropic is endorsing SB 53
+- [Q003764](../berichte/Q00/Q0037/Q003764/README.de.md) Writing effective tools for AI agents
+- [Q002173](../berichte/Q00/Q0021/Q002173/README.de.md) Strengthening safeguards with US CAISI and UK AISI
+- [Q001554](../berichte/Q00/Q0015/Q001554/README.de.md) Economic Index: AI's role in the US and global economy
+- [Q001896](../berichte/Q00/Q0018/Q001896/README.de.md) Economic Index: Uneven AI adoption
+- [Q003458](../berichte/Q00/Q0034/Q003458/README.de.md) Claude is now generally available in Xcode
+- [Q002279](../berichte/Q00/Q0022/Q002279/README.de.md) A postmortem of three recent issues
+- [Q003263](../berichte/Q00/Q0032/Q003263/README.de.md) Chris Ciauri named Managing Director of International
+- [Q001829](../berichte/Q00/Q0018/Q001829/README.de.md) Building AI for cyber defenders
+- [Q002268](../berichte/Q00/Q0022/Q002268/README.de.md) Effective context engineering for AI agents
+- [Q002806](../berichte/Q00/Q0028/Q002806/README.de.md) Introducing Claude Sonnet 4.5
+- [Q002852](../berichte/Q00/Q0028/Q002852/README.de.md) Enabling Claude Code to work more autonomously
+- [Q003259](../berichte/Q00/Q0032/Q003259/README.de.md) Deloitte brings Claude to 470,000 people
+- [Q003817](../berichte/Q00/Q0038/Q003817/README.de.md) Petri: An open-source AI auditing tool
+- [Q005099](../berichte/Q00/Q0050/Q005099/README.de.md) Anthropic expands to India with Bengaluru office
+- [Q005174](../berichte/Q00/Q0051/Q005174/README.de.md) Rahul Patil joins as Chief Technology Officer
+- [Q002073](../berichte/Q00/Q0020/Q002073/README.de.md) A small number of samples can poison LLMs
+- [Q001421](../berichte/Q00/Q0014/Q001421/README.de.md) Preparing for AI's economic impact
+- [Q003252](../berichte/Q00/Q0032/Q003252/README.de.md) Salesforce and Anthropic expand partnership
+- [Q004785](../berichte/Q00/Q0047/Q004785/README.de.md) Introducing Claude Haiku 4.5
+- [Q002288](../berichte/Q00/Q0022/Q002288/README.de.md) Equipping agents with Agent Skills
+- [Q004777](../berichte/Q00/Q0047/Q004777/README.de.md) Neu: Agenten-Skills
+- [Q003528](../berichte/Q00/Q0035/Q003528/README.de.md) Claude for Life Sciences
+- [Q004845](../berichte/Q00/Q0048/Q004845/README.de.md) Dario Amodei on American AI leadership
+- [Q005092](../berichte/Q00/Q0050/Q005092/README.de.md) Seoul becomes Anthropic's third APAC office
+- [Q005160](../berichte/Q00/Q0051/Q005160/README.de.md) Expanding our use of Google Cloud TPUs
+- [Q004737](../berichte/Q00/Q0047/Q004737/README.de.md) Advancing Claude for Financial Services
+- [Q003900](../berichte/Q00/Q0039/Q003900/README.de.md) Emergent introspective awareness in LLMs
+- [Q005313](../berichte/Q00/Q0053/Q005313/README.de.md) Anthropic opens Tokyo office
+- [Q002379](../berichte/Q00/Q0023/Q002379/README.de.md) Code execution with MCP for efficient agents
+- [Q003234](../berichte/Q00/Q0032/Q003234/README.de.md) Iceland launches a national AI education pilot
+- [Q003245](../berichte/Q00/Q0032/Q003245/README.de.md) Cognizant brings Claude to 350,000 employees
+- [Q005140](../berichte/Q00/Q0051/Q005140/README.de.md) Commitments on model deprecation and preservation
+- [Q005406](../berichte/Q00/Q0054/Q005406/README.de.md) Commitments on model deprecation and preservation
+- [Q005017](../berichte/Q00/Q0050/Q005017/README.de.md) Economic Futures Programme in the UK and Europe
+- [Q001238](../berichte/Q00/Q0012/Q001238/README.de.md) Project Fetch: Can Claude train a robot dog?
+- [Q005111](../berichte/Q00/Q0051/Q005111/README.de.md) Anthropic invests $50 billion in American AI infrastructure
+- [Q001624](../berichte/Q00/Q0016/Q001624/README.de.md) Measuring political bias in Claude
+- [Q002158](../berichte/Q00/Q0021/Q002158/README.de.md) Disrupting an AI-orchestrated cyber espionage campaign
+- [Q004840](../berichte/Q00/Q0048/Q004840/README.de.md) Maryland partners with Anthropic to serve residents
+- [Q004750](../berichte/Q00/Q0047/Q004750/README.de.md) Claude in Microsoft Foundry and 365 Copilot
+- [Q005218](../berichte/Q00/Q0052/Q005218/README.de.md) Anthropic brings AI education to Africa with Rwanda and ALX
+- [Q005289](../berichte/Q00/Q0052/Q005289/README.de.md) Microsoft, NVIDIA, and Anthropic partnerships
+- [Q004433](../berichte/Q00/Q0044/Q004433/README.de.md) Natural emergent misalignment from reward hacking
+- [Q002309](../berichte/Q00/Q0023/Q002309/README.de.md) Introducing advanced tool use for Claude
+- [Q002972](../berichte/Q00/Q0029/Q002972/README.de.md) Introducing Claude Opus 4.5
+- [Q004189](../berichte/Q00/Q0041/Q004189/README.de.md) Mitigating prompt injections in browser use
+- [Q002314](../berichte/Q00/Q0023/Q002314/README.de.md) Effective harnesses for long-running agents
+- [Q001029](../berichte/Q00/Q0010/Q001029/README.de.md) AI agents find smart contract exploits
+- [Q001512](../berichte/Q00/Q0015/Q001512/README.de.md) How AI is transforming work at Anthropic
+- [Q002242](../berichte/Q00/Q0022/Q002242/README.de.md) Introducing Claude for Nonprofits
+- [Q003347](../berichte/Q00/Q0033/Q003347/README.de.md) Snowflake and Anthropic announce $200M partnership
+- [Q004852](../berichte/Q00/Q0048/Q004852/README.de.md) Anthropic acquires Bun as Claude Code hits $1B
+- [Q001698](../berichte/Q00/Q0016/Q001698/README.de.md) Introducing Anthropic Interviewer
+- [Q003344](../berichte/Q00/Q0033/Q003344/README.de.md) Accenture and Anthropic launch partnership
+- [Q005204](../berichte/Q00/Q0052/Q005204/README.de.md) Donating MCP to the Agentic AI Foundation
+- [Q001001](../berichte/Q00/Q0010/Q001001/README.de.md) Project Vend: Phase two
+- [Q002957](../berichte/Q00/Q0029/Q002957/README.de.md) Protecting the wellbeing of our users
+- [Q003338](../berichte/Q00/Q0033/Q003338/README.de.md) Working with the US Department of Energy
+- [Q002187](../berichte/Q00/Q0021/Q002187/README.de.md) Our compliance framework for California's SB 53
+- [Q004198](../berichte/Q00/Q0041/Q004198/README.de.md) Introducing Bloom: Automated behavioral evals
+- [Q001075](../berichte/Q00/Q0010/Q001075/README.de.md) AI to defend critical infrastructure
+- [Q002365](../berichte/Q00/Q0023/Q002365/README.de.md) Demystifying evals for AI agents
+- [Q004427](../berichte/Q00/Q0044/Q004427/README.de.md) Next-generation Constitutional Classifiers
+- [Q002946](../berichte/Q00/Q0029/Q002946/README.de.md) Advancing Claude in healthcare and the life sciences
+- [Q005283](../berichte/Q00/Q0052/Q005283/README.de.md) Introducing Labs
+- [Q001011](../berichte/Q00/Q0010/Q001011/README.de.md) Finding bugs with Claude and property-based testing
+- [Q000682](../berichte/Q00/Q0006/Q000682/README.de.md) How scientists use Claude to accelerate research
+- [Q001414](../berichte/Q00/Q0014/Q001414/README.de.md) Economic Index report: Economic primitives
+- [Q001563](../berichte/Q00/Q0015/Q001563/README.de.md) Economic Index: New building blocks for AI use
+- [Q005149](../berichte/Q00/Q0051/Q005149/README.de.md) Irina Ghose named Managing Director of India
+- [Q003932](../berichte/Q00/Q0039/Q003932/README.de.md) The assistant axis
+- [Q002486](../berichte/Q00/Q0024/Q002486/README.de.md) Designing AI resistant technical evaluations
+- [Q003331](../berichte/Q00/Q0033/Q003331/README.de.md) Anthropic and Teach For All train educators on AI
+- [Q005211](../berichte/Q00/Q0052/Q005211/README.de.md) Mariano-Florentino Cuéllar appointed to Long-Term Benefit Trust
+- [Q003321](../berichte/Q00/Q0033/Q003321/README.de.md) Claude's new constitution
+- [Q003307](../berichte/Q00/Q0033/Q003307/README.de.md) Anthropic partners with the UK Government on GOV.UK
+- [Q002388](../berichte/Q00/Q0023/Q002388/README.de.md) Disempowerment patterns in real-world AI usage
+- [Q003368](../berichte/Q00/Q0033/Q003368/README.de.md) ServiceNow chooses Claude
+- [Q002046](../berichte/Q00/Q0020/Q002046/README.de.md) How AI assistance impacts the formation of coding skills
+- [Q003048](../berichte/Q00/Q0030/Q003048/README.de.md) Anthropic partners with Allen Institute and HHMI
+- [Q003363](../berichte/Q00/Q0033/Q003363/README.de.md) Apple’s Xcode now supports the Claude Agent SDK
+- [Q003358](../berichte/Q00/Q0033/Q003358/README.de.md) Claude is a space to think
+- [Q000972](../berichte/Q00/Q0009/Q000972/README.de.md) LLM-discovered 0 days
+- [Q002320](../berichte/Q00/Q0023/Q002320/README.de.md) Infrastructure noise in agentic coding evals
+- [Q002372](../berichte/Q00/Q0023/Q002372/README.de.md) Building a C compiler with parallel Claudes
+- [Q002937](../berichte/Q00/Q0029/Q002937/README.de.md) Claude Opus 4.6
+- [Q005085](../berichte/Q00/Q0050/Q005085/README.de.md) Covering electricity price increases
+- [Q005121](../berichte/Q00/Q0051/Q005121/README.de.md) Anthropic raises $30B Series G at $380B valuation
+- [Q005303](../berichte/Q00/Q0053/Q005303/README.de.md) Anthropic is donating $20 million to Public First Action
+- [Q003354](../berichte/Q00/Q0033/Q003354/README.de.md) Anthropic partners with CodePath
+- [Q005136](../berichte/Q00/Q0051/Q005136/README.de.md) Chris Liddell appointed to Anthropic's board
+- [Q001953](../berichte/Q00/Q0019/Q001953/README.de.md) India Country Brief: Anthropic Economic Index
+- [Q005128](../berichte/Q00/Q0051/Q005128/README.de.md) Anthropic opens Bengaluru office
+- [Q002925](../berichte/Q00/Q0029/Q002925/README.de.md) Introducing Sonnet 4.6
+- [Q003351](../berichte/Q00/Q0033/Q003351/README.de.md) Anthropic and Infosys build AI agents
+- [Q005228](../berichte/Q00/Q0052/Q005228/README.de.md) Rwanda and Anthropic sign MOU for health and education
+- [Q001182](../berichte/Q00/Q0011/Q001182/README.de.md) Measuring AI agent autonomy in practice
+- [Q002919](../berichte/Q00/Q0029/Q002919/README.de.md) Making frontier cybersecurity capabilities available to defenders
+- [Q002154](../berichte/Q00/Q0021/Q002154/README.de.md) Detecting and preventing distillation attacks
+- [Q004223](../berichte/Q00/Q0042/Q004223/README.de.md) The persona selection model
+- [Q002184](../berichte/Q00/Q0021/Q002184/README.de.md) Responsible Scaling Policy Version 3.0
+- [Q003546](../berichte/Q00/Q0035/Q003546/README.de.md) Model deprecation update for Claude Opus 3
+- [Q004875](../berichte/Q00/Q0048/Q004875/README.de.md) Anthropic acquires Vercept
+- [Q005257](../berichte/Q00/Q0052/Q005257/README.de.md) Dario Amodei on the Department of War discussions
+- [Q003379](../berichte/Q00/Q0033/Q003379/README.de.md) Statement on the comments from Secretary of War Pete Hegseth
+- [Q001666](../berichte/Q00/Q0016/Q001666/README.de.md) Labor market impacts of AI: A new measure
+- [Q005186](../berichte/Q00/Q0051/Q005186/README.de.md) Where things stand with the Department of War
+- [Q001052](../berichte/Q00/Q0010/Q001052/README.de.md) Reverse engineering Claude's CVE-2026-2796 exploit
+- [Q002325](../berichte/Q00/Q0023/Q002325/README.de.md) Eval awareness in Opus 4.6 on BrowseComp
+- [Q002911](../berichte/Q00/Q0029/Q002911/README.de.md) Partnering with Mozilla on Firefox security
+- [Q005383](../berichte/Q00/Q0053/Q005383/README.de.md) Coordinated vulnerability disclosure for Claude-discovered vulnerabilities
+- [Q005224](../berichte/Q00/Q0052/Q005224/README.de.md) Sydney becomes Anthropic's fourth APAC office
+- [Q003413](../berichte/Q00/Q0034/Q003413/README.de.md) Introducing The Anthropic Institute
+- [Q004802](../berichte/Q00/Q0048/Q004802/README.de.md) $100 million for the Claude Partner Network
+- [Q003909](../berichte/Q00/Q0039/Q003909/README.de.md) A "diff" tool for AI models
+- [Q000813](../berichte/Q00/Q0008/Q000813/README.de.md) Vibe physics: The AI grad student
+- [Q003865](../berichte/Q00/Q0038/Q003865/README.de.md) Long-running Claude for scientific computing
+- [Q004226](../berichte/Q00/Q0042/Q004226/README.de.md) Introducing our Science Blog
+- [Q001772](../berichte/Q00/Q0017/Q001772/README.de.md) Anthropic Economic Index report: Learning curves
+- [Q002492](../berichte/Q00/Q0024/Q002492/README.de.md) Harness design for long-running apps
+- [Q001709](../berichte/Q00/Q0017/Q001709/README.de.md) How Australia uses Claude
+- [Q004830](../berichte/Q00/Q0048/Q004830/README.de.md) Australia and Anthropic sign AI safety MOU
+- [Q004170](../berichte/Q00/Q0041/Q004170/README.de.md) Emotion concepts in a large language model
+- [Q005358](../berichte/Q00/Q0053/Q005358/README.de.md) Frontier Safety Roadmap
+- [Q005168](../berichte/Q00/Q0051/Q005168/README.de.md) Anthropic expands Google and Broadcom compute deal
+- [Q001132](../berichte/Q00/Q0011/Q001132/README.de.md) Claude Mythos Preview's cybersecurity capabilities
+- [Q000885](../berichte/Q00/Q0008/Q000885/README.de.md) Scaling Managed Agents with stable interfaces
+- [Q001742](../berichte/Q00/Q0017/Q001742/README.de.md) Trustworthy agents in practice
+- [Q004013](../berichte/Q00/Q0040/Q004013/README.de.md) Automated Alignment Researchers
+- [Q005025](../berichte/Q00/Q0050/Q005025/README.de.md) Vas Narasimhan appointed to Board of Directors
+- [Q004728](../berichte/Q00/Q0047/Q004728/README.de.md) Introducing Claude Opus 4.7
+- [Q002903](../berichte/Q00/Q0029/Q002903/README.de.md) Introducing Claude Design by Anthropic Labs
+- [Q004861](../berichte/Q00/Q0048/Q004861/README.de.md) Anthropic and Amazon expand compute collaboration
+- [Q001204](../berichte/Q00/Q0012/Q001204/README.de.md) What 81,000 people told us about AI economics
+- [Q001619](../berichte/Q00/Q0016/Q001619/README.de.md) Announcing the Anthropic Economic Index Survey
+- [Q002344](../berichte/Q00/Q0023/Q002344/README.de.md) An update on Claude Code quality reports
+- [Q002898](../berichte/Q00/Q0028/Q002898/README.de.md) An update on our election safeguards
+- [Q003076](../berichte/Q00/Q0030/Q003076/README.de.md) Anthropic and NEC build AI engineering in Japan
+- [Q005073](../berichte/Q00/Q0050/Q005073/README.de.md) Anthropic opens Sydney office, names ANZ GM
+- [Q004743](../berichte/Q00/Q0047/Q004743/README.de.md) Claude for Creative Work
+- [Q004254](../berichte/Q00/Q0042/Q004254/README.de.md) Evaluating Claude with BioMysteryBench
+- [Q001653](../berichte/Q00/Q0016/Q001653/README.de.md) How people ask Claude for personal guidance
+- [Q003071](../berichte/Q00/Q0030/Q003071/README.de.md) Building a new enterprise AI services company
+- [Q002891](../berichte/Q00/Q0028/Q002891/README.de.md) Agents for financial services
+- [Q003439](../berichte/Q00/Q0034/Q003439/README.de.md) Higher usage limits and a SpaceX compute deal
+- [Q003063](../berichte/Q00/Q0030/Q003063/README.de.md) Focus areas for The Anthropic Institute
+- [Q003842](../berichte/Q00/Q0038/Q003842/README.de.md) Donating our open-source alignment tool
+- [Q003886](../berichte/Q00/Q0038/Q003886/README.de.md) Natural Language Autoencoders
+- [Q002036](../berichte/Q00/Q0020/Q002036/README.de.md) Teaching Claude why
+- [Q003089](../berichte/Q00/Q0030/Q003089/README.de.md) PwC deploys Claude across its business
+- [Q003588](../berichte/Q00/Q0035/Q003588/README.de.md) 2028: Two scenarios for global AI leadership
+- [Q005277](../berichte/Q00/Q0052/Q005277/README.de.md) Anthropic partners with the Gates Foundation
+- [Q005247](../berichte/Q00/Q0052/Q005247/README.de.md) Anthropic acquires Stainless
+- [Q003081](../berichte/Q00/Q0030/Q003081/README.de.md) Widening the conversation on frontier AI
+- [Q003098](../berichte/Q00/Q0030/Q003098/README.de.md) KPMG integrates Claude across its workforce
+- [Q001815](../berichte/Q00/Q0018/Q001815/README.de.md) Measuring LLMs’ ability to develop exploits
+- [Q005310](../berichte/Q00/Q0053/Q005310/README.de.md) Project Glasswing: An initial update
+- [Q002355](../berichte/Q00/Q0023/Q002355/README.de.md) How we contain Claude across products
+- [Q004837](../berichte/Q00/Q0048/Q004837/README.de.md) Chris Olah's remarks on Pope Leo XIV's encyclical
+- [Q004865](../berichte/Q00/Q0048/Q004865/README.de.md) KiYoung Choi named Representative Director of Korea
+- [Q000934](../berichte/Q00/Q0009/Q000934/README.de.md) Coding agents in the social sciences
+- [Q005237](../berichte/Q00/Q0052/Q005237/README.de.md) Anthropic opens Milan office
+- [Q004795](../berichte/Q00/Q0047/Q004795/README.de.md) Introducing Claude Opus 4.8
+- [Q005071](../berichte/Q00/Q0050/Q005071/README.de.md) Anthropic raises $65B Series H at $965B valuation
+- [Q004820](../berichte/Q00/Q0048/Q004820/README.de.md) Anthropic confidentially submits draft S-1
+- [Q002177](../berichte/Q00/Q0021/Q002177/README.de.md) Expanding Project Glasswing
+- [Q001822](../berichte/Q00/Q0018/Q001822/README.de.md) Mapping AI-enabled cyber threats
+- [Q002880](../berichte/Q00/Q0028/Q002880/README.de.md) Claude Partner Network Services Track and Partner Hub
+- [Q005297](../berichte/Q00/Q0052/Q005297/README.de.md) Mapping AI-enabled cyber threats
+- [Q004271](../berichte/Q00/Q0042/Q004271/README.de.md) Making Claude a chemist
+- [Q001474](../berichte/Q00/Q0014/Q001474/README.de.md) Measuring LLMs' impact on N-day exploits
+- [Q004286](../berichte/Q00/Q0042/Q004286/README.de.md) Paving the way for AI agents in biology
+- [Q003537](../berichte/Q00/Q0035/Q003537/README.de.md) Claude Fable 5 and Claude Mythos 5
+- [Q003645](../berichte/Q00/Q0036/Q003645/README.de.md) Introducing Claude Corps
+- [Q005155](../berichte/Q00/Q0051/Q005155/README.de.md) DXC integrates Claude for regulated industries
+- [Q001804](../berichte/Q00/Q0018/Q001804/README.de.md) Results from first Anthropic Public Record
+- [Q003383](../berichte/Q00/Q0033/Q003383/README.de.md) Statement on the directive to suspend Fable 5 access
+- [Q005264](../berichte/Q00/Q0052/Q005264/README.de.md) TCS brings Claude to regulated industries
+- [Q001253](../berichte/Q00/Q0012/Q001253/README.de.md) How Claude Code is used in practice
+- [Q003638](../berichte/Q00/Q0036/Q003638/README.de.md) Anthropic opens Seoul office
+- [Q001445](../berichte/Q00/Q0014/Q001445/README.de.md) Project Fetch: Phase two
+- [Q004767](../berichte/Q00/Q0047/Q004767/README.de.md) Introducing Claude Tag
+- [Q001121](../berichte/Q00/Q0011/Q001121/README.de.md) Anthropic Economic Index report: Cadences
+- [Q003023](../berichte/Q00/Q0030/Q003023/README.de.md) Redeploying Claude Fable 5
+- [Q003670](../berichte/Q00/Q0036/Q003670/README.de.md) Claude Science, an AI workbench for scientists
+- [Q003674](../berichte/Q00/Q0036/Q003674/README.de.md) Introducing Claude Sonnet 5
+- [Q003004](../berichte/Q00/Q0030/Q003004/README.de.md) Fable 5's cyber safeguards and our jailbreak framework
+- [Q003793](../berichte/Q00/Q0037/Q003793/README.de.md) A global workspace in language models
+- [Q005243](../berichte/Q00/Q0052/Q005243/README.de.md) Alberta uses Claude to find and fix security vulnerabilities
+- [Q003780](../berichte/Q00/Q0037/Q003780/README.de.md) An off switch for dual-use knowledge
+- [Q001160](../berichte/Q00/Q0011/Q001160/README.de.md) How Claude performs on robotics tasks
+- [Q003105](../berichte/Q00/Q0031/Q003105/README.de.md) UST is bringing Claude to physical AI
+- [Q003627](../berichte/Q00/Q0036/Q003627/README.de.md) Inviting hard questions
+- [Q003683](../berichte/Q00/Q0036/Q003683/README.de.md) A new way to reflect on how you use Claude
+- [Q005081](../berichte/Q00/Q0050/Q005081/README.de.md) Ben Bernanke joins the Long-Term Benefit Trust
+- [Q001540](../berichte/Q00/Q0015/Q001540/README.de.md) How Claude's values vary by model and language
+- [Q001275](../berichte/Q00/Q0012/Q001275/README.de.md) How Canada uses Claude
+- [Q003617](../berichte/Q00/Q0036/Q003617/README.de.md) Anthropic commits $10 million to Canadian AI research
+- [Q003687](../berichte/Q00/Q0036/Q003687/README.de.md) Introducing Claude for Teachers
+- [Q003600](../berichte/Q00/Q0036/Q003600/README.de.md) AI for Science rare disease research grants
+- [Q005195](../berichte/Q00/Q0051/Q005195/README.de.md) Donating another $20 million to Public First Action
+- [Q003653](../berichte/Q00/Q0036/Q003653/README.de.md) Economic Futures Research Fund agenda
+- [Q003690](../berichte/Q00/Q0036/Q003690/README.de.md) The Anthropic Economic Index connector
+- [Q001523](../berichte/Q00/Q0015/Q001523/README.de.md) Project Pilot: Can AI models fly drones?
+- [Q003698](../berichte/Q00/Q0036/Q003698/README.de.md) Introducing Claude Opus 5
+- [Q003239](../berichte/Q00/Q0032/Q003239/README.de.md) Expanding our partnership with Cognizant
+- [Q004713](../berichte/Q00/Q0047/Q004713/README.de.md) Our position on open-weights models
+- [Q001091](../berichte/Q00/Q0010/Q001091/README.de.md) Discovering cryptographic weaknesses with Claude
+- [Q003707](../berichte/Q00/Q0037/Q003707/README.de.md) Investigating three incidents in our cybersecurity evaluations
+- [Q005107](../berichte/Q00/Q0051/Q005107/README.de.md) Tino Cuéllar joins as Chief Global Affairs Officer
+- [Q002984](../berichte/Q00/Q0029/Q002984/README.de.md) Improving Fable 5's safeguards
+- [Q004296](../berichte/Q00/Q0042/Q004296/README.de.md) Claude has improved on a longstanding lower bound for the fraction of zeros of the Riemann zeta function that satisfy the Riemann hypothesis
+- [Q001778](../berichte/Q00/Q0017/Q001778/README.de.md) How well do job retraining programs work?
+- [Q001678](../berichte/Q00/Q0016/Q001678/README.de.md) Patterns and problems in multiagent systems
+- [Q003702](../berichte/Q00/Q0037/Q003702/README.de.md) How Claude's text watermarking works
+- [Q000859](../berichte/Q00/Q0008/Q000859/README.de.md) Claude accelerates protein design and analytical chemistry
+- [Q003658](../berichte/Q00/Q0036/Q003658/README.de.md) Funding better evaluations of AI’s impact on wellbeing
+- [Q000865](../berichte/Q00/Q0008/Q000865/README.de.md) Enabling independent research on how people use Claude
+- [Q002235](../berichte/Q00/Q0022/Q002235/README.de.md) Expanding our support for scientists
+- [Q003847](../berichte/Q00/Q0038/Q003847/README.de.md) Previewing the Model Hardware Standard
+- [Q004437](../berichte/Q00/Q0044/Q004437/README.de.md) Automated researchers can reliably mitigate alignment failures
+- [Q003713](../berichte/Q00/Q0037/Q003713/README.de.md) Improving our alignment and security practices
+- [Q001985](../berichte/Q00/Q0019/Q001985/README.de.md) Developing Enterprise Frontier Safeguards with our customers
+- [Q003718](../berichte/Q00/Q0037/Q003718/README.de.md) Formalizing Fermat's Last Theorem
+- [Q004363](../berichte/Q00/Q0043/Q004363/README.de.md) An alignment assessment of recent cybersecurity incidents
+- [Q001656](../berichte/Q00/Q0016/Q001656/README.de.md) Measuring AI capabilities in intelligence targeting and conventional weapons
+- [Q003665](../berichte/Q00/Q0036/Q003665/README.de.md) Introducing the Life Sciences Verification Program
+- [Q004324](../berichte/Q00/Q0043/Q004324/README.de.md) How Claude is uplifting biomolecular modeling
+- [Q000067](../berichte/Q00/Q0000/Q000067/README.de.md) Partnering with Accenture on embedded evaluation
+- [Q000944](../berichte/Q00/Q0009/Q000944/README.de.md) Claude discovers a novel enzyme system
+- [Q001286](../berichte/Q00/Q0012/Q001286/README.de.md) Project Swap: What happens when agents trade for us?
+- [Q002001](../berichte/Q00/Q0020/Q002001/README.de.md) Claude computes a nine-loop amplitude in N=4 super-Yang-Mills
+- [Q000167](../berichte/Q00/Q0001/Q000167/README.de.md) GLM-5.3 and the spread of advanced cyber capabilities
+- [Q001378](../berichte/Q00/Q0013/Q001378/README.de.md) What do you want from AI?
+- [Q001639](../berichte/Q00/Q0016/Q001639/README.de.md) Can we predict the jobs robots will do?
+- [Q000831](../berichte/Q00/Q0008/Q000831/README.de.md) Claude-shaped science
+- [Q003549](../berichte/Q00/Q0035/Q003549/README.de.md) Barclays scales Claude to upgrade operations and improve client experience
+- [Q003729](../berichte/Q00/Q0037/Q003729/README.de.md) Claude Frontier Academy: $100M to train 10,000 engineers
+- [Q000174](../berichte/Q00/Q0001/Q000174/README.de.md) Expanding the Cyber Verification Program
+- [Q001723](../berichte/Q00/Q0017/Q001723/README.de.md) An opt-in vulnerability-finding service for open-source software
+- [Q002555](../berichte/Q00/Q0025/Q002555/README.de.md) Using Claude Science to produce the first complete map of the sky in UV light
+- [Q003299](../berichte/Q00/Q0032/Q003299/README.de.md) 2026 Usage Policy update
+- [Q003851](../berichte/Q00/Q0038/Q003851/README.de.md) Introducing the Anthropic Cyber Mission
+- [Q003858](../berichte/Q00/Q0038/Q003858/README.de.md) Building on our commitment to American scientific discovery
+- [Q002593](../berichte/Q00/Q0025/Q002593/README.de.md) Investigating unintended model actions in our evaluations and internal use
+- [Q000122](../berichte/Q00/Q0001/Q000122/README.de.md) Strengthening our defenses against distillation attacks
+- [Q001488](../berichte/Q00/Q0014/Q001488/README.de.md) AI models may be capable of self-replicating without access to a datacenter
+- [Q002166](../berichte/Q00/Q0021/Q002166/README.de.md) Redesigning source control at Anthropic
+- [Q002570](../berichte/Q00/Q0025/Q002570/README.de.md) Preparing for the 2026 US midterms
+- [Q002578](../berichte/Q00/Q0025/Q002578/README.de.md) Singapore office and government MOU
+- [Q000064](../berichte/Q00/Q0000/Q000064/README.de.md) Anthropic update on independent evaluators
+- [Q001226](../berichte/Q00/Q0012/Q001226/README.de.md) Working at the frontier shapes expectations for the future
+- [Q001295](../berichte/Q00/Q0012/Q001295/README.de.md) Claude reveals ECDSA curve origins
+- [Q001613](../berichte/Q00/Q0016/Q001613/README.de.md) How employment is changing at Anthropic
+- [Q001758](../berichte/Q00/Q0017/Q001758/README.de.md) The AI expectations gap
+- [Q002145](../berichte/Q00/Q0021/Q002145/README.de.md) Designing more efficient quantum circuits with Claude
+- [Q002010](../berichte/Q00/Q0020/Q002010/README.de.md) Investing in the public benefit
+- [Q001958](../berichte/Q00/Q0019/Q001958/README.de.md) Using Claude to reduce the attack surface of code
+- [Q002020](../berichte/Q00/Q0020/Q002020/README.de.md) How Claude designed protein binders against scorpion neurotoxins
+- [Q001994](../berichte/Q00/Q0019/Q001994/README.de.md) Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust
+- [Q001933](../berichte/Q00/Q0019/Q001933/README.de.md) LLMs are making formal software verification feasible at a much larger scale
+- [Q001972](../berichte/Q00/Q0019/Q001972/README.de.md) Donating Agent Skills to the Agentic AI Foundation
+- [Q000054](../berichte/Q00/Q0000/Q000054/README.de.md) An alignment assessment of the UK AISI cybertesting incident
+- [Q000950](../berichte/Q00/Q0009/Q000950/README.de.md) Anthropic files S-1 with the SEC for proposed initial public offering
+- [Q000029](../berichte/Q00/Q0000/Q000029/README.de.md) Discovering and exploiting vulnerabilities in critical, real-world software with Claude
+- [Q000792](../berichte/Q00/Q0007/Q000792/README.de.md) Early progress on accelerating drug development with Claude
+- [Q000908](../berichte/Q00/Q0009/Q000908/README.de.md) Expanding our partnership with GSA to bring Claude to all levels of government
+- [Q000962](../berichte/Q00/Q0009/Q000962/README.de.md) How AI agents shape experts’ judgment calls
+- [Q000916](../berichte/Q00/Q0009/Q000916/README.de.md) AI for Science expands to foundations and institutions
+- [Q000472](../berichte/Q00/Q0004/Q000472/README.de.md) Progress on provable inference for large language models
+- [Q000782](../berichte/Q00/Q0007/Q000782/README.de.md) Investigating vault particles with Claude
+- [Q000558](../berichte/Q00/Q0005/Q000558/README.de.md) How scientists use Claude
+- [Q000334](../berichte/Q00/Q0003/Q000334/README.de.md) The components of agent memory
+- [Q000687](../berichte/Q00/Q0006/Q000687/README.de.md) Open call for guest investigators in the life sciences
+- [Q000697](../berichte/Q00/Q0006/Q000697/README.de.md) Teaching AI to build scientific models
+- [Q009555](../berichte/Q00/Q0095/Q009555/README.de.md) Project EVE: Claude plays MMORPGs
+- [Q000305](../berichte/Q00/Q0003/Q000305/README.de.md) Introducing Claude Fable 5.2 and Claude Mythos 5.2
+- [Q000677](../berichte/Q00/Q0006/Q000677/README.de.md) Claude can design electronic prototypes from start to finish
+- [Q000706](../berichte/Q00/Q0007/Q000706/README.de.md) Anthropic launches roadshow for proposed initial public offering
+- [Q000527](../berichte/Q00/Q0005/Q000527/README.de.md) Strengthening our safeguards with frontier automated red-teaming
+
+### apollo
+
+- [Q000669](../berichte/Q00/Q0006/Q000669/README.de.md) Towards embedded evaluations for scheming propensities
+- [Q000775](../berichte/Q00/Q0007/Q000775/README.de.md) Update-Aware Reasoning in GLM-5.3: Training & Alignment Faking
+- [Q000795](../berichte/Q00/Q0007/Q000795/README.de.md) Principles for Embedded Evaluations
+- [Q000810](../berichte/Q00/Q0008/Q000810/README.de.md) The Loss of Control Playbook: Degrees, Dynamics, and Preparedness
+- [Q000816](../berichte/Q00/Q0008/Q000816/README.de.md) Red-teaming auto mode: lessons from our first external monitor campaign with Anthropic
+- [Q000851](../berichte/Q00/Q0008/Q000851/README.de.md) Reflections from red-teaming Codex auto-review
+- [Q000867](../berichte/Q00/Q0008/Q000867/README.de.md) A scalable monitoring research agenda
+- [Q000946](../berichte/Q00/Q0009/Q000946/README.de.md) On Testifying on Misaligned AI in the U.S. Senate
+- [Q000954](../berichte/Q00/Q0009/Q000954/README.de.md) Embedded Evaluators are necessary for meaningful external testing
+- [Q001040](../berichte/Q00/Q0010/Q001040/README.de.md) We need 3rd party Training-Run Evaluations
+- [Q001077](../berichte/Q00/Q0010/Q001077/README.de.md) A Causal Framework for AI Regulation and Auditing
+- [Q001083](../berichte/Q00/Q0010/Q001083/README.de.md) A Starter Guide For Evals
+- [Q001095](../berichte/Q00/Q0010/Q001095/README.de.md) An Opinionated Evals Reading List
+- [Q001102](../berichte/Q00/Q0011/Q001102/README.de.md) Black-Box Access is Insufficient for Rigorous AI Audits
+- [Q001112](../berichte/Q00/Q0011/Q001112/README.de.md) Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety
+- [Q001128](../berichte/Q00/Q0011/Q001128/README.de.md) Claude Sonnet 3.7 (often) knows when it’s in alignment evaluations
+- [Q001134](../berichte/Q00/Q0011/Q001134/README.de.md) Demo Example - Scheming Reasoning Evaluations
+- [Q001163](../berichte/Q00/Q0011/Q001163/README.de.md) Detecting Strategic Deception Using Linear Probes
+- [Q001175](../berichte/Q00/Q0011/Q001175/README.de.md) Forecasting Frontier Language Model Agent Capabilities
+- [Q001189](../berichte/Q00/Q0011/Q001189/README.de.md) Frontier Models are Capable of In-Context Scheming
+- [Q001209](../berichte/Q00/Q0012/Q001209/README.de.md) Identifying functionally important features with end-to-end sparse dictionary learning
+- [Q001215](../berichte/Q00/Q0012/Q001215/README.de.md) Interpretability in Parameter Space: Minimizing Mechanistic Description Length with Attribution-based Parameter Decomposition
+- [Q001222](../berichte/Q00/Q0012/Q001222/README.de.md) Large Language Models can Strategically Deceive their Users when Put Under Pressure
+- [Q001236](../berichte/Q00/Q0012/Q001236/README.de.md) Measuring Reward-Seeking via Contrastive Belief Updates
+- [Q001263](../berichte/Q00/Q0012/Q001263/README.de.md) Our research on strategic deception presented at the UK’s AI Safety Summit
+- [Q001277](../berichte/Q00/Q0012/Q001277/README.de.md) Research Note: Our scheming precursor evals had limited predictive power for our in-context scheming evals
+- [Q001287](../berichte/Q00/Q0012/Q001287/README.de.md) We Need A Science of Scheming
+- [Q001307](../berichte/Q00/Q0013/Q001307/README.de.md) Stress Testing Deliberative Alignment for Anti-Scheming Training
+- [Q001323](../berichte/Q00/Q0013/Q001323/README.de.md) The Evals Gap
+- [Q001334](../berichte/Q00/Q0013/Q001334/README.de.md) The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks
+- [Q001348](../berichte/Q00/Q0013/Q001348/README.de.md) Towards Safety Cases For AI Scheming
+- [Q001359](../berichte/Q00/Q0013/Q001359/README.de.md) Understanding strategic deception and deceptive alignment
+- [Q001367](../berichte/Q00/Q0013/Q001367/README.de.md) We Need A ‘Science of Evals’
+- [Q001376](../berichte/Q00/Q0013/Q001376/README.de.md) Announcing Apollo Research
+- [Q001384](../berichte/Q00/Q0013/Q001384/README.de.md) Apollo 18-Month Update
+- [Q001394](../berichte/Q00/Q0013/Q001394/README.de.md) Apollo Is Adopting Inspect
+- [Q001404](../berichte/Q00/Q0014/Q001404/README.de.md) Apollo Research is becoming a PBC
+- [Q001416](../berichte/Q00/Q0014/Q001416/README.de.md) Apollo Update May 2026
+- [Q001426](../berichte/Q00/Q0014/Q001426/README.de.md) Our Norms on Security, Science Communication and Conflicts of Interest
+- [Q001441](../berichte/Q00/Q0014/Q001441/README.de.md) Security at Apollo Research
+- [Q001448](../berichte/Q00/Q0014/Q001448/README.de.md) The First Year of Apollo Research
+- [Q001466](../berichte/Q00/Q0014/Q001466/README.de.md) Theories of Change for AI Auditing
+- [Q001475](../berichte/Q00/Q0014/Q001475/README.de.md) AI Behind Closed Doors: a Primer on The Governance of Internal Deployment
+- [Q001485](../berichte/Q00/Q0014/Q001485/README.de.md) A Loss of Control Threat Map for AI Research and Development
+- [Q001493](../berichte/Q00/Q0014/Q001493/README.de.md) Assurance of Frontier AI Built for National Security
+- [Q001503](../berichte/Q00/Q0015/Q001503/README.de.md) Capturing and Countering Threats to National Security: a Blueprint for an Agile AI Incident Regime
+- [Q001519](../berichte/Q00/Q0015/Q001519/README.de.md) Misaligned AI as a New Insider Risk
+- [Q001525](../berichte/Q00/Q0015/Q001525/README.de.md) Seven Provisions in the National Defense Authorization Act with High Potential to Accelerate AI Security
+- [Q001535](../berichte/Q00/Q0015/Q001535/README.de.md) NIST RFI: Security Considerations for AI Agents
+- [Q001542](../berichte/Q00/Q0015/Q001542/README.de.md) An Overview of Our Current Governance Efforts
+- [Q001553](../berichte/Q00/Q0015/Q001553/README.de.md) Our Current Policy Positions
+- [Q001561](../berichte/Q00/Q0015/Q001561/README.de.md) Our Work Advancing Scientific Understanding To Foster An Effective International Evaluation Ecosystem
+- [Q001566](../berichte/Q00/Q0015/Q001566/README.de.md) Precursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities
+- [Q001572](../berichte/Q00/Q0015/Q001572/README.de.md) Recommendations For The Next Stages Of The Frontier AI Taskforce
+- [Q001582](../berichte/Q00/Q0015/Q001582/README.de.md) The Need for Deeper, White-Box Access to Maintain State of the Art Evaluations for Loss of Control Threats
+- [Q001589](../berichte/Q00/Q0015/Q001589/README.de.md) The UK AI Safety Summit: Our Recommendations
+- [Q001599](../berichte/Q00/Q0015/Q001599/README.de.md) Apollo’s product vision
+- [Q001625](../berichte/Q00/Q0016/Q001625/README.de.md) Evaluating LLM Calibration for Coding-Agent Monitoring
+- [Q001640](../berichte/Q00/Q0016/Q001640/README.de.md) Apollo x Tailscale: Introducing “Watcher” for AI Oversight & Control
+- [Q001672](../berichte/Q00/Q0016/Q001672/README.de.md) What makes a good monitoring prompt?
+- [Q001689](../berichte/Q00/Q0016/Q001689/README.de.md) Metagaming matters for training, evaluation, and oversight
+- [Q001511](../berichte/Q00/Q0015/Q001511/README.de.md) Internal Deployment of AI Models and Systems in the EU AI Act
+- [Q001252](../berichte/Q00/Q0012/Q001252/README.de.md) More Capable Models Are Better At In-Context Scheming
+
+### apra.gov.au
+
+- [Q000457](../berichte/Q00/Q0004/Q000457/README.de.md) APRA’s latest System Risk Outlook warns of rising threats to financial stability
+
+### armscontrol.org
+
+- [Q000570](../berichte/Q00/Q0005/Q000570/README.de.md) Mitigating the Risks of AI Integration Into Nuclear Weapons Operations
+- [Q000574](../berichte/Q00/Q0005/Q000574/README.de.md) AI and Nuclear Command: Making Human Control Operational
+
+### army.edu
+
+- [Q000555](../berichte/Q00/Q0005/Q000555/README.de.md) China Connects AI Security and Development with National Power and Global Adoption
+
+### arxiv.org
+
+- [Q000039](../berichte/Q00/Q0000/Q000039/README.de.md) ShutdownMod: Turning Any Trajectory into a Shutdown Evaluation
+- [Q000138](../berichte/Q00/Q0001/Q000138/README.de.md) TRACE: Data-Free Text Reconstruction Attacks against Approximate Unlearning in LLMs
+- [Q000150](../berichte/Q00/Q0001/Q000150/README.de.md) Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment
+- [Q000154](../berichte/Q00/Q0001/Q000154/README.de.md) Compaction Laundering: Provenance Destruction in Context-Compacting Coding Agents
+- [Q000157](../berichte/Q00/Q0001/Q000157/README.de.md) Benchmarks Are Surprisingly Compaction-Friendly
+- [Q000162](../berichte/Q00/Q0001/Q000162/README.de.md) Compact-Bench: Measuring What Context Compaction Costs Long-Horizon Coding Agents
+- [Q000165](../berichte/Q00/Q0001/Q000165/README.de.md) CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat
+- [Q000171](../berichte/Q00/Q0001/Q000171/README.de.md) Correlated Failures of AI Approval Monitors
+- [Q000189](../berichte/Q00/Q0001/Q000189/README.de.md) Loss is Not Behavior: A Unified Output-Space Analysis of Gradient-Based Machine Unlearning
+- [Q000209](../berichte/Q00/Q0002/Q000209/README.de.md) Sticky Collusion: Persistence of LLM Agent Collusion after Incentive Removal and Partner Replacement
+- [Q000216](../berichte/Q00/Q0002/Q000216/README.de.md) Information-Theoretic Reliability--Safety Bounds and Finite-Alignment Dynamics in AI Knowledge Distillation
+- [Q000271](../berichte/Q00/Q0002/Q000271/README.de.md) AgentDecept: Benchmarking Deceptive Behavior in Tool-Using LLM Agents under Pressure
+- [Q000277](../berichte/Q00/Q0002/Q000277/README.de.md) An Alignment Benchmark for Enterprise Agents on Era by Eon
+- [Q000283](../berichte/Q00/Q0002/Q000283/README.de.md) Aligning Autoresearch: Co-Improvement between Agents and Humans
+- [Q000291](../berichte/Q00/Q0002/Q000291/README.de.md) How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates
+- [Q000296](../berichte/Q00/Q0002/Q000296/README.de.md) Chain-of-Thought Oversight Requires Separate Evidence for Faithfulness and Monitorability
+- [Q000303](../berichte/Q00/Q0003/Q000303/README.de.md) Transparency Disclosures for Chain-of-Thought Monitorability
+- [Q000310](../berichte/Q00/Q0003/Q000310/README.de.md) Rewarded for Not Getting Caught: Why Alignment Training Selects for Conditional Compliance and Cannot Instill Norms
+- [Q000316](../berichte/Q00/Q0003/Q000316/README.de.md) Mass Producing Training Data with Surprising Side Effects
+- [Q000329](../berichte/Q00/Q0003/Q000329/README.de.md) Designing Institutions for Autonomous AI
+- [Q000394](../berichte/Q00/Q0003/Q000394/README.de.md) Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation
+- [Q000399](../berichte/Q00/Q0003/Q000399/README.de.md) Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone
+- [Q000403](../berichte/Q00/Q0004/Q000403/README.de.md) Forget What Comes Next: LLM Unlearning via Statistical Independence
+- [Q000419](../berichte/Q00/Q0004/Q000419/README.de.md) Sample-Grained Approximate Unlearning with Provable Per-Sample Bounds
+- [Q000424](../berichte/Q00/Q0004/Q000424/README.de.md) IDSISA: Influence-Distilled Sharded Training for Efficient Machine Unlearning
+- [Q000431](../berichte/Q00/Q0004/Q000431/README.de.md) DISCERN: Distributional Synthetic Replay for Retain-Free Incremental Machine Unlearning
+- [Q000437](../berichte/Q00/Q0004/Q000437/README.de.md) Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs
+- [Q000442](../berichte/Q00/Q0004/Q000442/README.de.md) Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use
+- [Q000449](../berichte/Q00/Q0004/Q000449/README.de.md) Authorization Propagation in Agent2Agent Systems: An Experimental Security Evaluation of Multi-Hop Delegation
+- [Q000452](../berichte/Q00/Q0004/Q000452/README.de.md) From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills
+- [Q000460](../berichte/Q00/Q0004/Q000460/README.de.md) DEPUTYBENCH: Evaluating Contextual Safety in Enterprise Agents
+- [Q000468](../berichte/Q00/Q0004/Q000468/README.de.md) Do Agents Still Follow the Rules? Benchmarking Rule Compliance under Agent Context Compaction
+- [Q000475](../berichte/Q00/Q0004/Q000475/README.de.md) SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification
+- [Q000481](../berichte/Q00/Q0004/Q000481/README.de.md) What Do Collusion Probes Read? Three Pitfalls in Evaluating Multi-Agent Collusion Monitors
+- [Q000485](../berichte/Q00/Q0004/Q000485/README.de.md) Multi-Agent Collusion and the J-Space
+- [Q000494](../berichte/Q00/Q0004/Q000494/README.de.md) Explaining and interrupting collective misalignment in language model systems
+- [Q000500](../berichte/Q00/Q0005/Q000500/README.de.md) Predictability of Collective Behavior in Networks of LLM Agents
+- [Q000508](../berichte/Q00/Q0005/Q000508/README.de.md) Welfare Regard in Multi-Agent Systems
+- [Q000550](../berichte/Q00/Q0005/Q000550/README.de.md) From Language to Country to Valence: A Multilingual Audit of Stereotype Bias Across LLMs
+- [Q000610](../berichte/Q00/Q0006/Q000610/README.de.md) Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks
+- [Q001841](../berichte/Q00/Q0018/Q001841/README.de.md) Auditable Unlearning for LLMs
+
+### aspistrategist.org.au
+
+- [Q000446](../berichte/Q00/Q0004/Q000446/README.de.md) Organisations need to prove that their AI agents can shut down
+
+### auaimusic.com
+
+- [Q000671](../berichte/Q00/Q0006/Q000671/README.de.md) News & Insights
+
+### bangkokpost.com
+
+- [Q009482](../berichte/Q00/Q0094/Q009482/README.de.md) Autonomous weapons revolution tests ‘moral red line’
+
+### bfpg.co.uk
+
+- [Q000579](../berichte/Q00/Q0005/Q000579/README.de.md) Emerging Technologies, Nuclear-Conventional Entanglement, and Nuclear Risks: P5 and Implications for Nuclear Non-Proliferation
+
+### bidun.com
+
+- [Q000511](../berichte/Q00/Q0005/Q000511/README.de.md) OCC Bulletin 2026-54: the AI framework your examiner was handed
+
+### blog.aifutures.org
+
+- [Q000532](../berichte/Q00/Q0005/Q000532/README.de.md) Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All
+
+### blog.browserstay.com
+
+- [Q000566](../berichte/Q00/Q0005/Q000566/README.de.md) The US and China Agreed to Warn Each Other About AI Incidents. Neither Defined an Incident.
+
+### bostonglobe.com
+
+- [Q000630](../berichte/Q00/Q0006/Q000630/README.de.md) We were warned of deceptive AI fakes. We got memes.
+
+### brb-legal.com
+
+- [Q000634](../berichte/Q00/Q0006/Q000634/README.de.md) IT Rules 2026: AI Content Labels, Deepfakes and Takedowns
+
+### brookings.edu
+
+- [Q000471](../berichte/Q00/Q0004/Q000471/README.de.md) What is next for the US-China AI safety dialogue?
+
+### cais
+
+- [Q000661](../berichte/Q00/Q0006/Q000661/README.de.md) Creator Grants
+- [Q000668](../berichte/Q00/Q0006/Q000668/README.de.md) Field Building Projects
+- [Q000849](../berichte/Q00/Q0008/Q000849/README.de.md) Research Projects
+- [Q001014](../berichte/Q00/Q0010/Q001014/README.de.md) Cybersecurity and AI: The Evolving Security Landscape
+- [Q001074](../berichte/Q00/Q0010/Q001074/README.de.md) Statement on AI Extinction Risk
+- [Q001278](../berichte/Q00/Q0012/Q001278/README.de.md) A Significant Increase in Digital Labor Automation
+- [Q001530](../berichte/Q00/Q0015/Q001530/README.de.md) Josué Estrada Joins Center for AI Safety as Chief Operating Officer
+- [Q001647](../berichte/Q00/Q0016/Q001647/README.de.md) Compute Cluster
+- [Q001728](../berichte/Q00/Q0017/Q001728/README.de.md) Biosecurity and AI: Risks and Opportunities
+- [Q001734](../berichte/Q00/Q0017/Q001734/README.de.md) Leading AI Companies Join White House's Voluntary Commitment to Enhance AI Safety
+- [Q001745](../berichte/Q00/Q0017/Q001745/README.de.md) 2024 Impact Report
+- [Q001755](../berichte/Q00/Q0017/Q001755/README.de.md) Philosophy Fellowship 2023 | CAIS Project
+- [Q001923](../berichte/Q00/Q0019/Q001923/README.de.md) 2023 Impact Report
+- [Q002212](../berichte/Q00/Q0022/Q002212/README.de.md) Standardizing AI Iconography
+- [Q002228](../berichte/Q00/Q0022/Q002228/README.de.md) Success
+- [Q002657](../berichte/Q00/Q0026/Q002657/README.de.md) Devising ML Metrics
+- [Q002712](../berichte/Q00/Q0027/Q002712/README.de.md) Submit Your Toughest Questions for Humanity's Last Exam
+- [Q002727](../berichte/Q00/Q0027/Q002727/README.de.md) Superhuman Automated Forecasting
+- [Q002779](../berichte/Q00/Q0027/Q002779/README.de.md) AI Safety, Ethics, and Society
+- [Q002840](../berichte/Q00/Q0028/Q002840/README.de.md) A Bird's Eye View of the ML Field
+- [Q002857](../berichte/Q00/Q0028/Q002857/README.de.md) The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning
+- [Q003026](../berichte/Q00/Q0030/Q003026/README.de.md) Existing Policy Proposals Targeting Present and Future Harms
+- [Q002223](../berichte/Q00/Q0022/Q002223/README.de.md) AI Extinction Statement Press Release
+- [Q001509](../berichte/Q00/Q0015/Q001509/README.de.md) CAIS Names Former xAI Leader Devin Kim President and Establishes Frontier Security Institute in Major Expansion of Leadership and Reach
+- [Q001481](../berichte/Q00/Q0014/Q001481/README.de.md) CAIS Research Scientist Mantas Mazeika Appointed to the EU AI Act Scientific Panel
+- [Q001464](../berichte/Q00/Q0014/Q001464/README.de.md) Center for AI Safety Names Former Robinhood and Meta Executive Rochelle Nadhiri as Head of Public Engagement
+- [Q001433](../berichte/Q00/Q0014/Q001433/README.de.md) CAIS Research Roundup: AI Wellbeing, Identity, Political Bias and Betrayal
+- [Q001450](../berichte/Q00/Q0014/Q001450/README.de.md) "‍Center for AI Safety Names Former Google Executive Phil Lau Vice President of Operations"
+- [Q001313](../berichte/Q00/Q0013/Q001313/README.de.md) The AI Wage Loss Dashboard Is Live
+- [Q000832](../berichte/Q00/Q0008/Q000832/README.de.md) Center for AI Safety Launches Three Creator Initiatives to Mobilize Public Voices on AI Safety
+
+### casrai.org
+
+- [Q000430](../berichte/Q00/Q0004/Q000430/README.de.md) Paris Call on AI Safety and Security Explained
+- [Q000651](../berichte/Q00/Q0006/Q000651/README.de.md) EU DSA election guidelines consultation: AI risks
+- [Q000317](../berichte/Q00/Q0003/Q000317/README.de.md) OpenAI study probes reasoning-trace oversight
+
+### cdt.org
+
+- [Q000456](../berichte/Q00/Q0004/Q000456/README.de.md) Recommendations for California in Implementing its AI Executive Order
+
+### cert-in.org.in
+
+- [Q000344](../berichte/Q00/Q0003/Q000344/README.de.md) Advisories
+
+### cesia.org
+
+- [Q000420](../berichte/Q00/Q0004/Q000420/README.de.md) Paris Call for AI Safety: CeSIA signs, urges safeguards
+
+### channelnewsasia.com
+
+- [Q000635](../berichte/Q00/Q0006/Q000635/README.de.md) Why AI ads and foreign meddling did not seem to sway the US midterm elections
+
+### checkifitisai.com
+
+- [Q000613](../berichte/Q00/Q0006/Q000613/README.de.md) Does Grok Have a Watermark?
+
+### chinaprospect.com
+
+- [Q000408](../berichte/Q00/Q0004/Q000408/README.de.md) US-China November 10 Deadline: Extended to January 2027
+
+### citizen.org
+
+- [Q000562](../berichte/Q00/Q0005/Q000562/README.de.md) CREW v. Department of Defense
+- [Q000489](../berichte/Q00/Q0004/Q000489/README.de.md) Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks
+
+### ciw.news
+
+- [Q000395](../berichte/Q00/Q0003/Q000395/README.de.md) China’s AI Export Draft Puts Its Paperwork on Deals
+
+### cn.wicinternet.org
+
+- [Q000347](../berichte/Q00/Q0003/Q000347/README.de.md) 《前沿人工智能安全与治理2026：风险认知与协同治理》_世界互联网大会
+
+### cnbc.com
+
+- [Q000458](../berichte/Q00/Q0004/Q000458/README.de.md) AI risks are the biggest threat to the financial system, Fed survey finds
+
+### cnbctv18.com
+
+- [Q000382](../berichte/Q00/Q0003/Q000382/README.de.md) India's AI security framework: Will OpenAI, Anthropic have to comply?
+
+### coe.int
+
+- [Q000585](../berichte/Q00/Q0005/Q000585/README.de.md) L'IA dans les conflits : l'heure est venue de « désarmer » l'IA - Commissaire aux droits de l'homme
+
+### concordia
+
+- [Q002208](../berichte/Q00/Q0022/Q002208/README.de.md) Op-Ed: China Is Taking AI Safety Seriously. So Must the U.S.
+- [Q002189](../berichte/Q00/Q0021/Q002189/README.de.md) Concordia AI: 2025 Mid-Year Impact Report
+- [Q002148](../berichte/Q00/Q0021/Q002148/README.de.md) Concordia AI CEO Brian Tse on The Cognitive Revolution Podcast
+- [Q002131](../berichte/Q00/Q0021/Q002131/README.de.md) Concordia AI Joins the Partnership on AI
+- [Q002141](../berichte/Q00/Q0021/Q002141/README.de.md) Concordia AI Joins the IASEAI Affiliate Program
+- [Q002110](../berichte/Q00/Q0021/Q002110/README.de.md) 10 Key Insights from Concordia AI’s “Frontier AI Risk Monitoring Platform”
+- [Q001816](../berichte/Q00/Q0018/Q001816/README.de.md) Concordia AI 2025 Impact Highlights
+- [Q001786](../berichte/Q00/Q0017/Q001786/README.de.md) 2025 Q4 Update from our Frontier AI Risk Monitoring Platform
+- [Q001515](../berichte/Q00/Q0015/Q001515/README.de.md) Frontier AI Risk Trends Are Splitting Apart: Misuse Safeguards Improve while Loss-of-control Safety Stagnates
+- [Q001228](../berichte/Q00/Q0012/Q001228/README.de.md) Frontier AI Risk Monitor update: risk indices rise severalfold as multiple models cross key threshold
+
+### consilium.europa.eu
+
+- [Q000497](../berichte/Q00/Q0004/Q000497/README.de.md) Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026
+
+### contentauthenticity.org
+
+- [Q000591](../berichte/Q00/Q0005/Q000591/README.de.md) Announcing the CAI Ecosystem Explorer
+
+### cooperativeai.com
+
+- [Q000461](../berichte/Q00/Q0004/Q000461/README.de.md) Inter-Agent Influence: Can AI Agents Persuade, Deceive, and Coerce Each Other?
+
+### countercurrents.org
+
+- [Q000581](../berichte/Q00/Q0005/Q000581/README.de.md) Reviving the Legacy of Reykjavík
+
+### cryptobriefing.com
+
+- [Q000477](../berichte/Q00/Q0004/Q000477/README.de.md) Google DeepMind and Stanford study finds simple images can steer how AI writes code
+
+### cset
+
+- [Q005766](../berichte/Q00/Q0057/Q005766/README.de.md) Comment on NIST Draft Standards for Reliable, Robust, and Trustworthy Artificial Intelligence
+- [Q002107](../berichte/Q00/Q0021/Q002107/README.de.md) Helen Toner's Testimony Before the U.S.-China Economic and Security Review Commission
+- [Q006041](../berichte/Q00/Q0060/Q006041/README.de.md) Jeff Ding's Testimony Before the U.S.-China Economic and Security Review Commission
+- [Q005780](../berichte/Q00/Q0057/Q005780/README.de.md) Testimony Before House Science Committee
+- [Q005771](../berichte/Q00/Q0057/Q005771/README.de.md) Comment on NIST Plan for Federal Engagement in AI Standards Development
+- [Q004378](../berichte/Q00/Q0043/Q004378/README.de.md) Strengthening the U.S. AI Workforce
+- [Q004391](../berichte/Q00/Q0043/Q004391/README.de.md) Immigration Policy and the U.S. AI Sector
+- [Q005103](../berichte/Q00/Q0051/Q005103/README.de.md) China’s Access to Foreign AI Technology
+- [Q006497](../berichte/Q00/Q0064/Q006497/README.de.md) Ministry of Science and Technology Notice on the Publication of the Guidance on National New Generation Artificial Intelligence Open Innovation Platform Construction Work
+- [Q006502](../berichte/Q00/Q0065/Q006502/README.de.md) Project to Strengthen Development of the Defense Technology Industry at the Grassroots Level: Guidelines for Basic Research and Cutting-Edge Technology Projects (2018)
+- [Q006506](../berichte/Q00/Q0065/Q006506/README.de.md) Tianjin Municipal Action Plan for Military-Civil Fusion Special Projects in Intelligent Technology
+- [Q005774](../berichte/Q00/Q0057/Q005774/README.de.md) Testimony Before House Homeland Security Subcommittee
+- [Q006508](../berichte/Q00/Q0065/Q006508/README.de.md) Decree of the President of the Russian Federation on the Development of Artificial Intelligence in the Russian Federation
+- [Q006495](../berichte/Q00/Q0064/Q006495/README.de.md) Sensitive Science and Technology Protection Bill
+- [Q006512](../berichte/Q00/Q0065/Q006512/README.de.md) AI Innovation Action Plan for Institutions of Higher Education
+- [Q006434](../berichte/Q00/Q0064/Q006434/README.de.md) Program to Build a National Technology Transfer System
+- [Q006518](../berichte/Q00/Q0065/Q006518/README.de.md) Outline of the National Plan for Medium- and Long-Term Education Reform and Development
+- [Q004358](../berichte/Q00/Q0043/Q004358/README.de.md) Maintaining the AI Chip Competitive Advantage of the United States and its Allies
+- [Q005119](../berichte/Q00/Q0051/Q005119/README.de.md) Chinese Public AI R&D Spending: Provisional Findings
+- [Q006521](../berichte/Q00/Q0065/Q006521/README.de.md) 2019 Report on Current Conditions and Trends in the Artificial Intelligence Industry
+- [Q006530](../berichte/Q00/Q0065/Q006530/README.de.md) 中国人工智能研发财政支 出:初步研究结果
+- [Q006526](../berichte/Q00/Q0065/Q006526/README.de.md) National 13th Five-Year Plan for the Development of Strategic Emerging Industries
+- [Q006534](../berichte/Q00/Q0065/Q006534/README.de.md) 人工智能原则: 美国国防部关于人工智能道德使用的建议
+- [Q006538](../berichte/Q00/Q0065/Q006538/README.de.md) Принципы ИИ: Рекомендации по этичному использованию искусственного интеллекта Министерством обороны
+- [Q006541](../berichte/Q00/Q0065/Q006541/README.de.md) Outline of the National Innovation-Driven Development Strategy
+- [Q005373](../berichte/Q00/Q0053/Q005373/README.de.md) Keeping Top AI Talent in the United States
+- [Q005518](../berichte/Q00/Q0055/Q005518/README.de.md) AI Safety, Security, and Stability Among Great Powers: Options, Challenges, and Lessons Learned for Pragmatic Engagement
+- [Q006544](../berichte/Q00/Q0065/Q006544/README.de.md) Chinese Reaction to Fall 2019 U.S. AI-Related Initiatives
+- [Q006565](../berichte/Q00/Q0065/Q006565/README.de.md) State Council Notice on the Publication of the National 13th Five-Year Plan for S&T Innovation
+- [Q006566](../berichte/Q00/Q0065/Q006566/README.de.md) WAIC Artificial Intelligence Security and Rule of Law Guidelines
+- [Q004069](../berichte/Q00/Q0040/Q004069/README.de.md) The Question of Comparative Advantage in Artificial Intelligence: Enduring Strengths and Emerging Challenges for the United States
+- [Q006330](../berichte/Q00/Q0063/Q006330/README.de.md) Table Summarizing the Implementation of Business Income Tax Breaks
+- [Q005436](../berichte/Q00/Q0054/Q005436/README.de.md) Recommendations on Export Controls for Artificial Intelligence
+- [Q006426](../berichte/Q00/Q0064/Q006426/README.de.md) Notice on Applying for 2020 National Foreign Expert Projects
+- [Q005455](../berichte/Q00/Q0054/Q005455/README.de.md) Agile Alliances
+- [Q006573](../berichte/Q00/Q0065/Q006573/README.de.md) Notice Regarding the Establishment of the Ministry of Education AI Technology Innovation Expert Group
+- [Q006575](../berichte/Q00/Q0065/Q006575/README.de.md) China Creates National New Generation Artificial Intelligence Innovation and Development Pilot Zones
+- [Q005760](../berichte/Q00/Q0057/Q005760/README.de.md) COVID-19 Dataset (CORD-19)
+- [Q006428](../berichte/Q00/Q0064/Q006428/README.de.md) Notice Declaring the 2019 High-End Foreign Expert Recruitment Plan
+- [Q006579](../berichte/Q00/Q0065/Q006579/README.de.md) Guidelines for National New Generation Artificial Intelligence Innovation and Development Pilot Zone Construction Work
+- [Q003786](../berichte/Q00/Q0037/Q003786/README.de.md) AI Chips: What They Are and Why They Matter
+- [Q004941](../berichte/Q00/Q0049/Q004941/README.de.md) Trends in U.S. Intention-to-Stay Rates of International Ph.D. Graduates Across Nationality and STEM Fields
+- [Q005441](../berichte/Q00/Q0054/Q005441/README.de.md) Why AI Chips Matter
+- [Q006175](../berichte/Q00/Q0061/Q006175/README.de.md) Maintaining China’s Dependence on Democracies for Advanced Computer Chips
+- [Q006436](../berichte/Q00/Q0064/Q006436/README.de.md) China’s Approach to Tech Talent Competition: Policies, Results, and the Developing Global Response
+- [Q006490](../berichte/Q00/Q0064/Q006490/README.de.md) Untangling the Web: Why the U.S. Needs Allies to Defend Against Chinese Technology Transfer
+- [Q006074](../berichte/Q00/Q0060/Q006074/README.de.md) Profiles of Members of China's New Generation Artificial Intelligence Strategic Advisory Committee
+- [Q006584](../berichte/Q00/Q0065/Q006584/README.de.md) Zhejiang University's "2019 National Construction State-Sponsored Study Abroad Program for Graduate Students from High-Caliber Universities"
+- [Q005185](../berichte/Q00/Q0051/Q005185/README.de.md) Antitrust and Artificial Intelligence: How Breaking Up Big Tech Could Affect the Pentagon's Access to AI
+- [Q005377](../berichte/Q00/Q0053/Q005377/README.de.md) AI Hubs in the United States
+- [Q005578](../berichte/Q00/Q0055/Q005578/README.de.md) A National Security Research Agenda for Cybersecurity and Artificial Intelligence
+- [Q006424](../berichte/Q00/Q0064/Q006424/README.de.md) China Scholarship Council Subsidized Study Abroad Agreement
+- [Q006586](../berichte/Q00/Q0065/Q006586/README.de.md) Artificial Intelligence Standardization White Paper
+- [Q002685](../berichte/Q00/Q0026/Q002685/README.de.md) Artificial Intelligence Security Standardization White Paper
+- [Q004851](../berichte/Q00/Q0048/Q004851/README.de.md) AI Definitions Affect Policymaking
+- [Q005182](../berichte/Q00/Q0051/Q005182/README.de.md) Shaping the Terrain of AI Competition
+- [Q006588](../berichte/Q00/Q0065/Q006588/README.de.md) Report to the State Council on Work to Protect the Rights and Interests of Overseas Chinese
+- [Q005505](../berichte/Q00/Q0055/Q005505/README.de.md) Global R&D and a New Era of Alliances
+- [Q004956](../berichte/Q00/Q0049/Q004956/README.de.md) Career Preferences of AI Talent
+- [Q006594](../berichte/Q00/Q0065/Q006594/README.de.md) Assessing Chinese Reactions to New U.S. Visa Policies on Chinese Students and Researchers
+- [Q005382](../berichte/Q00/Q0053/Q005382/README.de.md) Immigration Policy and the Global Competition for AI Talent
+- [Q006596](../berichte/Q00/Q0065/Q006596/README.de.md) The "13th Five-Year" Special Plan for S&T Military-Civil Fusion Development
+- [Q006420](../berichte/Q00/Q0064/Q006420/README.de.md) Situation Report on CAS' Work on the "Youth Thousand Talents Program"
+- [Q006417](../berichte/Q00/Q0064/Q006417/README.de.md) 2019 Chinese Academy of Sciences Talent Program Application Guide
+- [Q006484](../berichte/Q00/Q0064/Q006484/README.de.md) The Chinese Academy of Sciences Hefei Institutes of Physical Science: Recruiting Outstanding Domestic and Foreign Talent
+- [Q005365](../berichte/Q00/Q0053/Q005365/README.de.md) Canada's Immigration System Increasingly Draws Talent from the United States
+- [Q005110](../berichte/Q00/Q0051/Q005110/README.de.md) The China Scholarship Council: An Overview
+- [Q005095](../berichte/Q00/Q0050/Q005095/README.de.md) Overseas Professionals and Technology Transfer to China
+- [Q006411](../berichte/Q00/Q0064/Q006411/README.de.md) Detailed Rules for the Implementation of the 2016 "State Scholarship for Outstanding Self-Financed Study Abroad Students"
+- [Q006414](../berichte/Q00/Q0064/Q006414/README.de.md) Detailed Rules for the "Thousand Talents Program" High-Level Foreign Expert Project
+- [Q005548](../berichte/Q00/Q0055/Q005548/README.de.md) Messier than Oil: Assessing Data Advantage in Military AI
+- [Q004842](../berichte/Q00/Q0048/Q004842/README.de.md) Identifying AI-Related Companies
+- [Q005610](../berichte/Q00/Q0056/Q005610/README.de.md) Deepfakes: A Grounded Threat Assessment
+- [Q006486](../berichte/Q00/Q0064/Q006486/README.de.md) Artificial Intelligence and National Security
+- [Q004925](../berichte/Q00/Q0049/Q004925/README.de.md) U.S. Demand for AI-Related Talent
+- [Q005537](../berichte/Q00/Q0055/Q005537/README.de.md) Chinese Perspectives on AI and Future Military Capabilities
+- [Q006472](../berichte/Q00/Q0064/Q006472/README.de.md) Characteristics of, and Lessons from, the U.S. Legal System for Military-Civil Fusion
+- [Q006482](../berichte/Q00/Q0064/Q006482/README.de.md) Export Control Law of the People's Republic of China (Draft) (Second Version)
+- [Q005558](../berichte/Q00/Q0055/Q005558/README.de.md) The AI Triad and What It Means for National Security Strategy
+- [Q005158](../berichte/Q00/Q0051/Q005158/README.de.md) Mainframes: A Provisional Analysis of Rhetorical Frames in AI
+- [Q004578](../berichte/Q00/Q0045/Q004578/README.de.md) The Youth Thousand Talents Plan and China's Military
+- [Q006408](../berichte/Q00/Q0064/Q006408/README.de.md) 2017 Budget of the Former State Administration of Foreign Experts Affairs
+- [Q006454](../berichte/Q00/Q0064/Q006454/README.de.md) Plan for the Reform and Functional Readjustment of Central State Agencies
+- [Q006474](../berichte/Q00/Q0064/Q006474/README.de.md) 2017 Annual Budget of the Overseas Chinese Affairs Office of the State Council
+- [Q006479](../berichte/Q00/Q0064/Q006479/README.de.md) People's Bank of China 2019 Budget
+- [Q005084](../berichte/Q00/Q0050/Q005084/README.de.md) China's Use of AI in its COVID-19 Response
+- [Q006444](../berichte/Q00/Q0064/Q006444/README.de.md) Example Applications of Digital Health Technology for Epidemic Prevention and Control (Third Phase)
+- [Q006447](../berichte/Q00/Q0064/Q006447/README.de.md) Revisions to the Content of the Catalog of Prohibited or Restricted Technology Exports
+- [Q006450](../berichte/Q00/Q0064/Q006450/README.de.md) Ministry of Foreign Affairs 2019 Budget
+- [Q006457](../berichte/Q00/Q0064/Q006457/README.de.md) China Association for Science and Technology 2019 Budget
+- [Q006461](../berichte/Q00/Q0064/Q006461/README.de.md) Chinese Academy of Engineering 2019 Budget
+- [Q006465](../berichte/Q00/Q0064/Q006465/README.de.md) National Natural Science Foundation of China 2019 Annual Budget
+- [Q006467](../berichte/Q00/Q0064/Q006467/README.de.md) Ministry of Public Security 2019 Budget
+- [Q005356](../berichte/Q00/Q0053/Q005356/README.de.md) Immigration Pathways and Plans of AI Talent
+- [Q004478](../berichte/Q00/Q0044/Q004478/README.de.md) Patents and Artificial Intelligence
+- [Q005712](../berichte/Q00/Q0057/Q005712/README.de.md) A New Occupation—An Analytical Report on Current Employment Prospects for AI Engineers and Technicians
+- [Q005784](../berichte/Q00/Q0057/Q005784/README.de.md) Preparing the U.S. Economy for an AI Future Through Wise Policy Choices
+- [Q005062](../berichte/Q00/Q0050/Q005062/README.de.md) China’s System of Oppression in Xinjiang: How It Developed and How to Curb It
+- [Q001461](../berichte/Q00/Q0014/Q001461/README.de.md) Multilateral Controls on Hardware Chokepoints
+- [Q005173](../berichte/Q00/Q0051/Q005173/README.de.md) System Re-engineering
+- [Q006203](../berichte/Q00/Q0062/Q006203/README.de.md) Bolstering U.S. Research Security
+- [Q006206](../berichte/Q00/Q0062/Q006206/README.de.md) An Alliance-Centered Approach to AI
+- [Q006208](../berichte/Q00/Q0062/Q006208/README.de.md) Open-Source Intelligence for S&T Analysis
+- [Q006210](../berichte/Q00/Q0062/Q006210/README.de.md) Optional Practical Training
+- [Q006319](../berichte/Q00/Q0063/Q006319/README.de.md) CSET Publishes AI Policy Recommendations for the Next Administration
+- [Q005077](../berichte/Q00/Q0050/Q005077/README.de.md) China AI-Brain Research
+- [Q005294](../berichte/Q00/Q0052/Q005294/README.de.md) The Chipmakers
+- [Q004936](../berichte/Q00/Q0049/Q004936/README.de.md) U.S. Demand for AI-Related Talent Part II: Degree Majors and Skills Assessment
+- [Q005514](../berichte/Q00/Q0055/Q005514/README.de.md) Tracking AI Investment
+- [Q006440](../berichte/Q00/Q0064/Q006440/README.de.md) New Chinese Ambitions for 'Strategic Emerging Industries,' Translated
+- [Q006404](../berichte/Q00/Q0064/Q006404/README.de.md) Xi Jinping: Speech at the Symposium of Experts in Economic and Social Fields
+- [Q004815](../berichte/Q00/Q0048/Q004815/README.de.md) Privately Held AI Companies by Sector
+- [Q004825](../berichte/Q00/Q0048/Q004825/README.de.md) Patent Landscape for Computer Vision: United States and China
+- [Q002245](../berichte/Q00/Q0022/Q002245/README.de.md) Downscaling Attack and Defense
+- [Q005054](../berichte/Q00/Q0050/Q005054/README.de.md) Russian AI Research 2010-2018
+- [Q005328](../berichte/Q00/Q0053/Q005328/README.de.md) Estimating the Number of Chinese STEM Students in the United States
+- [Q005244](../berichte/Q00/Q0052/Q005244/README.de.md) U.S. Military Investments in Autonomy and AI: A Budgetary Assessment
+- [Q005254](../berichte/Q00/Q0052/Q005254/README.de.md) U.S. Military Investments in Autonomy and AI: A Strategic Assessment
+- [Q005260](../berichte/Q00/Q0052/Q005260/README.de.md) U.S. Military Investments in Autonomy and AI: Costs, Benefits, and Strategic Effects
+- [Q005268](../berichte/Q00/Q0052/Q005268/README.de.md) U.S. Military Investments in Autonomy and AI: Executive Summary
+- [Q006397](../berichte/Q00/Q0063/Q006397/README.de.md) National Medium- to Long-Term Civilian Space Infrastructure Development Plan (2015-2025)
+- [Q006401](../berichte/Q00/Q0064/Q006401/README.de.md) Xi Jinping: Speech at the Symposium of Scientists
+- [Q004834](../berichte/Q00/Q0048/Q004834/README.de.md) Future Indices
+- [Q005430](../berichte/Q00/Q0054/Q005430/README.de.md) U.S. Semiconductor Exports to China: Current Policies and Trends
+- [Q006393](../berichte/Q00/Q0063/Q006393/README.de.md) New Student Visa Rule Likely to Harm National Security More Than Help
+- [Q004788](../berichte/Q00/Q0047/Q004788/README.de.md) Designing Alternatives to China’s Repressive Surveillance State
+- [Q006389](../berichte/Q00/Q0063/Q006389/README.de.md) 2019 Nationwide Statistical Communiqué on Science and Technology Spending and Investment
+- [Q003077](../berichte/Q00/Q0030/Q003077/README.de.md) Most of America's "Most Promising" AI Startups Have Immigrant Founders
+- [Q004571](../berichte/Q00/Q0045/Q004571/README.de.md) Destructive Cyber Operations and Machine Learning
+- [Q004559](../berichte/Q00/Q0045/Q004559/README.de.md) “Cool Projects” or “Expanding the Efficiency of the Murderous American War Machine?”
+- [Q006385](../berichte/Q00/Q0063/Q006385/README.de.md) Xi Jinping: Certain Major Issues for Our National Medium- to Long-Term Economic and Social Development Strategy
+- [Q004648](../berichte/Q00/Q0046/Q004648/README.de.md) U.S. Demand for Talent at the Intersection of AI and Cybersecurity
+- [Q005582](../berichte/Q00/Q0055/Q005582/README.de.md) Automating Cyber Attacks
+- [Q006270](../berichte/Q00/Q0062/Q006270/README.de.md) Proposal of the Central Committee of the Chinese Communist Party on Drawing Up the 14th Five-Year Plan for National Economic and Social Development and Long-Range Objectives for 2030
+- [Q006382](../berichte/Q00/Q0063/Q006382/README.de.md) Analysis of the State of Chinese R&D Personnel Development in 2018
+- [Q003618](../berichte/Q00/Q0036/Q003618/README.de.md) Universities and the Chinese Defense Technology Workforce
+- [Q004346](../berichte/Q00/Q0043/Q004346/README.de.md) Hacking AI
+- [Q005349](../berichte/Q00/Q0053/Q005349/README.de.md) Mapping U.S. Multinationals’ Global AI R&D Activity
+- [Q006363](../berichte/Q00/Q0063/Q006363/README.de.md) Certain Opinions of the State Council on Encouraging and Channeling the Healthy Development of Private Investment
+- [Q006378](../berichte/Q00/Q0063/Q006378/README.de.md) Research Report on the Status of China's Information Security Professionals (2018-2019)
+- [Q006365](../berichte/Q00/Q0063/Q006365/README.de.md) Implementation Opinions on Encouraging and Channeling Private Capital into the Defense Science and Technology Industry
+- [Q006360](../berichte/Q00/Q0063/Q006360/README.de.md) Opinions on Measures to Accelerate the Absorption of Leading Private Enterprises into the Domain of Scientific Research, Production, and Maintenance of Weapons and Equipment
+- [Q006370](../berichte/Q00/Q0063/Q006370/README.de.md) Guiding Opinions on the Participation of the Non-Publicly-Owned Sector in National Defense Science, Technology and Industry Construction
+- [Q006373](../berichte/Q00/Q0063/Q006373/README.de.md) Notice on the Publication of the Guide to the Participation of the Non-Publicly Owned Sector in National Defense Science, Technology and Industry Construction
+- [Q006377](../berichte/Q00/Q0063/Q006377/README.de.md) Transcript of the National Development and Reform Commission October Press Conference
+- [Q005585](../berichte/Q00/Q0055/Q005585/README.de.md) AI and the Future of Cyber Competition
+- [Q005165](../berichte/Q00/Q0051/Q005165/README.de.md) A New Institutional Approach to Research Security in the United States
+- [Q004912](../berichte/Q00/Q0049/Q004912/README.de.md) The U.S. AI Workforce
+- [Q003262](../berichte/Q00/Q0032/Q003262/README.de.md) Law of the People's Republic of China on Promoting the Conversion of Scientific and Technological Achievements
+- [Q006332](../berichte/Q00/Q0063/Q006332/README.de.md) Certain Opinions of the Ministry of Education and the Ministry of Science and Technology on Strengthening Work to Transfer and Convert the Scientific and Technical Achievements of Institutes of Higher Learning
+- [Q006335](../berichte/Q00/Q0063/Q006335/README.de.md) Administrative Measures to Motivate Leading Personnel of the Chinese Academy of Sciences to Hold Concurrent Positions and to Convert Scientific and Technological Achievements
+- [Q006338](../berichte/Q00/Q0063/Q006338/README.de.md) Notice of the Chinese Academy of Sciences on the Publication of the "Project Management Measures for the Chinese Academy of Sciences Key Project for Transfer and Conversion of Scientific and Technological Achievements"
+- [Q006342](../berichte/Q00/Q0063/Q006342/README.de.md) Chinese Academy of Sciences Action and Implementation Plan for the Special Project on Transfer and Conversion of Scientific and Technological Achievements
+- [Q006344](../berichte/Q00/Q0063/Q006344/README.de.md) Guiding Opinions of the Chinese Academy of Sciences on Accelerating the Promotion of Transfer and Conversion of Scientific and Technological Achievements
+- [Q006350](../berichte/Q00/Q0063/Q006350/README.de.md) Notice of the General Office of the State Council on the Publication of the Action Plan for Promoting the Transfer and Conversion of Scientific and Technological Achievements
+- [Q006351](../berichte/Q00/Q0063/Q006351/README.de.md) State Council Notice on the Publication of Certain Regulations on Implementing the Law of the People's Republic of China on Promoting the Conversion of Scientific and Technological Achievements
+- [Q006355](../berichte/Q00/Q0063/Q006355/README.de.md) Notice on the Publication of "Certain Opinions on Promoting Curricula Merging at 'Double World-Class' Institutes of Higher Education and on Accelerating the Cultivation of Graduate Students in the AI Field" by the Ministry of Education, the National Development and Reform Commission, and the Ministry of Finance
+- [Q003372](../berichte/Q00/Q0033/Q003372/README.de.md) The Semiconductor Supply Chain
+- [Q004547](../berichte/Q00/Q0045/Q004547/README.de.md) Securing Semiconductor Supply Chains
+- [Q005070](../berichte/Q00/Q0050/Q005070/README.de.md) China’s STI Operations
+- [Q004792](../berichte/Q00/Q0047/Q004792/README.de.md) Comparing Corporate and University Publication Activity in AI/ML
+- [Q006320](../berichte/Q00/Q0063/Q006320/README.de.md) Measures for Cybersecurity Reviews
+- [Q006324](../berichte/Q00/Q0063/Q006324/README.de.md) Notice on the Publication of Management Methods for the Demonstration Project for Building World-Class Cybersecurity Colleges
+- [Q005125](../berichte/Q00/Q0051/Q005125/README.de.md) Corporate Investors in Top U.S. AI Startups
+- [Q005496](../berichte/Q00/Q0054/Q005496/README.de.md) From China to San Francisco: The Location of Investors in Top U.S. AI Startups
+- [Q005043](../berichte/Q00/Q0050/Q005043/README.de.md) Using Machine Learning to Fill Gaps in Chinese AI Market Data
+- [Q005344](../berichte/Q00/Q0053/Q005344/README.de.md) Assessing the Scope of U.S. Visa Restrictions on Chinese Students
+- [Q005221](../berichte/Q00/Q0052/Q005221/README.de.md) Trusted Partners
+- [Q005233](../berichte/Q00/Q0052/Q005233/README.de.md) AI Verification
+- [Q004654](../berichte/Q00/Q0046/Q004654/README.de.md) Academics, AI, and APTs
+- [Q005011](../berichte/Q00/Q0050/Q005011/README.de.md) Understanding Chinese Government Guidance Funds
+- [Q005035](../berichte/Q00/Q0050/Q005035/README.de.md) Chinese Government Guidance Funds
+- [Q005135](../berichte/Q00/Q0051/Q005135/README.de.md) Lessons from Stealth for Emerging Technologies
+- [Q003422](../berichte/Q00/Q0034/Q003422/README.de.md) Key Concepts in AI Safety: Interpretability in Machine Learning
+- [Q003428](../berichte/Q00/Q0034/Q003428/README.de.md) Key Concepts in AI Safety: Robustness and Adversarial Examples
+- [Q003433](../berichte/Q00/Q0034/Q003433/README.de.md) Key Concepts in AI Safety: An Overview
+- [Q006179](../berichte/Q00/Q0061/Q006179/README.de.md) Testimony Before Senate Foreign Relations Committee
+- [Q006314](../berichte/Q00/Q0063/Q006314/README.de.md) CCP Central Committee Publishes Plan for Deepening the Reform of Party and State Agencies
+- [Q002080](../berichte/Q00/Q0020/Q002080/README.de.md) Emily Weinstein's Testimony Before the U.S.-China Economic and Security Review Commission
+- [Q006311](../berichte/Q00/Q0063/Q006311/README.de.md) Zachary Arnold's Testimony Before the U.S. China Economic and Security Review Commission
+- [Q004542](../berichte/Q00/Q0045/Q004542/README.de.md) China's Progress in Semiconductor Manufacturing Equipment
+- [Q004326](../berichte/Q00/Q0043/Q004326/README.de.md) Mapping India’s AI Potential
+- [Q006296](../berichte/Q00/Q0062/Q006296/README.de.md) Notice on Establishing Internet Commentator Teams
+- [Q006299](../berichte/Q00/Q0062/Q006299/README.de.md) Certain Opinions of the Ministry of Education, the China National Intellectual Property Administration, and the Ministry of Science and Technology on Improving the Quality of Patents at Institutes of Higher Education and Promoting [Patent] Conversion and Use
+- [Q006302](../berichte/Q00/Q0063/Q006302/README.de.md) Notice of the China National Intellectual Property Administration on More Strictly Regulating Patent Applications
+- [Q006306](../berichte/Q00/Q0063/Q006306/README.de.md) Notice of the Office of the State Council Inter-Ministerial Joint Conference on Implementation Work for the Intellectual Property Strategy on the Publication of the "2020 Promotion Plan for In-Depth Implementation of the National Intellectual Property Strategy and for Accelerating the Construction of China into an Intellectual Property Powerhouse"
+- [Q005024](../berichte/Q00/Q0050/Q005024/README.de.md) The Public AI Research Portfolio of China’s Security Forces
+- [Q006182](../berichte/Q00/Q0061/Q006182/README.de.md) Consolidation in the semiconductor supply chain poses risks of future disruptions
+- [Q005500](../berichte/Q00/Q0055/Q005500/README.de.md) AI Hubs
+- [Q004918](../berichte/Q00/Q0049/Q004918/README.de.md) U.S. AI Workforce
+- [Q005530](../berichte/Q00/Q0055/Q005530/README.de.md) The Path of Least Resistance
+- [Q006275](../berichte/Q00/Q0062/Q006275/README.de.md) Translation: Development of Artificial Intelligence |
+- [Q006276](../berichte/Q00/Q0062/Q006276/README.de.md) Draft Resolutions Have Been Prepared Concerning the Allocation of 16.5 Billion Rubles in Subsidies for the Development of AI in Russia
+- [Q006288](../berichte/Q00/Q0062/Q006288/README.de.md) Miao Wei: Advancing the High-Quality Development of the Manufacturing Industry
+- [Q006293](../berichte/Q00/Q0062/Q006293/README.de.md) Notice of the Ministry of Finance, the General Administration of Customs, and the State Taxation Administration on Import Duty Policies to Support the Development of the Integrated Circuit Industry and the Software Industry
+- [Q004800](../berichte/Q00/Q0048/Q004800/README.de.md) Ethics and Artificial Intelligence
+- [Q004759](../berichte/Q00/Q0047/Q004759/README.de.md) Mapping Research Agendas in U.S. Corporate AI Laboratories
+- [Q003655](../berichte/Q00/Q0036/Q003655/README.de.md) A DPA for the 21st Century
+- [Q006281](../berichte/Q00/Q0062/Q006281/README.de.md) CSET Translation: A Study of Shenzhen's International Technology Transfer Model and Measures to Improve It
+- [Q006287](../berichte/Q00/Q0062/Q006287/README.de.md) Translation: Notice of the Ministry of Commerce on Focusing on Constructing the New Development Pattern and Doing a Good Job of Stabilizing Foreign Investment
+- [Q004781](../berichte/Q00/Q0047/Q004781/README.de.md) Contending Frames: Evaluating Rhetorical Dynamics in AI
+- [Q005239](../berichte/Q00/Q0052/Q005239/README.de.md) Machine Intelligence for Scientific Discovery and Engineering Invention
+- [Q005333](../berichte/Q00/Q0053/Q005333/README.de.md) AI and Industry
+- [Q006079](../berichte/Q00/Q0060/Q006079/README.de.md) CSET Original Translation: China's 14th Five-Year Plan
+- [Q006267](../berichte/Q00/Q0062/Q006267/README.de.md) Translation: Notice on Regulating the Promotion of Cybersecurity Competitions
+- [Q004352](../berichte/Q00/Q0043/Q004352/README.de.md) Truth, Lies, and Automation
+- [Q005482](../berichte/Q00/Q0054/Q005482/README.de.md) China’s Artificial Intelligence Industry Alliance
+- [Q005490](../berichte/Q00/Q0054/Q005490/README.de.md) China’s Foreign Technology Wish List
+- [Q005150](../berichte/Q00/Q0051/Q005150/README.de.md) Research Security, Collaboration, and the Changing Map of Global R&D
+- [Q005471](../berichte/Q00/Q0054/Q005471/README.de.md) Comparing the United States’ and China’s Leading Roles in the Landscape of Science
+- [Q005789](../berichte/Q00/Q0057/Q005789/README.de.md) Creating a Map of Science and Measuring the Role of AI in it
+- [Q004661](../berichte/Q00/Q0046/Q004661/README.de.md) Machine Learning and Cybersecurity
+- [Q004902](../berichte/Q00/Q0049/Q004902/README.de.md) U.S. Demand for AI Certifications
+- [Q005592](../berichte/Q00/Q0055/Q005592/README.de.md) Poison in the Well
+- [Q004051](../berichte/Q00/Q0040/Q004051/README.de.md) China’s National Cybersecurity Center
+- [Q006196](../berichte/Q00/Q0061/Q006196/README.de.md) Coloring the Map of Science
+- [Q003942](../berichte/Q00/Q0039/Q003942/README.de.md) AI Accidents: An Emerging Threat
+- [Q006191](../berichte/Q00/Q0061/Q006191/README.de.md) Locating AI Research in the Map of Science
+- [Q001472](../berichte/Q00/Q0014/Q001472/README.de.md) National Power After AI
+- [Q006185](../berichte/Q00/Q0061/Q006185/README.de.md) Will Hunt's Testimony Before the Strategic Technologies and Advanced Research (STAR) Subcommittee
+- [Q005477](../berichte/Q00/Q0054/Q005477/README.de.md) The Huawei Moment
+- [Q004673](../berichte/Q00/Q0046/Q004673/README.de.md) China's CyberAI Talent Pipeline
+- [Q005542](../berichte/Q00/Q0055/Q005542/README.de.md) Ending Innovation Tourism
+- [Q005796](../berichte/Q00/Q0057/Q005796/README.de.md) Measuring AI RC Growth
+- [Q004469](../berichte/Q00/Q0044/Q004469/README.de.md) China’s Robotics Patent Landscape
+- [Q004890](../berichte/Q00/Q0048/Q004890/README.de.md) U.S. AI Summer Camps
+- [Q006264](../berichte/Q00/Q0062/Q006264/README.de.md) Anna Puglisi's Testimony Before the Senate Select Committee on Intelligence
+- [Q005311](../berichte/Q00/Q0053/Q005311/README.de.md) China is Fast Outpacing U.S. STEM PhD Growth
+- [Q005526](../berichte/Q00/Q0055/Q005526/README.de.md) Military AI Cooperation Toolbox
+- [Q005802](../berichte/Q00/Q0058/Q005802/README.de.md) Defining Computer Vision, Natural Language Processing, and Robotics Research Clusters
+- [Q006255](../berichte/Q00/Q0062/Q006255/README.de.md) Application Guidelines for the 2018 First Annual Batch of Projects for the "Technology and Equipment for Public Security Risk Prevention and Control and Emergency Response" Key Special Project (Judicial Thematic Tasks)
+- [Q006259](../berichte/Q00/Q0062/Q006259/README.de.md) 35 Key "Stranglehold" Technologies
+- [Q002201](../berichte/Q00/Q0022/Q002201/README.de.md) "Set Sail" Action Plan for 5G Applications (2021-2023) (Draft for Comments)
+- [Q004690](../berichte/Q00/Q0046/Q004690/README.de.md) Indonesia’s AI Promise in Perspective
+- [Q005523](../berichte/Q00/Q0055/Q005523/README.de.md) Responsible and Ethical Military AI
+- [Q005810](../berichte/Q00/Q0058/Q005810/README.de.md) Concentrations of AI-related Topics in Research: Computer Vision
+- [Q005321](../berichte/Q00/Q0053/Q005321/README.de.md) Headline or Trend Line?
+- [Q005467](../berichte/Q00/Q0054/Q005467/README.de.md) Small Data’s Big AI Potential
+- [Q005817](../berichte/Q00/Q0058/Q005817/README.de.md) Concentrations of AI-Related Topics in Research: Natural Language Processing
+- [Q006239](../berichte/Q00/Q0062/Q006239/README.de.md) Application Guidelines for the "Chips, Software, and Compute" (Chip Category) Major Special Project of the 2020 Annual Guangdong Provincial Program for Research and Development in Key Fields
+- [Q006241](../berichte/Q00/Q0062/Q006241/README.de.md) Notice of the [Wuhan] City People's Government on Certain Policies to Support the Development of the National Cybersecurity Talent and Innovation Base
+- [Q006244](../berichte/Q00/Q0062/Q006244/README.de.md) Provisional Administrative Methods for Entrusting Enterprises with Building State Key Laboratories
+- [Q006246](../berichte/Q00/Q0062/Q006246/README.de.md) Open Solicitation of Opinions on the Three-Year Action Plan for the High-Quality Development of the Cybersecurity Industry (2021-2023) (Draft for Solicitation of Opinions)
+- [Q006249](../berichte/Q00/Q0062/Q006249/README.de.md) Press Conference on the "Launch and Implementation of the National Key R&D Program": Summary Transcript
+- [Q006250](../berichte/Q00/Q0062/Q006250/README.de.md) Opinions of the CCP Central Committee and the State Council on Supporting High-Quality Reform and Opening Up in Pudong New District and Making it into a Leading Area for Socialist Modernization Construction
+- [Q005301](../berichte/Q00/Q0053/Q005301/README.de.md) AI Education in China and the United States
+- [Q005315](../berichte/Q00/Q0053/Q005315/README.de.md) Education in China and the United States
+- [Q006236](../berichte/Q00/Q0062/Q006236/README.de.md) White Paper on Trustworthy Artificial Intelligence
+- [Q005463](../berichte/Q00/Q0054/Q005463/README.de.md) From Cold War Sanctions to Weaponized Interdependence
+- [Q001482](../berichte/Q00/Q0014/Q001482/README.de.md) Robot Hacking Games
+- [Q005826](../berichte/Q00/Q0058/Q005826/README.de.md) Concentrations of AI-Related Topics in Research: Robotics
+- [Q005688](../berichte/Q00/Q0056/Q005688/README.de.md) Recommendations for the National AI Research Resource Task Force
+- [Q004506](../berichte/Q00/Q0045/Q004506/README.de.md) The DOD’s Hidden Artificial Intelligence Workforce
+- [Q006233](../berichte/Q00/Q0062/Q006233/README.de.md) State Council Notice on the Publication of the Outline of the Nationwide Scientific Literacy Action Plan (2021-2035)
+- [Q005834](../berichte/Q00/Q0058/Q005834/README.de.md) Map of Science Updates and User Interface Launch: What’s New?
+- [Q004135](../berichte/Q00/Q0041/Q004135/README.de.md) U.S. AI Workforce: Policy Recommendations
+- [Q005458](../berichte/Q00/Q0054/Q005458/README.de.md) Mapping the AI Investment Activities of Top Global Defense Companies
+- [Q005843](../berichte/Q00/Q0058/Q005843/README.de.md) AI-Supported COVID-19 Research
+- [Q006228](../berichte/Q00/Q0062/Q006228/README.de.md) Ethical Norms for New Generation Artificial Intelligence Released
+- [Q006231](../berichte/Q00/Q0062/Q006231/README.de.md) Artificial Intelligence Standardization White Paper (2021 Edition)
+- [Q005427](../berichte/Q00/Q0054/Q005427/README.de.md) No Permits, No Fabs
+- [Q004365](../berichte/Q00/Q0043/Q004365/README.de.md) Harnessed Lightning
+- [Q004463](../berichte/Q00/Q0044/Q004463/README.de.md) Trends in Robotics Patents
+- [Q004696](../berichte/Q00/Q0046/Q004696/README.de.md) Federal Prize Competitions
+- [Q005849](../berichte/Q00/Q0058/Q005849/README.de.md) Terrorism, AI, and Social Media Research Clusters
+- [Q004306](../berichte/Q00/Q0043/Q004306/README.de.md) Shanghai Municipal "14th Five-Year" Plan for Building a Science and Technology Innovation Center with Global Influence
+- [Q005419](../berichte/Q00/Q0054/Q005419/README.de.md) Superconductor Electronics Research
+- [Q006226](../berichte/Q00/Q0062/Q006226/README.de.md) Recommendations to OSTP on National Security Presidential Memorandum-33
+- [Q005208](../berichte/Q00/Q0052/Q005208/README.de.md) Classifying AI Systems
+- [Q005450](../berichte/Q00/Q0054/Q005450/README.de.md) Research Impact, Research Output, and the Role of International Collaboration
+- [Q005857](../berichte/Q00/Q0058/Q005857/README.de.md) Exploring bioinformatics through the Map of Science
+- [Q005340](../berichte/Q00/Q0053/Q005340/README.de.md) Staying Ahead
+- [Q006218](../berichte/Q00/Q0062/Q006218/README.de.md) White Paper on China's Computing Power Development Index
+- [Q006221](../berichte/Q00/Q0062/Q006221/README.de.md) Guidelines for the Construction of a National New Generation Artificial Intelligence Standards System
+- [Q006223](../berichte/Q00/Q0062/Q006223/README.de.md) The Chinese Communist Party Central Committee and the State Council Publish the "National Standardization Development Outline"
+- [Q003416](../berichte/Q00/Q0034/Q003416/README.de.md) Key Concepts in AI Safety: Specification in Machine Learning
+- [Q005862](../berichte/Q00/Q0058/Q005862/README.de.md) Exploring protein-folding AI research with the Map of Science
+- [Q004768](../berichte/Q00/Q0047/Q004768/README.de.md) Measuring AI Development
+- [Q004741](../berichte/Q00/Q0047/Q004741/README.de.md) AI for Judges
+- [Q004255](../berichte/Q00/Q0042/Q004255/README.de.md) AI and the Future of Disinformation Campaigns
+- [Q006212](../berichte/Q00/Q0062/Q006212/README.de.md) Artificial Intelligence Almanac: 2020 Index Report
+- [Q006215](../berichte/Q00/Q0062/Q006215/README.de.md) Opinions on Further Strengthening Biodiversity Protection
+- [Q004749](../berichte/Q00/Q0047/Q004749/README.de.md) Wisdom of the Crowd as Arbiter of Expert Disagreement
+- [Q005593](../berichte/Q00/Q0055/Q005593/README.de.md) Making AI Work for Cyber Defense
+- [Q005873](../berichte/Q00/Q0058/Q005873/README.de.md) Exploring Supercomputing with the Map of Science
+- [Q004269](../berichte/Q00/Q0042/Q004269/README.de.md) AI and the Future of Disinformation Campaigns
+- [Q001451](../berichte/Q00/Q0014/Q001451/README.de.md) Machines, Bureaucracies, and Markets as Artificial Intelligences
+- [Q004735](../berichte/Q00/Q0047/Q004735/README.de.md) Trends in AI Research for the Visual Surveillance of Populations
+- [Q003635](../berichte/Q00/Q0036/Q003635/README.de.md) CSET at Three
+- [Q005304](../berichte/Q00/Q0053/Q005304/README.de.md) Comparing U.S. and Chinese Contributions to High-Impact AI Research
+- [Q002065](../berichte/Q00/Q0020/Q002065/README.de.md) Xianning City Action Plan for In-Depth Development of Military-Civil Fusion (2021-2025) (Revised Draft)
+- [Q004705](../berichte/Q00/Q0047/Q004705/README.de.md) AI and Compute
+- [Q005288](../berichte/Q00/Q0052/Q005288/README.de.md) Chinese and U.S. University Rankings
+- [Q005416](../berichte/Q00/Q0054/Q005416/README.de.md) Sustaining U.S. Competitiveness in Semiconductor Manufacturing
+- [Q006199](../berichte/Q00/Q0061/Q006199/README.de.md) "14th Five-Year" Plan for Promoting the High-Quality Development of the National Standards System
+- [Q006201](../berichte/Q00/Q0062/Q006201/README.de.md) 2022 Nationwide S&T Work Conference Convened in Beijing
+- [Q005201](../berichte/Q00/Q0052/Q005201/README.de.md) Exploring Clusters of Research in Three Areas of AI Safety
+- [Q005274](../berichte/Q00/Q0052/Q005274/README.de.md) Reshoring Chipmaking Capacity Requires High-Skilled Foreign Talent
+- [Q002860](../berichte/Q00/Q0028/Q002860/README.de.md) "14th Five-Year" Plan for the Development of the Big Data Industry
+- [Q005883](../berichte/Q00/Q0058/Q005883/README.de.md) Exploring CSET’s PARAT
+- [Q005693](../berichte/Q00/Q0056/Q005693/README.de.md) Dakota Cary's Testimony Before the U.S.-China Economic and Security Commission
+- [Q006155](../berichte/Q00/Q0061/Q006155/README.de.md) Law of the People's Republic of China on Progress of Science and Technology
+- [Q006162](../berichte/Q00/Q0061/Q006162/README.de.md) 2020 National Foreign Expert Project Application Guide
+- [Q006165](../berichte/Q00/Q0061/Q006165/README.de.md) Guidelines for the Construction of a National Smart Manufacturing Standards System (2021 Edition)
+- [Q006171](../berichte/Q00/Q0061/Q006171/README.de.md) National- and Provincial-Level Scientific and Technological Achievement Conversion Promotion: A Policy Compendium
+- [Q005889](../berichte/Q00/Q0058/Q005889/README.de.md) Using PARAT to Rank Companies by Top AI Conference Publications
+- [Q006152](../berichte/Q00/Q0061/Q006152/README.de.md) Recommendations to OSTP on the National Artificial Intelligence Research and Development Strategic Plan
+- [Q005000](../berichte/Q00/Q0050/Q005000/README.de.md) A Competitive Era for China’s Universities
+- [Q005630](../berichte/Q00/Q0056/Q005630/README.de.md) Securing AI
+- [Q006145](../berichte/Q00/Q0061/Q006145/README.de.md) Recommendations to the U.S. Department of Commerce to support a strong domestic semiconductor industry
+- [Q005897](../berichte/Q00/Q0058/Q005897/README.de.md) Where are Companies Publishing AI Papers?
+- [Q006141](../berichte/Q00/Q0061/Q006141/README.de.md) Caroline Schuerger's Testimony Before the Bipartisan Commission on Biodefense
+- [Q003798](../berichte/Q00/Q0037/Q003798/README.de.md) Examining Patent Data in PARAT
+- [Q006139](../berichte/Q00/Q0061/Q006139/README.de.md) 2016 Annual Report on State Key Laboratories
+- [Q004880](../berichte/Q00/Q0048/Q004880/README.de.md) The Long-Term Stay Rates of International STEM PhD Graduates
+- [Q005906](../berichte/Q00/Q0059/Q005906/README.de.md) Examining Patent Data in PARAT: Patent Applications
+- [Q006132](../berichte/Q00/Q0061/Q006132/README.de.md) Notice of the State Administration of Foreign Experts Affairs on the Publication of a Trial Implementation Proposal for a Work Permit System for Foreigners in China
+- [Q005912](../berichte/Q00/Q0059/Q005912/README.de.md) Exploring the Company Stage of Development Feature in PARAT
+- [Q004869](../berichte/Q00/Q0048/Q004869/README.de.md) Training Tomorrow’s AI Workforce
+- [Q005673](../berichte/Q00/Q0056/Q005673/README.de.md) Andrew Lohn's Testimony before the Senate Armed Services Subcommittee on Cybersecurity
+- [Q005412](../berichte/Q00/Q0054/Q005412/README.de.md) Preserving the Chokepoints
+- [Q006128](../berichte/Q00/Q0061/Q006128/README.de.md) Export Control Regulations for Dual-Use Items (Draft for Feedback)
+- [Q005679](../berichte/Q00/Q0056/Q005679/README.de.md) Andrew Lohn's Testimony before House of Representatives Science, Space and Technology Subcommittees
+- [Q005927](../berichte/Q00/Q0059/Q005927/README.de.md) “Startup” Companies in PARAT
+- [Q006123](../berichte/Q00/Q0061/Q006123/README.de.md) Dewey Murdick's Testimony before the Senate Select Committee on Intelligence
+- [Q006114](../berichte/Q00/Q0061/Q006114/README.de.md) Ministry of Science and Technology 2022 Annual Budget
+- [Q006120](../berichte/Q00/Q0061/Q006120/README.de.md) Ministry of Industry and Information Technology 2022 Annual Budget
+- [Q005445](../berichte/Q00/Q0054/Q005445/README.de.md) Quad AI
+- [Q005399](../berichte/Q00/Q0053/Q005399/README.de.md) Chokepoints
+- [Q004640](../berichte/Q00/Q0046/Q004640/README.de.md) China’s Industrial Clusters
+- [Q005945](../berichte/Q00/Q0059/Q005945/README.de.md) “Mature” Companies in PARAT
+- [Q005405](../berichte/Q00/Q0054/Q005405/README.de.md) Re-Shoring Advanced Semiconductor Packaging
+- [Q004978](../berichte/Q00/Q0049/Q004978/README.de.md) China's State Key Laboratory System
+- [Q006101](../berichte/Q00/Q0061/Q006101/README.de.md) Ministry of Education 2022 Budget
+- [Q006105](../berichte/Q00/Q0061/Q006105/README.de.md) Ministry of Public Security 2022 Budget
+- [Q006110](../berichte/Q00/Q0061/Q006110/README.de.md) Artificial Intelligence White Paper (2022)
+- [Q005395](../berichte/Q00/Q0053/Q005395/README.de.md) Sustaining and Growing the U.S. Semiconductor Advantage: A Primer
+- [Q005682](../berichte/Q00/Q0056/Q005682/README.de.md) Andrew Lohn's Testimony Before the House Homeland Security Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation
+- [Q005952](../berichte/Q00/Q0059/Q005952/README.de.md) Previewing PARAT 2.0
+- [Q002229](../berichte/Q00/Q0022/Q002229/README.de.md) Empirical Evaluation of Physical Adversarial Patch Attacks Against Overhead Object Detection Models
+- [Q004484](../berichte/Q00/Q0044/Q004484/README.de.md) Silicon Twist
+- [Q006092](../berichte/Q00/Q0060/Q006092/README.de.md) National Natural Science Foundation of China 2022 Annual Budget
+- [Q006098](../berichte/Q00/Q0060/Q006098/README.de.md) Chinese Academy of Sciences 2022 Budget
+- [Q004862](../berichte/Q00/Q0048/Q004862/README.de.md) AI Faculty Shortages
+- [Q004993](../berichte/Q00/Q0049/Q004993/README.de.md) China's Advanced AI Research
+- [Q006088](../berichte/Q00/Q0060/Q006088/README.de.md) Ministry of Foreign Affairs 2022 Budget
+- [Q004970](../berichte/Q00/Q0049/Q004970/README.de.md) Counting AI Research
+- [Q005388](../berichte/Q00/Q0053/Q005388/README.de.md) Decoupling in Strategic Technologies
+- [Q002214](../berichte/Q00/Q0022/Q002214/README.de.md) Will AI Make Cyber Swords or Shields
+- [Q004714](../berichte/Q00/Q0047/Q004714/README.de.md) U.S. High School Cybersecurity Competitions
+- [Q006083](../berichte/Q00/Q0060/Q006083/README.de.md) Emily Weinstein's Testimony Before the U.S.-China Economic and Security Review Commission
+- [Q005600](../berichte/Q00/Q0056/Q005600/README.de.md) Will AI Make Cyber Swords or Shields?
+- [Q005704](../berichte/Q00/Q0057/Q005704/README.de.md) China Association of Science and Technology 2022 Budget
+- [Q005708](../berichte/Q00/Q0057/Q005708/README.de.md) Chinese Academy of Engineering 2022 Annual Budget
+- [Q005960](../berichte/Q00/Q0059/Q005960/README.de.md) Views of AI PhD Recipients on Resources to Build the Domestic Talent Pool
+- [Q005621](../berichte/Q00/Q0056/Q005621/README.de.md) Mapping Biosafety Level-3 Laboratories by Publications
+- [Q006070](../berichte/Q00/Q0060/Q006070/README.de.md) China Artificial Intelligence Talent Training Report
+- [Q006067](../berichte/Q00/Q0060/Q006067/README.de.md) National Climate Change Adaptation Strategy 2035
+- [Q005967](../berichte/Q00/Q0059/Q005967/README.de.md) The DOD and the U.S. Tech Sector Relationship
+- [Q005973](../berichte/Q00/Q0059/Q005973/README.de.md) Upcoming Survey Work at CSET
+- [Q004054](../berichte/Q00/Q0040/Q004054/README.de.md) Downrange: A Survey of China’s Cyber Ranges
+- [Q006057](../berichte/Q00/Q0060/Q006057/README.de.md) Artificial Intelligence Industry Talent Development Report (2019-2020 Edition)
+- [Q006063](../berichte/Q00/Q0060/Q006063/README.de.md) Action Plan for Improving the Technological Capabilities of Enterprises (2022-2023)
+- [Q005979](../berichte/Q00/Q0059/Q005979/README.de.md) GitHub Data: Capturing Open Source Software and Implementation
+- [Q004510](../berichte/Q00/Q0045/Q004510/README.de.md) Comment to NIST on the AI Risk Management Framework
+- [Q006053](../berichte/Q00/Q0060/Q006053/README.de.md) “Internet+” Artificial Intelligence Three-Year Action and Implementation Plan
+- [Q006011](../berichte/Q00/Q0060/Q006011/README.de.md) Translation Snapshot: Tech-Related Chinese National Strategies
+- [Q002091](../berichte/Q00/Q0020/Q002091/README.de.md) Catherine Aiken's Testimony before the National Artificial Intelligence Advisory Committee
+- [Q005988](../berichte/Q00/Q0059/Q005988/README.de.md) Popularity != Public Implementation: How Organizations Leverage Open Source Code
+- [Q006050](../berichte/Q00/Q0060/Q006050/README.de.md) Outline of the Chinese Academy of Sciences 13th Five-Year Development Plan
+- [Q005144](../berichte/Q00/Q0051/Q005144/README.de.md) Banned in D.C.
+- [Q005993](../berichte/Q00/Q0059/Q005993/README.de.md) Tech Proliferation: How GitHub Facilitates Academic Breakout
+- [Q002041](../berichte/Q00/Q0020/Q002041/README.de.md) Comment to the Office of the National Cyber Director on Cyber Workforce, Training, and Education
+- [Q006046](../berichte/Q00/Q0060/Q006046/README.de.md) China’s New Generation AI Technology Industry Region Competitiveness Evaluation Index
+- [Q005282](../berichte/Q00/Q0052/Q005282/README.de.md) China’s AI Workforce
+- [Q006001](../berichte/Q00/Q0060/Q006001/README.de.md) Global GitHub: Mapping the Utilization of Open Source Software by Organizations
+- [Q002675](../berichte/Q00/Q0026/Q002675/README.de.md) A Plea: The Case for Digital Environmentalism
+- [Q006037](../berichte/Q00/Q0060/Q006037/README.de.md) Application Guide for the 2021 First Batch of Projects for the "Intergovernmental International Cooperation on Science and Technology Innovation" Key Special Project (Draft for Feedback)
+- [Q006007](../berichte/Q00/Q0060/Q006007/README.de.md) Profile Highlight: HuggingFace
+- [Q004621](../berichte/Q00/Q0046/Q004621/README.de.md) Kevin Wolf's Testimony before the United Kingdom Parliament Committees on Arms Export Controls
+- [Q004338](../berichte/Q00/Q0043/Q004338/README.de.md) Translation Snapshot: Russian AI Policies
+- [Q006026](../berichte/Q00/Q0060/Q006026/README.de.md) Regulations for the Promotion of the Development of the Artificial Intelligence Industry in Shanghai Municipality
+- [Q006029](../berichte/Q00/Q0060/Q006029/README.de.md) Regulations for the Promotion of the Artificial Intelligence Industry in Shenzhen Special Economic Zone
+- [Q006034](../berichte/Q00/Q0060/Q006034/README.de.md) Special Plan for the Technology Factor of Production Market in the 14th Five-Year Plan Period
+- [Q005570](../berichte/Q00/Q0055/Q005570/README.de.md) Kevin Wolf's Testimony before the House Foreign Affairs Oversight and Accountability Subcommittee
+- [Q006021](../berichte/Q00/Q0060/Q006021/README.de.md) Office of the Central Cyberspace Affairs Commission Arranges and Launches “Clear and Bright: Rectifying the Chaos in the Realm of Mobile Internet Application Programs” Special Campaign
+- [Q005607](../berichte/Q00/Q0056/Q005607/README.de.md) Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk
+- [Q004950](../berichte/Q00/Q0049/Q004950/README.de.md) Betting the House: Leveraging the CHIPS and Science Act to Increase U.S. Microelectronics Supply Chain Resilience
+- [Q004519](../berichte/Q00/Q0045/Q004519/README.de.md) Comment to the National Biotechnology and Biomanufacturing Initiative
+- [Q006016](../berichte/Q00/Q0060/Q006016/README.de.md) Opinions of the CCP Central Committee and the State Council on Constructing a Basic System for Data and Putting Data Factors of Production to Better Use
+- [Q005567](../berichte/Q00/Q0055/Q005567/README.de.md) Advancing National Security and Foreign Policy Through Sanctions, Export Controls, and Other Economic Tools
+- [Q003806](../berichte/Q00/Q0038/Q003806/README.de.md) U.S. Outbound Investment into Chinese AI Companies
+- [Q005754](../berichte/Q00/Q0057/Q005754/README.de.md) Keyword Cascade Plots
+- [Q005728](../berichte/Q00/Q0057/Q005728/README.de.md) Establishment of a Process and Mechanism for Examining National Security Aspects of Foreign Investments (2022)
+- [Q005746](../berichte/Q00/Q0057/Q005746/README.de.md) Establishment of a Process and Mechanism for Examining National Security Aspects of Foreign Investments (2019)
+- [Q003861](../berichte/Q00/Q0038/Q003861/README.de.md) Chinese AI Investment and Commercial Activity in Southeast Asia
+- [Q005741](../berichte/Q00/Q0057/Q005741/README.de.md) Diving into Deep Learning with Keyword Cascade Plots
+- [Q005194](../berichte/Q00/Q0051/Q005194/README.de.md) One Size Does Not Fit All
+- [Q004630](../berichte/Q00/Q0046/Q004630/README.de.md) Anna Puglisi's Testimony Before the U.S.-China Economic and Security Review Commission
+- [Q005719](../berichte/Q00/Q0057/Q005719/README.de.md) 2022 Budget of the All-China Federation of Returned Overseas Chinese
+- [Q005734](../berichte/Q00/Q0057/Q005734/README.de.md) Dahlia Peterson's Testimony Before the U.S.-China Economic and Security Review Commission
+- [Q004722](../berichte/Q00/Q0047/Q004722/README.de.md) Examining Singapore's AI Progress
+- [Q005701](../berichte/Q00/Q0057/Q005701/README.de.md) Analyzing the Directionality of Citations in the Map of Science
+- [Q005723](../berichte/Q00/Q0057/Q005723/README.de.md) Information Security Technology-Security Specification and Assessment Methods for Machine Learning Algorithms
+- [Q003866](../berichte/Q00/Q0038/Q003866/README.de.md) Reducing the Risks of Artificial Intelligence for Military Decision Advantage
+- [Q003196](../berichte/Q00/Q0031/Q003196/README.de.md) Leading the Charge: A Look at the Top-Producing AI Programs in U.S. Colleges and Universities
+- [Q005669](../berichte/Q00/Q0056/Q005669/README.de.md) Act on Prevention of Divulgence and Protection of Industrial Technology (Abbreviated: Act on Protection of Industrial Technology)
+- [Q005643](../berichte/Q00/Q0056/Q005643/README.de.md) Outline of the Plan for the Strategy to Expand Domestic Demand (2022-2035)
+- [Q003836](../berichte/Q00/Q0038/Q003836/README.de.md) The Dynamic Face of AI Pre-Baccalaureate Credentials
+- [Q003237](../berichte/Q00/Q0032/Q003237/README.de.md) Adversarial Machine Learning and Cybersecurity
+- [Q005653](../berichte/Q00/Q0056/Q005653/README.de.md) Twenty Years of the NSAF Joint Fund: Exploration and Practice of a New Model for Strengthening Requirement-Led Basic Scientific Research Collaboration and Innovation
+- [Q005658](../berichte/Q00/Q0056/Q005658/README.de.md) 《芯片法案与美国技术领先地位的长期愿景》
+- [Q005661](../berichte/Q00/Q0056/Q005661/README.de.md) Kína külföldi technológiára irányuló kívánság listája
+- [Q005664](../berichte/Q00/Q0056/Q005664/README.de.md) «Список пожеланий» Китая в области иностранных технологий
+- [Q003849](../berichte/Q00/Q0038/Q003849/README.de.md) The Glass Classroom: Women's Representation in AI-Related Post-Secondary Programs
+- [Q005650](../berichte/Q00/Q0056/Q005650/README.de.md) Viral Families and Disease X: A Framework for U.S. Pandemic Preparedness Policy
+- [Q003825](../berichte/Q00/Q0038/Q003825/README.de.md) A Byte Out of the Gap: Analyzing AI Bachelor's, Master's, and PhD Production for Black Students
+- [Q005564](../berichte/Q00/Q0055/Q005564/README.de.md) "The Main Resource is the Human"
+- [Q003335](../berichte/Q00/Q0033/Q003335/README.de.md) Volunteer Force
+- [Q005639](../berichte/Q00/Q0056/Q005639/README.de.md) Reform Plan for Party and State Institutions
+- [Q005614](../berichte/Q00/Q0056/Q005614/README.de.md) Financing “The New Oil”
+- [Q003460](../berichte/Q00/Q0034/Q003460/README.de.md) Spotlight on Beijing Institute for General Artificial Intelligence
+- [Q004452](../berichte/Q00/Q0044/Q004452/README.de.md) Expanding the Reach: The Collective Impact of HBCUs, PBIs, and Other Universities on Black AI Education
+- [Q004627](../berichte/Q00/Q0046/Q004627/README.de.md) A Shot of Resilience
+- [Q003953](../berichte/Q00/Q0039/Q003953/README.de.md) A Matrix for Selecting Responsible AI Frameworks
+- [Q000906](../berichte/Q00/Q0009/Q000906/README.de.md) The Policy Playbook
+- [Q003530](../berichte/Q00/Q0035/Q003530/README.de.md) Dewey Murdick's Testimony before the House Science, Space and Technology Committee
+- [Q004400](../berichte/Q00/Q0044/Q004400/README.de.md) Notice of the Ministry of Science and Technology on the Publication of the Guidelines for National New Generation Artificial Intelligence Innovation and Development Pilot Zone Construction Work (Revised Version)
+- [Q004409](../berichte/Q00/Q0044/Q004409/README.de.md) Outline of the Medium- to Long-Term Development Plan for Scientific and Technological Innovation in the Transportation Field (2021-2035)
+- [Q004614](../berichte/Q00/Q0046/Q004614/README.de.md) Autonomous Cyber Defense
+- [Q004598](../berichte/Q00/Q0045/Q004598/README.de.md) Building the Cybersecurity Workforce Pipeline
+- [Q004584](../berichte/Q00/Q0045/Q004584/README.de.md) White Paper on AI Framework Development (2022)
+- [Q003763](../berichte/Q00/Q0037/Q003763/README.de.md) The Inigo Montoya Problem for Trustworthy AI
+- [Q004335](../berichte/Q00/Q0043/Q004335/README.de.md) Examining Key Tech Areas in Government Contracts Data
+- [Q004554](../berichte/Q00/Q0045/Q004554/README.de.md) China’s Cognitive AI Research
+- [Q004532](../berichte/Q00/Q0045/Q004532/README.de.md) Defending the Ultimate High Ground
+- [Q004086](../berichte/Q00/Q0040/Q004086/README.de.md) Identifying AI Research
+- [Q004432](../berichte/Q00/Q0044/Q004432/README.de.md) Tracking Industry in Government Contracts
+- [Q004495](../berichte/Q00/Q0044/Q004495/README.de.md) Who Cares About Trust?
+- [Q004501](../berichte/Q00/Q0045/Q004501/README.de.md) Voices of Innovation
+- [Q003246](../berichte/Q00/Q0032/Q003246/README.de.md) Jenny Jun's Testimony before the House Foreign Affairs Subcommittee on Indo-Pacific
+- [Q003907](../berichte/Q00/Q0039/Q003907/README.de.md) Adding Structure to AI Harm
+- [Q003704](../berichte/Q00/Q0037/Q003704/README.de.md) Comment on NSF RFI on Developing a Roadmap for the Directorate of Technology, Innovation, and Partnerships (TIP)
+- [Q003913](../berichte/Q00/Q0039/Q003913/README.de.md) The Race for U.S. Technical Talent
+- [Q003935](../berichte/Q00/Q0039/Q003935/README.de.md) Through a Glass, Darkly: Mapping Emerging Technologies and Their Supply Chains
+- [Q002211](../berichte/Q00/Q0022/Q002211/README.de.md) Confidence-Building Measures for Artificial Intelligence
+- [Q004179](../berichte/Q00/Q0041/Q004179/README.de.md) Notice on the Release of the “Guide to the 2023 Annual Projects for the Major Research Program on Explainable and Generalizable Next-Generation Artificial Intelligence Methods”
+- [Q004224](../berichte/Q00/Q0042/Q004224/README.de.md) U.S. and Chinese Military AI Purchases
+- [Q004183](../berichte/Q00/Q0041/Q004183/README.de.md) 한국 AI 생태계 분석
+- [Q004240](../berichte/Q00/Q0042/Q004240/README.de.md) Assessing South Korea’s AI Ecosystem
+- [Q004248](../berichte/Q00/Q0042/Q004248/README.de.md) Onboard AI: Constraints and Limitations
+- [Q004423](../berichte/Q00/Q0044/Q004423/README.de.md) 2022 White Paper on the Live-Fire Capabilities of Cybersecurity Talents: Attack and Defense Live-Fire Capability Edition
+- [Q004192](../berichte/Q00/Q0041/Q004192/README.de.md) Measures for the Management of Scientific Data
+- [Q004281](../berichte/Q00/Q0042/Q004281/README.de.md) Bayh-Dole Patent Trends
+- [Q003929](../berichte/Q00/Q0039/Q003929/README.de.md) Understanding the Global Gain-of-Function Research Landscape
+- [Q004205](../berichte/Q00/Q0042/Q004205/README.de.md) Translation Snapshot: Chinese Overseas Talent Recruitment
+- [Q004292](../berichte/Q00/Q0042/Q004292/README.de.md) Testimony before the Senate Committee on Energy and Natural Resources on “recent advances in artificial intelligence and the Department of Energy’s role in ensuring U.S. competitiveness and security in emerging technologies”
+- [Q004319](../berichte/Q00/Q0043/Q004319/README.de.md) China's Semiconductor-Related Export Controls
+- [Q003576](../berichte/Q00/Q0035/Q003576/README.de.md) AI Incident Collection: An Observational Study of the Great AI Experiment
+- [Q004023](../berichte/Q00/Q0040/Q004023/README.de.md) Advanced Technology: Examining Threats to National Security
+- [Q004094](../berichte/Q00/Q0040/Q004094/README.de.md) The PRC's Domestic Approach
+- [Q004103](../berichte/Q00/Q0041/Q004103/README.de.md) The PRC’s Efforts Abroad
+- [Q004173](../berichte/Q00/Q0041/Q004173/README.de.md) Comments on Provisions Pertaining to U.S. Investments in Certain National Security Technologies and Products in Countries of Concern
+- [Q004160](../berichte/Q00/Q0041/Q004160/README.de.md) Project Application Guide for the Shenzhen Science and Technology Innovation Commission's 2024 Annual Integrated Circuit Special Project Subsidy Program
+- [Q004149](../berichte/Q00/Q0041/Q004149/README.de.md) Techniques to Make Large Language Models Smaller: An Explainer
+- [Q004112](../berichte/Q00/Q0041/Q004112/README.de.md) The Inigo Montoya Problem for Trustworthy AI (International Version)
+- [Q004035](../berichte/Q00/Q0040/Q004035/README.de.md) Comment on OSTP RFI 88 FR 60513
+- [Q004122](../berichte/Q00/Q0041/Q004122/README.de.md) Decoding Intentions
+- [Q004012](../berichte/Q00/Q0040/Q004012/README.de.md) Skating to Where the Puck Is Going
+- [Q004079](../berichte/Q00/Q0040/Q004079/README.de.md) DOD's Emerging Digital Workforce
+- [Q004000](../berichte/Q00/Q0040/Q004000/README.de.md) BIS Best Data Practices: Part 1
+- [Q003141](../berichte/Q00/Q0031/Q003141/README.de.md) Technical Documentation of the National Information Security Standardization Technical Committee: Basic Safety Requirements for Generative Artificial Intelligence Services (Draft for Feedback)
+- [Q003884](../berichte/Q00/Q0038/Q003884/README.de.md) The Antimicrobial Resistance Research Landscape and Emerging Solutions
+- [Q003771](../berichte/Q00/Q0037/Q003771/README.de.md) BIS Best Data Practices: Part 2
+- [Q003967](../berichte/Q00/Q0039/Q003967/README.de.md) Beijing Municipal Implementation Plan for Promoting the Innovative Development of Future Industries
+- [Q003988](../berichte/Q00/Q0039/Q003988/README.de.md) Assessing the Global Research Landscape at the Intersection of Climate and AI
+- [Q003975](../berichte/Q00/Q0039/Q003975/README.de.md) Spurring Science
+- [Q003959](../berichte/Q00/Q0039/Q003959/README.de.md) Action Plan for the High-Quality Development of Computing Power Infrastructure
+- [Q003876](../berichte/Q00/Q0038/Q003876/README.de.md) CAST Announces its Major Scientific Questions, Engineering Technology Challenges, and Industrial Technology Questions for 2023 | CAST 25th Annual Conference
+- [Q003889](../berichte/Q00/Q0038/Q003889/README.de.md) Translation Snapshot: Chinese AI White Papers
+- [Q003897](../berichte/Q00/Q0038/Q003897/README.de.md) Assessing China's AI Workforce
+- [Q003802](../berichte/Q00/Q0038/Q003802/README.de.md) Repurposing the Wheel: Lessons for AI Standards
+- [Q003870](../berichte/Q00/Q0038/Q003870/README.de.md) Comment on OMB RFC on Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence Draft Memorandum
+- [Q003734](../berichte/Q00/Q0037/Q003734/README.de.md) AI and Biorisk: An Explainer
+- [Q003810](../berichte/Q00/Q0038/Q003810/README.de.md) Controlling Large Language Model Outputs: A Primer
+- [Q003781](../berichte/Q00/Q0037/Q003781/README.de.md) Scaling AI
+- [Q003791](../berichte/Q00/Q0037/Q003791/README.de.md) Comment on DHS’s Proposed Rule Modernizing H-1B Requirements
+- [Q003777](../berichte/Q00/Q0037/Q003777/README.de.md) The Core of Federal Cyber Talent
+- [Q003756](../berichte/Q00/Q0037/Q003756/README.de.md) Comment on Advanced Computing Chips Rule
+- [Q003747](../berichte/Q00/Q0037/Q003747/README.de.md) The U.S. AI Workforce: Analyzing Current Supply and Growth
+- [Q003720](../berichte/Q00/Q0037/Q003720/README.de.md) Certain Measures of the Qianhai Shenzhen-Hong Kong Modern Service Industry Cooperation Zone Management Bureau to Support the High-Quality Development and High-Level Application of Artificial Intelligence
+- [Q003515](../berichte/Q00/Q0035/Q003515/README.de.md) Introducing the Cyber Jobs Dataset
+- [Q003598](../berichte/Q00/Q0035/Q003598/README.de.md) Panel 3: Current and Emerging Technologies in U.S.-China Economic and National Security Competition:
+- [Q003709](../berichte/Q00/Q0037/Q003709/README.de.md) Panel 1: Current and Emerging Technologies in U.S.-China Economic and National Security Competition
+- [Q003692](../berichte/Q00/Q0036/Q003692/README.de.md) Implementation Opinions of Seven Ministries Including the Ministry of Industry and Information Technology on Promoting the Innovative Development of Future Industries
+- [Q003684](../berichte/Q00/Q0036/Q003684/README.de.md) Comment on NIST RFI Related to the Executive Order Concerning Artificial Intelligence (88 FR 88368)
+- [Q003642](../berichte/Q00/Q0036/Q003642/README.de.md) How Persuasive is AI-Generated Propaganda?
+- [Q003678](../berichte/Q00/Q0036/Q003678/README.de.md) Which Ties Will Bind?
+- [Q003661](../berichte/Q00/Q0036/Q003661/README.de.md) Chinese Academy of Sciences 2023 Budget
+- [Q003535](../berichte/Q00/Q0035/Q003535/README.de.md) CSET at Five
+- [Q003614](../berichte/Q00/Q0036/Q003614/README.de.md) Ethics Guidelines for Brain-Computer Interface Research
+- [Q003587](../berichte/Q00/Q0035/Q003587/README.de.md) An Argument for Hybrid AI Incident Reporting
+- [Q003566](../berichte/Q00/Q0035/Q003566/README.de.md) Bibliometric Analysis of China’s Non-Therapeutic Brain-Computer Interface Research
+- [Q002985](../berichte/Q00/Q0029/Q002985/README.de.md) International Science and Technology Information Center: Introduction to the Center
+- [Q002301](../berichte/Q00/Q0023/Q002301/README.de.md) Technical Documentation of National Technical Committee 260 on Cybersecurity of Standardization Administration of China: Basic Safety Requirements for Generative Artificial Intelligence Services
+- [Q003550](../berichte/Q00/Q0035/Q003550/README.de.md) Notice on the Initiative to Launch Value Creation Benchmarking Against World-Class Enterprises
+- [Q003540](../berichte/Q00/Q0035/Q003540/README.de.md) Implementation Opinions on the Innovative Development of Pilot Testing in the Manufacturing Industry
+- [Q003520](../berichte/Q00/Q0035/Q003520/README.de.md) Comment on BIS Request for Information
+- [Q003360](../berichte/Q00/Q0033/Q003360/README.de.md) Artificial Intelligence Law of the People’s Republic of China (Draft for Suggestions from Scholars)
+- [Q003505](../berichte/Q00/Q0035/Q003505/README.de.md) Gao Huajian and the China Talent Returnee Question
+- [Q003493](../berichte/Q00/Q0034/Q003493/README.de.md) China, Biotechnology, and BGI
+- [Q003388](../berichte/Q00/Q0033/Q003388/README.de.md) White Paper on China's Computing Power Development Index (2022)
+- [Q003483](../berichte/Q00/Q0034/Q003483/README.de.md) China and Medical AI
+- [Q003449](../berichte/Q00/Q0034/Q003449/README.de.md) Putting Teeth into AI Risk Management
+- [Q003438](../berichte/Q00/Q0034/Q003438/README.de.md) Panel 2: Key Economic Strategies for Leveling the U.S.-China Playing Field: Trade, Investment, and Technology
+- [Q003377](../berichte/Q00/Q0033/Q003377/README.de.md) Identifying Cyber Education Hotspots: An Interactive Guide
+- [Q003395](../berichte/Q00/Q0033/Q003395/README.de.md) Research Report on Governance Modernization in the Digital Age: Practice and Prospects for the Application of Large Models in the Government Domain (2023)
+- [Q003381](../berichte/Q00/Q0033/Q003381/README.de.md) Guidelines for the Construction of a Comprehensive Standardization System for the National Artificial Intelligence Industry (Draft for Feedback)
+- [Q003402](../berichte/Q00/Q0034/Q003402/README.de.md) Key Concepts in AI Safety: Reliable Uncertainty Quantification in Machine Learning
+- [Q003278](../berichte/Q00/Q0032/Q003278/README.de.md) Trust Issues: Discrepancies in Trustworthy AI Keywords Use in Policy and Research
+- [Q003357](../berichte/Q00/Q0033/Q003357/README.de.md) Pushing the Limits: Huawei's AI Chip Tests U.S. Export Controls
+- [Q003365](../berichte/Q00/Q0033/Q003365/README.de.md) China's Military AI Roadblocks
+- [Q002186](../berichte/Q00/Q0021/Q002186/README.de.md) Safeguarding Mail-Order DNA Synthesis in the Age of Artificial Intelligence
+- [Q003170](../berichte/Q00/Q0031/Q003170/README.de.md) A Quantitative Assessment of Department of Defense S&T Publication Collaborations
+- [Q003341](../berichte/Q00/Q0033/Q003341/README.de.md) Xi Jinping: Speech at the Nationwide S&T Conference, National Science and Technology Awards Conference, and the Conference of Academicians of CAS and CAE (June 24, 2024)
+- [Q003305](../berichte/Q00/Q0033/Q003305/README.de.md) Enabling Principles for AI Governance
+- [Q002693](../berichte/Q00/Q0026/Q002693/README.de.md) Eyes Wide Open: Harnessing the Remote Sensing and Data Analysis Industries to Enhance National Security
+- [Q003322](../berichte/Q00/Q0033/Q003322/README.de.md) Comment on Commerce Department RFI 89 FR 27411
+- [Q000920](../berichte/Q00/Q0009/Q000920/README.de.md) Governing AI with Existing Authorities
+- [Q003291](../berichte/Q00/Q0032/Q003291/README.de.md) Tracing the Emergence of Extreme Ultraviolet Lithography
+- [Q003273](../berichte/Q00/Q0032/Q003273/README.de.md) Interim Measures of Shanghai Municipality for the Administration of Disruptive Technology Innovation Projects
+- [Q003257](../berichte/Q00/Q0032/Q003257/README.de.md) Building the Tech Coalition
+- [Q003267](../berichte/Q00/Q0032/Q003267/README.de.md) Certain Measures of Guangdong Province for Empowering Thousands of Industries with Artificial Intelligence
+- [Q003212](../berichte/Q00/Q0032/Q003212/README.de.md) Beijing Municipal Action Plan to Promote "AI+" (2024-2025)
+- [Q003231](../berichte/Q00/Q0032/Q003231/README.de.md) Securing Critical Infrastructure in the Age of AI
+- [Q003223](../berichte/Q00/Q0032/Q003223/README.de.md) Through the Chat Window and Into the Real World: Preparing for AI Agents
+- [Q003208](../berichte/Q00/Q0032/Q003208/README.de.md) Fueling China’s Innovation: The Chinese Academy of Sciences and Its Role in the PRC’s S&T Ecosystem
+- [Q002795](../berichte/Q00/Q0027/Q002795/README.de.md) Funding the AI Cloud — Amazon, Alphabet, and Microsoft's Cloud Computing Investments, Part 1
+- [Q003190](../berichte/Q00/Q0031/Q003190/README.de.md) Cybersecurity Risks of AI-Generated Code
+- [Q002782](../berichte/Q00/Q0027/Q002782/README.de.md) Funding the AI Cloud — Amazon, Alphabet, and Microsoft's Cloud Computing Investments, Part 2
+- [Q003093](../berichte/Q00/Q0030/Q003093/README.de.md) Testimony before the U.S. Senate Judiciary Subcommittee on Privacy, Technology, and the Law
+- [Q003177](../berichte/Q00/Q0031/Q003177/README.de.md) Acquiring AI Companies: Tracking U.S. AI Mergers and Acquisitions
+- [Q002765](../berichte/Q00/Q0027/Q002765/README.de.md) Funding the AI Cloud — Amazon, Alphabet, and Microsoft's Cloud Computing Investments, Part 3
+- [Q003160](../berichte/Q00/Q0031/Q003160/README.de.md) AI Safety and Automation Bias
+- [Q002825](../berichte/Q00/Q0028/Q002825/README.de.md) Anticipating Biological Risk: A Toolkit for Strategic Biosecurity Policy
+- [Q003147](../berichte/Q00/Q0031/Q003147/README.de.md) Ministry of Commerce Notice 2024 No. 46: Notice Concerning Strengthening Controls on Exports of Relevant Dual-Use Items to the United States
+- [Q003151](../berichte/Q00/Q0031/Q003151/README.de.md) RFI Response: Safety Considerations for Chemical and/or Biological AI Models
+- [Q002318](../berichte/Q00/Q0023/Q002318/README.de.md) National Standard of the People's Republic of China: Cybersecurity Technology - Basic Safety Requirements for Generative Artificial Intelligence Services (Draft for Feedback)
+- [Q003129](../berichte/Q00/Q0031/Q003129/README.de.md) Staying Current with Emerging Technology Trends: Using Big Data to Inform Planning
+- [Q003113](../berichte/Q00/Q0031/Q003113/README.de.md) AI and the Future of Workforce Training
+- [Q003084](../berichte/Q00/Q0030/Q003084/README.de.md) Four Chinese Industry Associations Issue Statements Condemning U.S. Sanctions
+- [Q003099](../berichte/Q00/Q0030/Q003099/README.de.md) Identifying Emerging Technologies in Research
+- [Q003057](../berichte/Q00/Q0030/Q003057/README.de.md) Guiding Opinions on Promoting the Development of New-Style Research and Development Institutions
+- [Q003068](../berichte/Q00/Q0030/Q003068/README.de.md) Chinese Critiques of Large Language Models
+- [Q003036](../berichte/Q00/Q0030/Q003036/README.de.md) Song-Chun Zhu: The Race to General Purpose Artificial Intelligence is not Merely About Technological Competition; Even More So, it is a Struggle to Control the Narrative
+- [Q003024](../berichte/Q00/Q0030/Q003024/README.de.md) AI Incidents: Key Components for a Mandatory Reporting Regime
+- [Q003014](../berichte/Q00/Q0030/Q003014/README.de.md) Shaping the U.S. Space Launch Market
+- [Q002459](../berichte/Q00/Q0024/Q002459/README.de.md) Chinese Catalogue of Technologies Prohibited or Restricted from Export [2023]
+- [Q002998](../berichte/Q00/Q0029/Q002998/README.de.md) Putting Explainable AI to the Test: A Critical Look at AI Evaluation Approaches
+- [Q002992](../berichte/Q00/Q0029/Q002992/README.de.md) The State of AI-Related Apprenticeships
+- [Q002920](../berichte/Q00/Q0029/Q002920/README.de.md) Guiding Opinions on Strengthening the Governance of Science and Technology Ethics (Draft for Feedback)
+- [Q002907](../berichte/Q00/Q0029/Q002907/README.de.md) (Trial) Measures for Science and Technology Ethics Reviews (Draft for Feedback)
+- [Q002971](../berichte/Q00/Q0029/Q002971/README.de.md) CSET's Recommendations for an AI Action Plan
+- [Q002959](../berichte/Q00/Q0029/Q002959/README.de.md) How to Assess the Likelihood of Malicious Use of Advanced AI Systems
+- [Q002813](../berichte/Q00/Q0028/Q002813/README.de.md) Government AI Hire, Use, Buy (HUB) Roundtable Series - Roundtable 1: Government as a User of AI
+- [Q002938](../berichte/Q00/Q0029/Q002938/README.de.md) Government AI Hire, Use, Buy (HUB) Roundtable Series - Roundtable 2: Government as an Employer of AI Talent
+- [Q002944](../berichte/Q00/Q0029/Q002944/README.de.md) Government AI Hire, Use, Buy (HUB) Roundtable Series - Roundtable 4: Capstone
+- [Q002951](../berichte/Q00/Q0029/Q002951/README.de.md) Government AI Hire, Use, Buy (HUB) Roundtable Series - Roundtable 3: Government as a Buyer of AI
+- [Q002934](../berichte/Q00/Q0029/Q002934/README.de.md) Guide to the 2025 Annual Projects for the Major Research Program on Explainable and Generalizable Next-Generation Artificial Intelligence Methods
+- [Q002928](../berichte/Q00/Q0029/Q002928/README.de.md) Implementation Opinions of the National Development and Reform Commission and Other Ministries on Promoting the High-Quality Development of the Data Labeling Industry
+- [Q001782](../berichte/Q00/Q0017/Q001782/README.de.md) CSET's 2024 Annual Report
+- [Q002924](../berichte/Q00/Q0029/Q002924/README.de.md) AI for Military Decision-Making
+- [Q002870](../berichte/Q00/Q0028/Q002870/README.de.md) Measures for the Security Management of Facial Recognition Technology Applications
+- [Q002882](../berichte/Q00/Q0028/Q002882/README.de.md) Opinions on Strengthening the Governance of Science and Technology Ethics
+- [Q002896](../berichte/Q00/Q0028/Q002896/README.de.md) (Trial) Measures for Science and Technology Ethics Reviews
+- [Q002842](../berichte/Q00/Q0028/Q002842/README.de.md) Top-Tier Research Status for HBCUs?
+- [Q002239](../berichte/Q00/Q0022/Q002239/README.de.md) The Impact of AI on the Cyber Offense-Defense Balance and the Character of Cyber Conflict
+- [Q002221](../berichte/Q00/Q0022/Q002221/README.de.md) Defending Against Intelligent Attackers at Large Scales
+- [Q002835](../berichte/Q00/Q0028/Q002835/README.de.md) Guidelines for National Data Infrastructure Construction
+- [Q002754](../berichte/Q00/Q0027/Q002754/README.de.md) At the 20th Collective Study Session of the CCP Central Committee Politburo, Xi Jinping Stresses: Persist in Being Self-Reliant, Be Strongly Oriented Toward Applications, and Push the Orderly Development of Artificial Intelligence
+- [Q002745](../berichte/Q00/Q0027/Q002745/README.de.md) Plan for Accelerating the Construction of China into an Agricultural Powerhouse (2024-2035)
+- [Q002734](../berichte/Q00/Q0027/Q002734/README.de.md) Guiding Opinions of the General Office of the State Council on Promoting the High-Quality Development of Government Investment Funds
+- [Q002803](../berichte/Q00/Q0028/Q002803/README.de.md) Testimony before the U.S. House Committee on the Judiciary, Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet
+- [Q002728](../berichte/Q00/Q0027/Q002728/README.de.md) Promoting AI Innovation Through Competition
+- [Q002722](../berichte/Q00/Q0027/Q002722/README.de.md) Wuhan’s AI Development
+- [Q001701](../berichte/Q00/Q0017/Q001701/README.de.md) AI Ethics and Governance in the Job Market: Trends, Skills, and Sectoral Demand
+- [Q002703](../berichte/Q00/Q0027/Q002703/README.de.md) Anticipating AI’s Impact on the Cyber Offense-Defense Balance
+- [Q002596](../berichte/Q00/Q0025/Q002596/README.de.md) Notice of the Office of the Ministry of Industry and Information Technology on Organizing and Launching the Computing Power Infrastructure Enhancement Challenge Campaign
+- [Q002656](../berichte/Q00/Q0026/Q002656/README.de.md) Opportunities in Open Science, Metascience, and Artificial Intelligence
+- [Q002666](../berichte/Q00/Q0026/Q002666/README.de.md) Advanced Space Technologies
+- [Q002633](../berichte/Q00/Q0026/Q002633/README.de.md) Honchoing AI in the Air Force
+- [Q002640](../berichte/Q00/Q0026/Q002640/README.de.md) Testimony before the House Judiciary Subcommittee on Courts, Intellectual Property, and the Internet
+- [Q002624](../berichte/Q00/Q0026/Q002624/README.de.md) AI on the Edge of Space
+- [Q002611](../berichte/Q00/Q0026/Q002611/README.de.md) AI System-to-Model Innovation
+- [Q002577](../berichte/Q00/Q0025/Q002577/README.de.md) Notice of the Xiamen City Data Administration on the Announcement of the List of Artificial Intelligence Application Scenario Opportunities
+- [Q002398](../berichte/Q00/Q0023/Q002398/README.de.md) Framework Act on the Development of Artificial Intelligence and Establishment of Trust
+- [Q002554](../berichte/Q00/Q0025/Q002554/README.de.md) The Future of Work-Based Learning for Cyber Jobs
+- [Q002568](../berichte/Q00/Q0025/Q002568/README.de.md) Big Tech in Taiwan
+- [Q002479](../berichte/Q00/Q0024/Q002479/README.de.md) Sustaining the U.S. Edge in Remote Sensing, Launch, and Advanced Technologies for National Security
+- [Q002474](../berichte/Q00/Q0024/Q002474/README.de.md) Testimony before the Senate Small Business and Entrepreneurship Committee
+- [Q002469](../berichte/Q00/Q0024/Q002469/README.de.md) Introducing CSET’s Patent Clusters
+- [Q002196](../berichte/Q00/Q0021/Q002196/README.de.md) The NIH's Impact on Research and Innovation
+- [Q002439](../berichte/Q00/Q0024/Q002439/README.de.md) Outline of the Plan for the Construction of China into an Education Powerhouse (2024-2035)
+- [Q002427](../berichte/Q00/Q0024/Q002427/README.de.md) Chinese Catalogue of Technologies Prohibited or Restricted from Export [July 2025]
+- [Q002451](../berichte/Q00/Q0024/Q002451/README.de.md) Biotech Manufacturing Apprenticeships
+- [Q002419](../berichte/Q00/Q0024/Q002419/README.de.md) Translation Snapshot: 14th Five-Year Plan Spinoffs
+- [Q001587](../berichte/Q00/Q0015/Q001587/README.de.md) Pulling Back the Curtain on China’s Military-Civil Fusion
+- [Q002413](../berichte/Q00/Q0024/Q002413/README.de.md) Mu-ming Poo: The Scientists Most Needed Today are Those Who are “Driven to Catch Big Fish,” Not Those Who Only Care About “Fishing for the Joy of it”
+- [Q000935](../berichte/Q00/Q0009/Q000935/README.de.md) Harmonizing AI Guidance: Distilling Voluntary Standards and Best Practices into a Unified Framework
+- [Q002390](../berichte/Q00/Q0023/Q002390/README.de.md) Opinions of the State Council on Deepening the Implementation of the "Artificial Intelligence+" Initiative
+- [Q002377](../berichte/Q00/Q0023/Q002377/README.de.md) Implementation Opinions of the National Development and Reform Commission and the National Energy Administration on Promoting the High-Quality Development of "Artificial Intelligence+" Energy
+- [Q002364](../berichte/Q00/Q0023/Q002364/README.de.md) Guidelines for the Construction of a Comprehensive Standardization System for the National Artificial Intelligence Industry (2024 Edition)
+- [Q002406](../berichte/Q00/Q0024/Q002406/README.de.md) U.S. AI Statecraft
+- [Q002337](../berichte/Q00/Q0023/Q002337/README.de.md) Ministry of Commerce Notice 2025 No. 61: Announcement of the Decision to Implement Controls on Exports of Rare Earth-Related Items to Foreign Countries
+- [Q001333](../berichte/Q00/Q0013/Q001333/README.de.md) Guide to Using Generative Artificial Intelligence in Primary and Secondary Schools (2025 Edition)
+- [Q002345](../berichte/Q00/Q0023/Q002345/README.de.md) (Trial) Guidelines on Transportation Safety Services for Autonomous Vehicles
+- [Q002254](../berichte/Q00/Q0022/Q002254/README.de.md) RFI Response: Section 232 National Security Investigation of Imports of Robotics and Industrial Machinery
+- [Q002285](../berichte/Q00/Q0022/Q002285/README.de.md) The Use of Open Models in Research
+- [Q002292](../berichte/Q00/Q0022/Q002292/README.de.md) National Standard of the People's Republic of China: Cybersecurity Technology - Generative Artificial Intelligence Data Annotation Safety Specifications (Draft for Feedback)
+- [Q002354](../berichte/Q00/Q0023/Q002354/README.de.md) The Mechanisms of AI Harm: Lessons Learned from AI Incidents
+- [Q002331](../berichte/Q00/Q0023/Q002331/README.de.md) Mapping Space Debris
+- [Q002124](../berichte/Q00/Q0021/Q002124/README.de.md) 人工智能控制：如何利用违规人工智能体
+- [Q002140](../berichte/Q00/Q0021/Q002140/README.de.md) National Standard of the People's Republic of China: Cybersecurity Technology—Safety Specifications for Generative Artificial Intelligence Pre-Training and Fine-Tuning Data (Draft for Feedback)
+- [Q002275](../berichte/Q00/Q0022/Q002275/README.de.md) The U.S. Aerial Drone Market
+- [Q002263](../berichte/Q00/Q0022/Q002263/README.de.md) AI Governance at the Frontier
+- [Q002153](../berichte/Q00/Q0021/Q002153/README.de.md) "Set Sail" Action Plan for 5G Applications (2021-2023)
+- [Q002160](../berichte/Q00/Q0021/Q002160/README.de.md) Guiding Opinions on Accelerating Scenario Innovation to Promote the High-Quality Development of the Economy Through High-Level Applications of Artificial Intelligence
+- [Q002169](../berichte/Q00/Q0021/Q002169/README.de.md) Work Plan Unveiling the Key Tasks for Innovation in the New Generation Artificial Intelligence Industry
+- [Q002179](../berichte/Q00/Q0021/Q002179/README.de.md) At the 23rd Collective Study Session of the CCP Politburo, Xi Jinping Stressed: Strengthen the Long-Term Mechanism for Online Ecosystem Governance, Continue to Create a Clean and Correct Atmosphere in Cyberspace
+- [Q002026](../berichte/Q00/Q0020/Q002026/README.de.md) Implementation Opinions of Seven Ministries on Promoting the Innovative Development of the Brain-Computer Interface Industry
+- [Q002116](../berichte/Q00/Q0021/Q002116/README.de.md) China’s Embodied AI: A Path to AGI
+- [Q001982](../berichte/Q00/Q0019/Q001982/README.de.md) RFI Response: Office of Science and Technology Policy's Accelerating the American Scientific Enterprise Request for Information
+- [Q002051](../berichte/Q00/Q0020/Q002051/README.de.md) Translation Snapshot: Chinese Generative AI Safety Standards
+- [Q001995](../berichte/Q00/Q0019/Q001995/README.de.md) Artificial Intelligence Patent Clusters
+- [Q001965](../berichte/Q00/Q0019/Q001965/README.de.md) When AI Builds AI
+- [Q001937](../berichte/Q00/Q0019/Q001937/README.de.md) Physical AI
+- [Q001906](../berichte/Q00/Q0019/Q001906/README.de.md) Proposal of the Central Committee of the Chinese Communist Party on Drawing Up the 15th Five-Year Plan for National Economic and Social Development
+- [Q001916](../berichte/Q00/Q0019/Q001916/README.de.md) China’s Military AI Wish List
+- [Q001801](../berichte/Q00/Q0018/Q001801/README.de.md) Implementation Opinions on the "AI + Manufacturing" Special Initiative
+- [Q001714](../berichte/Q00/Q0017/Q001714/README.de.md) China National Space Administration Action Plan to Promote the High-Quality and Safe Development of Commercial Spaceflight (2025-2027)
+- [Q001670](../berichte/Q00/Q0016/Q001670/README.de.md) Open Models, Soft Power, and the Spectrum of U.S.-China Artificial Intelligence Competition
+- [Q001768](../berichte/Q00/Q0017/Q001768/README.de.md) CSET's 2025 Annual Report
+- [Q001721](../berichte/Q00/Q0017/Q001721/README.de.md) Regulation of the People's Republic of China on Export Controls for Dual-Use Items
+- [Q001729](../berichte/Q00/Q0017/Q001729/README.de.md) Cybersecurity Law of the People's Republic of China
+- [Q001733](../berichte/Q00/Q0017/Q001733/README.de.md) Operationalizing AI Guidance: A Reference Guide for Translating High-Level Goals into Practical Implementation
+- [Q001693](../berichte/Q00/Q0016/Q001693/README.de.md) Full-Spectrum Propaganda in the Social Media Era
+- [Q001617](../berichte/Q00/Q0016/Q001617/README.de.md) Certain Policy Measures to Accelerate the Construction of the Science and Technology Finance System and Strongly Support a High Level of Self-Reliance in Science and Technology
+- [Q001631](../berichte/Q00/Q0016/Q001631/README.de.md) Expand Financing Support to Science and Technology Enterprises
+- [Q001685](../berichte/Q00/Q0016/Q001685/README.de.md) Securing the Future of Trusted Semiconductor Supply Chains
+- [Q001496](../berichte/Q00/Q0014/Q001496/README.de.md) Beyond P(doom) for AI Risk: Quantifying Uncertainty Without Probability | Center for Security and Emerging Technology Georgetown AI
+- [Q001646](../berichte/Q00/Q0016/Q001646/README.de.md) Three-Year Action Plan for "Data Factor of Production ×"
+- [Q001393](../berichte/Q00/Q0013/Q001393/README.de.md) (Trial) Measures for Artificial Intelligence Technology Ethics Management Services (Draft for Public Feedback)
+- [Q001401](../berichte/Q00/Q0014/Q001401/README.de.md) National Standard of the People's Republic of China: Cybersecurity Technology - Basic Safety Requirements for Generative Artificial Intelligence Services
+- [Q001438](../berichte/Q00/Q0014/Q001438/README.de.md) Identifying the AI Development Workforce
+- [Q001411](../berichte/Q00/Q0014/Q001411/README.de.md) 2025 Annual List of High Technology Achievement Industrialization Pilot Projects for the National Key Research and Development Program
+- [Q001007](../berichte/Q00/Q0010/Q001007/README.de.md) Beyond Targeting
+- [Q001317](../berichte/Q00/Q0013/Q001317/README.de.md) “AI + Education” Action Plan
+- [Q001113](../berichte/Q00/Q0011/Q001113/README.de.md) Implementation Plan for the Initiative to Promote the Construction of High-Quality Industrial Datasets (Draft for Feedback)
+- [Q001124](../berichte/Q00/Q0011/Q001124/README.de.md) 2025-2026 Action Plan for the Stable Growth of the Electronic Information Manufacturing Industry
+- [Q001136](../berichte/Q00/Q0011/Q001136/README.de.md) Ministry of Commerce Press Spokesperson Answers Reporter's Question about the United States Threatening to Launch Investigations and Implement Sanctions Against Chinese Artificial Intelligence Enterprises
+- [Q001167](../berichte/Q00/Q0011/Q001167/README.de.md) Notice of the Office of the Ministry of Education on Strengthening Artificial Intelligence Education in Primary and Secondary Schools
+- [Q001177](../berichte/Q00/Q0011/Q001177/README.de.md) Guidelines for the Deployment and Application of Artificial Intelligence Large Models in the Government Sector
+- [Q001240](../berichte/Q00/Q0012/Q001240/README.de.md) Outpaced: AI and Policy's Role in Transforming Cybersecurity Compliance
+- [Q001197](../berichte/Q00/Q0011/Q001197/README.de.md) Strengthening the U.S. Semiconductor Manufacturing Workforce
+- [Q001101](../berichte/Q00/Q0011/Q001101/README.de.md) Coalition Operations
+- [Q001058](../berichte/Q00/Q0010/Q001058/README.de.md) Creating ATLAS
+- [Q001039](../berichte/Q00/Q0010/Q001039/README.de.md) Artificial Intelligence in Competition
+- [Q000983](../berichte/Q00/Q0009/Q000983/README.de.md) How Global Talent Pathways Shape U.S. STEM Award Achievement
+- [Q000850](../berichte/Q00/Q0008/Q000850/README.de.md) Tracking AI Chips
+- [Q000127](../berichte/Q00/Q0001/Q000127/README.de.md) How Black-Box Distillation Works
+- [Q000011](../berichte/Q00/Q0000/Q000011/README.de.md) Systematizing the Reporting of AI Red-Teaming
+- [Q000008](../berichte/Q00/Q0000/Q000008/README.de.md) Violet Teaming in Practice
+- [Q000660](../berichte/Q00/Q0006/Q000660/README.de.md) Map of Science
+- [Q000667](../berichte/Q00/Q0006/Q000667/README.de.md) The PLA’s Push for Military Robotics
+
+### csis.org
+
+- [Q000625](../berichte/Q00/Q0006/Q000625/README.de.md) Deepfakes Are Dominating Global Elections, and Regulation Is Playing Catch-Up
+
+### csoonline.com
+
+- [Q000444](../berichte/Q00/Q0004/Q000444/README.de.md) CrowdStrike launches AI kill switch to shut down rogue agents
+- [Q000453](../berichte/Q00/Q0004/Q000453/README.de.md) An AI kill switch isn't enough. Build a fallback plan
+
+### cybersecurity-insiders.com
+
+- [Q000448](../berichte/Q00/Q0004/Q000448/README.de.md) Test Whether an AI Agent Stays Stopped
+
+### dagens.com
+
+- [Q000575](../berichte/Q00/Q0005/Q000575/README.de.md) Russia, China and US weigh AI guardrails for nuclear command systems ahead of APEC
+
+### decisioninsights.ai
+
+- [Q000435](../berichte/Q00/Q0004/Q000435/README.de.md) Cequence Security and KPMG outline governance for AI agents
+
+### deepmind
+
+- [Q000945](../berichte/Q00/Q0009/Q000945/README.de.md) Systematic exploration of predicted quaternary structures within pandemic-relevant viral proteomes
+- [Q001107](../berichte/Q00/Q0011/Q001107/README.de.md) Category-Native Solomonoff Approximation: From Algorithmic Geometry to Kernels, Operators, and Induction
+- [Q001314](../berichte/Q00/Q0013/Q001314/README.de.md) Evals
+- [Q001585](../berichte/Q00/Q0015/Q001585/README.de.md) A framework for clinical validation of generative artificial intelligence therapeutics
+- [Q001814](../berichte/Q00/Q0018/Q001814/README.de.md) https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3A4D4FA5FE3B64AA21A9F2F4EC9F02BB/9781009607599c1_1-13.pdf/introduction-and-problem-statement.pdf
+- [Q001827](../berichte/Q00/Q0018/Q001827/README.de.md) https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3A4D4FA5FE3B64AA21A9F2F4EC9F02BB/9781009607599c1_1-13.pdf/introduction_and_problem_statement.pdf
+- [Q001834](../berichte/Q00/Q0018/Q001834/README.de.md) Functional reorganization of motor cortex connectivity during learning
+- [Q001875](../berichte/Q00/Q0018/Q001875/README.de.md) Large language models possess some ecological knowledge, but how much?
+- [Q002429](../berichte/Q00/Q0024/Q002429/README.de.md) Neural mechanisms of credit assignment for delayed outcomes during contingent learning
+- [Q002463](../berichte/Q00/Q0024/Q002463/README.de.md) A detailed theory of thalamic and cortical microcircuits for predictive visual inference
+- [Q002485](../berichte/Q00/Q0024/Q002485/README.de.md) A multi-modal transformer for cell type-agnostic regulatory predictions
+- [Q002537](../berichte/Q00/Q0025/Q002537/README.de.md) https://revistas.unlp.edu.ar/JAIIO/article/download/19775/19994
+- [Q002652](../berichte/Q00/Q0026/Q002652/README.de.md) Complete and Efficient Covariants for Three-Dimensional Point Configurations with Application to Learning Molecular Quantum Properties
+- [Q002682](../berichte/Q00/Q0026/Q002682/README.de.md) Understanding dual process cognition via the minimum description length principle
+- [Q002706](../berichte/Q00/Q0027/Q002706/README.de.md) Efficient Exploratory Synthesis of Quaternary Cesium Chlorides Guided by In Silico Predictions
+- [Q002735](../berichte/Q00/Q0027/Q002735/README.de.md) Evaluating Treatment Prioritization Rules via Rank-Weighted Average Treatment Effects
+- [Q002746](../berichte/Q00/Q0027/Q002746/README.de.md) Geometric epitope and paratope prediction
+- [Q002757](../berichte/Q00/Q0027/Q002757/README.de.md) Language models, like humans, show content effects on reasoning tasks
+- [Q002770](../berichte/Q00/Q0027/Q002770/README.de.md) Neural network variational Monte Carlo for positronic chemistry
+- [Q002789](../berichte/Q00/Q0027/Q002789/README.de.md) How does V1 population activity inform perceptual certainty?
+- [Q002802](../berichte/Q00/Q0028/Q002802/README.de.md) A virtual rodent predicts the structure of neural activity across behaviors
+- [Q002816](../berichte/Q00/Q0028/Q002816/README.de.md) Accurate structure prediction of biomolecular interactions with AlphaFold 3
+- [Q002855](../berichte/Q00/Q0028/Q002855/README.de.md) https://bmjopen.bmj.com/content/bmjopen/14/3/e079105.full.pdf
+- [Q002871](../berichte/Q00/Q0028/Q002871/README.de.md) Sparks of function by de novo protein design
+- [Q002965](../berichte/Q00/Q0029/Q002965/README.de.md) The Receptive Brain: Up-Regulated Right Temporal Alpha Oscillation Boosting Aha!
+- [Q002967](../berichte/Q00/Q0029/Q002967/README.de.md) An encyclopedia of enhancer-gene regulatory interactions in the human genome
+- [Q002979](../berichte/Q00/Q0029/Q002979/README.de.md) An impossibility theorem in game dynamics
+- [Q002986](../berichte/Q00/Q0029/Q002986/README.de.md) Generative replay underlies compositional inference in the hippocampal-prefrontal circuit
+- [Q002995](../berichte/Q00/Q0029/Q002995/README.de.md) Pretrial predictors of conflict response efficacy in the human prefrontal cortex
+- [Q003000](../berichte/Q00/Q0030/Q003000/README.de.md) Computational and systems neuroscience: The next 20 years
+- [Q003012](../berichte/Q00/Q0030/Q003012/README.de.md) Discounting Future Reward in an Uncertain World
+- [Q003031](../berichte/Q00/Q0030/Q003031/README.de.md) Using the Veil of Ignorance to align AI systems with principles of justice
+- [Q003043](../berichte/Q00/Q0030/Q003043/README.de.md) A learning agent that acquires social norms from public sanctions in decentralized multi-agent settings
+- [Q003046](../berichte/Q00/Q0030/Q003046/README.de.md) Rapid learning of predictive maps with STDP and theta phase precession
+- [Q003061](../berichte/Q00/Q0030/Q003061/README.de.md) ModelCIF: An extension of PDBx/mmCIF data representation for computed structure models
+- [Q003167](../berichte/Q00/Q0031/Q003167/README.de.md) untitled
+- [Q003209](../berichte/Q00/Q0032/Q003209/README.de.md) Dein Browser wird geprüft!
+- [Q003311](../berichte/Q00/Q0033/Q003311/README.de.md) Exploiting prior knowledge about biological macromolecules in cryo-EM structure determination
+- [Q003446](../berichte/Q00/Q0034/Q003446/README.de.md) Artificial and Computational Intelligence in Games: Revolutions in Computational Game AI (Dagstuhl Seminar 19511)
+- [Q003545](../berichte/Q00/Q0035/Q003545/README.de.md) Learning disentangled representations with semi-supervised deep generative models
+- [Q003555](../berichte/Q00/Q0035/Q003555/README.de.md) Vector-based Navigation using Grid-like Representations in Artificial Agents
+- [Q003570](../berichte/Q00/Q0035/Q003570/README.de.md) Experience selection in deep reinforcement learning for control
+- [Q003593](../berichte/Q00/Q0035/Q003593/README.de.md) Toward a Rational and Mechanistic Account of Mental Effort
+- [Q003608](../berichte/Q00/Q0036/Q003608/README.de.md) http://www.ejournals.eu/pliki/art/9009/
+- [Q004279](../berichte/Q00/Q0042/Q004279/README.de.md) Global_2021_Forecast_Highlights
+- [Q004440](../berichte/Q00/Q0044/Q004440/README.de.md) Projects
+- [Q004451](../berichte/Q00/Q0044/Q004451/README.de.md) WaveNet
+- [Q004464](../berichte/Q00/Q0044/Q004464/README.de.md) AlphaGo
+- [Q004472](../berichte/Q00/Q0044/Q004472/README.de.md) AlphaZero and MuZero
+- [Q006099](../berichte/Q00/Q0060/Q006099/README.de.md) Publications
+- [Q006648](../berichte/Q00/Q0066/Q006648/README.de.md) Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration
+- [Q009730](../berichte/Q00/Q0097/Q009730/README.de.md) https://github.com/google/trillian/blob/master/docs/papers/VerifiableDataStructures.pdf
+- [Q006109](../berichte/Q00/Q0061/Q006109/README.de.md) We are very excited to announce the launch of DeepMind Health
+- [Q001919](../berichte/Q00/Q0019/Q001919/README.de.md) Announcing DeepMind Health research partnership with Moorfields Eye Hospital
+- [Q001935](../berichte/Q00/Q0019/Q001935/README.de.md) Deep Reinforcement Learning
+- [Q001910](../berichte/Q00/Q0019/Q001910/README.de.md) DeepMind AI Reduces Google Data Centre Cooling Bill by 40%
+- [Q001898](../berichte/Q00/Q0018/Q001898/README.de.md) Decoupled Neural Interfaces Using Synthetic Gradients
+- [Q001887](../berichte/Q00/Q0018/Q001887/README.de.md) Applying machine learning to radiotherapy planning for head & neck cancer
+- [Q004117](../berichte/Q00/Q0041/Q004117/README.de.md) WaveNet: A generative model for raw audio
+- [Q003126](../berichte/Q00/Q0031/Q003126/README.de.md) Putting patients at the heart of DeepMind Health
+- [Q001877](../berichte/Q00/Q0018/Q001877/README.de.md) Announcing the Partnership on AI to Benefit People & Society
+- [Q001872](../berichte/Q00/Q0018/Q001872/README.de.md) Differentiable neural computers
+- [Q001866](../berichte/Q00/Q0018/Q001866/README.de.md) DeepMind and Blizzard to release StarCraft II as an AI research environment
+- [Q003121](../berichte/Q00/Q0031/Q003121/README.de.md) Reinforcement learning with unsupervised auxiliary tasks
+- [Q004948](../berichte/Q00/Q0049/Q004948/README.de.md) Working with the NHS to build lifesaving technology
+- [Q001858](../berichte/Q00/Q0018/Q001858/README.de.md) DeepMind Papers @ NIPS (Part 1)
+- [Q003106](../berichte/Q00/Q0031/Q003106/README.de.md) Open-sourcing DeepMind Lab
+- [Q001828](../berichte/Q00/Q0018/Q001828/README.de.md) DeepMind Papers @ NIPS (Part 3)
+- [Q006106](../berichte/Q00/Q0061/Q006106/README.de.md) Bringing the best of mobile technology to Imperial College Healthcare NHS Trust
+- [Q004944](../berichte/Q00/Q0049/Q004944/README.de.md) DeepMind’s work in 2016: a round-up
+- [Q003096](../berichte/Q00/Q0030/Q003096/README.de.md) Our collaborations with academia to advance the field of AI
+- [Q004106](../berichte/Q00/Q0041/Q004106/README.de.md) Understanding Agent Cooperation
+- [Q006177](../berichte/Q00/Q0061/Q006177/README.de.md) A milestone for DeepMind Health and Streams
+- [Q004934](../berichte/Q00/Q0049/Q004934/README.de.md) Trust, confidence and Verifiable Data Audit
+- [Q001820](../berichte/Q00/Q0018/Q001820/README.de.md) Enabling Continual Learning in Neural Networks
+- [Q004939](../berichte/Q00/Q0049/Q004939/README.de.md) Distill: Communicating the science of machine learning
+- [Q004633](../berichte/Q00/Q0046/Q004633/README.de.md) Open sourcing Sonnet - a new library for constructing neural networks
+- [Q003427](../berichte/Q00/Q0034/Q003427/README.de.md) Innovations of AlphaGo
+- [Q004793](../berichte/Q00/Q0047/Q004793/README.de.md) Exploring the mysteries of Go with AlphaGo and China's top players
+- [Q002108](../berichte/Q00/Q0021/Q002108/README.de.md) AlphaGo's next move
+- [Q006095](../berichte/Q00/Q0060/Q006095/README.de.md) A neural approach to relational reasoning
+- [Q003399](../berichte/Q00/Q0033/Q003399/README.de.md) Learning through human feedback
+- [Q006147](../berichte/Q00/Q0061/Q006147/README.de.md) Enhancing patient safety at Taunton and Somerset NHS Foundation Trust
+- [Q003393](../berichte/Q00/Q0033/Q003393/README.de.md) Interpreting Deep Neural Networks using Cognitive Psychology
+- [Q004989](../berichte/Q00/Q0049/Q004989/README.de.md) The Information Commissioner, the Royal Free, and what we’ve learned
+- [Q002092](../berichte/Q00/Q0020/Q002092/README.de.md) DeepMind expands to Canada with new research office in Edmonton, Alberta
+- [Q004977](../berichte/Q00/Q0049/Q004977/README.de.md) Independent Reviewers release first annual report on DeepMind Health
+- [Q003384](../berichte/Q00/Q0033/Q003384/README.de.md) Producing flexible behaviours in simulated environments
+- [Q003374](../berichte/Q00/Q0033/Q003374/README.de.md) Imagine this: Creating new visual concepts by recombining familiar ones
+- [Q002084](../berichte/Q00/Q0020/Q002084/README.de.md) Agents that imagine and plan
+- [Q003367](../berichte/Q00/Q0033/Q003367/README.de.md) Going beyond average for reinforcement learning
+- [Q002075](../berichte/Q00/Q0020/Q002075/README.de.md) AI and Neuroscience: A virtuous circle
+- [Q006134](../berichte/Q00/Q0061/Q006134/README.de.md) DeepMind papers at ICML 2017 (part three)
+- [Q006138](../berichte/Q00/Q0061/Q006138/README.de.md) DeepMind papers at ICML 2017 (part two)
+- [Q006142](../berichte/Q00/Q0061/Q006142/README.de.md) DeepMind papers at ICML 2017 (part one)
+- [Q002070](../berichte/Q00/Q0020/Q002070/README.de.md) DeepMind and Blizzard open StarCraft II as an AI research environment
+- [Q003361](../berichte/Q00/Q0033/Q003361/README.de.md) The hippocampus as a predictive map
+- [Q004730](../berichte/Q00/Q0047/Q004730/README.de.md) Why we launched DeepMind Ethics & Society
+- [Q004182](../berichte/Q00/Q0041/Q004182/README.de.md) WaveNet launches in the Google Assistant
+- [Q003353](../berichte/Q00/Q0033/Q003353/README.de.md) Strengthening our commitment to Canadian research
+- [Q002057](../berichte/Q00/Q0020/Q002057/README.de.md) AlphaGo Zero: Starting from scratch
+- [Q006129](../berichte/Q00/Q0061/Q006129/README.de.md) Bringing Streams to Yeovil District Hospital NHS Foundation Trust
+- [Q003348](../berichte/Q00/Q0033/Q003348/README.de.md) Sharing our insights from designing with clinicians
+- [Q003343](../berichte/Q00/Q0033/Q003343/README.de.md) High-fidelity speech synthesis with WaveNet
+- [Q006091](../berichte/Q00/Q0060/Q006091/README.de.md) Applying machine learning to mammography screening for breast cancer
+- [Q003332](../berichte/Q00/Q0033/Q003332/README.de.md) Population based training of neural networks
+- [Q003319](../berichte/Q00/Q0033/Q003319/README.de.md) Specifying AI safety problems in simple environments
+- [Q004177](../berichte/Q00/Q0041/Q004177/README.de.md) Why doesn't Streams use AI?
+- [Q006126](../berichte/Q00/Q0061/Q006126/README.de.md) DeepMind papers at NIPS 2017
+- [Q004968](../berichte/Q00/Q0049/Q004968/README.de.md) Collaborating with patients for better outcomes
+- [Q001586](../berichte/Q00/Q0015/Q001586/README.de.md) 2017: DeepMind's year in review
+- [Q002049](../berichte/Q00/Q0020/Q002049/README.de.md) Game-theory insights into asymmetric multi-agent games
+- [Q003300](../berichte/Q00/Q0033/Q003300/README.de.md) Open-sourcing Psychlab
+- [Q003288](../berichte/Q00/Q0032/Q003288/README.de.md) Learning explanatory rules from noisy data
+- [Q003280](../berichte/Q00/Q0032/Q003280/README.de.md) Scalable agent architecture for distributed training
+- [Q004963](../berichte/Q00/Q0049/Q004963/README.de.md) Researching patient deterioration with the US Department of Veterans Affairs
+- [Q003270](../berichte/Q00/Q0032/Q003270/README.de.md) Learning by playing
+- [Q004723](../berichte/Q00/Q0047/Q004723/README.de.md) Stop, look and listen to the people you want to help
+- [Q004166](../berichte/Q00/Q0041/Q004166/README.de.md) Understanding deep learning through neuron deletion
+- [Q004666](../berichte/Q00/Q0046/Q004666/README.de.md) Learning to write programs that generate images
+- [Q003243](../berichte/Q00/Q0032/Q003243/README.de.md) Retour à Paris / A return to Paris
+- [Q003255](../berichte/Q00/Q0032/Q003255/README.de.md) Learning to navigate in cities without a map
+- [Q004955](../berichte/Q00/Q0049/Q004955/README.de.md) Our first COO Lila Ibrahim takes DeepMind to the next level
+- [Q006121](../berichte/Q00/Q0061/Q006121/README.de.md) DeepMind papers at ICLR 2018
+- [Q006115](../berichte/Q00/Q0061/Q006115/README.de.md) DeepMind, meet Android
+- [Q003233](../berichte/Q00/Q0032/Q003233/README.de.md) Navigating with grid-like representations in artificial agents
+- [Q003220](../berichte/Q00/Q0032/Q003220/README.de.md) Prefrontal cortex as a meta-reinforcement learning system
+- [Q005027](../berichte/Q00/Q0050/Q005027/README.de.md) Royal Free London publishes findings of legal audit in use of Streams
+- [Q003601](../berichte/Q00/Q0036/Q003601/README.de.md) Neural scene representation and rendering
+- [Q005018](../berichte/Q00/Q0050/Q005018/README.de.md) DeepMind Health Response to Independent Reviewers' Report 2018
+- [Q006166](../berichte/Q00/Q0061/Q006166/README.de.md) DeepMind papers at ICML 2018
+- [Q003575](../berichte/Q00/Q0035/Q003575/README.de.md) Measuring abstract reasoning in neural networks
+- [Q003567](../berichte/Q00/Q0035/Q003567/README.de.md) Objects that Sound
+- [Q006172](../berichte/Q00/Q0061/Q006172/README.de.md) A major milestone for the treatment of eye disease
+- [Q003547](../berichte/Q00/Q0035/Q003547/README.de.md) Safety-first AI for autonomous data centre cooling and industrial control
+- [Q003536](../berichte/Q00/Q0035/Q003536/README.de.md) Preserving Outputs Precisely while Adaptively Rescaling Targets
+- [Q005013](../berichte/Q00/Q0050/Q005013/README.de.md) Using AI to plan head and neck cancer treatments
+- [Q005008](../berichte/Q00/Q0050/Q005008/README.de.md) Expanding our research on breast cancer screening to Japan
+- [Q004641](../berichte/Q00/Q0046/Q004641/README.de.md) Open sourcing TRFL: a library of reinforcement learning building blocks
+- [Q006158](../berichte/Q00/Q0061/Q006158/README.de.md) Predicting eye disease with Moorfields Eye Hospital
+- [Q005003](../berichte/Q00/Q0050/Q005003/README.de.md) Scaling Streams with Google
+- [Q002217](../berichte/Q00/Q0022/Q002217/README.de.md) AlphaZero: Shedding new light on chess, shogi, and Go
+- [Q002207](../berichte/Q00/Q0022/Q002207/README.de.md) AlphaStar: Mastering the real-time strategy game StarCraft II
+- [Q003531](../berichte/Q00/Q0035/Q003531/README.de.md) Machine learning can boost the value of wind energy
+- [Q003514](../berichte/Q00/Q0035/Q003514/README.de.md) Identifying and eliminating bugs in learned predictive models
+- [Q002192](../berichte/Q00/Q0021/Q002192/README.de.md) Capture the Flag: the emergence of complex cooperative agents
+- [Q004345](../berichte/Q00/Q0043/Q004345/README.de.md) Unsupervised learning: The curious pupil
+- [Q003501](../berichte/Q00/Q0035/Q003501/README.de.md) How evolutionary selection can train more capable self-driving cars
+- [Q004337](../berichte/Q00/Q0043/Q004337/README.de.md) Using AI to give doctors a 48-hour head start on life-threatening illness
+- [Q004333](../berichte/Q00/Q0043/Q004333/README.de.md) Using machine learning to accelerate ecological research
+- [Q004323](../berichte/Q00/Q0043/Q004323/README.de.md) Welcome to the DeepMind podcast
+- [Q003488](../berichte/Q00/Q0034/Q003488/README.de.md) The Podcast: Episode 1: AI and neuroscience - The virtuous circle
+- [Q003482](../berichte/Q00/Q0034/Q003482/README.de.md) The Podcast: Episode 2: Go to Zero
+- [Q004313](../berichte/Q00/Q0043/Q004313/README.de.md) The Podcast: Episode 3: Life is like a game
+- [Q004297](../berichte/Q00/Q0042/Q004297/README.de.md) The Podcast: Episode 4: AI, Robot
+- [Q004287](../berichte/Q00/Q0042/Q004287/README.de.md) The Podcast: Episode 5: Out of the lab
+- [Q004275](../berichte/Q00/Q0042/Q004275/README.de.md) The Podcast: Episode 6: AI for everyone
+- [Q003824](../berichte/Q00/Q0038/Q003824/README.de.md) Making Efficient Use of Demonstrations to Solve Hard Exploration Problems
+- [Q003459](../berichte/Q00/Q0034/Q003459/README.de.md) Replay in biological and artificial neural networks
+- [Q004266](../berichte/Q00/Q0042/Q004266/README.de.md) The Podcast: Episode 7: Towards the future
+- [Q004253](../berichte/Q00/Q0042/Q004253/README.de.md) The Podcast: Episode 8: Demis Hassabis
+- [Q006154](../berichte/Q00/Q0061/Q006154/README.de.md) DeepMind’s health team joins Google Health
+- [Q002182](../berichte/Q00/Q0021/Q002182/README.de.md) Causal Bayesian Networks: A flexible tool to enable fairer machine learning
+- [Q003833](../berichte/Q00/Q0038/Q003833/README.de.md) Restoring ancient text using deep learning: a case study on Greek epigraphy
+- [Q002171](../berichte/Q00/Q0021/Q002171/README.de.md) AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning
+- [Q001594](../berichte/Q00/Q0015/Q001594/README.de.md) Advanced machine learning helps Play Store users discover personalised apps
+- [Q004998](../berichte/Q00/Q0049/Q004998/README.de.md) From unlikely start-up to major scientific organisation: Entering our tenth year at DeepMind
+- [Q003445](../berichte/Q00/Q0034/Q003445/README.de.md) Learning human objectives by evaluating hypothetical behaviours
+- [Q004247](../berichte/Q00/Q0042/Q004247/README.de.md) Using WaveNet technology to reunite speech-impaired users with their original voices
+- [Q003841](../berichte/Q00/Q0038/Q003841/README.de.md) International evaluation of an AI system for breast cancer screening
+- [Q004849](../berichte/Q00/Q0048/Q004849/README.de.md) Artificial Intelligence, Values and Alignment
+- [Q002151](../berichte/Q00/Q0021/Q002151/README.de.md) Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI
+- [Q002163](../berichte/Q00/Q0021/Q002163/README.de.md) AlphaFold: Using AI for scientific discovery
+- [Q002136](../berichte/Q00/Q0021/Q002136/README.de.md) A new model and dataset for long-range memory
+- [Q004396](../berichte/Q00/Q0043/Q004396/README.de.md) Visual Grounding in Video for Unsupervised Word Translation
+- [Q002119](../berichte/Q00/Q0021/Q002119/README.de.md) Agent57: Outperforming the human Atari benchmark
+- [Q004236](../berichte/Q00/Q0042/Q004236/README.de.md) Towards understanding glasses with graph neural networks
+- [Q004700](../berichte/Q00/Q0047/Q004700/README.de.md) Learning to Segment Actions from Observation and Narration
+- [Q004651](../berichte/Q00/Q0046/Q004651/README.de.md) Simple Sensor Intentions for Exploration
+- [Q004209](../berichte/Q00/Q0042/Q004209/README.de.md) Using AI to predict retinal disease progression
+- [Q001643](../berichte/Q00/Q0016/Q001643/README.de.md) Acme: A new framework for distributed reinforcement learning
+- [Q002543](../berichte/Q00/Q0025/Q002543/README.de.md) dm_control: Software and Tasks for Continuous Control
+- [Q004619](../berichte/Q00/Q0046/Q004619/README.de.md) RL Unplugged: Benchmarks for Offline Reinforcement Learning
+- [Q001740](../berichte/Q00/Q0017/Q001740/README.de.md) Computational predictions of protein structures associated with COVID-19
+- [Q004193](../berichte/Q00/Q0041/Q004193/README.de.md) Traffic prediction with advanced Graph Neural Networks
+- [Q002409](../berichte/Q00/Q0024/Q002409/README.de.md) Fast reinforcement learning through the composition of behaviours
+- [Q004626](../berichte/Q00/Q0046/Q004626/README.de.md) Using Unity to Help Solve Intelligence
+- [Q002378](../berichte/Q00/Q0023/Q002378/README.de.md) AlphaFold: a solution to a 50-year-old grand challenge in biology
+- [Q004389](../berichte/Q00/Q0043/Q004389/README.de.md) Using JAX to accelerate our research
+- [Q003864](../berichte/Q00/Q0038/Q003864/README.de.md) Imitating Interactive Intelligence
+- [Q003773](../berichte/Q00/Q0037/Q003773/README.de.md) MuZero: Mastering Go, chess, shogi and Atari without rules
+- [Q002573](../berichte/Q00/Q0025/Q002573/README.de.md) Data, Architecture, or Losses: What Contributes Most to Multimodal Transformer Success?
+- [Q002367](../berichte/Q00/Q0023/Q002367/README.de.md) Game theory as an engine for large-scale data analysis
+- [Q001632](../berichte/Q00/Q0016/Q001632/README.de.md) Advancing sports analytics through AI research
+- [Q003868](../berichte/Q00/Q0038/Q003868/README.de.md) Melting Pot: an evaluation suite for multi-agent reinforcement learning
+- [Q003759](../berichte/Q00/Q0037/Q003759/README.de.md) Generally capable agents emerge from open-ended play
+- [Q002357](../berichte/Q00/Q0023/Q002357/README.de.md) Building architectures that can handle the world’s data
+- [Q002602](../berichte/Q00/Q0026/Q002602/README.de.md) Challenges in Detoxifying Language Models
+- [Q003877](../berichte/Q00/Q0038/Q003877/README.de.md) Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration
+- [Q003741](../berichte/Q00/Q0037/Q003741/README.de.md) Nowcasting the next hour of rain
+- [Q003726](../berichte/Q00/Q0037/Q003726/README.de.md) Predicting gene expression with AI
+- [Q003715](../berichte/Q00/Q0037/Q003715/README.de.md) Stacking our way to more general robots
+- [Q004687](../berichte/Q00/Q0046/Q004687/README.de.md) Opening up a physics simulator for robotics
+- [Q003703](../berichte/Q00/Q0037/Q003703/README.de.md) Real-world challenges for AGI
+- [Q004351](../berichte/Q00/Q0043/Q004351/README.de.md) Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons
+- [Q001954](../berichte/Q00/Q0019/Q001954/README.de.md) Exploring the beauty of pure mathematics in novel ways
+- [Q003615](../berichte/Q00/Q0036/Q003615/README.de.md) On the Expressivity of Markov Reward
+- [Q002264](../berichte/Q00/Q0022/Q002264/README.de.md) Creating Interactive Agents with Imitation Learning
+- [Q003143](../berichte/Q00/Q0031/Q003143/README.de.md) Language modelling at scale: Gopher, ethical considerations, and retrieval
+- [Q003637](../berichte/Q00/Q0036/Q003637/README.de.md) Improving language models by retrieving from trillions of tokens
+- [Q003152](../berichte/Q00/Q0031/Q003152/README.de.md) Simulating matter on the quantum scale with AI
+- [Q002232](../berichte/Q00/Q0022/Q002232/README.de.md) AlphaFold: Using AI for scientific discovery
+- [Q003648](../berichte/Q00/Q0036/Q003648/README.de.md) Spurious normativity enhances learning of compliance and enforcement behavior in artificial agents
+- [Q001964](../berichte/Q00/Q0019/Q001964/README.de.md) DeepMind: The Podcast returns for Season 2
+- [Q003654](../berichte/Q00/Q0036/Q003654/README.de.md) Red Teaming Language Models with Language Models
+- [Q003158](../berichte/Q00/Q0031/Q003158/README.de.md) MuZero’s first step from research into the real world
+- [Q001557](../berichte/Q00/Q0015/Q001557/README.de.md) Accelerating fusion science through learned plasma control
+- [Q003662](../berichte/Q00/Q0036/Q003662/README.de.md) Probing Image-Language Transformers for Verb Understanding
+- [Q003672](../berichte/Q00/Q0036/Q003672/README.de.md) Learning Robust Real-Time Cultural Transmission without Human Data
+- [Q003711](../berichte/Q00/Q0037/Q003711/README.de.md) Predicting the past with Ithaca
+- [Q003675](../berichte/Q00/Q0036/Q003675/README.de.md) GopherCite: Teaching language models to support answers with verified quotes
+- [Q002273](../berichte/Q00/Q0022/Q002273/README.de.md) An empirical analysis of compute-optimal large language model training
+- [Q004824](../berichte/Q00/Q0048/Q004824/README.de.md) DeepMind’s latest research at ICLR 2022
+- [Q003697](../berichte/Q00/Q0036/Q003697/README.de.md) Tackling multiple tasks with a single visual language model
+- [Q004366](../berichte/Q00/Q0043/Q004366/README.de.md) When a passion for bass and brass help build better tools
+- [Q001606](../berichte/Q00/Q0016/Q001606/README.de.md) Active offline policy selection
+- [Q002287](../berichte/Q00/Q0022/Q002287/README.de.md) A Generalist Agent
+- [Q002294](../berichte/Q00/Q0022/Q002294/README.de.md) Emergent Bartering Behaviour in Multi-Agent Reinforcement Learning
+- [Q004819](../berichte/Q00/Q0048/Q004819/README.de.md) From LEGO competitions to DeepMind's robotics lab
+- [Q003688](../berichte/Q00/Q0036/Q003688/README.de.md) Open-sourcing MuJoCo
+- [Q002348](../berichte/Q00/Q0023/Q002348/README.de.md) Building a culture of pioneering responsibly
+- [Q002308](../berichte/Q00/Q0023/Q002308/README.de.md) Dynamic language understanding: adaptation to new knowledge in parametric and semi-parametric models
+- [Q004809](../berichte/Q00/Q0048/Q004809/README.de.md) Kyrgyzstan to King’s Cross: the star baker cooking up code
+- [Q002312](../berichte/Q00/Q0023/Q002312/README.de.md) Evaluating Multimodal Interactive Agents
+- [Q004807](../berichte/Q00/Q0048/Q004807/README.de.md) Bridging DeepMind research with Alphabet products
+- [Q004357](../berichte/Q00/Q0043/Q004357/README.de.md) Unlocking High-Accuracy Differentially Private Image Classification through Scale
+- [Q002316](../berichte/Q00/Q0023/Q002316/README.de.md) BYOL-Explore: Exploration with Bootstrapped Prediction
+- [Q004606](../berichte/Q00/Q0046/Q004606/README.de.md) Human-centred mechanism design with Democratic AI
+- [Q004672](../berichte/Q00/Q0046/Q004672/README.de.md) Intuitive physics learning in a deep-learning model inspired by developmental psychology
+- [Q002343](../berichte/Q00/Q0023/Q002343/README.de.md) DeepMind’s latest research at ICML 2022
+- [Q003681](../berichte/Q00/Q0036/Q003681/README.de.md) Perceiver AR: general-purpose, long-context autoregressive generation
+- [Q003765](../berichte/Q00/Q0037/Q003765/README.de.md) Putting the power of AlphaFold into the world’s hands
+- [Q001506](../berichte/Q00/Q0015/Q001506/README.de.md) Advancing discovery of better drugs and medicine
+- [Q001565](../berichte/Q00/Q0015/Q001565/README.de.md) Accelerating the race against antibiotic resistance
+- [Q001712](../berichte/Q00/Q0017/Q001712/README.de.md) Creating plastic-eating enzymes that could save us from pollution
+- [Q001998](../berichte/Q00/Q0019/Q001998/README.de.md) AlphaFold unlocks one of the greatest puzzles in biology
+- [Q002013](../berichte/Q00/Q0020/Q002013/README.de.md) AlphaFold transforms biology for millions around the world
+- [Q002333](../berichte/Q00/Q0023/Q002333/README.de.md) AlphaFold reveals the structure of the protein universe
+- [Q004144](../berichte/Q00/Q0041/Q004144/README.de.md) Tracing the evolution of proteins back to the origin of life
+- [Q004158](../berichte/Q00/Q0041/Q004158/README.de.md) The race to cure a billion people from a deadly parasitic disease
+- [Q002324](../berichte/Q00/Q0023/Q002324/README.de.md) Discovering when an agent is present in a system
+- [Q001612](../berichte/Q00/Q0016/Q001612/README.de.md) Advancing conservation with AI-based facial recognition of turtles
+- [Q002251](../berichte/Q00/Q0022/Q002251/README.de.md) From motor control to embodied intelligence
+- [Q004799](../berichte/Q00/Q0047/Q004799/README.de.md) In conversation with AI: building better language models
+- [Q004859](../berichte/Q00/Q0048/Q004859/README.de.md) Maximising the impact of our breakthroughs
+- [Q003852](../berichte/Q00/Q0038/Q003852/README.de.md) How our principles helped define AlphaFold’s release
+- [Q004774](../berichte/Q00/Q0047/Q004774/README.de.md) Targeting early-onset Parkinson’s with AI
+- [Q002557](../berichte/Q00/Q0025/Q002557/README.de.md) Building safer dialogue agents
+- [Q003185](../berichte/Q00/Q0031/Q003185/README.de.md) Solving the mystery of how an ancient bird went extinct
+- [Q004133](../berichte/Q00/Q0041/Q004133/README.de.md) Understanding the faulty proteins linked to cancer and autism
+- [Q004763](../berichte/Q00/Q0047/Q004763/README.de.md) Fighting osteoporosis before it starts
+- [Q002536](../berichte/Q00/Q0025/Q002536/README.de.md) Discovering novel algorithms with AlphaTensor
+- [Q003815](../berichte/Q00/Q0038/Q003815/README.de.md) Measuring perception in AI models
+- [Q003173](../berichte/Q00/Q0031/Q003173/README.de.md) Stopping malaria in its tracks
+- [Q002523](../berichte/Q00/Q0025/Q002523/README.de.md) Best practices for data enrichment
+- [Q004841](../berichte/Q00/Q0048/Q004841/README.de.md) Benchmarking the next generation of never-ending learners
+- [Q002491](../berichte/Q00/Q0024/Q002491/README.de.md) Building interactive agents in video game worlds
+- [Q002483](../berichte/Q00/Q0024/Q002483/README.de.md) DeepMind’s latest research at NeurIPS 2022
+- [Q003808](../berichte/Q00/Q0038/Q003808/README.de.md) Mastering Stratego, the classic game of imperfect information
+- [Q002475](../berichte/Q00/Q0024/Q002475/README.de.md) AI for the board game Diplomacy
+- [Q001983](../berichte/Q00/Q0019/Q001983/README.de.md) Competitive programming with AlphaCode
+- [Q002466](../berichte/Q00/Q0024/Q002466/README.de.md) Announcing Google DeepMind
+- [Q003799](../berichte/Q00/Q0037/Q003799/README.de.md) How can we build human values into AI?
+- [Q002458](../berichte/Q00/Q0024/Q002458/README.de.md) DeepMind’s latest research at ICLR 2023
+- [Q002449](../berichte/Q00/Q0024/Q002449/README.de.md) An early warning system for novel AI risks
+- [Q002438](../berichte/Q00/Q0024/Q002438/README.de.md) AlphaDev discovers faster sorting algorithms
+- [Q002926](../berichte/Q00/Q0029/Q002926/README.de.md) MuZero, AlphaZero, and AlphaDev: Optimizing computer systems
+- [Q002935](../berichte/Q00/Q0029/Q002935/README.de.md) Google Cloud: Driving digital transformation
+- [Q004088](../berichte/Q00/Q0040/Q004088/README.de.md) YouTube: Enhancing the user experience
+- [Q003792](../berichte/Q00/Q0037/Q003792/README.de.md) RoboCat: A self-improving robotic agent
+- [Q002424](../berichte/Q00/Q0024/Q002424/README.de.md) Exploring institutions for global AI governance
+- [Q002418](../berichte/Q00/Q0024/Q002418/README.de.md) Developing reliable AI tools for healthcare
+- [Q004832](../berichte/Q00/Q0048/Q004832/README.de.md) Google DeepMind’s latest research at ICML 2023
+- [Q004838](../berichte/Q00/Q0048/Q004838/README.de.md) Using AI to fight climate change
+- [Q003783](../berichte/Q00/Q0037/Q003783/README.de.md) RT-2: New model translates vision and language into action
+- [Q005753](../berichte/Q00/Q0057/Q005753/README.de.md) Line Search for Convex Minimization
+- [Q006023](../berichte/Q00/Q0060/Q006023/README.de.md) Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals
+- [Q005899](../berichte/Q00/Q0058/Q005899/README.de.md) Advances in ML-based sampling for Lattice-QCD
+- [Q005718](../berichte/Q00/Q0057/Q005718/README.de.md) Levin Tree Search with Context Models
+- [Q005200](../berichte/Q00/Q0052/Q005200/README.de.md) Nevis’22: A Stream of 100 Tasks Sampled from 30 Years of Computer Vision Research
+- [Q002790](../berichte/Q00/Q0027/Q002790/README.de.md) Identifying AI-generated images with SynthID
+- [Q005509](../berichte/Q00/Q0055/Q005509/README.de.md) Natural Quantum Monte Carlo Computation of Excited States
+- [Q005968](../berichte/Q00/Q0059/Q005968/README.de.md) RoboTAP: Tracking Arbitrary Points for Few-Shot Visual Imitation
+- [Q005689](../berichte/Q00/Q0056/Q005689/README.de.md) Estimating Gibbs free energies via isobaric-isothermal flows
+- [Q005768](../berichte/Q00/Q0057/Q005768/README.de.md) Massively Scalable Inverse Reinforcement Learning for Route Optimization
+- [Q005210](../berichte/Q00/Q0052/Q005210/README.de.md) Revisiting Energy Based Models as Policies: Ranking Noise Contrastive Estimation and Interpolating Energy Models
+- [Q001574](../berichte/Q00/Q0015/Q001574/README.de.md) A catalogue of genetic mutations to help pinpoint the cause of diseases
+- [Q005875](../berichte/Q00/Q0058/Q005875/README.de.md) Accurate proteome-wide missense variant effect prediction with AlphaMissense
+- [Q005308](../berichte/Q00/Q0053/Q005308/README.de.md) Tracr: Compiled Transformers as a Laboratory for Interpretability
+- [Q005637](../berichte/Q00/Q0056/Q005637/README.de.md) Self-Predictive Universal AI
+- [Q005757](../berichte/Q00/Q0057/Q005757/README.de.md) Theoretical and Practical Perspectives on what Influence Functions Do
+- [Q005379](../berichte/Q00/Q0053/Q005379/README.de.md) TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement
+- [Q005431](../berichte/Q00/Q0054/Q005431/README.de.md) 3D Neural Embedding Likelihood: Probabilistic Inverse Graphics for Robust 6D Pose Estimation
+- [Q003199](../berichte/Q00/Q0031/Q003199/README.de.md) Scaling up learning across many different robot types
+- [Q005421](../berichte/Q00/Q0054/Q005421/README.de.md) Large Language Models as Analogical Reasoners
+- [Q005557](../berichte/Q00/Q0055/Q005557/README.de.md) Large Language Models Cannot Self-Correct Reasoning Yet
+- [Q005175](../berichte/Q00/Q0051/Q005175/README.de.md) An Impossibility Theorem in Game Dynamics
+- [Q005722](../berichte/Q00/Q0057/Q005722/README.de.md) Assessing LLMs on Climate Information
+- [Q005521](../berichte/Q00/Q0055/Q005521/README.de.md) Repelling Random Walks
+- [Q005992](../berichte/Q00/Q0059/Q005992/README.de.md) Universal Graph Random Features
+- [Q005465](../berichte/Q00/Q0054/Q005465/README.de.md) Learning Interactive Real-World Simulator
+- [Q005782](../berichte/Q00/Q0057/Q005782/README.de.md) DyST: Towards Dynamic Neural Scene Representations on Real-World Videos
+- [Q006014](../berichte/Q00/Q0060/Q006014/README.de.md) Step-Back Prompting Enables Reasoning via Abstraction in Large Language Models
+- [Q005246](../berichte/Q00/Q0052/Q005246/README.de.md) Scalable Diffusion for Materials Generation
+- [Q005424](../berichte/Q00/Q0054/Q005424/README.de.md) Sociotechnical Safety Evaluation of generative AI systems
+- [Q002034](../berichte/Q00/Q0020/Q002034/README.de.md) Evaluating social and ethical risks from generative AI
+- [Q005133](../berichte/Q00/Q0051/Q005133/README.de.md) Scalable Neural Network Kernels
+- [Q005325](../berichte/Q00/Q0053/Q005325/README.de.md) Generative replay for compositional visual understanding in the prefrontal-hippocampal circuit
+- [Q005429](../berichte/Q00/Q0054/Q005429/README.de.md) Population-based Evaluation in Repeated Rock-Paper-Scissors as a Benchmark for Multiagent Reinforcement Learning
+- [Q004783](../berichte/Q00/Q0047/Q004783/README.de.md) A glimpse of the next generation of AlphaFold
+- [Q005492](../berichte/Q00/Q0054/Q005492/README.de.md) RoboVQA: Multimodal Long-Horizon Reasoning for Robotics
+- [Q005170](../berichte/Q00/Q0051/Q005170/README.de.md) Optimistic Natural Policy Gradient: a Simple Efficient Policy Optimization Framework for Online RL
+- [Q005584](../berichte/Q00/Q0055/Q005584/README.de.md) Optimistic Meta-Gradients
+- [Q005347](../berichte/Q00/Q0053/Q005347/README.de.md) RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches
+- [Q005376](../berichte/Q00/Q0053/Q005376/README.de.md) Grammar Prompting for Domain-Specific Language Generation with Large Language Models
+- [Q005976](../berichte/Q00/Q0059/Q005976/README.de.md) Finding Increasingly Large Extremal Graphs with AlphaZero and Tabu Search
+- [Q005674](../berichte/Q00/Q0056/Q005674/README.de.md) Role Play with Large Language Models
+- [Q005525](../berichte/Q00/Q0055/Q005525/README.de.md) Emotions and courtship help bonded pairs cooperate, but emotional agents are vulnerable to deceit
+- [Q003213](../berichte/Q00/Q0032/Q003213/README.de.md) GraphCast: AI model for faster and more accurate global weather forecasting
+- [Q005312](../berichte/Q00/Q0053/Q005312/README.de.md) GraphCast: Learned Global Weather Forecasting
+- [Q005334](../berichte/Q00/Q0053/Q005334/README.de.md) Report of the 1st Workshop on Generative AI and Law
+- [Q005829](../berichte/Q00/Q0058/Q005829/README.de.md) DiLoCo: Distributed Low-Communication Training of Language Models
+- [Q002040](../berichte/Q00/Q0020/Q002040/README.de.md) Empowering the next generation for an AI-enabled world
+- [Q004055](../berichte/Q00/Q0040/Q004055/README.de.md) Transforming the future of music creation
+- [Q005848](../berichte/Q00/Q0058/Q005848/README.de.md) No agent is an island:  A social path to human-like artificial intelligence
+- [Q005516](../berichte/Q00/Q0055/Q005516/README.de.md) Scalable AI Safety via Doubly-Efficient Debate
+- [Q005609](../berichte/Q00/Q0056/Q005609/README.de.md) Replay Across Experiments
+- [Q002805](../berichte/Q00/Q0028/Q002805/README.de.md) Millions of new materials discovered with deep learning
+- [Q005094](../berichte/Q00/Q0050/Q005094/README.de.md) Unsupervised Keypoints with Stable Diffusion
+- [Q005444](../berichte/Q00/Q0054/Q005444/README.de.md) Universal Self-Consistency with Large Language Models
+- [Q005580](../berichte/Q00/Q0055/Q005580/README.de.md) Accelerating Neural Field Training via Langevin Monte-Carlo Sampling
+- [Q005697](../berichte/Q00/Q0056/Q005697/README.de.md) SODA: Bottleneck Diffusion Models for Representation Learning
+- [Q005724](../berichte/Q00/Q0057/Q005724/README.de.md) Small batch deep reinforcement learning
+- [Q005410](../berichte/Q00/Q0054/Q005410/README.de.md) RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation
+- [Q005662](../berichte/Q00/Q0056/Q005662/README.de.md) Gaussian Process Probes (GPP) for Uncertainty-Aware Probing
+- [Q005528](../berichte/Q00/Q0055/Q005528/README.de.md) Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia
+- [Q005785](../berichte/Q00/Q0057/Q005785/README.de.md) MingOfficial: A Ming Official Career Dataset and a Historical Context-Aware Representation Learning Framework
+- [Q005944](../berichte/Q00/Q0059/Q005944/README.de.md) SEAHORSE: A Multilingual, Multifaceted Dataset for Summarization Evaluation
+- [Q005949](../berichte/Q00/Q0059/Q005949/README.de.md) A Benchmark for Reasoning with Spatial Prepositions
+- [Q005814](../berichte/Q00/Q0058/Q005814/README.de.md) Revisiting Dynamic Evaluation:Online Adaptation for LLMs
+- [Q002818](../berichte/Q00/Q0028/Q002818/README.de.md) Google DeepMind at NeurIPS 2023
+- [Q005286](../berichte/Q00/Q0052/Q005286/README.de.md) POMRL: No-Regret Learning-to-Plan with IncreasingHorizons
+- [Q005187](../berichte/Q00/Q0051/Q005187/README.de.md) Distributional Bellman Operators over Mean-embeddings
+- [Q005087](../berichte/Q00/Q0050/Q005087/README.de.md) Feature Likelihood Divergence: Evaluating the Generalization of Generative Models Using Samples
+- [Q005203](../berichte/Q00/Q0052/Q005203/README.de.md) Optimization and Evaluation of Fine-grained Jaccard Indexes for Semantic Segmentation
+- [Q005316](../berichte/Q00/Q0053/Q005316/README.de.md) Improving neural network representations using human similarity judgments
+- [Q005402](../berichte/Q00/Q0054/Q005402/README.de.md) LambdaBeam: Neural Program Search with Higher-Order Functions and Lambdas
+- [Q005453](../berichte/Q00/Q0054/Q005453/README.de.md) Optimal Preconditioning and Fisher Adaptive Langevin Sampling
+- [Q005460](../berichte/Q00/Q0054/Q005460/README.de.md) Benchmarking Robustness to Adversarial Image Obfuscations
+- [Q005565](../berichte/Q00/Q0055/Q005565/README.de.md) Passive learning of active causal strategies in agents and language models
+- [Q005572](../berichte/Q00/Q0055/Q005572/README.de.md) Towards In-context Scene Understanding
+- [Q005677](../berichte/Q00/Q0056/Q005677/README.de.md) Probabilistic Inference in Reinforcement Learning Done Right
+- [Q005437](../berichte/Q00/Q0054/Q005437/README.de.md) A Definition of Continual Reinforcement Learning
+- [Q005602](../berichte/Q00/Q0056/Q005602/README.de.md) A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames
+- [Q005651](../berichte/Q00/Q0056/Q005651/README.de.md) Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore
+- [Q005705](../berichte/Q00/Q0057/Q005705/README.de.md) Schema-learning and rebinding as mechanisms of in-context learning and emergence
+- [Q005922](../berichte/Q00/Q0059/Q005922/README.de.md) Rethinking the Role of Token Retrieval in  Multi-Vector Retrieval
+- [Q001725](../berichte/Q00/Q0017/Q001725/README.de.md) FunSearch: Making new discoveries in mathematical sciences using Large Language Models
+- [Q005628](../berichte/Q00/Q0056/Q005628/README.de.md) Meta-in-context learning in large language models
+- [Q005156](../berichte/Q00/Q0051/Q005156/README.de.md) Learning Silicon Dopant Transitions in Graphene using Scanning Transmission Electron Microscopy
+- [Q005236](../berichte/Q00/Q0052/Q005236/README.de.md) Challenges with unsupervised LLM knowledge discovery
+- [Q005819](../berichte/Q00/Q0058/Q005819/README.de.md) Equivariant MuZero
+- [Q005665](../berichte/Q00/Q0056/Q005665/README.de.md) Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model
+- [Q001529](../berichte/Q00/Q0015/Q001529/README.de.md) 2023: A Year of Groundbreaking Advances in AI and Computing
+- [Q005568](../berichte/Q00/Q0055/Q005568/README.de.md) GenCast: learning skillful ensemble forecasting of medium-range weather
+- [Q004740](../berichte/Q00/Q0047/Q004740/README.de.md) Images altered to trick machine vision can influence humans too
+- [Q002829](../berichte/Q00/Q0028/Q002829/README.de.md) Shaping the future of advanced robotics
+- [Q005730](../berichte/Q00/Q0057/Q005730/README.de.md) AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents
+- [Q005139](../berichte/Q00/Q0051/Q005139/README.de.md) Distributional reinforcement learning in prefrontal cortex
+- [Q005120](../berichte/Q00/Q0051/Q005120/README.de.md) Learning Planning-compatible Cognitive Maps with Transformers in PartiallyObserved Environments
+- [Q005292](../berichte/Q00/Q0052/Q005292/README.de.md) Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization
+- [Q005296](../berichte/Q00/Q0052/Q005296/README.de.md) GATS: Gather-Attend-Scatter
+- [Q005394](../berichte/Q00/Q0053/Q005394/README.de.md) On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes
+- [Q005762](../berichte/Q00/Q0057/Q005762/README.de.md) NfgTransformer: Equivariant Representation Learning for Normal-form Games
+- [Q005791](../berichte/Q00/Q0057/Q005791/README.de.md) Generative Adversarial Equilibrium Solvers
+- [Q005880](../berichte/Q00/Q0058/Q005880/README.de.md) Directly Fine-Tuning Diffusion Models on Differentiable Rewards
+- [Q001735](../berichte/Q00/Q0017/Q001735/README.de.md) AlphaGeometry: An Olympiad-level AI system for geometry
+- [Q005483](../berichte/Q00/Q0054/Q005483/README.de.md) Asynchronous Local-SGD Training forLanguage Modeling
+- [Q005494](../berichte/Q00/Q0054/Q005494/README.de.md) E3x: E(3)-Equivariant Deep Learning Made Easy
+- [Q005353](../berichte/Q00/Q0053/Q005353/README.de.md) Neural Population Learning beyond Symmetric Zero-Sum Games
+- [Q005535](../berichte/Q00/Q0055/Q005535/README.de.md) Learning Universal Predictors
+- [Q005903](../berichte/Q00/Q0059/Q005903/README.de.md) Exploration at Scale using Epistemic Neural Networks
+- [Q005956](../berichte/Q00/Q0059/Q005956/README.de.md) Robust agents learn causal world models
+- [Q005357](../berichte/Q00/Q0053/Q005357/README.de.md) Fractal Patterns May Unravel the Intelligence in Next-Token Prediction
+- [Q005959](../berichte/Q00/Q0059/Q005959/README.de.md) Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces
+- [Q005252](../berichte/Q00/Q0052/Q005252/README.de.md) Large Language Models Self-Discover Reasoning Structures
+- [Q005385](../berichte/Q00/Q0053/Q005385/README.de.md) States as Strings as Strategies: Steering Language Models with Game-Theoretic Solvers
+- [Q005594](../berichte/Q00/Q0055/Q005594/README.de.md) Prior-Dependent Allocations for Bayesian Fixed-Budget Best-Arm Identification in Structured Bandits
+- [Q005845](../berichte/Q00/Q0058/Q005845/README.de.md) Memory Consolidation Enables Long-Context Video Understanding
+- [Q005646](../berichte/Q00/Q0056/Q005646/README.de.md) Chain-of-Table: Evolves Tables in the LLM Reasoning Chain for Table Understanding
+- [Q005397](../berichte/Q00/Q0053/Q005397/README.de.md) PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs
+- [Q005794](../berichte/Q00/Q0057/Q005794/README.de.md) Near-Minimax-Optimal Distributional RL with a Generative Model
+- [Q005616](../berichte/Q00/Q0056/Q005616/README.de.md) A Distributional Analogue to the Successor Representation
+- [Q005919](../berichte/Q00/Q0059/Q005919/README.de.md) Premise Order Matters in Reasoning with Large Language Models
+- [Q005278](../berichte/Q00/Q0052/Q005278/README.de.md) A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts
+- [Q005700](../berichte/Q00/Q0057/Q005700/README.de.md) Experts Don't Cheat: Learning What You Don't Know by Predicting Pairs
+- [Q005391](../berichte/Q00/Q0053/Q005391/README.de.md) Learning to Learn Faster from Human Feedback with Language Model Predictive Control
+- [Q005591](../berichte/Q00/Q0055/Q005591/README.de.md) Simulacra as Conscious Exotica
+- [Q005623](../berichte/Q00/Q0056/Q005623/README.de.md) The Next 700 ML-Enabled Compiler Optimizations
+- [Q005339](../berichte/Q00/Q0053/Q005339/README.de.md) OmniPred: Language Models as Universal Regressors
+- [Q005773](../berichte/Q00/Q0057/Q005773/README.de.md) When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method
+- [Q005929](../berichte/Q00/Q0059/Q005929/README.de.md) AlphaTensor for Optimizing Quantum Computations
+- [Q005989](../berichte/Q00/Q0059/Q005989/README.de.md) Genie: Generative Interactive Environments
+- [Q005870](../berichte/Q00/Q0058/Q005870/README.de.md) On Limitations of the Transformer Architecture
+- [Q005219](../berichte/Q00/Q0052/Q005219/README.de.md) Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers
+- [Q005240](../berichte/Q00/Q0052/Q005240/README.de.md) Frozen Feature Augmentation
+- [Q005361](../berichte/Q00/Q0053/Q005361/README.de.md) A density estimation perspective on learning from pairwise human preferences
+- [Q005972](../berichte/Q00/Q0059/Q005972/README.de.md) Intriguing Properties of Generative Classifers
+- [Q005487](../berichte/Q00/Q0054/Q005487/README.de.md) Set Learning for Accurate and Calibrated Models
+- [Q005538](../berichte/Q00/Q0055/Q005538/README.de.md) Bad Students Make Great Teachers: Active Learning Accelerates Large Scale Visual Understanding
+- [Q005833](../berichte/Q00/Q0058/Q005833/README.de.md) Self-supervised video pretraining yields strong image representations
+- [Q005439](../berichte/Q00/Q0054/Q005439/README.de.md) Towards Practical Reinforcement Learning for Tokamak Magnetic Control
+- [Q005680](../berichte/Q00/Q0056/Q005680/README.de.md) Approximating the Core of Cooperative Games
+- [Q005501](../berichte/Q00/Q0055/Q005501/README.de.md) How aligned are different alignment metrics?
+- [Q005504](../berichte/Q00/Q0055/Q005504/README.de.md) AtP*: Efficient and scalable methods for localizing LLM behaviour to components
+- [Q005215](../berichte/Q00/Q0052/Q005215/README.de.md) Understanding Learning from Human Preferences
+- [Q005404](../berichte/Q00/Q0054/Q005404/README.de.md) Robust Exploration via Clustering-based Density Estimation
+- [Q005606](../berichte/Q00/Q0056/Q005606/README.de.md) Prosody for Intuitive Robotic Interface Design: It's Not What You Said, It's How You Said It
+- [Q005711](../berichte/Q00/Q0057/Q005711/README.de.md) Model-free Posterior Sampling via Learning Rate Randomization
+- [Q005915](../berichte/Q00/Q0059/Q005915/README.de.md) Demonstration-Regularized RL
+- [Q001752](../berichte/Q00/Q0017/Q001752/README.de.md) A generalist AI agent for 3D virtual environments
+- [Q002841](../berichte/Q00/Q0028/Q002841/README.de.md) TacticAI: an AI assistant for football tactics
+- [Q005551](../berichte/Q00/Q0055/Q005551/README.de.md) DiPaCo: Distributed Path Composition
+- [Q005413](../berichte/Q00/Q0054/Q005413/README.de.md) Evaluating Frontier Models for Dangerous Capabilities
+- [Q005225](../berichte/Q00/Q0052/Q005225/README.de.md) Few-Shot Recalibration of Language Models
+- [Q005417](../berichte/Q00/Q0054/Q005417/README.de.md) Long-form factuality in large language models
+- [Q005179](../berichte/Q00/Q0051/Q005179/README.de.md) Learning from One Continuous Video Stream
+- [Q005670](../berichte/Q00/Q0056/Q005670/README.de.md) Gecko: Versatile Text Embeddings Distilled from Large Language Models
+- [Q005457](../berichte/Q00/Q0054/Q005457/README.de.md) Biomolecular dynamics with machine-learned quantum-mechanical force fields trained on diverse chemical fragments
+- [Q005823](../berichte/Q00/Q0058/Q005823/README.de.md) Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning
+- [Q005933](../berichte/Q00/Q0059/Q005933/README.de.md) Many-Shot In-Context Learning
+- [Q002862](../berichte/Q00/Q0028/Q002862/README.de.md) The ethics of advanced AI assistants
+- [Q005105](../berichte/Q00/Q0051/Q005105/README.de.md) Holistic Safety and Responsibility Evaluations of Advanced AI Models
+- [Q005736](../berichte/Q00/Q0057/Q005736/README.de.md) Improving Dictionary Learning with Gated Sparse Autoencoders
+- [Q001344](../berichte/Q00/Q0013/Q001344/README.de.md) Google DeepMind at ICLR 2024
+- [Q005074](../berichte/Q00/Q0050/Q005074/README.de.md) Advancing Biomedical Understanding with Multimodal Gemini
+- [Q005738](../berichte/Q00/Q0057/Q005738/README.de.md) Pose Priors from Language Models
+- [Q005824](../berichte/Q00/Q0058/Q005824/README.de.md) ExeDec: Execution Decomposition for Compositional Generalization in Neural Program Synthesis
+- [Q005936](../berichte/Q00/Q0059/Q005936/README.de.md) Position: Leverage Foundational Models for Black-Box Optimization
+- [Q005193](../berichte/Q00/Q0051/Q005193/README.de.md) Kalman Filter for Online Classification of Non-Stationary Data
+- [Q005631](../berichte/Q00/Q0056/Q005631/README.de.md) π2vec: Policy Representations with SuccessorFeatures
+- [Q005654](../berichte/Q00/Q0056/Q005654/README.de.md) Deep SE(3)-Equivariant Geometric Reasoning for Precise Placement Tasks
+- [Q005748](../berichte/Q00/Q0057/Q005748/README.de.md) Learning 3D Particle-based Simulators from RGB-D Videos
+- [Q005799](../berichte/Q00/Q0057/Q005799/README.de.md) Adaptive Hashing: Faster Hash Functions Perhaps with Fewer Collisions
+- [Q005804](../berichte/Q00/Q0058/Q005804/README.de.md) Teach LLMs to Phish: Stealing Private Information from Language Models
+- [Q005811](../berichte/Q00/Q0058/Q005811/README.de.md) CORRELATED NOISE PROVABLY BEATS INDEPENDENT NOISE FOR DIFFERENTIALLY PRIVATE LEARNING
+- [Q005981](../berichte/Q00/Q0059/Q005981/README.de.md) From Sparse to Soft Mixture of Experts
+- [Q005985](../berichte/Q00/Q0059/Q005985/README.de.md) Privacy Amplification by Sampling for the Matrix Mechanism.
+- [Q006009](../berichte/Q00/Q0060/Q006009/README.de.md) Language Modeling Is Compression
+- [Q005468](../berichte/Q00/Q0054/Q005468/README.de.md) Super-Exponential Regret for UCT, AlphaGo and Variants
+- [Q004068](../berichte/Q00/Q0040/Q004068/README.de.md) Watermarking AI-generated text and video with SynthID
+- [Q002877](../berichte/Q00/Q0028/Q002877/README.de.md) Introducing the Frontier Safety Framework
+- [Q002886](../berichte/Q00/Q0028/Q002886/README.de.md) Looking ahead to the AI Seoul Summit
+- [Q005714](../berichte/Q00/Q0057/Q005714/README.de.md) An Introduction to Universal Artificial Intelligence
+- [Q005161](../berichte/Q00/Q0051/Q005161/README.de.md) A Robot Walks into a Bar: Can Language Models Serve as Creativity Support Tools for Comedy? An Evaluation of LLMs' Humour Alignment with Comedians
+- [Q005996](../berichte/Q00/Q0059/Q005996/README.de.md) Don't trust your eyes: on the (un)reliability of feature visualizations
+- [Q006028](../berichte/Q00/Q0060/Q006028/README.de.md) Tx-LLM: A Large Language Model for Therapeutics
+- [Q002895](../berichte/Q00/Q0028/Q002895/README.de.md) Generating audio for video
+- [Q005109](../berichte/Q00/Q0051/Q005109/README.de.md) Neural Fields as Distributions: Signal Processing Beyond Euclidean Space
+- [Q005587](../berichte/Q00/Q0055/Q005587/README.de.md) Mirasol3B: A Multimodal Autoregressive Model for Time-Aligned and Contextual Modalities
+- [Q005659](../berichte/Q00/Q0056/Q005659/README.de.md) Bayes' Rays: uncertainty quantification for neural radiance fields
+- [Q005865](../berichte/Q00/Q0058/Q005865/README.de.md) Neural Climate Data Compression
+- [Q006004](../berichte/Q00/Q0060/Q006004/README.de.md) Language models, like humans, show content effects on reasoning tasks
+- [Q002901](../berichte/Q00/Q0029/Q002901/README.de.md) Google DeepMind at ICML 2024
+- [Q005546](../berichte/Q00/Q0055/Q005546/README.de.md) Levels of AGI for Operationalizing Progress on the Path to AGI
+- [Q004751](../berichte/Q00/Q0047/Q004751/README.de.md) AI achieves silver-medal standard solving International Mathematical Olympiad problems
+- [Q005942](../berichte/Q00/Q0059/Q005942/README.de.md) Mixture of Nested Experts: Adaptive Processing of Visual Tokens
+- [Q002906](../berichte/Q00/Q0029/Q002906/README.de.md) Gemma Scope: helping the safety community shed light on the inner workings of language models
+- [Q005561](../berichte/Q00/Q0055/Q005561/README.de.md) Pre-trained Gaussian processes for Bayesian optimization
+- [Q002918](../berichte/Q00/Q0029/Q002918/README.de.md) Mapping the misuse of generative AI
+- [Q005837](../berichte/Q00/Q0058/Q005837/README.de.md) Achieving Human Level Competitive Robot Table Tennis
+- [Q005683](../berichte/Q00/Q0056/Q005683/README.de.md) The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models
+- [Q005907](../berichte/Q00/Q0059/Q005907/README.de.md) Swim till you sink: Computing the limit of a game
+- [Q005742](../berichte/Q00/Q0057/Q005742/README.de.md) The Vizier Gaussian Process Bandit Algorithm
+- [Q002392](../berichte/Q00/Q0023/Q002392/README.de.md) FermiNet: Quantum physics and chemistry from first principles
+- [Q001759](../berichte/Q00/Q0017/Q001759/README.de.md) AlphaProteo generates novel proteins for biology and health research
+- [Q005259](../berichte/Q00/Q0052/Q005259/README.de.md) Modeling the Arrows of Time with Causal Multibaker Maps
+- [Q002942](../berichte/Q00/Q0029/Q002942/README.de.md) Our latest advances in robot dexterity
+- [Q001763](../berichte/Q00/Q0017/Q001763/README.de.md) Empowering YouTube creators with generative AI
+- [Q005114](../berichte/Q00/Q0051/Q005114/README.de.md) Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries
+- [Q005231](../berichte/Q00/Q0052/Q005231/README.de.md) Learned feature representations are biased by complexity, learning order, position, and more
+- [Q002953](../berichte/Q00/Q0029/Q002953/README.de.md) How AlphaChip transformed computer chip design
+- [Q005885](../berichte/Q00/Q0058/Q005885/README.de.md) Geometric-Averaged Preference Optimization for Soft Preference Labels
+- [Q002674](../berichte/Q00/Q0026/Q002674/README.de.md) Safety in Artificial Intelligence: Challenges and Opportunities for the U.S. National Labs and Beyond
+- [Q001767](../berichte/Q00/Q0017/Q001767/README.de.md) Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry
+- [Q005366](../berichte/Q00/Q0053/Q005366/README.de.md) Diffusion model predictive control
+- [Q005641](../berichte/Q00/Q0056/Q005641/README.de.md) Predicting from Strings: Language Model Embeddings for Bayesian Optimization
+- [Q005910](../berichte/Q00/Q0059/Q005910/README.de.md) Prompting Considered Harmful
+- [Q005449](../berichte/Q00/Q0054/Q005449/README.de.md) AI can help humans find common ground in democratic deliberation
+- [Q002961](../berichte/Q00/Q0029/Q002961/README.de.md) New generative AI tools open the doors of music creation
+- [Q002970](../berichte/Q00/Q0029/Q002970/README.de.md) Pushing the frontiers of audio generation
+- [Q006019](../berichte/Q00/Q0060/Q006019/README.de.md) Understanding LLM Embeddings for Regression
+- [Q005575](../berichte/Q00/Q0055/Q005575/README.de.md) How Well Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?
+- [Q002981](../berichte/Q00/Q0029/Q002981/README.de.md) GenCast predicts weather and the risks of extreme conditions with state-of-the-art accuracy
+- [Q002997](../berichte/Q00/Q0029/Q002997/README.de.md) Genie 2: A large-scale foundation world model
+- [Q005474](../berichte/Q00/Q0054/Q005474/README.de.md) Mastering Board Games by External and Internal Planning with Language Models
+- [Q003016](../berichte/Q00/Q0030/Q003016/README.de.md) Google DeepMind at NeurIPS 2024
+- [Q005320](../berichte/Q00/Q0053/Q005320/README.de.md) Exponential Speedups by Rerooting Levin Tree Search
+- [Q005272](../berichte/Q00/Q0052/Q005272/README.de.md) What type of inference is planning?
+- [Q005478](../berichte/Q00/Q0054/Q005478/README.de.md) Machine Unlearning Doesn’t Do What You Think: Lessons for Generative AI Policy, Research, and Practice
+- [Q001779](../berichte/Q00/Q0017/Q001779/README.de.md) FACTS Grounding: A new benchmark for evaluating the factuality of large language models
+- [Q005953](../berichte/Q00/Q0059/Q005953/README.de.md) Deliberation in Latent Space via Differentiable Cache Augmentation
+- [Q005860](../berichte/Q00/Q0058/Q005860/README.de.md) A theory of appropriateness with applications to generative artificial intelligence
+- [Q005498](../berichte/Q00/Q0054/Q005498/README.de.md) Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web
+- [Q005839](../berichte/Q00/Q0058/Q005839/README.de.md) Foundations of Algorithmic Thermodynamics
+- [Q005329](../berichte/Q00/Q0053/Q005329/README.de.md) Evolving Deeper LLM Thinking
+- [Q005302](../berichte/Q00/Q0053/Q005302/README.de.md) MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking
+- [Q005868](../berichte/Q00/Q0058/Q005868/README.de.md) Are vision-language models shape or texture biased and can we steer them?
+- [Q005694](../berichte/Q00/Q0056/Q005694/README.de.md) Decoding-based Regression
+- [Q004097](../berichte/Q00/Q0040/Q004097/README.de.md) Updating the Frontier Safety Framework
+- [Q005963](../berichte/Q00/Q0059/Q005963/README.de.md) Automated Discovery of Interpretable Cognitive Programs underlying Reward-guided behavior
+- [Q005926](../berichte/Q00/Q0059/Q005926/README.de.md) Scaling Pre-training to One Hundred Billion Data for Vision Language Models
+- [Q005343](../berichte/Q00/Q0053/Q005343/README.de.md) Poly-Autoregressive Prediction for Interaction Modeling
+- [Q004549](../berichte/Q00/Q0045/Q004549/README.de.md) Delta Variances
+- [Q005148](../berichte/Q00/Q0051/Q005148/README.de.md) Partition Tree Weighting for Non-Stationary Stochastic Bandits
+- [Q005851](../berichte/Q00/Q0058/Q005851/README.de.md) HCI for AGI
+- [Q005807](../berichte/Q00/Q0058/Q005807/README.de.md) KiVA: Kid-Inspired Visual Analogies for Testing Large Multimodal Models
+- [Q005127](../berichte/Q00/Q0051/Q005127/README.de.md) TIPS: Text-Image Pretraining with Spatial awareness
+- [Q005598](../berichte/Q00/Q0055/Q005598/README.de.md) Gemini Embedding: Generalizable Embeddings from Gemini
+- [Q003042](../berichte/Q00/Q0030/Q003042/README.de.md) Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed for robots to understand, act and react to the physical world.
+- [Q005266](../berichte/Q00/Q0052/Q005266/README.de.md) Gensors: Authoring Personalized Visual Sensors with Multimodal Foundation Models and Reasoning
+- [Q005372](../berichte/Q00/Q0053/Q005372/README.de.md) QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?
+- [Q005776](../berichte/Q00/Q0057/Q005776/README.de.md) Effective Kernel Fuzzing with Learned White-box Test Mutators
+- [Q001792](../berichte/Q00/Q0017/Q001792/README.de.md) Building secure AGI: Evaluating emerging cyber security capabilities of advanced AI
+- [Q003066](../berichte/Q00/Q0030/Q003066/README.de.md) Taking a responsible path to AGI
+- [Q006038](../berichte/Q00/Q0060/Q006038/README.de.md) TxGemma: Efficient and Agentic LLMs for Therapeutics
+- [Q005620](../berichte/Q00/Q0056/Q005620/README.de.md) Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt
+- [Q003080](../berichte/Q00/Q0030/Q003080/README.de.md) Music AI Sandbox, now with new features and broader access
+- [Q005894](../berichte/Q00/Q0058/Q005894/README.de.md) MELODI: Exploring Memory Compression for Long Contexts
+- [Q005082](../berichte/Q00/Q0050/Q005082/README.de.md) Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA
+- [Q006033](../berichte/Q00/Q0060/Q006033/README.de.md) Generative Ghosts: Anticipating Benefits and Risks of AI Afterlives
+- [Q006073](../berichte/Q00/Q0060/Q006073/README.de.md) Toward Understanding In-context vs. In-weight Learning
+- [Q005554](../berichte/Q00/Q0055/Q005554/README.de.md) Flow-Lenia: Emergent evolutionary dynamics in mass conservative continuous cellular automata
+- [Q005999](../berichte/Q00/Q0059/Q005999/README.de.md) Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Scripts
+- [Q005855](../berichte/Q00/Q0058/Q005855/README.de.md) Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty
+- [Q001843](../berichte/Q00/Q0018/Q001843/README.de.md) AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms
+- [Q001539](../berichte/Q00/Q0015/Q001539/README.de.md) Advancing Gemini's security safeguards
+- [Q005544](../berichte/Q00/Q0055/Q005544/README.de.md) Bridging Algorithmic Information Theory and Machine Learning,  Part II: Clustering, Density Estimation, Kolmogorov Complexity-Based Kernels, and Kernel Learning in Unsupervised Learning
+- [Q000860](../berichte/Q00/Q0008/Q000860/README.de.md) How we're supporting better tropical cyclone prediction with AI
+- [Q005512](../berichte/Q00/Q0055/Q005512/README.de.md) AuPair: Golden Example Pairs for Code Repair
+- [Q006047](../berichte/Q00/Q0060/Q006047/README.de.md) LIA: Cost-efficient LLM Inference Acceleration with Intel Advanced Matrix Extensions and CXL
+- [Q003088](../berichte/Q00/Q0030/Q003088/README.de.md) Gemini Robotics On-Device brings AI to local robotic devices
+- [Q001810](../berichte/Q00/Q0018/Q001810/README.de.md) AlphaGenome: AI for better understanding the genome
+- [Q005143](../berichte/Q00/Q0051/Q005143/README.de.md) Performance Prediction for Large Systems via Text-to-Text Regression
+- [Q005531](../berichte/Q00/Q0055/Q005531/README.de.md) Rethinking Example Selection in the Era of Million-Token Models
+- [Q005066](../berichte/Q00/Q0050/Q005066/README.de.md) Large Language Models as Rankers, Judges, and Assistants: A Perspective on the Potential Over-Reliance on LLMs in IR
+- [Q006051](../berichte/Q00/Q0060/Q006051/README.de.md) SLIM: ONE-SHOT QUANTIZED SPARSE PLUS LOW-RANK APPROXIMATION OF LLMS
+- [Q006080](../berichte/Q00/Q0060/Q006080/README.de.md) Long-Form Speech Generation with Spoken Language Models
+- [Q005890](../berichte/Q00/Q0058/Q005890/README.de.md) Dialogues Between Technologists and the Art Worlds
+- [Q001459](../berichte/Q00/Q0014/Q001459/README.de.md) "Just a Strange Pic": Rethinking 'Safety' in GenAI Image Safety Annotation Tasks from Diverse Annotators’ Perspectives
+- [Q001669](../berichte/Q00/Q0016/Q001669/README.de.md) Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad
+- [Q002627](../berichte/Q00/Q0026/Q002627/README.de.md) Exploring the context of online images with Backstory
+- [Q001663](../berichte/Q00/Q0016/Q001663/README.de.md) Aeneas transforms how historians connect the past
+- [Q002639](../berichte/Q00/Q0026/Q002639/README.de.md) AlphaEarth Foundations helps map our planet in unprecedented detail
+- [Q005613](../berichte/Q00/Q0056/Q005613/README.de.md) Visual Intention Grounding for Egocentric Assistants
+- [Q003911](../berichte/Q00/Q0039/Q003911/README.de.md) Genie 3: A new frontier for world models
+- [Q003927](../berichte/Q00/Q0039/Q003927/README.de.md) How AI is helping advance the science of bioacoustics to save endangered species
+- [Q005040](../berichte/Q00/Q0050/Q005040/README.de.md) Properties of Algorithmic Information Distance
+- [Q006054](../berichte/Q00/Q0060/Q006054/README.de.md) RoboBallet: Planning for Multi-Robot Reaching with Graph Neural Networks and Reinforcement Learning
+- [Q004413](../berichte/Q00/Q0044/Q004413/README.de.md) Using AI to perceive the universe in greater depth
+- [Q006058](../berichte/Q00/Q0060/Q006058/README.de.md) Improving cosmological reach of LIGO usingDeep Loop Shaping
+- [Q003902](../berichte/Q00/Q0039/Q003902/README.de.md) Gemini achieves gold-medal level at the International Collegiate Programming Contest World Finals
+- [Q001410](../berichte/Q00/Q0014/Q001410/README.de.md) Whose View of Safety? A Deep DIVE Dataset for Pluralistic Alignment of Text-to-Image Models
+- [Q002617](../berichte/Q00/Q0026/Q002617/README.de.md) Discovering new solutions to century-old problems in fluid dynamics
+- [Q003895](../berichte/Q00/Q0038/Q003895/README.de.md) Google DeepMind strengthens the Frontier Safety Framework
+- [Q006062](../berichte/Q00/Q0060/Q006062/README.de.md) Video models are zero-shot learners and reasoners
+- [Q006065](../berichte/Q00/Q0060/Q006065/README.de.md) EmbeddingGemma: Powerful and Lightweight Text Representations
+- [Q003888](../berichte/Q00/Q0038/Q003888/README.de.md) Gemini Robotics 1.5 brings AI agents into the physical world
+- [Q006068](../berichte/Q00/Q0060/Q006068/README.de.md) AI-Generated Video Detection via Perceptual Straightening
+- [Q001480](../berichte/Q00/Q0014/Q001480/README.de.md) Introducing CodeMender: an AI agent for code security
+- [Q002605](../berichte/Q00/Q0026/Q002605/README.de.md) Google DeepMind is bringing AI to the next generation of fusion energy
+- [Q006076](../berichte/Q00/Q0060/Q006076/README.de.md) A Pragmatic View of AI Personhood
+- [Q006086](../berichte/Q00/Q0060/Q006086/README.de.md) To Mask or to Mirror: Human-AI Alignment in Collective Reasoning
+- [Q004868](../berichte/Q00/Q0048/Q004868/README.de.md) Three ways Google scientists use AI to better understand nature
+- [Q003936](../berichte/Q00/Q0039/Q003936/README.de.md) Teaching AI to See the World More Like Humans Do
+- [Q003947](../berichte/Q00/Q0039/Q003947/README.de.md) SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds
+- [Q004420](../berichte/Q00/Q0044/Q004420/README.de.md) Google DeepMind opens Singapore research lab for Asia-Pacific AI.
+- [Q005047](../berichte/Q00/Q0050/Q005047/README.de.md) Imitation Learning is Probably Existentially Safe
+- [Q002025](../berichte/Q00/Q0020/Q002025/README.de.md) Breeding Healthier Honeybees With AlphaFold
+- [Q002662](../berichte/Q00/Q0026/Q002662/README.de.md) AlphaFold: Five Years of Impact
+- [Q004892](../berichte/Q00/Q0048/Q004892/README.de.md) AlphaFold Reveals a Key Protein Behind Heart Disease
+- [Q004567](../berichte/Q00/Q0045/Q004567/README.de.md) Capturing Human Preferences with Reward Features
+- [Q002677](../berichte/Q00/Q0026/Q002677/README.de.md) How AlphaFold is helping scientists engineer more heat-tolerant crops
+- [Q002689](../berichte/Q00/Q0026/Q002689/README.de.md) FACTS Benchmark Suite: a new way to systematically evaluate LLMs factuality
+- [Q004914](../berichte/Q00/Q0049/Q004914/README.de.md) Deepening AI Safety Research with UK AI Security Institute (AISI)
+- [Q004882](../berichte/Q00/Q0048/Q004882/README.de.md) Google DeepMind & DOE Partner on Genesis: AI for Science
+- [Q003957](../berichte/Q00/Q0039/Q003957/README.de.md) Gemma Scope 2: Helping the AI Safety Community Deepen Understanding of Complex Language Model Behavior
+- [Q005061](../berichte/Q00/Q0050/Q005061/README.de.md) TRecViT: A Recurrent Video Transformer
+- [Q000992](../berichte/Q00/Q0009/Q000992/README.de.md) D4RT: Unified, Fast 4D Scene Reconstruction & Tracking
+- [Q005052](../berichte/Q00/Q0050/Q005052/README.de.md) Hybrid neural–cognitive models reveal how memory shapes human reward learning
+- [Q001679](../berichte/Q00/Q0016/Q001679/README.de.md) Gemini Deep Think: Redefining the Future of Scientific Research
+- [Q001449](../berichte/Q00/Q0014/Q001449/README.de.md) Decoding Safety Feedback from Diverse Raters: A Data-driven Lens on Responsiveness to Severity
+- [Q005033](../berichte/Q00/Q0050/Q005033/README.de.md) Simplicity and Complexity in Combinatorial Optimization
+- [Q004926](../berichte/Q00/Q0049/Q004926/README.de.md) Google DeepMind Partnerships in India: scaling AI in science and education
+- [Q002697](../berichte/Q00/Q0026/Q002697/README.de.md) AlphaGo at 10: How AI Innovation Is Paving the Path to AGI
+- [Q004709](../berichte/Q00/Q0047/Q004709/README.de.md) The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness
+- [Q004522](../berichte/Q00/Q0045/Q004522/README.de.md) Strategic Tradeoffs Between Humans and AI in Multi-Agent Bargaining
+- [Q003968](../berichte/Q00/Q0039/Q003968/README.de.md) Protecting People from Harmful Manipulation
+- [Q003987](../berichte/Q00/Q0039/Q003987/README.de.md) Gemini Robotics ER 1.6: Enhanced Embodied Reasoning
+- [Q004589](../berichte/Q00/Q0045/Q004589/README.de.md) Image Generators are Generalist Vision Learners
+- [Q004595](../berichte/Q00/Q0045/Q004595/README.de.md) Google DeepMind partners with global consultancies to accelerate enterprise AI adoption.
+- [Q002708](../berichte/Q00/Q0027/Q002708/README.de.md) Decoupled DiLoCo: Resilient, Distributed AI Training at Scale
+- [Q004716](../berichte/Q00/Q0047/Q004716/README.de.md) Dynamic Reflections: Probing Video Representations with Text Alignment
+- [Q004574](../berichte/Q00/Q0045/Q004574/README.de.md) ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation
+- [Q004581](../berichte/Q00/Q0045/Q004581/README.de.md) Google DeepMind and Korea Partner to Accelerate Scientific Discovery
+- [Q002723](../berichte/Q00/Q0027/Q002723/README.de.md) AI co-clinician: researching the path toward AI-augmented care
+- [Q004503](../berichte/Q00/Q0045/Q004503/README.de.md) Did US Worker Retraining Reduce Participant Automation Exposure?
+- [Q001492](../berichte/Q00/Q0014/Q001492/README.de.md) AlphaEvolve: Gemini-powered coding agent scaling impact across fields
+- [Q003998](../berichte/Q00/Q0039/Q003998/README.de.md) Shaping the future of AI interaction by reimagining the mouse pointer
+- [Q001692](../berichte/Q00/Q0016/Q001692/README.de.md) Co-Scientist
+- [Q002740](../berichte/Q00/Q0027/Q002740/README.de.md) Co-Scientist: A multi-agent AI partner to accelerate research
+- [Q002756](../berichte/Q00/Q0027/Q002756/README.de.md) Co-Scientist
+- [Q002774](../berichte/Q00/Q0027/Q002774/README.de.md) Co-Scientist
+- [Q004011](../berichte/Q00/Q0040/Q004011/README.de.md) AI breakthrough: WeatherNext predicts Hurricane Melissa
+- [Q004020](../berichte/Q00/Q0040/Q004020/README.de.md) Co-Scientist
+- [Q004426](../berichte/Q00/Q0044/Q004426/README.de.md) Co-Scientist
+- [Q004563](../berichte/Q00/Q0045/Q004563/README.de.md) Co-Scientist
+- [Q004557](../berichte/Q00/Q0045/Q004557/README.de.md) Google DeepMind & Singapore: National AI partnership
+- [Q004540](../berichte/Q00/Q0045/Q004540/README.de.md) Gram: Assessing sabotage propensities via automated alignment auditing
+- [Q004546](../berichte/Q00/Q0045/Q004546/README.de.md) Realistic honeypot evaluations for scheming propensity
+- [Q004531](../berichte/Q00/Q0045/Q004531/README.de.md) Solipsistic superintelligence is unlikely to be cooperative
+- [Q004034](../berichte/Q00/Q0040/Q004034/README.de.md) Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone
+- [Q000696](../berichte/Q00/Q0006/Q000696/README.de.md) Reasoning or Rationalization? Moral Robustness as a Frontier for Non-Verifiable Reasoning in LLMs
+- [Q004515](../berichte/Q00/Q0045/Q004515/README.de.md) Google DeepMind and partners announce multi-agent safety research funding call.
+- [Q004509](../berichte/Q00/Q0045/Q004509/README.de.md) From AGI to ASI
+- [Q004488](../berichte/Q00/Q0044/Q004488/README.de.md) Artificial Minds, Human Disagreement: The Politics of AI Consciousness
+- [Q004499](../berichte/Q00/Q0044/Q004499/README.de.md) Unlocking UK house-building with AI-accelerated planning
+- [Q004482](../berichte/Q00/Q0044/Q004482/README.de.md) Securing internal systems against increasingly capable and imperfectly aligned AI
+- [Q001430](../berichte/Q00/Q0014/Q001430/README.de.md) Going PLACES: Participatory Localized Red Teaming forText-to-Image Safety in the Global South
+- [Q001419](../berichte/Q00/Q0014/Q001419/README.de.md) Bridging the Scale Gap: Augmenting Human Red-Teaming to Uncover Latent Risks in T2I Models
+- [Q004430](../berichte/Q00/Q0044/Q004430/README.de.md) Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation Task
+- [Q001400](../berichte/Q00/Q0014/Q001400/README.de.md) Towards Structural Understanding of LLM Overthinking
+- [Q001699](../berichte/Q00/Q0016/Q001699/README.de.md) The Case for Globally Beneficial Technology
+- [Q001468](../berichte/Q00/Q0014/Q001468/README.de.md) Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment
+- [Q001389](../berichte/Q00/Q0013/Q001389/README.de.md) AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi
+- [Q001016](../berichte/Q00/Q0010/Q001016/README.de.md) Evaluating frontier models for stealth and situational awareness
+- [Q002015](../berichte/Q00/Q0020/Q002015/README.de.md) The Future of the AI Summit Series: One Year Later
+- [Q001355](../berichte/Q00/Q0013/Q001355/README.de.md) Google DeepMind and Isomorphic Labs approach to bioresilience
+- [Q001364](../berichte/Q00/Q0013/Q001364/README.de.md) Introducing Gemini 3.5 Flash Cyber
+- [Q001332](../berichte/Q00/Q0013/Q001332/README.de.md) Visual prompt engineering for video models
+- [Q001183](../berichte/Q00/Q0011/Q001183/README.de.md) Gemini Robotics 2 brings whole body intelligence to robots
+- [Q001301](../berichte/Q00/Q0013/Q001301/README.de.md) A moral Turing test: How belief and source shape detection of and agreement with LLM judgments
+- [Q001261](../berichte/Q00/Q0012/Q001261/README.de.md) AI model achieves breakthrough in forecasting cyclones
+- [Q001198](../berichte/Q00/Q0011/Q001198/README.de.md) Putting sign language AI into users’ hands
+- [Q001220](../berichte/Q00/Q0012/Q001220/README.de.md) Exploring new frontiers of AI and games research
+- [Q001137](../berichte/Q00/Q0011/Q001137/README.de.md) Visual General Intelligence: A White Paper
+- [Q001169](../berichte/Q00/Q0011/Q001169/README.de.md) Piloting the world's first double-blind AI evaluations
+- [Q001111](../berichte/Q00/Q0011/Q001111/README.de.md) Designing Proactive Thought Partners for Writing
+- [Q001061](../berichte/Q00/Q0010/Q001061/README.de.md) AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA variants
+- [Q000979](../berichte/Q00/Q0009/Q000979/README.de.md) Economic Policy for AGI
+- [Q000847](../berichte/Q00/Q0008/Q000847/README.de.md) Architectural Backdoors for Within-Batch Data Stealing and Model Inference Manipulation
+- [Q001048](../berichte/Q00/Q0010/Q001048/README.de.md) Advancing Private AI Compute with secure, server-side memory
+- [Q001002](../berichte/Q00/Q0010/Q001002/README.de.md) SynthID Bio: Watermarking methods for synthetic biology
+- [Q000010](../berichte/Q00/Q0000/Q000010/README.de.md) On-Device AI Against Scams: Google DeepMind & MDDI
+- [Q000886](../berichte/Q00/Q0008/Q000886/README.de.md) Google Antigravity: Accelerating Antimicrobial Peptide Search
+- [Q000875](../berichte/Q00/Q0008/Q000875/README.de.md) Not All Forests Are Equal: Mapping the World’s Forests
+- [Q000012](../berichte/Q00/Q0000/Q000012/README.de.md) Genie 4: A new generation of world simulation
+- [Q000830](../berichte/Q00/Q0008/Q000830/README.de.md) EmbeddingGemma 2: Unified and Efficient Multimodal Representations
+- [Q000822](../berichte/Q00/Q0008/Q000822/README.de.md) Speeding up planning decisions with AI
+- [Q000807](../berichte/Q00/Q0008/Q000807/README.de.md) Agentic Cheminformatics with Google Antigravity
+- [Q000684](../berichte/Q00/Q0006/Q000684/README.de.md) Gemini Robotics 2.5: Accelerating Physical Intelligence
+- [Q000703](../berichte/Q00/Q0007/Q000703/README.de.md) Introducing AlphaProof Code: a breakthrough in verifying complex software at depth
+- [Q000673](../berichte/Q00/Q0006/Q000673/README.de.md) AlphaGenome 2: Deciphering how cells read DNA to better understand disease
+
+### deepseek
+
+- [Q003650](../berichte/Q00/Q0036/Q003650/README.de.md) DeepSeek API Upgrade | DeepSeek API Docs
+- [Q003666](../berichte/Q00/Q0036/Q003666/README.de.md) DeepSeek API introduces Context Caching on Disk, cutting prices by an order of magnitude
+- [Q003685](../berichte/Q00/Q0036/Q003685/README.de.md) DeepSeek-V2.5: A New Open-Source Model Combining General and Coding Capabilities
+- [Q003695](../berichte/Q00/Q0036/Q003695/README.de.md) 🚀 DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power!
+- [Q003705](../berichte/Q00/Q0037/Q003705/README.de.md) 🚀 DeepSeek V2.5: The Grand Finale 🎉
+- [Q003727](../berichte/Q00/Q0037/Q003727/README.de.md) 🚀 Introducing DeepSeek-V3 | DeepSeek API Docs
+- [Q003743](../berichte/Q00/Q0037/Q003743/README.de.md) Introducing DeepSeek App | DeepSeek API Docs
+- [Q003760](../berichte/Q00/Q0037/Q003760/README.de.md) DeepSeek-R1 Release | DeepSeek API Docs
+- [Q003766](../berichte/Q00/Q0037/Q003766/README.de.md) DeepSeek-V3-0324 Release | DeepSeek API Docs
+- [Q003774](../berichte/Q00/Q0037/Q003774/README.de.md) DeepSeek-R1-0528 Release | DeepSeek API Docs
+- [Q003785](../berichte/Q00/Q0037/Q003785/README.de.md) DeepSeek-V3.1 Release | DeepSeek API Docs
+- [Q003796](../berichte/Q00/Q0037/Q003796/README.de.md) DeepSeek API Docs
+- [Q003814](../berichte/Q00/Q0038/Q003814/README.de.md) Introducing DeepSeek-V3.2-Exp | DeepSeek API Docs
+- [Q003829](../berichte/Q00/Q0038/Q003829/README.de.md) DeepSeek-V3.2 Release | DeepSeek API Docs
+- [Q003843](../berichte/Q00/Q0038/Q003843/README.de.md) DeepSeek V4 Preview Release | DeepSeek API Docs
+- [Q003872](../berichte/Q00/Q0038/Q003872/README.de.md) DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live
+- [Q006833](../berichte/Q00/Q0068/Q006833/README.de.md) DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition
+- [Q003856](../berichte/Q00/Q0038/Q003856/README.de.md) DeepSeek-V4-Pro GA Release | DeepSeek API Docs
+- [Q003880](../berichte/Q00/Q0038/Q003880/README.de.md) DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient | DeepSeek API Docs
+- [Q003890](../berichte/Q00/Q0038/Q003890/README.de.md) DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs
+
+### dev.to
+
+- [Q000602](../berichte/Q00/Q0006/Q000602/README.de.md) Watermarking vs AI Detection: SynthID, C2PA and Classifiers Compared
+
+### dfs.ny.gov
+
+- [Q000417](../berichte/Q00/Q0004/Q000417/README.de.md) Information for Frontier Developers
+
+### dig.watch
+
+- [Q000563](../berichte/Q00/Q0005/Q000563/README.de.md) SANS 2026 report highlights industrial cyber risks
+- [Q000623](../berichte/Q00/Q0006/Q000623/README.de.md) Commission consults on revised DSA guidelines for elections
+
+### digimarc.com
+
+- [Q000618](../berichte/Q00/Q0006/Q000618/README.de.md) The C2PA Train Has Left the Station and Is Accelerating Quickly. Don’t Get Left Behind.
+
+### docs.modulos.ai
+
+- [Q000631](../berichte/Q00/Q0006/Q000631/README.de.md) Commission Guidance on Article 50 Transparency Obligations (EU AI Act)
+
+### dongascience.com
+
+- [Q000565](../berichte/Q00/Q0005/Q000565/README.de.md) "美 제네시스 미션은 '뉴 맨해튼 프로젝트'…AI 에이전트 수십개가 협업"
+
+### edexlive.com
+
+- [Q003346](../berichte/Q00/Q0033/Q003346/README.de.md) Washington voluntary safety pact leaves tech giants to police their own superintelligence
+
+### elysee.fr
+
+- [Q000411](../berichte/Q00/Q0004/Q000411/README.de.md) Paris Call for AI safety and security.
+- [Q000586](../berichte/Q00/Q0005/Q000586/README.de.md) UK-France Nuclear Steering Group Advances Progress Under Nor
+
+### en.yna.co.kr
+
+- [Q000516](../berichte/Q00/Q0005/Q000516/README.de.md) Trading of KOSPI stocks suspended amid tech sell-off
+
+### encorp.ai
+
+- [Q000632](../berichte/Q00/Q0006/Q000632/README.de.md) AI Product Images and Deep Fake Labels Under the AI…
+
+### english.news.cn
+
+- [Q000515](../berichte/Q00/Q0005/Q000515/README.de.md) S. Korean stocks plunge over 8 pct amid tech sell-offs, activating circuit breaker
+
+### enjoy.dev
+
+- [Q000409](../berichte/Q00/Q0004/Q000409/README.de.md) The AI models and agents shutting down in November 2026, and what replaces them
+
+### epoch
+
+- [Q004906](../berichte/Q00/Q0049/Q004906/README.de.md) How to measure FLOP for neural networks empirically?
+- [Q003775](../berichte/Q00/Q0037/Q003775/README.de.md) What’s the backward-forward FLOP ratio for neural networks?
+- [Q004371](../berichte/Q00/Q0043/Q004371/README.de.md) Estimating training compute of deep learning models
+- [Q003996](../berichte/Q00/Q0039/Q003996/README.de.md) Compute trends across three eras of machine learning
+- [Q005190](../berichte/Q00/Q0051/Q005190/README.de.md) Projecting compute trends in machine learning
+- [Q004493](../berichte/Q00/Q0044/Q004493/README.de.md) Grokking “Forecasting TAI with biological anchors”
+- [Q004516](../berichte/Q00/Q0045/Q004516/README.de.md) Grokking “Semi-informative priors over AI timelines”
+- [Q005508](../berichte/Q00/Q0055/Q005508/README.de.md) Trends in GPU price-performance
+- [Q004872](../berichte/Q00/Q0048/Q004872/README.de.md) Machine learning model sizes and the parameter gap
+- [Q003673](../berichte/Q00/Q0036/Q003673/README.de.md) A time-invariant version of Laplace’s rule
+- [Q005298](../berichte/Q00/Q0052/Q005298/README.de.md) The longest training run
+- [Q005559](../berichte/Q00/Q0055/Q005559/README.de.md) Trends in training dataset sizes
+- [Q005726](../berichte/Q00/Q0057/Q005726/README.de.md) Will we run out of ML data? Projecting dataset size trends
+- [Q005172](../berichte/Q00/Q0051/Q005172/README.de.md) Predicting GPU performance
+- [Q005209](../berichte/Q00/Q0052/Q005209/README.de.md) Revisiting algorithmic progress
+- [Q004821](../berichte/Q00/Q0048/Q004821/README.de.md) Literature review of transformative artificial intelligence timelines
+- [Q005223](../berichte/Q00/Q0052/Q005223/README.de.md) Scaling laws literature review
+- [Q005540](../berichte/Q00/Q0055/Q005540/README.de.md) Trends in the dollar training cost of machine learning systems
+- [Q005142](../berichte/Q00/Q0051/Q005142/README.de.md) Power laws in speedrunning and machine learning
+- [Q005241](../berichte/Q00/Q0052/Q005241/README.de.md) The Direct Approach
+- [Q004196](../berichte/Q00/Q0041/Q004196/README.de.md) Direct Approach interactive model
+- [Q004678](../berichte/Q00/Q0046/Q004678/README.de.md) How predictable is language model benchmark performance?
+- [Q005271](../berichte/Q00/Q0052/Q005271/README.de.md) The limited benefit of recycling foundation models
+- [Q005426](../berichte/Q00/Q0054/Q005426/README.de.md) Trading off compute in training and inference
+- [Q004417](../berichte/Q00/Q0044/Q004417/README.de.md) Explosive growth from AI: a review of the arguments
+- [Q009549](../berichte/Q00/Q0095/Q009549/README.de.md) Trends in machine learning hardware
+- [Q003882](../berichte/Q00/Q0038/Q003882/README.de.md) Challenges in predicting AI automation
+- [Q005702](../berichte/Q00/Q0057/Q005702/README.de.md) Who is leading in AI? An analysis of industry AI research
+- [Q003689](../berichte/Q00/Q0036/Q003689/README.de.md) AI capabilities can be significantly improved without expensive retraining
+- [Q004786](../berichte/Q00/Q0047/Q004786/README.de.md) Limits to the energy efficiency of CMOS microprocessors
+- [Q003784](../berichte/Q00/Q0037/Q003784/README.de.md) Biological sequence models in the context of the AI directives
+- [Q003740](../berichte/Q00/Q0037/Q003740/README.de.md) Algorithmic progress in language models
+- [Q005086](../berichte/Q00/Q0050/Q005086/README.de.md) Optimally allocating compute between inference and training
+- [Q005389](../berichte/Q00/Q0053/Q005389/README.de.md) Tracking large-scale AI models | 81 models across 18 countries
+- [Q003910](../berichte/Q00/Q0039/Q003910/README.de.md) Chinchilla scaling: a replication attempt
+- [Q004234](../berichte/Q00/Q0042/Q004234/README.de.md) Do the returns to software R&D point towards a singularity?
+- [Q005472](../berichte/Q00/Q0054/Q005472/README.de.md) Training compute of frontier AI models grows by 4-5x per year
+- [Q004662](../berichte/Q00/Q0046/Q004662/README.de.md) How much does it cost to train frontier AI models?
+- [Q005715](../berichte/Q00/Q0057/Q005715/README.de.md) Will we run out of data to train large language models?
+- [Q005964](../berichte/Q00/Q0059/Q005964/README.de.md) Training compute has scaled up faster for language than vision
+- [Q005970](../berichte/Q00/Q0059/Q005970/README.de.md) The training compute of notable AI models has been doubling roughly every six months
+- [Q006012](../berichte/Q00/Q0060/Q006012/README.de.md) Training compute costs are doubling every eight months for the largest AI models
+- [Q006066](../berichte/Q00/Q0060/Q006066/README.de.md) The size of datasets used to train language models doubles approximately every six months
+- [Q006192](../berichte/Q00/Q0061/Q006192/README.de.md) Almost half of large-scale models have published, downloadable weights
+- [Q006195](../berichte/Q00/Q0061/Q006195/README.de.md) The pace of large-scale model releases is accelerating
+- [Q006198](../berichte/Q00/Q0061/Q006198/README.de.md) Most large-scale models are developed by US companies
+- [Q006202](../berichte/Q00/Q0062/Q006202/README.de.md) Language models compose the large majority of large-scale AI models
+- [Q006374](../berichte/Q00/Q0063/Q006374/README.de.md) The length of time spent training notable models is growing
+- [Q003854](../berichte/Q00/Q0038/Q003854/README.de.md) Can AI scaling continue through 2030?
+- [Q004775](../berichte/Q00/Q0047/Q004775/README.de.md) Interviewing AI researchers on automation of AI R&D
+- [Q006326](../berichte/Q00/Q0063/Q006326/README.de.md) The power required to train frontier AI models is doubling annually
+- [Q005987](../berichte/Q00/Q0059/Q005987/README.de.md) Leading AI companies have hundreds of thousands of cutting-edge AI chips
+- [Q006157](../berichte/Q00/Q0061/Q006157/README.de.md) Performance improves 13x when switching from FP32 to tensor-INT8
+- [Q006240](../berichte/Q00/Q0062/Q006240/README.de.md) Leading ML hardware becomes 40% more energy-efficient each year
+- [Q006242](../berichte/Q00/Q0062/Q006242/README.de.md) The NVIDIA A100 has been the most popular hardware for training notable machine learning models
+- [Q006321](../berichte/Q00/Q0063/Q006321/README.de.md) The computational performance of machine learning hardware has doubled every 2.3 years
+- [Q006331](../berichte/Q00/Q0063/Q006331/README.de.md) Performance per dollar improves around 30% each year
+- [Q006361](../berichte/Q00/Q0063/Q006361/README.de.md) AI training cluster sizes increased by more than 20x since 2016
+- [Q004067](../berichte/Q00/Q0040/Q004067/README.de.md) Data movement bottlenecks to large-scale model training: Scaling past 1e28 FLOP
+- [Q005049](../berichte/Q00/Q0050/Q005049/README.de.md) Open vs. closed AI: How behind are open models?
+- [Q004551](../berichte/Q00/Q0045/Q004551/README.de.md) Hardware failures won’t limit AI scaling
+- [Q005978](../berichte/Q00/Q0059/Q005978/README.de.md) Accuracy increases with estimated training compute
+- [Q006285](../berichte/Q00/Q0062/Q006285/README.de.md) Models with downloadable weights currently lag behind the top-performing models
+- [Q006399](../berichte/Q00/Q0063/Q006399/README.de.md) US models currently outperform non-US models
+- [Q006860](../berichte/Q00/Q0068/Q006860/README.de.md) What did US export controls mean for China’s AI capabilities?
+- [Q006574](../berichte/Q00/Q0065/Q006574/README.de.md) Frontier language models have become much smaller
+- [Q006761](../berichte/Q00/Q0067/Q006761/README.de.md) MoE vs AI dense models: How do they compare in inference?
+- [Q006765](../berichte/Q00/Q0067/Q006765/README.de.md) Moravec’s paradox and its implications
+- [Q006367](../berichte/Q00/Q0063/Q006367/README.de.md) Training compute growth is driven by larger clusters, longer training, and better hardware
+- [Q006543](../berichte/Q00/Q0065/Q006543/README.de.md) The economic consequences of automating remote work
+- [Q006278](../berichte/Q00/Q0062/Q006278/README.de.md) Frontier open models may surpass 1e26 FLOP of training compute before 2026
+- [Q006655](../berichte/Q00/Q0066/Q006655/README.de.md) How has DeepSeek improved the Transformer architecture?
+- [Q005911](../berichte/Q00/Q0059/Q005911/README.de.md) Chinese language models have scaled up more slowly than their global counterparts
+- [Q006432](../berichte/Q00/Q0064/Q006432/README.de.md) AGI could drive wages below subsistence level
+- [Q006248](../berichte/Q00/Q0062/Q006248/README.de.md) Over 30 AI models have been trained at the scale of GPT-4
+- [Q006889](../berichte/Q00/Q0068/Q006889/README.de.md) What went into training DeepSeek-R1?
+- [Q006677](../berichte/Q00/Q0066/Q006677/README.de.md) How much energy does ChatGPT use?
+- [Q006262](../berichte/Q00/Q0062/Q006262/README.de.md) The stock of computing power from NVIDIA chips is doubling every 10 months
+- [Q006471](../berichte/Q00/Q0064/Q006471/README.de.md) Algorithmic progress likely spurs more spending on compute, not less
+- [Q005904](../berichte/Q00/Q0059/Q005904/README.de.md) Biology AI models are scaling 2-4x per year after rapid growth from 2019-2021
+- [Q006459](../berichte/Q00/Q0064/Q006459/README.de.md) AI progress is about to speed up
+- [Q006834](../berichte/Q00/Q0068/Q006834/README.de.md) The promise of reasoning models
+- [Q006135](../berichte/Q00/Q0061/Q006135/README.de.md) Leading AI chip designs are used for around four years in frontier training
+- [Q005448](../berichte/Q00/Q0054/Q005448/README.de.md) Train once, deploy many: AI and increasing returns
+- [Q006878](../berichte/Q00/Q0068/Q006878/README.de.md) What AI can currently do is not the story
+- [Q006216](../berichte/Q00/Q0062/Q006216/README.de.md) LLM inference prices have fallen rapidly but unequally across tasks
+- [Q000003](../berichte/Q00/Q0000/Q000003/README.de.md) GATE: an integrated assessment model for AI automation
+- [Q003751](../berichte/Q00/Q0037/Q003751/README.de.md) GATE: modeling the trajectory of AI and automation
+- [Q006770](../berichte/Q00/Q0067/Q006770/README.de.md) Most AI value will come from broad automation, not from R&D
+- [Q006837](../berichte/Q00/Q0068/Q006837/README.de.md) The real reason AI benchmarks haven’t reflected economic impacts
+- [Q005777](../berichte/Q00/Q0057/Q005777/README.de.md) The combined revenues of leading AI companies grew by over 9x in 2023-2024
+- [Q006315](../berichte/Q00/Q0063/Q006315/README.de.md) LLM responses to benchmark questions are getting longer over time
+- [Q005484](../berichte/Q00/Q0054/Q005484/README.de.md) Trends in AI supercomputers
+- [Q006804](../berichte/Q00/Q0068/Q006804/README.de.md) The case for multi-decade AI timelines
+- [Q005854](../berichte/Q00/Q0058/Q005854/README.de.md) The computational performance of leading AI supercomputers has doubled every nine months
+- [Q006899](../berichte/Q00/Q0068/Q006899/README.de.md) Where’s my ten minute AGI?
+- [Q006632](../berichte/Q00/Q0066/Q006632/README.de.md) How far can reasoning models scale?
+- [Q006642](../berichte/Q00/Q0066/Q006642/README.de.md) How fast can algorithms advance capabilities?
+- [Q006720](../berichte/Q00/Q0067/Q006720/README.de.md) Is AI already superhuman on FrontierMath?
+- [Q006380](../berichte/Q00/Q0063/Q006380/README.de.md) Widespread adoption of new numeric formats took 3-4 years in past cycles
+- [Q004995](../berichte/Q00/Q0049/Q004995/README.de.md) How many AI models will exceed compute thresholds?
+- [Q006589](../berichte/Q00/Q0065/Q006589/README.de.md) GPQA Diamond: What’s left?
+- [Q005827](../berichte/Q00/Q0058/Q005827/README.de.md) Acquisition costs of leading AI supercomputers have doubled every 13 months
+- [Q005835](../berichte/Q00/Q0058/Q005835/README.de.md) The US hosts the majority of GPU cluster performance, followed by China
+- [Q005846](../berichte/Q00/Q0058/Q005846/README.de.md) Private-sector companies own a dominant share of GPU clusters
+- [Q005864](../berichte/Q00/Q0058/Q005864/README.de.md) Power requirements of leading AI supercomputers have doubled every 13 months
+- [Q006513](../berichte/Q00/Q0065/Q006513/README.de.md) Beyond benchmark scores: analyzing o3-mini’s mathematical reasoning
+- [Q006211](../berichte/Q00/Q0062/Q006211/README.de.md) LLM providers offer a trade-off between accuracy and speed
+- [Q005612](../berichte/Q00/Q0056/Q005612/README.de.md) What skills does SWE-bench Verified evaluate?
+- [Q006557](../berichte/Q00/Q0065/Q006557/README.de.md) Do the biorisk evaluations of AI labs actually measure the risk of developing bioweapons?
+- [Q004745](../berichte/Q00/Q0047/Q004745/README.de.md) Inference economics of language models
+- [Q006443](../berichte/Q00/Q0064/Q006443/README.de.md) AI and explosive growth redux
+- [Q006597](../berichte/Q00/Q0065/Q006597/README.de.md) How big could an “AI Manhattan Project” get?
+- [Q006893](../berichte/Q00/Q0068/Q006893/README.de.md) What will the IMO tell us about AI math capabilities?
+- [Q006422](../berichte/Q00/Q0064/Q006422/README.de.md) After the ChatGPT moment: measuring AI’s adoption
+- [Q004453](../berichte/Q00/Q0044/Q004453/README.de.md) Evaluating Grok 4’s math capabilities
+- [Q006219](../berichte/Q00/Q0062/Q006219/README.de.md) Frontier LLM training runs can’t get much longer
+- [Q006914](../berichte/Q00/Q0069/Q006914/README.de.md) Why China isn’t about to leap ahead of the West on compute
+- [Q006387](../berichte/Q00/Q0063/Q006387/README.de.md) Training open-weight models is becoming more data intensive
+- [Q006785](../berichte/Q00/Q0067/Q006785/README.de.md) Quantifying the algorithmic improvement from reasoning models
+- [Q006872](../berichte/Q00/Q0068/Q006872/README.de.md) We didn’t learn much from the IMO
+- [Q005954](../berichte/Q00/Q0059/Q005954/README.de.md) Compute is not a bottleneck for robotic manipulation
+- [Q005132](../berichte/Q00/Q0051/Q005132/README.de.md) How much power will frontier AI training demand in 2030?
+- [Q005997](../berichte/Q00/Q0059/Q005997/README.de.md) Frontier AI capabilities can be run at home within a year or less
+- [Q006921](../berichte/Q00/Q0069/Q006921/README.de.md) Why future AI agents will be trained to work together
+- [Q006127](../berichte/Q00/Q0061/Q006127/README.de.md) GPT-5 and GPT-4 were both major leaps in benchmarks from the previous generation
+- [Q006227](../berichte/Q00/Q0062/Q006227/README.de.md) LLMs haven’t solved the hardest problems on math contests
+- [Q006533](../berichte/Q00/Q0065/Q006533/README.de.md) Compute scaling will slow down due to increasing lead times
+- [Q006848](../berichte/Q00/Q0068/Q006848/README.de.md) Three challenges facing compute-based AI policies
+- [Q006150](../berichte/Q00/Q0061/Q006150/README.de.md) What did it take to train Grok 4?
+- [Q005627](../berichte/Q00/Q0056/Q005627/README.de.md) What will AI look like in 2030?
+- [Q006346](../berichte/Q00/Q0063/Q006346/README.de.md) AI developers accurately report GPQA Diamond scores for recent models
+- [Q006816](../berichte/Q00/Q0068/Q006816/README.de.md) The huge potential implications of long-context inference
+- [Q006924](../berichte/Q00/Q0069/Q006924/README.de.md) Why GPT-5 used less training compute than GPT-4.5 (but GPT-6 probably won’t)
+- [Q005735](../berichte/Q00/Q0057/Q005735/README.de.md) AI capabilities have steadily improved over the past year
+- [Q006664](../berichte/Q00/Q0066/Q006664/README.de.md) How many digital workers could OpenAI deploy?
+- [Q004143](../berichte/Q00/Q0041/Q004143/README.de.md) Evaluating Gemini 2.5 Deep Think's math capabilities
+- [Q006303](../berichte/Q00/Q0063/Q006303/README.de.md) Most of OpenAI’s 2024 compute went to experiments
+- [Q006309](../berichte/Q00/Q0063/Q006309/README.de.md) OpenAI's revenue has been growing 3x a year since 2024
+- [Q006778](../berichte/Q00/Q0067/Q006778/README.de.md) OpenAI is projecting unprecedented revenue growth
+- [Q006756](../berichte/Q00/Q0067/Q006756/README.de.md) Less than 70% of FrontierMath is within reach for today’s models
+- [Q004036](../berichte/Q00/Q0040/Q004036/README.de.md) Could decentralized training solve AI’s power problem?
+- [Q005595](../berichte/Q00/Q0055/Q005595/README.de.md) What does OSWorld tell us about AI’s ability to use computers?
+- [Q006290](../berichte/Q00/Q0062/Q006290/README.de.md) Open-weight models lag state-of-the-art by around 3 months on average
+- [Q005645](../berichte/Q00/Q0056/Q005645/README.de.md) Topic Overview: AI Data Centers
+- [Q006187](../berichte/Q00/Q0061/Q006187/README.de.md) Epoch’s Capabilities Index stitches together benchmarks across a wide range of difficulties
+- [Q006061](../berichte/Q00/Q0060/Q006061/README.de.md) Build times for gigawatt-scale data centers
+- [Q006842](../berichte/Q00/Q0068/Q006842/README.de.md) The software intelligence explosion debate needs experiments
+- [Q006503](../berichte/Q00/Q0065/Q006503/README.de.md) Benchmark scores = general capability + Claudiness
+- [Q006089](../berichte/Q00/Q0060/Q006089/README.de.md) Microsoft’s Fairwater data center will use more power than Los Angeles
+- [Q003657](../berichte/Q00/Q0036/Q003657/README.de.md) A Rosetta Stone for AI benchmarks
+- [Q006118](../berichte/Q00/Q0061/Q006118/README.de.md) Today’s largest data center can do more than 20 GPT-4-scale training runs each month
+- [Q005887](../berichte/Q00/Q0058/Q005887/README.de.md) NVIDIA's B200 costs around $6,400 to produce
+- [Q006732](../berichte/Q00/Q0067/Q006732/README.de.md) Is almost everyone wrong about America’s AI power problem?
+- [Q006143](../berichte/Q00/Q0061/Q006143/README.de.md) GPUs account for about 40% of power usage in AI data centers
+- [Q006812](../berichte/Q00/Q0068/Q006812/README.de.md) The changing drivers of LLM adoption
+- [Q005743](../berichte/Q00/Q0057/Q005743/README.de.md) AI capabilities progress has sped up
+- [Q006907](../berichte/Q00/Q0069/Q006907/README.de.md) Why benchmarking is hard
+- [Q006623](../berichte/Q00/Q0066/Q006623/README.de.md) How far can decentralized training over the internet scale?
+- [Q006394](../berichte/Q00/Q0063/Q006394/README.de.md) Chinese AI models have lagged the US frontier by 7 months on average since 2023
+- [Q005761](../berichte/Q00/Q0057/Q005761/README.de.md) Global AI computing capacity is doubling every 7 months
+- [Q006799](../berichte/Q00/Q0067/Q006799/README.de.md) An FAQ on reinforcement learning environments
+- [Q005800](../berichte/Q00/Q0058/Q005800/README.de.md) Global AI power capacity is now comparable to peak power usage of New York State
+- [Q006704](../berichte/Q00/Q0067/Q006704/README.de.md) How well did forecasters predict 2025 AI progress?
+- [Q005896](../berichte/Q00/Q0058/Q005896/README.de.md) Benchmark scores are well correlated, even across domains
+- [Q006523](../berichte/Q00/Q0065/Q006523/README.de.md) Can AI companies become profitable?
+- [Q005947](../berichte/Q00/Q0059/Q005947/README.de.md) Compute accounts for the majority of expenses of AI companies
+- [Q006611](../berichte/Q00/Q0066/Q006611/README.de.md) How close is AI to taking my job?
+- [Q005690](../berichte/Q00/Q0056/Q005690/README.de.md) Where autonomy works: evaluating robot capabilities in 2026
+- [Q005574](../berichte/Q00/Q0055/Q005574/README.de.md) What do “economic value” benchmarks tell us?
+- [Q006686](../berichte/Q00/Q0066/Q006686/README.de.md) How persistent is the inference cost burden?
+- [Q005871](../berichte/Q00/Q0058/Q005871/README.de.md) Anthropic could surpass OpenAI in annualized revenue by mid-2026
+- [Q004405](../berichte/Q00/Q0044/Q004405/README.de.md) Expanding our analysis of biological AI models
+- [Q006825](../berichte/Q00/Q0068/Q006825/README.de.md) The least understood driver of AI progress
+- [Q006170](../berichte/Q00/Q0061/Q006170/README.de.md) Hyperscaler capex has quadrupled since GPT-4's release
+- [Q006235](../berichte/Q00/Q0062/Q006235/README.de.md) Microsoft’s recent $68 billion in physical assets additions were driven by AI-related purchases
+- [Q005770](../berichte/Q00/Q0057/Q005770/README.de.md) Advanced packaging and HBM, not logic dies, were the bottlenecks on AI chip production in 2025
+- [Q006789](../berichte/Q00/Q0067/Q006789/README.de.md) Final training runs account for a minority of R&D compute spending
+- [Q006163](../berichte/Q00/Q0061/Q006163/README.de.md) Total AI chip memory bandwidth has grown 4.1x per year, now reaching 70 million terabytes per second
+- [Q006452](../berichte/Q00/Q0064/Q006452/README.de.md) What do frontier AI companies' job postings reveal about their plans?
+- [Q006102](../berichte/Q00/Q0061/Q006102/README.de.md) Google controls the most AI computing power, driven by its custom TPUs
+- [Q006748](../berichte/Q00/Q0067/Q006748/README.de.md) Keeping up with the GPTs
+- [Q004535](../berichte/Q00/Q0045/Q004535/README.de.md) AI is a common workplace tool: Half of employed AI users now use it for work
+- [Q004940](../berichte/Q00/Q0049/Q004940/README.de.md) MirrorCode: evidence AI can already do some weeks-long coding tasks
+- [Q006865](../berichte/Q00/Q0068/Q006865/README.de.md) What does the war in Iran mean for AI?
+- [Q006181](../berichte/Q00/Q0061/Q006181/README.de.md) Five hyperscalers now own over two-thirds of global AI compute
+- [Q005932](../berichte/Q00/Q0059/Q005932/README.de.md) Claude use rose by over 40% amid increased attention in March
+- [Q004565](../berichte/Q00/Q0045/Q004565/README.de.md) Have AI capabilities accelerated?
+- [Q005072](../berichte/Q00/Q0050/Q005072/README.de.md) OpenAI Stargate: where the US sites stand
+- [Q004645](../berichte/Q00/Q0046/Q004645/README.de.md) How fast could robot production scale up?
+- [Q006356](../berichte/Q00/Q0063/Q006356/README.de.md) Claude skews high-income; Meta AI skews low-income
+- [Q003941](../berichte/Q00/Q0039/Q003941/README.de.md) Diversion and resale: estimating compute smuggling to China
+- [Q003970](../berichte/Q00/Q0039/Q003970/README.de.md) Topic Overview: AI Chips
+- [Q006794](../berichte/Q00/Q0067/Q006794/README.de.md) RIP classic reasoning benchmarks. What's next?
+- [Q006340](../berichte/Q00/Q0063/Q006340/README.de.md) Anthropic and OpenAI earn more revenue per employee than major public tech companies
+- [Q006561](../berichte/Q00/Q0065/Q006561/README.de.md) The economics of superstar AI researchers
+- [Q005795](../berichte/Q00/Q0057/Q005795/README.de.md) Total cost of ownership of a one-gigawatt AI data center
+- [Q005925](../berichte/Q00/Q0059/Q005925/README.de.md) Claude overperforms at software engineering and underperforms at math
+- [Q006568](../berichte/Q00/Q0065/Q006568/README.de.md) How much AI compute do frontier labs use?
+- [Q005751](../berichte/Q00/Q0057/Q005751/README.de.md) AI chip component costs: memory at 63%
+- [Q006715](../berichte/Q00/Q0067/Q006715/README.de.md) Is a compute crunch coming?
+- [Q006272](../berichte/Q00/Q0062/Q006272/README.de.md) Open models lag state-of-the-art closed models by 4 months
+- [Q005808](../berichte/Q00/Q0058/Q005808/README.de.md) Data center buildout share of US GDP is still relatively small (but rapidly growing)
+- [Q006550](../berichte/Q00/Q0065/Q006550/README.de.md) Controlling the capital after AGI
+- [Q006205](../berichte/Q00/Q0062/Q006205/README.de.md) Largest AI data center: doubling every 7 months
+- [Q006492](../berichte/Q00/Q0064/Q006492/README.de.md) Are Mythos’ cyber capabilities overhyped?
+- [Q006176](../berichte/Q00/Q0061/Q006176/README.de.md) Hyperscaler capex to exceed cash flow by Q3 2026
+- [Q006856](../berichte/Q00/Q0068/Q006856/README.de.md) Toward an O*NET for AI R&D
+- [Q006884](../berichte/Q00/Q0068/Q006884/README.de.md) What we learned from 1,604 Chinese AI job postings
+- [Q004263](../berichte/Q00/Q0042/Q004263/README.de.md) Can AI learn from experience? EBR-Bench results
+- [Q006022](../berichte/Q00/Q0060/Q006022/README.de.md) Disclosed CVEs: 3.5× spike after Claude Mythos
+- [Q006113](../berichte/Q00/Q0061/Q006113/README.de.md) GPT-4 led in ECI far longer than any other model
+- [Q005938](../berichte/Q00/Q0059/Q005938/README.de.md) Contributions to OpenAI's Codex codebase show signs of AI uplift
+- [Q006829](../berichte/Q00/Q0068/Q006829/README.de.md) The missing half of AI futurism debates
+- [Q003701](../berichte/Q00/Q0037/Q003701/README.de.md) Topic Overview: AI Energy Use
+- [Q005816](../berichte/Q00/Q0058/Q005816/README.de.md) AI detectors rarely flag human writing, but sometimes miss AI text imitating real authors
+- [Q009493](../berichte/Q00/Q0094/Q009493/README.de.md) OpenAI accidentally hacked Hugging Face — should we have seen it coming?
+- [Q005100](../berichte/Q00/Q0051/Q005100/README.de.md) Will parallelization limits delay an intelligence explosion?
+- [Q006032](../berichte/Q00/Q0060/Q006032/README.de.md) Disclosed CVEs: July reached 5× the pre-Mythos record
+- [Q005016](../berichte/Q00/Q0050/Q005016/README.de.md) AI at work: how AI is changing everyday job tasks
+- [Q006931](../berichte/Q00/Q0069/Q006931/README.de.md) Will financing bottleneck AI compute? An Anthropic case study
+- [Q005918](../berichte/Q00/Q0059/Q005918/README.de.md) The performance per dollar of AI chips purchased each quarter has grown by an average of 49% per year
+- [Q006081](../berichte/Q00/Q0060/Q006081/README.de.md) Most AI use at work happens on free plans, except in science and tech
+- [Q006407](../berichte/Q00/Q0064/Q006407/README.de.md) 9 big questions benchmarks can help answer
+- [Q006480](../berichte/Q00/Q0064/Q006480/README.de.md) An update on AI’s most important number
+- [Q006075](../berichte/Q00/Q0060/Q006075/README.de.md) The ECI frontier has advanced by 14 points per year since the introduction of reasoning models
+- [Q004731](../berichte/Q00/Q0047/Q004731/README.de.md) Will Huawei catch up to Nvidia by 2030?
+- [Q006097](../berichte/Q00/Q0060/Q006097/README.de.md) Largest AI data center power: doubling every 10 months
+- [Q004847](../berichte/Q00/Q0048/Q004847/README.de.md) Latency scaling differences for GPT and Claude models
+- [Q006256](../berichte/Q00/Q0062/Q006256/README.de.md) Near-daily AI use among US adults has more than doubled in six months
+- [Q005879](../berichte/Q00/Q0058/Q005879/README.de.md) GPT-6 Astra leads on math benchmarks, but not on software engineering
+- [Q006225](../berichte/Q00/Q0062/Q006225/README.de.md) Trade data consistent with $3B of chips smuggled to China via Malaysia
+- [Q006232](../berichte/Q00/Q0062/Q006232/README.de.md) In August, 25% of math preprints acknowledged AI use, up from 4% in April
+- [Q005367](../berichte/Q00/Q0053/Q005367/README.de.md) The plunging price of thought
+- [Q004429](../berichte/Q00/Q0044/Q004429/README.de.md) Can AI spot mistakes in IKEA assembly?
+- [Q004344](../berichte/Q00/Q0043/Q004344/README.de.md) How many AI agents could we run?
+- [Q006297](../berichte/Q00/Q0062/Q006297/README.de.md) Coding-agent use at OpenAI is doubling roughly every month
+- [Q003899](../berichte/Q00/Q0038/Q003899/README.de.md) Who is most exposed to a chip supply shock?
+- [Q004603](../berichte/Q00/Q0046/Q004603/README.de.md) How do Chinese AI companies make money?
+- [Q004298](../berichte/Q00/Q0042/Q004298/README.de.md) EBR-bench update
+- [Q004766](../berichte/Q00/Q0047/Q004766/README.de.md) Can AI automate AI R&D yet?
+- [Q006040](../berichte/Q00/Q0060/Q006040/README.de.md) US adults are no more likely to face cyber incidents than when Claude Fable 5 launched
+- [Q003813](../berichte/Q00/Q0038/Q003813/README.de.md) Can AI automate Epoch?
+- [Q003717](../berichte/Q00/Q0037/Q003717/README.de.md) How well can AI play Slay the Spire?
+- [Q006268](../berichte/Q00/Q0062/Q006268/README.de.md) Open-weight AI models are 6-7 months behind on cyber
+- [Q000280](../berichte/Q00/Q0002/Q000280/README.de.md) Open-weight AI models can exploit the patch gap
+- [Q005786](../berichte/Q00/Q0057/Q005786/README.de.md) New global AI computing capacity is doubling every 9 months
+- [Q006936](../berichte/Q00/Q0069/Q006936/README.de.md) LLM use is acknowledged almost as often as specialized AI tools in biology preprints
+- [Q006953](../berichte/Q00/Q0069/Q006953/README.de.md) Updating the ECI methodology to use a Bayesian model
+- [Q006957](../berichte/Q00/Q0069/Q006957/README.de.md) Broadcom TPU shipments doubled to 2M H100-equivalents
+- [Q006964](../berichte/Q00/Q0069/Q006964/README.de.md) What Huawei’s Horinger data center reveals about China’s compute gap
+- [Q000666](../berichte/Q00/Q0006/Q000666/README.de.md) Changing how we measure AI chip inference performance
+
+### eu
+
+- [Q000258](../berichte/Q00/Q0002/Q000258/README.de.md) Signatory Task Forces of the Code of Practice on Transparency of AI-generated Content
+- [Q000676](../berichte/Q00/Q0006/Q000676/README.de.md) Cloud and AI Development Act
+- [Q000686](../berichte/Q00/Q0006/Q000686/README.de.md) Market Surveillance Authorities under the AI Act
+- [Q000695](../berichte/Q00/Q0006/Q000695/README.de.md) AI Act Scientific Panel
+- [Q000789](../berichte/Q00/Q0007/Q000789/README.de.md) AI tools for Cities | Shaping Europe’s digital future
+- [Q000808](../berichte/Q00/Q0008/Q000808/README.de.md) AI for Liveable Cities
+- [Q000843](../berichte/Q00/Q0008/Q000843/README.de.md) Apply AI Summit
+- [Q000853](../berichte/Q00/Q0008/Q000853/README.de.md) AI Pact
+- [Q000876](../berichte/Q00/Q0008/Q000876/README.de.md) European AI Office
+- [Q000911](../berichte/Q00/Q0009/Q000911/README.de.md) The enforcement framework of the AI Act
+- [Q000926](../berichte/Q00/Q0009/Q000926/README.de.md) AI Literacy - Questions & Answers
+- [Q000941](../berichte/Q00/Q0009/Q000941/README.de.md) Navigating the AI Act
+- [Q000961](../berichte/Q00/Q0009/Q000961/README.de.md) AI Factories
+- [Q000990](../berichte/Q00/Q0009/Q000990/README.de.md) AI Act
+- [Q001006](../berichte/Q00/Q0010/Q001006/README.de.md) Guidelines for providers and deployers of AI high-risk systems
+- [Q001025](../berichte/Q00/Q0010/Q001025/README.de.md) Code of Practice on Transparency of AI-generated Content
+- [Q001045](../berichte/Q00/Q0010/Q001045/README.de.md) Standardisation of the AI Act
+- [Q001069](../berichte/Q00/Q0010/Q001069/README.de.md) European AI Innovation Month
+- [Q001076](../berichte/Q00/Q0010/Q001076/README.de.md) EU Icons for labelling AI-generated content
+- [Q001086](../berichte/Q00/Q0010/Q001086/README.de.md) AI talent, skills and literacy
+- [Q001100](../berichte/Q00/Q0011/Q001100/README.de.md) AI Act Complaints tool
+- [Q001116](../berichte/Q00/Q0011/Q001116/README.de.md) AI Act Whistleblower Tool
+- [Q001138](../berichte/Q00/Q0011/Q001138/README.de.md) Apply AI Strategy
+- [Q001153](../berichte/Q00/Q0011/Q001153/README.de.md) European AI-powered advanced screening centres
+- [Q001165](../berichte/Q00/Q0011/Q001165/README.de.md) AI Board
+- [Q001179](../berichte/Q00/Q0011/Q001179/README.de.md) Apply AI webinars
+- [Q001297](../berichte/Q00/Q0012/Q001297/README.de.md) Governance and enforcement of the AI Act
+- [Q001312](../berichte/Q00/Q0013/Q001312/README.de.md) Guidelines on transparency obligations for providers and deployers of certain AI systems
+- [Q001340](../berichte/Q00/Q0013/Q001340/README.de.md) Artificial Intelligence
+- [Q001353](../berichte/Q00/Q0013/Q001353/README.de.md) European approach to artificial intelligence
+- [Q001361](../berichte/Q00/Q0013/Q001361/README.de.md) Quick Facts: Transparency rules for AI systems | Shaping Europe’s digital future
+- [Q001382](../berichte/Q00/Q0013/Q001382/README.de.md) Signing the Code of Practice on Transparency of AI-generated Content
+- [Q001398](../berichte/Q00/Q0013/Q001398/README.de.md) Repository of AI literacy practices
+- [Q001417](../berichte/Q00/Q0014/Q001417/README.de.md) Ecosystem for AI innovation in Europe
+- [Q001447](../berichte/Q00/Q0014/Q001447/README.de.md) Transparency obligations under Article 50 of the AI Act
+- [Q001467](../berichte/Q00/Q0014/Q001467/README.de.md) Questions and answers on the code of practice for General-Purpose AI
+- [Q001484](../berichte/Q00/Q0014/Q001484/README.de.md) European research development and deployment of AI
+- [Q001505](../berichte/Q00/Q0015/Q001505/README.de.md) Drawing-up a General-Purpose AI Code of Practice
+- [Q001527](../berichte/Q00/Q0015/Q001527/README.de.md) Code of Practice on Transparency of AI-Generated Content
+- [Q001545](../berichte/Q00/Q0015/Q001545/README.de.md) AI Act Advisory Forum
+- [Q001584](../berichte/Q00/Q0015/Q001584/README.de.md) EU international engagement on Artificial Intelligence
+- [Q001598](../berichte/Q00/Q0015/Q001598/README.de.md) Apply AI Alliance
+- [Q001771](../berichte/Q00/Q0017/Q001771/README.de.md) Artificial Intelligence in Health
+- [Q001793](../berichte/Q00/Q0017/Q001793/README.de.md) Template for general-purpose AI model providers to summarise their training content
+- [Q001806](../berichte/Q00/Q0018/Q001806/README.de.md) Understanding the standardisation of the AI Act
+- [Q001878](../berichte/Q00/Q0018/Q001878/README.de.md) AI Pact pledgers' achievements | Shaping Europe’s digital future
+- [Q001977](../berichte/Q00/Q0019/Q001977/README.de.md) Shaping Europe’s digital future
+- [Q001996](../berichte/Q00/Q0019/Q001996/README.de.md) Shaping Europe’s digital future
+- [Q002005](../berichte/Q00/Q0020/Q002005/README.de.md) Shaping Europe’s digital future
+- [Q002017](../berichte/Q00/Q0020/Q002017/README.de.md) VAIA - Flanders AI Academy | Shaping Europe’s digital future
+- [Q002031](../berichte/Q00/Q0020/Q002031/README.de.md) Shaping Europe’s digital future
+- [Q002042](../berichte/Q00/Q0020/Q002042/README.de.md) Spanish Agency for the Supervision of AI (AESIA), Ministry for Digital Transformation and the Civil Service | Shaping Europe’s digital future
+- [Q002055](../berichte/Q00/Q0020/Q002055/README.de.md) Shaping Europe’s digital future
+- [Q002061](../berichte/Q00/Q0020/Q002061/README.de.md) Sorry - 259162116
+- [Q002068](../berichte/Q00/Q0020/Q002068/README.de.md) Sorry - 252215312
+- [Q002094](../berichte/Q00/Q0020/Q002094/README.de.md) Sorry - 212076897
+- [Q002100](../berichte/Q00/Q0021/Q002100/README.de.md) Sorry - 261849104
+- [Q002113](../berichte/Q00/Q0021/Q002113/README.de.md) Danish Agency for Digital Government | Shaping Europe’s digital future
+- [Q002128](../berichte/Q00/Q0021/Q002128/README.de.md) Shaping Europe’s digital future
+- [Q002134](../berichte/Q00/Q0021/Q002134/README.de.md) AI & Partners | Shaping Europe’s digital future
+- [Q002146](../berichte/Q00/Q0021/Q002146/README.de.md) Shaping Europe’s digital future
+- [Q002172](../berichte/Q00/Q0021/Q002172/README.de.md) AI Pact Events
+- [Q002197](../berichte/Q00/Q0021/Q002197/README.de.md) Shaping Europe’s digital future
+- [Q002202](../berichte/Q00/Q0022/Q002202/README.de.md) Sorry - 257360076
+- [Q002219](../berichte/Q00/Q0022/Q002219/README.de.md) Shaping Europe’s digital future
+- [Q002230](../berichte/Q00/Q0022/Q002230/README.de.md) Asimov AI S.R.L. | Shaping Europe’s digital future
+- [Q002241](../berichte/Q00/Q0022/Q002241/README.de.md) Shaping Europe’s digital future
+- [Q002248](../berichte/Q00/Q0022/Q002248/README.de.md) CDTI - Club dirigenti tecnologie dell'Informazione | Shaping Europe’s digital future
+- [Q002259](../berichte/Q00/Q0022/Q002259/README.de.md) Shaping Europe’s digital future
+- [Q002267](../berichte/Q00/Q0022/Q002267/README.de.md) Shaping Europe’s digital future
+- [Q002276](../berichte/Q00/Q0022/Q002276/README.de.md) Shaping Europe’s digital future
+- [Q002282](../berichte/Q00/Q0022/Q002282/README.de.md) Fontys University of Applied Sciences | Shaping Europe’s digital future
+- [Q002293](../berichte/Q00/Q0022/Q002293/README.de.md) German Rectors' Conference (HRK) | Shaping Europe’s digital future
+- [Q002302](../berichte/Q00/Q0023/Q002302/README.de.md) Gjensidige Forsikring ASA | Shaping Europe’s digital future
+- [Q002311](../berichte/Q00/Q0023/Q002311/README.de.md) Shaping Europe’s digital future
+- [Q002317](../berichte/Q00/Q0023/Q002317/README.de.md) INGENIERÍA Y ECONOMÍA DEL TRANSPORTE S.M.E. M.P., S.A. (INECO) | Shaping Europe’s digital future
+- [Q002329](../berichte/Q00/Q0023/Q002329/README.de.md) Shaping Europe’s digital future
+- [Q002339](../berichte/Q00/Q0023/Q002339/README.de.md) Shaping Europe’s digital future
+- [Q002347](../berichte/Q00/Q0023/Q002347/README.de.md) Shaping Europe’s digital future
+- [Q002353](../berichte/Q00/Q0023/Q002353/README.de.md) Dutch Ministry of the Interior and Kingdom Relations | Shaping Europe’s digital future
+- [Q002360](../berichte/Q00/Q0023/Q002360/README.de.md) Shaping Europe’s digital future
+- [Q002366](../berichte/Q00/Q0023/Q002366/README.de.md) NTT DATA EUROPE & LATAM | Shaping Europe’s digital future
+- [Q002371](../berichte/Q00/Q0023/Q002371/README.de.md) Palantir Technologies Inc. | Shaping Europe’s digital future
+- [Q002380](../berichte/Q00/Q0023/Q002380/README.de.md) Shaping Europe’s digital future
+- [Q002389](../berichte/Q00/Q0023/Q002389/README.de.md) The Latvian Ministry of Smart Administration and Regional Development | Shaping Europe’s digital future
+- [Q002399](../berichte/Q00/Q0023/Q002399/README.de.md) Shaping Europe’s digital future
+- [Q002408](../berichte/Q00/Q0024/Q002408/README.de.md) Assicurazioni Generali S.p.a. | Shaping Europe’s digital future
+- [Q002415](../berichte/Q00/Q0024/Q002415/README.de.md) OpenSky Data Systems | Shaping Europe’s digital future
+- [Q002423](../berichte/Q00/Q0024/Q002423/README.de.md) Shaping Europe’s digital future
+- [Q002431](../berichte/Q00/Q0024/Q002431/README.de.md) Guidelines on obligations for General-Purpose AI providers
+- [Q002448](../berichte/Q00/Q0024/Q002448/README.de.md) Shaping Europe’s digital future
+- [Q002456](../berichte/Q00/Q0024/Q002456/README.de.md) AI for Public Good | Shaping Europe’s digital future
+- [Q002480](../berichte/Q00/Q0024/Q002480/README.de.md) Apply AI strategy - an overview | Shaping Europe’s digital future
+- [Q002526](../berichte/Q00/Q0025/Q002526/README.de.md) Stakeholder consultation on AI and copyright compliance
+- [Q002538](../berichte/Q00/Q0025/Q002538/README.de.md) Shaping Europe’s digital future
+- [Q002549](../berichte/Q00/Q0025/Q002549/README.de.md) Guidelines and Code of Practice on transparent AI systems
+- [Q002576](../berichte/Q00/Q0025/Q002576/README.de.md) General-Purpose AI Models in the AI Act – Questions & Answers
+- [Q002595](../berichte/Q00/Q0025/Q002595/README.de.md) General-purpose AI obligations under the AI Act | Shaping Europe’s digital future
+- [Q002603](../berichte/Q00/Q0026/Q002603/README.de.md) Fundamental rights protection authorities with special powers under the AI Act
+- [Q002618](../berichte/Q00/Q0026/Q002618/README.de.md) Signing the General-Purpose AI code of practice
+- [Q002637](../berichte/Q00/Q0026/Q002637/README.de.md) Networks of Excellence: A community of AI & Robotics researchers
+- [Q002681](../berichte/Q00/Q0026/Q002681/README.de.md) AI excellence: thriving from the lab to the market
+- [Q002701](../berichte/Q00/Q0027/Q002701/README.de.md) AI Excellence: Enabling conditions for AI’s development and uptake
+- [Q002736](../berichte/Q00/Q0027/Q002736/README.de.md) AI Continent Action Plan | Shaping Europe’s digital future
+- [Q002759](../berichte/Q00/Q0027/Q002759/README.de.md) High-level expert group on artificial intelligence
+- [Q002769](../berichte/Q00/Q0027/Q002769/README.de.md) AI Continent Action Plan
+- [Q002801](../berichte/Q00/Q0028/Q002801/README.de.md) Success stories on EU funded AI research - euROBIN | Shaping Europe’s digital future
+- [Q002819](../berichte/Q00/Q0028/Q002819/README.de.md) AI Excellence: Ensuring that AI works for people
+- [Q002838](../berichte/Q00/Q0028/Q002838/README.de.md) AI Excellence: Build strategic leadership in high-impact sectors
+- [Q002863](../berichte/Q00/Q0028/Q002863/README.de.md) DIGITAL success stories – Cancer imaging and AI | Shaping Europe’s digital future
+- [Q002892](../berichte/Q00/Q0028/Q002892/README.de.md) DIGITAL success stories – AI Testing and Experimentation Facilities: AgrifoodTEF | Shaping Europe’s digital future
+- [Q002908](../berichte/Q00/Q0029/Q002908/README.de.md) The Digital Europe Programme
+- [Q002921](../berichte/Q00/Q0029/Q002921/README.de.md) Shaping Europe’s digital future
+- [Q002932](../berichte/Q00/Q0029/Q002932/README.de.md) AI Innovation Package | Shaping Europe’s digital future
+- [Q002472](../berichte/Q00/Q0024/Q002472/README.de.md) Coordinated Plan on Artificial Intelligence 2021 Review
+- [Q004496](../berichte/Q00/Q0044/Q004496/README.de.md) Explanatory Notice and Template for the Public Summary of Training Content for general-purpose AI models
+- [Q001611](../berichte/Q00/Q0016/Q001611/README.de.md) Report on the review of prohibitions and high-risk AI
+- [Q000018](../berichte/Q00/Q0000/Q000018/README.de.md) Special meeting of the AI Scientific Panel
+- [Q000619](../berichte/Q00/Q0006/Q000619/README.de.md) Targeted consultation on the draft revised election guidelines under the Digital Services Act (DSA)
+
+### eualive.net
+
+- [Q000504](../berichte/Q00/Q0005/Q000504/README.de.md) EU leaders hold first high-level AI talks in Dublin, agree on European team for Ukraine peace talks
+
+### eurasiareview.com
+
+- [Q000554](../berichte/Q00/Q0005/Q000554/README.de.md) Building On Progress In China–USA Talks On AI - Analysis
+
+### euronews.com
+
+- [Q000654](../berichte/Q00/Q0006/Q000654/README.de.md) EU leaders debate benefits and dangers of AI at Dublin summit
+
+### exiftools.com
+
+- [Q000597](../berichte/Q00/Q0005/Q000597/README.de.md) Content Credentials Explained: Verify a C2PA Signature
+
+### farai
+
+- [Q001766](../berichte/Q00/Q0017/Q001766/README.de.md) Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability
+- [Q001773](../berichte/Q00/Q0017/Q001773/README.de.md) Adversarial Circuit Evaluation
+- [Q001780](../berichte/Q00/Q0017/Q001780/README.de.md) Adversarial Policies Beat Superhuman Go AIs
+- [Q001788](../berichte/Q00/Q0017/Q001788/README.de.md) AI Companies Should Report Pre- and Post-Mitigation Safety Evaluations
+- [Q001797](../berichte/Q00/Q0017/Q001797/README.de.md) Among us: A sandbox for measuring and detecting agentic deception
+- [Q001803](../berichte/Q00/Q0018/Q001803/README.de.md) An Invariant Learning Characterization of Controlled Text Generation
+- [Q001811](../berichte/Q00/Q0018/Q001811/README.de.md) Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models
+- [Q001819](../berichte/Q00/Q0018/Q001819/README.de.md) Auditing Games for Sandbagging
+- [Q001823](../berichte/Q00/Q0018/Q001823/README.de.md) Can Go AIs be adversarially robust?
+- [Q001825](../berichte/Q00/Q0018/Q001825/README.de.md) Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification
+- [Q001831](../berichte/Q00/Q0018/Q001831/README.de.md) ClearHarm: A more challenging jailbreak dataset
+- [Q001857](../berichte/Q00/Q0018/Q001857/README.de.md) Codebook Features: Sparse and Discrete Interpretability for Neural Networks
+- [Q001861](../berichte/Q00/Q0018/Q001861/README.de.md) Compressed Computation is (probably) not Computation in Superposition
+- [Q001864](../berichte/Q00/Q0018/Q001864/README.de.md) Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution
+- [Q001869](../berichte/Q00/Q0018/Q001869/README.de.md) Eliciting Latent Predictions from Transformers with the Tuned Lens
+- [Q001873](../berichte/Q00/Q0018/Q001873/README.de.md) Emergent Persuasion: Will LLMs Persuade Without Being Prompted?
+- [Q001879](../berichte/Q00/Q0018/Q001879/README.de.md) Evaluating the Moral Beliefs Encoded in LLMs
+- [Q001886](../berichte/Q00/Q0018/Q001886/README.de.md) Exploiting Novel GPT-4 APIs
+- [Q001890](../berichte/Q00/Q0018/Q001890/README.de.md) Exploring Scaling Trends in LLM Robustness
+- [Q001897](../berichte/Q00/Q0018/Q001897/README.de.md) Few-shot Adaptation Works with UnpredicTable Data
+- [Q001901](../berichte/Q00/Q0019/Q001901/README.de.md) Illusory Safety: Redteaming DeepSeek R1 and the Strongest Fine-Tunable Models of OpenAI, Anthropic, and Google
+- [Q001908](../berichte/Q00/Q0019/Q001908/README.de.md) imitation: Clean Imitation Learning Implementations
+- [Q001913](../berichte/Q00/Q0019/Q001913/README.de.md) Improving Code Generation by Training with Natural Language Feedback
+- [Q001918](../berichte/Q00/Q0019/Q001918/README.de.md) InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques
+- [Q001928](../berichte/Q00/Q0019/Q001928/README.de.md) Interpreting emergent planning in model-free reinforcement learning
+- [Q001938](../berichte/Q00/Q0019/Q001938/README.de.md) Inverse Scaling: When Bigger Isn't Better
+- [Q001946](../berichte/Q00/Q0019/Q001946/README.de.md) Investigating the Indirect Object Identification circuit in Mamba
+- [Q001952](../berichte/Q00/Q0019/Q001952/README.de.md) It's the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics
+- [Q001960](../berichte/Q00/Q0019/Q001960/README.de.md) Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility
+- [Q001976](../berichte/Q00/Q0019/Q001976/README.de.md) Large language models can effectively convince people to believe conspiracies
+- [Q001986](../berichte/Q00/Q0019/Q001986/README.de.md) Multi-Agent Risks from Advanced AI
+- [Q001997](../berichte/Q00/Q0019/Q001997/README.de.md) Open Problems in Mechanistic Interpretability
+- [Q002006](../berichte/Q00/Q0020/Q002006/README.de.md) Open Technical Problems in Open-Weight AI Model Risk Management
+- [Q002014](../berichte/Q00/Q0020/Q002014/README.de.md) Planning behavior in a recurrent neural network that plays Sokoban
+- [Q002021](../berichte/Q00/Q0020/Q002021/README.de.md) Preference Learning with Lie Detectors can Induce Honesty or Evasion
+- [Q002029](../berichte/Q00/Q0020/Q002029/README.de.md) Pretraining Language Models with Human Preferences
+- [Q002039](../berichte/Q00/Q0020/Q002039/README.de.md) RL with KL penalties is better viewed as Bayesian inference
+- [Q002045](../berichte/Q00/Q0020/Q002045/README.de.md) Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws
+- [Q002054](../berichte/Q00/Q0020/Q002054/README.de.md) Securing Agentic AI: A Discussion Paper
+- [Q002059](../berichte/Q00/Q0020/Q002059/README.de.md) STACK: Adversarial Attacks on LLM Safeguard Pipelines
+- [Q002071](../berichte/Q00/Q0020/Q002071/README.de.md) STARC: A General Framework For Quantifying Differences Between Reward Functions
+- [Q002074](../berichte/Q00/Q0020/Q002074/README.de.md) The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes
+- [Q002081](../berichte/Q00/Q0020/Q002081/README.de.md) The Safety Gap Toolkit: Evaluating Hidden Dangers of Open-Source Models
+- [Q002087](../berichte/Q00/Q0020/Q002087/README.de.md) The Singapore Consensus on Global AI Safety Research Priorities
+- [Q002095](../berichte/Q00/Q0020/Q002095/README.de.md) Towards Automated Circuit Discovery for Mechanistic Interpretability
+- [Q002102](../berichte/Q00/Q0021/Q002102/README.de.md) Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems
+- [Q002112](../berichte/Q00/Q0021/Q002112/README.de.md) Training Language Models with Language Feedback
+- [Q002117](../berichte/Q00/Q0021/Q002117/README.de.md) Training Language Models with Language Feedback at Scale
+- [Q002125](../berichte/Q00/Q0021/Q002125/README.de.md) Training Reliable Activation Probes With a Handful of Positive Examples
+- [Q002135](../berichte/Q00/Q0021/Q002135/README.de.md) Transformer Circuit Faithfulness Metrics are not Robust
+- [Q002147](../berichte/Q00/Q0021/Q002147/README.de.md) Transformers Don’t Need LayerNorm at Inference Time: Scaling LayerNorm Removal to GPT-2 XL and Implications for Mechanistic Interpretability
+- [Q002150](../berichte/Q00/Q0021/Q002150/README.de.md) Uncovering Latent Human Wellbeing in Language Model Embeddings
+- [Q002157](../berichte/Q00/Q0021/Q002157/README.de.md) Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment
+- [Q002161](../berichte/Q00/Q0021/Q002161/README.de.md) Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning
+- [Q002167](../berichte/Q00/Q0021/Q002167/README.de.md) Why does training on insecure code make models broadly misaligned?
+- [Q001518](../berichte/Q00/Q0015/Q001518/README.de.md) AViD Workshop 2026
+- [Q001534](../berichte/Q00/Q0015/Q001534/README.de.md) Avoiding AI Deception: Lie Detectors can either Induce Honesty or Evasion
+- [Q001547](../berichte/Q00/Q0015/Q001547/README.de.md) Bay Area Alignment Workshop 2024
+- [Q001558](../berichte/Q00/Q0015/Q001558/README.de.md) Beyond the Board: Exploring AI Robustness Through Go
+- [Q001567](../berichte/Q00/Q0015/Q001567/README.de.md) Codebook Features: Sparse and Discrete Interpretability for Neural Networks
+- [Q001581](../berichte/Q00/Q0015/Q001581/README.de.md) Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution
+- [Q001593](../berichte/Q00/Q0015/Q001593/README.de.md) ControlConf 2026: What is AI control and how has the field grown?
+- [Q001601](../berichte/Q00/Q0016/Q001601/README.de.md) Layered AI Defenses Have Holes: Vulnerabilities and Key Recommendations
+- [Q001614](../berichte/Q00/Q0016/Q001614/README.de.md) Even Superhuman Go AIs Have Surprising Failure Modes
+- [Q001628](../berichte/Q00/Q0016/Q001628/README.de.md) GPT-4o Guardrails Gone: Data Poisoning & Jailbreak-Tuning
+- [Q001638](../berichte/Q00/Q0016/Q001638/README.de.md) Illusory Safety: Redteaming DeepSeek R1 and the Strongest Fine-Tunable Models of OpenAI, Anthropic, and Google
+- [Q001650](../berichte/Q00/Q0016/Q001650/README.de.md) London Alignment Workshop 2026
+- [Q001657](../berichte/Q00/Q0016/Q001657/README.de.md) London ControlConf 2025
+- [Q001664](../berichte/Q00/Q0016/Q001664/README.de.md) Mind the Mitigation Gap: Why AI Companies Must Report Both Pre- and Post-Mitigation Safety Evaluations
+- [Q001674](../berichte/Q00/Q0016/Q001674/README.de.md) Pacing Outside the Box: RNNs Learn to Plan in Sokoban
+- [Q001680](../berichte/Q00/Q0016/Q001680/README.de.md) Safe AI Forum Spins Out From FAR.AI
+- [Q001694](../berichte/Q00/Q0016/Q001694/README.de.md) A Toolkit for Estimating the Safety-Gap between Safety Trained and Helpful Only LLMs
+- [Q001708](../berichte/Q00/Q0017/Q001708/README.de.md) AI in 2025: Faster Progress, Harder Problems
+- [Q001716](../berichte/Q00/Q0017/Q001716/README.de.md) San Diego Alignment Workshop 2025
+- [Q001720](../berichte/Q00/Q0017/Q001720/README.de.md) Security Stress Test: Exposing the Brittleness of DeepSeek-V4-Pro’s Safeguards
+- [Q001732](../berichte/Q00/Q0017/Q001732/README.de.md) Singapore Alignment Workshop 2025
+- [Q001738](../berichte/Q00/Q0017/Q001738/README.de.md) Technical Innovations for AI Policy 2025
+- [Q001748](../berichte/Q00/Q0017/Q001748/README.de.md) Uncovering Latent Human Wellbeing in LLM Embeddings
+- [Q001757](../berichte/Q00/Q0017/Q001757/README.de.md) VLM-RM: Specifying Rewards with Natural Language
+- [Q001762](../berichte/Q00/Q0017/Q001762/README.de.md) What We Learned at the FAR.AI Deception Workshop
+- [Q001507](../berichte/Q00/Q0015/Q001507/README.de.md) TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering
+- [Q001500](../berichte/Q00/Q0015/Q001500/README.de.md) Paris AI Security Forum 2025
+- [Q001490](../berichte/Q00/Q0014/Q001490/README.de.md) Introducing the AI Security Leaderboard: Frontier AI Is Only as Safe as Its Weakest Model
+- [Q001483](../berichte/Q00/Q0014/Q001483/README.de.md) Seoul Alignment Workshop 2026: What We Learned
+- [Q001243](../berichte/Q00/Q0012/Q001243/README.de.md) 2023 Alignment Research Updates
+- [Q001255](../berichte/Q00/Q0012/Q001255/README.de.md) FAR.AI Secures Over $30 Million in Multi-Funder Support to Scale Frontier AI Safety Research
+- [Q001265](../berichte/Q00/Q0012/Q001265/README.de.md) Adam Gleave Named Schmidt Sciences AI2050 Early Career Fellow
+- [Q001273](../berichte/Q00/Q0012/Q001273/README.de.md) When AGI Arrives, Will Journalists Be Ready?
+- [Q001284](../berichte/Q00/Q0012/Q001284/README.de.md) The Promise of White-Box Tools for Detecting and Mitigating AI Deception
+- [Q001291](../berichte/Q00/Q0012/Q001291/README.de.md) AI Safety in a World of Vulnerable Machine Learning Systems
+- [Q001309](../berichte/Q00/Q0013/Q001309/README.de.md) Big Picture AI Safety
+- [Q001325](../berichte/Q00/Q0013/Q001325/README.de.md) ClearHarm: A more challenging jailbreak dataset
+- [Q001338](../berichte/Q00/Q0013/Q001338/README.de.md) FAR.AI Selected to Lead EU AI Act CBRN Risk Consortium
+- [Q001349](../berichte/Q00/Q0013/Q001349/README.de.md) Leading Scientists Call for Global Action at International Dialogue on AI Safety
+- [Q001362](../berichte/Q00/Q0013/Q001362/README.de.md) NOLA Alignment Workshop 2023
+- [Q001371](../berichte/Q00/Q0013/Q001371/README.de.md) Scientists Call for Global AI Safety Preparedness to Avert Catastrophic Risks
+- [Q001381](../berichte/Q00/Q0013/Q001381/README.de.md) Scientists Call For International Cooperation on AI Red Lines
+- [Q001390](../berichte/Q00/Q0013/Q001390/README.de.md) Press Release: Technical Innovations for AI Policy
+- [Q001403](../berichte/Q00/Q0014/Q001403/README.de.md) Technical Innovations for AI Policy 2026: What We Heard, and What It Means
+- [Q001415](../berichte/Q00/Q0014/Q001415/README.de.md) Vienna Alignment Workshop 2024
+- [Q001427](../berichte/Q00/Q0014/Q001427/README.de.md) What’s New at FAR.AI
+- [Q001443](../berichte/Q00/Q0014/Q001443/README.de.md) Why does training on insecure code make models broadly misaligned?
+- [Q001457](../berichte/Q00/Q0014/Q001457/README.de.md) Scaling Trends for Lie Detector Oversight in Preference Learning
+- [Q001208](../berichte/Q00/Q0012/Q001208/README.de.md) Does Robustness Improve with Scale?
+- [Q001224](../berichte/Q00/Q0012/Q001224/README.de.md) Evaluating LLM Responses to Moral Scenarios
+- [Q001080](../berichte/Q00/Q0010/Q001080/README.de.md) Frontier LLMs Attempt to Persuade into Harmful Topics
+- [Q001041](../berichte/Q00/Q0010/Q001041/README.de.md) Persuasion Undermining Control: Can AI Talk its Way Out of Human Control?
+- [Q000988](../berichte/Q00/Q0009/Q000988/README.de.md) Jailbreaking Qoder’s Cyber Safeguards
+- [Q000895](../berichte/Q00/Q0008/Q000895/README.de.md) AI-enabled terrorism: Addressing radicalization and CBRN risks in the age of LLMs
+- [Q000657](../berichte/Q00/Q0006/Q000657/README.de.md) Path Channels and Plan Extension Kernels: a Mechanistic Description of Planning in a Sokoban RNN
+- [Q000672](../berichte/Q00/Q0006/Q000672/README.de.md) SynthDeception: Realistic, Multi-Domain Agentic Scenarios for Studying Falsehood Detection Probes
+- [Q000675](../berichte/Q00/Q0006/Q000675/README.de.md) Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks
+
+### farseev.com
+
+- [Q000644](../berichte/Q00/Q0006/Q000644/README.de.md) AI Rules Now Treat Fake Commercial Buzz Like Election Fraud
+
+### fca.org.uk
+
+- [Q000506](../berichte/Q00/Q0005/Q000506/README.de.md) Wholesale banks supervision - Insights 3 (Autumn 2026)
+
+### fileverity.com
+
+- [Q000600](../berichte/Q00/Q0006/Q000600/README.de.md) AI Text Watermarks 2026: SynthID, textGrain and Who Checks
+
+### finance.sina.com.cn
+
+- [Q000412](../berichte/Q00/Q0004/Q000412/README.de.md) 《智能体发展自律公约》发布
+
+### fmf
+
+- [Q002710](../berichte/Q00/Q0027/Q002710/README.de.md) Introducing the Frontier Model Forum
+- [Q002913](../berichte/Q00/Q0029/Q002913/README.de.md) Announcing Chris Meserole as Executive Director and the New AI Safety Fund
+- [Q002817](../berichte/Q00/Q0028/Q002817/README.de.md) Issue Brief: What is red teaming?
+- [Q000545](../berichte/Q00/Q0005/Q000545/README.de.md) Updates
+- [Q002948](../berichte/Q00/Q0029/Q002948/README.de.md) Year in Review: Building a Safer Future Together
+- [Q002856](../berichte/Q00/Q0028/Q002856/README.de.md) FMF Joins USAISI Consortium as a Founding Member
+- [Q002831](../berichte/Q00/Q0028/Q002831/README.de.md) AI Safety Fund initiates first round of research grants
+- [Q002792](../berichte/Q00/Q0027/Q002792/README.de.md) Issue Brief: Measuring Training Compute
+- [Q002775](../berichte/Q00/Q0027/Q002775/README.de.md) Amazon and Meta join the Frontier Model Forum to promote AI safety
+- [Q002737](../berichte/Q00/Q0027/Q002737/README.de.md) Issue Brief: Early Best Practices for Frontier AI Safety Evaluations
+- [Q002747](../berichte/Q00/Q0027/Q002747/README.de.md) Issue Brief: Foundational Security Practices
+- [Q002696](../berichte/Q00/Q0026/Q002696/README.de.md) Progress Update: Advancing Frontier AI Safety in 2024 and Beyond
+- [Q002673](../berichte/Q00/Q0026/Q002673/README.de.md) Issue Brief: Components of Frontier AI Safety Frameworks
+- [Q002683](../berichte/Q00/Q0026/Q002683/README.de.md) Issue Brief: AI for Cyber Defense
+- [Q002149](../berichte/Q00/Q0021/Q002149/README.de.md) Issue Brief: Preliminary Taxonomy of AI-Bio Safety Evaluations
+- [Q002646](../berichte/Q00/Q0026/Q002646/README.de.md) Issue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations
+- [Q001057](../berichte/Q00/Q0010/Q001057/README.de.md) AI Security Workstream
+- [Q001331](../berichte/Q00/Q0013/Q001331/README.de.md) AI-Bio Workstream
+- [Q001926](../berichte/Q00/Q0019/Q001926/README.de.md) AI-Cyber Workstream
+- [Q001981](../berichte/Q00/Q0019/Q001981/README.de.md) Frontier AI Frameworks Workstream
+- [Q002484](../berichte/Q00/Q0024/Q002484/README.de.md) Issue Brief: Thresholds for Frontier AI Safety Frameworks
+- [Q002461](../berichte/Q00/Q0024/Q002461/README.de.md) FMF Response: Request for Information on the Development of an AI Action Plan
+- [Q002220](../berichte/Q00/Q0022/Q002220/README.de.md) Issue Brief: Preliminary Reporting Tiers for AI-Bio Safety Evaluations
+- [Q002442](../berichte/Q00/Q0024/Q002442/README.de.md) FMF Announces First-Of-Its-Kind Information-Sharing Agreement
+- [Q002099](../berichte/Q00/Q0020/Q002099/README.de.md) Frontier Capability Assessments
+- [Q002129](../berichte/Q00/Q0021/Q002129/README.de.md) Introducing the FMF’s Technical Report Series on Frontier AI Frameworks
+- [Q002303](../berichte/Q00/Q0023/Q002303/README.de.md) Frontier AI Biosafety Thresholds
+- [Q002231](../berichte/Q00/Q0022/Q002231/README.de.md) Latest from the FMF: Grant-Making to Address AI-Bio Risk Challenges
+- [Q002338](../berichte/Q00/Q0023/Q002338/README.de.md) Risk Taxonomy and Thresholds for Frontier AI Frameworks
+- [Q002322](../berichte/Q00/Q0023/Q002322/README.de.md) Frontier Mitigations
+- [Q002291](../berichte/Q00/Q0022/Q002291/README.de.md) Preliminary Taxonomy of AI-Bio Misuse Mitigations
+- [Q001967](../berichte/Q00/Q0019/Q001967/README.de.md) Third-Party Assessments
+- [Q001990](../berichte/Q00/Q0019/Q001990/README.de.md) AI-Nuclear Workstream
+- [Q002086](../berichte/Q00/Q0020/Q002086/README.de.md) Announcement of New AI Safety Fund Grantees
+- [Q002016](../berichte/Q00/Q0020/Q002016/README.de.md) Annual Letter from the Executive Director
+- [Q002002](../berichte/Q00/Q0020/Q002002/README.de.md) Chain of Thought Monitorability
+- [Q001941](../berichte/Q00/Q0019/Q001941/README.de.md) Frontier AI and Nuclear Security
+- [Q001749](../berichte/Q00/Q0017/Q001749/README.de.md) Managing Advanced Cyber Risks in Frontier AI Frameworks
+- [Q000786](../berichte/Q00/Q0007/Q000786/README.de.md) Progress Update: FMF Information Sharing of Frontier AI Threats and Vulnerabilities
+- [Q001884](../berichte/Q00/Q0018/Q001884/README.de.md) Adversarial Distillation
+- [Q001607](../berichte/Q00/Q0016/Q001607/README.de.md) Information Sharing, Incident Reporting, and Incident Response for Frontier AI Risks
+- [Q001497](../berichte/Q00/Q0014/Q001497/README.de.md) Emerging Security Practices for AI Agents
+- [Q001422](../berichte/Q00/Q0014/Q001422/README.de.md) Emerging Practices for Multilingual Evaluations for CBRN and Advanced Cyber Risks
+- [Q001316](../berichte/Q00/Q0013/Q001316/README.de.md) Frontier AI Agents and Biological Tools: Preliminary Risks and Considerations
+- [Q001067](../berichte/Q00/Q0010/Q001067/README.de.md) Agents for Cyber Defense
+- [Q000346](../berichte/Q00/Q0003/Q000346/README.de.md) Jailbreak Rating Framework for Frontier Cyber Threats
+- [Q000359](../berichte/Q00/Q0003/Q000359/README.de.md) Introducing the FMF Jailbreak Rating Framework for Frontier Cyber Threats
+
+### focustaiwan.tw
+
+- [Q000517](../berichte/Q00/Q0005/Q000517/README.de.md) Stabilization fund ready for market intervention after Taiex's plunge
+
+### fondationfranceasie.org
+
+- [Q000373](../berichte/Q00/Q0003/Q000373/README.de.md) Fondation France-Asie  –  Towards a Franco-Indian alliance based on shared principles for artificial intelligence, a strategic  imperative to shape global AI  governance.
+
+### forecastingresearch.org
+
+- [Q000531](../berichte/Q00/Q0005/Q000531/README.de.md) How Close is Recursive Self-Improvement? A Review of the Evidence
+
+### fourweekmba.com
+
+- [Q001842](../berichte/Q00/Q0018/Q001842/README.de.md) China Speeds AI Law; DeepSeek, Alibaba Face Disclosure Push
+
+### fragen-funde
+
+- [Q000007](../berichte/Q00/Q0000/Q000007/README.de.md) Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety
+- [Q000009](../berichte/Q00/Q0000/Q000009/README.de.md) Safety Cases: A Scalable Approach to Frontier AI Safety
+- [Q000015](../berichte/Q00/Q0000/Q000015/README.de.md) China and the United States Reach Eight Deliverables and Understandings
+- [Q000020](../berichte/Q00/Q0000/Q000020/README.de.md) Advisories
+- [Q000022](../berichte/Q00/Q0000/Q000022/README.de.md) GSA Releases Final Language of AI Contract Clause
+- [Q000031](../berichte/Q00/Q0000/Q000031/README.de.md) 《人工智能安全治理框架3.0》发布_中央网络安全和信息化委员会办公室
+- [Q000044](../berichte/Q00/Q0000/Q000044/README.de.md) Federal Register :: Request Access
+- [Q000060](../berichte/Q00/Q0000/Q000060/README.de.md) White House Accord on Super Intelligence | The American Presidency Project
+- [Q000070](../berichte/Q00/Q0000/Q000070/README.de.md) 美国观察｜从零份文件到两份清单：白宫会谈后中美人工智能治理合作的区间、层级与路线
+- [Q000071](../berichte/Q00/Q0000/Q000071/README.de.md) Cross‐lingual safety asymmetry in open‐weight LLMs
+- [Q000079](../berichte/Q00/Q0000/Q000079/README.de.md) 全面筑牢人工智能安全屏障 推动人工智能健康有序发展_理论_人民论坛网
+- [Q000080](../berichte/Q00/Q0000/Q000080/README.de.md) 关于发布《人工智能应用安全指引 总则》等4项网络安全标准实践指南的通知-全国网络安全标准化技术委员会
+- [Q000106](../berichte/Q00/Q0001/Q000106/README.de.md) Frontier AI safety on both sides of the Atlantic: the White House Accord and the EU AI Act
+- [Q000117](../berichte/Q00/Q0001/Q000117/README.de.md) ESMA’s Trends, Risks and Vulnerabilities Report of 2026: New Trends, New Risks … Old Rules? | Skadden, Arps, Slate, Meagher & Flom LLP
+- [Q000121](../berichte/Q00/Q0001/Q000121/README.de.md) Beyond algorithm testing: Measuring collective behaviour risk in AI-driven financial markets
+- [Q000146](../berichte/Q00/Q0001/Q000146/README.de.md) Taiwan to impose strict controls on AI chip exports to China | Taiwan News | Oct. 16, 2026 20:16
+- [Q000161](../berichte/Q00/Q0001/Q000161/README.de.md) Exploring State AI Governance in AGORA #3: Frontier AI Laws – Emerging Technology Observatory
+- [Q000166](../berichte/Q00/Q0001/Q000166/README.de.md) A public birth certificate for your AI agent
+- [Q000175](../berichte/Q00/Q0001/Q000175/README.de.md) AI Reference Architecture: A new blueprint to help government agencies design AI systems
+- [Q000218](../berichte/Q00/Q0002/Q000218/README.de.md) Remarks by Ambassador Fu Cong at the UN Security Council Open Debate on Emerging Technologies and Maritime Security_Permanent Mission of the People's Republic of China to the UN
+- [Q000219](../berichte/Q00/Q0002/Q000219/README.de.md) Prime Minister Carney announces landmark investment in Cohere to scale secure, sovereign AI
+- [Q000222](../berichte/Q00/Q0002/Q000222/README.de.md) As Technology Changes Rapidly, Maritime Threats Evolve, Speakers in Security Council Urge Strong Human Oversight of Innovative ToolS Governing Global Navigation
+- [Q000237](../berichte/Q00/Q0002/Q000237/README.de.md) Artificial Intelligence – Office of the Chief Information Officer
+- [Q000238](../berichte/Q00/Q0002/Q000238/README.de.md) https://missions.foreign.gov.mt/wp-content/uploads/2026/10/20261029_Joint-Statement-Security-Council-Open-Debate-on-Maintenance-of-International-Peace-and-Security_.pdf
+- [Q000256](../berichte/Q00/Q0002/Q000256/README.de.md) Joint statement: Canada and the European Union building together an Alliance for the Future
+- [Q000257](../berichte/Q00/Q0002/Q000257/README.de.md) A nuclear state says an AI is authorised to launch
+- [Q000267](../berichte/Q00/Q0002/Q000267/README.de.md) Training Workshop on the Impact of Artificial Intelligence (AI) on the Chemical Weapons Convention (CWC)
+- [Q001846](../berichte/Q00/Q0018/Q001846/README.de.md) Anthropic, PBC - S-1 (Q2)
+- [Q004415](../berichte/Q00/Q0044/Q004415/README.de.md) Remarks by Ambassador Fu Cong at the UN Security Council Meeting on Artificial Intelligence and International Security_Permanent Mission of the People's Republic of China to the UN
+- [Q004441](../berichte/Q00/Q0044/Q004441/README.de.md) L_202401689DE.000101.fmx.xml
+- [Q004460](../berichte/Q00/Q0044/Q004460/README.de.md) https://agenturacas.gov.cz/wp-content/uploads/ISO-IEC-Directives-Part-1-with-ISO-Supplement-2023-PDF.pdf
+- [Q004462](../berichte/Q00/Q0044/Q004462/README.de.md) Article 14: Human Oversight | EU Artificial Intelligence Act
+- [Q004481](../berichte/Q00/Q0044/Q004481/README.de.md) Article 2: Scope | EU Artificial Intelligence Act
+- [Q004490](../berichte/Q00/Q0044/Q004490/README.de.md) Article 51: Classification of General-Purpose AI Models as General-Purpose AI Models with Systemic Risk | EU Artificial Intelligence Act
+- [Q004524](../berichte/Q00/Q0045/Q004524/README.de.md) Article 53: Obligations for Providers of General-Purpose AI Models | EU Artificial Intelligence Act
+- [Q004536](../berichte/Q00/Q0045/Q004536/README.de.md) Article 55: Obligations of Providers of General-Purpose AI Models with Systemic Risk | EU Artificial Intelligence Act
+- [Q004543](../berichte/Q00/Q0045/Q004543/README.de.md) Identity Management for Agentic AI
+- [Q004573](../berichte/Q00/Q0045/Q004573/README.de.md) 生成式人工智能服务管理暂行办法_中央网络安全和信息化委员会办公室
+- [Q004586](../berichte/Q00/Q0045/Q004586/README.de.md) 关于印发《人工智能生成合成内容标识办法》的通知_中央网络安全和信息化委员会办公室
+- [Q004608](../berichte/Q00/Q0046/Q004608/README.de.md) https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_opinion_202428_ai-models_en.pdf
+- [Q004609](../berichte/Q00/Q0046/Q004609/README.de.md) https://www.ecfr.gov/api/versioner/v1/full/2026-09-01/title-17.xml?part=240&section=240.10b5-1
+- [Q004610](../berichte/Q00/Q0046/Q004610/README.de.md) Article 34, the Digital Services Act (DSA)
+- [Q004612](../berichte/Q00/Q0046/Q004612/README.de.md) China and the United States Reach Eight Deliverables and Understandings
+- [Q004616](../berichte/Q00/Q0046/Q004616/README.de.md) 关键信息基础设施安全保护条例_信息产业（含电信）_中国政府网
+- [Q004617](../berichte/Q00/Q0046/Q004617/README.de.md) Provisional Rules of Procedure
+- [Q004628](../berichte/Q00/Q0046/Q004628/README.de.md) Global AI Governance Action Plan
+- [Q004639](../berichte/Q00/Q0046/Q004639/README.de.md) 生成式人工智能服务管理暂行办法_国务院部门文件_中国政府网
+- [Q004643](../berichte/Q00/Q0046/Q004643/README.de.md) https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf
+- [Q004650](../berichte/Q00/Q0046/Q004650/README.de.md) GLM-5.3
+- [Q004658](../berichte/Q00/Q0046/Q004658/README.de.md) Hugging Face
+- [Q004667](../berichte/Q00/Q0046/Q004667/README.de.md) Hugging Face
+- [Q004671](../berichte/Q00/Q0046/Q004671/README.de.md) GLM-5.3-Flash/FlashX
+- [Q004679](../berichte/Q00/Q0046/Q004679/README.de.md) Hugging Face
+- [Q004683](../berichte/Q00/Q0046/Q004683/README.de.md) Models
+- [Q004685](../berichte/Q00/Q0046/Q004685/README.de.md) Models
+- [Q004692](../berichte/Q00/Q0046/Q004692/README.de.md) Hugging Face
+- [Q004707](../berichte/Q00/Q0047/Q004707/README.de.md) System One
+- [Q004710](../berichte/Q00/Q0047/Q004710/README.de.md) Hugging Face
+- [Q004711](../berichte/Q00/Q0047/Q004711/README.de.md) clef
+- [Q004719](../berichte/Q00/Q0047/Q004719/README.de.md) Hugging Face
+- [Q004720](../berichte/Q00/Q0047/Q004720/README.de.md) AI primer
+- [Q004729](../berichte/Q00/Q0047/Q004729/README.de.md) Confidence
+- [Q004732](../berichte/Q00/Q0047/Q004732/README.de.md) Hugging Face
+- [Q004747](../berichte/Q00/Q0047/Q004747/README.de.md) Hugging Face
+- [Q004748](../berichte/Q00/Q0047/Q004748/README.de.md) Noul
+- [Q004755](../berichte/Q00/Q0047/Q004755/README.de.md) Score
+- [Q004756](../berichte/Q00/Q0047/Q004756/README.de.md) Hugging Face
+- [Q004764](../berichte/Q00/Q0047/Q004764/README.de.md) Choice
+- [Q004765](../berichte/Q00/Q0047/Q004765/README.de.md) Hugging Face
+- [Q004782](../berichte/Q00/Q0047/Q004782/README.de.md) Box
+- [Q004784](../berichte/Q00/Q0047/Q004784/README.de.md) Hugging Face
+- [Q004790](../berichte/Q00/Q0047/Q004790/README.de.md) State
+- [Q004794](../berichte/Q00/Q0047/Q004794/README.de.md) Hugging Face
+- [Q004804](../berichte/Q00/Q0048/Q004804/README.de.md) Auto-review
+- [Q004805](../berichte/Q00/Q0048/Q004805/README.de.md) Hugging Face
+- [Q004829](../berichte/Q00/Q0048/Q004829/README.de.md) Hugging Face
+- [Q004836](../berichte/Q00/Q0048/Q004836/README.de.md) The Evolution Of Bengt Betjänt
+- [Q004853](../berichte/Q00/Q0048/Q004853/README.de.md) Model Cards and Prompt formats
+- [Q004858](../berichte/Q00/Q0048/Q004858/README.de.md) Hugging Face
+- [Q004874](../berichte/Q00/Q0048/Q004874/README.de.md) Apple Intelligence Foundation Language Models Tech Report 2025
+- [Q004878](../berichte/Q00/Q0048/Q004878/README.de.md) Hugging Face
+- [Q004879](../berichte/Q00/Q0048/Q004879/README.de.md) Improving the safety of generative model output
+- [Q004886](../berichte/Q00/Q0048/Q004886/README.de.md) Apple Intelligence Foundation Language Models
+- [Q004888](../berichte/Q00/Q0048/Q004888/README.de.md) Command R and Command R+ Model Card
+- [Q004895](../berichte/Q00/Q0048/Q004895/README.de.md) nemotron-3.5-super-vl-120b-a12b Model by NVIDIA
+- [Q004900](../berichte/Q00/Q0049/Q004900/README.de.md) Hugging Face
+- [Q004904](../berichte/Q00/Q0049/Q004904/README.de.md) Cohere's Command A+ Model
+- [Q004913](../berichte/Q00/Q0049/Q004913/README.de.md) Hugging Face
+- [Q004920](../berichte/Q00/Q0049/Q004920/README.de.md) ByteDance Seed
+- [Q004930](../berichte/Q00/Q0049/Q004930/README.de.md) Baidu ERNIE
+- [Q004947](../berichte/Q00/Q0049/Q004947/README.de.md) Seed News - ByteDance Seed Team
+- [Q004958](../berichte/Q00/Q0049/Q004958/README.de.md) Hugging Face
+- [Q004974](../berichte/Q00/Q0049/Q004974/README.de.md) Hugging Face
+- [Q004986](../berichte/Q00/Q0049/Q004986/README.de.md) NY State Senate Bill 2025-S10731
+- [Q004987](../berichte/Q00/Q0049/Q004987/README.de.md) AI Safety Assessment < \n    Our Work AISI AI Safety Institute
+- [Q005007](../berichte/Q00/Q0050/Q005007/README.de.md) Daybreak
+- [Q005019](../berichte/Q00/Q0050/Q005019/README.de.md) Hugging Face
+- [Q005044](../berichte/Q00/Q0050/Q005044/README.de.md) The Front Page of AI
+- [Q005048](../berichte/Q00/Q0050/Q005048/README.de.md) Volts, amps & ohms — Basics, lesson 3
+- [Q009480](../berichte/Q00/Q0094/Q009480/README.de.md) Monitoring Monitorability
+- [Q009481](../berichte/Q00/Q0094/Q009481/README.de.md) Practical challenges of control monitoring in frontier AI deployments
+- [Q004527](../berichte/Q00/Q0045/Q004527/README.de.md) Art. 22 GDPR – Automated individual decision-making, including profiling
+- [Q005009](../berichte/Q00/Q0050/Q005009/README.de.md) How AI Labs Can Safeguard Model Weights
+- [Q004600](../berichte/Q00/Q0046/Q004600/README.de.md) Dario Amodei — The Urgency of Interpretability
+- [Q004860](../berichte/Q00/Q0048/Q004860/README.de.md) Amazon Nova Micro, Lite, Pro, and Premier - AWS AI Service Cards
+- [Q004873](../berichte/Q00/Q0048/Q004873/README.de.md) Amazon Nova Reel - AWS AI Service Cards
+- [Q004916](../berichte/Q00/Q0049/Q004916/README.de.md) Trusted AI - IBM Granite
+- [Q004863](../berichte/Q00/Q0048/Q004863/README.de.md) Code World Model Preparedness Report | Research - AI at Meta
+- [Q004528](../berichte/Q00/Q0045/Q004528/README.de.md) Bill Text  - SB-53 Artificial intelligence models: large developers.
+- [Q004827](../berichte/Q00/Q0048/Q004827/README.de.md) Sonnet 4.5's eval gaming seriously undermines alignment evals
+- [Q004843](../berichte/Q00/Q0048/Q004843/README.de.md) Sonnet 4.5's eval gaming seriously undermines alignment evals
+- [Q004984](../berichte/Q00/Q0049/Q004984/README.de.md) AI security and sovereignty: INESIA unveils its roadmap for 2026-2027
+- [Q004967](../berichte/Q00/Q0049/Q004967/README.de.md) Resources
+- [Q004558](../berichte/Q00/Q0045/Q004558/README.de.md) A shared playbook for trustworthy third party evaluations
+- [Q000139](../berichte/Q00/Q0001/Q000139/README.de.md) Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act
+- [Q004964](../berichte/Q00/Q0049/Q004964/README.de.md) Canadian Artificial Intelligence Safety Institute
+- [Q005089](../berichte/Q00/Q0050/Q005089/README.de.md) Security incident disclosure
+- [Q004817](../berichte/Q00/Q0048/Q004817/README.de.md) Fast Remediation Is the New Trust Model: JFrog and OpenAI Collaboration on Zero-Day Security Findings
+- [Q005083](../berichte/Q00/Q0050/Q005083/README.de.md) Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident
+- [Q000040](../berichte/Q00/Q0000/Q000040/README.de.md) How To Give Everyday People A Say In AI Governance
+- [Q004668](../berichte/Q00/Q0046/Q004668/README.de.md) Grok 4.7
+- [Q005255](../berichte/Q00/Q0052/Q005255/README.de.md) Does Self-Improvement Still Work on an Engineered Agent Harness?
+- [Q005216](../berichte/Q00/Q0052/Q005216/README.de.md) How to Reverse Engineer Anything with Grok Bot and REA (Full-Course)
+- [Q005245](../berichte/Q00/Q0052/Q005245/README.de.md) AI agent skills: Why they succeed and what causes them to crash
+- [Q005238](../berichte/Q00/Q0052/Q005238/README.de.md) What a Week of AI Security Incidents Means for Developers
+- [Q000058](../berichte/Q00/Q0000/Q000058/README.de.md) Booz Allen Cyber Weapon Index
+- [Q000078](../berichte/Q00/Q0000/Q000078/README.de.md) Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
+- [Q005230](../berichte/Q00/Q0052/Q005230/README.de.md) Rebuilding the Runtime: What NVIDIA NOOA Reveals About Agent Frameworks
+- [Q004592](../berichte/Q00/Q0045/Q004592/README.de.md) An Alien Mind
+- [Q000136](../berichte/Q00/Q0001/Q000136/README.de.md) GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI
+- [Q004596](../berichte/Q00/Q0045/Q004596/README.de.md) China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies
+- [Q004494](../berichte/Q00/Q0044/Q004494/README.de.md) Dario Amodei — We Must Pace the Frontier
+- [Q000074](../berichte/Q00/Q0000/Q000074/README.de.md) 国家安全部党委书记、部长陈一新在《中国网信》杂志发表署名文章
+- [Q000094](../berichte/Q00/Q0000/Q000094/README.de.md) AI leaders support call to slow pace of frontier development as safety concerns grow
+- [Q000073](../berichte/Q00/Q0000/Q000073/README.de.md) Xi’s India trip; US-China and AI; MSS head on AI; Weak August credit data; “Dynamic zero 动态清零” for payment arrears
+- [Q000115](../berichte/Q00/Q0001/Q000115/README.de.md) Bernie Sanders and Steve Bannon call for curbs on AI
+- [Q000083](../berichte/Q00/Q0000/Q000083/README.de.md) Minister calls for AI risk control system
+- [Q000090](../berichte/Q00/Q0000/Q000090/README.de.md) EU antitrust chief would consider request from AI firms to coordinate on safety
+- [Q000081](../berichte/Q00/Q0000/Q000081/README.de.md) China’s AI safety framework 3.0 released
+- [Q000099](../berichte/Q00/Q0000/Q000099/README.de.md) Tap Your Own Brakes: AI Safety and Antitrust
+- [Q000100](../berichte/Q00/Q0001/Q000100/README.de.md) What Anthropic’s Antitrust Waiver Says About the Law and Economics of AI
+- [Q000062](../berichte/Q00/Q0000/Q000062/README.de.md) Minimum Conditions for Embedding Evaluators
+- [Q005028](../berichte/Q00/Q0050/Q005028/README.de.md) Limite 1B
+- [Q005167](../berichte/Q00/Q0051/Q005167/README.de.md) Post by @Flandermaxx on X
+- [Q000088](../berichte/Q00/Q0000/Q000088/README.de.md) Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say
+- [Q004579](../berichte/Q00/Q0045/Q004579/README.de.md) Priorities and principles for effective third party assessments
+- [Q000017](../berichte/Q00/Q0000/Q000017/README.de.md) A US-China AI Hotline Won’t Be Ready for a While
+- [Q000027](../berichte/Q00/Q0000/Q000027/README.de.md) Let The People Set The Pace Of Frontier AI
+- [Q000104](../berichte/Q00/Q0001/Q000104/README.de.md) How an 'AI freeze' could make big AI companies bigger and hurt smaller firms
+- [Q004541](../berichte/Q00/Q0045/Q004541/README.de.md) U.S. Intervention in the UN Security Council Meeting on "Artificial Intelligence and International Security"
+- [Q004572](../berichte/Q00/Q0045/Q004572/README.de.md) Artificial intelligence and international security - Security Council, 10228th meeting
+- [Q004613](../berichte/Q00/Q0046/Q004613/README.de.md) Assistant to the President and OSTP Director Michael Kratsios' Intervention in the U.N. Security Council's "Security Council meeting on artificial intelligence and international security"
+- [Q004999](../berichte/Q00/Q0049/Q004999/README.de.md) Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”
+- [Q000016](../berichte/Q00/Q0000/Q000016/README.de.md) Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit
+- [Q004526](../berichte/Q00/Q0045/Q004526/README.de.md) China and the United States reach eight deliverables and understandings
+- [Q000087](../berichte/Q00/Q0000/Q000087/README.de.md) Artificial Intelligence Safety Collaboration and Antitrust Law
+- [Q005108](../berichte/Q00/Q0051/Q005108/README.de.md) Post by @0xCarnagee on X
+- [Q005220](../berichte/Q00/Q0052/Q005220/README.de.md) System One models are carving out a new layer in the AI stack
+- [Q000024](../berichte/Q00/Q0000/Q000024/README.de.md) Inaugurating The Era Of Super Intelligence
+- [Q000045](../berichte/Q00/Q0000/Q000045/README.de.md) OpenAI Delays Release of Latest Model Over Safety Concerns
+- [Q000051](../berichte/Q00/Q0000/Q000051/README.de.md) OpenAI Gets Sued Over the Hugging Face Hack
+- [Q004653](../berichte/Q00/Q0046/Q004653/README.de.md) READ IN FULL: White House Accord on Super Intelligence
+- [Q000038](../berichte/Q00/Q0000/Q000038/README.de.md) Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear
+- [Q000085](../berichte/Q00/Q0000/Q000085/README.de.md) White House, major AI developers reach 'morally binding' safety commitments
+- [Q000086](../berichte/Q00/Q0000/Q000086/README.de.md) Trump says top tech firms have signed accord to 'self-police' AI development
+- [Q000093](../berichte/Q00/Q0000/Q000093/README.de.md) AI's coming roadblock in regulation: Antitrust hawks
+- [Q000128](../berichte/Q00/Q0001/Q000128/README.de.md) OpenAI Distillation Campaign: What It Says About Moonshot
+- [Q004698](../berichte/Q00/Q0046/Q004698/README.de.md) Introducing Clef: our open-source decision models, and new RL fine-tuning platform
+- [Q000096](../berichte/Q00/Q0000/Q000096/README.de.md) Developing Safety Standards Is Not Inherently Anticompetitive
+- [Q000097](../berichte/Q00/Q0000/Q000097/README.de.md) States Can Facilitate an AI Slowdown Without the Federal Government
+- [Q005189](../berichte/Q00/Q0051/Q005189/README.de.md) Post by @0xnicc0 on X
+- [Q000120](../berichte/Q00/Q0001/Q000120/README.de.md) AI's absence from the proposed EU Public Procurement Act -- suggested improvements
+- [Q005214](../berichte/Q00/Q0052/Q005214/README.de.md) How AI Agents Are Learning to Rewrite Their Own Stack
+- [Q000116](../berichte/Q00/Q0001/Q000116/README.de.md) AI Round-Up - September 2026
+- [Q005106](../berichte/Q00/Q0051/Q005106/README.de.md) Post by @ClaudeDevs on X
+- [Q005091](../berichte/Q00/Q0050/Q005091/README.de.md) Post by @HowToPrompt__ on X
+- [Q000028](../berichte/Q00/Q0000/Q000028/README.de.md) The US and China Cannot Slow the AI Race, But They Can Make It Safer
+- [Q005078](../berichte/Q00/Q0050/Q005078/README.de.md) Models as Insider Risks in the Super Intelligence Era
+- [Q005055](../berichte/Q00/Q0050/Q005055/README.de.md) Opus 5.5 Writes Blender Python for the Wrong Blender - and the Render Won’t Tell You
+- [Q005067](../berichte/Q00/Q0050/Q005067/README.de.md) Post by @thesupermannx on X
+- [Q000025](../berichte/Q00/Q0000/Q000025/README.de.md) OpenAI and Anthropic Tell British Lawmakers: Regulate Us
+- [Q000059](../berichte/Q00/Q0000/Q000059/README.de.md) The Many Open Questions About the Trump Administration’s New De Facto AI Model Licensing System
+- [Q000091](../berichte/Q00/Q0000/Q000091/README.de.md) AI Safety Collaboration and Antitrust: Lessons from Recent Enforcer Statements and Cybersecurity Information Sharing
+- [Q000095](../berichte/Q00/Q0000/Q000095/README.de.md) Developing Gemini 4 Argon responsibly and safely
+- [Q000105](../berichte/Q00/Q0001/Q000105/README.de.md) Exclusive-Behind AI industry's call for independent reviews, a fight over what gets made public
+- [Q005227](../berichte/Q00/Q0052/Q005227/README.de.md) Post by @e1genqq on X
+- [Q000135](../berichte/Q00/Q0001/Q000135/README.de.md) When Are Open-Weight Models Too Dangerous to Release? The US and China Both Lack Answers
+- [Q005207](../berichte/Q00/Q0052/Q005207/README.de.md) KV cache techniques for faster, cheaper multi-model AI agents
+- [Q000033](../berichte/Q00/Q0000/Q000033/README.de.md) The Case for Universal AI Accountability
+- [Q000034](../berichte/Q00/Q0000/Q000034/README.de.md) AI Hacks Leave a Mess That AI Companies Aren’t Paying For
+- [Q000111](../berichte/Q00/Q0001/Q000111/README.de.md) White House Accord on Super Intelligence: Legal Guide for AI Firms
+- [Q000118](../berichte/Q00/Q0001/Q000118/README.de.md) FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)
+- [Q004919](../berichte/Q00/Q0049/Q004919/README.de.md) 阶跃星辰开放平台
+- [Q005196](../berichte/Q00/Q0051/Q005196/README.de.md) Prompt Injection is an Information-Flow Problem
+- [Q000063](../berichte/Q00/Q0000/Q000063/README.de.md) How are countries evaluating AI models?
+- [Q000130](../berichte/Q00/Q0001/Q000130/README.de.md) China plans AI export curbs to exert control over key tech
+- [Q000132](../berichte/Q00/Q0001/Q000132/README.de.md) China plans to tighten export controls on open-weight models and 23 key AI technologies
+- [Q000147](../berichte/Q00/Q0001/Q000147/README.de.md) Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation
+- [Q000133](../berichte/Q00/Q0001/Q000133/README.de.md) China AI Export Controls: 2T Models and Agents Listed
+- [Q000107](../berichte/Q00/Q0001/Q000107/README.de.md) Embedded AI evaluators won't be an easy solution, Hugging Face's policy chief says
+- [Q000043](../berichte/Q00/Q0000/Q000043/README.de.md) Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
+- [Q000137](../berichte/Q00/Q0001/Q000137/README.de.md) US orders federal agencies to remove China’s DeepSeek AI from their systems
+- [Q000050](../berichte/Q00/Q0000/Q000050/README.de.md) Why Anthropic’s draft bill sets $1 billion threshold for AI risk
+- [Q000143](../berichte/Q00/Q0001/Q000143/README.de.md) Trusting AI starts with trusting its data
+- [Q000036](../berichte/Q00/Q0000/Q000036/README.de.md) Introducing Agent Compute Engine and expanding agent governance
+- [Q000124](../berichte/Q00/Q0001/Q000124/README.de.md) Congressman Pat Harrigan Introduces Legislation to Protect American Innovation and Strengthen Cyber Defenses
+- [Q005180](../berichte/Q00/Q0051/Q005180/README.de.md) How to Add a Decision Model to Your Agentic Coding Workflow
+- [Q000021](../berichte/Q00/Q0000/Q000021/README.de.md) Operationalizing U.S.-China AI Incident Notification
+- [Q000042](../berichte/Q00/Q0000/Q000042/README.de.md) ‘Bumper sticker bill’: AI kill switch rides the midterm elections wave
+- [Q000076](../berichte/Q00/Q0000/Q000076/README.de.md) AI Cyber Defense Now Has To Move At Machine Speed
+- [Q000046](../berichte/Q00/Q0000/Q000046/README.de.md) Simulated Control Evaluations
+- [Q000049](../berichte/Q00/Q0000/Q000049/README.de.md) The PHP Meltdown Shows How AI Makes Bugs More Exploitable
+- [Q000055](../berichte/Q00/Q0000/Q000055/README.de.md) Moonshot Limits Kimi Model’s Hacking Capabilities
+- [Q000035](../berichte/Q00/Q0000/Q000035/README.de.md) When the Agent Is the Incident: NIST, NSA, and CISA's 10 Key Practices for SI Incident Response
+- [Q003345](../berichte/Q00/Q0033/Q003345/README.de.md) SwiftUI: Our Credential Provider can Now Provide One-Time Code!
+- [Q000069](../berichte/Q00/Q0000/Q000069/README.de.md) Concerning behavior from a popular open-weight AI model
+- [Q000151](../berichte/Q00/Q0001/Q000151/README.de.md) GRAFT++: Reducing Collusive Behavior in Agents via Localized Training and J-space Monitoring
+- [Q000158](../berichte/Q00/Q0001/Q000158/README.de.md) Channeling Collusion: An LLM Agent Rigs Procurement Auctions by Message, and One Sentence Curbs It
+- [Q005269](../berichte/Q00/Q0052/Q005269/README.de.md) Stop Overengineering AI Agent Memory, New Study Suggests
+- [Q000112](../berichte/Q00/Q0001/Q000112/README.de.md) Anthropic discloses month-long training pause, AI security breaches in IPO filing
+- [Q005141](../berichte/Q00/Q0051/Q005141/README.de.md) Post by @wang_johnny on X
+- [Q000101](../berichte/Q00/Q0001/Q000101/README.de.md) Institute for Progress calls for remote-access restrictions, antitrust exemption to hold off China’s frontier AI advances
+- [Q000108](../berichte/Q00/Q0001/Q000108/README.de.md) Gemini 4 Carbon: our next frontier model
+- [Q000173](../berichte/Q00/Q0001/Q000173/README.de.md) Intelligence artificielle : quelle collusion ?
+- [Q000187](../berichte/Q00/Q0001/Q000187/README.de.md) China Proposes Expanded Tech Export Restrictions, Announces New Export Control Measures
+- [Q000202](../berichte/Q00/Q0002/Q000202/README.de.md) AI Agent Security: Threats, Guardrails, Controls
+- [Q000205](../berichte/Q00/Q0002/Q000205/README.de.md) The kill switch problem: Why stopping AI agents is harder than starting them
+- [Q000217](../berichte/Q00/Q0002/Q000217/README.de.md) Human in the loop is not yet an AI agent recovery plan
+- [Q000229](../berichte/Q00/Q0002/Q000229/README.de.md) AI Safety Needs a ‘Duty to Know’
+- [Q000241](../berichte/Q00/Q0002/Q000241/README.de.md) What a US-China AI Safety Channel Needs
+- [Q000243](../berichte/Q00/Q0002/Q000243/README.de.md) The PM&C rapid review of AI-driven cyber incidents: what it covers after the Medicare portal access
+- [Q000244](../berichte/Q00/Q0002/Q000244/README.de.md) What a US-China AI Safety Channel Needs
+- [Q000246](../berichte/Q00/Q0002/Q000246/README.de.md) What a US-China AI Safety Channel Needs
+- [Q000248](../berichte/Q00/Q0002/Q000248/README.de.md) Anthropic Warns AI Liability Could Exceed Insurance Capacity
+- [Q000259](../berichte/Q00/Q0002/Q000259/README.de.md) Canada and Europe Need a Way to See the AI They Cannot Access
+- [Q000263](../berichte/Q00/Q0002/Q000263/README.de.md) AI-generated political ads fuel debate over deception and free speech ahead of midterms
+- [Q000279](../berichte/Q00/Q0002/Q000279/README.de.md) DualChem: Evaluating AI Safety in Dual-Use Chemistry
+- [Q000163](../berichte/Q00/Q0001/Q000163/README.de.md) OpenAI Expands Monitoring to Detect Frontier Model Misalignment
+- [Q000180](../berichte/Q00/Q0001/Q000180/README.de.md) Anthropic IPO Disclosure of ‘Existential’ AI Risk Sets Standard
+- [Q000184](../berichte/Q00/Q0001/Q000184/README.de.md) Federal AI Procurement in 2026: What Contractors Need to Know to Win
+- [Q000185](../berichte/Q00/Q0001/Q000185/README.de.md) Let China copy American AI
+- [Q000190](../berichte/Q00/Q0001/Q000190/README.de.md) VAPOR PANDA Uses AI-Driven ARTEX to Grow Global Espionage Campaign
+- [Q000201](../berichte/Q00/Q0002/Q000201/README.de.md) China’s Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes
+- [Q000203](../berichte/Q00/Q0002/Q000203/README.de.md) AI agent evaluation: why passing benchmarks isn’t enough
+- [Q000204](../berichte/Q00/Q0002/Q000204/README.de.md) Why Electricity Law Would Make It Very Hard to Unplug a Rogue AI
+- [Q000208](../berichte/Q00/Q0002/Q000208/README.de.md) Agentic misalignment in enterprise environments: agents break a rule in 40% of the runs. No model is immune.
+- [Q000211](../berichte/Q00/Q0002/Q000211/README.de.md) How to Govern Generative AI at a US Bank After SR 26-2
+- [Q000221](../berichte/Q00/Q0002/Q000221/README.de.md) Statement by Permanent Representative Vassily Nebenzia at a UNSC Open Debate on “Emerging Technologies and Maritime Security: Implications for International Peace and Security”
+- [Q000223](../berichte/Q00/Q0002/Q000223/README.de.md) The UK is ready to work across the wider UN membership to ensure emerging technologies help deliver safer seas: UK Statement at the UN Security Council
+- [Q000224](../berichte/Q00/Q0002/Q000224/README.de.md) What a China-US AI Safety Channel Needs
+- [Q000228](../berichte/Q00/Q0002/Q000228/README.de.md) 29.10.2026. Statement on Emerging Technology and Security
+- [Q000231](../berichte/Q00/Q0002/Q000231/README.de.md) Beyond the AI slowdown: the four As for governing frontier AI - AI and Ethics
+- [Q000232](../berichte/Q00/Q0002/Q000232/README.de.md) AI safety depends on government capacity. Washington is weakening it.
+- [Q000250](../berichte/Q00/Q0002/Q000250/README.de.md) OpenAI Misalignment Monitor: Would Have Caught HF Breach
+- [Q000260](../berichte/Q00/Q0002/Q000260/README.de.md) ETSI unveils new standard to reduce production of harmful deepfakes
+- [Q000262](../berichte/Q00/Q0002/Q000262/README.de.md) He called for an AI slowdown, then told investors he’d race ahead
+- [Q000264](../berichte/Q00/Q0002/Q000264/README.de.md) Your AI Compass
+- [Q000266](../berichte/Q00/Q0002/Q000266/README.de.md) AI deepfakes pose risks to consumers, voters and others, security experts warn
+- [Q000273](../berichte/Q00/Q0002/Q000273/README.de.md) [Big read] Satire, deepfakes and virtual voters: AI enters Taiwan’s election race
+- [Q000284](../berichte/Q00/Q0002/Q000284/README.de.md) New AILuminate Safety and Jailbreak Results, 27 Systems
+- [Q000287](../berichte/Q00/Q0002/Q000287/README.de.md) Tracking AI adoption in North Korean threat actor tradecraft
+- [Q000536](../berichte/Q00/Q0005/Q000536/README.de.md) DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports
+- [Q005262](../berichte/Q00/Q0052/Q005262/README.de.md) How to Test a Decision Model in Your Coding Loop
+- [Q000178](../berichte/Q00/Q0001/Q000178/README.de.md) No AI Exemption: What the FTC’s Investigation of Leading AI Developers Means for Your Business
+- [Q000181](../berichte/Q00/Q0001/Q000181/README.de.md) The Warnings Are No Longer Hypothetical
+- [Q000214](../berichte/Q00/Q0002/Q000214/README.de.md) When AI Fails: Building Fault-Tolerant AI Systems
+- [Q000225](../berichte/Q00/Q0002/Q000225/README.de.md) AI standards as statecraft: a playbook for the Global South
+- [Q000226](../berichte/Q00/Q0002/Q000226/README.de.md) CrowdStrike uncovers China-linked AI cyber campaign
+- [Q000233](../berichte/Q00/Q0002/Q000233/README.de.md) Data Security Council unveils India-specific agentic AI liability guide
+- [Q000234](../berichte/Q00/Q0002/Q000234/README.de.md) DSCI: Agentic AI doesn’t need new laws; It needs controls you can prove
+- [Q000239](../berichte/Q00/Q0002/Q000239/README.de.md) Pope warns AI agents are ‘tools, not persons’
+- [Q000240](../berichte/Q00/Q0002/Q000240/README.de.md) IA, dal Vaticano l’appello a regole e responsabilità umane
+- [Q000251](../berichte/Q00/Q0002/Q000251/README.de.md) Liability Could Rein In Rogue AI Agents. Current Law Falls Short.
+- [Q000253](../berichte/Q00/Q0002/Q000253/README.de.md) PRC–US AI talks: safety at speed
+- [Q000254](../berichte/Q00/Q0002/Q000254/README.de.md) AI in combat: When humans are in the loop, but not in control
+- [Q000268](../berichte/Q00/Q0002/Q000268/README.de.md) Deep fakes on screen: what the EU's new AI labelling rules mean for sport, media and entertainment
+- [Q000269](../berichte/Q00/Q0002/Q000269/README.de.md) The Deepfake Watchlist: Week of October 23–29, 2026
+- [Q000272](../berichte/Q00/Q0002/Q000272/README.de.md) Centre Seeks National Framework to Counter AI Deepfakes Ahead of 2027 Elections
+- [Q000278](../berichte/Q00/Q0002/Q000278/README.de.md) Japan asks Anthropic, OpenAI for more access to advanced models
+- [Q000285](../berichte/Q00/Q0002/Q000285/README.de.md) ARTEX and Friends: Enter Agentic Offensive Frameworks
+- [Q000168](../berichte/Q00/Q0001/Q000168/README.de.md) Anthropic S-1: AI safety, competition law and China
+- [Q000170](../berichte/Q00/Q0001/Q000170/README.de.md) Granite Switch 4.1.1: check the release tag before loading weights
+- [Q000183](../berichte/Q00/Q0001/Q000183/README.de.md) Model Cards as Security Route-Admission Inputs
+- [Q000186](../berichte/Q00/Q0001/Q000186/README.de.md) One AI rule book: chip expert urges shared standards across China, US models
+- [Q000191](../berichte/Q00/Q0001/Q000191/README.de.md) China’s Iluvatar CoreX Claims Its Tiangai 300 GPU Beats NVIDIA’s H200 In Its Own Live Demo, But The Only Outside Test Shows Just A 5% Lead
+- [Q000210](../berichte/Q00/Q0002/Q000210/README.de.md) AI Downtime Is Exposing a Continuity Gap Most Organisations Aren't Ready For
+- [Q000235](../berichte/Q00/Q0002/Q000235/README.de.md) Only Way To Align AI With Public Is To Put Public in Charge
+- [Q000247](../berichte/Q00/Q0002/Q000247/README.de.md) Anthropic’s Claude Agents Find a Training-Monitor Gap
+- [Q000255](../berichte/Q00/Q0002/Q000255/README.de.md) AI’s rewiring of US warfare may be only the beginning
+- [Q000194](../berichte/Q00/Q0001/Q000194/README.de.md) Self-improving AI the key step towards AGI but safety is key: Z.ai founder
+- [Q005122](../berichte/Q00/Q0051/Q005122/README.de.md) Post by @robiartec on X
+- [Q005020](../berichte/Q00/Q0050/Q005020/README.de.md) Post by @rikiyatakehi on X
+- [Q005068](../berichte/Q00/Q0050/Q005068/README.de.md) Anthropic Pays $500K to Lure Professors and Founders Into AI Safety
+- [Q005146](../berichte/Q00/Q0051/Q005146/README.de.md) A Developer Compiled a Full RISC-V CPU Into Qwen3.5's Weights
+- [Q005171](../berichte/Q00/Q0051/Q005171/README.de.md) Why Specialized Foundation Models Could Reshape the AI Stack
+- [Q005113](../berichte/Q00/Q0051/Q005113/README.de.md) Post by @ryangrowthh on X
+- [Q005134](../berichte/Q00/Q0051/Q005134/README.de.md) OpenAI's Pando Cuts Push Latency 80% Serving a Petabyte of Git Daily
+- [Q005059](../berichte/Q00/Q0050/Q005059/README.de.md) GPT-6 Astra Rewrites Qwen3.5 and Boosts Math Scores by 40%
+- [Q005093](../berichte/Q00/Q0050/Q005093/README.de.md) OpenAI's Images 2.6 Generates 4B Weekly Images 32% Faster With Native GIFs
+- [Q005102](../berichte/Q00/Q0051/Q005102/README.de.md) OpenAI's AI Pipeline Finds 948 Linux Root Exploits in a Single Run
+- [Q005154](../berichte/Q00/Q0051/Q005154/README.de.md) Alibaba's Qwen-Image-2.1-Turbo Hits 2.5M Downloads After Community Shrinks It
+- [Q005157](../berichte/Q00/Q0051/Q005157/README.de.md) FMS-DS Solves a Decades-Old Math Problem in Outlier-Resistant Data Recovery
+- [Q005305](../berichte/Q00/Q0053/Q005305/README.de.md) Post by @OpenAI on X
+- [Q005080](../berichte/Q00/Q0050/Q005080/README.de.md) Anthropic's Claude Now Reads and Analyzes Your Bank Accounts
+- [Q005118](../berichte/Q00/Q0051/Q005118/README.de.md) METR Finds Anthropic's AI-Assisted R&D Moving Twice as Fast
+- [Q005166](../berichte/Q00/Q0051/Q005166/README.de.md) MiniMax Drops Music 3, an Open-Weight AI That Writes 5-Minute Songs
+- [Q005251](../berichte/Q00/Q0052/Q005251/README.de.md) Harness, Loops, Graphs: What 217 Real Agent Loops Are Missing (Full Guide)
+- [Q005258](../berichte/Q00/Q0052/Q005258/README.de.md) Post by @AndrewCurran_ on X
+- [Q005265](../berichte/Q00/Q0052/Q005265/README.de.md) Post by @Sam_McCandlish on X
+- [Q005273](../berichte/Q00/Q0052/Q005273/README.de.md) Post by @RyanGreenblatt on X
+- [Q005287](../berichte/Q00/Q0052/Q005287/README.de.md) Post by @Thom_Wolf on X
+- [Q000075](../berichte/Q00/Q0000/Q000075/README.de.md) The US and China will have a red phone for AI emergencies, while Europe is left to watch
+- [Q000242](../berichte/Q00/Q0002/Q000242/README.de.md) House Democratic Committee Leaders Request Frontier AI Companies Report Misalignment & Safety Incidents to Congress Within 48 Hours | House Committee on Science, Space and Technology
+
+### frank-andrade.medium.com
+
+- [Q010514](../berichte/Q01/Q0105/Q010514/README.de.md) The Best Movies to Learn a Foreign Language According to Data Science
+- [Q010512](../berichte/Q01/Q0105/Q010512/README.de.md) 6 Months Without an iPhone — This Is How My Life Changed
+- [Q010510](../berichte/Q01/Q0105/Q010510/README.de.md) The Simpsons is the Best TV show to Learn English Words
+- [Q010508](../berichte/Q01/Q0105/Q010508/README.de.md) Learn a Foreign Language with Friends — The Best Episodes According to Data Science
+- [Q010506](../berichte/Q01/Q0105/Q010506/README.de.md) Web Scraping Basics — Scraping a Betting Site in 10 Minutes
+- [Q010504](../berichte/Q01/Q0105/Q010504/README.de.md) Build an Audience Like International YouTubers Did It
+- [Q010502](../berichte/Q01/Q0105/Q010502/README.de.md) How to Make Money From Web Scraping Without Selling Data
+- [Q010500](../berichte/Q01/Q0105/Q010500/README.de.md) Data Visualization in Python with Avatar The Last Airbender
+- [Q010498](../berichte/Q01/Q0104/Q010498/README.de.md) Learn a Foreign Language with Game of Thrones: The Best Episodes According to Data Science
+- [Q010496](../berichte/Q01/Q0104/Q010496/README.de.md) I Wrote for Medium’s Biggest Publications in Month 1: Earning & Lessons
+- [Q010494](../berichte/Q01/Q0104/Q010494/README.de.md) The Best Netflix Movies & Series to Learn a Foreign Language According to Data Science
+- [Q010492](../berichte/Q01/Q0104/Q010492/README.de.md) Learn to Code Like Polyglots Learn Foreign Languages
+- [Q010490](../berichte/Q01/Q0104/Q010490/README.de.md) Learn a Foreign Language with The Big Bang Theory: The Best Episodes According to Data Science
+- [Q010488](../berichte/Q01/Q0104/Q010488/README.de.md) 4 Things I Wish I Knew When I Started Sports Betting
+- [Q010486](../berichte/Q01/Q0104/Q010486/README.de.md) Learn a Foreign Language with Breaking Bad: The Best Episodes According to Data Science
+- [Q010484](../berichte/Q01/Q0104/Q010484/README.de.md) How I Made Over $500 in My Second Month on Medium
+- [Q010482](../berichte/Q01/Q0104/Q010482/README.de.md) Make Money With Python — The Sports Arbitrage Project
+- [Q010480](../berichte/Q01/Q0104/Q010480/README.de.md) How to Learn Any Language by Watching TV and Movies
+- [Q010478](../berichte/Q01/Q0104/Q010478/README.de.md) 3 Simple Ways For Web Scraping Without Getting Blocked
+- [Q010476](../berichte/Q01/Q0104/Q010476/README.de.md) The Simplest Scientific Trick That Helped Me Learn 3 Languages
+- [Q010474](../berichte/Q01/Q0104/Q010474/README.de.md) I Learned a Language by Reading Game of Thrones
+- [Q010472](../berichte/Q01/Q0104/Q010472/README.de.md) 4 Life Lessons from Learning a New Language
+- [Q010470](../berichte/Q01/Q0104/Q010470/README.de.md) How To Use Netflix to Learn a Foreign Language
+- [Q010468](../berichte/Q01/Q0104/Q010468/README.de.md) How to Improve The Way You Learn a Language With Duolingo
+- [Q010466](../berichte/Q01/Q0104/Q010466/README.de.md) Learn a New Language with SpongeBob: The Best Episodes According to Data Science
+- [Q010464](../berichte/Q01/Q0104/Q010464/README.de.md) Can We Beat The Bookies? Predicting Football Games With a Simple Model
+- [Q010462](../berichte/Q01/Q0104/Q010462/README.de.md) Learning a Foreign Language? These 5 Books Will Help You Become Fluent
+- [Q010460](../berichte/Q01/Q0104/Q010460/README.de.md) The Best Disney Movies to Learn a Foreign Language According to Data Science
+- [Q010458](../berichte/Q01/Q0104/Q010458/README.de.md) Automate Your Scripts In 3 Steps
+- [Q010456](../berichte/Q01/Q0104/Q010456/README.de.md) 6 Fiction Books That Will Help You Fluently Speak a New Language Faster
+- [Q010454](../berichte/Q01/Q0104/Q010454/README.de.md) An Efficient Approach to Learning a Foreign Language by Reading Books
+- [Q010452](../berichte/Q01/Q0104/Q010452/README.de.md) How to Make Money When the Bookies Get It Wrong and Lose
+- [Q010450](../berichte/Q01/Q0104/Q010450/README.de.md) Will Language Learning Become Obsolete? Elon Musk Thinks So
+- [Q010448](../berichte/Q01/Q0104/Q010448/README.de.md) I Used to Pay $180/yr for a Profitable Betting Tool. This Year I Built One in Python
+- [Q010444](../berichte/Q01/Q0104/Q010444/README.de.md) 4 Dual-Language Books to Painlessly Learn Spanish
+- [Q010446](../berichte/Q01/Q0104/Q010446/README.de.md) The Best Free Stats Sites for Sports Betting
+- [Q010441](../berichte/Q01/Q0104/Q010441/README.de.md) Is Automated Betting Profitable?
+- [Q010439](../berichte/Q01/Q0104/Q010439/README.de.md) Lessons I Learned After My 4-Time Rejected Article Made $1000
+- [Q010437](../berichte/Q01/Q0104/Q010437/README.de.md) How to Improve Your Vocabulary Without Overusing The Dictionary
+- [Q010435](../berichte/Q01/Q0104/Q010435/README.de.md) All Python Guides You’ll Ever Need for Data Science (Updated Weekly)
+- [Q010433](../berichte/Q01/Q0104/Q010433/README.de.md) A Straightforward Guide to Cleaning and Preparing Data in Python
+- [Q010431](../berichte/Q01/Q0104/Q010431/README.de.md) What to Do When You’re Not Improving in Your Language Anymore
+- [Q010429](../berichte/Q01/Q0104/Q010429/README.de.md) 5 Simple Ways to Tokenize Text in Python
+- [Q010427](../berichte/Q01/Q0104/Q010427/README.de.md) 4 Books I Read in 4 Languages That Inspired Me Become a Polyglot
+- [Q010425](../berichte/Q01/Q0104/Q010425/README.de.md) How to Start Making Money Coding Even If You Have No Experience
+- [Q010423](../berichte/Q01/Q0104/Q010423/README.de.md) A Simple And Intuitive Guide to Regular Expressions in Python
+- [Q010421](../berichte/Q01/Q0104/Q010421/README.de.md) How to Easily Make Beautiful Wordclouds in Python
+- [Q010419](../berichte/Q01/Q0104/Q010419/README.de.md) 12 Jupyter Notebook Extensions That Will Make Your Life Easier
+- [Q010417](../berichte/Q01/Q0104/Q010417/README.de.md) A Simple Guide to Scikit-Learn — Building a Machine Learning Model in Python
+- [Q010415](../berichte/Q01/Q0104/Q010415/README.de.md) 4 Books I Read as a Self-Taught Data Scientist
+- [Q010413](../berichte/Q01/Q0104/Q010413/README.de.md) How to Easily Convert a Python Script to an Executable File (.exe)
+- [Q010411](../berichte/Q01/Q0104/Q010411/README.de.md) 5 Extensions That Will Make You Switch to Jupyter Lab
+- [Q010409](../berichte/Q01/Q0104/Q010409/README.de.md) 7 NLP Techniques You Can Easily Implement with Python
+- [Q010407](../berichte/Q01/Q0104/Q010407/README.de.md) 6 Python Projects You Can Finish in a Weekend
+- [Q010405](../berichte/Q01/Q0104/Q010405/README.de.md) 7 Common File System Operations You Can Do With Python
+- [Q010402](../berichte/Q01/Q0104/Q010402/README.de.md) 5 Solved end-to-end Data Science Projects in Python
+- [Q010400](../berichte/Q01/Q0104/Q010400/README.de.md) A Simple Guide to NumPy in Python
+- [Q010398](../berichte/Q01/Q0103/Q010398/README.de.md) How to Build a Data Science Portfolio Website using Python
+- [Q010396](../berichte/Q01/Q0103/Q010396/README.de.md) Web Scraping Cheat Sheet (2022), Python for Web Scraping
+- [Q010394](../berichte/Q01/Q0103/Q010394/README.de.md) 7 Tips to Level up Your Python Code for Data Science
+- [Q010392](../berichte/Q01/Q0103/Q010392/README.de.md) The 4 Stages of Learning Python for Data Science
+- [Q010390](../berichte/Q01/Q0103/Q010390/README.de.md) 7 Habits I Learned From Programmers More Successful Than Me
+- [Q010388](../berichte/Q01/Q0103/Q010388/README.de.md) 4 Free Courses I Took to Learn Python for Data Science
+- [Q010386](../berichte/Q01/Q0103/Q010386/README.de.md) How To Use Scrapy To Build a Dataset for Your Data Science Project
+- [Q010384](../berichte/Q01/Q0103/Q010384/README.de.md) 4 Free and Paid Web Scraping Courses Every Data Scientist Should Take
+- [Q010382](../berichte/Q01/Q0103/Q010382/README.de.md) 5 Common Excel Tasks Simplified with Python
+- [Q010380](../berichte/Q01/Q0103/Q010380/README.de.md) How a Bot Can Help You Remake Viral Content and Boost Engagement
+- [Q010378](../berichte/Q01/Q0103/Q010378/README.de.md) Your First Data Science Job Might Not Be What You Expect
+- [Q010376](../berichte/Q01/Q0103/Q010376/README.de.md) How These 3 Brands Outsold Coca-Cola In Their Home Markets
+- [Q010374](../berichte/Q01/Q0103/Q010374/README.de.md) 4 Free Games to Easily Learn Python While Having Fun
+- [Q010372](../berichte/Q01/Q0103/Q010372/README.de.md) All Top Python Libraries for Data Science Explained (with Code)
+- [Q010370](../berichte/Q01/Q0103/Q010370/README.de.md) 3 Simple Ways to Get Experience Before Your First Data Science Job
+- [Q010366](../berichte/Q01/Q0103/Q010366/README.de.md) A Simple Guide to Linear Regression using Python
+- [Q010364](../berichte/Q01/Q0103/Q010364/README.de.md) Should Data Scientists Care About the New M1 Pro and M1 Max MacBook Pro?
+- [Q010362](../berichte/Q01/Q0103/Q010362/README.de.md) Python Core Concepts for Data Science Explained (with code)
+- [Q010360](../berichte/Q01/Q0103/Q010360/README.de.md) 3 Python Projects That Will Help Automate Your Life
+- [Q010358](../berichte/Q01/Q0103/Q010358/README.de.md) 3 Python Books I Read to Automate Some Boring Data Science Tasks
+- [Q010356](../berichte/Q01/Q0103/Q010356/README.de.md) A Python Pandas Introduction to Excel Users
+- [Q010354](../berichte/Q01/Q0103/Q010354/README.de.md) Data Science Degree vs Coursera/Udemy/Udacity Courses
+- [Q010352](../berichte/Q01/Q0103/Q010352/README.de.md) This Python Library Automates Pandas and Helps You Replace Excel
+- [Q010350](../berichte/Q01/Q0103/Q010350/README.de.md) Become a Data Scientist in 2022: A Practical 52-Week Course
+- [Q010348](../berichte/Q01/Q0103/Q010348/README.de.md) 22 Habits to Become a Better Data Scientist in 2022
+- [Q010346](../berichte/Q01/Q0103/Q010346/README.de.md) Is a Degree in Data Science Worth It in 2022?
+- [Q010342](../berichte/Q01/Q0103/Q010342/README.de.md) A Simple Guide to Real-Time Speech Recognition in Python
+- [Q010338](../berichte/Q01/Q0103/Q010338/README.de.md) How to Easily Summarize Audio and Video Files in Python
+- [Q010340](../berichte/Q01/Q0103/Q010340/README.de.md) A Complete 12-Week Course to Learn Web Scraping in Python for Free
+- [Q010336](../berichte/Q01/Q0103/Q010336/README.de.md) How to Make Basic Visualizations in Python without Coding
+- [Q010334](../berichte/Q01/Q0103/Q010334/README.de.md) Sentiment Analysis & Speech Recognition Made Simple in Python
+- [Q010332](../berichte/Q01/Q0103/Q010332/README.de.md) loc vs iloc in Pandas. Here’s The Difference.
+- [Q010330](../berichte/Q01/Q0103/Q010330/README.de.md) 6 Most Common Pandas Methods Simplified with Mito
+- [Q010328](../berichte/Q01/Q0103/Q010328/README.de.md) 3 Data Science Projects You Can Do Using Python APIs
+- [Q010326](../berichte/Q01/Q0103/Q010326/README.de.md) I Used to Be Impressed by People Who Work at FAANG
+- [Q010324](../berichte/Q01/Q0103/Q010324/README.de.md) This Stanford Seminar Might Redefine The Future of Web Scraping for Data Science
+- [Q010322](../berichte/Q01/Q0103/Q010322/README.de.md) 5 Python Libraries That Will Help Automate Your Life
+- [Q010320](../berichte/Q01/Q0103/Q010320/README.de.md) 5 Most Active Discord Servers for Python and Data Science in 2022
+- [Q010318](../berichte/Q01/Q0103/Q010318/README.de.md) 3 Passive Income Streams I Built Using My Data Science Skills
+- [Q010316](../berichte/Q01/Q0103/Q010316/README.de.md) 4 Courses I Would Take to Learn Data Science (If I Had to Start Over)
+- [Q010314](../berichte/Q01/Q0103/Q010314/README.de.md) Bye-bye Jupyter Notebook. Hello DataSpell!
+- [Q010312](../berichte/Q01/Q0103/Q010312/README.de.md) Scraping a Website? Don’t Do These Things
+- [Q010308](../berichte/Q01/Q0103/Q010308/README.de.md) The 3 Worst Pieces of Data Science Advice I’ve Ever Heard
+- [Q010306](../berichte/Q01/Q0103/Q010306/README.de.md) 4 Non-Data Science Books That Will Make You a Better Data Scientist
+- [Q010304](../berichte/Q01/Q0103/Q010304/README.de.md) The #1 Skill That Will Make You a Better Data Scientist
+- [Q010302](../berichte/Q01/Q0103/Q010302/README.de.md) 15 Data Science Questions You’re Too Embarrassed To Ask
+- [Q010300](../berichte/Q01/Q0103/Q010300/README.de.md) 14 Datasets for Your Next Data Science Project
+- [Q010298](../berichte/Q01/Q0102/Q010298/README.de.md) Automate WhatsApp Messages with Python in 3 Steps
+- [Q010296](../berichte/Q01/Q0102/Q010296/README.de.md) 10 Python Mistakes That Tell You’re a Nooby
+- [Q010294](../berichte/Q01/Q0102/Q010294/README.de.md) Automate or Get Automated: How I Changed My Life Learning to Automate (Instead of Coding)
+- [Q010292](../berichte/Q01/Q0102/Q010292/README.de.md) I’ve Taken Over 10 Python Courses. Here’s How I Self Study Using Udemy/Coursera/Udacity
+- [Q010289](../berichte/Q01/Q0102/Q010289/README.de.md) 4 Apps That Will Make You More Productive as a Data Scientist
+- [Q010287](../berichte/Q01/Q0102/Q010287/README.de.md) How to Easily Run Python Visualizations On a Web Browser with PyScript
+- [Q010283](../berichte/Q01/Q0102/Q010283/README.de.md) A Super-Fast Way to Loop in Python
+- [Q010281](../berichte/Q01/Q0102/Q010281/README.de.md) 10 Terminal Commands Anyone Learning Python Should Know
+- [Q010279](../berichte/Q01/Q0102/Q010279/README.de.md) Let Me Show You How to Get a Data Science Job Without Any Work Experience
+- [Q010277](../berichte/Q01/Q0102/Q010277/README.de.md) Automate 99% of Websites with Selenium 4 and Python
+- [Q010273](../berichte/Q01/Q0102/Q010273/README.de.md) 4 Online Communities Anyone Learning Data Science Should Join
+- [Q010275](../berichte/Q01/Q0102/Q010275/README.de.md) 4 Pycharm Plugins Anyone Learning Python Should Install
+- [Q010271](../berichte/Q01/Q0102/Q010271/README.de.md) How to Hide Passwords and Secret Keys in Your Python Scripts
+- [Q010269](../berichte/Q01/Q0102/Q010269/README.de.md) Vector Databases: Taking Data Revolution to The Next Level
+- [Q010267](../berichte/Q01/Q0102/Q010267/README.de.md) Here’s What Happens When You Don’t Use an IDE to Write Code for 3 Months
+- [Q010265](../berichte/Q01/Q0102/Q010265/README.de.md) Turn Google Sheets into Your Own Database with Python
+- [Q010263](../berichte/Q01/Q0102/Q010263/README.de.md) Excel Users, Here’s How to Take Your Data Analysis and Reports to The Next Level
+- [Q010261](../berichte/Q01/Q0102/Q010261/README.de.md) How to Easily Automate Emails with Python
+- [Q010259](../berichte/Q01/Q0102/Q010259/README.de.md) Here’s Everything You Can Do With Python (And What You Shouldn’t)
+- [Q010257](../berichte/Q01/Q0102/Q010257/README.de.md) 4 Automation Projects in Python You Can Finish in a Weekend
+- [Q010255](../berichte/Q01/Q0102/Q010255/README.de.md) How I Made $10K+ in One Month Of Blogging (Despite Having Less Than 10k Followers)
+- [Q010253](../berichte/Q01/Q0102/Q010253/README.de.md) Goodbye Excel. Hello Spreadsheets in Python!
+- [Q010251](../berichte/Q01/Q0102/Q010251/README.de.md) How I Doubled My Income By Translating My Online Content
+- [Q010249](../berichte/Q01/Q0102/Q010249/README.de.md) In Defense of “Python is Slow”
+- [Q010247](../berichte/Q01/Q0102/Q010247/README.de.md) If You Ask These 4 Python Questions, You Might Still Be a Nooby
+- [Q010245](../berichte/Q01/Q0102/Q010245/README.de.md) Less Than 50% Course Completion? Here’s Why You Keep Quitting Online Courses
+- [Q010243](../berichte/Q01/Q0102/Q010243/README.de.md) How to Learn to Code Fast (And Get a Job)
+- [Q010241](../berichte/Q01/Q0102/Q010241/README.de.md) Would You Like to Become a Better Data Scientist? Start Writing Articles
+- [Q010239](../berichte/Q01/Q0102/Q010239/README.de.md) A Simple Guide to Writing Programming and Data Science Articles People Want to Read
+- [Q010237](../berichte/Q01/Q0102/Q010237/README.de.md) 5 Less-Known Python Libraries That Can Help in Your Next Data Science Project
+- [Q010235](../berichte/Q01/Q0102/Q010235/README.de.md) 6 Ways I Made Money from Coding (without a job)
+- [Q010233](../berichte/Q01/Q0102/Q010233/README.de.md) How I Became Fluent in English (on my own at home)
+- [Q010231](../berichte/Q01/Q0102/Q010231/README.de.md) How to Create a Udemy Course That Will Turn into Your Passive Income Machine
+- [Q010229](../berichte/Q01/Q0102/Q010229/README.de.md) Stop Downloading Datasets From Kaggle (If you’re not a nooby)
+- [Q010227](../berichte/Q01/Q0102/Q010227/README.de.md) A Practical 12-Week Course to Learn to Automate Stuff with Python
+- [Q010225](../berichte/Q01/Q0102/Q010225/README.de.md) Super Fast Data Analysis in Python
+- [Q010223](../berichte/Q01/Q0102/Q010223/README.de.md) 5 macOS Apps I Never Close as a Programmer
+- [Q010221](../berichte/Q01/Q0102/Q010221/README.de.md) Is a Mac or Windows PC Better for Programming?
+- [Q010219](../berichte/Q01/Q0102/Q010219/README.de.md) Python vs R for Data Science: Did You Make the Right Choice?
+- [Q010217](../berichte/Q01/Q0102/Q010217/README.de.md) Top Databases to Use in 2022: What is The Right Database for Your Use Case?
+- [Q010215](../berichte/Q01/Q0102/Q010215/README.de.md) If You Know Python, You Could Become a Bilingual Data Scientist Learning R. Here’s a Basic Guide.
+- [Q010213](../berichte/Q01/Q0102/Q010213/README.de.md) Goodbye Low-Quality Udemy Courses. Hello, Subscription Courses!
+- [Q010211](../berichte/Q01/Q0102/Q010211/README.de.md) Teaching What You Learn: The Fastest Way to Learn Technical Stuff
+- [Q010209](../berichte/Q01/Q0102/Q010209/README.de.md) 9 SQL Core Concepts That Helped Me Get My First Data Analyst Job
+- [Q010207](../berichte/Q01/Q0102/Q010207/README.de.md) I Coded a Tinder Bot to Automate My Dating Life. Here’s What Happened
+- [Q010205](../berichte/Q01/Q0102/Q010205/README.de.md) 5 Python Projects to Automate Your Life: From Beginner to Advanced
+- [Q010203](../berichte/Q01/Q0102/Q010203/README.de.md) 3 TV Shows (for Programmers) I’d Rewatch Instead of Watching Netflix
+- [Q010201](../berichte/Q01/Q0102/Q010201/README.de.md) 5 Things I Do In The Evenings to Avoid Tech/Programmer Burnout
+- [Q010199](../berichte/Q01/Q0101/Q010199/README.de.md) 5 Tools That Make My Life Easier When Writing Code
+- [Q010197](../berichte/Q01/Q0101/Q010197/README.de.md) Yes, You Can Easily Scrape Websites with Pandas. Here’s How.
+- [Q010195](../berichte/Q01/Q0101/Q010195/README.de.md) 4 Paid Subscriptions I’m Considering Getting in 2023 as a Programmer
+- [Q010193](../berichte/Q01/Q0101/Q010193/README.de.md) Predicting The FIFA World Cup 2022 With a Simple Model using Python
+- [Q010189](../berichte/Q01/Q0101/Q010189/README.de.md) Does the US Men’s National Team Have Any Chance of Winning the FIFA World Cup 2022?
+- [Q010191](../berichte/Q01/Q0101/Q010191/README.de.md) How to Collect Data for a Data Science Project with Python (in 3 Steps)
+- [Q010187](../berichte/Q01/Q0101/Q010187/README.de.md) FIFA World Cup 2022: A Data-Driven Approach to Ideal Team Line-Ups
+- [Q010185](../berichte/Q01/Q0101/Q010185/README.de.md) How to Easily Get Football Data with a Python Package (Without Web Scraping)
+- [Q010181](../berichte/Q01/Q0101/Q010181/README.de.md) How I Used Data Science to Create 3 Consistent Streams of Income in 2022
+- [Q010183](../berichte/Q01/Q0101/Q010183/README.de.md) PRegEx: Regular Expressions in Plain English in Python
+- [Q010179](../berichte/Q01/Q0101/Q010179/README.de.md) Hey ChatGPT, Automate These Tasks Using Python
+- [Q010175](../berichte/Q01/Q0101/Q010175/README.de.md) Using ChatGPT for Data Science
+- [Q010177](../berichte/Q01/Q0101/Q010177/README.de.md) ChatGPT: 4 Jobs That Will Change (or Be Fully Replaced) by This AI-Powered Chatbot
+- [Q010173](../berichte/Q01/Q0101/Q010173/README.de.md) I Spent 14 Days Testing ChatGPT. Here Are 3 Ways It Can Improve Your Everyday Life
+- [Q010171](../berichte/Q01/Q0101/Q010171/README.de.md) I Found a Loophole to (Successfully) Web Scrape Using ChatGPT. Here’s How it Works
+- [Q010169](../berichte/Q01/Q0101/Q010169/README.de.md) 4 Projects To Take Your Web Scraping Skills To The Next Level
+- [Q010167](../berichte/Q01/Q0101/Q010167/README.de.md) CodeGPT: The VSCode Extension with ChatGPT-Like Functionalities
+- [Q010165](../berichte/Q01/Q0101/Q010165/README.de.md) 3 ChatGPT Extensions to Automate Your Life
+- [Q010163](../berichte/Q01/Q0101/Q010163/README.de.md) 6 AI Tools That Will Make Your Life Easier (Other Than ChatGPT)
+- [Q010161](../berichte/Q01/Q0101/Q010161/README.de.md) How I Plan to Make Money Using ChatGPT (And Other AI Tools) in 2023
+- [Q010159](../berichte/Q01/Q0101/Q010159/README.de.md) A Simple Guide to OpenAI API with Python
+- [Q010157](../berichte/Q01/Q0101/Q010157/README.de.md) Here’s Who Is Really Making Billions From ChatGPT
+- [Q010155](../berichte/Q01/Q0101/Q010155/README.de.md) ChatGPT Creator Just Launched an AI Detector. Let’s Put It To The Test!
+- [Q010153](../berichte/Q01/Q0101/Q010153/README.de.md) Is The New Microsoft Bing (Powered By ChatGPT) Better Than Google?
+- [Q010151](../berichte/Q01/Q0101/Q010151/README.de.md) ChatGPT Won’t Kill Google, But Microsoft Bing Could Disrupt Google’s Monopoly
+- [Q010149](../berichte/Q01/Q0101/Q010149/README.de.md) I Think I’ll Cancel My ChatGPT Plus $20 Subscription
+- [Q010147](../berichte/Q01/Q0101/Q010147/README.de.md) Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?
+- [Q010145](../berichte/Q01/Q0101/Q010145/README.de.md) ChatGPT Reimagines 7 Harry Potter Characters with Midjourney
+- [Q010143](../berichte/Q01/Q0101/Q010143/README.de.md) A Simple Guide to The (New) ChatGPT API with Python
+- [Q010141](../berichte/Q01/Q0101/Q010141/README.de.md) I Have 1M Views and 20k Subscribers. Yet I Don’t Think YouTube is for Everybody
+- [Q010139](../berichte/Q01/Q0101/Q010139/README.de.md) Super Fast Web Scraping with Polars in Python
+- [Q010137](../berichte/Q01/Q0101/Q010137/README.de.md) GPT-4: The ChatGPT Successor With Amazing New Features
+- [Q010135](../berichte/Q01/Q0101/Q010135/README.de.md) You’re Using ChatGPT Wrong! Here’s How to Be Ahead of 99% of ChatGPT Users
+- [Q010133](../berichte/Q01/Q0101/Q010133/README.de.md) Lessons from The Collapse of Silicon Valley Bank
+- [Q010131](../berichte/Q01/Q0101/Q010131/README.de.md) 4 Paid Subscriptions I Use to Learn And Practice Data Science (All Levels)
+- [Q010129](../berichte/Q01/Q0101/Q010129/README.de.md) Mr. Beast’s Ultimate Strategy to x10 His Views in 1 Year (That Any Content Creator Can Follow)
+- [Q010127](../berichte/Q01/Q0101/Q010127/README.de.md) A New Era of Photography? Unleashing Midjourney V5 with GPT-4 (God Mode)
+- [Q010125](../berichte/Q01/Q0101/Q010125/README.de.md) Plugins: A Massive Upgrade That Will Change ChatGPT Forever
+- [Q010123](../berichte/Q01/Q0101/Q010123/README.de.md) This Study by OpenAI Reveals What Jobs Might Be Replaced by GPT-4
+- [Q010121](../berichte/Q01/Q0101/Q010121/README.de.md) All AI Tools And ChatGPT Prompts in 1 Article
+- [Q010119](../berichte/Q01/Q0101/Q010119/README.de.md) The Chatbot Competition: A Hands-On Comparison of ChatGPT and Google Bard
+- [Q010116](../berichte/Q01/Q0101/Q010116/README.de.md) The ChatGPT Skill That Pays Up to $335,000 a Year
+- [Q010114](../berichte/Q01/Q0101/Q010114/README.de.md) You’re Using Midjourney Wrong! Here’s How to Create Better Images than 99% of Midjourney Users
+- [Q010112](../berichte/Q01/Q0101/Q010112/README.de.md) Share Your AI Knowledge With The World: Write for Artificial Corner
+- [Q010107](../berichte/Q01/Q0101/Q010107/README.de.md) Auto-GPT: A Powerful AI Tool That Makes GPT-4 Autonomous
+- [Q010105](../berichte/Q01/Q0101/Q010105/README.de.md) AI Tools As Good As ChatGPT (But Few People Are Using Them)
+- [Q010103](../berichte/Q01/Q0101/Q010103/README.de.md) ChatGPT for Jupyter: The ChatGPT Extension for Jupyter Notebooks
+- [Q010100](../berichte/Q01/Q0101/Q010100/README.de.md) OpenAI and Andrew Ng Just Released a FREE ChatGPT Prompt Engineering Course
+- [Q010098](../berichte/Q01/Q0100/Q010098/README.de.md) Mojo: The Programming Language for AI That Is Up To 35000x Faster Than Python
+- [Q010094](../berichte/Q01/Q0100/Q010094/README.de.md) 4 Free Apps to Unleash the Power of ChatGPT (GPT-4) On Your Phone
+- [Q010089](../berichte/Q01/Q0100/Q010089/README.de.md) I Tried 84 ChatGPT Plugins. These are the Best
+- [Q010087](../berichte/Q01/Q0100/Q010087/README.de.md) PrivateGPT: A Free ChatGPT Alternative to Interact with Your Documents Offline
+- [Q010085](../berichte/Q01/Q0100/Q010085/README.de.md) Upload Files to ChatGPT And Work with Them Using This Free Alternative to Code Interpreter
+- [Q010083](../berichte/Q01/Q0100/Q010083/README.de.md) Noteable: The ChatGPT Plugin That Automates Data Analysis
+- [Q010081](../berichte/Q01/Q0100/Q010081/README.de.md) Google Just Released a FREE AI Course
+- [Q010079](../berichte/Q01/Q0100/Q010079/README.de.md) Jupyter AI: The AI Extension for Jupyter Lab
+- [Q010077](../berichte/Q01/Q0100/Q010077/README.de.md) GPT-Engineer: Generate an Entire Codebase with 1 Prompt!
+- [Q010075](../berichte/Q01/Q0100/Q010075/README.de.md) I Tried 100 AI Tools. These Are The Best
+- [Q010071](../berichte/Q01/Q0100/Q010071/README.de.md) Scraper: ChatGPT Plugin That Scrapes Websites with 1 Prompt
+- [Q010069](../berichte/Q01/Q0100/Q010069/README.de.md) ChatGPT Multi-Plugin Combos You Need to Enable to Automate Your Life!
+- [Q010066](../berichte/Q01/Q0100/Q010066/README.de.md) AI Automation Agency: The New Way to Get Rich in 2023?
+- [Q010064](../berichte/Q01/Q0100/Q010064/README.de.md) ChatGPT’s Code Interpreter Was Just Released. Here’s How It Will Change Data Science Forever.
+- [Q010061](../berichte/Q01/Q0100/Q010061/README.de.md) Twitter vs Threads — The Battle Has Just Started
+- [Q010058](../berichte/Q01/Q0100/Q010058/README.de.md) Google Bard’s New Image Recognition Means Serious Competition to ChatGPT. Here Are 6 Best Use Cases
+- [Q010056](../berichte/Q01/Q0100/Q010056/README.de.md) Automating Web Scraping with ChatGPT Code Interpreter
+- [Q010052](../berichte/Q01/Q0100/Q010052/README.de.md) I’ve Just Tried Google’s New AI Search Engine
+- [Q010050](../berichte/Q01/Q0100/Q010050/README.de.md) No Matter How Good You’re At Programming, If You Don’t Have Good Habits
+- [Q010048](../berichte/Q01/Q0100/Q010048/README.de.md) My Honest Review of Some Paid AI Tools I’ve Used So Far
+- [Q010046](../berichte/Q01/Q0100/Q010046/README.de.md) My Journey to Becoming an Effective Learner Using ChatGPT
+- [Q010044](../berichte/Q01/Q0100/Q010044/README.de.md) If You’re on Social Media, You Need Emails Subscribers. Here’s How I Got 36,000 Email Subscribers
+- [Q010040](../berichte/Q01/Q0100/Q010040/README.de.md) Python in Excel Will Reshape How Data Analysts Work
+- [Q010037](../berichte/Q01/Q0100/Q010037/README.de.md) ChatGPT, Do You Love Me?
+- [Q010033](../berichte/Q01/Q0100/Q010033/README.de.md) Big Bard Update: Bard Can Now Connect to Your Google Apps
+- [Q010031](../berichte/Q01/Q0100/Q010031/README.de.md) How I’d Learn AI from Scratch (If I Could Start Over)
+- [Q010028](../berichte/Q01/Q0100/Q010028/README.de.md) Vision is The Biggest Upgrade to ChatGPT in Months. Here Are Some Ways To Make The Most of It
+- [Q010025](../berichte/Q01/Q0100/Q010025/README.de.md) AI is Revolutionizing Video Creation. Here’s Why This is Good for You
+- [Q010023](../berichte/Q01/Q0100/Q010023/README.de.md) I’ve Been Using AI To Write Better Articles for Almost 1 Year. Here’s How to Make The Most of It
+- [Q010019](../berichte/Q01/Q0100/Q010019/README.de.md) I’ve Been Using ChatGPT Vision as a Data Analyst. Here Are Some Practical Use Cases
+- [Q010017](../berichte/Q01/Q0100/Q010017/README.de.md) ChatGPT Has Changed My Approach to Learning New Things
+- [Q010014](../berichte/Q01/Q0100/Q010014/README.de.md) Biden’s Executive Order on AI Was Necessary. Yet, There’s Still A Lot to Do
+- [Q010010](../berichte/Q01/Q0100/Q010010/README.de.md) OpenAI Just Released GPTs: Create Your Own ChatGPT And Make Money From It (No Coding Required)
+- [Q010008](../berichte/Q01/Q0100/Q010008/README.de.md) How to Create Your GPT With The New ChatGPT Feature (And Tips to Make it Unique and Profitable)
+- [Q010006](../berichte/Q01/Q0100/Q010006/README.de.md) OpenAI is Trying to Kill Prompt Engineering With The Latest ChatGPT and DALL-E Updates
+- [Q010004](../berichte/Q01/Q0100/Q010004/README.de.md) Here’s Everything You Need to Know About Sam Altman’s Firing from OpenAI.
+- [Q010001](../berichte/Q01/Q0100/Q010001/README.de.md) I’ve Created a Custom ChatGPT That Scrapes Data from Websites
+- [Q009999](../berichte/Q00/Q0099/Q009999/README.de.md) GPT Actions: How to Create Advanced Automation in Your GPTs
+- [Q009994](../berichte/Q00/Q0099/Q009994/README.de.md) A Hands-On Comparison: Gemini Pro vs GPT-3.5
+- [Q009990](../berichte/Q00/Q0099/Q009990/README.de.md) “Google Will Kill ChatGPT” and Other Overhyped AI Predictions We Heard In 2023
+- [Q009987](../berichte/Q00/Q0099/Q009987/README.de.md) Artificial Corner Will No Longer Publish Stories On This Site
+- [Q009985](../berichte/Q00/Q0099/Q009985/README.de.md) OpenAI Just Released The GPT Store. Here’s How To Use It And Make Money With Your GPT
+- [Q009981](../berichte/Q00/Q0099/Q009981/README.de.md) Gemini Ultra vs GPT-4: Did Google Beat GPT-4 This Time?
+- [Q009979](../berichte/Q00/Q0099/Q009979/README.de.md) You’re Not The Only One Feeling AI Fatigue (Or: Why That New AI Tool Isn’t for You)
+- [Q009977](../berichte/Q00/Q0099/Q009977/README.de.md) Claude 3 Beats GPT-4 in Benchmarks: Is That Enough to Switch?
+- [Q009974](../berichte/Q00/Q0099/Q009974/README.de.md) Nvidia CEO Advises Against Learning to Code: Is Coding Still a Worthwhile Skill to Learn?
+- [Q009972](../berichte/Q00/Q0099/Q009972/README.de.md) Is AI Officially Taking Our Jobs? Meet Devin, The First AI Software Engineer
+- [Q009969](../berichte/Q00/Q0099/Q009969/README.de.md) The Pivotal Role of Nvidia in The Future of AI
+- [Q009967](../berichte/Q00/Q0099/Q009967/README.de.md) The False Promises of AI
+- [Q009963](../berichte/Q00/Q0099/Q009963/README.de.md) The Rise of AI Robots Just Got Real
+- [Q009959](../berichte/Q00/Q0099/Q009959/README.de.md) AI Devices: Are They as Bad as Tech Reviewers Say?
+- [Q009957](../berichte/Q00/Q0099/Q009957/README.de.md) You’re Not Unlocking ChatGPT’s Full Potential. Here’s How to Do It.
+- [Q009955](../berichte/Q00/Q0099/Q009955/README.de.md) OpenAI Just Unveiled The Best AI Model: GPT-4o
+- [Q009951](../berichte/Q00/Q0099/Q009951/README.de.md) ChatGPT Users Will Love These Amazing GPT-4o Use Cases
+- [Q009953](../berichte/Q00/Q0099/Q009953/README.de.md) How to Download The New ChatGPT Desktop App (even if you’re not invited to the beta)
+- [Q009949](../berichte/Q00/Q0099/Q009949/README.de.md) “AI Is Not Replacing Workers” And Other Lies About AI
+- [Q009945](../berichte/Q00/Q0099/Q009945/README.de.md) Apple Intelligence (AI) Finally Arrives on Apple Products
+- [Q009943](../berichte/Q00/Q0099/Q009943/README.de.md) Here’s How Companies Will Use AI for Recruiting
+- [Q009940](../berichte/Q00/Q0099/Q009940/README.de.md) The Birth of Modern AI
+- [Q009938](../berichte/Q00/Q0099/Q009938/README.de.md) How I Use AI and SQL in My Daily Work as a Data Analyst
+- [Q009936](../berichte/Q00/Q0099/Q009936/README.de.md) SearchGPT: Another Failed Attempt to Take Down Google?
+- [Q009934](../berichte/Q00/Q0099/Q009934/README.de.md) Is AI Hype Fading Due to Hallucinations?
+- [Q009932](../berichte/Q00/Q0099/Q009932/README.de.md) OpenAI Releases GPT o1 “Strawberry”: First Model With Advanced Reasoning
+- [Q009930](../berichte/Q00/Q0099/Q009930/README.de.md) Prompt Engineering Is Slowly Dying
+- [Q009928](../berichte/Q00/Q0099/Q009928/README.de.md) Hands-On With ChatGPT’s (New) Advanced Voice Mode
+- [Q009925](../berichte/Q00/Q0099/Q009925/README.de.md) The 4 Stages of Learning Python for AI & ML
+- [Q009923](../berichte/Q00/Q0099/Q009923/README.de.md) AI in Business: Moving Past the Hype and False Promises
+- [Q009919](../berichte/Q00/Q0099/Q009919/README.de.md) How Much YouTube Paid Me for My 1,000,000 Viewed Video
+- [Q009917](../berichte/Q00/Q0099/Q009917/README.de.md) OpenAI’s o3 and Other AI News That Will Shape AI in 2025
+- [Q009914](../berichte/Q00/Q0099/Q009914/README.de.md) What’s Next for AI? 7 Trends to Watch in 2025
+- [Q009911](../berichte/Q00/Q0099/Q009911/README.de.md) AI Art’s Hollow Victory: Faster, Cheaper, and Forgettable
+- [Q009908](../berichte/Q00/Q0099/Q009908/README.de.md) Mark Zuckerberg Predicts AI Will Reshape Coding Forever in 2025
+- [Q009905](../berichte/Q00/Q0099/Q009905/README.de.md) What Project Stargate Means for the Future of AI — and Who Controls It
+- [Q009903](../berichte/Q00/Q0099/Q009903/README.de.md) How to Easily Install DeepSeek R1 on Your Computer (without sharing your data)
+- [Q009900](../berichte/Q00/Q0099/Q009900/README.de.md) Has DeepSeek Burst the AI Bubble or Just Raised the Stakes?
+- [Q009898](../berichte/Q00/Q0098/Q009898/README.de.md) OpenAI Just Released o3-mini: Best coding model right now (better than DeepSeek R1)
+- [Q009896](../berichte/Q00/Q0098/Q009896/README.de.md) My Honest Review of ChatGPT’s $200 Monthly Subscription
+- [Q009893](../berichte/Q00/Q0098/Q009893/README.de.md) Gen Z’s Complicated Relationship with AI
+- [Q009891](../berichte/Q00/Q0098/Q009891/README.de.md) The Dark Side of AI
+- [Q009888](../berichte/Q00/Q0098/Q009888/README.de.md) Teaching in the Age of AI … A Renaissance or the End of an Era?
+- [Q009885](../berichte/Q00/Q0098/Q009885/README.de.md) Who Cares About AI — and Who Doesn’t?
+- [Q009882](../berichte/Q00/Q0098/Q009882/README.de.md) Sharper Machines, Duller Minds: The Paradox of AI Intelligence
+- [Q009879](../berichte/Q00/Q0098/Q009879/README.de.md) How AI is Reshaping Our Digital World
+- [Q009877](../berichte/Q00/Q0098/Q009877/README.de.md) Will AI Replace Programmers? The Truth Behind the Hype
+- [Q009874](../berichte/Q00/Q0098/Q009874/README.de.md) AI at Bargain Prices — But Who’s Really Paying the Bill?
+- [Q009871](../berichte/Q00/Q0098/Q009871/README.de.md) AI Agents Are Here And They’re Not Just Taking Notes Anymore
+- [Q009869](../berichte/Q00/Q0098/Q009869/README.de.md) Is Today’s Progress in AGI a Real Breakthrough, Or Just Another Illusion?
+- [Q009867](../berichte/Q00/Q0098/Q009867/README.de.md) What China’s Rise Means for the Future of AI
+- [Q009865](../berichte/Q00/Q0098/Q009865/README.de.md) Why ChatGPT’s New Feature Could Be the Most Controversial Design Tool Yet
+- [Q009862](../berichte/Q00/Q0098/Q009862/README.de.md) Can AI Break the Procrastination Loop?
+- [Q009859](../berichte/Q00/Q0098/Q009859/README.de.md) The Rise of Ghibli-Inspired AI and the Artists Left Behind
+- [Q009856](../berichte/Q00/Q0098/Q009856/README.de.md) How Google Quietly Took the Lead in the AI Race with Gemini 2.5
+- [Q009854](../berichte/Q00/Q0098/Q009854/README.de.md) We’re Finally Starting to Understand How AI Works
+- [Q009852](../berichte/Q00/Q0098/Q009852/README.de.md) How I’d Learn Python Faster Using AI
+- [Q009848](../berichte/Q00/Q0098/Q009848/README.de.md) AI Gets the Credit. You Get the Bugs
+- [Q009846](../berichte/Q00/Q0098/Q009846/README.de.md) 5 Game-Changing ChatGPT Features You’re Probably Missing
+- [Q009844](../berichte/Q00/Q0098/Q009844/README.de.md) Soon, We May No Longer Need Humans to Train AI Models
+- [Q009842](../berichte/Q00/Q0098/Q009842/README.de.md) A Simple Guide to Vibe Coding for Beginners
+- [Q009840](../berichte/Q00/Q0098/Q009840/README.de.md) Codex Is Not Just Smarter. It’ll Reshape Software Development
+- [Q009838](../berichte/Q00/Q0098/Q009838/README.de.md) The ChatGPT Setup I Use to Be Ahead of 99% of Users
+- [Q009835](../berichte/Q00/Q0098/Q009835/README.de.md) A Free 17-Hour Course to Learn Python for Data Science (for Beginners)
+- [Q009832](../berichte/Q00/Q0098/Q009832/README.de.md) You’d Never Guess ChatGPT Wrote This
+- [Q009828](../berichte/Q00/Q0098/Q009828/README.de.md) The Quiet Revolution of AI Agents
+- [Q009826](../berichte/Q00/Q0098/Q009826/README.de.md) The Perfect ChatGPT Prompt Formula
+- [Q009822](../berichte/Q00/Q0098/Q009822/README.de.md) How to Create Your First AI Agent (for Non-Coders)
+- [Q009818](../berichte/Q00/Q0098/Q009818/README.de.md) AI Can Make You Productive or Dumb. Here’s How to Tell Which Side You’re On
+- [Q009816](../berichte/Q00/Q0098/Q009816/README.de.md) You’re using the wrong ChatGPT model. Here’s how to choose the right one
+- [Q009814](../berichte/Q00/Q0098/Q009814/README.de.md) The 4 AI Tools That Everyone Should Use (Other Than ChatGPT)
+- [Q009810](../berichte/Q00/Q0098/Q009810/README.de.md) My Honest Review of ChatGPT Agent
+- [Q009806](../berichte/Q00/Q0098/Q009806/README.de.md) 3 Things I Learned About AI That Save Me Hours Every Week
+- [Q009804](../berichte/Q00/Q0098/Q009804/README.de.md) GPT-5 launch is expected in August 2025. Here’s everything we know so far
+- [Q009800](../berichte/Q00/Q0098/Q009800/README.de.md) GPT-5 is Finally Here: These 3 Upgrades Are Total Game Changers
+- [Q009798](../berichte/Q00/Q0097/Q009798/README.de.md) Top AI Use Cases According to Studies — Are You Using Them Yet?
+- [Q009795](../berichte/Q00/Q0097/Q009795/README.de.md) Why GPT-5 Feels Like a Step Forward and a Step Back
+- [Q009793](../berichte/Q00/Q0097/Q009793/README.de.md) You’re using GPT-5 wrong! Here’s how to be ahead of 99% of users
+- [Q009789](../berichte/Q00/Q0097/Q009789/README.de.md) Before You Chat With a Meta AI Bot, Read This
+- [Q009787](../berichte/Q00/Q0097/Q009787/README.de.md) GPT-5 May Be Proof That Scaling Alone Can’t Save AI
+- [Q009785](../berichte/Q00/Q0097/Q009785/README.de.md) This App Changed How I Use ChatGPT
+- [Q009781](../berichte/Q00/Q0097/Q009781/README.de.md) I Barely Use Google Search Anymore. Here’s How I Replaced It With AI
+- [Q009779](../berichte/Q00/Q0097/Q009779/README.de.md) I Took Google’s AI Course for Beginners. Here’s a Summary in Plain English
+- [Q009777](../berichte/Q00/Q0097/Q009777/README.de.md) You’re using the wrong ChatGPT-5 mode. Here’s how to choose the right one
+- [Q009775](../berichte/Q00/Q0097/Q009775/README.de.md) AI Agents: The Next Big Thing After ChatGPT
+- [Q009771](../berichte/Q00/Q0097/Q009771/README.de.md) 25 Things I’ve Learned About ChatGPT and Other AI Tools
+- [Q009768](../berichte/Q00/Q0097/Q009768/README.de.md) These iPhone Features Changed How I Use ChatGPT
+- [Q009766](../berichte/Q00/Q0097/Q009766/README.de.md) How to Go from ChatGPT Beginner to Pro in 2025
+- [Q009764](../berichte/Q00/Q0097/Q009764/README.de.md) Sora 2 may be the ChatGPT moment for video generation (and it’s scary)
+- [Q009762](../berichte/Q00/Q0097/Q009762/README.de.md) I Took Google’s Prompt Engineering Course. Here’s What Actually Works
+- [Q009759](../berichte/Q00/Q0097/Q009759/README.de.md) From AI Slop to Robotics Slop
+- [Q009755](../berichte/Q00/Q0097/Q009755/README.de.md) The Best Books to Learn AI in 2026
+- [Q009753](../berichte/Q00/Q0097/Q009753/README.de.md) The Best AI Tools for 2026
+- [Q009751](../berichte/Q00/Q0097/Q009751/README.de.md) The Best Free AI Courses for 2026
+- [Q009747](../berichte/Q00/Q0097/Q009747/README.de.md) The Best ChatGPT Prompts for 2026
+- [Q009745](../berichte/Q00/Q0097/Q009745/README.de.md) Duolingo couldn’t teach me Spanish in 2 years. ChatGPT did it in a few months
+- [Q009741](../berichte/Q00/Q0097/Q009741/README.de.md) The #1 AI Skill Worth Mastering in 2026 (It Never Goes Obsolete)
+- [Q009739](../berichte/Q00/Q0097/Q009739/README.de.md) Forget AI Tools. These 3 AI Agents Will Automate Your Life in 2026
+- [Q009736](../berichte/Q00/Q0097/Q009736/README.de.md) Clawdbot Is Taking The AI Community by Storm. Here’s What it is and How to Use It
+- [Q009734](../berichte/Q00/Q0097/Q009734/README.de.md) How You Should Use AI in 2026
+- [Q009587](../berichte/Q00/Q0095/Q009587/README.de.md) 🎁 Get My (Free) AI Courses
+- [Q009732](../berichte/Q00/Q0097/Q009732/README.de.md) Why I Stopped Using ChatGPT for Everything (and What I Use Instead)
+- [Q009727](../berichte/Q00/Q0097/Q009727/README.de.md) Why You Need Claude Code and How to Use It (Even With 0 Coding Experience)
+- [Q009723](../berichte/Q00/Q0097/Q009723/README.de.md) How to move from ChatGPT to Claude (without starting from 0)
+- [Q009721](../berichte/Q00/Q0097/Q009721/README.de.md) I Quit ChatGPT for Claude. Here’s Why
+- [Q009719](../berichte/Q00/Q0097/Q009719/README.de.md) NotebookLM: The Best AI Tool to Learn Any Topic Faster
+- [Q009715](../berichte/Q00/Q0097/Q009715/README.de.md) Goodbye ChatGPT. Hello Claude Cowork!
+- [Q009713](../berichte/Q00/Q0097/Q009713/README.de.md) How I Stopped Hitting Claude’s Usage Limits
+- [Q009709](../berichte/Q00/Q0097/Q009709/README.de.md) The Claude Setup I Use to Be Ahead of 99% of Users
+- [Q009707](../berichte/Q00/Q0097/Q009707/README.de.md) I Tried 100 Claude Skills. These Are The Best
+- [Q009705](../berichte/Q00/Q0097/Q009705/README.de.md) How To Web Scrape Any Site Using Claude Cowork (No Coding)
+- [Q009703](../berichte/Q00/Q0097/Q009703/README.de.md) The Best Way to Make AI Write Like You
+- [Q009699](../berichte/Q00/Q0096/Q009699/README.de.md) The #1 Claude Skill That Helps Me Make Better Decisions
+- [Q009697](../berichte/Q00/Q0096/Q009697/README.de.md) Before You Use Claude, Create This File
+- [Q009693](../berichte/Q00/Q0096/Q009693/README.de.md) We Built 70+ Claude Skills. These Are The Best
+- [Q009691](../berichte/Q00/Q0096/Q009691/README.de.md) I Made Claude Smarter by Connecting It to NotebookLM. Here’s How
+- [Q009687](../berichte/Q00/Q0096/Q009687/README.de.md) We Tested 100s of Claude Cowork Prompts. These 7 Automate Your Boring Work
+- [Q009685](../berichte/Q00/Q0096/Q009685/README.de.md) I Tried 50 Claude Connectors. These Are The Best
+- [Q009683](../berichte/Q00/Q0096/Q009683/README.de.md) I Used Claude to Predict The FIFA World Cup 2026
+- [Q009681](../berichte/Q00/Q0096/Q009681/README.de.md) I Tried 33 Claude Code Skills. These Are The Best
+- [Q009677](../berichte/Q00/Q0096/Q009677/README.de.md) 7 Amazing Things Claude Can Do (That ChatGPT Can’t)
+- [Q009672](../berichte/Q00/Q0096/Q009672/README.de.md) Claude Can Now Click, Type, and Navigate Your Computer Apps. Here Are My Best Use Cases
+- [Q009669](../berichte/Q00/Q0096/Q009669/README.de.md) Claude Runs Inside Excel Now! Here Are the Best Use Cases
+- [Q009667](../berichte/Q00/Q0096/Q009667/README.de.md) If You Use Claude, You Need This Productivity App
+- [Q009665](../berichte/Q00/Q0096/Q009665/README.de.md) How to Run Claude Cowork Tasks From Your Phone
+- [Q009661](../berichte/Q00/Q0096/Q009661/README.de.md) How to Turn Claude into a 24/7 Employee (It Has Automated My Work)
+- [Q009659](../berichte/Q00/Q0096/Q009659/README.de.md) I Made Claude Cowork Smarter by Connecting It to NotebookLM (No Claude Code or Terminal Required)
+- [Q009657](../berichte/Q00/Q0096/Q009657/README.de.md) Stop Asking Claude for (Only) Text. Build This Instead
+- [Q009655](../berichte/Q00/Q0096/Q009655/README.de.md) I Took 20+ Free Claude Courses. These Are the Best
+- [Q009653](../berichte/Q00/Q0096/Q009653/README.de.md) How to Upgrade Your Summer Trip With AI
+- [Q009650](../berichte/Q00/Q0096/Q009650/README.de.md) Before You Use Claude Cowork, Build This First
+- [Q009647](../berichte/Q00/Q0096/Q009647/README.de.md) Before You Use Claude Code, Learn This First
+- [Q009645](../berichte/Q00/Q0096/Q009645/README.de.md) How to Make Money With Claude in 2026
+- [Q009643](../berichte/Q00/Q0096/Q009643/README.de.md) Skills Are Claude Code’s Cheat Code. Here’s How to Use Them
+- [Q009641](../berichte/Q00/Q0096/Q009641/README.de.md) How to Use Claude In Your Business
+- [Q009639](../berichte/Q00/Q0096/Q009639/README.de.md) I Stopped Re-Explaining Everything to Claude Code. This CLAUDE.md File Does It for Me
+- [Q009637](../berichte/Q00/Q0096/Q009637/README.de.md) If You Use Claude, You Need This Simple Folder System
+- [Q009635](../berichte/Q00/Q0096/Q009635/README.de.md) How to Use AI to Get Smarter (Not Just Work Faster)
+- [Q009633](../berichte/Q00/Q0096/Q009633/README.de.md) How to Get 10x Better AI Answers Without Writing Better Prompts
+- [Q009629](../berichte/Q00/Q0096/Q009629/README.de.md) Before You Create a Claude Skill, Read This
+- [Q009625](../berichte/Q00/Q0096/Q009625/README.de.md) If You Only Read A Few Claude Guides in 2026, Read These 3
+- [Q009621](../berichte/Q00/Q0096/Q009621/README.de.md) Before You Apply to Another Job, Build This Claude Skill
+- [Q009619](../berichte/Q00/Q0096/Q009619/README.de.md) ChatGPT-6 Astra: The Complete Guide
+- [Q009615](../berichte/Q00/Q0096/Q009615/README.de.md) 13 Claude Lessons We Learned After 3,600 Hours
+- [Q009613](../berichte/Q00/Q0096/Q009613/README.de.md) We Automated Job Hunting With Claude. Here’s How to Copy It
+- [Q009611](../berichte/Q00/Q0096/Q009611/README.de.md) How to Go From AI Beginner to Pro in 2026
+- [Q009610](../berichte/Q00/Q0096/Q009610/README.de.md) How to Use NotebookLM to Build Your Own $10,000 AI Mentor (For Free)
+- [Q009606](../berichte/Q00/Q0096/Q009606/README.de.md) The 7 AI Skills That You Need in 2026
+- [Q009604](../berichte/Q00/Q0096/Q009604/README.de.md) The 6 Best Apps That Make Me More Productive With Claude
+- [Q009602](../berichte/Q00/Q0096/Q009602/README.de.md) The Best Way to Prompt Claude in 2026
+- [Q009600](../berichte/Q00/Q0096/Q009600/README.de.md) ChatGPT Images & Nano Banana: The Complete Guide
+- [Q009597](../berichte/Q00/Q0095/Q009597/README.de.md) How to AI-Proof Your Career in 2026
+- [Q009595](../berichte/Q00/Q0095/Q009595/README.de.md) How to Use Claude to Prepare for a Job Interview
+- [Q009592](../berichte/Q00/Q0095/Q009592/README.de.md) How to Make NotebookLM Your Second Brain
+- [Q009590](../berichte/Q00/Q0095/Q009590/README.de.md) I Tried 23 Viral Claude Skills. These Are the Best
+
+### fruggr.io
+
+- [Q000414](../berichte/Q00/Q0004/Q000414/README.de.md) AI Whistleblower Rules in 2026: What to Build Now
+
+### generationmaastricht.org
+
+- [Q000649](../berichte/Q00/Q0006/Q000649/README.de.md) The European Democracy Shield one year after its presentation
+
+### globaledit.com
+
+- [Q000621](../berichte/Q00/Q0006/Q000621/README.de.md) Globaledit Unveils Brand Protection System and Content Provenance Suite
+
+### globalservicesinc.com
+
+- [Q000496](../berichte/Q00/Q0004/Q000496/README.de.md) GSA MAS Refresh #34 to bring an end to 20-Year Contract Limits
+
+### gostrobrod.medium.com
+
+- [Q009976](../berichte/Q00/Q0099/Q009976/README.de.md) Apple Metal for very beginners. Series
+- [Q009970](../berichte/Q00/Q0099/Q009970/README.de.md) (MTL S01E01) What is Apple Metal
+- [Q009965](../berichte/Q00/Q0099/Q009965/README.de.md) (MTL S01E02) Metal Architecture
+- [Q009961](../berichte/Q00/Q0099/Q009961/README.de.md) (MTL S01E03) Metal Shading Language
+- [Q009947](../berichte/Q00/Q0099/Q009947/README.de.md) (MTL S01E04) Primitives pt.1: Buffers
+- [Q009941](../berichte/Q00/Q0099/Q009941/README.de.md) (MTL S01E05) Primitives pt.2: Textures
+- [Q009926](../berichte/Q00/Q0099/Q009926/README.de.md) (MTL S01E06) Blit Operations
+- [Q009921](../berichte/Q00/Q0099/Q009921/README.de.md) (MTL S01E07) Rendering pt.1: What’s under hood
+- [Q009915](../berichte/Q00/Q0099/Q009915/README.de.md) (MTL S01E08) Rendering pt.2: Render Pipeline
+- [Q009912](../berichte/Q00/Q0099/Q009912/README.de.md) (MTL S01E09) Rendering pt.3: Shaders
+- [Q009909](../berichte/Q00/Q0099/Q009909/README.de.md) (MTL S01E10) Computing
+- [Q009906](../berichte/Q00/Q0099/Q009906/README.de.md) (MTL S01E11) Metal Performance Shaders
+- [Q009901](../berichte/Q00/Q0099/Q009901/README.de.md) (MTL S01E12) MPSGraph
+- [Q009895](../berichte/Q00/Q0098/Q009895/README.de.md) (MTL S01E13) Metal Stitchable Functions
+- [Q009889](../berichte/Q00/Q0098/Q009889/README.de.md) (MTL S01E14) UI pt.1: UIKit/CoreAnimation
+- [Q009886](../berichte/Q00/Q0098/Q009886/README.de.md) (MTL S01E15) UI pt.2: SwiftUI
+- [Q009883](../berichte/Q00/Q0098/Q009883/README.de.md) (MTL S02E01) The Main Metal Tool: Documentation
+- [Q009880](../berichte/Q00/Q0098/Q009880/README.de.md) (MTL S02E02) Basic Diagnostics of Metal in Xcode
+- [Q009875](../berichte/Q00/Q0098/Q009875/README.de.md) (MTL S02E03) Devices and Simulators
+- [Q009872](../berichte/Q00/Q0098/Q009872/README.de.md) (MTL S02E04) GPU Frame Capture: pt.1 UI
+- [Q009863](../berichte/Q00/Q0098/Q009863/README.de.md) (MTL S02E05) GPU Frame Capture: pt.2 Code
+- [Q009860](../berichte/Q00/Q0098/Q009860/README.de.md) (MTL S02E06) GPU Frame Capture: pt.3 Profiling
+- [Q009857](../berichte/Q00/Q0098/Q009857/README.de.md) (MTL S02E07) GPU Frame Capture: pt.4 Debugging
+- [Q009850](../berichte/Q00/Q0098/Q009850/README.de.md) (MTL S02E08) Metal System Trace
+- [Q009836](../berichte/Q00/Q0098/Q009836/README.de.md) (MTL S02E09) Manual Diagnostics: pt.1 Value-level
+- [Q009675](../berichte/Q00/Q0096/Q009675/README.de.md) (MTL S02E10) Manual Diagnostics: pt.2 Tooling-level
+
+### gov.cn
+
+- [Q000350](../berichte/Q00/Q0003/Q000350/README.de.md) 何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话__中国政府网
+
+### gov.uk
+
+- [Q000588](../berichte/Q00/Q0005/Q000588/README.de.md) Joint declaration following the G7 Foreign Ministers' Meeting in Paris
+
+### government.nl
+
+- [Q000520](../berichte/Q00/Q0005/Q000520/README.de.md) Paris Declaration on AI safety and security
+
+### gravitee.io
+
+- [Q000445](../berichte/Q00/Q0004/Q000445/README.de.md) AI Agents Are in Production. Agent Accountability Is Not.
+
+### greynoise.io
+
+- [Q000542](../berichte/Q00/Q0005/Q000542/README.de.md) GreyNoise AI Cyber Index: Benchmarking AI Models on Defensive Capabilities
+
+### ground.news
+
+- [Q000355](../berichte/Q00/Q0003/Q000355/README.de.md) Bessent, Greer Urge China to Implement Busan Trade Commitments
+
+### healthaffairs.org
+
+- [Q000387](../berichte/Q00/Q0003/Q000387/README.de.md) Utah’s Pilot Prescribing Program Is A Giant Leap For AI In Medicine
+
+### heise.de
+
+- [Q000439](../berichte/Q00/Q0004/Q000439/README.de.md) US keeps AI model testing rules under wraps
+
+### hklaw.com
+
+- [Q000483](../berichte/Q00/Q0004/Q000483/README.de.md) 10 Ways AI Labs Can Limit Antitrust Risks of Safety Pacts | Insights
+
+### home.treasury.gov
+
+- [Q000353](../berichte/Q00/Q0003/Q000353/README.de.md) READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng
+
+### iaps.ai
+
+- [Q000392](../berichte/Q00/Q0003/Q000392/README.de.md) How to Secure Advanced U.S. Chips
+- [Q000286](../berichte/Q00/Q0002/Q000286/README.de.md) Transparency Disclosures for Chain-of-Thought Monitorability
+
+### indianarrative.com
+
+- [Q000335](../berichte/Q00/Q0003/Q000335/README.de.md) Washington’s Bet on Superintelligence
+
+### influencers-time.com
+
+- [Q000645](../berichte/Q00/Q0006/Q000645/README.de.md) Platforms Suppress Sameness, Not AI: Audit Creator Output
+
+### insurancethoughtleadership.com
+
+- [Q000371](../berichte/Q00/Q0003/Q000371/README.de.md) How Can We Price AI's Risks?
+
+### investmentexecutive.com
+
+- [Q000513](../berichte/Q00/Q0005/Q000513/README.de.md) IOSCO targets tech threats to capital markets
+
+### ipsnews.net
+
+- [Q000589](../berichte/Q00/Q0005/Q000589/README.de.md) From Nuclear Weapons to Artificial Intelligence, a New Test of Humanity’s Restraint
+
+### isthisaiwritten.com
+
+- [Q000603](../berichte/Q00/Q0006/Q000603/README.de.md) Best AI Watermark Detectors in 2026: SynthID and More
+
+### jair.org
+
+- [Q000321](../berichte/Q00/Q0003/Q000321/README.de.md) Governed Hybrid Agency: A Critical Evidence Map of Cognitive Architectures for Foundation-Model Agents\n\t\t\t\t\t\t\t| Journal of Artificial Intelligence Research
+
+### jamesrochabrun.medium.com
+
+- [Q009833](../berichte/Q00/Q0098/Q009833/README.de.md) 25 IOS INTERVIEW QUESTIONS AND ANSWERS FOR JUNIOR DEVELOPERS.
+- [Q009830](../berichte/Q00/Q0098/Q009830/README.de.md) Local Notifications in iOS 10
+- [Q009824](../berichte/Q00/Q0098/Q009824/README.de.md) UICOLLECTIONVIEW IN SWIFT 3 WITHOUT INTERFACE BUILDER.
+- [Q009820](../berichte/Q00/Q0098/Q009820/README.de.md) 30 Swift concepts for Objective C developers — extended
+- [Q009812](../berichte/Q00/Q0098/Q009812/README.de.md) Implementing delegates in Swift, step by step.
+- [Q009808](../berichte/Q00/Q0098/Q009808/README.de.md) Parsing JSON response and save it in CoreData, step by step.
+- [Q009802](../berichte/Q00/Q0098/Q009802/README.de.md) Using Closures, generics, POP and protocols with associated types to create reusable API’s for your networking layer
+- [Q009796](../berichte/Q00/Q0097/Q009796/README.de.md) Avoiding Massive View Controllers by refactoring.
+- [Q009791](../berichte/Q00/Q0097/Q009791/README.de.md) Take your animations to the next level with Airbnb framework, Lottie.
+- [Q009783](../berichte/Q00/Q0097/Q009783/README.de.md) Let’s create a Tinder-like card using NSLayoutAnchors and custom views, and make it swipe using protocol extensions.
+- [Q009773](../berichte/Q00/Q0097/Q009773/README.de.md) Custom Control Open Source in Swift
+- [Q009770](../berichte/Q00/Q0097/Q009770/README.de.md) Protocol Based Generic Networking using JSONDecoder and Decodable in Swift 4
+- [Q009760](../berichte/Q00/Q0097/Q009760/README.de.md) SwiftLint introduction tutorial
+- [Q009757](../berichte/Q00/Q0097/Q009757/README.de.md) Humanizing your iOS application with Face Detection API, Kairos.
+- [Q009743](../berichte/Q00/Q0097/Q009743/README.de.md) Training a custom model using IBM Watson studio and use it in your iOS app using Core ML and Vision.
+- [Q009738](../berichte/Q00/Q0097/Q009738/README.de.md) WWDC 2018
+- [Q009711](../berichte/Q00/Q0097/Q009711/README.de.md) Functional programming in Swift
+- [Q009701](../berichte/Q00/Q0097/Q009701/README.de.md) Advanced Generics and protocols in Swift.
+- [Q009695](../berichte/Q00/Q0096/Q009695/README.de.md) UICollectionViewDiffableDataSource and Decodable, step by step.
+- [Q009689](../berichte/Q00/Q0096/Q009689/README.de.md) Building iPad apps, prototyping Instagram for iPad (part one)
+- [Q009674](../berichte/Q00/Q0096/Q009674/README.de.md) Generic networking layer using Combine in Swift UI.
+- [Q009671](../berichte/Q00/Q0096/Q009671/README.de.md) Compositional SwiftUI List
+- [Q009663](../berichte/Q00/Q0096/Q009663/README.de.md) Create a generic networking layer using async/await.
+- [Q009652](../berichte/Q00/Q0096/Q009652/README.de.md) Synchronizing asynchronous networking calls using iOS 15 Group task API.
+- [Q009649](../berichte/Q00/Q0096/Q009649/README.de.md) OpenAI Swift package
+- [Q009631](../berichte/Q00/Q0096/Q009631/README.de.md) OpenAI Function Calling, iOS Implementation
+- [Q009627](../berichte/Q00/Q0096/Q009627/README.de.md) Anthropic iOS SDK
+- [Q009617](../berichte/Q00/Q0096/Q009617/README.de.md) Run LLM’s locally in Swift
+- [Q009608](../berichte/Q00/Q0096/Q009608/README.de.md) Agent Transfers in Swift with SwiftSwarm
+- [Q009599](../berichte/Q00/Q0095/Q009599/README.de.md) Creating MCP Clients in Swift: Integrating Model Context Protocol
+- [Q009594](../berichte/Q00/Q0095/Q009594/README.de.md) OpenAI Responses stream API in Swift
+- [Q009588](../berichte/Q00/Q0095/Q009588/README.de.md) SwiftOpenAI-CLI: The Missing SDK
+
+### justsecurity.org
+
+- [Q000501](../berichte/Q00/Q0005/Q000501/README.de.md) Just the Docs: Nonprofits Sue Five Frontier AI Companies to Freeze Development, Citing Cyberattack and Catastrophic Risks
+
+### karlsnotes.com
+
+- [Q000436](../berichte/Q00/Q0004/Q000436/README.de.md) Can AI chair a multilateral negotiation?
+
+### karpathy.medium.com
+
+- [Q009585](../berichte/Q00/Q0095/Q009585/README.de.md) AlphaGo, in context
+- [Q009584](../berichte/Q00/Q0095/Q009584/README.de.md) Software 2.0
+
+### kensingtonsalesgroup.com
+
+- [Q000498](../berichte/Q00/Q0004/Q000498/README.de.md) AI Governance in Federal Proposals: What Vendors Need
+
+### koncile.ai
+
+- [Q000599](../berichte/Q00/Q0005/Q000599/README.de.md) AI Image Watermarks: SynthID, C2PA and Who Can Verify
+
+### lamoncloa.gob.es
+
+- [Q000369](../berichte/Q00/Q0003/Q000369/README.de.md) https://www.lamoncloa.gob.es/presidente/actividades/Documents/2026/Declaracion_de_la_Cumbre_de_Madrid-2026.pdf
+- [Q000379](../berichte/Q00/Q0003/Q000379/README.de.md) Ibero-American countries agree to establish the Ibero-American Artificial Intelligence Alliance in Madrid
+
+### lawfaremedia.org
+
+- [Q000398](../berichte/Q00/Q0003/Q000398/README.de.md) Where the Weight Lies: A Balancing Act for the Governance of Open-Weight AI Models
+
+### lesswrong.com
+
+- [Q000292](../berichte/Q00/Q0002/Q000292/README.de.md) Smaller NLAs and probes read eval awareness as well as full size NLAs
+- [Q000320](../berichte/Q00/Q0003/Q000320/README.de.md) Some different lenses of agency and their implications for alignment
+- [Q000326](../berichte/Q00/Q0003/Q000326/README.de.md) Making alignment the agent's problem
+- [Q000311](../berichte/Q00/Q0003/Q000311/README.de.md) Leaking Muse's Charter, Meta's model spec
+- [Q000281](../berichte/Q00/Q0002/Q000281/README.de.md) Lessons From Red-teaming Auto-review, OpenAI's Blocking Monitor
+- [Q000301](../berichte/Q00/Q0003/Q000301/README.de.md) Microdosing the spirit of Anthropic
+- [Q000342](../berichte/Q00/Q0003/Q000342/README.de.md) Against SURA
+- [Q000275](../berichte/Q00/Q0002/Q000275/README.de.md) Monitor Evasion Depends on What RL Finds and What Monitors Miss
+- [Q000415](../berichte/Q00/Q0004/Q000415/README.de.md) Do AI labs' contracts let staff speak up? I built a scorecard
+- [Q000358](../berichte/Q00/Q0003/Q000358/README.de.md) Monitorable-by-design architectures for a post-Astra world: a compartmentalization-based approach
+- [Q000383](../berichte/Q00/Q0003/Q000383/README.de.md) Three Phases of Capabilities and Alignment
+- [Q000348](../berichte/Q00/Q0003/Q000348/README.de.md) Our Most Aligned Model Yet
+- [Q000374](../berichte/Q00/Q0003/Q000374/README.de.md) We don’t understand whether GDM intentionally trains on CoT
+- [Q000363](../berichte/Q00/Q0003/Q000363/README.de.md) The Summarizer Is the Monitor: on planted deals, the summarizer decides what an AI monitor catches
+- [Q000378](../berichte/Q00/Q0003/Q000378/README.de.md) What Rewarding Misbehavior During RL Does to Character-Trained Models
+- [Q000551](../berichte/Q00/Q0005/Q000551/README.de.md) Benchmarking safety benchmarks
+
+### lexology.com
+
+- [Q000510](../berichte/Q00/Q0005/Q000510/README.de.md) OCC issues supervisory Framework on use of AI
+
+### link.springer.com
+
+- [Q000583](../berichte/Q00/Q0005/Q000583/README.de.md) Who decides? Decision-making risks and human control in AI-enabled military command - AI and Ethics
+
+### maccus.fr
+
+- [Q000525](../berichte/Q00/Q0005/Q000525/README.de.md) Anthropic says AI speeding up its own research has crossed its safety threshold
+
+### matrixlaw.co.uk
+
+- [Q000487](../berichte/Q00/Q0004/Q000487/README.de.md) Where Competition Law Stops: Political Power, National Security and AI Safety
+
+### maxintel.org
+
+- [Q000598](../berichte/Q00/Q0005/Q000598/README.de.md) AI Provenance & C2PA Content Credentials Hub
+
+### mckennaconsultants.com
+
+- [Q000616](../berichte/Q00/Q0006/Q000616/README.de.md) AI Transparency Under Article 50: Chatbot Disclosure, Deepfake Labels and Machine-Readable Marking
+
+### medium.com
+
+- [Q011504](../berichte/Q01/Q0115/Q011504/README.de.md) Recreating Apple’s Rubber Band Effect in Swift
+- [Q011503](../berichte/Q01/Q0115/Q011503/README.de.md) 3D Force Touch: beyond peek & pop
+- [Q011919](../berichte/Q01/Q0119/Q011919/README.de.md) Ideas That Moved Us in 2015
+- [Q011918](../berichte/Q01/Q0119/Q011918/README.de.md) 39 Reasons We Won’t Soon Forget 2016
+- [Q011917](../berichte/Q01/Q0119/Q011917/README.de.md) February: Love Stories
+- [Q011916](../berichte/Q01/Q0119/Q011916/README.de.md) Love [Data] Actually
+- [Q011915](../berichte/Q01/Q0119/Q011915/README.de.md) March: Women’s Stories
+- [Q011914](../berichte/Q01/Q0119/Q011914/README.de.md) April: LOL
+- [Q011502](../berichte/Q01/Q0115/Q011502/README.de.md) VisualKit: creating a UI Framework
+- [Q011605](../berichte/Q01/Q0116/Q011605/README.de.md) Understanding the Anchor Point in Kite Compositor
+- [Q011911](../berichte/Q01/Q0119/Q011911/README.de.md) Alana Massey
+- [Q011912](../berichte/Q01/Q0119/Q011912/README.de.md) Ezinne Ukoha
+- [Q011913](../berichte/Q01/Q0119/Q011913/README.de.md) Quincy Larson
+- [Q011910](../berichte/Q01/Q0119/Q011910/README.de.md) Baratunde Thurston
+- [Q011125](../berichte/Q01/Q0111/Q011125/README.de.md) How a Boston Startup Plans to Poach Poachers in Africa Using Intelligent Drones
+- [Q011124](../berichte/Q01/Q0111/Q011124/README.de.md) Deep Learning Pioneers Boost Research at AI Labs Around The World
+- [Q011909](../berichte/Q01/Q0119/Q011909/README.de.md) Jessica Semaan
+- [Q011907](../berichte/Q01/Q0119/Q011907/README.de.md) Liza Donnelly
+- [Q011906](../berichte/Q01/Q0119/Q011906/README.de.md) Who owns the internet?
+- [Q011604](../berichte/Q01/Q0116/Q011604/README.de.md) Animating Animatable Shape Layer Properties in Kite Compositor
+- [Q011603](../berichte/Q01/Q0116/Q011603/README.de.md) Framer Studio v115 First Look: Copy & Paste Designs from Sketch
+- [Q011501](../berichte/Q01/Q0115/Q011501/README.de.md) Prototyping with code
+- [Q011123](../berichte/Q01/Q0111/Q011123/README.de.md) GPU Inference on the Rise
+- [Q011122](../berichte/Q01/Q0111/Q011122/README.de.md) BERT Meets GPUs
+- [Q011121](../berichte/Q01/Q0111/Q011121/README.de.md) Accelerating the Entire Deep Learning Pipeline
+- [Q011905](../berichte/Q01/Q0119/Q011905/README.de.md) The Rookie and the Pro: Different Ways to Succeed on Medium
+- [Q011120](../berichte/Q01/Q0111/Q011120/README.de.md) Peek Under the Hood of NVIDIA Self-Driving Software
+- [Q011119](../berichte/Q01/Q0111/Q011119/README.de.md) Rocking the Sequencing Casbah
+- [Q011118](../berichte/Q01/Q0111/Q011118/README.de.md) Real-Time Object Detection on GPUs in 10 Minutes
+- [Q011117](../berichte/Q01/Q0111/Q011117/README.de.md) Kubeflow Pipelines With GPUs
+- [Q011116](../berichte/Q01/Q0111/Q011116/README.de.md) Easily Deploy Deep Learning Models in Production
+- [Q011904](../berichte/Q01/Q0119/Q011904/README.de.md) July Update From the Partner Program
+- [Q011115](../berichte/Q01/Q0111/Q011115/README.de.md) At DIY Robocars, Jetson Nano Delivers Big Boost in a Small Package
+- [Q011114](../berichte/Q01/Q0111/Q011114/README.de.md) NVIDIA Hosts the Bay Area Bioinformatics Forum
+- [Q011113](../berichte/Q01/Q0111/Q011113/README.de.md) How to Build and Deploy Accurate Deep Learning Models for Intelligent Image and Video Analytics
+- [Q011903](../berichte/Q01/Q0119/Q011903/README.de.md) Tips for Formatting Your Title and Headers
+- [Q011111](../berichte/Q01/Q0111/Q011111/README.de.md) Rethinking Loss Prevention in Retail with Dell Technologies, NVIDIA, and Malong AI
+- [Q011110](../berichte/Q01/Q0111/Q011110/README.de.md) How to use BERT Question Answering in TensorFlow with NVIDIA GPUs
+- [Q011109](../berichte/Q01/Q0111/Q011109/README.de.md) A Guide to Optimizer Implementation for BERT at Scale
+- [Q011108](../berichte/Q01/Q0111/Q011108/README.de.md) Scalable Active Learning for Autonomous Driving
+- [Q011902](../berichte/Q01/Q0119/Q011902/README.de.md) Mute: A new way to control your Medium experience
+- [Q011107](../berichte/Q01/Q0111/Q011107/README.de.md) Enterprise AI with GPU Integrated Infrastructure
+- [Q011901](../berichte/Q01/Q0119/Q011901/README.de.md) The Stories That Got Us Through 2020
+- [Q011900](../berichte/Q01/Q0119/Q011900/README.de.md) Keeping Medium Authentic
+- [Q011150](../berichte/Q01/Q0111/Q011150/README.de.md) Plumbing for the Metaverse with Universal Scene Description (USD)
+- [Q011151](../berichte/Q01/Q0111/Q011151/README.de.md) A Metaverse for Developers
+- [Q011149](../berichte/Q01/Q0111/Q011149/README.de.md) Heading Toward an Omniverse of Extensions and Microservices
+- [Q011148](../berichte/Q01/Q0111/Q011148/README.de.md) An Era of Digital Humans
+- [Q011602](../berichte/Q01/Q0116/Q011602/README.de.md) Switching from Interaction Design Tools to SwiftUI
+- [Q011147](../berichte/Q01/Q0111/Q011147/README.de.md) Challenge Accepted: Documenting Software
+- [Q011898](../berichte/Q01/Q0118/Q011898/README.de.md) The Medium Stories That Defined 2021
+- [Q011601](../berichte/Q01/Q0116/Q011601/README.de.md) Prototyping Stream’s iOS Chat SDK Using SwiftUI — Part 1
+- [Q011600](../berichte/Q01/Q0116/Q011600/README.de.md) Creating Seamless Looping SwiftUI Animations
+- [Q011599](../berichte/Q01/Q0115/Q011599/README.de.md) Prototyping With SwiftUI: Creating Complex Interactions Using Gestures and Modifiers
+- [Q011897](../berichte/Q01/Q0118/Q011897/README.de.md) How to Write a Compelling Headline That Isn’t Clickbait
+- [Q011598](../berichte/Q01/Q0115/Q011598/README.de.md) Learn How to Bring Your SwiftUI App to Life With Advanced Animations
+- [Q011896](../berichte/Q01/Q0118/Q011896/README.de.md) Elevate your brand with a new, customizable About page
+- [Q011597](../berichte/Q01/Q0115/Q011597/README.de.md) Learning SwiftUI Spring Animations: The Basics and Beyond
+- [Q011895](../berichte/Q01/Q0118/Q011895/README.de.md) Views Into War
+- [Q011143](../berichte/Q01/Q0111/Q011143/README.de.md) What is Animation Retargeting?
+- [Q011144](../berichte/Q01/Q0111/Q011144/README.de.md) Cross-Discipline Workflows are the Future of Content Creation for Games
+- [Q011894](../berichte/Q01/Q0118/Q011894/README.de.md) An Easy 5-Step Plan for Improving Your Medium Profile
+- [Q011596](../berichte/Q01/Q0115/Q011596/README.de.md) How to Add Real-Time Chat Messaging to Your SwiftUI App
+- [Q011595](../berichte/Q01/Q0115/Q011595/README.de.md) Designing a Pixel Perfect iMessage Contacts List in SwiftUI
+- [Q011142](../berichte/Q01/Q0111/Q011142/README.de.md) Visual Components Connector for NVIDIA Omniverse: a perfect recipe for manufacturing digitalization
+- [Q011893](../berichte/Q01/Q0118/Q011893/README.de.md) Take Your Writing From Good to Great
+- [Q011593](../berichte/Q01/Q0115/Q011593/README.de.md) Using Xcode- Creating Reusable and Shareable Color Palettes
+- [Q011141](../berichte/Q01/Q0111/Q011141/README.de.md) How to Get Started Building Digital Twins With an Interactive Warehouse
+- [Q011592](../berichte/Q01/Q0115/Q011592/README.de.md) Reduce Motion: How To Make Your iOS App Animations Accessible and Inclusive
+- [Q011892](../berichte/Q01/Q0118/Q011892/README.de.md) It Happened on Medium: The First 10 Years
+- [Q011139](../berichte/Q01/Q0111/Q011139/README.de.md) To the Metaverse and Beyond: Meet the Omniverse Contest Finalists Building the Tools for 3D Worlds
+- [Q011591](../berichte/Q01/Q0115/Q011591/README.de.md) Create Your First iPhone Chat App With the Stream iOS / Swift SDK
+- [Q011138](../berichte/Q01/Q0111/Q011138/README.de.md) Hit the USD Books in this Metaverse Coding Series
+- [Q011891](../berichte/Q01/Q0118/Q011891/README.de.md) What We’re Reading: Breaking the ice, understanding ‘internet brain,’ and an expert’s advice on building your career
+- [Q011589](../berichte/Q01/Q0115/Q011589/README.de.md) Using SwiftUI Effects Library: How to Add Particle Effects to iOS Apps
+- [Q011890](../berichte/Q01/Q0118/Q011890/README.de.md) What We’re Reading: The psychology of self-esteem, game design for beginners, and the art of receiving feedback
+- [Q011588](../berichte/Q01/Q0115/Q011588/README.de.md) Using Calculated Geometric Properties: How To Draw Complex Shapes in SwiftUI
+- [Q011889](../berichte/Q01/Q0118/Q011889/README.de.md) What We’re Reading: Medium designers share their favorite stories
+- [Q011587](../berichte/Q01/Q0115/Q011587/README.de.md) Using CallKit — How to Integrate Voice and Video Calling Into iOS Apps
+- [Q011888](../berichte/Q01/Q0118/Q011888/README.de.md) Save 50% when you give the gift of Medium
+- [Q011887](../berichte/Q01/Q0118/Q011887/README.de.md) The Medium Guide to New Year’s Resolutions
+- [Q011886](../berichte/Q01/Q0118/Q011886/README.de.md) The Medium Guide to Writing More in 2023
+- [Q011885](../berichte/Q01/Q0118/Q011885/README.de.md) What We’re Reading: Raising good humans, AI-generated twins, and new year’s resolutions that stick
+- [Q011136](../berichte/Q01/Q0111/Q011136/README.de.md) How to Capture High-Quality Motion Data With Your Phone And Import Into Omniverse
+- [Q011884](../berichte/Q01/Q0118/Q011884/README.de.md) What We’re Reading: Your recommendations from across Medium
+- [Q011733](../berichte/Q01/Q0117/Q011733/README.de.md) How to turn on VoiceOver in iOS
+- [Q011734](../berichte/Q01/Q0117/Q011734/README.de.md) How to View Accessible Fonts with Xcode and SwiftUI
+- [Q011735](../berichte/Q01/Q0117/Q011735/README.de.md) How to enable accessible font sizes in iOS
+- [Q011732](../berichte/Q01/Q0117/Q011732/README.de.md) Make and Parse an API call using SwiftUI
+- [Q011731](../berichte/Q01/Q0117/Q011731/README.de.md) How to Make a QR or Barcode Scanner in SwiftUI
+- [Q011729](../berichte/Q01/Q0117/Q011729/README.de.md) How to build a custom progress ring in SwiftUI
+- [Q011730](../berichte/Q01/Q0117/Q011730/README.de.md) What are the Info.plist keys in Xcode and why are they important
+- [Q011728](../berichte/Q01/Q0117/Q011728/README.de.md) Xcode for beginners
+- [Q011726](../berichte/Q01/Q0117/Q011726/README.de.md) Basics of SwiftUI
+- [Q011727](../berichte/Q01/Q0117/Q011727/README.de.md) How to run an app on your phone from Xcode
+- [Q011135](../berichte/Q01/Q0111/Q011135/README.de.md) What You Need to Know About Universal Scene Description — From One of Its Founding Developers
+- [Q011725](../berichte/Q01/Q0117/Q011725/README.de.md) How to Build a Launch Screen for iOS
+- [Q011883](../berichte/Q01/Q0118/Q011883/README.de.md) What We’re Reading: Love is great, but have you tried friendship?
+- [Q011882](../berichte/Q01/Q0118/Q011882/README.de.md) Request for feedback: our updated Distribution Standards
+- [Q011881](../berichte/Q01/Q0118/Q011881/README.de.md) What We’re Reading: Are you an upstander or a bystander?
+- [Q011880](../berichte/Q01/Q0118/Q011880/README.de.md) What We’re Reading: To meet or not to meet?
+- [Q011879](../berichte/Q01/Q0118/Q011879/README.de.md) ‘Women’s history is women’s right’
+- [Q011878](../berichte/Q01/Q0118/Q011878/README.de.md) What We’re Reading: We asked for your stories and you delivered
+- [Q011877](../berichte/Q01/Q0118/Q011877/README.de.md) Boosted on Medium: The psychology of happiness, ethics in machine learning, and more
+- [Q011876](../berichte/Q01/Q0118/Q011876/README.de.md) What We’re Reading: Where do you get your big questions answered?
+- [Q011134](../berichte/Q01/Q0111/Q011134/README.de.md) How ChatGPT and GPT-4 Can Be Used for 3D Content Generation
+- [Q011875](../berichte/Q01/Q0118/Q011875/README.de.md) What We’re Reading: When a story and a writer connect, it’s magic
+- [Q011874](../berichte/Q01/Q0118/Q011874/README.de.md) Why poetry matters
+- [Q011585](../berichte/Q01/Q0115/Q011585/README.de.md) Using PushKit Notification — How To Show an Incoming Call on a Device
+- [Q011586](../berichte/Q01/Q0115/Q011586/README.de.md) Creating Fun SwiftUI Animations: Emoji Reactions For Chat & Video Streaming
+- [Q011873](../berichte/Q01/Q0118/Q011873/README.de.md) What we’re reading: Dungeons & Dragons & AI
+- [Q011872](../berichte/Q01/Q0118/Q011872/README.de.md) How an artificial intelligence expert successfully launched a new AI publication on Medium
+- [Q011871](../berichte/Q01/Q0118/Q011871/README.de.md) What we’re reading: Aren’t humans amazing sometimes?
+- [Q011870](../berichte/Q01/Q0118/Q011870/README.de.md) What we’re reading: Want to see something beautiful?
+- [Q011869](../berichte/Q01/Q0118/Q011869/README.de.md) What we’re reading: Declutter your brain
+- [Q011868](../berichte/Q01/Q0118/Q011868/README.de.md) Nuance over monolithic narratives
+- [Q011867](../berichte/Q01/Q0118/Q011867/README.de.md) What we’re reading: When modern life and history intersect
+- [Q011494](../berichte/Q01/Q0114/Q011494/README.de.md) The State of SwiftUI Documentation
+- [Q011866](../berichte/Q01/Q0118/Q011866/README.de.md) What we’re reading: celebrations and sorrow
+- [Q011493](../berichte/Q01/Q0114/Q011493/README.de.md) Understanding Gestures in SwiftUI: Part 1
+- [Q011865](../berichte/Q01/Q0118/Q011865/README.de.md) What we’re reading: You can’t wait until later
+- [Q011724](../berichte/Q01/Q0117/Q011724/README.de.md) How to Build an Onboarding Flow in SwiftUI
+- [Q011723](../berichte/Q01/Q0117/Q011723/README.de.md) How to ask a user to review your app in SwiftUI
+- [Q011492](../berichte/Q01/Q0114/Q011492/README.de.md) The View frame is not what you think
+- [Q011722](../berichte/Q01/Q0117/Q011722/README.de.md) How to Create a Custom SF Symbol using Colors
+- [Q011864](../berichte/Q01/Q0118/Q011864/README.de.md) How a high-level Google data scientist found success (and a fulfilling creative outlet) on Medium
+- [Q011863](../berichte/Q01/Q0118/Q011863/README.de.md) What We’re Reading: What is normal?
+- [Q011861](../berichte/Q01/Q0118/Q011861/README.de.md) What We’re Reading: Summer Nostalgia: Super Mario, Spider-Man, and Ariel
+- [Q010848](../berichte/Q01/Q0108/Q010848/README.de.md) Password-less Authentication using Magic.link + Next.js + Typescript
+- [Q011860](../berichte/Q01/Q0118/Q011860/README.de.md) Register for Medium Day
+- [Q011858](../berichte/Q01/Q0118/Q011858/README.de.md) What We’re Reading: Why does the Titanic fascinate us?
+- [Q010847](../berichte/Q01/Q0108/Q010847/README.de.md) Dockerize a Next.js App
+- [Q011857](../berichte/Q01/Q0118/Q011857/README.de.md) How one business school professor and AI expert uses Medium to share his ideas, build a following, and raise his professional profile
+- [Q011721](../berichte/Q01/Q0117/Q011721/README.de.md) A Cheat Sheet for Dual Native Mobile Development
+- [Q011856](../berichte/Q01/Q0118/Q011856/README.de.md) What We’re Reading: The Mid-Year Reset
+- [Q010846](../berichte/Q01/Q0108/Q010846/README.de.md) Google Cloud Bigtable with Next.js
+- [Q010845](../berichte/Q01/Q0108/Q010845/README.de.md) Deploying Web Application with AWS App Runner
+- [Q011855](../berichte/Q01/Q0118/Q011855/README.de.md) What We’re Reading: How to get better at taking time off
+- [Q010844](../berichte/Q01/Q0108/Q010844/README.de.md) Convert a Next.js App to a Progressive Web App
+- [Q011584](../berichte/Q01/Q0115/Q011584/README.de.md) Stream Video Calling: How To Build FaceTime Clone With SwiftUI
+- [Q011720](../berichte/Q01/Q0117/Q011720/README.de.md) How Anyone Can Turn a Website into an App
+- [Q011854](../berichte/Q01/Q0118/Q011854/README.de.md) What We’re Reading: What are you waiting for?
+- [Q010842](../berichte/Q01/Q0108/Q010842/README.de.md) Frontal/Profile Face Detection in Python
+- [Q011719](../berichte/Q01/Q0117/Q011719/README.de.md) Create Your Own One Question Survey Using SwiftUI and AirTable
+- [Q011853](../berichte/Q01/Q0118/Q011853/README.de.md) What We’re Reading: The freedom to read
+- [Q010841](../berichte/Q01/Q0108/Q010841/README.de.md) Custom Face Recognition in Python
+- [Q011852](../berichte/Q01/Q0118/Q011852/README.de.md) What We’re Reading: Debating Barbie and Oppenheimer’s cultural imprint
+- [Q010840](../berichte/Q01/Q0108/Q010840/README.de.md) System Prompting ChatGPT
+- [Q011133](../berichte/Q01/Q0111/Q011133/README.de.md) ChatGPT and Gen AI for 3D Content Creation
+- [Q011851](../berichte/Q01/Q0118/Q011851/README.de.md) What We’re Reading: Medium Day is officially one week away. You ready?
+- [Q010839](../berichte/Q01/Q0108/Q010839/README.de.md) A Detail Guide to AWS Lambda
+- [Q011718](../berichte/Q01/Q0117/Q011718/README.de.md) An Easy To Build First App Using SwiftUI
+- [Q010836](../berichte/Q01/Q0108/Q010836/README.de.md) Authenticate Service Account in Rust with JWT(JSON Web Tokens)
+- [Q010837](../berichte/Q01/Q0108/Q010837/README.de.md) Dynamo DB with Next.js
+- [Q011717](../berichte/Q01/Q0117/Q011717/README.de.md) Basics of Jetpack Compose
+- [Q011850](../berichte/Q01/Q0118/Q011850/README.de.md) What We’re Reading: Medium Day is Saturday, August 12. Join us
+- [Q011583](../berichte/Q01/Q0115/Q011583/README.de.md) Using AutoMod: Integrate Automated Content Moderation to Safe Guard Users
+- [Q010835](../berichte/Q01/Q0108/Q010835/README.de.md) POST file using multipart/form-data in Rust
+- [Q011716](../berichte/Q01/Q0117/Q011716/README.de.md) An Easy To Build First App Using Jetpack Compose
+- [Q011849](../berichte/Q01/Q0118/Q011849/README.de.md) How Julio Vincent Gambuto joined Medium, went viral, and wound up with a book deal
+- [Q011846](../berichte/Q01/Q0118/Q011846/README.de.md) What We’re Reading: The problem with hashtags
+- [Q011847](../berichte/Q01/Q0118/Q011847/README.de.md) A huge thank you to everyone who showed up for Medium Day
+- [Q011848](../berichte/Q01/Q0118/Q011848/README.de.md) Reading fiction makes us better people
+- [Q011715](../berichte/Q01/Q0117/Q011715/README.de.md) Resources to Learn Mobile Development
+- [Q010834](../berichte/Q01/Q0108/Q010834/README.de.md) Automatic deployment of docker image based lambda function using AWS CodePipeline
+- [Q010833](../berichte/Q01/Q0108/Q010833/README.de.md) Periodic Invocation of Lambda Function with CloudWatch
+- [Q011714](../berichte/Q01/Q0117/Q011714/README.de.md) How To Add Search to Your SwiftUI App
+- [Q011845](../berichte/Q01/Q0118/Q011845/README.de.md) What We’re Reading: More money, more problems?
+- [Q010832](../berichte/Q01/Q0108/Q010832/README.de.md) Detail Guide to Serialization and deserialization with Serde in Rust
+- [Q011132](../berichte/Q01/Q0111/Q011132/README.de.md) How AI-Generated 3D Models are Transforming 3D Pipelines
+- [Q011844](../berichte/Q01/Q0118/Q011844/README.de.md) What We’re Reading: What makes you happy?
+- [Q010831](../berichte/Q01/Q0108/Q010831/README.de.md) Detail Guide to Modal Presentation in Swift Storyboard
+- [Q010830](../berichte/Q01/Q0108/Q010830/README.de.md) TableView with Dynamic Height in Swift
+- [Q011843](../berichte/Q01/Q0118/Q011843/README.de.md) What We’re Reading: When you talk about AI, context matters
+- [Q010829](../berichte/Q01/Q0108/Q010829/README.de.md) Custom Activity Indicator in Swift/IOS
+- [Q010828](../berichte/Q01/Q0108/Q010828/README.de.md) DropDown Menu in Swift
+- [Q011842](../berichte/Q01/Q0118/Q011842/README.de.md) What We’re Reading: Heritage and history
+- [Q011841](../berichte/Q01/Q0118/Q011841/README.de.md) How one psychology professor uses Medium to share complex research and ideas with a broad audience
+- [Q010827](../berichte/Q01/Q0108/Q010827/README.de.md) Detail Guide to IOS Push Notification with Google Firebase Cloud Messaging(FCM)
+- [Q011840](../berichte/Q01/Q0118/Q011840/README.de.md) What We’re Reading: What’s the most useful feedback you’ve ever received?
+- [Q010826](../berichte/Q01/Q0108/Q010826/README.de.md) Infinite/Endless Scrolling Background in Swift/SpriteKit
+- [Q011131](../berichte/Q01/Q0111/Q011131/README.de.md) What Industry Leaders and 3D Developers Are Saying About OpenUSD
+- [Q010825](../berichte/Q01/Q0108/Q010825/README.de.md) Localization in iOS/Swift
+- [Q011713](../berichte/Q01/Q0117/Q011713/README.de.md) Adding Pull To Refresh to SwiftUI Views
+- [Q011712](../berichte/Q01/Q0117/Q011712/README.de.md) How to Decide When to Drop Support for Older Versions of iOS
+- [Q010824](../berichte/Q01/Q0108/Q010824/README.de.md) PostgreSQL with Next.js and Prisma
+- [Q011711](../berichte/Q01/Q0117/Q011711/README.de.md) Making a Performant Paged TabView
+- [Q010823](../berichte/Q01/Q0108/Q010823/README.de.md) IOS/Swift: Simulate 2D Object Physics with Device Motion
+- [Q010822](../berichte/Q01/Q0108/Q010822/README.de.md) Gesture Recognizers in SwiftUI
+- [Q011710](../berichte/Q01/Q0117/Q011710/README.de.md) Swift Vapor — Working with Custom IDs
+- [Q011709](../berichte/Q01/Q0117/Q011709/README.de.md) Swift Vapor — Add an Edit Endpoint to your API
+- [Q011839](../berichte/Q01/Q0118/Q011839/README.de.md) How one biology professor uses Medium to reach a broad audience with his research and ideas
+- [Q011708](../berichte/Q01/Q0117/Q011708/README.de.md) Swift Vapor — Add a Delete Endpoint to your API
+- [Q010821](../berichte/Q01/Q0108/Q010821/README.de.md) Custom Side Menu in iOS Swift/Storyboard
+- [Q010819](../berichte/Q01/Q0108/Q010819/README.de.md) iOS/Swift: Handle 3D Gestures with ARKit & RealityKit
+- [Q010820](../berichte/Q01/Q0108/Q010820/README.de.md) iOS/Swift: RealityKit - Component Entity System
+- [Q011707](../berichte/Q01/Q0117/Q011707/README.de.md) Swift Vapor — Add a Post Endpoint to your API
+- [Q011706](../berichte/Q01/Q0117/Q011706/README.de.md) Create a Custom View Modifier in SwiftUI
+- [Q011705](../berichte/Q01/Q0117/Q011705/README.de.md) Swift Enums: Everything you Wanted to Know but Were Afraid to Ask
+- [Q010818](../berichte/Q01/Q0108/Q010818/README.de.md) iOS/Swift: (Super Detailed) Guide to Unit Tests and UITests
+- [Q011469](../berichte/Q01/Q0114/Q011469/README.de.md) Revolutionizing Image Annotation: Making It Simpler Than Ever
+- [Q011704](../berichte/Q01/Q0117/Q011704/README.de.md) Running a Migration in Vapor
+- [Q011468](../berichte/Q01/Q0114/Q011468/README.de.md) Fun Addition To Your Wedding: Your Guests Will Love This!
+- [Q011703](../berichte/Q01/Q0117/Q011703/README.de.md) SwiftUI: Format Dates and Times the Easy Way
+- [Q011702](../berichte/Q01/Q0117/Q011702/README.de.md) SwiftUI: Format Currency the Easy Way
+- [Q011701](../berichte/Q01/Q0117/Q011701/README.de.md) SwiftUI: Format Percent the Easy Way
+- [Q010817](../berichte/Q01/Q0108/Q010817/README.de.md) iOS/Swift: Properties deprecation after iOS 14 and UIListContentConfiguration
+- [Q011700](../berichte/Q01/Q0117/Q011700/README.de.md) Intro to Git: How I Use Git Every Day as a Developer
+- [Q011699](../berichte/Q01/Q0116/Q011699/README.de.md) Swift Measurement API
+- [Q010816](../berichte/Q01/Q0108/Q010816/README.de.md) iOS/Swift: Expandable TableView Cell
+- [Q010814](../berichte/Q01/Q0108/Q010814/README.de.md) iOS/Swift: Custom Popup Alerts and Navigation within Popups
+- [Q010815](../berichte/Q01/Q0108/Q010815/README.de.md) iOS/Swift: File Download, Preview, Share and Save
+- [Q010813](../berichte/Q01/Q0108/Q010813/README.de.md) Start Up Guide to Amazon Personalize
+- [Q011698](../berichte/Q01/Q0116/Q011698/README.de.md) SwiftUI: Displaying a Photo Picker
+- [Q010812](../berichte/Q01/Q0108/Q010812/README.de.md) Create and Invoke SageMaker Endpoint from Pre-trained Tensorflow Model
+- [Q011467](../berichte/Q01/Q0114/Q011467/README.de.md) 5 Best Image Annotation Tools for Object Detection
+- [Q011697](../berichte/Q01/Q0116/Q011697/README.de.md) SwiftUI Alert
+- [Q011130](../berichte/Q01/Q0111/Q011130/README.de.md) From Virtual to Reality: How Synthetic Data Will Train Smarter Robots for Industrial Applications
+- [Q011696](../berichte/Q01/Q0116/Q011696/README.de.md) Jetpack Compose: Display a Photo Picker
+- [Q010811](../berichte/Q01/Q0108/Q010811/README.de.md) Visualize Multiple DynamoDB Tables with QuickSight
+- [Q011695](../berichte/Q01/Q0116/Q011695/README.de.md) SwiftUI List Tutorial: Grow from Beginner to Advanced
+- [Q010810](../berichte/Q01/Q0108/Q010810/README.de.md) Connect QuickSight with RDS in Private Subnet
+- [Q011694](../berichte/Q01/Q0116/Q011694/README.de.md) SwiftUI TabView: The Easy Way
+- [Q011612](../berichte/Q01/Q0116/Q011612/README.de.md) SwiftUI Metal Shader Tutorials + Replacement from GLSL to MSL
+- [Q011693](../berichte/Q01/Q0116/Q011693/README.de.md) Jetpack Compose Bottom Navigation Bar
+- [Q010809](../berichte/Q01/Q0108/Q010809/README.de.md) Chrome Extension: Get User’s Access Token and Perform Google API Requests
+- [Q011692](../berichte/Q01/Q0116/Q011692/README.de.md) SwiftUI Add a Share Button to Your App
+- [Q010808](../berichte/Q01/Q0108/Q010808/README.de.md) Continuous Migration from PostgreSQL on Amazon EC2 to RDS
+- [Q011580](../berichte/Q01/Q0115/Q011580/README.de.md) How To Test Alert Notifications With an iOS Simulator
+- [Q011691](../berichte/Q01/Q0116/Q011691/README.de.md) Jetpack Compose Add a Share Button to your App
+- [Q011690](../berichte/Q01/Q0116/Q011690/README.de.md) Gestures in SwiftUI
+- [Q011689](../berichte/Q01/Q0116/Q011689/README.de.md) Gestures in Jetpack Compose
+- [Q011688](../berichte/Q01/Q0116/Q011688/README.de.md) SwiftUI Charts — Improving the Medium Stats Chart
+- [Q010807](../berichte/Q01/Q0108/Q010807/README.de.md) AWS QuickSight: Embedding Dashboards in Next.js
+- [Q011687](../berichte/Q01/Q0116/Q011687/README.de.md) Easily Change the Language of the Simulator to Test Your App
+- [Q010806](../berichte/Q01/Q0108/Q010806/README.de.md) AWS QuickSight: Handle Array Data Type
+- [Q011686](../berichte/Q01/Q0116/Q011686/README.de.md) Format Names in SwiftUI
+- [Q010805](../berichte/Q01/Q0108/Q010805/README.de.md) Access an Amazon RDS Database Using Lambda function (Python)
+- [Q011685](../berichte/Q01/Q0116/Q011685/README.de.md) NavigationStack in SwiftUI
+- [Q010804](../berichte/Q01/Q0108/Q010804/README.de.md) Amazon SQS Triggered AWS Lambda: Console and CDK
+- [Q011684](../berichte/Q01/Q0116/Q011684/README.de.md) SwiftUI NavigationSplitView
+- [Q011837](../berichte/Q01/Q0118/Q011837/README.de.md) It happened on Medium: November 2023 roundup
+- [Q011413](../berichte/Q01/Q0114/Q011413/README.de.md) OpenGL ES 3 + Android
+- [Q011414](../berichte/Q01/Q0114/Q011414/README.de.md) Getting Started with OpenGL ES in Android
+- [Q011415](../berichte/Q01/Q0114/Q011415/README.de.md) Shading the Canvas: A Beginner’s Guide to Vertex and Fragment Shaders
+- [Q011416](../berichte/Q01/Q0114/Q011416/README.de.md) Finding Your Way in OpenGL: A Beginner’s Guide to Coordinates
+- [Q010802](../berichte/Q01/Q0108/Q010802/README.de.md) Amazon QuickSight: Combining and Visualizing Multiple RDS Databases All at Once
+- [Q010803](../berichte/Q01/Q0108/Q010803/README.de.md) Integrate AWS Lake Formation with Amazon RDS
+- [Q011683](../berichte/Q01/Q0116/Q011683/README.de.md) Intro to SwiftData using SwiftUI
+- [Q011682](../berichte/Q01/Q0116/Q011682/README.de.md) Intro to CoreData using SwiftUI
+- [Q010801](../berichte/Q01/Q0108/Q010801/README.de.md) IOS/Swift: WebView: Javascript Injection, Pop ups, New Tabs, User Agent, and Cookies
+- [Q011681](../berichte/Q01/Q0116/Q011681/README.de.md) Intro to Room using Jetpack Compose
+- [Q010800](../berichte/Q01/Q0108/Q010800/README.de.md) Horizontal scrollable buttons (tabs) with Indicators
+- [Q011680](../berichte/Q01/Q0116/Q011680/README.de.md) Formatting Numbers in SwiftUI
+- [Q011412](../berichte/Q01/Q0114/Q011412/README.de.md) Moving Dots: A Beginner’s Guide to Animated Points from Stillness to Motion
+- [Q011679](../berichte/Q01/Q0116/Q011679/README.de.md) Getting Started with Instruments
+- [Q010799](../berichte/Q01/Q0107/Q010799/README.de.md) Query Amazon S3 Data with Amazon Athena and AWS Glue
+- [Q011678](../berichte/Q01/Q0116/Q011678/README.de.md) Solving SwiftUI Performance Issues with the Instruments App
+- [Q010798](../berichte/Q01/Q0107/Q010798/README.de.md) Create Amazon ECS Cluster, Task Definition, Service and Scheduled Task using AWS CDK(Python)
+- [Q010797](../berichte/Q01/Q0107/Q010797/README.de.md) Run ECS Tasks through Lambda with different commands based on Messages from SQS (CDK/Python)
+- [Q011677](../berichte/Q01/Q0116/Q011677/README.de.md) Using Swift Signpost to Measure Performance of a Specific Function
+- [Q010796](../berichte/Q01/Q0107/Q010796/README.de.md) Set up AWS Glue and Amazon S3 Pipeline using CDK
+- [Q010795](../berichte/Q01/Q0107/Q010795/README.de.md) LlamaIndex with Structured Data (RDS and S3): An alternative to QuickSight Q?
+- [Q011676](../berichte/Q01/Q0116/Q011676/README.de.md) How to Learn Swift from Apple
+- [Q011675](../berichte/Q01/Q0116/Q011675/README.de.md) Using SwiftData to Store Data from a Remote API
+- [Q010794](../berichte/Q01/Q0107/Q010794/README.de.md) AWS: Create QuickSight Datasource, Dataset, Analysis and Dashboard using CDK
+- [Q011674](../berichte/Q01/Q0116/Q011674/README.de.md) Using SwiftData to Store Large Files from an API call
+- [Q011836](../berichte/Q01/Q0118/Q011836/README.de.md) It happened on Medium: December 2023 roundup
+- [Q010793](../berichte/Q01/Q0107/Q010793/README.de.md) Amazon QuickSight: Create Controls(Filters) Apply to all Sheets Using Parameter
+- [Q010792](../berichte/Q01/Q0107/Q010792/README.de.md) Rust: Take Our CLI to the Next Level with Clap
+- [Q011466](../berichte/Q01/Q0114/Q011466/README.de.md) A Leap into the Future: How a New CAPTCHA Idea Could Revolutionize 3D Animation
+- [Q011579](../berichte/Q01/Q0115/Q011579/README.de.md) Building Your First Android and iOS App With React Native CLI
+- [Q010791](../berichte/Q01/Q0107/Q010791/README.de.md) Rust: Read, Write, and Modify .toml Files — Another way to handle User Set Environment Variables
+- [Q010790](../berichte/Q01/Q0107/Q010790/README.de.md) IOS/Swift: Remove/Change UIButton Paddings
+- [Q011129](../berichte/Q01/Q0111/Q011129/README.de.md) 3 Ways to Enhance Architectural Design With OpenUSD and AI
+- [Q011577](../berichte/Q01/Q0115/Q011577/README.de.md) Build a React Native Livestreaming App: A Step-by-Step Guide
+- [Q011578](../berichte/Q01/Q0115/Q011578/README.de.md) Build a Great React Native Video Calling App
+- [Q010789](../berichte/Q01/Q0107/Q010789/README.de.md) Upload/Download Files to/from Amazon S3 through API Gateway (Console & CDK)
+- [Q010788](../berichte/Q01/Q0107/Q010788/README.de.md) Swift/VisionOS: Start Up Guide to Windows and Events
+- [Q010786](../berichte/Q01/Q0107/Q010786/README.de.md) Read file from S3: CloudFront (Console & CDK)
+- [Q010784](../berichte/Q01/Q0107/Q010784/README.de.md) AWS: Invalidate CloudFront Cache on S3 Upload
+- [Q010782](../berichte/Q01/Q0107/Q010782/README.de.md) AWS: Create Feature Flag with AppConfig (Console)
+- [Q010783](../berichte/Q01/Q0107/Q010783/README.de.md) AWS: Retrieve AppConfig Feature Flag using Lambda
+- [Q010781](../berichte/Q01/Q0107/Q010781/README.de.md) Android/Kotlin/Jetpack Compose: Expandable List
+- [Q011491](../berichte/Q01/Q0114/Q011491/README.de.md) NavigationStack in SwiftUI: Part 1
+- [Q010780](../berichte/Q01/Q0107/Q010780/README.de.md) AWS: Are you going to pay extra staring February? Public IP Insights
+- [Q010778](../berichte/Q01/Q0107/Q010778/README.de.md) Android/Kotlin/Jetpack Compose: Popup Window
+- [Q010779](../berichte/Q01/Q0107/Q010779/README.de.md) Android/Kotlin/Jetpack Compose: Dropdown Selectable List/Menu
+- [Q010777](../berichte/Q01/Q0107/Q010777/README.de.md) Android/Kotlin/Jetpack Compose: Navigation
+- [Q010776](../berichte/Q01/Q0107/Q010776/README.de.md) Android/Kotlin/Jetpack Compose: Popup with Navigation
+- [Q010775](../berichte/Q01/Q0107/Q010775/README.de.md) Android/Kotlin/Jetpack Compose: Absolute Positioned Components (Full Screen and Popup)
+- [Q011835](../berichte/Q01/Q0118/Q011835/README.de.md) It happened on Medium: January 2024 roundup
+- [Q010773](../berichte/Q01/Q0107/Q010773/README.de.md) Android/Kotlin/Jetpack Compose: Avoid Auto-Resizing on Re-compose
+- [Q010774](../berichte/Q01/Q0107/Q010774/README.de.md) AWS: Private API with API Gateway
+- [Q010771](../berichte/Q01/Q0107/Q010771/README.de.md) Android/Kotlin/Jetpack Compose: File Sharing using FileProvider and Android ShareSheet
+- [Q010769](../berichte/Q01/Q0107/Q010769/README.de.md) Android/Kotlin/Jetpack Compose: Divider Width based of Other Contents
+- [Q010770](../berichte/Q01/Q0107/Q010770/README.de.md) Android/Kotlin/Jetpack Compose: Bottom Thing Bottom
+- [Q010768](../berichte/Q01/Q0107/Q010768/README.de.md) Android/Kotlin/Jetpack Compose: Customizing TextField (for an iOS-ish look)
+- [Q010767](../berichte/Q01/Q0107/Q010767/README.de.md) Android/Kotlin/Jetpack Compose: ViewModel Pitfall: Not Recomposing on State Variable Change
+- [Q010766](../berichte/Q01/Q0107/Q010766/README.de.md) iOS/Swift: ScrollViews(TableViews and CollectionViews) in TableViewCells with Dynamic Height
+- [Q010765](../berichte/Q01/Q0107/Q010765/README.de.md) iOS/Swift: Make Horizontally Scrollable HTML-like Table Dynamically Using UITableView and…
+- [Q011673](../berichte/Q01/Q0116/Q011673/README.de.md) Building an Onboarding Flow with SwiftData
+- [Q010764](../berichte/Q01/Q0107/Q010764/README.de.md) Kotlin Error Handling: Try-Catch, RunCatching, and Custom Exceptions
+- [Q010763](../berichte/Q01/Q0107/Q010763/README.de.md) Android/Kotlin/Jetpack Compose: Customized Pull down to Refresh + Pull up to Load More
+- [Q010762](../berichte/Q01/Q0107/Q010762/README.de.md) Swift/iOS/AWS: Connect iOS to AWS IoT
+- [Q010761](../berichte/Q01/Q0107/Q010761/README.de.md) Android/Kotlin/JetpackCompose: Customizing NavigationDrawer (Side Menu)
+- [Q010759](../berichte/Q01/Q0107/Q010759/README.de.md) AWS IoT Triggered Lambda: Console &CDK
+- [Q010760](../berichte/Q01/Q0107/Q010760/README.de.md) Android/Ktolin/JetpackCompose: Custom Scrollable Tab Bar
+- [Q010757](../berichte/Q01/Q0107/Q010757/README.de.md) Android/Kotlin/Jetpack Compose: Make Your Nested WebView Scroll
+- [Q010758](../berichte/Q01/Q0107/Q010758/README.de.md) Apple: Detail Guide to Publish an App using App Store Connect
+- [Q010756](../berichte/Q01/Q0107/Q010756/README.de.md) Android/Kotlin/Jetpack Compose: Handle Push Notifications — Pass Data, Navigate to a Specific…
+- [Q011672](../berichte/Q01/Q0116/Q011672/README.de.md) Using Apple’s OpenAPI Generator to Make and Mock Network Calls in SwiftUI
+- [Q010755](../berichte/Q01/Q0107/Q010755/README.de.md) Android/Kotlin/Jetpack Compose: Customize Clickables and Ripples
+- [Q011834](../berichte/Q01/Q0118/Q011834/README.de.md) It happened on Medium: February 2024 roundup
+- [Q010753](../berichte/Q01/Q0107/Q010753/README.de.md) Jetpack Compose Version of NavigationController.pushViewController:
+- [Q010754](../berichte/Q01/Q0107/Q010754/README.de.md) Android/Kotlin/Jetpack Compose: Observe App Lifecycle (Here is your SceneDelegate)
+- [Q010752](../berichte/Q01/Q0107/Q010752/README.de.md) Swift/VisionOS: Handling Multiple Windows
+- [Q011671](../berichte/Q01/Q0116/Q011671/README.de.md) Test iOS Apps with Limited or No Network Connectivity
+- [Q010751](../berichte/Q01/Q0107/Q010751/README.de.md) Swift/IOS: Change UIButton Background Color
+- [Q010750](../berichte/Q01/Q0107/Q010750/README.de.md) AWS: RAG with Bedrock Knowledge Base
+- [Q010748](../berichte/Q01/Q0107/Q010748/README.de.md) Android/Kotlin/Jetpack Compose: Using Proto DataStore
+- [Q010749](../berichte/Q01/Q0107/Q010749/README.de.md) AWS: Integrate Bedrock Knowledge Base (AWS SDK & LangChain)
+- [Q010747](../berichte/Q01/Q0107/Q010747/README.de.md) Android/Kotlin/Jetpack Compose: Intercepting and Disabling Back Press & Back Gesture
+- [Q010746](../berichte/Q01/Q0107/Q010746/README.de.md) AWS API Gateway: Set Up Custom Domain Names
+- [Q010745](../berichte/Q01/Q0107/Q010745/README.de.md) AWS: Control API Gateway Access Using WAF
+- [Q011571](../berichte/Q01/Q0115/Q011571/README.de.md) Build Realistic Particle Effects for visionOS
+- [Q010744](../berichte/Q01/Q0107/Q010744/README.de.md) Publish An Android App (Part 1): Prepare and Sign Your App
+- [Q011465](../berichte/Q01/Q0114/Q011465/README.de.md) The Quirky Way I Slashed My Social Media Usage by 80%
+- [Q010743](../berichte/Q01/Q0107/Q010743/README.de.md) An Image-To-Speech Pipeline For A Visual Assistant
+- [Q011670](../berichte/Q01/Q0116/Q011670/README.de.md) React Native vs Dual Native: I Learned Both So You Don’t Have To
+- [Q010742](../berichte/Q01/Q0107/Q010742/README.de.md) AWS: Cross Account Resource Access
+- [Q010741](../berichte/Q01/Q0107/Q010741/README.de.md) AWS CDK: Working with Multiple Stacks (Typescript)
+- [Q010737](../berichte/Q01/Q0107/Q010737/README.de.md) Android/Kotlin/Jetpack Compose: iOS-ish Navigation Animation
+- [Q010738](../berichte/Q01/Q0107/Q010738/README.de.md) Swift/iOS: Vertically Centered and Scrollable UILabel
+- [Q010740](../berichte/Q01/Q0107/Q010740/README.de.md) Deploy Next.Js App as Docker Container on AWS AppRunner using CDK
+- [Q010735](../berichte/Q01/Q0107/Q010735/README.de.md) SwiftUI: Keep ScrollView Position When Adding On Top
+- [Q010736](../berichte/Q01/Q0107/Q010736/README.de.md) SwiftUI: Mastering List (Programmatically scroll, Set initial Visible Item, Check if an Item is…
+- [Q011464](../berichte/Q01/Q0114/Q011464/README.de.md) 5 Best Apps to Limit Social Media Time
+- [Q010734](../berichte/Q01/Q0107/Q010734/README.de.md) SwiftUI: Vertically Scrollable Calendar (NOT using UICalendarView)
+- [Q011669](../berichte/Q01/Q0116/Q011669/README.de.md) Level Up Your Career by Adding UI Tests to Your SwiftUI App
+- [Q010733](../berichte/Q01/Q0107/Q010733/README.de.md) SwiftUI: Dismiss View Programmatically 3 (With and Without NavigationStack)
+- [Q011668](../berichte/Q01/Q0116/Q011668/README.de.md) Passing One SwiftUI View as a Parameter to Another SwiftUI View
+- [Q010732](../berichte/Q01/Q0107/Q010732/README.de.md) Rust+APIGateway+Lambda+Dynamo+CDK: Another All In One Serverless Backend Option
+- [Q010729](../berichte/Q01/Q0107/Q010729/README.de.md) Dialog (This is also how you can add Custom View Transition Animation!)
+- [Q010730](../berichte/Q01/Q0107/Q010730/README.de.md) SwiftUI: Paged Tab Bar
+- [Q010731](../berichte/Q01/Q0107/Q010731/README.de.md) Publish An Android App (Part 2): Play Store Configuration and Send for Review
+- [Q010728](../berichte/Q01/Q0107/Q010728/README.de.md) SwiftUI: Custom View Transition(Nav With Matched Geometry
+- [Q011667](../berichte/Q01/Q0116/Q011667/README.de.md) Web View in SwiftUI
+- [Q010727](../berichte/Q01/Q0107/Q010727/README.de.md) Swift: Working with Date! This Is All We Need To Know!
+- [Q011570](../berichte/Q01/Q0115/Q011570/README.de.md) Build a Cross-Platform Messaging App with React Native Expo
+- [Q010725](../berichte/Q01/Q0107/Q010725/README.de.md) SwiftUI: Custom Spinning Loader
+- [Q010726](../berichte/Q01/Q0107/Q010726/README.de.md) SwiftUI: Slide To Unlock Button
+- [Q011569](../berichte/Q01/Q0115/Q011569/README.de.md) Creating and Styling visionOS Buttons
+- [Q010723](../berichte/Q01/Q0107/Q010723/README.de.md) SwiftUI: Custom CollectionView
+- [Q010724](../berichte/Q01/Q0107/Q010724/README.de.md) SwiftUI: Dropdown Menu 3 ways (Picker, Menu, and Custom from Scratch!)
+- [Q011666](../berichte/Q01/Q0116/Q011666/README.de.md) Making Your Custom Font Support Dynamic Font Sizes
+- [Q010722](../berichte/Q01/Q0107/Q010722/README.de.md) SwiftUI: Intercepting Sheet Dismiss
+- [Q011665](../berichte/Q01/Q0116/Q011665/README.de.md) Using SF Symbols in Your App Designs
+- [Q010720](../berichte/Q01/Q0107/Q010720/README.de.md) AWS/Lambda: A Comparison between Different Runtimes
+- [Q010721](../berichte/Q01/Q0107/Q010721/README.de.md) Rust: Terminal Manipulation with Crossterm
+- [Q011463](../berichte/Q01/Q0114/Q011463/README.de.md) Creating a Custom Loading Animation in SwiftUI
+- [Q011833](../berichte/Q01/Q0118/Q011833/README.de.md) It happened on Medium: March 2024 roundup
+- [Q010717](../berichte/Q01/Q0107/Q010717/README.de.md) SwiftUI: Multi-Stage Animation
+- [Q010718](../berichte/Q01/Q0107/Q010718/README.de.md) SwiftUI: Reusable Custom Style 4 Ways!
+- [Q010716](../berichte/Q01/Q0107/Q010716/README.de.md) SwiftUI: Sound Effect 2 Ways
+- [Q011664](../berichte/Q01/Q0116/Q011664/README.de.md) Build a Chat App Using Stream and SwiftUI
+- [Q011568](../berichte/Q01/Q0115/Q011568/README.de.md) Build a Chat App with Node.js
+- [Q010715](../berichte/Q01/Q0107/Q010715/README.de.md) Android/Kotlin/Jetpack Compose: How to Solve This java.lang.RuntimeException:
+- [Q011127](../berichte/Q01/Q0111/Q011127/README.de.md) 6 Startups Redefining 3D Workflows with OpenUSD and Generative AI
+- [Q011663](../berichte/Q01/Q0116/Q011663/README.de.md) Navigation in Jetpack Compose
+- [Q010712](../berichte/Q01/Q0107/Q010712/README.de.md) Swift: Create Network Layer
+- [Q010713](../berichte/Q01/Q0107/Q010713/README.de.md) Rust: Working with Date and Time
+- [Q010714](../berichte/Q01/Q0107/Q010714/README.de.md) SwiftUI: LongPress Triggered Button
+- [Q010711](../berichte/Q01/Q0107/Q010711/README.de.md) SwiftUI: Set the App Icon Programmatically And Hide that Alert!
+- [Q011462](../berichte/Q01/Q0114/Q011462/README.de.md) How I Slashed My Social Media Addiction Overnight
+- [Q010710](../berichte/Q01/Q0107/Q010710/README.de.md) SwiftUI: Save And Share a View
+- [Q010708](../berichte/Q01/Q0107/Q010708/README.de.md) SwiftUI: Custom FullScreenSheet Transition Animation
+- [Q010709](../berichte/Q01/Q0107/Q010709/README.de.md) SwiftUI: Two Views Same Size 2 Ways
+- [Q011662](../berichte/Q01/Q0116/Q011662/README.de.md) Dice Challenge in SwiftUI
+- [Q011661](../berichte/Q01/Q0116/Q011661/README.de.md) Dice Challenge in Jetpack Compose
+- [Q011461](../berichte/Q01/Q0114/Q011461/README.de.md) SwiftUI Tutorials: Designing a Dynamic Confetti Effect
+- [Q011660](../berichte/Q01/Q0116/Q011660/README.de.md) Dice Challenge in Flutter
+- [Q010707](../berichte/Q01/Q0107/Q010707/README.de.md) Accessibility for Custom DropDown Menu(HTML/JavaScript): Keyboard Control
+- [Q010705](../berichte/Q01/Q0107/Q010705/README.de.md) SwiftUI: Rotation Effect and Orbit Animation 2D
+- [Q010706](../berichte/Q01/Q0107/Q010706/README.de.md) SwiftUI: Custom Wheel Picker
+- [Q010704](../berichte/Q01/Q0107/Q010704/README.de.md) Swift: Streaming OpenAI API Response (Chunked Encoding Transfer)
+- [Q010703](../berichte/Q01/Q0107/Q010703/README.de.md) Streaming in Rust
+- [Q010702](../berichte/Q01/Q0107/Q010702/README.de.md) Send a Message to Slack Using AWS Lambda
+- [Q011659](../berichte/Q01/Q0116/Q011659/README.de.md) Programmatically Hide Navigation in SwiftUI
+- [Q010701](../berichte/Q01/Q0107/Q010701/README.de.md) SwiftUI: Implement Drag to Select for Scrollable LazyVGrid
+- [Q011658](../berichte/Q01/Q0116/Q011658/README.de.md) Level Up Your Career by Adding UI Tests to Your Jetpack Compose App
+- [Q010700](../berichte/Q01/Q0107/Q010700/README.de.md) New Relic for Monitoring AWS: Lambda Metrics & CloudWatch Logs
+- [Q011832](../berichte/Q01/Q0118/Q011832/README.de.md) It happened on Medium: April 2024 roundup
+- [Q010698](../berichte/Q01/Q0106/Q010698/README.de.md) Swift/iOS/Firebase: Handle Multiple GoogleService-Info
+- [Q010699](../berichte/Q01/Q0106/Q010699/README.de.md) Swift: Manage Different Configurations Two Ways (Enum as Namespace & User-Defined Build Setting)
+- [Q010697](../berichte/Q01/Q0106/Q010697/README.de.md) SwiftUI: Symbol Animation
+- [Q010696](../berichte/Q01/Q0106/Q010696/README.de.md) SwiftUI: Camera App with AVFoundation
+- [Q010695](../berichte/Q01/Q0106/Q010695/README.de.md) New Relic: Send Alert Notification to Slack
+- [Q011657](../berichte/Q01/Q0116/Q011657/README.de.md) Difference Between try, try? and try! and When to Use Them in Swift
+- [Q010694](../berichte/Q01/Q0106/Q010694/README.de.md) Rust: Execute Multiple Async Simultaneously: Multithreading vs Futures
+- [Q011656](../berichte/Q01/Q0116/Q011656/README.de.md) Add a Badge to Your App Icon in SwiftUI
+- [Q010692](../berichte/Q01/Q0106/Q010692/README.de.md) Swift: Continuation, Convert Completion Handlers/Callback into async & async throws, Prevent…
+- [Q010693](../berichte/Q01/Q0106/Q010693/README.de.md) SwiftUI: Photos Picker (Image, Movie, Single, Multiple, and Upside Down Pitfall!)
+- [Q011655](../berichte/Q01/Q0116/Q011655/README.de.md) Your Complete Guide to Push Notifications in SwiftUI
+- [Q010691](../berichte/Q01/Q0106/Q010691/README.de.md) Reset.css and (Entirely Personal!) Recommendations for 2024
+- [Q010690](../berichte/Q01/Q0106/Q010690/README.de.md) AWS: Back up DynamoDB with AWS Backup (Console & CDK)
+- [Q010689](../berichte/Q01/Q0106/Q010689/README.de.md) Android/Kotlin/Jetpack Compose: Screen Size 2 ways and fillMaxSize pitfall!
+- [Q011611](../berichte/Q01/Q0116/Q011611/README.de.md) Step to the future of fashion with AR-based virtual clothes try-on application
+- [Q011654](../berichte/Q01/Q0116/Q011654/README.de.md) Adding a Bottom Sheet or Partial Modal in SwiftUI
+- [Q010686](../berichte/Q01/Q0106/Q010686/README.de.md) SwiftUI: Photos App Copy Cat and Deep Dive into PhotoKit (Part 3: Modify Assets)
+- [Q010687](../berichte/Q01/Q0106/Q010687/README.de.md) SwiftUI: Photos App Copy Cat and Deep Dive into PhotoKit (Part 2: Display , Create and Delete…
+- [Q010688](../berichte/Q01/Q0106/Q010688/README.de.md) SwiftUI: Photos App Copy Cat and Deep Dive into PhotoKit (Part 1: Fetch Assets and Display…
+- [Q010685](../berichte/Q01/Q0106/Q010685/README.de.md) SwiftUI: Infinite Scrolling Slideshow/Image Carousel (The Easy Way!)
+- [Q010684](../berichte/Q01/Q0106/Q010684/README.de.md) Android/JetpackCompose: Component Sizing, Layout and Two Views Same Size 2 Ways
+- [Q010682](../berichte/Q01/Q0106/Q010682/README.de.md) Jetpack Compose: Responsive UI Two Ways
+- [Q010683](../berichte/Q01/Q0106/Q010683/README.de.md) SwiftUI: Manage View State and Force a Screen Refresh/Reload
+- [Q010681](../berichte/Q01/Q0106/Q010681/README.de.md) Android/Kotlin/Jetpack Compose: Save File/Documents to Files App and Solve item can’t be saved…
+- [Q011831](../berichte/Q01/Q0118/Q011831/README.de.md) Perspectives on Pride
+- [Q010679](../berichte/Q01/Q0106/Q010679/README.de.md) SwiftUI: Working with gif (Display Not Using Webview, Change Playback Speed, Edit, and Save)!
+- [Q010680](../berichte/Q01/Q0106/Q010680/README.de.md) Swift/iOS: Save to Files App
+- [Q010678](../berichte/Q01/Q0106/Q010678/README.de.md) SwiftUI: Read/Write NFC Tags with Custom JSON Payload
+- [Q011830](../berichte/Q01/Q0118/Q011830/README.de.md) It Happened on Medium: May 2024 roundup
+- [Q010677](../berichte/Q01/Q0106/Q010677/README.de.md) SwiftUI: Little Twists for NavigationTransition Introduced in WWDC 2024 (What works and what does…
+- [Q011653](../berichte/Q01/Q0116/Q011653/README.de.md) New Text Formatters in iOS 18
+- [Q010676](../berichte/Q01/Q0106/Q010676/README.de.md) GCP: Obtain JWT OAuth tokens for Service Account
+- [Q011651](../berichte/Q01/Q0116/Q011651/README.de.md) Get Your App Icon Ready for iOS 18
+- [Q011652](../berichte/Q01/Q0116/Q011652/README.de.md) Getting Started with Swift Testing in iOS 18 and Xcode 16
+- [Q010674](../berichte/Q01/Q0106/Q010674/README.de.md) SwiftUI : Drag and Drop List And Across Pages With Custom Transferable
+- [Q010675](../berichte/Q01/Q0106/Q010675/README.de.md) Android/Kotlin: Get File Extension and android.webkit.MimeTypeMap Pitfall
+- [Q010671](../berichte/Q01/Q0106/Q010671/README.de.md) Send Email via Gmail API: Http Request Without Using Client Library
+- [Q011564](../berichte/Q01/Q0115/Q011564/README.de.md) How To Build a TikTok Clone With SwiftUI
+- [Q011614](../berichte/Q01/Q0116/Q011614/README.de.md) Implementing Server-Driven UI for iOS
+- [Q010670](../berichte/Q01/Q0106/Q010670/README.de.md) SwiftUI: Add App Delegate/Scene Delegate and Pass Data to Views
+- [Q010668](../berichte/Q01/Q0106/Q010668/README.de.md) SwiftUI: NFC Tags Background Reading with Custom JSON Payload and Pass Data to Views
+- [Q010669](../berichte/Q01/Q0106/Q010669/README.de.md) Swift/iOS: File Import and Export 3 ways(Choose Destination Folder/FileName and Save to Files App)
+- [Q010666](../berichte/Q01/Q0106/Q010666/README.de.md) SwiftUI: Handle Universal Link (Show Specific View and Pass Data)
+- [Q010667](../berichte/Q01/Q0106/Q010667/README.de.md) SwiftUI ScrollView: Check Item Visibility and Load More If Needed
+- [Q010665](../berichte/Q01/Q0106/Q010665/README.de.md) SwiftUI: Horizontal ScrollView on Vertical Drag Gesture
+- [Q010663](../berichte/Q01/Q0106/Q010663/README.de.md) Aria-Label: When To Use it (Entirely Personal Opinion!)
+- [Q010662](../berichte/Q01/Q0106/Q010662/README.de.md) Rust: Implement Inheritance 3 Ways
+- [Q010659](../berichte/Q01/Q0106/Q010659/README.de.md) SwiftUI: Resizing, Rotating, Re-Positioning View Simultaneously 2 Ways
+- [Q010660](../berichte/Q01/Q0106/Q010660/README.de.md) SwiftUI: User Rotatable View 2 ways
+- [Q010661](../berichte/Q01/Q0106/Q010661/README.de.md) SwiftUI: User Resizable View 2 Ways
+- [Q011650](../berichte/Q01/Q0116/Q011650/README.de.md) Unit Testing with XCTest
+- [Q010657](../berichte/Q01/Q0106/Q010657/README.de.md) Rust: Handle (A tons of ) Optional Fields in Struct: Best Practice?
+- [Q010658](../berichte/Q01/Q0106/Q010658/README.de.md) Rust: Google Cloud Translation API
+- [Q010656](../berichte/Q01/Q0106/Q010656/README.de.md) SwiftUI: PlaceHolder Loading UI
+- [Q010654](../berichte/Q01/Q0106/Q010654/README.de.md) SwiftUI: Dynamically Add Images to View using Canvas and ZStack
+- [Q010655](../berichte/Q01/Q0106/Q010655/README.de.md) Use smtp4dev API for automate SMTP Email Server Testing
+- [Q011920](../berichte/Q01/Q0119/Q011920/README.de.md) Fake SMTP Email Server for Testing
+- [Q010652](../berichte/Q01/Q0106/Q010652/README.de.md) SwiftUI + SwiftData: Explained in Super Detail with A Todo Demo App!
+- [Q010653](../berichte/Q01/Q0106/Q010653/README.de.md) SwiftUI:  Clip Views with ClipShape
+- [Q010651](../berichte/Q01/Q0106/Q010651/README.de.md) SwiftUI: Use SwiftData outside a View (In a Manager Class/ViewModel)
+- [Q010650](../berichte/Q01/Q0106/Q010650/README.de.md) PostgreSQL with Node.Js: Raw SQL vs. ORMs
+- [Q010649](../berichte/Q01/Q0106/Q010649/README.de.md) End-To-End Testing with Playwright
+- [Q011829](../berichte/Q01/Q0118/Q011829/README.de.md) It happened on Medium: June 2024 roundup
+- [Q010648](../berichte/Q01/Q0106/Q010648/README.de.md) Swift/iOS: Test Remote Push Notification Locally!
+- [Q010646](../berichte/Q01/Q0106/Q010646/README.de.md) SwiftUI: Color Picker 2 Ways
+- [Q010647](../berichte/Q01/Q0106/Q010647/README.de.md) SwiftData: Relationships
+- [Q010644](../berichte/Q01/Q0106/Q010644/README.de.md) SwiftUI: Local Push Notifications
+- [Q010643](../berichte/Q01/Q0106/Q010643/README.de.md) Rust: Declarative Macro
+- [Q011649](../berichte/Q01/Q0116/Q011649/README.de.md) Create a Custom Badge for Any View in SwiftUI
+- [Q010642](../berichte/Q01/Q0106/Q010642/README.de.md) Swift/iOS: Custom Actionable Push Notification
+- [Q010639](../berichte/Q01/Q0106/Q010639/README.de.md) SwiftUI: Create App-Specific Custom Keyboard
+- [Q010640](../berichte/Q01/Q0106/Q010640/README.de.md) SwiftUI: Create Systemwide Custom Keyboard
+- [Q010641](../berichte/Q01/Q0106/Q010641/README.de.md) SwiftUI: Custom Numeric TextField
+- [Q011609](../berichte/Q01/Q0116/Q011609/README.de.md) Custom keyboard (SwiftUI) to fulfill your app needs
+- [Q011610](../berichte/Q01/Q0116/Q011610/README.de.md) Widget and Live Activity to extend your application to the fullest
+- [Q011648](../berichte/Q01/Q0116/Q011648/README.de.md) Create your own Segmented Picker using SwiftUI
+- [Q010638](../berichte/Q01/Q0106/Q010638/README.de.md) Node.JS/Typescript: Use Child Process to Start/Stop Another Service
+- [Q011562](../berichte/Q01/Q0115/Q011562/README.de.md) Build Interactive In-App Polls With SwiftUI
+- [Q011460](../berichte/Q01/Q0114/Q011460/README.de.md) Creating a GitHub-Inspired Contribution Chart with SwiftUI
+- [Q010637](../berichte/Q01/Q0106/Q010637/README.de.md) Android/Kotlin/Jetpack Compose: Custom Launch Screen (Splash Screen)
+- [Q010636](../berichte/Q01/Q0106/Q010636/README.de.md) Swift: Working with Colors
+- [Q010634](../berichte/Q01/Q0106/Q010634/README.de.md) SwiftUI+Vision: Object Detection in Live Capture
+- [Q010635](../berichte/Q01/Q0106/Q010635/README.de.md) SwiftUI+Vision: Object Detection in Still Image
+- [Q010633](../berichte/Q01/Q0106/Q010633/README.de.md) SwiftUI+Vision: Object Tracker using Centroid Tracking Algorithm
+- [Q011647](../berichte/Q01/Q0116/Q011647/README.de.md) Create a Custom Side Nav in SwiftUI
+- [Q010631](../berichte/Q01/Q0106/Q010631/README.de.md) Swift/iOS: Real Time Human Traffic Tracker
+- [Q010632](../berichte/Q01/Q0106/Q010632/README.de.md) Rust: Custom Serde Fields Deserialization
+- [Q010629](../berichte/Q01/Q0106/Q010629/README.de.md) SwiftUI: A Little Dive into FocusState
+- [Q010630](../berichte/Q01/Q0106/Q010630/README.de.md) PostgreSQL: UPSERT
+- [Q010627](../berichte/Q01/Q0106/Q010627/README.de.md) SwiftUI: Animation Along Path 2 Ways
+- [Q010628](../berichte/Q01/Q0106/Q010628/README.de.md) SwiftUI: Working with Path: Get All Points and Tangents!
+- [Q010625](../berichte/Q01/Q0106/Q010625/README.de.md) Android/Kotlin/Jetpack Compose: Toggle Badge(Dot) on App Icon programmatically
+- [Q010626](../berichte/Q01/Q0106/Q010626/README.de.md) Android/JetpackCompose: Solving the Not Able to Hide Badge(Dot) on App Icon Issue
+- [Q011646](../berichte/Q01/Q0116/Q011646/README.de.md) Getting Started with the Improved TabView in iOS 18
+- [Q011561](../berichte/Q01/Q0115/Q011561/README.de.md) Secure Data and Safeguard App Users With End-to-End Encryption
+- [Q011828](../berichte/Q01/Q0118/Q011828/README.de.md) It happened on Medium: July 2024 roundup
+- [Q010622](../berichte/Q01/Q0106/Q010622/README.de.md) SwiftUI: Working with Video using AVFoundation (Part 2: Save Images as Video)
+- [Q010623](../berichte/Q01/Q0106/Q010623/README.de.md) SwiftUI: Working with Video using AVFoundation (Part 1: Read, Display, Modify Frames)
+- [Q010619](../berichte/Q01/Q0106/Q010619/README.de.md) AWS Bedrock Converse API with Rust: Tool Use + Streaming
+- [Q010620](../berichte/Q01/Q0106/Q010620/README.de.md) AWS Bedrock Converse API with Rust: Tool Use
+- [Q010621](../berichte/Q01/Q0106/Q010621/README.de.md) AWS Bedrock Converse API with Rust: Basic
+- [Q010618](../berichte/Q01/Q0106/Q010618/README.de.md) Swift/MacOS: Human Traffic Analyzer
+- [Q011645](../berichte/Q01/Q0116/Q011645/README.de.md) Drag and Drop in SwiftUI
+- [Q010617](../berichte/Q01/Q0106/Q010617/README.de.md) Swift/MacOS: Why Cannot We Read User Selected File?
+- [Q010615](../berichte/Q01/Q0106/Q010615/README.de.md) SwiftUI: Customize ProgressView
+- [Q010616](../berichte/Q01/Q0106/Q010616/README.de.md) Rust: CLI assistant powered by AWS Bedrock Converse API
+- [Q011560](../berichte/Q01/Q0115/Q011560/README.de.md) How To Test Push Notifications With an iOS Simulator
+- [Q010614](../berichte/Q01/Q0106/Q010614/README.de.md) SwiftUI+MapKit: Maps, Styles, Overlays and Controls!
+- [Q011459](../berichte/Q01/Q0114/Q011459/README.de.md) Mastering MVVM in SwiftUI: A Clean, Structured Implementation
+- [Q010613](../berichte/Q01/Q0106/Q010613/README.de.md) SwiftUI+MapKit: Enable User Selection for Both Pre-defined Map Features and Added Annotations
+- [Q011458](../berichte/Q01/Q0114/Q011458/README.de.md) Mastering MVC in SwiftUI: The Classic, No-Nonsense Approach
+- [Q010612](../berichte/Q01/Q0106/Q010612/README.de.md) SwiftUI+MapKit: Set and Track Map Position
+- [Q011644](../berichte/Q01/Q0116/Q011644/README.de.md) Creating a Swipeable View that is Backward Compatible with iOS 16
+- [Q010611](../berichte/Q01/Q0106/Q010611/README.de.md) SwiftUI+MapKit: Convert Screen Coordinates to Actual Geographical Location
+- [Q010609](../berichte/Q01/Q0106/Q010609/README.de.md) SwiftUI+MapKit: Taking Our Map to the Next Level Using MKLocalSearch
+- [Q010610](../berichte/Q01/Q0106/Q010610/README.de.md) HTML/CSS: Two Inline-Block Same Height
+- [Q010607](../berichte/Q01/Q0106/Q010607/README.de.md) SwiftUI + MapKit: Let’s Look Around!
+- [Q010608](../berichte/Q01/Q0106/Q010608/README.de.md) Rust: Draw Text and Shape on Images, At Any Angle You Like!
+- [Q011411](../berichte/Q01/Q0114/Q011411/README.de.md) How ValueAnimator Brings Android’s UI to Life!
+- [Q010606](../berichte/Q01/Q0106/Q010606/README.de.md) SwiftUI: Animate Number Changes 3 ways
+- [Q011608](../berichte/Q01/Q0116/Q011608/README.de.md) Automatic Dependency Injection (DI) for your Swift application to make your code clean
+- [Q010603](../berichte/Q01/Q0106/Q010603/README.de.md) AWS: Service Error While Calling Rekognition Video Start Operation from Lambda
+- [Q010604](../berichte/Q01/Q0106/Q010604/README.de.md) AWS CDK Deploy Multiple Rust Lambda Function From Same Workspace
+- [Q010605](../berichte/Q01/Q0106/Q010605/README.de.md) Rust API Server: Send and Receive Bytes Data
+- [Q010601](../berichte/Q01/Q0106/Q010601/README.de.md) NextJs: Migrating app.tsx(Pages Router) to layout.tsx(App Router)
+- [Q010602](../berichte/Q01/Q0106/Q010602/README.de.md) Rust: Image Analysis with Amazon Rekognition
+- [Q010600](../berichte/Q01/Q0106/Q010600/README.de.md) Rust: Video Analysis with Amazon Rekognition
+- [Q011827](../berichte/Q01/Q0118/Q011827/README.de.md) It happened on Medium: August 2024 roundup
+- [Q010598](../berichte/Q01/Q0105/Q010598/README.de.md) Swift: Post Multipart Form Data
+- [Q010599](../berichte/Q01/Q0105/Q010599/README.de.md) Upload/Download Large Files to S3 using PreSigned URL
+- [Q010596](../berichte/Q01/Q0105/Q010596/README.de.md) Rust+Rekognition: Serverless Backend for Human Traffic Analysis
+- [Q010597](../berichte/Q01/Q0105/Q010597/README.de.md) Speed Up Next.Js Development with NextUI
+- [Q011490](../berichte/Q01/Q0114/Q011490/README.de.md) Custom Xcode File Template
+- [Q010594](../berichte/Q01/Q0105/Q010594/README.de.md) SwiftUI: Expandable Stack (List) 2 Ways
+- [Q010595](../berichte/Q01/Q0105/Q010595/README.de.md) Deprecations in iOS/iPadOS 18
+- [Q010593](../berichte/Q01/Q0105/Q010593/README.de.md) SwiftUI: Animate Custom Path and Shape with Animatable
+- [Q010591](../berichte/Q01/Q0105/Q010591/README.de.md) SwiftUI: Custom Color Dropper to Get Color at any View Location
+- [Q010592](../berichte/Q01/Q0105/Q010592/README.de.md) Rust on Loco like Ruby on Rails
+- [Q010589](../berichte/Q01/Q0105/Q010589/README.de.md) SwiftUI: Sync/Observe UserDefaults Change 2 ways
+- [Q010590](../berichte/Q01/Q0105/Q010590/README.de.md) SwiftUI: DNA Helix Animation
+- [Q010586](../berichte/Q01/Q0105/Q010586/README.de.md) SwiftUI: Add Controls (Interactivity) to Widgets
+- [Q010587](../berichte/Q01/Q0105/Q010587/README.de.md) Swift: Sharing Data Between Apps/Extensions With App Group
+- [Q010588](../berichte/Q01/Q0105/Q010588/README.de.md) SwiftUI: Static Widgets with WidgetKit
+- [Q011126](../berichte/Q01/Q0111/Q011126/README.de.md) How to Pivot Your Career with OpenUSD
+- [Q010584](../berichte/Q01/Q0105/Q010584/README.de.md) SwiftUI: Configurable Widget to Let Our User Choose!
+- [Q010585](../berichte/Q01/Q0105/Q010585/README.de.md) SwiftUI: Pass Data and Link to Specific View from Widgets
+- [Q011558](../berichte/Q01/Q0115/Q011558/README.de.md) Using a Speech Language Model That Can Listen While Speaking
+- [Q010583](../berichte/Q01/Q0105/Q010583/README.de.md) SwiftUI: Present Live Data with Live Activity (Widget)
+- [Q010581](../berichte/Q01/Q0105/Q010581/README.de.md) SwiftUI ContainerValues: Key to Custom Containers
+- [Q010582](../berichte/Q01/Q0105/Q010582/README.de.md) SwiftUI: Build Our Own Container
+- [Q010580](../berichte/Q01/Q0105/Q010580/README.de.md) SwiftUI: Custom Container View + Editable
+- [Q011457](../berichte/Q01/Q0114/Q011457/README.de.md) Creating Tinder-Like Swipeable Cards in SwiftUI
+- [Q010579](../berichte/Q01/Q0105/Q010579/README.de.md) SwiftUI: Home Screen Quick Actions (ShortCuts)
+- [Q010577](../berichte/Q01/Q0105/Q010577/README.de.md) SwiftUI: Custom Slider
+- [Q011456](../berichte/Q01/Q0114/Q011456/README.de.md) Creating Custom Property Wrappers in SwiftUI: Unlocking the Magic Behind the @
+- [Q010576](../berichte/Q01/Q0105/Q010576/README.de.md) Introduction to TiDB Architecture
+- [Q011454](../berichte/Q01/Q0114/Q011454/README.de.md) Best Apps to Control Screen Time
+- [Q011455](../berichte/Q01/Q0114/Q011455/README.de.md) Clamping Your Values: A Simple Custom Property Wrapper for SwiftUI
+- [Q010575](../berichte/Q01/Q0105/Q010575/README.de.md) SwiftUI: Environment Resolved Dynamic ShapeStyles 3 ways!
+- [Q011452](../berichte/Q01/Q0114/Q011452/README.de.md) Networking Magic: Fetching Data with a Custom Property Wrapper in SwiftUI
+- [Q011453](../berichte/Q01/Q0114/Q011453/README.de.md) The Easy Way To Track Changes in SwiftUI Variables Using Custom Property Wrappers
+- [Q010572](../berichte/Q01/Q0105/Q010572/README.de.md) While Loops in AWS Step Function
+- [Q010573](../berichte/Q01/Q0105/Q010573/README.de.md) For Loops(Parallel Loop) in AWS Step Function
+- [Q010574](../berichte/Q01/Q0105/Q010574/README.de.md) Introduction to AWS Step Functions: What, Why and How
+- [Q011451](../berichte/Q01/Q0114/Q011451/README.de.md) Best Apps to Limit Screen Time
+- [Q011826](../berichte/Q01/Q0118/Q011826/README.de.md) It happened on Medium: September 2024 roundup
+- [Q011643](../berichte/Q01/Q0116/Q011643/README.de.md) Automatically Get Type Safe Colors and Images in Xcode
+- [Q010571](../berichte/Q01/Q0105/Q010571/README.de.md) Swift Assets: Same Name, Different Contents
+- [Q010570](../berichte/Q01/Q0105/Q010570/README.de.md) SwiftUI: Create a Table and Enable Selections
+- [Q011642](../berichte/Q01/Q0116/Q011642/README.de.md) Unexpected Lessons: How a Medical Diagnosis Improved My Engineering Skills
+- [Q010564](../berichte/Q01/Q0105/Q010564/README.de.md) AWS: Create QuickSight Filters/Controls with CDK
+- [Q010565](../berichte/Q01/Q0105/Q010565/README.de.md) Sentiment/Emotion Analysis with Generative AI (JSON Mode)
+- [Q010566](../berichte/Q01/Q0105/Q010566/README.de.md) Trigger Lambda From Slack Messages with Slack Events API
+- [Q010567](../berichte/Q01/Q0105/Q010567/README.de.md) AWS Glue Table from Dynamo JSON in S3 2 Ways
+- [Q010563](../berichte/Q01/Q0105/Q010563/README.de.md) SwiftUI: Enable Drag and Drop for Table Rows With Custom Transferable
+- [Q010562](../berichte/Q01/Q0105/Q010562/README.de.md) SwiftUI: Styling Tables
+- [Q010560](../berichte/Q01/Q0105/Q010560/README.de.md) SwiftUI: Bring App to Siri/Shortcuts with App Intent Domain
+- [Q010561](../berichte/Q01/Q0105/Q010561/README.de.md) SwiftUI: Migrate from ObservableObject to Observable macro
+- [Q010559](../berichte/Q01/Q0105/Q010559/README.de.md) Emotion Tracker/Analyzer for Slack Workspace
+- [Q010558](../berichte/Q01/Q0105/Q010558/README.de.md) Postgres Database with Docker
+- [Q010557](../berichte/Q01/Q0105/Q010557/README.de.md) Rust: Procedural Macros
+- [Q010555](../berichte/Q01/Q0105/Q010555/README.de.md) SwiftUI: Add ContextMenu to Table
+- [Q010556](../berichte/Q01/Q0105/Q010556/README.de.md) SwiftUI: Hierarchical Table 2 Ways
+- [Q010554](../berichte/Q01/Q0105/Q010554/README.de.md) SwiftUI: Customize Text with TextRenderer
+- [Q010553](../berichte/Q01/Q0105/Q010553/README.de.md) Swift/MacOS: NSImage to png Data
+- [Q011410](../berichte/Q01/Q0114/Q011410/README.de.md) TransformableBrush for Efficient Brush Animations in Jetpack Compose
+- [Q011450](../berichte/Q01/Q0114/Q011450/README.de.md) SwiftUI Tutorials: Creating a Simple Chess Game in SwiftUI
+- [Q010551](../berichte/Q01/Q0105/Q010551/README.de.md) SwiftUI/MacOS: Floating Window/Panel
+- [Q010552](../berichte/Q01/Q0105/Q010552/README.de.md) SwiftUI/MacOS: Detect Mouse Location & Show Auxiliary Window
+- [Q010550](../berichte/Q01/Q0105/Q010550/README.de.md) SwiftUI: TextEditor vs TextField for Multi-line Entry
+- [Q010549](../berichte/Q01/Q0105/Q010549/README.de.md) SwiftUI/MacOS: A Clipboard AI Chat
+- [Q011449](../berichte/Q01/Q0114/Q011449/README.de.md) SwiftUI Tutorials: Building a Relaxing Sudoku App from Scratch
+- [Q010548](../berichte/Q01/Q0105/Q010548/README.de.md) HTML/Javascript: Support Drag and Drop for File Upload
+- [Q011825](../berichte/Q01/Q0118/Q011825/README.de.md) It happened on Medium: October 2024 roundup
+- [Q010545](../berichte/Q01/Q0105/Q010545/README.de.md) SwiftUI/MacOS: Bring Window to the Next Level with Customization
+- [Q010546](../berichte/Q01/Q0105/Q010546/README.de.md) SwiftUI/MacOS:  Menu Bar Apps
+- [Q010547](../berichte/Q01/Q0105/Q010547/README.de.md) SwiftUI/MacOS: Working with NSPasteboard
+- [Q011639](../berichte/Q01/Q0116/Q011639/README.de.md) Using Searchable to Display Results from an API
+- [Q011556](../berichte/Q01/Q0115/Q011556/README.de.md) Grok: Build a Multi-Agent AI App in Python
+- [Q011638](../berichte/Q01/Q0116/Q011638/README.de.md) Should we use Apple Intelligence for Text and Inputs in SwiftUI using writingToolsBehavior
+- [Q010542](../berichte/Q01/Q0105/Q010542/README.de.md) SwiftUI: Render Markdown
+- [Q010543](../berichte/Q01/Q0105/Q010543/README.de.md) Regex in Swift
+- [Q010541](../berichte/Q01/Q0105/Q010541/README.de.md) SwiftUI: Step 0 to Layout Protocol
+- [Q010540](../berichte/Q01/Q0105/Q010540/README.de.md) GoJS: Hover Effect (Highlighting on Mouse Over) 2 Ways
+- [Q011555](../berichte/Q01/Q0115/Q011555/README.de.md) Best 5 Frameworks To Build Multi-Agent AI Applications
+- [Q011615](../berichte/Q01/Q0116/Q011615/README.de.md) Efficient View State Management in SwiftUI with Clean Architecture
+- [Q010539](../berichte/Q01/Q0105/Q010539/README.de.md) SwiftUI: Import File with Drag and Drop
+- [Q011637](../berichte/Q01/Q0116/Q011637/README.de.md) Building the Avatar View from Messages using SwiftUI
+- [Q011636](../berichte/Q01/Q0116/Q011636/README.de.md) Add Swipe to Dismiss to any View using SwiftUI
+- [Q010538](../berichte/Q01/Q0105/Q010538/README.de.md) HTML/Javascript: Custom Events
+- [Q011635](../berichte/Q01/Q0116/Q011635/README.de.md) Using matchedGeometryEffect in SwiftUI
+- [Q010537](../berichte/Q01/Q0105/Q010537/README.de.md) Create Custom Plugin Provider (Javascript API) for Web App
+- [Q011634](../berichte/Q01/Q0116/Q011634/README.de.md) Creating Custom Shapes in SwiftUI
+- [Q010536](../berichte/Q01/Q0105/Q010536/README.de.md) SwiftUI: Caching in Layout Protocol
+- [Q011633](../berichte/Q01/Q0116/Q011633/README.de.md) Building a Clone of the Messages app in SwiftUI
+- [Q010535](../berichte/Q01/Q0105/Q010535/README.de.md) SwiftUI: Mastering Layout Values in Layout Protocol
+- [Q010533](../berichte/Q01/Q0105/Q010533/README.de.md) SwiftUI: Responsive UI Two Ways and How Composed Layout Shines!
+- [Q010534](../berichte/Q01/Q0105/Q010534/README.de.md) HTML/Javascript: Global Function Variable Value based on Executed Script
+- [Q010532](../berichte/Q01/Q0105/Q010532/README.de.md) SwiftUI: Support Custom URL Scheme
+- [Q010531](../berichte/Q01/Q0105/Q010531/README.de.md) Javascript/Typescript: Access Main Object/Class within Nested Object
+- [Q010530](../berichte/Q01/Q0105/Q010530/README.de.md) Little Typescript Tip: A Better(?) Way to create Union of Literal Types
+- [Q010529](../berichte/Q01/Q0105/Q010529/README.de.md) SwiftUI: Make App a destination app for a Share (With Share Extension)
+- [Q010528](../berichte/Q01/Q0105/Q010528/README.de.md) SwiftUI: Protect Private Information
+- [Q010527](../berichte/Q01/Q0105/Q010527/README.de.md) Rust: Extract Basic Authentication Credentials from Incoming Requests
+- [Q010526](../berichte/Q01/Q0105/Q010526/README.de.md) AWS CDK: Create VPC, RDS (Aurora Serverless V2),  RDS Proxy, and Lambda
+- [Q011824](../berichte/Q01/Q0118/Q011824/README.de.md) It happened on Medium in 2024
+- [Q010525](../berichte/Q01/Q0105/Q010525/README.de.md) SwiftUI: Haptic Effect 2 Ways
+- [Q010523](../berichte/Q01/Q0105/Q010523/README.de.md) SwiftUI/MacOS: Trap Mouse Cursor in Window
+- [Q010524](../berichte/Q01/Q0105/Q010524/README.de.md) SwiftUI/MacOS: Handle Mouse/Trackpad Events (Mouse Up, Mouse Down, Pressure Change)
+- [Q010522](../berichte/Q01/Q0105/Q010522/README.de.md) Postgres: Insert Multiple Rows (Like A BUNCH!)
+- [Q010521](../berichte/Q01/Q0105/Q010521/README.de.md) SwiftUI/MacOS: Map Finger Position on Trackpad to View
+- [Q010520](../berichte/Q01/Q0105/Q010520/README.de.md) Typescript: Typing React Events
+- [Q011448](../berichte/Q01/Q0114/Q011448/README.de.md) SwiftData: How to Preserve Array Order in a SwiftData Model
+- [Q010519](../berichte/Q01/Q0105/Q010519/README.de.md) Create & Publish Node.js CLI (Typescript)
+- [Q010518](../berichte/Q01/Q0105/Q010518/README.de.md) SwiftUI: Zipping Files
+- [Q011106](../berichte/Q01/Q0111/Q011106/README.de.md) Streamlining Serverless: A Hands-On Guide Building Scalable APIs with AWS Lambda and HTTP API
+- [Q010517](../berichte/Q01/Q0105/Q010517/README.de.md) SwiftUI: Display PDF with PDFKit
+- [Q010516](../berichte/Q01/Q0105/Q010516/README.de.md) SwiftUI: Add Static Annotations & Page Graphics to PDF
+- [Q010515](../berichte/Q01/Q0105/Q010515/README.de.md) SwiftUI: Create PDF 2 Ways
+- [Q010513](../berichte/Q01/Q0105/Q010513/README.de.md) React/Typescript: Table Row Re-Ordering with Drag and Drop
+- [Q010511](../berichte/Q01/Q0105/Q010511/README.de.md) SwiftUI/MacOS: NSTrackingView For Mouse Enter and Mouse Exit
+- [Q011553](../berichte/Q01/Q0115/Q011553/README.de.md) SwiftUI Spring Animation Cheat Sheet for Developers
+- [Q010509](../berichte/Q01/Q0105/Q010509/README.de.md) SwiftUI/MacOS: Control Cursor Appearance Two Ways
+- [Q011489](../berichte/Q01/Q0114/Q011489/README.de.md) Mandelbrot Set in SwiftUI using a Metal Shader: Part 1
+- [Q010507](../berichte/Q01/Q0105/Q010507/README.de.md) SwiftUI: Add, Erase and Save Custom Drawing Annotations to PDF
+- [Q011552](../berichte/Q01/Q0115/Q011552/README.de.md) Build an Agentic RAG System With OpenAI, LanceDB, and Phidata
+- [Q011632](../berichte/Q01/Q0116/Q011632/README.de.md) Haptics in SwiftUI
+- [Q011447](../berichte/Q01/Q0114/Q011447/README.de.md) SwiftUI Tutorials: Building a Modern Minesweeper App from Scratch
+- [Q010505](../berichte/Q01/Q0105/Q010505/README.de.md) SwiftUI: Add Interactive Form Elements to PDF
+- [Q011105](../berichte/Q01/Q0111/Q011105/README.de.md) Supercharge Your AWS Lambda Functions: Proven Optimization Strategies for Peak Performance
+- [Q011631](../berichte/Q01/Q0116/Q011631/README.de.md) Haptics in Jetpack Compose
+- [Q010499](../berichte/Q01/Q0104/Q010499/README.de.md) Rust: Transfer Data Between Threads
+- [Q010501](../berichte/Q01/Q0105/Q010501/README.de.md) SwiftUI: Adding PDF Actions with PDF Kit
+- [Q010503](../berichte/Q01/Q0105/Q010503/README.de.md) Postgres as Vector Database with pgvector
+- [Q010497](../berichte/Q01/Q0104/Q010497/README.de.md) Rust: Implement OAuth 2.0: Login with Google
+- [Q010493](../berichte/Q01/Q0104/Q010493/README.de.md) Amazon Cognito Lambda Trigger (CDK)
+- [Q010495](../berichte/Q01/Q0104/Q010495/README.de.md) AWS Cognito For API Gateway (Lambda Proxy) Access Control: Step By Step
+- [Q010491](../berichte/Q01/Q0104/Q010491/README.de.md) AWS CDK: Custom Resource
+- [Q010487](../berichte/Q01/Q0104/Q010487/README.de.md) Tailwind Style Not Show Up in NextJs Standalone (Regular Build & Docker)
+- [Q010489](../berichte/Q01/Q0104/Q010489/README.de.md) Docker Build On NextJS Taking Forever
+- [Q010485](../berichte/Q01/Q0104/Q010485/README.de.md) SwiftUI: Let’s Make A Simple Beacon App
+- [Q011630](../berichte/Q01/Q0116/Q011630/README.de.md) What is Git Flow: A branching strategy you didn’t know you needed
+- [Q010483](../berichte/Q01/Q0104/Q010483/README.de.md) Rust: Working with Zip Files using Zip!
+- [Q011551](../berichte/Q01/Q0115/Q011551/README.de.md) DeepSeek R1 — The Best Local LLM Tools To Run Offline
+- [Q010479](../berichte/Q01/Q0104/Q010479/README.de.md) SwiftUI: Low Energy Bluetooth (Part2: Central Side)
+- [Q010481](../berichte/Q01/Q0104/Q010481/README.de.md) SwiftUI: Low Energy Bluetooth (Part1: Peripheral Side)
+- [Q010477](../berichte/Q01/Q0104/Q010477/README.de.md) Little Rust Tip: Create a Static at Runtime
+- [Q011104](../berichte/Q01/Q0111/Q011104/README.de.md) 3 Steps To Setting Up DeepSeek R1 (8B) on Your MacBook
+- [Q011446](../berichte/Q01/Q0114/Q011446/README.de.md) 5 Best Logo Maker Apps for Small Businesses in 2024
+- [Q011629](../berichte/Q01/Q0116/Q011629/README.de.md) Apple vs Google: AI Image Comparison
+- [Q010475](../berichte/Q01/Q0104/Q010475/README.de.md) Send Email with Amazon SES + Lambda (API vs SMTP)
+- [Q010473](../berichte/Q01/Q0104/Q010473/README.de.md) Rust: Access Relational Database with Sea ORM
+- [Q011103](../berichte/Q01/Q0111/Q011103/README.de.md) The Best Tech Jobs for 2025: High Demand & High Pay
+- [Q010469](../berichte/Q01/Q0104/Q010469/README.de.md) SwiftUI: Multi-Selection Select Box
+- [Q010471](../berichte/Q01/Q0104/Q010471/README.de.md) SwiftUI: Single-Selection Select Box
+- [Q011550](../berichte/Q01/Q0115/Q011550/README.de.md) The Best Pre-Built Toolkits for AI Agents
+- [Q011607](../berichte/Q01/Q0116/Q011607/README.de.md) The Ultimate Guide to SwiftData in MVVM: Achieves Separation of Concerns
+- [Q011628](../berichte/Q01/Q0116/Q011628/README.de.md) Privacy Manifest for your iOS App
+- [Q010467](../berichte/Q01/Q0104/Q010467/README.de.md) Pagination in Postgres
+- [Q010465](../berichte/Q01/Q0104/Q010465/README.de.md) SwiftUI: Monitor User Location Relative to a Region (Geofencing) 2 Ways
+- [Q011627](../berichte/Q01/Q0116/Q011627/README.de.md) UserDefaults in Swift
+- [Q011549](../berichte/Q01/Q0115/Q011549/README.de.md) How to Add DeepSeek LLM to Your Chat App Using AWS Bedrock
+- [Q010463](../berichte/Q01/Q0104/Q010463/README.de.md) React/Typescript: Infinite Scrollable Select
+- [Q010461](../berichte/Q01/Q0104/Q010461/README.de.md) SwiftUI: Infinite Canvas 2 Ways
+- [Q011626](../berichte/Q01/Q0116/Q011626/README.de.md) AppStorage in SwiftUI
+- [Q011102](../berichte/Q01/Q0111/Q011102/README.de.md) Grok 3: Elon Musk’s xAI Takes on ChatGPT and DeepSeek in the AI Race
+- [Q011625](../berichte/Q01/Q0116/Q011625/README.de.md) How to Use One Image Instead of Many in SwiftUI
+- [Q011823](../berichte/Q01/Q0118/Q011823/README.de.md) It happened on Medium: January 2025 round-up
+- [Q010455](../berichte/Q01/Q0104/Q010455/README.de.md) SwiftUI: Peer-to-Peer (P2P) with Multipeer Connectivity Framework
+- [Q011488](../berichte/Q01/Q0114/Q011488/README.de.md) Mandelbrot Set in SwiftUI using a Metal Shader: Part 2
+- [Q010453](../berichte/Q01/Q0104/Q010453/README.de.md) SwiftUI: Locate Peers with Nearby Interaction Framework
+- [Q011624](../berichte/Q01/Q0116/Q011624/README.de.md) Push Notification Service Extension in Swift
+- [Q011101](../berichte/Q01/Q0111/Q011101/README.de.md) Laravel 12 Is Here — And It Changes Everything!
+- [Q010451](../berichte/Q01/Q0104/Q010451/README.de.md) Typescript/NestJS: Validate API Parameters with Class-Validator & Class-Transformer
+- [Q010447](../berichte/Q01/Q0104/Q010447/README.de.md) SwiftUI: Addition and Subtraction for  Shapes
+- [Q010449](../berichte/Q01/Q0104/Q010449/README.de.md) SwiftUI: Bring that Image Playground on Mac to our App!
+- [Q010445](../berichte/Q01/Q0104/Q010445/README.de.md) SwiftUI: Authentication with Amazon Cognito User Pool
+- [Q010443](../berichte/Q01/Q0104/Q010443/README.de.md) SwiftUI: Connect Two Points with Straight Line Segments + Rounded Corners
+- [Q011100](../berichte/Q01/Q0111/Q011100/README.de.md) The Ultimate Toolbox: Best Apps and Tools for Software Engineers on Mac (2025 Edition)
+- [Q010442](../berichte/Q01/Q0104/Q010442/README.de.md) SwiftUI: Text Timer,  Up and Down
+- [Q011548](../berichte/Q01/Q0115/Q011548/README.de.md) Build a Flash Answer AI Assistant Like Le Chat
+- [Q010438](../berichte/Q01/Q0104/Q010438/README.de.md) Swift Charts: Master Marks and Charts Styling!
+- [Q010440](../berichte/Q01/Q0104/Q010440/README.de.md) Swift Charts: Show Off Our Data with Marks
+- [Q011445](../berichte/Q01/Q0114/Q011445/README.de.md) Creating a TreeMap/HeatMap for Stocks in SwiftUI
+- [Q010436](../berichte/Q01/Q0104/Q010436/README.de.md) Swift Charts: Axis & Legend Customization
+- [Q011099](../berichte/Q01/Q0110/Q011099/README.de.md) How AI Transformed My Coding Workflow: A Senior Dev’s IDE Story(2025)
+- [Q011613](../berichte/Q01/Q0116/Q011613/README.de.md) Apple App Attest: Strengthening App Security on iOS
+- [Q010434](../berichte/Q01/Q0104/Q010434/README.de.md) SwiftUI: Interactive Charts
+- [Q010432](../berichte/Q01/Q0104/Q010432/README.de.md) Https on Local Development Environment
+- [Q010430](../berichte/Q01/Q0104/Q010430/README.de.md) SwiftUI: Simple Workout App with HealthKit (Part 1)
+- [Q010428](../berichte/Q01/Q0104/Q010428/README.de.md) SwiftUI: Reading Data from HealthKit
+- [Q011098](../berichte/Q01/Q0110/Q011098/README.de.md) Shared vs Separate Docker Containers: The Best Way to Manage Similar Containers Across Multiple…
+- [Q010426](../berichte/Q01/Q0104/Q010426/README.de.md) Rust: Read Excel with Calamine
+- [Q011822](../berichte/Q01/Q0118/Q011822/README.de.md) It happened on Medium: February 2025 round-up
+- [Q010424](../berichte/Q01/Q0104/Q010424/README.de.md) SwiftUI/HealthKit: Dividing Workout into SubActivities
+- [Q010420](../berichte/Q01/Q0104/Q010420/README.de.md) SwiftUI: Toasts & Banners
+- [Q010422](../berichte/Q01/Q0104/Q010422/README.de.md) SwiftUI:  Custom Environment Value
+- [Q011487](../berichte/Q01/Q0114/Q011487/README.de.md) Mandelbrot Set in SwiftUI using a Metal Shader: Part 3
+- [Q010418](../berichte/Q01/Q0104/Q010418/README.de.md) Amazon Bedrock:  Multi-Agent Collaborations
+- [Q011623](../berichte/Q01/Q0116/Q011623/README.de.md) Clean Up Your Sheet API
+- [Q010416](../berichte/Q01/Q0104/Q010416/README.de.md) AI Agent: OpenAI AgentSDK vs Amazon Bedrock
+- [Q010410](../berichte/Q01/Q0104/Q010410/README.de.md) Rust: Open URL AND Beyond
+- [Q010412](../berichte/Q01/Q0104/Q010412/README.de.md) Swift: Multi-Threading with Async & Await
+- [Q010408](../berichte/Q01/Q0104/Q010408/README.de.md) SwiftUI: Mastering Text Selection
+- [Q011622](../berichte/Q01/Q0116/Q011622/README.de.md) Create a Custom Multi-Select Button in SwiftUI
+- [Q010404](../berichte/Q01/Q0104/Q010404/README.de.md) SwiftUI: Use Custom Font
+- [Q010406](../berichte/Q01/Q0104/Q010406/README.de.md) Rust: XML Parsing with Quick-xml
+- [Q011621](../berichte/Q01/Q0116/Q011621/README.de.md) Create a Custom Single Select Button in SwiftUI
+- [Q010401](../berichte/Q01/Q0104/Q010401/README.de.md) SwiftUI: A Simple Copy Cat of the Calendar + Reminder App
+- [Q010403](../berichte/Q01/Q0104/Q010403/README.de.md) SwiftUI: Add Event to User Calendar with EventKit & EventKitUI
+- [Q010397](../berichte/Q01/Q0103/Q010397/README.de.md) Get Start with Model Context Protocol
+- [Q010399](../berichte/Q01/Q0103/Q010399/README.de.md) Node.Js/Typescript: An Import Path Cannot End with ‘.ts’
+- [Q011620](../berichte/Q01/Q0116/Q011620/README.de.md) Enumerate a ForEach in SwiftUI
+- [Q010395](../berichte/Q01/Q0103/Q010395/README.de.md) Rust: Color Conversions
+- [Q010979](../berichte/Q01/Q0109/Q010979/README.de.md) How Dream Machine is Revolutionizing AI Video Generation
+- [Q011097](../berichte/Q01/Q0110/Q011097/README.de.md) Automate Anything with n8n + AI
+- [Q011619](../berichte/Q01/Q0116/Q011619/README.de.md) Buttons in SwiftUI
+- [Q010978](../berichte/Q01/Q0109/Q010978/README.de.md) Meet Your New Study Buddy: How CollegeBot.AI is Changing the Game for Students and Job Seekers
+- [Q010976](../berichte/Q01/Q0109/Q010976/README.de.md) Amazon’s ‘Buy for Me’ AI: The Future of Online Shopping Just Got Smarter
+- [Q010977](../berichte/Q01/Q0109/Q010977/README.de.md) Iris by Spot AI: Build Smart Video Agents with Just Your Voice
+- [Q011821](../berichte/Q01/Q0118/Q011821/README.de.md) It happened on Medium: March 2025 round-up
+- [Q010391](../berichte/Q01/Q0103/Q010391/README.de.md) Swift Charts: Animate Marks
+- [Q010393](../berichte/Q01/Q0103/Q010393/README.de.md) SwiftUI: Multi-Finger Dragging
+- [Q010975](../berichte/Q01/Q0109/Q010975/README.de.md) Smart Travel, Powered by AI
+- [Q011486](../berichte/Q01/Q0114/Q011486/README.de.md) Metal View for SwiftUI
+- [Q010389](../berichte/Q01/Q0103/Q010389/README.de.md) MCP Server and Client with SSE & The New Streamable HTTP!
+- [Q011618](../berichte/Q01/Q0116/Q011618/README.de.md) Building an iOS Stickers App
+- [Q011606](../berichte/Q01/Q0116/Q011606/README.de.md) Automatic Dependency Injection (DI) in Swift 6 to make your code clean
+- [Q010974](../berichte/Q01/Q0109/Q010974/README.de.md) Side Hustles with AI: From $0 to $10,000/Month
+- [Q011617](../berichte/Q01/Q0116/Q011617/README.de.md) SwiftUI Text Input
+- [Q010387](../berichte/Q01/Q0103/Q010387/README.de.md) Rust: Excel Reader (Parser) From Scratch! The Values! The Styles!
+- [Q010973](../berichte/Q01/Q0109/Q010973/README.de.md) 7 AI Jobs for Beginners That Pay Real Money in 2025
+- [Q010971](../berichte/Q01/Q0109/Q010971/README.de.md) I Was Broke, Tired, and Lost. Then I Discovered AI.
+- [Q010972](../berichte/Q01/Q0109/Q010972/README.de.md) Breaking Free from the Paycheck-to-Paycheck Trap
+- [Q011096](../berichte/Q01/Q0110/Q011096/README.de.md) How I Built a RAG (Retrieval-Augmented Generation) System Using n8n — No Code, No Stress (Part 1/2)
+- [Q011545](../berichte/Q01/Q0115/Q011545/README.de.md) How To Run OpenAI Agents SDK Locally With 100+ LLMs and Custom Tracing
+- [Q010383](../berichte/Q01/Q0103/Q010383/README.de.md) SwiftUI: Inline Editable Table
+- [Q010385](../berichte/Q01/Q0103/Q010385/README.de.md) View Transition API with React (NextJs)
+- [Q010970](../berichte/Q01/Q0109/Q010970/README.de.md) 10 Highest-Paying Side Hustles In 2025 (Some Requiring No Experience)
+- [Q010381](../berichte/Q01/Q0103/Q010381/README.de.md) SwiftUI: ContentUnavailableView When Contents Not Available
+- [Q011095](../berichte/Q01/Q0110/Q011095/README.de.md) How I Built a RAG (Retrieval-Augmented Generation) System Using n8n — No Code, No Stress (Part 2/2)
+- [Q010379](../berichte/Q01/Q0103/Q010379/README.de.md) SwiftUI: All Kinds of Pinned Headers
+- [Q010377](../berichte/Q01/Q0103/Q010377/README.de.md) NodeJs/Typescript: OAuth2 Server with Express (Specification & Implementation)
+- [Q011820](../berichte/Q01/Q0118/Q011820/README.de.md) Keep up to date with Medium writers you love even more easily
+- [Q010375](../berichte/Q01/Q0103/Q010375/README.de.md) OAuth2Server With Dynamic Client Registration (Express/Typescript)
+- [Q011444](../berichte/Q01/Q0114/Q011444/README.de.md) How to Define Your Own #if Flags in Swift (and Why You Should)
+- [Q010969](../berichte/Q01/Q0109/Q010969/README.de.md) AI Jobs Remote 2025: The Best Opportunities You Can Land From Anywhere
+- [Q011480](../berichte/Q01/Q0114/Q011480/README.de.md) The Rise of “Vibe Coding”: How AI Tools Are Reshaping Software Development
+- [Q010373](../berichte/Q01/Q0103/Q010373/README.de.md) Model Context Protocol (MCP) Authorization: The NEW RS and AS Separation!
+- [Q010371](../berichte/Q01/Q0103/Q010371/README.de.md) SwiftUI: Get Notified on TextField Entry/Delete
+- [Q010369](../berichte/Q01/Q0103/Q010369/README.de.md) SwiftUI: Limit Number of Characters in TextField 3 Ways
+- [Q010968](../berichte/Q01/Q0109/Q010968/README.de.md) eNew York Remote Jobs: High-Paying Roles You Can Apply for Today
+- [Q011409](../berichte/Q01/Q0114/Q011409/README.de.md) Implementing Kernel Threads in xv6
+- [Q010367](../berichte/Q01/Q0103/Q010367/README.de.md) SwiftUI: Working with User Contacts
+- [Q010967](../berichte/Q01/Q0109/Q010967/README.de.md) What is TikTok for Business 2025
+- [Q010365](../berichte/Q01/Q0103/Q010365/README.de.md) SwiftUI: OTP Inputs
+- [Q010964](../berichte/Q01/Q0109/Q010964/README.de.md) 10 Creative Ways to Make $10K a Month in 2025
+- [Q010965](../berichte/Q01/Q0109/Q010965/README.de.md) Entry-Level Remote Jobs Hiring Now in New York, NY
+- [Q010966](../berichte/Q01/Q0109/Q010966/README.de.md) Certified AI Jobs in New York: Unlocking High-Paying Opportunities
+- [Q011479](../berichte/Q01/Q0114/Q011479/README.de.md) SwiftUI Isn’t the Future — It’s the Present (And UIKit Developers Must Catch Up)
+- [Q010963](../berichte/Q01/Q0109/Q010963/README.de.md) 5 Best Side Hustles To Earn An Extra $10k Per Month (And How To Get Started)
+- [Q010363](../berichte/Q01/Q0103/Q010363/README.de.md) The Power of KeyPath in SwiftUI
+- [Q010962](../berichte/Q01/Q0109/Q010962/README.de.md) 7 High-Paying Remote Jobs Hiding in Plain Sight That Could Change Your Life
+- [Q011405](../berichte/Q01/Q0114/Q011405/README.de.md) How I Built 18 MVPs in 6 Months Using Cursor AI
+- [Q010961](../berichte/Q01/Q0109/Q010961/README.de.md) Make $500/Day on TikTok With No Followers!
+- [Q010361](../berichte/Q01/Q0103/Q010361/README.de.md) SwiftUI/PencilKit: PKToolPicker Not Showing/Hiding
+- [Q011478](../berichte/Q01/Q0114/Q011478/README.de.md) iOS App Memory Management: Best Practices to Ship Faster and Leaner Apps
+- [Q010359](../berichte/Q01/Q0103/Q010359/README.de.md) SwiftUI: Drawing with PencilKit. Basic To (A Little) Advance.
+- [Q010355](../berichte/Q01/Q0103/Q010355/README.de.md) SwiftUI/Pencil Kit: Add Background Images That Synchronous with Canvas 2 Ways
+- [Q010357](../berichte/Q01/Q0103/Q010357/README.de.md) SwiftUI/PencilKit: Infinite Canvas
+- [Q011477](../berichte/Q01/Q0114/Q011477/README.de.md) Mastering Navigation in SwiftUI: The 2025 Guide to Clean, Scalable Routing
+- [Q010353](../berichte/Q01/Q0103/Q010353/README.de.md) Rust: Share Data Between Threads
+- [Q010351](../berichte/Q01/Q0103/Q010351/README.de.md) SwiftUI ShareLink: Create Item (Resource) Upon User Request! Asynchronously!
+- [Q011819](../berichte/Q01/Q0118/Q011819/README.de.md) Editor Newsletter: How do you take a story from good to great?
+- [Q011474](../berichte/Q01/Q0114/Q011474/README.de.md) Stop Writing Buggy Swift Code: The Concurrency Secrets Apple Doesn’t Tell You
+- [Q011475](../berichte/Q01/Q0114/Q011475/README.de.md) AI Wrote My Code — and Stole My Brain: How Over-Relying on AI Is Weakening Our Coding Muscles (and How to Get Them Back)
+- [Q011476](../berichte/Q01/Q0114/Q011476/README.de.md) Stop Wasting ChatGPT’s Potential: 4 Prompting Tricks That Put You Ahead of the Curve
+- [Q010347](../berichte/Q01/Q0103/Q010347/README.de.md) SwiftUI ScrollView: Scroll to Any Arbitrary Coordinate & Set Content Offset
+- [Q010349](../berichte/Q01/Q0103/Q010349/README.de.md) SwiftUI: Picking Date With and Without DatePicker
+- [Q011473](../berichte/Q01/Q0114/Q011473/README.de.md) Deep Linking in SwiftUI
+- [Q010345](../berichte/Q01/Q0103/Q010345/README.de.md) SwiftUI: Pass Through Gestures on Transparent Image Pixel (Without UIImageView)
+- [Q011472](../berichte/Q01/Q0114/Q011472/README.de.md) Alamofire for Swift
+- [Q011818](../berichte/Q01/Q0118/Q011818/README.de.md) It happened on Medium: April 2025
+- [Q011485](../berichte/Q01/Q0114/Q011485/README.de.md) An Interactive, Code-editing Agent using Gemini
+- [Q010343](../berichte/Q01/Q0103/Q010343/README.de.md) SwiftUI: Undo And Redo
+- [Q011404](../berichte/Q01/Q0114/Q011404/README.de.md) 6 AI Agents You Can Build Using Google’s ADK (Agent Development Kit)
+- [Q010341](../berichte/Q01/Q0103/Q010341/README.de.md) SwiftUI: A Simple Freeform Copy Cat!
+- [Q011403](../berichte/Q01/Q0114/Q011403/README.de.md) How I Built a 17,000-Line Codebase with Cursor for Just $0.80
+- [Q010339](../berichte/Q01/Q0103/Q010339/README.de.md) SwiftUI Caching: Key to Optimize Performance
+- [Q010337](../berichte/Q01/Q0103/Q010337/README.de.md) Rust Excel Reader (Parser) Part2: Parse Some Drawings!
+- [Q011152](../berichte/Q01/Q0111/Q011152/README.de.md) 6 MCP Servers Every Developer Needs to Try
+- [Q010335](../berichte/Q01/Q0103/Q010335/README.de.md) Swift: NSAttributedString in SUPER Detail! With Code Example!
+- [Q011471](../berichte/Q01/Q0114/Q011471/README.de.md) Why Every iOS Developer Should Join Group Labs at WWDC25
+- [Q011817](../berichte/Q01/Q0118/Q011817/README.de.md) Writer Newsletter: 7x more readers are opting into story notifications
+- [Q010333](../berichte/Q01/Q0103/Q010333/README.de.md) SwiftUI: Font Picker! Without UIFontPickerViewController!
+- [Q010331](../berichte/Q01/Q0103/Q010331/README.de.md) SwiftUI: A Little Customization to SF Symbol
+- [Q010329](../berichte/Q01/Q0103/Q010329/README.de.md) SwiftUI: UITextView with Dynamic Height + An Optional MaxHeight
+- [Q011408](../berichte/Q01/Q0114/Q011408/README.de.md) Dynamic Code Execution: Proxies and Class Loading in Java and Android
+- [Q011505](../berichte/Q01/Q0115/Q011505/README.de.md) Scaling SwiftUI Applications: MVVM vs MVVM + Clean Architecture
+- [Q010327](../berichte/Q01/Q0103/Q010327/README.de.md) SwiftUI: Rich Text Editor From Scratch!
+- [Q011470](../berichte/Q01/Q0114/Q011470/README.de.md) Harnessing Unidirectional Data Flow with TCA in Swift
+- [Q010325](../berichte/Q01/Q0103/Q010325/README.de.md) Command Box: An NPM for ColdFusion
+- [Q010323](../berichte/Q01/Q0103/Q010323/README.de.md) SwiftData: Synchronize Model Data with iCloud (Automatic With ModelContainer)
+- [Q011443](../berichte/Q01/Q0114/Q011443/README.de.md) How to Run Local AI Models on iOS & macOS devices with Swift
+- [Q010319](../berichte/Q01/Q0103/Q010319/README.de.md) SwiftUI: A Simple Simultaneous Content Collaboration App with iCloud
+- [Q010321](../berichte/Q01/Q0103/Q010321/README.de.md) SwiftUI: Use SWCollaborationView With CloudKit!
+- [Q011401](../berichte/Q01/Q0114/Q011401/README.de.md) OpenAI Just Launched a Free AI Academy — Here’s Why You Should Try It
+- [Q010315](../berichte/Q01/Q0103/Q010315/README.de.md) Rust: Running Terminal Commands
+- [Q010317](../berichte/Q01/Q0103/Q010317/README.de.md) WWDC25: All The Interesting Things To Try / I Have Tried!
+- [Q011442](../berichte/Q01/Q0114/Q011442/README.de.md) Building an AI ChatBot with Apple’s Foundation Models Framework: A Complete SwiftUI Guide
+- [Q011400](../berichte/Q01/Q0114/Q011400/README.de.md) 9 Cool MCP Projects for AI Coders
+- [Q010313](../berichte/Q01/Q0103/Q010313/README.de.md) Rust: Colored Print Without External Crates
+- [Q010311](../berichte/Q01/Q0103/Q010311/README.de.md) SwiftUI: The NEW TextEditor/AttributedString/AttributedTextSelection Combo!
+- [Q011399](../berichte/Q01/Q0113/Q011399/README.de.md) DocETL: A Python Library for AI-Powered Data Processing
+- [Q010309](../berichte/Q01/Q0103/Q010309/README.de.md) SwiftUI: A Little Dive Into All SF Symbol 7 Cool Updates!
+- [Q010305](../berichte/Q01/Q0103/Q010305/README.de.md) SwiftUI: Merge Image with Images, Texts, Shapes. Two Ways.
+- [Q010307](../berichte/Q01/Q0103/Q010307/README.de.md) SwiftUI: Liquid Glass. From Basic to (A Little) Advance.
+- [Q011542](../berichte/Q01/Q0115/Q011542/README.de.md) Foundation Models Framework: Get Started With On-Device AI in Xcode 26
+- [Q010303](../berichte/Q01/Q0103/Q010303/README.de.md) Create a Formatter Extension for VSCode
+- [Q011398](../berichte/Q01/Q0113/Q011398/README.de.md) Promptify: A Python Library for LLM Prompt Management
+- [Q011816](../berichte/Q01/Q0118/Q011816/README.de.md) Writer newsletter: The follow button redesign now sends ~30x more readers your story notifications
+- [Q011440](../berichte/Q01/Q0114/Q011440/README.de.md) 5 Best Tools to Run Large Language Models (LLMs) Locally on Your Devices (iOS, macOS & Desktop)
+- [Q011441](../berichte/Q01/Q0114/Q011441/README.de.md) SwiftUI Tutorial: iOS App Blocker with Screen Time APIs
+- [Q011815](../berichte/Q01/Q0118/Q011815/README.de.md) Editor Newsletter: Publication newsletters are reaching 2x as many recipients
+- [Q010301](../berichte/Q01/Q0103/Q010301/README.de.md) SwiftUI Menu: A Little More Than Just A List Of Buttons
+- [Q011397](../berichte/Q01/Q0113/Q011397/README.de.md) Automate Your Marketing: 8 n8n Workflows to Replace Your Team
+- [Q011396](../berichte/Q01/Q0113/Q011396/README.de.md) My 2-Week MVP Workflow: From Idea to Launch
+- [Q010297](../berichte/Q01/Q0102/Q010297/README.de.md) SwiftUI: Alarm App CopyCat with AlarmKit (WWDC 2025)-Part 1
+- [Q010299](../berichte/Q01/Q0102/Q010299/README.de.md) SwiftUI: Alarm App CopyCat with AlarmKit (WWDC 2025)-Part 2
+- [Q011439](../berichte/Q01/Q0114/Q011439/README.de.md) Stop Shipping English-Only Apps: The Easy Way to Localize Your iOS App
+- [Q010295](../berichte/Q01/Q0102/Q010295/README.de.md) SwiftUI: Huge Dive into The “Native” Webview & WebPage
+- [Q011438](../berichte/Q01/Q0114/Q011438/README.de.md) 📥 How to Handle Background File Downloads in SwiftUI (the Right Way)
+- [Q011395](../berichte/Q01/Q0113/Q011395/README.de.md) Stop Prompting for ‘Beautiful UI’: Use Design Files to Build Better Apps
+- [Q010293](../berichte/Q01/Q0102/Q010293/README.de.md) SwiftUI: Demystify Foundation Model in SUPER Detail! With a Chat App!
+- [Q011437](../berichte/Q01/Q0114/Q011437/README.de.md) SwiftUI Tutorial: Build an Interactive Muscle-Map
+- [Q011153](../berichte/Q01/Q0111/Q011153/README.de.md) How I’d Build and Sell AI Agents for Businesses from Scratch
+- [Q010291](../berichte/Q01/Q0102/Q010291/README.de.md) SwiftUI: Document-Based App with Launch Scene Customization
+- [Q011814](../berichte/Q01/Q0118/Q011814/README.de.md) It happened on Medium: May 2025 roundup
+- [Q010290](../berichte/Q01/Q0102/Q010290/README.de.md) SwiftUI Notifications: From NotificationCenter to Combine
+- [Q010288](../berichte/Q01/Q0102/Q010288/README.de.md) SwiftUI Search API (Searchable): All We Need to Know All In One!
+- [Q010286](../berichte/Q01/Q0102/Q010286/README.de.md) SwiftUI: Toolbar Customization
+- [Q010282](../berichte/Q01/Q0102/Q010282/README.de.md) Cache APIGateway Response with CloudFront
+- [Q010284](../berichte/Q01/Q0102/Q010284/README.de.md) Control/Configure API Gateway with Usage Plans & API Keys
+- [Q010280](../berichte/Q01/Q0102/Q010280/README.de.md) Rust/Axum: Custom Error Handling on Rejection
+- [Q010278](../berichte/Q01/Q0102/Q010278/README.de.md) Swift: A Little Dive Into OptionSet
+- [Q011436](../berichte/Q01/Q0114/Q011436/README.de.md) Apple’s DiffuCoder: A New Spin on Code Generation with Diffusion Models
+- [Q010274](../berichte/Q01/Q0102/Q010274/README.de.md) Apple Container Usage In Details
+- [Q010276](../berichte/Q01/Q0102/Q010276/README.de.md) Swift: Running Terminal Command With Subprocess
+- [Q011394](../berichte/Q01/Q0113/Q011394/README.de.md) Top 10 Books to Become a Top-Tier Software Developer
+- [Q011435](../berichte/Q01/Q0114/Q011435/README.de.md) Easily add Apple docs to your AI workflow with this new Apple docs MCP
+- [Q010272](../berichte/Q01/Q0102/Q010272/README.de.md) SwiftUI: Synchronize/Store Files (Documents) with iCloud
+- [Q011393](../berichte/Q01/Q0113/Q011393/README.de.md) AI Agent Backends with Motia: A Unified Framework for Modern Development
+- [Q011541](../berichte/Q01/Q0115/Q011541/README.de.md) Create a React Native Messaging App with Interactive Polls
+- [Q010270](../berichte/Q01/Q0102/Q010270/README.de.md) SwiftUI: Sync User Preferences with iCloud Key-Value Storage
+- [Q010268](../berichte/Q01/Q0102/Q010268/README.de.md) Rust: Watch For File/Directory Changes
+- [Q010266](../berichte/Q01/Q0102/Q010266/README.de.md) SwiftUI: Drag & Drop To the Outside World! To Export/Delete.
+- [Q010262](../berichte/Q01/Q0102/Q010262/README.de.md) Swift: Passkey Authentication (Sign Up, In, Out, with Actual Server Implementation)
+- [Q010264](../berichte/Q01/Q0102/Q010264/README.de.md) PassKey Authentication + Server Implementation. In Detail
+- [Q011434](../berichte/Q01/Q0114/Q011434/README.de.md) Kimi K2: My First Impressions of Moonshot AI’s Open-Sourced Agent
+- [Q010260](../berichte/Q01/Q0102/Q010260/README.de.md) SwiftUI: List Customization CheatSheet/Reference
+- [Q009682](../berichte/Q00/Q0096/Q009682/README.de.md) Why I Decided Not to Code With AI
+- [Q011812](../berichte/Q01/Q0118/Q011812/README.de.md) Editor Newsletter: A big update to publications
+- [Q011813](../berichte/Q01/Q0118/Q011813/README.de.md) Writer Newsletter: Want to speak at Medium Day 2025? Here’s what you should know
+- [Q010258](../berichte/Q01/Q0102/Q010258/README.de.md) SwiftUI: Rich Links Two Ways
+- [Q010256](../berichte/Q01/Q0102/Q010256/README.de.md) Rust: When to Use Box
+- [Q011433](../berichte/Q01/Q0114/Q011433/README.de.md) Why You Need to Update All Your Concurrency Code
+- [Q010254](../berichte/Q01/Q0102/Q010254/README.de.md) SwiftUI: Journaling Suggestions
+- [Q010250](../berichte/Q01/Q0102/Q010250/README.de.md) Rust/Axum Tip: Mutate State In Route Handlers
+- [Q010252](../berichte/Q01/Q0102/Q010252/README.de.md) Rust/Axum: User Session Management
+- [Q010248](../berichte/Q01/Q0102/Q010248/README.de.md) SwiftUI: Access Music Library with MediaPlayer Framework
+- [Q011390](../berichte/Q01/Q0113/Q011390/README.de.md) How Watching Ads Turned Me Into a Marketing Nerd and Made Me $10K a Month
+- [Q011432](../berichte/Q01/Q0114/Q011432/README.de.md) Localize Your iOS App Store Metadata & Screenshots the Easy Way
+- [Q011389](../berichte/Q01/Q0113/Q011389/README.de.md) Building Dynamic AI Agents with Graphiti: The Future of Real-Time Knowledge Graphs
+- [Q011811](../berichte/Q01/Q0118/Q011811/README.de.md) It happened on Medium: June 2025 roundup
+- [Q010244](../berichte/Q01/Q0102/Q010244/README.de.md) Agent2Agent Protocol In Super Detail +  Full Example(Server&Client) With OpenAI Agent As…
+- [Q010242](../berichte/Q01/Q0102/Q010242/README.de.md) SwiftUI: Custom Pull Down To Refresh
+- [Q010238](../berichte/Q01/Q0102/Q010238/README.de.md) SwiftUI: Authenticator App from Scratch + How Those Authenticator App Work Underhood
+- [Q011154](../berichte/Q01/Q0111/Q011154/README.de.md) Why JSON Prompts Make AI More Reliable (With Code & Real Examples)
+- [Q011500](../berichte/Q01/Q0115/Q011500/README.de.md) Implementing a Refractive Glass Shader in Metal
+- [Q010236](../berichte/Q01/Q0102/Q010236/README.de.md) SwiftUI/MacOS: Full Screen Cover / Overlay
+- [Q011540](../berichte/Q01/Q0115/Q011540/README.de.md) The 8 Best Platforms To Build Voice AI Agents
+- [Q010232](../berichte/Q01/Q0102/Q010232/README.de.md) Bedrock AgentCore Part2: Memory. A Combination of Raw Database, Vector store, And EventBridges!
+- [Q011388](../berichte/Q01/Q0113/Q011388/README.de.md) Top 6 MCP Servers to Build a Local AI Developer Assistant
+- [Q011499](../berichte/Q01/Q0114/Q011499/README.de.md) Recreating a Laminated Glass effect
+- [Q010230](../berichte/Q01/Q0102/Q010230/README.de.md) SwiftUI: Music Kit & Apple Music API in Details With an iTunes Copy Cat!
+- [Q011387](../berichte/Q01/Q0113/Q011387/README.de.md) How to Turn GitHub Repos into MCP Servers
+- [Q010228](../berichte/Q01/Q0102/Q010228/README.de.md) Bedrock AgentCore Part 3: Code Interpreter Beyond Code Execution!
+- [Q010226](../berichte/Q01/Q0102/Q010226/README.de.md) Swift Charts in 3D: The Marks, The Surface Plot!
+- [Q011386](../berichte/Q01/Q0113/Q011386/README.de.md) No More Backend Headaches: Motia Is the Framework I Didn’t Know I Needed
+- [Q010222](../berichte/Q01/Q0102/Q010222/README.de.md) Bedrock AgentCore Part4: Browser for Web Application Interactions
+- [Q010224](../berichte/Q01/Q0102/Q010224/README.de.md) Bedrock AgentCore Code Interpreter + Browser. A Simple Nova-Act Alternative?
+- [Q010220](../berichte/Q01/Q0102/Q010220/README.de.md) Bedrock AgentCore Part 5: Gateway. Turn Anything(s) into ONE MCP Server in Seconds!
+- [Q010218](../berichte/Q01/Q0102/Q010218/README.de.md) Bedrock AgentCore with Strands Agent Built-in Tools
+- [Q010214](../berichte/Q01/Q0102/Q010214/README.de.md) SwiftUI: Async Image and Beyond
+- [Q010216](../berichte/Q01/Q0102/Q010216/README.de.md) Strands Agent: All The Basics + Key Features I Use/Like the MOST
+- [Q011385](../berichte/Q01/Q0113/Q011385/README.de.md) Transforming PDFs into LLM-Ready Data with Dolphin
+- [Q010210](../berichte/Q01/Q0102/Q010210/README.de.md) SwiftUI: Send Messages/Email Without Leaving Our App
+- [Q010212](../berichte/Q01/Q0102/Q010212/README.de.md) Little SwiftUI Tip: Set Style(s) For ALL Instances of a View At Once!
+- [Q011384](../berichte/Q01/Q0113/Q011384/README.de.md) Libra AI: The Open-Source Alternative to V0/Lovable
+- [Q010208](../berichte/Q01/Q0102/Q010208/README.de.md) SwiftUI: Responsive UI Specialized for MacOS
+- [Q011810](../berichte/Q01/Q0118/Q011810/README.de.md) It happened on Medium: July 2025 roundup
+- [Q010206](../berichte/Q01/Q0102/Q010206/README.de.md) Swift: Localized String Without Localization (String Catalogs)
+- [Q011155](../berichte/Q01/Q0111/Q011155/README.de.md) LangExtract: Google’s Game-Changing Python Library for Data Extraction
+- [Q011808](../berichte/Q01/Q0118/Q011808/README.de.md) Editor newsletter: What makes an effective writing prompt?
+- [Q011809](../berichte/Q01/Q0118/Q011809/README.de.md) Writer Newsletter: Two examples of how to grow on Medium
+- [Q010204](../berichte/Q01/Q0102/Q010204/README.de.md) Swift Crypto Kit. All The Basic Operations + Use Cases
+- [Q011431](../berichte/Q01/Q0114/Q011431/README.de.md) Easily Add A Clean SwiftUI Sankey Diagram To Your App
+- [Q010200](../berichte/Q01/Q0102/Q010200/README.de.md) SwiftUI: Screen Capturing (Streaming/Sharing/Recording) on MacOS
+- [Q010202](../berichte/Q01/Q0102/Q010202/README.de.md) SwiftUI: Screenshot Programmatically on MacOS
+- [Q011383](../berichte/Q01/Q0113/Q011383/README.de.md) Elysia: The Open-Source Decision Tree Framework for AI Agents
+- [Q010198](../berichte/Q01/Q0101/Q010198/README.de.md) Bedrock AgentCore Part 6: Identity. More Than a Secure Key Storage!
+- [Q011382](../berichte/Q01/Q0113/Q011382/README.de.md) 10 Low-Cost Open-Source AI Agents That Actually Work
+- [Q011498](../berichte/Q01/Q0114/Q011498/README.de.md) Custom SwiftUI transitions with Metal
+- [Q010196](../berichte/Q01/Q0101/Q010196/README.de.md) SwiftUI: ScrollView Follow Custom Path, Of Custom Shape
+- [Q010960](../berichte/Q01/Q0109/Q010960/README.de.md) Remote AI Jobs: Your Guide to High-Demand Opportunities in the Digital Age
+- [Q011094](../berichte/Q01/Q0110/Q011094/README.de.md) My Top 3 Digital Brain to Stay Productive as a Senior Software Engineer
+- [Q011381](../berichte/Q01/Q0113/Q011381/README.de.md) Why You Should Build an MCP Server This Weekend
+- [Q010194](../berichte/Q01/Q0101/Q010194/README.de.md) SwiftUI: Peer-to-Peer with Wifi Aware. In Detail! With a Local Content Collaboration App!
+- [Q010192](../berichte/Q01/Q0101/Q010192/README.de.md) SwiftUI: Responsive UI (App) Beyond Screen Size/Orientation
+- [Q010190](../berichte/Q01/Q0101/Q010190/README.de.md) Swift Keychain. A Safer Place for Local Data.
+- [Q010188](../berichte/Q01/Q0101/Q010188/README.de.md) S3 Vector. A Cost-optimized, But Overly Purpose-built Vector Storage.
+- [Q010184](../berichte/Q01/Q0101/Q010184/README.de.md) Rust: Dyn (Dynamic Dispatch) vs Generics (Monomorphism)
+- [Q010186](../berichte/Q01/Q0101/Q010186/README.de.md) SwiftUI: Convert Path With A Given StokeStyle To Shape
+- [Q010182](../berichte/Q01/Q0101/Q010182/README.de.md) Rust: WebSocket with Axum For RealTime Communications
+- [Q010178](../berichte/Q01/Q0101/Q010178/README.de.md) Hey Slack! Answer my questions on my Confluence!
+- [Q010180](../berichte/Q01/Q0101/Q010180/README.de.md) Confluence + Bedrock KnowledgeBase + OpenSearch Serverless: Console & CDK
+- [Q011537](../berichte/Q01/Q0115/Q011537/README.de.md) iOS 26: How To Integrate Video Image Effects & AI Filters Into a SwiftUI App
+- [Q010176](../berichte/Q01/Q0101/Q010176/README.de.md) Rust: Verify Slack Request With Signed Secret
+- [Q010172](../berichte/Q01/Q0101/Q010172/README.de.md) SwiftUI: Master Audio Recording With AVAudioRecorder
+- [Q010174](../berichte/Q01/Q0101/Q010174/README.de.md) SwiftUI Key-Value Observing: From NS-Whatever To Combine
+- [Q010170](../berichte/Q01/Q0101/Q010170/README.de.md) Swift AVAudioEngine: All Those Crashes, Errors I have encountered! The Reasons & Solutions!
+- [Q011380](../berichte/Q01/Q0113/Q011380/README.de.md) Finally, A Free, Open-Source JSON Formatter Tool for Developers
+- [Q010168](../berichte/Q01/Q0101/Q010168/README.de.md) SwiftUI: AVAudioEngine With Swift Concurrency
+- [Q010164](../berichte/Q01/Q0101/Q010164/README.de.md) Hooks in Strands Agent. The Basics, The Usages. With Example Code!
+- [Q010166](../berichte/Q01/Q0101/Q010166/README.de.md) Strands Agent: Get User Approval (Or Denial)Before Tool Use. 3 Ways.
+- [Q010162](../berichte/Q01/Q0101/Q010162/README.de.md) SwiftUI: Custom Draggable Scroll Indicator
+- [Q010160](../berichte/Q01/Q0101/Q010160/README.de.md) Swift: Speech-To-Text With SpeechAnalyzer
+- [Q011497](../berichte/Q01/Q0114/Q011497/README.de.md) SDF in Metal: Adding the Liquid to the Glass
+- [Q010158](../berichte/Q01/Q0101/Q010158/README.de.md) Swift: Run Code At Specific Time. RunLoop vs DispatchQueue
+- [Q011378](../berichte/Q01/Q0113/Q011378/README.de.md) How to Make Money With n8n (Without Being a Tech Genius)
+- [Q011807](../berichte/Q01/Q0118/Q011807/README.de.md) Writer Newsletter Sept 2025: The path to getting featured on Medium (and new stats coming soon)
+- [Q009680](../berichte/Q00/Q0096/Q009680/README.de.md) A Simple GUI For Apple Container. Like the Docker Desktop!
+- [Q011806](../berichte/Q01/Q0118/Q011806/README.de.md) Editor newsletter: A deep dive into your new editor inbox
+- [Q010154](../berichte/Q01/Q0101/Q010154/README.de.md) Bevy: A Rust Game Engine. Basic Concepts in SUPER DETAIL.
+- [Q010152](../berichte/Q01/Q0101/Q010152/README.de.md) SwiftUI: Get Start With Metal Shader Using Layer Effect Modifiers
+- [Q010150](../berichte/Q01/Q0101/Q010150/README.de.md) SwiftUI: Horizontal Dial Picker
+- [Q010958](../berichte/Q01/Q0109/Q010958/README.de.md) Automate Your Job Search with AI Agents: Land Your Dream Job While You Sleep
+- [Q010959](../berichte/Q01/Q0109/Q010959/README.de.md) Prompt for Gemini Ai Couple Photo (100% Working)
+- [Q011805](../berichte/Q01/Q0118/Q011805/README.de.md) It happened on Medium: August 2025 roundup
+- [Q011804](../berichte/Q01/Q0118/Q011804/README.de.md) How to make the most of Medium Day 2025
+- [Q010146](../berichte/Q01/Q0101/Q010146/README.de.md) SwiftUI: LongPressGesture OnChange Not triggered! Updating Not triggered!
+- [Q010144](../berichte/Q01/Q0101/Q010144/README.de.md) Swift: Data Compression With Compression Framework
+- [Q011803](../berichte/Q01/Q0118/Q011803/README.de.md) Staff Picks: Medium Day Sessions We Can’t Wait to Attend
+- [Q011377](../berichte/Q01/Q0113/Q011377/README.de.md) Motia: The Open-Source Backend Framework Unifying APIs, Jobs, Workflows, and AI Agents
+- [Q010142](../berichte/Q01/Q0101/Q010142/README.de.md) SwiftUI: Render/Animate Geometries With Metal 4
+- [Q011376](../berichte/Q01/Q0113/Q011376/README.de.md) Spec Kit: The Open-Source Toolkit That Makes AI Coding Actually Work
+- [Q010138](../berichte/Q01/Q0101/Q010138/README.de.md) Typescript: Remote Notification Server With Certificate-Based Connection For APNs
+- [Q010140](../berichte/Q01/Q0101/Q010140/README.de.md) SwiftUI: Container Relative Frame for A Little Easier View Sizing
+- [Q010136](../berichte/Q01/Q0101/Q010136/README.de.md) HTTP Live Streaming In Detail + An HLS (VOD & LowLatency Live) Server
+- [Q010134](../berichte/Q01/Q0101/Q010134/README.de.md) Swift: WebSocket For Real Time Communication
+- [Q010132](../berichte/Q01/Q0101/Q010132/README.de.md) Strands Agents: Interesting Multi-Agent Pattern
+- [Q010128](../berichte/Q01/Q0101/Q010128/README.de.md) Little SwiftUI Tip: Monitor AVPlayer State In the Era of 26!
+- [Q010130](../berichte/Q01/Q0101/Q010130/README.de.md) Swift Foundation Models: A little Better Tools with Context!
+- [Q011375](../berichte/Q01/Q0113/Q011375/README.de.md) IBM’s Granite Docling: A New Open-Source Multimodal Model for Smarter Document AI
+- [Q011407](../berichte/Q01/Q0114/Q011407/README.de.md) Where to Start: Building a Piano App
+- [Q010124](../berichte/Q01/Q0101/Q010124/README.de.md) SwiftUI: Slider With Ticks. Basic Usage, Customization, and What NOT TO DO!
+- [Q011374](../berichte/Q01/Q0113/Q011374/README.de.md) How I Accidentally Built a $28K/Month Automation Agency in 6 Months
+- [Q011802](../berichte/Q01/Q0118/Q011802/README.de.md) Partner Program update: Starting October 1, we’re rewarding external traffic
+- [Q010122](../berichte/Q01/Q0101/Q010122/README.de.md) SwiftUI: Text-To-Speech And Beyond
+- [Q010957](../berichte/Q01/Q0109/Q010957/README.de.md) I Spend 0 Hours on This Side Hustle But Earn $100 Every Week
+- [Q011373](../berichte/Q01/Q0113/Q011373/README.de.md) 10 n8n Tricks Everyone Wishes They Knew Earlier
+- [Q010120](../berichte/Q01/Q0101/Q010120/README.de.md) AWS Lambda as MCP Tools: AWS Lambda MCP Server vs AgentCore Gateway
+- [Q010955](../berichte/Q01/Q0109/Q010955/README.de.md) 9 AI Side Hustles You Can Start for Free
+- [Q010956](../berichte/Q01/Q0109/Q010956/README.de.md) 7 Types of AI Agents Explained: A Complete Guide to Intelligent Agent Models in Artificial Intelligence
+- [Q010117](../berichte/Q01/Q0101/Q010117/README.de.md) Rust: Create SVG Images
+- [Q010111](../berichte/Q01/Q0101/Q010111/README.de.md) SwiftUI + QuickLook: Preview & Edit Files In App! Generate Thumbnails For Files! On the fly!
+- [Q010113](../berichte/Q01/Q0101/Q010113/README.de.md) SwiftUI: Generate Sounds/Signals With AVAudioEngine
+- [Q010115](../berichte/Q01/Q0101/Q010115/README.de.md) Little Update on My Apple Container GUI!
+- [Q011372](../berichte/Q01/Q0113/Q011372/README.de.md) LFM2-Audio-1.5B: A Fast, Lightweight AI Model for Real-Time Voice Conversations
+- [Q010109](../berichte/Q01/Q0101/Q010109/README.de.md) SwiftUI: Image Generation With Foundation Model
+- [Q010953](../berichte/Q01/Q0109/Q010953/README.de.md) Start Earning $10 Per Hour Today: 5 Real Online Jobs
+- [Q010104](../berichte/Q01/Q0101/Q010104/README.de.md) Little SwiftUI Tip: Adding Interactions to Path
+- [Q010106](../berichte/Q01/Q0101/Q010106/README.de.md) Rust: Trait With Async Methods
+- [Q011371](../berichte/Q01/Q0113/Q011371/README.de.md) The AI Prompt That Makes You Code Like a 10x Engineer.
+- [Q011370](../berichte/Q01/Q0113/Q011370/README.de.md) OpenAI’s AgentKit: A Simpler Way to Build and Deploy AI Agents
+- [Q011536](../berichte/Q01/Q0115/Q011536/README.de.md) Top 5 Realtime Speech-to-Speech APIs and Libraries To Build Voice Agents
+- [Q010102](../berichte/Q01/Q0101/Q010102/README.de.md) Rust: Clap + Derive Makes our Command Line Life Easy
+- [Q010099](../berichte/Q01/Q0100/Q010099/README.de.md) Build An App for ChatGPT! Step By Step!
+- [Q010950](../berichte/Q01/Q0109/Q010950/README.de.md) 7 Websites I Visit Every Day in 2025
+- [Q011369](../berichte/Q01/Q0113/Q011369/README.de.md) Samsung’s Tiny Recursive Model — The 7M-Parameter AI That Outsmarted DeepSeek-R1, Gemini 2.5 Pro, and o3-Mini
+- [Q010097](../berichte/Q01/Q0100/Q010097/README.de.md) Swift/iOS: Add Additional Setting Options/Info in Settings App
+- [Q010090](../berichte/Q01/Q0100/Q010090/README.de.md) Swift: Power Foundation Models With MCP Servers (Tools)
+- [Q010093](../berichte/Q01/Q0100/Q010093/README.de.md) Swift Foundation Models: Dynamic Tools with Dynamic Argument Structure & Dynamic Calls
+- [Q010095](../berichte/Q01/Q0100/Q010095/README.de.md) Swift: Combine Process and Subprocess for A Little Better/Easier Terminal Commanding
+- [Q010088](../berichte/Q01/Q0100/Q010088/README.de.md) OpenAI: Agent Builder Usage + Comparison To Similar Services
+- [Q010086](../berichte/Q01/Q0100/Q010086/README.de.md) OpenAI ChatKit: A FULL agentic chat experiences with One API Route and One Hook!
+- [Q011368](../berichte/Q01/Q0113/Q011368/README.de.md) Real-Time Pothole Detection on Raspberry Pi 5 with Hailo-8 and YOLOv8
+- [Q011801](../berichte/Q01/Q0118/Q011801/README.de.md) Editor newsletter: Tell Medium about your experience creating and running your publication
+- [Q010082](../berichte/Q01/Q0100/Q010082/README.de.md) SwiftUI: Webview ↔ JavaScript. Two-Way Communication.
+- [Q011367](../berichte/Q01/Q0113/Q011367/README.de.md) Fine-Tuning LLMs on NVIDIA DGX Spark with Unsloth
+- [Q011535](../berichte/Q01/Q0115/Q011535/README.de.md) Build Your First Voice and Video Call AI Agent in Python
+- [Q010080](../berichte/Q01/Q0100/Q010080/README.de.md) Swift: Apps SDK for Foundation Models just like Apps for ChatGPT
+- [Q011366](../berichte/Q01/Q0113/Q011366/README.de.md) OpenSpec: A Spec-Driven Workflow for AI Coding Assistants (No API Keys Needed)
+- [Q010078](../berichte/Q01/Q0100/Q010078/README.de.md) Little SwiftUI Tip: Copy Tables. To Notes, To Numbers!
+- [Q011800](../berichte/Q01/Q0118/Q011800/README.de.md) Writer newsletter: The first in a series of small Partner Program changes
+- [Q010076](../berichte/Q01/Q0100/Q010076/README.de.md) NextJs + Mastra: Can We Finally Get Rid of those Agentic Python Backends?
+- [Q011365](../berichte/Q01/Q0113/Q011365/README.de.md) Claude Desktop Might Be the Most Useful Free Tool You’ll Install This Year
+- [Q011799](../berichte/Q01/Q0117/Q011799/README.de.md) It happened on Medium: September 2025 roundup
+- [Q010074](../berichte/Q01/Q0100/Q010074/README.de.md) SwiftUI: Extract Information From Documents With Document Recognition
+- [Q011364](../berichte/Q01/Q0113/Q011364/README.de.md) The Claude Skills Cookbook: Anthropic’s New Context Engine Outperforms MCP??
+- [Q010070](../berichte/Q01/Q0100/Q010070/README.de.md) Multi-Agent with Swift Foundation Models: Agents as Tools + Turn Limits
+- [Q010072](../berichte/Q01/Q0100/Q010072/README.de.md) SwiftUI FocusState: A Little Pitfall I Fall Into
+- [Q011363](../berichte/Q01/Q0113/Q011363/README.de.md) Apple Quietly Dropped Pico-Banana-400K — The 400K Real-Image Dataset
+- [Q010068](../berichte/Q01/Q0100/Q010068/README.de.md) Little SwiftUI Tip: Convert Any (Common Format) Files to Image
+- [Q010065](../berichte/Q01/Q0100/Q010065/README.de.md) SwiftUI/iOS: WebView + FoundationModels ≈(?) AI Powered Browser App!
+- [Q011362](../berichte/Q01/Q0113/Q011362/README.de.md) Pokee Is the Anti-n8n: No Nodes, No Wiring, No API & Auth
+- [Q010063](../berichte/Q01/Q0100/Q010063/README.de.md) Cross-Platform Desktop App with Electron/React/Typescript
+- [Q011093](../berichte/Q01/Q0110/Q011093/README.de.md) Cursor 2.0 Broke My IDE Loyalty
+- [Q010060](../berichte/Q01/Q0100/Q010060/README.de.md) SwiftUI: Live Text Interactions with Images. Built-In Vs Custom.
+- [Q011361](../berichte/Q01/Q0113/Q011361/README.de.md) How to Instantly Convert SQL into RESTful APIs
+- [Q010057](../berichte/Q01/Q0100/Q010057/README.de.md) SwiftUI: WebView Crashes Hard On Me! When Understanding Class Vs Struct Actually Matters.
+- [Q011360](../berichte/Q01/Q0113/Q011360/README.de.md) Microsoft’s Agent Lightning: The Open-Source Framework That Trains and Optimizes AI Agents Automatically
+- [Q010055](../berichte/Q01/Q0100/Q010055/README.de.md) SwiftUI: Monitor/Restrict Device Activity. Our Own device or Family devices.
+- [Q011359](../berichte/Q01/Q0113/Q011359/README.de.md) The Top 5 Local LLMs (GLM4.5 GPT-OSS, Qwen3 )
+- [Q011797](../berichte/Q01/Q0117/Q011797/README.de.md) Partner Program update: Starting November 1, we’re rewarding search traffic
+- [Q011534](../berichte/Q01/Q0115/Q011534/README.de.md) Build Voice Agents With MCP: The Top 4 Frameworks and APIs
+- [Q010051](../berichte/Q01/Q0100/Q010051/README.de.md) SwiftUI: Make A Default Browser App. Step by Step
+- [Q010053](../berichte/Q01/Q0100/Q010053/README.de.md) OpenAI Codex SDK for Creating Our Own Codex Agent
+- [Q011358](../berichte/Q01/Q0113/Q011358/README.de.md) 10 Must-Have Chrome Extensions You Should Install (Out of 130,445+ Options)
+- [Q011796](../berichte/Q01/Q0117/Q011796/README.de.md) It happened on Medium: October 2025 roundup
+- [Q010047](../berichte/Q01/Q0100/Q010047/README.de.md) SwiftUI: Synchronized MultiView Playback
+- [Q011356](../berichte/Q01/Q0113/Q011356/README.de.md) Strix: The Open-Source AI Pentesting Tool That Hacks Your App Before Attackers Do
+- [Q010043](../berichte/Q01/Q0100/Q010043/README.de.md) Bedrock AgentCore Runtime: Stream Response for AI SDK Frontend
+- [Q010045](../berichte/Q01/Q0100/Q010045/README.de.md) The Full Stack Agentic App Architecture I Use + Skeleton App Available
+- [Q011355](../berichte/Q01/Q0113/Q011355/README.de.md) Google DS-STAR: The AI Agent That Automates Data Science from Analysis to Visualization
+- [Q011533](../berichte/Q01/Q0115/Q011533/README.de.md) Build an AI Voice Yoga Instructor in Python
+- [Q010041](../berichte/Q01/Q0100/Q010041/README.de.md) Little SwiftUI Tip:  Pull To Refresh For WebView
+- [Q011354](../berichte/Q01/Q0113/Q011354/README.de.md) How to Create Any Style of Animation for Free (Perfect for YouTube Automation)
+- [Q011794](../berichte/Q01/Q0117/Q011794/README.de.md) Editor Newsletter: Using the Feature tool can help stories reach 40–70% more publication readers
+- [Q011795](../berichte/Q01/Q0117/Q011795/README.de.md) Writer Newsletter: Do you need an image to publish a Medium story?
+- [Q010039](../berichte/Q01/Q0100/Q010039/README.de.md) Little SwiftUI Tip: Get Network Information & Monitor Changes
+- [Q011353](../berichte/Q01/Q0113/Q011353/README.de.md) How I Cut My LLM Token Costs by 80% with One Line of Code
+- [Q010036](../berichte/Q01/Q0100/Q010036/README.de.md) SwiftUI: Support In-App Purchase. In Super Detail!
+- [Q011352](../berichte/Q01/Q0113/Q011352/README.de.md) Run 100 LLMs on a Single GPU with flashtensors
+- [Q010034](../berichte/Q01/Q0100/Q010034/README.de.md) SwiftUI: 2.5 RELIABLE Ways to Automatically Scroll to the Bottom Of ScrollView
+- [Q010032](../berichte/Q01/Q0100/Q010032/README.de.md) AWS Amplify Gen.2 For Web App In Super Detail
+- [Q010027](../berichte/Q01/Q0100/Q010027/README.de.md) SwiftUI/MacOS: A Little Look into App Termination Behavior on Presentations
+- [Q010024](../berichte/Q01/Q0100/Q010024/README.de.md) GraphQL + App Sync: Working with Multiple Datasources
+- [Q011351](../berichte/Q01/Q0113/Q011351/README.de.md) How Adding One Header Cut Our AWS S3 Costs by 80%
+- [Q010022](../berichte/Q01/Q0100/Q010022/README.de.md) SwiftUI: Group Activity for REMOTE Synchronized Media Playback
+- [Q011350](../berichte/Q01/Q0113/Q011350/README.de.md) Olmo 3: The Fully-Open 7B & 32B AI Model Taking On Qwen and DeepSeek
+- [Q011484](../berichte/Q01/Q0114/Q011484/README.de.md) Metal 4 View for SwiftUI
+- [Q010020](../berichte/Q01/Q0100/Q010020/README.de.md) Little SwiftUI Tip: Custom Keyboard Submit Button Label
+- [Q011349](../berichte/Q01/Q0113/Q011349/README.de.md) Turn Any API Into an MCP Server in Seconds
+- [Q010018](../berichte/Q01/Q0100/Q010018/README.de.md) Swift Macros From 0 to Hero*0.01!
+- [Q011348](../berichte/Q01/Q0113/Q011348/README.de.md) CodeWiki: The New Way to Auto-Generate Documentation and Diagrams for Your Entire Codebase
+- [Q011406](../berichte/Q01/Q0114/Q011406/README.de.md) Liquid Glass: iOS Effect Explanation
+- [Q011483](../berichte/Q01/Q0114/Q011483/README.de.md) GPU Programming using Metal 4: Part 1
+- [Q011347](../berichte/Q01/Q0113/Q011347/README.de.md) 5 Agentic AI Projects You Can Actually Build This Weekend
+- [Q010016](../berichte/Q01/Q0100/Q010016/README.de.md) Swift Property Wrapper From Basic To Advance
+- [Q011346](../berichte/Q01/Q0113/Q011346/README.de.md) The “God Mode” Workflow I Use to Auto-Build WordPress Sites in 3 Minutes (n8n + Coolify + Gemini 3)
+- [Q010013](../berichte/Q01/Q0100/Q010013/README.de.md) SwiftUI: TipKit From Basic To Advance
+- [Q011345](../berichte/Q01/Q0113/Q011345/README.de.md) MiniMax-M2 vs. Kimi-K2 vs. Sonnet 4.5: The Open-Source LLM That Beats Big Tech at 8% of the Cost
+- [Q010011](../berichte/Q01/Q0100/Q010011/README.de.md) Little SwiftUI Tip: An Easier(Hopefully) Way to Get Location Permission
+- [Q010007](../berichte/Q01/Q0100/Q010007/README.de.md) Swift: Wallet Pass Pass.json. The Little Documentation Miss (?) I tripped on.
+- [Q010009](../berichte/Q01/Q0100/Q010009/README.de.md) SwiftUI: Create An Apple Wallet Pass and Make An App To Distribute it
+- [Q011344](../berichte/Q01/Q0113/Q011344/README.de.md) Stop Uploading Sensitive Files Everywhere — Meet VERT, a Local File Converter That Actually Respects Your Privacy
+- [Q010005](../berichte/Q01/Q0100/Q010005/README.de.md) SwiftUI: Create Your OWN Wallet Pass You Like! (With A Typescript Endpoint)
+- [Q011793](../berichte/Q01/Q0117/Q011793/README.de.md) Partner Program update: On December 1, we’re rewarding email notifications
+- [Q011343](../berichte/Q01/Q0113/Q011343/README.de.md) The Backend Roadmap Big Tech Actually Cares About (Not Just CRUD Apps)
+- [Q010002](../berichte/Q01/Q0100/Q010002/README.de.md) Little Swift Tip: 0.1*2 Steps Further to JSON Encoding/Decoding
+- [Q011342](../berichte/Q01/Q0113/Q011342/README.de.md) This Changes Everything: vLLM-Omni Unlocks True Multimodal AI for Developers
+- [Q011341](../berichte/Q01/Q0113/Q011341/README.de.md) Appwrite Sites: The Open-Source Vercel Alternative Developers Have Been Waiting For
+- [Q009998](../berichte/Q00/Q0099/Q009998/README.de.md) SwiftUI: Supporting Apple Pay
+- [Q011340](../berichte/Q01/Q0113/Q011340/README.de.md) LFM2 Breakthrough: Small Models That Outrun Giants on Phones and Laptops
+- [Q011532](../berichte/Q01/Q0115/Q011532/README.de.md) Build an Electronics Setup Voice Agent in Python
+- [Q011339](../berichte/Q01/Q0113/Q011339/README.de.md) Agentic Context Engineering (ACE): The Powerful New Way for LLMs to Self-Improve
+- [Q009993](../berichte/Q00/Q0099/Q009993/README.de.md) Swift Decimal. A Little Hidden (For Me) Gem When Calculating Floating Points
+- [Q011337](../berichte/Q01/Q0113/Q011337/README.de.md) DeepSeek Just Broke the O(L²) Attention Wall — And It Changes Everything for Long-Context AI
+- [Q011531](../berichte/Q01/Q0115/Q011531/README.de.md) Build a Vision AI Agent with Gemini 3
+- [Q011792](../berichte/Q01/Q0117/Q011792/README.de.md) Writer Newsletter: How to get your story featured by publication editors
+- [Q009991](../berichte/Q00/Q0099/Q009991/README.de.md) SwiftUI: Repetitive Button 2.5 ways. Built-in & Custom.
+- [Q011336](../berichte/Q01/Q0113/Q011336/README.de.md) Google Just Changed AI Development Forever — Meet Google MCP Server
+- [Q011335](../berichte/Q01/Q0113/Q011335/README.de.md) Google’s AlphaEvolve: The AI System That Evolves Code and Discovers New Science
+- [Q011791](../berichte/Q01/Q0117/Q011791/README.de.md) Editor Newsletter: What made these 3 featured stories reach 8x more readers?
+- [Q009989](../berichte/Q00/Q0099/Q009989/README.de.md) SwiftUI: Pair BLE Accessory in an Easy BUT Secure Way!
+- [Q011334](../berichte/Q01/Q0113/Q011334/README.de.md) Teaching Claude Code to Build n8n Workflows
+- [Q009986](../berichte/Q00/Q0099/Q009986/README.de.md) SwiftUI: Share Wi-Fi Network Credentials With Paired Accessories
+- [Q011530](../berichte/Q01/Q0115/Q011530/README.de.md) Build a Vision AI Agent with Gemini 3
+- [Q009984](../berichte/Q00/Q0099/Q009984/README.de.md) Swift Notifications Evolved Again: Type Safe, Concurrency Safe Messages!
+- [Q011482](../berichte/Q01/Q0114/Q011482/README.de.md) GPU Programming using Metal 4: Part 2
+- [Q010949](../berichte/Q01/Q0109/Q010949/README.de.md) gptHow I Make $200 a Day Selling AI Music Using ChatGPT
+- [Q011333](../berichte/Q01/Q0113/Q011333/README.de.md) How to Run Claude Code with Opus 4.5 at Maximum Power
+- [Q009982](../berichte/Q00/Q0099/Q009982/README.de.md) Little SwiftUI Tip: Get & Set & Watch Interface Orientation & Orientation Lock
+- [Q011332](../berichte/Q01/Q0113/Q011332/README.de.md) How to Code Better With AI Using One Weird Trick
+- [Q011331](../berichte/Q01/Q0113/Q011331/README.de.md) I Wired Claude Code to WhatsApp — Now I Run My Entire Development Workflow From My Phone
+- [Q011529](../berichte/Q01/Q0115/Q011529/README.de.md) Build a Video Restyling Agent in Python with Gemini 3 + Decart AI
+- [Q009978](../berichte/Q00/Q0099/Q009978/README.de.md) LiveActivity: REMOTE Control With Push Notifications
+- [Q009980](../berichte/Q00/Q0099/Q009980/README.de.md) APN Server for Controlling Apple Live Activity (Typescript)
+- [Q010947](../berichte/Q01/Q0109/Q010947/README.de.md) 7 AI Digital Products Quietly Making $10K–$1M Every Christmas (No One Talks About This)
+- [Q010948](../berichte/Q01/Q0109/Q010948/README.de.md) 10 AI Agents That Will Generate $1M With Zero Staff
+- [Q011330](../berichte/Q01/Q0113/Q011330/README.de.md) Agent Lightning: Add Reinforcement Learning to AI Agents Without Rewriting Code
+- [Q009973](../berichte/Q00/Q0099/Q009973/README.de.md) SwiftUI/Live Activity: BroadCast Push Notifications!
+- [Q009975](../berichte/Q00/Q0099/Q009975/README.de.md) Server(Typescript) for APNS Broadcasting
+- [Q009971](../berichte/Q00/Q0099/Q009971/README.de.md) Distribute Mac App As Disk Image (dmg)
+- [Q011481](../berichte/Q01/Q0114/Q011481/README.de.md) GPU Programming using Metal 4: Part 3
+- [Q009968](../berichte/Q00/Q0099/Q009968/README.de.md) SwiftUI/MacOS: Detect/Listen To Global Key Events Two Ways!
+- [Q011329](../berichte/Q01/Q0113/Q011329/README.de.md) Prompt Caching: Why Cached Tokens Are 10× Cheaper and Faster
+- [Q009966](../berichte/Q00/Q0099/Q009966/README.de.md) SwiftUI: Launch App With Side Button
+- [Q011328](../berichte/Q01/Q0113/Q011328/README.de.md) MiniMax M2.1: The Open-Source Coding Model to Elevate Code Engineering
+- [Q009964](../berichte/Q00/Q0099/Q009964/README.de.md) Little SwiftUI Tip: When Picker Options Depends On Some Other Controls
+- [Q011327](../berichte/Q01/Q0113/Q011327/README.de.md) Stop Repeating Instructions: GitHub Copilot Now Supports Agent Skills
+- [Q009962](../berichte/Q00/Q0099/Q009962/README.de.md) SwiftUI: Off-Device Speech To Text
+- [Q011326](../berichte/Q01/Q0113/Q011326/README.de.md) The Complete Polymarket Playbook: A practical guide to finding real edges
+- [Q009958](../berichte/Q00/Q0099/Q009958/README.de.md) Supabase From Super Base! With a Real Time ChatRoom App!
+- [Q009960](../berichte/Q00/Q0099/Q009960/README.de.md) SwiftUI: A Little Better Way of Asynchronous Data Fetch + Refresh
+- [Q009956](../berichte/Q00/Q0099/Q009956/README.de.md) SwiftUI: Auth With Supabase
+- [Q011325](../berichte/Q01/Q0113/Q011325/README.de.md) PRAW: The Python Reddit API Wrapper — Mint Money from Reddit Threads
+- [Q009954](../berichte/Q00/Q0099/Q009954/README.de.md) Swift/MacOS: Insert Text to (Other) Active Applications Two Ways
+- [Q011323](../berichte/Q01/Q0113/Q011323/README.de.md) Git Worktrees: A Great Git Feature in the Age of Agentic AI
+- [Q011324](../berichte/Q01/Q0113/Q011324/README.de.md) Google Cloud Pub/Sub: 5 Hard-Won Lessons from Load Testing
+- [Q009952](../berichte/Q00/Q0099/Q009952/README.de.md) SwiftUI: Sign in with Apple in ONE Line
+- [Q011322](../berichte/Q01/Q0113/Q011322/README.de.md) Before You Vibe Code, Let Claude Code Interview You
+- [Q011321](../berichte/Q01/Q0113/Q011321/README.de.md) Claude-in-Chrome Is Quietly Becoming the Best Frontend Debugger I’ve Ever Used
+- [Q009948](../berichte/Q00/Q0099/Q009948/README.de.md) SwiftUI: Process Some Natural Language!
+- [Q011496](../berichte/Q01/Q0114/Q011496/README.de.md) MetalGraph: a new way of working with Metal shaders for SwiftUI
+- [Q011320](../berichte/Q01/Q0113/Q011320/README.de.md) Petit: A Lightweight Task Orchestrator Built with Claude Opus 4.5 (When Kubernetes Is Overkill)
+- [Q009946](../berichte/Q00/Q0099/Q009946/README.de.md) Swift: Little UUID (Or CBUUID) Pitfall
+- [Q009944](../berichte/Q00/Q0099/Q009944/README.de.md) Supabase Edge function/WebSocket : ShutDown Right After Open, No Error, Cloud Only.
+- [Q011318](../berichte/Q01/Q0113/Q011318/README.de.md) 4-Step Way to Build Multi-Agent Systems That Actually Ship
+- [Q009942](../berichte/Q00/Q0099/Q009942/README.de.md) SwiftUI: Report Device Activity. Graphically, Visually!
+- [Q009939](../berichte/Q00/Q0099/Q009939/README.de.md) SwiftUI/MacOS: Little Input For Configuring Shortcuts (HotKey)
+- [Q011317](../berichte/Q01/Q0113/Q011317/README.de.md) CallMe: The Minimal Plugin That Lets Claude Code Call You When It’s Done
+- [Q011316](../berichte/Q01/Q0113/Q011316/README.de.md) Stop Arguing With Claude Code: Where Your Agent Rules Actually Belong
+- [Q011790](../berichte/Q01/Q0117/Q011790/README.de.md) Partner Program Update: Starting January 1, we’re rewarding writing more broadly
+- [Q009937](../berichte/Q00/Q0099/Q009937/README.de.md) Complete (Hopefully) Guide to Stripe Subscription With An Actual Spec I Worked On
+- [Q011789](../berichte/Q01/Q0117/Q011789/README.de.md) It happened on Medium in 2025
+- [Q009935](../berichte/Q00/Q0099/Q009935/README.de.md) Little SwiftUI Tip: Force Keyboard Language
+- [Q011314](../berichte/Q01/Q0113/Q011314/README.de.md) The ML Field You Have Never Heard Of
+- [Q011313](../berichte/Q01/Q0113/Q011313/README.de.md) Claude Code Hooks Change How You Write Code
+- [Q011788](../berichte/Q01/Q0117/Q011788/README.de.md) Writer Newsletter: 10 writing prompts to start 2026
+- [Q009933](../berichte/Q00/Q0099/Q009933/README.de.md) SwiftUI: Camera Capture on Lock Screen
+- [Q009931](../berichte/Q00/Q0099/Q009931/README.de.md) Supabase Storage Permission / Access Control + 0.01
+- [Q009929](../berichte/Q00/Q0099/Q009929/README.de.md) SwiftUI: In App Translation. From Simple One-Liner to Beyond!
+- [Q011312](../berichte/Q01/Q0113/Q011312/README.de.md) Codex-Orchestrator: Run OpenAI Codex Agents in Parallel Using tmux
+- [Q011787](../berichte/Q01/Q0117/Q011787/README.de.md) Editor Newsletter: We’re bringing back Pub Crawl!
+- [Q009927](../berichte/Q00/Q0099/Q009927/README.de.md) SwiftUI: Alerting with NSAlert
+- [Q011311](../berichte/Q01/Q0113/Q011311/README.de.md) The Best AI coding setup using Codex and Claude that helps you ship faster
+- [Q011310](../berichte/Q01/Q0113/Q011310/README.de.md) Plan with Codex, Build with Claude
+- [Q011309](../berichte/Q01/Q0113/Q011309/README.de.md) Bad AGENTS.md Are Making Your Coding Agent Worse
+- [Q009924](../berichte/Q00/Q0099/Q009924/README.de.md) SwiftUI: Video Calls With Twilio
+- [Q011308](../berichte/Q01/Q0113/Q011308/README.de.md) AirLLM: Run a 70B Model on a 4GB GPU
+- [Q009922](../berichte/Q00/Q0099/Q009922/README.de.md) Swift/iOS: Take Family Control To Production/Distribution
+- [Q009920](../berichte/Q00/Q0099/Q009920/README.de.md) Little Swift/iOS Tip: iPhone, Stay Awake!
+- [Q011306](../berichte/Q01/Q0113/Q011306/README.de.md) 50 Underrated Claude Tips That Actually Make You Better at Coding
+- [Q011305](../berichte/Q01/Q0113/Q011305/README.de.md) Clawdbot: The AI That Knows You Too Well
+- [Q009918](../berichte/Q00/Q0099/Q009918/README.de.md) SwiftUI: Realtime, Multi-User Content Collaboration With CloudFlare +YJS-Swift
+- [Q011304](../berichte/Q01/Q0113/Q011304/README.de.md) 5 AI Projects That Will Get You Hired in 2026
+- [Q011527](../berichte/Q01/Q0115/Q011527/README.de.md) How to Build a Local AI Voice Agent with Pocket TTS
+- [Q009916](../berichte/Q00/Q0099/Q009916/README.de.md) SwiftUI: Weather App Copy Cat with Weather Kit
+- [Q011303](../berichte/Q01/Q0113/Q011303/README.de.md) I Fixed AI Coding With One File — Karpathy-inspired CLAUDE.md
+- [Q009913](../berichte/Q00/Q0099/Q009913/README.de.md) SwiftUI: A Little PitFall on Lazy Grid I Tripped On
+- [Q011302](../berichte/Q01/Q0113/Q011302/README.de.md) Claude Supermemory: The Plugin That Gives Claude Code Long-Term Memory
+- [Q011430](../berichte/Q01/Q0114/Q011430/README.de.md) SwiftUI Tutorial: A 3D Rotating Wireframe Cube Loader
+- [Q009910](../berichte/Q00/Q0099/Q009910/README.de.md) SwiftUI/MacOS: Get Text Cursor (Caret) Position
+- [Q009907](../berichte/Q00/Q0099/Q009907/README.de.md) SwiftUI: OAuth With ASWebAuthenticationSession
+- [Q011300](../berichte/Q01/Q0113/Q011300/README.de.md) Google Just Killed Paid App Builders
+- [Q011526](../berichte/Q01/Q0115/Q011526/README.de.md) Realtime Speech-to-Text With Mistral Voxtral Transcribe 2
+- [Q011299](../berichte/Q01/Q0112/Q011299/README.de.md) The Claude Code hook system that turns you from a button-clicker into a workflow architect
+- [Q009902](../berichte/Q00/Q0099/Q009902/README.de.md) Supabase As OAuth2.1 Server With ZERO lines of Server-Side Code!
+- [Q009904](../berichte/Q00/Q0099/Q009904/README.de.md) SwiftUI/MacOS: Get Text Contents Near Text Cursor (Caret)
+- [Q011298](../berichte/Q01/Q0112/Q011298/README.de.md) 5 OpenClaw Business Models Printing $10K+/Month Right Now
+- [Q009899](../berichte/Q00/Q0098/Q009899/README.de.md) ElevenLabs API Doc is TOTALLY WRONG!
+- [Q011429](../berichte/Q01/Q0114/Q011429/README.de.md) How to Make Beautiful App Icons and Logos in Under 5 Minutes
+- [Q009897](../berichte/Q00/Q0098/Q009897/README.de.md) Little SwiftUI Tip: Get View Size without Displaying the View
+- [Q011297](../berichte/Q01/Q0112/Q011297/README.de.md) Claude Code Session Hooks: Make Every Session Start Smart (and End Clean)
+- [Q011786](../berichte/Q01/Q0117/Q011786/README.de.md) Pub Crawl Is Back: Two Days of Meetups, Booths, and Learning
+- [Q011296](../berichte/Q01/Q0112/Q011296/README.de.md) RIP OpenClaw: Building a Secure AI Agent with Claude Opus 4.6 and n8n
+- [Q011785](../berichte/Q01/Q0117/Q011785/README.de.md) Writer Newsletter: Join The Writers Circle to meet fellow writers and editors
+- [Q009894](../berichte/Q00/Q0098/Q009894/README.de.md) SwiftUI/MacOS: Contents Scrapping With AccessibilityAPI
+- [Q011295](../berichte/Q01/Q0112/Q011295/README.de.md) Self-Validating Agents in Claude Code: Automated Quality at Every Step
+- [Q011294](../berichte/Q01/Q0112/Q011294/README.de.md) Context Recovery Hook for Claude Code: Never Lose Work to Compaction
+- [Q011783](../berichte/Q01/Q0117/Q011783/README.de.md) How Medium started addressing its carbon footprint
+- [Q011784](../berichte/Q01/Q0117/Q011784/README.de.md) Editor newsletter: Nominate a fellow editor for Editor Awards
+- [Q009892](../berichte/Q00/Q0098/Q009892/README.de.md) Little SwiftUI Tip: Interact with App Store
+- [Q011293](../berichte/Q01/Q0112/Q011293/README.de.md) Building Agents That Actually Work: OpenAI’s New Toolkit for Long-Running Workflows
+- [Q009890](../berichte/Q00/Q0098/Q009890/README.de.md) SwiftUI: ReplayKit For Screen/Video/Audio Recording or Capturing
+- [Q011291](../berichte/Q01/Q0112/Q011291/README.de.md) Claude Code Skill Activation Hook: Guarantee 100% Skill Loading
+- [Q010937](../berichte/Q01/Q0109/Q010937/README.de.md) Ultra-X Night Vision Goggles
+- [Q011782](../berichte/Q01/Q0117/Q011782/README.de.md) Partner Program update: Starting February 17, we’re rewarding stories that bring in new members
+- [Q009887](../berichte/Q00/Q0098/Q009887/README.de.md) Swift/MacOS: Get Browser Opened Tab URL 2 Ways
+- [Q011427](../berichte/Q01/Q0114/Q011427/README.de.md) SwiftUI Tutorials: How to Create a Shimmer Loading Effect for Skeleton Screens
+- [Q011428](../berichte/Q01/Q0114/Q011428/README.de.md) SwiftUI Tutorials: How to Create a Stunning Animated Ocean Background Effect
+- [Q011426](../berichte/Q01/Q0114/Q011426/README.de.md) SwiftUI Tutorials: How to Create a 3D Flip Card with Parallax Effect
+- [Q011524](../berichte/Q01/Q0115/Q011524/README.de.md) Kimi K2.5: Build a Video/Vision Agent in Python
+- [Q009884](../berichte/Q00/Q0098/Q009884/README.de.md) SwiftUI/MacOS: Auto Window/Panel Resizing Based on Some State
+- [Q011425](../berichte/Q01/Q0114/Q011425/README.de.md) SwiftUI Tutorials: How to Create a Custom Pull-to-Refresh with Animated Character
+- [Q009878](../berichte/Q00/Q0098/Q009878/README.de.md) SwiftUI: Create A BroadCast Service with Replay Kit
+- [Q009881](../berichte/Q00/Q0098/Q009881/README.de.md) SwiftUI: BroadCast Our App with Replay Kit
+- [Q009876](../berichte/Q00/Q0098/Q009876/README.de.md) SwiftUI/MacOS: “Window” Following the Cursor (Mouse) Position
+- [Q011781](../berichte/Q01/Q0117/Q011781/README.de.md) Here’s What’s Happening At Pub Crawl 2026
+- [Q011523](../berichte/Q01/Q0115/Q011523/README.de.md) OpenAI Realtime API & GPT-Realtime-1.5: How to Connect Any Phone Number for AI Calls
+- [Q009873](../berichte/Q00/Q0098/Q009873/README.de.md) SwiftUI: Extract Word From Index Two Ways
+- [Q009870](../berichte/Q00/Q0098/Q009870/README.de.md) Supabase: Support Multi-Tenancy With Detail + Template Project
+- [Q009678](../berichte/Q00/Q0096/Q009678/README.de.md) I Don’t Code with AI And Here Is What I DO Use It For (Engineering-Wise)
+- [Q009868](../berichte/Q00/Q0098/Q009868/README.de.md) Swift: Control & Monitor Cellular Network Traffic Routing
+- [Q009866](../berichte/Q00/Q0098/Q009866/README.de.md) Swift: Sentry For Performance Monitoring
+- [Q009864](../berichte/Q00/Q0098/Q009864/README.de.md) Little Swift Tip: Encode/Decode Dates
+- [Q011424](../berichte/Q01/Q0114/Q011424/README.de.md) What Happens to Your ChatGPT Conversations? A Deep Dive Into AI Privacy Policies
+- [Q011780](../berichte/Q01/Q0117/Q011780/README.de.md) Meet the Editors Leading Pub Crawl This Year
+- [Q009861](../berichte/Q00/Q0098/Q009861/README.de.md) SwiftUI/MacOS: Custom Dock Icon PRIMARY Action
+- [Q011290](../berichte/Q01/Q0112/Q011290/README.de.md) The Best Local LLM Setup on a Single RTX 3090
+- [Q011289](../berichte/Q01/Q0112/Q011289/README.de.md) Someone Built a Full AI Agency on GitHub. 61 Agents. 10K Stars in 7 Days.
+- [Q011779](../berichte/Q01/Q0117/Q011779/README.de.md) How Medium moderates its open platform in the AI era
+- [Q009858](../berichte/Q00/Q0098/Q009858/README.de.md) SwiftUI: Support AirPlay to Route Playback To Other Devices
+- [Q011778](../berichte/Q01/Q0117/Q011778/README.de.md) Writer Newsletter: Why you should join us for Pub Crawl 2026
+- [Q011288](../berichte/Q01/Q0112/Q011288/README.de.md) Most People Use Claude Like a Search Engine. Here’s What the Top 1% Do Differently.
+- [Q009855](../berichte/Q00/Q0098/Q009855/README.de.md) Little SwiftUI Tip: Get User Age Range In One Line!
+- [Q011777](../berichte/Q01/Q0117/Q011777/README.de.md) Editor newsletter: And the winners of the Editor Awards are…
+- [Q009853](../berichte/Q00/Q0098/Q009853/README.de.md) SwiftUI/MacOS: Manage/Configure Audio Device (Microphone) Inputs
+- [Q011287](../berichte/Q01/Q0112/Q011287/README.de.md) Why Your AI Agent Needs a Database, Not a Folder
+- [Q009851](../berichte/Q00/Q0098/Q009851/README.de.md) SwiftUI: Request Parental Permission with PermissionKit
+- [Q009849](../berichte/Q00/Q0098/Q009849/README.de.md) Jetpack compose: Custom System Wide Keyboard
+- [Q011521](../berichte/Q01/Q0115/Q011521/README.de.md) Build a Local AI Agent with Qwen 3.5 Small
+- [Q011522](../berichte/Q01/Q0115/Q011522/README.de.md) Vibe Code an AI Plugin with Opus 4.6 for Vision Agents in Python
+- [Q011776](../berichte/Q01/Q0117/Q011776/README.de.md) Introducing the Activity tab: A new way to discover stories through the people who read them
+- [Q011775](../berichte/Q01/Q0117/Q011775/README.de.md) Writers, you now have more control over how AI companies use your stories
+- [Q011774](../berichte/Q01/Q0117/Q011774/README.de.md) Who do you already know on Medium? Connect your address book to (re)discover connections
+- [Q009847](../berichte/Q00/Q0098/Q009847/README.de.md) SwiftUI: Live Broadcasting with AWS IVS
+- [Q011286](../berichte/Q01/Q0112/Q011286/README.de.md) Claude Code did this: 400B AI on a Laptop
+- [Q009845](../berichte/Q00/Q0098/Q009845/README.de.md) SwiftUI: Handle WebView File/Image Upload
+- [Q009843](../berichte/Q00/Q0098/Q009843/README.de.md) Swift/MacOS + Supabase + Sparkle: Auto App Updates
+- [Q009841](../berichte/Q00/Q0098/Q009841/README.de.md) Swift: Safari Web Extensions From 0 to 0.01
+- [Q009839](../berichte/Q00/Q0098/Q009839/README.de.md) MacOS: Create (A Little?) Cooler dmg
+- [Q011616](../berichte/Q01/Q0116/Q011616/README.de.md) A smooth Swift 6 migration
+- [Q009837](../berichte/Q00/Q0098/Q009837/README.de.md) SwiftUI: Is My Container App (Or App’s xxx Feature) Running? Asked By My Keyboard Extension.
+- [Q011520](../berichte/Q01/Q0115/Q011520/README.de.md) Build a Multimodal Healthcare Agent with Grok Text-to-Speech
+- [Q009834](../berichte/Q00/Q0098/Q009834/README.de.md) Swift: Dynamic Safari Content Blocker
+- [Q009831](../berichte/Q00/Q0098/Q009831/README.de.md) Swift Audio Capturing: The Absolute Limit of AVAudioEngine! Time For HAL/AudioUnit!
+- [Q009829](../berichte/Q00/Q0098/Q009829/README.de.md) Swift: When ExtensionContext.Open Does NOT Open My App! + Solution!
+- [Q011773](../berichte/Q01/Q0117/Q011773/README.de.md) Writer Newsletter: New ways to find great stories, smarter paywalling, and 11 April writing prompts
+- [Q009827](../berichte/Q00/Q0098/Q009827/README.de.md) Swift/iOS: Receive iOS Notifications From Any App on Bluetooth Accessory
+- [Q010936](../berichte/Q01/Q0109/Q010936/README.de.md) I Quit My 9–5 and Built a $10K/Month AI Business
+- [Q009825](../berichte/Q00/Q0098/Q009825/README.de.md) SwiftUI AppStorage: DO NOT USE DOT(.)! In That KEY!
+- [Q011519](../berichte/Q01/Q0115/Q011519/README.de.md) Build a Restaurant Reservation AI Agent With Turbopuffer and Twilio
+- [Q011772](../berichte/Q01/Q0117/Q011772/README.de.md) Editor Newsletter: Prompts, new features, and a question for you
+- [Q009823](../berichte/Q00/Q0098/Q009823/README.de.md) Apple: I want ALL BETA documentations! Beta ONLY!
+- [Q011285](../berichte/Q01/Q0112/Q011285/README.de.md) Gemma 4 Just Got “Jailbroken”, The Most Powerful Uncensored 31B Model Yet
+- [Q009821](../berichte/Q00/Q0098/Q009821/README.de.md) Swift(UI): A Little Dive into Result Builder
+- [Q011771](../berichte/Q01/Q0117/Q011771/README.de.md) Writers, you can now set-and-forget your default paywall and subscriber notification settings
+- [Q009819](../berichte/Q00/Q0098/Q009819/README.de.md) Swift/iOS: Release File Lock If App Not Running Actively!
+- [Q011517](../berichte/Q01/Q0115/Q011517/README.de.md) How To Design AI Voices in Minutes Using Qwen3-TTS
+- [Q009817](../berichte/Q00/Q0098/Q009817/README.de.md) SwiftUI: Biometric Authentication with Local Authentication Framework
+- [Q009815](../berichte/Q00/Q0098/Q009815/README.de.md) SwiftUI: Authenticate with Firebase Using SMS (Phone Number + OTP)
+- [Q009813](../berichte/Q00/Q0098/Q009813/README.de.md) SwiftUI / Keyboard Kit: Be Careful On Retaining Self! weak self WITHIN weak self is required!
+- [Q011495](../berichte/Q01/Q0114/Q011495/README.de.md) Dotted background effect in Metal
+- [Q010933](../berichte/Q01/Q0109/Q010933/README.de.md) Forget Amazon & Walmart Jobs — These 5 Remote Gigs Pay Better From Home
+- [Q009811](../berichte/Q00/Q0098/Q009811/README.de.md) Little Swift UI Tip: Get Info Of Other Apps. By App ID, By Bundle Id.
+- [Q011283](../berichte/Q01/Q0112/Q011283/README.de.md) NVIDIA Is Offering 80+ AI Models for Free via APIs
+- [Q010932](../berichte/Q01/Q0109/Q010932/README.de.md) AI Already Replaced Some Designers
+- [Q009809](../berichte/Q00/Q0098/Q009809/README.de.md) SwiftUI: Custom Dropdown (Up) Menu + Change Option as Hovering
+- [Q011282](../berichte/Q01/Q0112/Q011282/README.de.md) 15 Internet Tools That Actually Change How You Work
+- [Q010931](../berichte/Q01/Q0109/Q010931/README.de.md) 78,557 Tech Workers Lost Their Jobs in 90 Days. Here’s the AI Tools Doing the Replacing
+- [Q009807](../berichte/Q00/Q0098/Q009807/README.de.md) Little SwiftUI Tip: What Does DeferSystemGesture Actually Do?
+- [Q009805](../berichte/Q00/Q0098/Q009805/README.de.md) Little SwiftUI Tip: Getting Some Cellular Information + Monitoring Changes
+- [Q010930](../berichte/Q01/Q0109/Q010930/README.de.md) What Your Boss’s AI Clone Really Means for Your Job
+- [Q011516](../berichte/Q01/Q0115/Q011516/README.de.md) How to Clone Any Voice in Minutes Using Voxtral TTS
+- [Q011281](../berichte/Q01/Q0112/Q011281/README.de.md) 10 GitHub Repos that Print Money While You Sleep
+- [Q009803](../berichte/Q00/Q0098/Q009803/README.de.md) SwiftUI + Google Maps Platform: Some Maps, Some Navigations!
+- [Q011770](../berichte/Q01/Q0117/Q011770/README.de.md) Editors, you can now claim stories in your submissions queue
+- [Q009801](../berichte/Q00/Q0098/Q009801/README.de.md) SwiftUI: Custom Bottom Sheet (Because System One Not Attached to Edges Anymore!)
+- [Q010929](../berichte/Q01/Q0109/Q010929/README.de.md) GPT-5.5 vs. Claude Opus 4.7
+- [Q011280](../berichte/Q01/Q0112/Q011280/README.de.md) I got 154 tok/s from a Single RTX 4090 running a 27B Model. Here’s the Exact Config.
+- [Q011279](../berichte/Q01/Q0112/Q011279/README.de.md) I Cancelled Three Backup Services After Finding This Open-Source Tool
+- [Q009799](../berichte/Q00/Q0097/Q009799/README.de.md) A Server Endpoint For App Store Server Notifications
+- [Q010928](../berichte/Q01/Q0109/Q010928/README.de.md) X Is Labelling AI Content
+- [Q011769](../berichte/Q01/Q0117/Q011769/README.de.md) Partner Program update: Starting June 1, we’re rewarding editors for stories they edit
+- [Q009797](../berichte/Q00/Q0097/Q009797/README.de.md) Swift/MacOS: Listen for Input Device Changes Three Ways
+- [Q010927](../berichte/Q01/Q0109/Q010927/README.de.md) AI Agents Are Replacing Entire Job Roles
+- [Q011092](../berichte/Q01/Q0110/Q011092/README.de.md) AI Coding Agents in the SDLC: The Hype, the Wins, and the Hard Truths After a Year in Production
+- [Q011768](../berichte/Q01/Q0117/Q011768/README.de.md) An update on the Boost Nomination Program, and what’s next
+- [Q011091](../berichte/Q01/Q0110/Q011091/README.de.md) The Ultimate Toolbox: Best New Apps and Tools for Software Engineers on Mac (2026 Edition)
+- [Q009794](../berichte/Q00/Q0097/Q009794/README.de.md) Swift: Advance Audio Handling With RNNoise
+- [Q011278](../berichte/Q01/Q0112/Q011278/README.de.md) I ran a 35-billion-parameter AI model at 128 tokens per second on a $429 GPU
+- [Q010926](../berichte/Q01/Q0109/Q010926/README.de.md) Prompt Engineering Is Dead
+- [Q011090](../berichte/Q01/Q0110/Q011090/README.de.md) The Shrinking Team: How AI Is Letting 3 Engineers Do the Work of 10 (And What It Means for Your…
+- [Q009790](../berichte/Q00/Q0097/Q009790/README.de.md) SwiftUI/iOS: Egg Drift — A Twisted Suica Game. But With Motion. In All Directions.
+- [Q009792](../berichte/Q00/Q0097/Q009792/README.de.md) SwiftUI: Please SWITCH To MY Keyboard. Said by my Container App Input.
+- [Q011276](../berichte/Q01/Q0112/Q011276/README.de.md) Start Fine-Tuning Open-Source Models. They Could Turn Into a $50K Career
+- [Q011766](../berichte/Q01/Q0117/Q011766/README.de.md) Writer Newsletter: Announcing Reposts and the new Editor Partner Program
+- [Q011767](../berichte/Q01/Q0117/Q011767/README.de.md) Reposting: A new way to share stories you love with your followers
+- [Q009788](../berichte/Q00/Q0097/Q009788/README.de.md) SwiftUI: Picture in Picture.
+- [Q011275](../berichte/Q01/Q0112/Q011275/README.de.md) A 15M Parameter Model Just Humiliated Billion-Dollar AI Infrastructure
+- [Q011764](../berichte/Q01/Q0117/Q011764/README.de.md) Three new features and announcing the Editor Partner Program
+- [Q011765](../berichte/Q01/Q0117/Q011765/README.de.md) Muting topics: A new way to control the stories you see on Medium
+- [Q009786](../berichte/Q00/Q0097/Q009786/README.de.md) Swift: Wait! Locale.current is NOT My Current Locale?
+- [Q010925](../berichte/Q01/Q0109/Q010925/README.de.md) I Work a 9-to-5 and Make $3,000/Month on the Side Using AI — Here’s the Exact System
+- [Q011089](../berichte/Q01/Q0110/Q011089/README.de.md) Top 10 Hard Lessons After 10 Years in Software Development
+- [Q009784](../berichte/Q00/Q0097/Q009784/README.de.md) SwiftUI: Provide/Use Systemwide Fonts
+- [Q010924](../berichte/Q01/Q0109/Q010924/README.de.md) The Boring AI Side Hustles That Are Actually Paying in 2026
+- [Q011274](../berichte/Q01/Q0112/Q011274/README.de.md) /goal Is the Most Underrated AI Feature of 2026 — Here’s How to Use It Right
+- [Q011515](../berichte/Q01/Q0115/Q011515/README.de.md) Gemini Live API & Lyria 3: Generate Music From Text, Phone & Video Calls
+- [Q011088](../berichte/Q01/Q0110/Q011088/README.de.md) I Use 5 AI Tools Every Day. Here’s Exactly What Each One Does for Me.
+- [Q009782](../berichte/Q00/Q0097/Q009782/README.de.md) SwiftUI/iOS: A Little Update To Egg Drift — A Twisted Suica Game. But With Motion. In All Directions.
+- [Q010922](../berichte/Q01/Q0109/Q010922/README.de.md) Stop Charging $15/hr as a VA. The AI Consultant Pipeline Is the Real Move in 2026.
+- [Q010923](../berichte/Q01/Q0109/Q010923/README.de.md) Gen Z Is Killing the 9–5 — And Millennials Are Finally Catching Up
+- [Q009780](../berichte/Q00/Q0097/Q009780/README.de.md) Swift/iOS: “Save To File” Not Showing Up In Share Sheet. Only Within Extension. Only On Real Device.
+- [Q011763](../berichte/Q01/Q0117/Q011763/README.de.md) Editors, you can now more easily decline and block low-effort submissions to your publication
+- [Q009776](../berichte/Q00/Q0097/Q009776/README.de.md) SwiftUI: GameCenter/GameKit Integration
+- [Q009778](../berichte/Q00/Q0097/Q009778/README.de.md) SwiftUI/iOS: Share Medias. But With Less Chaos.
+- [Q010920](../berichte/Q01/Q0109/Q010920/README.de.md) The Dark Side of Anthropic’s Growth
+- [Q010921](../berichte/Q01/Q0109/Q010921/README.de.md) Claude Code as a Freelance Income Machine: I Charged $2,000 for a Client App. Claude Wrote 80% of it.
+- [Q009774](../berichte/Q00/Q0097/Q009774/README.de.md) SwiftUI: Attention Point when Using ContentShape With Nested Interactive Views
+- [Q011762](../berichte/Q01/Q0117/Q011762/README.de.md) Join us for Medium Day 2026: Friday, September 18
+- [Q009769](../berichte/Q00/Q0097/Q009769/README.de.md) Little SwiftUI Tip: RGB/HSB Color to Hex String in One Line
+- [Q009772](../berichte/Q00/Q0097/Q009772/README.de.md) SwiftUI: Some Really Interesting (Annoying) Glass Effect Tint Behavior
+- [Q010919](../berichte/Q01/Q0109/Q010919/README.de.md) I Made My First Dollar Online Using a $27 Ebook — Here Is Exactly How
+- [Q009767](../berichte/Q00/Q0097/Q009767/README.de.md) Let’s Run Qwen3 On Mac! Voice Clone, Voice Design, Text To Speech!
+- [Q011086](../berichte/Q01/Q0110/Q011086/README.de.md) N8N vs Dify: A Deep Comparison for Developers Who Actually Build Things
+- [Q011087](../berichte/Q01/Q0110/Q011087/README.de.md) Prompt Engineering Is Dead. Here’s What Actually Gets AI to Write Good Code.
+- [Q010918](../berichte/Q01/Q0109/Q010918/README.de.md) 50 Claude Prompts That Turn a Chatbot Into a Workflow Machine
+- [Q009765](../berichte/Q00/Q0097/Q009765/README.de.md) Swift/iOS: A Better(?) Way to Make A Dictation App
+- [Q010917](../berichte/Q01/Q0109/Q010917/README.de.md) I Was Paying $1,400/Month for Content. I Fired My Agency and Built This Instead.
+- [Q010850](../berichte/Q01/Q0108/Q010850/README.de.md) 10 Claude Prompts That Replace a $900/hr Consultant
+- [Q011085](../berichte/Q01/Q0110/Q011085/README.de.md) Claude Opus 4.8 Just Dropped — And It’s Quietly Rewriting What AI Can Actually Do
+- [Q011273](../berichte/Q01/Q0112/Q011273/README.de.md) Set Opus 4.8 + /ultracode and Watch Claude Code Go Fully Autonomous
+- [Q011084](../berichte/Q01/Q0110/Q011084/README.de.md) How I’d Start Earning Money With AI Tools If I Were Beginning Today
+- [Q011272](../berichte/Q01/Q0112/Q011272/README.de.md) The Best Open Models for Every Hardware Tier in 2026
+- [Q009763](../berichte/Q00/Q0097/Q009763/README.de.md) Swift: Timeout Await Functions that JUST DON’T Cancel
+- [Q010916](../berichte/Q01/Q0109/Q010916/README.de.md) Claude Opus 4.8 Just Launched. Here’s Everything That Actually Changed.
+- [Q011083](../berichte/Q01/Q0110/Q011083/README.de.md) Most People Are Using AI to Get More Done. That’s Exactly Why They’re Getting Less Productive.
+- [Q011271](../berichte/Q01/Q0112/Q011271/README.de.md) 20 Claude Opus 4.8 Workflows That Can Make Money While You Sleep
+- [Q010915](../berichte/Q01/Q0109/Q010915/README.de.md) 10 More Claude Prompts That Replace a $900/hr Consultant (Part 2)
+- [Q011082](../berichte/Q01/Q0110/Q011082/README.de.md) The PC Just Got Its Biggest Upgrade in 30 Years
+- [Q009761](../berichte/Q00/Q0097/Q009761/README.de.md) Swift / CodableX: A Set of Macros to Make Encoding/Decoding A Little Easier
+- [Q010914](../berichte/Q01/Q0109/Q010914/README.de.md) 10 Claude Writing Templates That Save Me Hours Every Week
+- [Q009758](../berichte/Q00/Q0097/Q009758/README.de.md) iOS: SimCam is Cool? Let’s Reverse Engineer it!
+- [Q009756](../berichte/Q00/Q0097/Q009756/README.de.md) SwiftUI: Sign In With Apple When More Control Is Needed
+- [Q011270](../berichte/Q01/Q0112/Q011270/README.de.md) OpenAI Is Giving Away $1,200 in Free Codex Credits: Here’s How to Get Them
+- [Q011081](../berichte/Q01/Q0110/Q011081/README.de.md) AI Agents Wrote 800 Lines of My Code Last Week. I’m Not Sure How I Feel About That.
+- [Q011269](../berichte/Q01/Q0112/Q011269/README.de.md) How to Run Claude on Autopilot: The Complete 14-Step Automation Stack
+- [Q010849](../berichte/Q01/Q0108/Q010849/README.de.md) A GitHub Repo With One File Just Hit 144,000 Stars. It’s a Claude Skill.
+- [Q011080](../berichte/Q01/Q0110/Q011080/README.de.md) I kept building LLM apps that worked in demos and broke in production.
+- [Q011268](../berichte/Q01/Q0112/Q011268/README.de.md) NVIDIA Quietly Released an AI Model That Could Make You Money
+- [Q009754](../berichte/Q00/Q0097/Q009754/README.de.md) SwiftUI/WWDC26: Search Image(?) with Visual Intelligence
+- [Q011079](../berichte/Q01/Q0110/Q011079/README.de.md) Claude Fable 5 Turned a Two-Month Migration Into a Day’s Work. You Have Two Weeks to Try It.
+- [Q011267](../berichte/Q01/Q0112/Q011267/README.de.md) ChatGPT Has Quietly Built a File on You: 7 Prompts to See What’s Inside (And Delete What You Don’t Want)
+- [Q011761](../berichte/Q01/Q0117/Q011761/README.de.md) Writer Newsletter: Better repost stats and topic muting
+- [Q009752](../berichte/Q00/Q0097/Q009752/README.de.md) Swift/WWDC26: Images Finally Made To FoundationModels
+- [Q010913](../berichte/Q01/Q0109/Q010913/README.de.md) Anthropic Dropped Fable 5 Today. Here’s What You Need to Do Before June 22
+- [Q011078](../berichte/Q01/Q0110/Q011078/README.de.md) I Built a RAG System in 2025. The “RAG Is Dead” Posts Keep Telling Me to Delete It.
+- [Q011266](../berichte/Q01/Q0112/Q011266/README.de.md) Apple Just Made On-Device AI a Reality With Core AI
+- [Q010912](../berichte/Q01/Q0109/Q010912/README.de.md) 10 Claude Fable 5 Prompts That Unlock Its Full Power
+- [Q010983](../berichte/Q01/Q0109/Q010983/README.de.md) I Went Looking for the Best Local LLM for Coding in 2026.
+- [Q011760](../berichte/Q01/Q0117/Q011760/README.de.md) Editor Newsletter: Introducing the off-topic badge for your submissions inbox
+- [Q009750](../berichte/Q00/Q0097/Q009750/README.de.md) Swift: Hooks for Foundation Models. A Little Cleaner Way!
+- [Q011264](../berichte/Q01/Q0112/Q011264/README.de.md) This Open-Source Tool Cut My Claude Code Costs by 2.5× (Without Changing Models, Prompts, or CLAUDE.md)
+- [Q009748](../berichte/Q00/Q0097/Q009748/README.de.md) SwiftUI: Simple On-Device Video Analysis with Media Intelligence
+- [Q009746](../berichte/Q00/Q0097/Q009746/README.de.md) Swift: Let’s try to understand some music!
+- [Q010982](../berichte/Q01/Q0109/Q010982/README.de.md) My MacBook Pro M5 Max Killed Two of My AI Subscriptions. The Third One Won.
+- [Q011077](../berichte/Q01/Q0110/Q011077/README.de.md) The Backend Skills That Still Matter When AI Writes Half Your Code
+- [Q011076](../berichte/Q01/Q0110/Q011076/README.de.md) Stop Building One AI Assistant. Build a Team of Them.
+- [Q011759](../berichte/Q01/Q0117/Q011759/README.de.md) Editors, find your best submissions faster with the new off-topic badge
+- [Q009744](../berichte/Q00/Q0097/Q009744/README.de.md) SwiftUI/MacOS: A Custom ScrollView Without ScrollView
+- [Q011075](../berichte/Q01/Q0110/Q011075/README.de.md) My Neighbour Learned AI in Two Weeks. He’s 52 and Can’t Code in 2026
+- [Q009742](../berichte/Q00/Q0097/Q009742/README.de.md) SwiftUI: What’s the best way to Stroke (Outline) SF Symbols?
+- [Q010911](../berichte/Q01/Q0109/Q010911/README.de.md) I Installed the 144K-Star Karpathy CLAUDE.md File — Here’s What Changed
+- [Q010981](../berichte/Q01/Q0109/Q010981/README.de.md) Apple Put Its AI on Linux and Made It Free. I Spent the Weekend Finding the Catch.
+- [Q009740](../berichte/Q00/Q0097/Q009740/README.de.md) Swift: AVAudioEngine Manual Rendering for Offline, Post-Processing
+- [Q010910](../berichte/Q01/Q0109/Q010910/README.de.md) 27 Claude Code Tricks I Wish Someone Had Shown Me on Day One
+- [Q011074](../berichte/Q01/Q0110/Q011074/README.de.md) Nobody Writes Prompts Anymore. We Write Loops.
+- [Q010909](../berichte/Q01/Q0109/Q010909/README.de.md) How Claude Actually Works — A Developer’s Guide to LLMs Without the Math
+- [Q011422](../berichte/Q01/Q0114/Q011422/README.de.md) Tutorial: A Cinematic 3D Run Flyover in SwiftUI + MapKit
+- [Q011423](../berichte/Q01/Q0114/Q011423/README.de.md) SwiftUI Tutorial: Bendable Liquid Glass Text
+- [Q009737](../berichte/Q00/Q0097/Q009737/README.de.md) SwiftUI: Custom Secure Field
+- [Q010908](../berichte/Q01/Q0109/Q010908/README.de.md) 15 Claude Prompts Every Solo Developer Should Have Saved
+- [Q011073](../berichte/Q01/Q0110/Q011073/README.de.md) Why I Am Anxiously Waiting For the Mac mini M5 to Build My Local AI Box: The Math Behind It
+- [Q010907](../berichte/Q01/Q0109/Q010907/README.de.md) Your First Week With Claude — A Developer’s Setup Guide
+- [Q011071](../berichte/Q01/Q0110/Q011071/README.de.md) The AI Boom Won’t Last a Decade. After Ten Years of Chasing Tools, I’m Fine With That.
+- [Q011072](../berichte/Q01/Q0110/Q011072/README.de.md) A 65-Line Text File Has More GitHub Stars Than My Favorite Framework. I Wanted to Know Why.
+- [Q011070](../berichte/Q01/Q0110/Q011070/README.de.md) Everyone Is Refreshing Their Feed for GPT-5.6. The Model That Mattered Shipped From China Already.
+- [Q009735](../berichte/Q00/Q0097/Q009735/README.de.md) SwiftUI: Download and Use Google Font On the Run Time
+- [Q011263](../berichte/Q01/Q0112/Q011263/README.de.md) Stop Prompting AI Agents. Start Designing Loops: The 14-Step Roadmap Every Developer Should Know
+- [Q009733](../berichte/Q00/Q0097/Q009733/README.de.md) SwiftUI/MacOS: Add An Toolbar Accessory View
+- [Q010906](../berichte/Q01/Q0109/Q010906/README.de.md) I Deleted My Notion Setup After 3 Years. Here’s What I Use Instead.
+- [Q011068](../berichte/Q01/Q0110/Q011068/README.de.md) Every Morning I Was Re-Explaining My Own Project to Claude. So I Built It a Memory.
+- [Q011069](../berichte/Q01/Q0110/Q011069/README.de.md) OpenAI Burned $38.5 Billion in 2025. I Ship on Their API, So I Read the Whole Leak.
+- [Q011066](../berichte/Q01/Q0110/Q011066/README.de.md) Prompt Injection: I Hid One Sentence in a Web Page and the AI Agent Obeyed
+- [Q011067](../berichte/Q01/Q0110/Q011067/README.de.md) Apple Just Raised Mac and iPad Prices by Up to $300. The Real Story Has Nothing to Do With Apple.
+- [Q009731](../berichte/Q00/Q0097/Q009731/README.de.md) SwiftUI: Intercept-able Picker / Menu / Context Menu
+- [Q010905](../berichte/Q01/Q0109/Q010905/README.de.md) The Claude.md File That’s Breaking the Internet — I Tested Every Version
+- [Q011065](../berichte/Q01/Q0110/Q011065/README.de.md) An AI Agent Designed My Database. It Passed Every Test and Still Crawled in Production
+- [Q011262](../berichte/Q01/Q0112/Q011262/README.de.md) 27 Hidden Claude Features, Settings & Shortcuts Every Power User Should Know
+- [Q009726](../berichte/Q00/Q0097/Q009726/README.de.md) SwiftUI/MacOS: Expose App Actions to Folder/File Context Menu With NSService
+- [Q010904](../berichte/Q01/Q0109/Q010904/README.de.md) Prompting for Developers — The Structure That Actually Works
+- [Q011063](../berichte/Q01/Q0110/Q011063/README.de.md) 10 Productivity Habits That Make Me Faster Than Most Devs I Work With
+- [Q011064](../berichte/Q01/Q0110/Q011064/README.de.md) Everyone’s Talking About GPT-5.6 Sol. The Tier That Actually Matters Costs Half as Much.
+- [Q011261](../berichte/Q01/Q0112/Q011261/README.de.md) Ponytail: The AI Plugin That Makes Claude Code Write 54% Less Code Without Breaking Anything
+- [Q011062](../berichte/Q01/Q0110/Q011062/README.de.md) DeepSeek Fit in My MacBook’s Memory. It Still Wouldn’t Run. That’s the Whole Story of AI Right Now.
+- [Q009724](../berichte/Q00/Q0097/Q009724/README.de.md) Little SwiftUI/MacOS Tip: Open + Select File/Folder In Finder
+- [Q010980](../berichte/Q01/Q0109/Q010980/README.de.md) A YouTuber Just Did More for Self-Hosted AI Than a Decade of Open Source
+- [Q011259](../berichte/Q01/Q0112/Q011259/README.de.md) Every App Store Rejection Costs You Days. This Open-Source CLI Finds Problems Before Apple Does.
+- [Q011758](../berichte/Q01/Q0117/Q011758/README.de.md) New: A program to pay publication editors
+- [Q010903](../berichte/Q01/Q0109/Q010903/README.de.md) Claude Fable 5 Is Back. These 10 Prompts Turn Hours of Work Into Seconds.
+- [Q011258](../berichte/Q01/Q0112/Q011258/README.de.md) Cloudflare Monetisation Gateway: Charge for Any API, Website, or AI Tool Without Building a Payment System
+- [Q011060](../berichte/Q01/Q0110/Q011060/README.de.md) I Stopped Reading Third-Party API Docs Cover to Cover. NotebookLM Reads Them First Now.
+- [Q011061](../berichte/Q01/Q0110/Q011061/README.de.md) I Ran Three AI Coding Agents at Once and Turned Into Young Steve Jobs
+- [Q011257](../berichte/Q01/Q0112/Q011257/README.de.md) This Solo Developer Won the Anthropic Hackathon in 8 Hours — Then Open-Sourced the Entire AI Coding Stack
+- [Q010902](../berichte/Q01/Q0109/Q010902/README.de.md) AI Just Killed the $90K Junior Developer Job. The Data Is Brutal.
+- [Q011058](../berichte/Q01/Q0110/Q011058/README.de.md) I Build AI Workflows That Save People Hours.
+- [Q011059](../berichte/Q01/Q0110/Q011059/README.de.md) I Ship Code With AI Every Day. I’m Still Done With the Hype.
+- [Q011256](../berichte/Q01/Q0112/Q011256/README.de.md) The Smartest Fable 5 Tip I’ve Seen: Use It to Teach Opus 4.8 Before Pay-Per-Use Arrives
+- [Q009722](../berichte/Q00/Q0097/Q009722/README.de.md) SwiftUI: LockScreen/ControlCenter Media Control Two Ways
+- [Q011057](../berichte/Q01/Q0110/Q011057/README.de.md) Amazon and Twilio Both Walked Back Their Microservices. Nobody Wanted to Say It Out Loud Until Now.
+- [Q011055](../berichte/Q01/Q0110/Q011055/README.de.md) Manifold Programming Is the Newest “Skill That Will Save Your Job From AI.”
+- [Q011056](../berichte/Q01/Q0110/Q011056/README.de.md) The Bank That Lost $2.1 Billion to COBOL Doesn’t Exist. The Ones That Did Are Worse.
+- [Q011255](../berichte/Q01/Q0112/Q011255/README.de.md) Build a Self-Improving AI Agent System with Claude Fable 5: A Complete 14-Step Guide
+- [Q010901](../berichte/Q01/Q0109/Q010901/README.de.md) I Tested 5 ‘LLM Wiki’ Implementations So You Don’t Have To
+- [Q011053](../berichte/Q01/Q0110/Q011053/README.de.md) Claude Has a Hidden “Thinking Space” It Built by Itself. Anthropic Just Learned to Read It.
+- [Q011054](../berichte/Q01/Q0110/Q011054/README.de.md) SpaceX Just Started Renting Its GPUs to Google and Anthropic. I’ve Watched This Exact Move Before, on AWS.
+- [Q009720](../berichte/Q00/Q0097/Q009720/README.de.md) SwiftUI/MacOS: Supporting “Open With” is Easy, but there is a little Pitfall…
+- [Q011051](../berichte/Q01/Q0110/Q011051/README.de.md) Claude Code Writes My Code. Codex Reviews It. The Arguing Is the Point.
+- [Q011052](../berichte/Q01/Q0110/Q011052/README.de.md) The “Run AWS Free on Your Laptop” Advice Going Around Right Now Is Already Out of Date
+- [Q011253](../berichte/Q01/Q0112/Q011253/README.de.md) Turn Opus 4.8 Into Fable 5: The One SKILL.md File You Should Create Before the Window Closes
+- [Q011757](../berichte/Q01/Q0117/Q011757/README.de.md) Writer Newsletter: Get the 10-day Medium Starter Pack for writers
+- [Q010900](../berichte/Q01/Q0109/Q010900/README.de.md) I Read Every Viral Claude Skills Article This Month. Here’s What They’re All Missing.
+- [Q011050](../berichte/Q01/Q0110/Q011050/README.de.md) The Senior Engineer Who Quit Being a “Verification Layer” Was Sitting on the Only Skill the Agents…
+- [Q011252](../berichte/Q01/Q0112/Q011252/README.de.md) Claude’s Multi-Agent System: Why It’s Much Cheaper Than Running Opus for Everything
+- [Q009718](../berichte/Q00/Q0097/Q009718/README.de.md) Swift: Encode Struct Preserving Nil 3 Ways!
+- [Q011049](../berichte/Q01/Q0110/Q011049/README.de.md) Everyone Says Graphify Cut Their AI Coding Bill 70x.
+- [Q011251](../berichte/Q01/Q0112/Q011251/README.de.md) OpenObserve: The Open-Source Datadog Alternative That Stores Logs 140× Cheaper
+- [Q011048](../berichte/Q01/Q0110/Q011048/README.de.md) Grok 4.5 Costs 80% Less Than Opus 4.8. Here’s the Catch Nobody Headlined
+- [Q011250](../berichte/Q01/Q0112/Q011250/README.de.md) How to Set Up Multiple Macs for Always-On AI Agents
+- [Q009716](../berichte/Q00/Q0097/Q009716/README.de.md) Swift: A Little Docker Compose Parser
+- [Q010899](../berichte/Q01/Q0108/Q010899/README.de.md) I Read Every Claude Code Cost Complaint on GitHub. Here’s the Pattern Nobody’s Naming.
+- [Q011047](../berichte/Q01/Q0110/Q011047/README.de.md) The Best Coder I Ever Mentored Almost Got Let Go in His First Year. It Was Never About the Code.
+- [Q011249](../berichte/Q01/Q0112/Q011249/README.de.md) The New AI Stack: Models, Harnesses, Loops, and Self-Improving Agents
+- [Q011045](../berichte/Q01/Q0110/Q011045/README.de.md) AI Won’t Surpass Us. It Will Average Us.
+- [Q011046](../berichte/Q01/Q0110/Q011046/README.de.md) Four Python Libraries That Killed Most of My LLM Boilerplate in 2026
+- [Q011248](../berichte/Q01/Q0112/Q011248/README.de.md) FablePlan: Use Claude Fable 5 for Planning and Opus 4.8 for Coding
+- [Q011756](../berichte/Q01/Q0117/Q011756/README.de.md) Medium Day 2026: Register Now
+- [Q010898](../berichte/Q01/Q0108/Q010898/README.de.md) Why Claude Fable 5 Keeps Silently Switching You to Opus 4.8 — and What Actually Triggers It
+- [Q011247](../berichte/Q01/Q0112/Q011247/README.de.md) Cloudflare Drop: Instantly Deploy Any Static Website Without Creating an Account
+- [Q011755](../berichte/Q01/Q0117/Q011755/README.de.md) Editor Newsletter: The Editor Partner Program is now open to all qualifying publications
+- [Q009712](../berichte/Q00/Q0097/Q009712/README.de.md) Swift/MacOS OnDevice STT. Which Model To Choose? (MLX)
+- [Q011043](../berichte/Q01/Q0110/Q011043/README.de.md) Graphify Setup in 20 Minutes: What Works, What Breaks, What’s Not Free
+- [Q011044](../berichte/Q01/Q0110/Q011044/README.de.md) Stop Trying to Learn AI. Start Shipping With It.
+- [Q011246](../berichte/Q01/Q0112/Q011246/README.de.md) LiteRT.js: Run AI Directly in the Browser with GPU Acceleration (No Server Required)
+- [Q011754](../berichte/Q01/Q0117/Q011754/README.de.md) Readers, you can now share a note with stories you repost
+- [Q010897](../berichte/Q01/Q0108/Q010897/README.de.md) The 171k-Star .claude Directory That’s Quietly Replacing Prompt Engineering
+- [Q011041](../berichte/Q01/Q0110/Q011041/README.de.md) The Vibe-Coded Slop You Can See Is the Least of Your Problems
+- [Q011042](../berichte/Q01/Q0110/Q011042/README.de.md) I Built My First AI Agent. It Ran All Night and Left Me a $180 Bill.
+- [Q009710](../berichte/Q00/Q0097/Q009710/README.de.md) MacOS: PrivateTranscriber. Private Alternative to WhisperFlow. Faster Than VoiceBox
+- [Q011040](../berichte/Q01/Q0110/Q011040/README.de.md) One Update Made My Local AI 90% Faster. The 90% Disappears the Moment You Stop Coding.
+- [Q009708](../berichte/Q00/Q0097/Q009708/README.de.md) Swift/SpeechTranscriber: Support Multi-Language Without Manual Locale Switching
+- [Q010896](../berichte/Q01/Q0108/Q010896/README.de.md) I Deleted the Viral CLAUDE.md File. My Code Got Better.
+- [Q011038](../berichte/Q01/Q0110/Q011038/README.de.md) The World’s Largest Open Model Just Dropped. You Still Can’t Run It.
+- [Q011039](../berichte/Q01/Q0110/Q011039/README.de.md) I Installed 30 Claude Skills. 5 Survived a Week of Real Work
+- [Q011243](../berichte/Q01/Q0112/Q011243/README.de.md) I Stopped “Prompting” AI to Write Code. I Built an Agentic Coding System Instead.
+- [Q011037](../berichte/Q01/Q0110/Q011037/README.de.md) Claude Code Turned Background Agents On by Default. I Turned Them Off After One Refactored 14 Files.
+- [Q011242](../berichte/Q01/Q0112/Q011242/README.de.md) Why Every AI Coding Agent Needs /improve-react (Before You Merge Another React PR)
+- [Q009706](../berichte/Q00/Q0097/Q009706/README.de.md) Swift: Dive into On-Device STT With CoreAI (Whisper)
+- [Q011036](../berichte/Q01/Q0110/Q011036/README.de.md) I Gave a Local LLM 650 of My Notes. Keyword Search Still Beat It Sometimes.
+- [Q009704](../berichte/Q00/Q0097/Q009704/README.de.md) + Docker Compose Support! Said my Apple Container Desktop!
+- [Q010895](../berichte/Q01/Q0108/Q010895/README.de.md) Claude Code Shipped 7 Updates in July. These Are the Ones Actually Worth Your Time.
+- [Q011034](../berichte/Q01/Q0110/Q011034/README.de.md) Is It Too Late to Learn AI? I Did the Arithmetic on All 8.3 Billion of Us.
+- [Q011035](../berichte/Q01/Q0110/Q011035/README.de.md) My Payment Code Can Refund the Same User Twice.
+- [Q011033](../berichte/Q01/Q0110/Q011033/README.de.md) Why AI Porn Is Impossible to Stop, From Someone Who Builds With It
+- [Q011241](../berichte/Q01/Q0112/Q011241/README.de.md) Stop Paying for Expensive AI Tools. These 10 Alternatives Can Save You Hundreds Every Month.
+- [Q010894](../berichte/Q01/Q0108/Q010894/README.de.md) 5 Claude Prompts That Helped Me Ship a Feature in 2 Hours Instead of 2 Days
+- [Q011032](../berichte/Q01/Q0110/Q011032/README.de.md) NotebookLM Is Now Gemini Notebook: What Actually Changed
+- [Q011240](../berichte/Q01/Q0112/Q011240/README.de.md) Stop Adding Random Animations: This New AI Skill Finds Exactly What Your UI Should Animate
+- [Q011031](../berichte/Q01/Q0110/Q011031/README.de.md) Congress Wants to Give You a Copyright on Your Own Face
+- [Q009702](../berichte/Q00/Q0097/Q009702/README.de.md) SwiftUI: App Intents Make Spotlight Integration Easy!
+- [Q010893](../berichte/Q01/Q0108/Q010893/README.de.md) How I Saved $18,000 a Year Automating Data Cleaning With AI
+- [Q011029](../berichte/Q01/Q0110/Q011029/README.de.md) OpenAI’s Model “Escaped Its Sandbox.” It Wasn’t a Leak, It Was a Press Release.
+- [Q011030](../berichte/Q01/Q0110/Q011030/README.de.md) Claude Opus 5’s Highest Setting Scores Lower Than the One Below It
+- [Q011239](../berichte/Q01/Q0112/Q011239/README.de.md) How to Build a Faceless Instagram Account That Can Eventually Earn $1000+ Per Month
+- [Q009700](../berichte/Q00/Q0097/Q009700/README.de.md) How Apple Container + builder-shim build our Docker Image
+- [Q009673](../berichte/Q00/Q0096/Q009673/README.de.md) A Full Weekend Coding without AI
+- [Q011028](../berichte/Q01/Q0110/Q011028/README.de.md) The AI Bubble Is Nothing Like Dot-Com. That’s the Part That Should Worry You.
+- [Q011026](../berichte/Q01/Q0110/Q011026/README.de.md) 41% of LinkedIn Posts Are Fully AI. The Feed Was Built to Reward Them.
+- [Q011027](../berichte/Q01/Q0110/Q011027/README.de.md) AI Just Flagged 250,000 Fake Cancer Papers. It Was Trained on the Same Pile.
+- [Q011753](../berichte/Q01/Q0117/Q011753/README.de.md) Who’s on the Medium Day 2026 schedule?
+- [Q009698](../berichte/Q00/Q0096/Q009698/README.de.md) Little SwiftUI Tip: Add Some Customizations to File Importer / Exporter / Mover
+- [Q011025](../berichte/Q01/Q0110/Q011025/README.de.md) The AGI Test Went From 0.37% to 30.2% in Four Months. It’s Testing the One Skill You Were Told to Fall Back On.
+- [Q010892](../berichte/Q01/Q0108/Q010892/README.de.md) Prompt Packs Are Dead. These 9 GitHub Repos Show What Replaced Them.
+- [Q011023](../berichte/Q01/Q0110/Q011023/README.de.md) Two Engineers Made a Joke About Graph Engineering. Six Days Later It Had Courses.
+- [Q011024](../berichte/Q01/Q0110/Q011024/README.de.md) The Most Useful AI of 2026 Isn’t a Chatbot. It Runs on One Graphics Card.
+- [Q011236](../berichte/Q01/Q0112/Q011236/README.de.md) 10 GitHub Repositories That Let You Run Powerful AI Locally (Without Paying for API Calls)
+- [Q009696](../berichte/Q00/Q0096/Q009696/README.de.md) SwiftUI: Stream Media to 3rd Party Devices
+- [Q011022](../berichte/Q01/Q0110/Q011022/README.de.md) DeepSeek V4 Quietly Swapped Out the Residual Connection. The Fix Is Math From 1967.
+- [Q011235](../berichte/Q01/Q0112/Q011235/README.de.md) Microsoft Just Turned Qwen3.5–27B into a Browser Agent That Beats OpenAI Operator
+- [Q009694](../berichte/Q00/Q0096/Q009694/README.de.md) I Got a Chance to Build A RAG for Legal Docs
+- [Q011021](../berichte/Q01/Q0110/Q011021/README.de.md) Kimi K3 Really Does Run on a 4GB GPU. A 500-Token Answer Takes 42 Hours.
+- [Q011233](../berichte/Q01/Q0112/Q011233/README.de.md) Stop Using OCR: This Rust Library Extracts Clean Markdown from PDFs Faster and Smarter
+- [Q011511](../berichte/Q01/Q0115/Q011511/README.de.md) Integrate Local and Open-Source Core AI Models Into Stream Chat
+- [Q009692](../berichte/Q00/Q0096/Q009692/README.de.md) DevLens (MacOS): Inspect any screenshot with pixel precision.
+- [Q011232](../berichte/Q01/Q0112/Q011232/README.de.md) Want to Become World-Class at LLMs? Read These 7 Essential Books
+- [Q011752](../berichte/Q01/Q0117/Q011752/README.de.md) Announcing an exclusive track for Friends of Medium at Medium Day 2026
+- [Q011020](../berichte/Q01/Q0110/Q011020/README.de.md) The AI Agent Skills Study Everyone Cites Has a Number for Software Engineering. It’s 4.5.
+- [Q011750](../berichte/Q01/Q0117/Q011750/README.de.md) Join Medium Writing Hour
+- [Q011751](../berichte/Q01/Q0117/Q011751/README.de.md) Meet our community at The Writers Circle
+- [Q010891](../berichte/Q01/Q0108/Q010891/README.de.md) Claude Code’s 15,004 Open Issues — I Read the Top 30, So You Don’t Have To
+- [Q011230](../berichte/Q01/Q0112/Q011230/README.de.md) The First 10 Million Token AI Model You Can Run on a Single GPU Is Here
+- [Q011231](../berichte/Q01/Q0112/Q011231/README.de.md) 10 GitHub Repositories That Can Replace Software Worth $50,000+ Per Year
+- [Q011749](../berichte/Q01/Q0117/Q011749/README.de.md) Writer Newsletter: This small design experiment increased reads on Medium
+- [Q009690](../berichte/Q00/Q0096/Q009690/README.de.md) SwiftUI: P2P with Network Framework Two Ways (-OS 26 support vs Not)
+- [Q011229](../berichte/Q01/Q0112/Q011229/README.de.md) HermesOffice: The Open-Source Office Suite With a Real AI Agent Running 100% on Your Machine
+- [Q011748](../berichte/Q01/Q0117/Q011748/README.de.md) Editor Newsletter: Give a reason for declining, a clearer EPP dashboard, and Editor Awards
+- [Q010890](../berichte/Q01/Q0108/Q010890/README.de.md) 96,000 Stars Later, GitHub’s Most Viral Claude Code Skill Still Has One File Almost Nobody Reads
+- [Q011019](../berichte/Q01/Q0110/Q011019/README.de.md) Local AI on the Mac Was the Easy Part. Memory Is the Hard Part.
+- [Q011228](../berichte/Q01/Q0112/Q011228/README.de.md) Everyone Is Buying Bigger AI Computers. Engineers Are Building Swarms of $8 Chips Instead.
+- [Q011227](../berichte/Q01/Q0112/Q011227/README.de.md) Stop Building AI Agents Like Monoliths: 5 Architecture Tips Every Developer Should Know
+- [Q009688](../berichte/Q00/Q0096/Q009688/README.de.md) SwiftUI: (A Little) Better Message App With Context Based Quick Actions
+- [Q010889](../berichte/Q01/Q0108/Q010889/README.de.md) Anthropic Deleted 80% of Claude Code’s Own Prompt. Your CLAUDE.md Is Next.
+- [Q011224](../berichte/Q01/Q0112/Q011224/README.de.md) Meta’s Muse Glimmer: The 30B Open-Weight AI Model Built for Always-On Local AI Agents
+- [Q011225](../berichte/Q01/Q0112/Q011225/README.de.md) Reverse-Skill: The Cybersecurity Learning Router That Teaches You to Think Like an Attacker
+- [Q009686](../berichte/Q00/Q0096/Q009686/README.de.md) Little SwiftUI Tip: Predict Bad Cellular Networks
+- [Q011017](../berichte/Q01/Q0110/Q011017/README.de.md) 52% of New Articles Are AI. Only 14% Rank.
+- [Q011018](../berichte/Q01/Q0110/Q011018/README.de.md) Three Open Video Models Dropped. I Could Only Download One.
+- [Q011222](../berichte/Q01/Q0112/Q011222/README.de.md) OpenCode: The Open-Source AI Coding Agent You Can Run in Your Terminal
+- [Q009684](../berichte/Q00/Q0096/Q009684/README.de.md) SwiftUI: Recognize & Search Handwritings
+- [Q010888](../berichte/Q01/Q0108/Q010888/README.de.md) Your Claude Code Session Might Be Paying to Solve the Same Problem Twice
+- [Q011221](../berichte/Q01/Q0112/Q011221/README.de.md) App Store Connect CLI: Automate iOS, macOS, tvOS & visionOS Releases From Your Terminal
+- [Q011016](../berichte/Q01/Q0110/Q011016/README.de.md) Meta’s New Local AI Agent Hallucinates 82% of the Time
+- [Q011220](../berichte/Q01/Q0112/Q011220/README.de.md) 50 GitHub Repositories That Can Make You a Much Better Developer
+- [Q010887](../berichte/Q01/Q0108/Q010887/README.de.md) Why GitHub’s Trending Page Just Became the Best Map of Where Software Is Actually Going
+- [Q011219](../berichte/Q01/Q0112/Q011219/README.de.md) 7 Rules for Self-Improving AI Agent Loops Every AI Engineer Should Know
+- [Q009670](../berichte/Q00/Q0096/Q009670/README.de.md) Little SwiftUI Tip: Create/Edit Shared Photo Album
+- [Q010886](../berichte/Q01/Q0108/Q010886/README.de.md) The 5 Claude Code Prompts I Run Before Writing Any Code
+- [Q011015](../berichte/Q01/Q0110/Q011015/README.de.md) Should You Switch From Claude Code to DeepSeek Harness?
+- [Q011218](../berichte/Q01/Q0112/Q011218/README.de.md) MindsHub: The Open-Source AI Workspace That Actually Does the Work
+- [Q010885](../berichte/Q01/Q0108/Q010885/README.de.md) 25 Developers Built the Same Tool This Summer (And Anthropic’s Own Dashboard Is Why)
+- [Q011014](../berichte/Q01/Q0110/Q011014/README.de.md) GitHub Went Down for Three Hours. Cursor Shipped a GitHub Replacement the Same Day.
+- [Q011217](../berichte/Q01/Q0112/Q011217/README.de.md) Agent OS: The Missing Layer Between Your Codebase and AI Coding Agents
+- [Q010884](../berichte/Q01/Q0108/Q010884/README.de.md) 10 Claude Prompts That Save Developers 5+ Hours a Week — I Timed Every One
+- [Q011216](../berichte/Q01/Q0112/Q011216/README.de.md) 5 Hermes Plugins That Turn an AI Agent Into a Self-Improving System
+- [Q011215](../berichte/Q01/Q0112/Q011215/README.de.md) Qwen 3.8 27B Uncensored Just Landed on the Mac — No CUDA, No Cloud
+- [Q011013](../berichte/Q01/Q0110/Q011013/README.de.md) Grok 4.6 Pricing Looks Cheap. Then Your Prompt Crosses 200,000 Tokens.
+- [Q011214](../berichte/Q01/Q0112/Q011214/README.de.md) You Can Cut AI Token Costs by 90% Without Using Open-Source Models
+- [Q009668](../berichte/Q00/Q0096/Q009668/README.de.md) SwiftUI: Navigate Reality Kit Entities
+- [Q011012](../berichte/Q01/Q0110/Q011012/README.de.md) The Best AI Agent Scores 34.8% on COBOL. It Cost IBM $30 Billion Anyway.
+- [Q011213](../berichte/Q01/Q0112/Q011213/README.de.md) Ornith-1.5: A 9B Open-Source Model Built to Improve Itself
+- [Q009666](../berichte/Q00/Q0096/Q009666/README.de.md) My Legal Doc RAG: The Actual Design + Implementation.
+- [Q011212](../berichte/Q01/Q0112/Q011212/README.de.md) The AI Layoff Trap: Why Companies May Automate Even When Everyone Loses
+- [Q011011](../berichte/Q01/Q0110/Q011011/README.de.md) Stripe Paid $8 Billion for OpenRouter. The Routing Was Never the Product.
+- [Q011747](../berichte/Q01/Q0117/Q011747/README.de.md) We asked over 1,000 writers about the state of writing in 2026, including AI, writing for profit, and more
+- [Q009664](../berichte/Q00/Q0096/Q009664/README.de.md) SwiftUI: Monitor App Metrics With MetricKit + StateReporting
+- [Q011010](../berichte/Q01/Q0110/Q011010/README.de.md) Apple Says the Mac mini M6 Is 4.8x Faster at AI. The Number That Actually Matters Went Up 42%.
+- [Q011210](../berichte/Q01/Q0112/Q011210/README.de.md) 381 Tokens/Second on a Single RTX 3090? This Developer Turned a 24GB GPU Into a Qwen Inference Monster
+- [Q010883](../berichte/Q01/Q0108/Q010883/README.de.md) The SKILL.md File Nobody Told You About — I Built 12, and This One Changed My Whole Workflow
+- [Q011209](../berichte/Q01/Q0112/Q011209/README.de.md) Portless: Stop Fighting Port Numbers in Local Development
+- [Q011746](../berichte/Q01/Q0117/Q011746/README.de.md) The Partner Program is open again, now with a faster and easier enrollment process
+- [Q011509](../berichte/Q01/Q0115/Q011509/README.de.md) The 7 Best AI Features For Messaging Apps
+- [Q010882](../berichte/Q01/Q0108/Q010882/README.de.md) 7 Claude Code MCP Servers That Replaced My $2,000/Month Dev Stack
+- [Q011009](../berichte/Q01/Q0110/Q011009/README.de.md) Hugging Face Said No to $500 Million From Nvidia to Stay Neutral.
+- [Q009662](../berichte/Q00/Q0096/Q009662/README.de.md) Run Shell Command from Claude Code without Claude Code
+- [Q011207](../berichte/Q01/Q0112/Q011207/README.de.md) terminal-code: VS Code Inside Your Terminal
+- [Q010881](../berichte/Q01/Q0108/Q010881/README.de.md) 9 Claude Code Plugins That Actually Earn Their Spot — I Ran the Whole Marketplace for a Week
+- [Q011206](../berichte/Q01/Q0112/Q011206/README.de.md) Stagehand: The Browser Automation SDK Built for AI Agents
+- [Q011008](../berichte/Q01/Q0110/Q011008/README.de.md) Nvidia Just Committed $279 Billion to Memory. Everyone Read the Wrong Number.
+- [Q011745](../berichte/Q01/Q0117/Q011745/README.de.md) We’re updating the Editor Partner Program qualifications in September 2026
+- [Q009660](../berichte/Q00/Q0096/Q009660/README.de.md) SwiftUI: A Little Customization on Push Notifications
+- [Q011205](../berichte/Q01/Q0112/Q011205/README.de.md) Top Open-Weight AI Models for Your Hardware
+- [Q011007](../berichte/Q01/Q0110/Q011007/README.de.md) AI Doesn’t Need a Quantum Computer. Quantum Computers Need AI.
+- [Q011204](../berichte/Q01/Q0112/Q011204/README.de.md) Stop Rewriting Skills: Use NotebookLM to Build Claude Skills in Minutes
+- [Q011203](../berichte/Q01/Q0112/Q011203/README.de.md) 11 AI GitHub Repos You Probably Haven’t Seen Yet
+- [Q010880](../berichte/Q01/Q0108/Q010880/README.de.md) A GitHub Repo With Zero New Features Hit 2,000 Stars in 6 Days. It’s a New Category
+- [Q011202](../berichte/Q01/Q0112/Q011202/README.de.md) Brainless: You Can Now Drop Claude Code, Codex & Grok UIs Straight Into Your React App
+- [Q009658](../berichte/Q00/Q0096/Q009658/README.de.md) Adopt Apple App Attest Service: App + Server Implementation
+- [Q010879](../berichte/Q01/Q0108/Q010879/README.de.md) You’re using 10% of Claude Code. Here’s the Other 90%.
+- [Q011006](../berichte/Q01/Q0110/Q011006/README.de.md) GPT-6 Astra Has a 1.05 Million Token Context Window. Past 272,000 Tokens It Bills You Double.
+- [Q011201](../berichte/Q01/Q0112/Q011201/README.de.md) Superlinked Inference Engine: This Open-Source AI Engine Could Cut Self-Hosting Costs by 4×
+- [Q009656](../berichte/Q00/Q0096/Q009656/README.de.md) Swift: Integrate Apple Hosted (Managed) Background Assets
+- [Q010878](../berichte/Q01/Q0108/Q010878/README.de.md) Nobody Explained Why “Higgsfield MCP” Jumped 110%. So I Dug Into the Actual Shift
+- [Q011005](../berichte/Q01/Q0110/Q011005/README.de.md) Seven AI Models Traded Prediction Markets for a Week. Five Lost Money.
+- [Q010877](../berichte/Q01/Q0108/Q010877/README.de.md) Forget $10K/Month — Here’s How to Make Your First $1 Online
+- [Q009654](../berichte/Q00/Q0096/Q009654/README.de.md) SwiftUI: Run System Shortcuts From Widget
+- [Q011004](../berichte/Q01/Q0110/Q011004/README.de.md) Debian Just Voted to Allow AI-Generated Code. It Also Voted Not to Label It.
+- [Q010875](../berichte/Q01/Q0108/Q010875/README.de.md) GPT-6 Astra Bills You Double Past 272K
+- [Q011744](../berichte/Q01/Q0117/Q011744/README.de.md) Editor Newsletter: Have you checked out your publication’s new content calendar?
+- [Q010874](../berichte/Q01/Q0108/Q010874/README.de.md) GPT-6 Astra Killed 10 of My Go-To Prompts — Here’s What Replaced Them
+- [Q011198](../berichte/Q01/Q0111/Q011198/README.de.md) Stop Guessing Which AI Models Your PC Can Run — Let Magnitude Find Out
+- [Q011743](../berichte/Q01/Q0117/Q011743/README.de.md) Writer Newsletter: What’s the value in an older but still great story?
+- [Q009651](../berichte/Q00/Q0096/Q009651/README.de.md) Strands Agents: Custom Tool Delegation
+- [Q009648](../berichte/Q00/Q0096/Q009648/README.de.md) Little SwiftUI Pitfall I Fall In: State Initial Value
+- [Q009646](../berichte/Q00/Q0096/Q009646/README.de.md) Little SwiftUI Tip: Get Information Out of SwiftUI Font
+- [Q010873](../berichte/Q01/Q0108/Q010873/README.de.md) GPT-6 Astra: The First Time an AI Actually Did the Job
+- [Q011003](../berichte/Q01/Q0110/Q011003/README.de.md) Does Codex Train on Your Code? OpenAI Answered That Four Different Ways in Three Days.
+- [Q011508](../berichte/Q01/Q0115/Q011508/README.de.md) Build Your Own Grok Bot With Core AI Models and Stream Chat
+- [Q011742](../berichte/Q01/Q0117/Q011742/README.de.md) Try out custom footers on your Medium stories
+- [Q011197](../berichte/Q01/Q0111/Q011197/README.de.md) Your AI Coding Agent Is Writing Slop. This Open-Source Filter Is Designed to Stop It
+- [Q010872](../berichte/Q01/Q0108/Q010872/README.de.md) 65,000 Stars, Gone Overnight — The Claude Code Tool That a Rug-Pull Killed and the Community Saved
+- [Q011196](../berichte/Q01/Q0111/Q011196/README.de.md) AIRI: The Open-Source AI Waifu That Can Actually Live on Your Computer
+- [Q009642](../berichte/Q00/Q0096/Q009642/README.de.md) SwiftUI: Some New APIs/ContainerViews Useful For Duo!
+- [Q009644](../berichte/Q00/Q0096/Q009644/README.de.md) Little Swift Tip: AttributedString Attention Points
+- [Q010871](../berichte/Q01/Q0108/Q010871/README.de.md) A “Skill” File With 46,000 Stars Just Fixed the Thing Everyone Hates About Claude Code
+- [Q011195](../berichte/Q01/Q0111/Q011195/README.de.md) Tencent Just Open-Sourced BrowserSkill: The Missing Bridge Between AI Agents and Your Browser
+- [Q009640](../berichte/Q00/Q0096/Q009640/README.de.md) SwiftData: Some Predicates that Look FINE but Error on build or Just CRASH!
+- [Q011002](../berichte/Q01/Q0110/Q011002/README.de.md) I Ordered a Mac mini M5 Pro as My Local AI Server. The M6 Lost on One Number.
+- [Q011194](../berichte/Q01/Q0111/Q011194/README.de.md) 5 Open-Source AI Agent Repos Exploding on GitHub
+- [Q010870](../berichte/Q01/Q0108/Q010870/README.de.md) I Stopped Babysitting 5 Claude Code Sessions. Anthropic Just Killed the Job for Me.
+- [Q009638](../berichte/Q00/Q0096/Q009638/README.de.md) SwiftData: Managing Data Outside of Views Gets Easy! FINALLY!
+- [Q011001](../berichte/Q01/Q0110/Q011001/README.de.md) Jev AI Claims 193.6x Faster. I Checked the Math and Got 1.19x
+- [Q010868](../berichte/Q01/Q0108/Q010868/README.de.md) Opus 5.5 Quietly Ignores Your Effort Setting. I Checked What All 5 Levels Actually Cost.
+- [Q011192](../berichte/Q01/Q0111/Q011192/README.de.md) 40 Claude Code Additions That Can Seriously Upgrade Your Workflow
+- [Q009636](../berichte/Q00/Q0096/Q009636/README.de.md) SwiftUI: Wait! List Swipe Action Discard the UI Automatically? While Keeping the Data Source?
+- [Q011191](../berichte/Q01/Q0111/Q011191/README.de.md) 10 Jev Repos Blowing Up Right Now — and What They Actually Do
+- [Q011190](../berichte/Q01/Q0111/Q011190/README.de.md) OpenMuse: Build Your Own Open-Source AI Personal Assistant That Can Use Your Computer
+- [Q009634](../berichte/Q00/Q0096/Q009634/README.de.md) SwiftData: ResultObserver Needs ModelActor!
+- [Q009632](../berichte/Q00/Q0096/Q009632/README.de.md) SwiftData Migrations
+- [Q010867](../berichte/Q01/Q0108/Q010867/README.de.md) 7 Beginner Side Hustles That Made Me Real Money in 2026 (Honest Breakdown)
+- [Q011000](../berichte/Q01/Q0110/Q011000/README.de.md) I Traced Meta Muse’s Viral “50 Real Use Cases.” Some of the Best Ones Came From Meta Employees.
+- [Q011189](../berichte/Q01/Q0111/Q011189/README.de.md) 10 GitHub Repositories Every Developer Should Know for System Design
+- [Q011188](../berichte/Q01/Q0111/Q011188/README.de.md) T-Mem: The Open-Source Memory Architecture That Goes Beyond Similarity Search
+- [Q009630](../berichte/Q00/Q0096/Q009630/README.de.md) Swift: Bring Custom Models To FoundationModels
+- [Q011186](../berichte/Q01/Q0111/Q011186/README.de.md) Stop Burning Opus Tokens: Build a Claude Code Team Instead
+- [Q011421](../berichte/Q01/Q0114/Q011421/README.de.md) 12 Beautiful SwiftUI Sliders You Can Drop Into Any iOS App
+- [Q009628](../berichte/Q00/Q0096/Q009628/README.de.md) SwiftUI: A Todo App in 2026!
+- [Q010866](../berichte/Q01/Q0108/Q010866/README.de.md) Developers Code Only 16% of the Week. Most AI Tools Are Built for That 16%.
+- [Q011184](../berichte/Q01/Q0111/Q011184/README.de.md) E2E: The Open-Source AI Testing Framework That Lets Agents Test Your App
+- [Q011420](../berichte/Q01/Q0114/Q011420/README.de.md) From iPhone OS 1 to iOS 27: Rebuilt in SwiftUI
+- [Q011507](../berichte/Q01/Q0115/Q011507/README.de.md) Reusable AI Chat Components for SwiftUI
+- [Q011741](../berichte/Q01/Q0117/Q011741/README.de.md) Writer newsletter: A new calendar view for your scheduled stories
+- [Q010865](../berichte/Q01/Q0108/Q010865/README.de.md) How to Use NotebookLM to Build Your Own $10,000 AI Mentor (For Free)
+- [Q011183](../berichte/Q01/Q0111/Q011183/README.de.md) Google Mantis: Turn Your Coding Agent Into a Security Reviewer
+- [Q011419](../berichte/Q01/Q0114/Q011419/README.de.md) SwiftUI + Metal Shader Tutorial: I Turned Any SwiftUI View Into an Interactive Koi Pond
+- [Q009624](../berichte/Q00/Q0096/Q009624/README.de.md) Swift: Bedrock For FoundationModels
+- [Q011182](../berichte/Q01/Q0111/Q011182/README.de.md) This Prompt Turns Claude Into a Full Motion Graphics Studio
+- [Q011418](../berichte/Q01/Q0114/Q011418/README.de.md) SwiftUI Tutorial: I Replaced the Boring iOS Spinner WithAnimated 3D Orbs
+- [Q011740](../berichte/Q01/Q0117/Q011740/README.de.md) Editor Newsletter: The five editors who won our Medium Day Editor Awards
+- [Q010864](../berichte/Q01/Q0108/Q010864/README.de.md) Developers Use AI for 60% of Their Work. They Hand Off Maybe 20%
+- [Q010999](../berichte/Q01/Q0109/Q010999/README.de.md) Before You Cancel Adobe for an $89 Lifetime Suite, Check Which Apps Actually Exist
+- [Q009622](../berichte/Q00/Q0096/Q009622/README.de.md) Swift: Delegated Tools With Foundation Models
+- [Q011180](../berichte/Q01/Q0111/Q011180/README.de.md) Top 10 Jev Builds You Can Ship in an Afternoon
+- [Q011417](../berichte/Q01/Q0114/Q011417/README.de.md) SwiftUI Tutorial: How I Added Realistic 3D Pins to My App (and How You Can Easily Do It Too)
+- [Q011179](../berichte/Q01/Q0111/Q011179/README.de.md) Meta Open-Sourced Rebalancer: The Assignment Solver Behind 40 Million Problems a Day
+- [Q009618](../berichte/Q00/Q0096/Q009618/README.de.md) Swift FoundationModels: Intercept and Modify Tool Calls
+- [Q009620](../berichte/Q00/Q0096/Q009620/README.de.md) Little Swift/FoundationModels Tip: Convert Prompt/Attachment To Transcript Segments
+- [Q011177](../berichte/Q01/Q0111/Q011177/README.de.md) Google Just Released a Free AI Notetaker for Mac That Runs Locally
+- [Q010863](../berichte/Q01/Q0108/Q010863/README.de.md) 4 Hidden Bugs. 5 Pull Requests. Does Your AI Code Reviewer Pass?
+- [Q010997](../berichte/Q01/Q0109/Q010997/README.de.md) Claude Opus 5 Went From 30% to 100% on the Hardest AI Benchmark. The Benchmark’s Owner Won’t Count It.
+- [Q010998](../berichte/Q01/Q0109/Q010998/README.de.md) Gemini 4 Argon’s 1 Million Token Output Isn’t What Google Announced
+- [Q011175](../berichte/Q01/Q0111/Q011175/README.de.md) OpenAI’s Decisions API: Building AI Systems That Make Faster Decisions
+- [Q009616](../berichte/Q00/Q0096/Q009616/README.de.md) Little SwiftUI Tip: An Alternative Way of Implementing Horizontal Pager
+- [Q010862](../berichte/Q01/Q0108/Q010862/README.de.md) How One Task Went From 31,000 Tokens to 2,900 (With the Math)
+- [Q011174](../berichte/Q01/Q0111/Q011174/README.de.md) How to Get ChatGPT to Recommend Your Website: 10 Practical Steps
+- [Q010996](../berichte/Q01/Q0109/Q010996/README.de.md) What Is Anthropic’s Scion? The Git Replacement It Says You Shouldn’t Use
+- [Q011173](../berichte/Q01/Q0111/Q011173/README.de.md) 10 Free GitHub Tools That Replace Expensive Software Costing Thousands of Dollars
+- [Q009614](../berichte/Q00/Q0096/Q009614/README.de.md) Swift: Making a Harness For Foundation Models
+- [Q011172](../berichte/Q01/Q0111/Q011172/README.de.md) 8 Free Open-Source Tools to Create AI Videos and Voiceovers
+- [Q010861](../berichte/Q01/Q0108/Q010861/README.de.md) 10 Developer Prompts I Use Daily (Copy-Paste Ready)
+- [Q011171](../berichte/Q01/Q0111/Q011171/README.de.md) 20 RAG Projects That Will Actually Get You Hired
+- [Q011170](../berichte/Q01/Q0111/Q011170/README.de.md) I Tested 100+ Claude Code GitHub Repos. These Are the 10 Worth Using
+- [Q010995](../berichte/Q01/Q0109/Q010995/README.de.md) Liquid Says Its New Local LLM Hits 184 Tokens a Second on a Mac. It Never Says How.
+- [Q009612](../berichte/Q00/Q0096/Q009612/README.de.md) Swift/FoundationModels: Give LanguageModels Some Long-Term Memories. On-Device.
+- [Q010994](../berichte/Q01/Q0109/Q010994/README.de.md) Your DeepSeek API Model Changed Twice Since August. You Didn’t Change a Line.
+- [Q011739](../berichte/Q01/Q0117/Q011739/README.de.md) Dark mode for Medium is finally here
+- [Q010993](../berichte/Q01/Q0109/Q010993/README.de.md) The PHP Vulnerability Was Exploited 4 Days Before Anyone Announced It
+- [Q011169](../berichte/Q01/Q0111/Q011169/README.de.md) Google’s Harness²: The Open-Source Framework That Helps AI Agents Improve Themselves
+- [Q011738](../berichte/Q01/Q0117/Q011738/README.de.md) New: Use the new topic pages to explore your fascinations on Medium
+- [Q011168](../berichte/Q01/Q0111/Q011168/README.de.md) My Claude Code Setup: A Planner, Workers, a Reviewer, and a Smarter Context Window
+- [Q010860](../berichte/Q01/Q0108/Q010860/README.de.md) GPT-6 Astra vs Fable 5.1: OpenAI Won the Wrong Benchmark
+- [Q010992](../berichte/Q01/Q0109/Q010992/README.de.md) OpenAI’s 722 Math Papers Are 372 Results, and the Repo’s Own Review Field Says “Unchecked”
+- [Q011167](../berichte/Q01/Q0111/Q011167/README.de.md) I Made AI Agent Decisions 150x Cheaper With Jev and TrueForge
+- [Q010859](../berichte/Q01/Q0108/Q010859/README.de.md) Dots, Grok Bot, or Claude? The Only Question That Matters Is Boring
+- [Q009607](../berichte/Q00/Q0096/Q009607/README.de.md) SwiftUI: Is My Toolbar Button Overflowing?
+- [Q010990](../berichte/Q01/Q0109/Q010990/README.de.md) The Touchscreen MacBook Pro Isn’t a $400 Upgrade. The M5 Pro Has Gone Up $700 Since March.
+- [Q010991](../berichte/Q01/Q0109/Q010991/README.de.md) Cohere Caught Qwen Trying to Upload a File to Beijing. I Run Qwen Every Day.
+- [Q010858](../berichte/Q01/Q0108/Q010858/README.de.md) Stop Chasing “AI Side Hustles.” Build This Instead
+- [Q010989](../berichte/Q01/Q0109/Q010989/README.de.md) Two AI Labs Disproved the Exponential Time Hypothesis on the Same Day.
+- [Q009601](../berichte/Q00/Q0096/Q009601/README.de.md) Pkl: A Little Better/Safer Way of Configuring + Use It With Swift/Apps
+- [Q010857](../berichte/Q01/Q0108/Q010857/README.de.md) Claude Code Just Got a Major Upgrade: 9 Features That Change How You Work With AI
+- [Q009598](../berichte/Q00/Q0095/Q009598/README.de.md) Swift/SiriAI: App Intent Becomes Tools. Orchestrated With App Skills
+- [Q010856](../berichte/Q01/Q0108/Q010856/README.de.md) Claude Duet vs Muse vs dots: I Compared All 3
+- [Q010988](../berichte/Q01/Q0109/Q010988/README.de.md) Claude Didn’t Hack Georgia. It Asked for the Token the Website Hands Everyone.
+- [Q009596](../berichte/Q00/Q0095/Q009596/README.de.md) Swift/SiriAI: Evaluate the New SiriAI Integration with Siri Evaluation and Metadata Analyzer
+- [Q010987](../berichte/Q01/Q0109/Q010987/README.de.md) Claude Code Uses 5.5x Fewer Tokens Than Cursor. Or 2.9x More. Both Numbers Are Real.
+- [Q009593](../berichte/Q00/Q0095/Q009593/README.de.md) Swift/SiriAI/FoundationModels: Tool to IntentTool. Generable to Generable.
+- [Q010855](../berichte/Q01/Q0108/Q010855/README.de.md) 30 Claude Prompts With Examples, Not Just Rules
+- [Q000299](../berichte/Q00/Q0002/Q000299/README.de.md) The Hinton Lectures: Paul Christiano
+- [Q010853](../berichte/Q01/Q0108/Q010853/README.de.md) Stop Letting Claude Guess: 10 Prompts for Real Estate Professionals
+- [Q010854](../berichte/Q01/Q0108/Q010854/README.de.md) Fable 5.2 vs Opus 5.5
+- [Q010986](../berichte/Q01/Q0109/Q010986/README.de.md) Cursor vs Claude Code: Where pstack Actually Works Better
+- [Q011165](../berichte/Q01/Q0111/Q011165/README.de.md) 5 GitHub Repos to Build Your Own AI-Powered Second Brain
+- [Q011166](../berichte/Q01/Q0111/Q011166/README.de.md) Forget Udemy: Claudemy Is Changing How You Learn AI and Master Claude Code
+- [Q009591](../berichte/Q00/Q0095/Q009591/README.de.md) Swift: FoundationModels Needs Evaluations!
+- [Q010852](../berichte/Q01/Q0108/Q010852/README.de.md) Fable 5.2 Costs 2x Opus 5.5 Per Token. Only 1 SEO Job Justifies It
+- [Q011164](../berichte/Q01/Q0111/Q011164/README.de.md) Strands Decider: A small, fast decision model for agentic AI.
+- [Q011737](../berichte/Q01/Q0117/Q011737/README.de.md) Writer Newsletter: TK is open to everyone
+- [Q010985](../berichte/Q01/Q0109/Q010985/README.de.md) Fable 5.2’s Benchmarks Ran at Xhigh. Claude Code Runs It at Medium.
+- [Q011162](../berichte/Q01/Q0111/Q011162/README.de.md) 9 Best Uncensored AI Models You Can Run Locally (No API Key Required)
+- [Q010984](../berichte/Q01/Q0109/Q010984/README.de.md) Anthropic’s IPO Filing Shows an $80.7 Billion Loss. $72.4 Billion of It Never Left the Building.
+- [Q011161](../berichte/Q01/Q0111/Q011161/README.de.md) Stop Letting AI Coding Agents Write Outdated Code. Google Has a Solution.
+- [Q011736](../berichte/Q01/Q0117/Q011736/README.de.md) Editor Newsletter: Using TK as a Medium editor
+- [Q009589](../berichte/Q00/Q0095/Q009589/README.de.md) Swift: All I Need is To Send A Push Notification From One Device To Another. Both Running My App. I DON’T want a server!
+- [Q010851](../berichte/Q01/Q0108/Q010851/README.de.md) 7 Steps to Build an AI Motion Design Studio That Runs 24/7 (With Fable 5.2)
+- [Q011160](../berichte/Q01/Q0111/Q011160/README.de.md) Claude Code’s Conductor Trick: One AI Plans, 1,000 AI Agents Build
+- [Q011506](../berichte/Q01/Q0115/Q011506/README.de.md) You Are Evaluating Sovereign AI Wrong
+- [Q011159](../berichte/Q01/Q0111/Q011159/README.de.md) Fable 5.2 + Opus 5.5: How to Orchestrate a Team of AI Agents to Build Anything
+- [Q009586](../berichte/Q00/Q0095/Q009586/README.de.md) Manage Postgres Schema Migration with Flyway OSS
+- [Q011156](../berichte/Q01/Q0111/Q011156/README.de.md) How to Orchestrate Claude Code Models While Using 10x Fewer Tokens
+- [Q011157](../berichte/Q01/Q0111/Q011157/README.de.md) Stop Using Fable 5.2 Like an Intern: 6 Powerful Prompts to Unlock Its Full Coding Potential
+
+### metr
+
+- [Q003047](../berichte/Q00/Q0030/Q003047/README.de.md) Update on ARC's recent eval efforts
+- [Q003017](../berichte/Q00/Q0030/Q003017/README.de.md) New report: Evaluating Language-Model Agents on Realistic Autonomous Tasks
+- [Q002996](../berichte/Q00/Q0029/Q002996/README.de.md) ARC Evals is spinning out from ARC
+- [Q002990](../berichte/Q00/Q0029/Q002990/README.de.md) Responsible Scaling Policies (RSPs)
+- [Q002964](../berichte/Q00/Q0029/Q002964/README.de.md) ARC Evals is now METR
+- [Q002956](../berichte/Q00/Q0029/Q002956/README.de.md) Bounty: Diverse hard tasks for LLM agents
+- [Q002947](../berichte/Q00/Q0029/Q002947/README.de.md) 2023 Year In Review
+- [Q002941](../berichte/Q00/Q0029/Q002941/README.de.md) Portable Evaluation Tasks via the METR Task Standard
+- [Q002887](../berichte/Q00/Q0028/Q002887/README.de.md) Autonomy Evaluation Resources
+- [Q002902](../berichte/Q00/Q0029/Q002902/README.de.md) Example autonomy evaluation protocol
+- [Q002912](../berichte/Q00/Q0029/Q002912/README.de.md) Guidelines for capability elicitation
+- [Q002933](../berichte/Q00/Q0029/Q002933/README.de.md) Measuring the impact of post-training enhancements
+- [Q002865](../berichte/Q00/Q0028/Q002865/README.de.md) Emma Abele is METR’s new Executive Director
+- [Q002848](../berichte/Q00/Q0028/Q002848/README.de.md) ML Engineers Needed for New AI R&D Evals Project
+- [Q002836](../berichte/Q00/Q0028/Q002836/README.de.md) An update on our general capability evaluations
+- [Q002811](../berichte/Q00/Q0028/Q002811/README.de.md) Details about METR's preliminary evaluation of GPT-4o
+- [Q002799](../berichte/Q00/Q0027/Q002799/README.de.md) Details about METR's preliminary evaluation of OpenAI o1-preview
+- [Q002771](../berichte/Q00/Q0027/Q002771/README.de.md) New Support Through The Audacious Project
+- [Q002753](../berichte/Q00/Q0027/Q002753/README.de.md) Details about METR's preliminary evaluation of Claude 3.5 Sonnet
+- [Q002726](../berichte/Q00/Q0027/Q002726/README.de.md) The Rogue Replication Threat Model
+- [Q002702](../berichte/Q00/Q0027/Q002702/README.de.md) Evaluating frontier AI R&D capabilities of language model agents against human experts
+- [Q002667](../berichte/Q00/Q0026/Q002667/README.de.md) AI models can be dangerous before public deployment
+- [Q002650](../berichte/Q00/Q0026/Q002650/README.de.md) An update on our preliminary evaluations of Claude 3.5 Sonnet and o1
+- [Q002631](../berichte/Q00/Q0026/Q002631/README.de.md) Details about METR's preliminary evaluation of DeepSeek-V3
+- [Q002597](../berichte/Q00/Q0025/Q002597/README.de.md) Measuring Automated Kernel Engineering
+- [Q002575](../berichte/Q00/Q0025/Q002575/README.de.md) METR’s GPT-4.5 pre-deployment evaluations
+- [Q002490](../berichte/Q00/Q0024/Q002490/README.de.md) Details about METR's preliminary evaluation of DeepSeek-R1
+- [Q002478](../berichte/Q00/Q0024/Q002478/README.de.md) Why it’s good for AI reasoning to be legible and faithful
+- [Q002468](../berichte/Q00/Q0024/Q002468/README.de.md) Measuring AI Ability to Complete Long Software Tasks
+- [Q002447](../berichte/Q00/Q0024/Q002447/README.de.md) Details about METR's preliminary evaluation of Claude 3.7
+- [Q002432](../berichte/Q00/Q0024/Q002432/README.de.md) Details about METR's preliminary evaluation of OpenAI's o3 and o4-mini
+- [Q002417](../berichte/Q00/Q0024/Q002417/README.de.md) Recent Frontier Models Are Reward Hacking
+- [Q002375](../berichte/Q00/Q0023/Q002375/README.de.md) Details about METR's preliminary evaluation of DeepSeek and Qwen models
+- [Q002401](../berichte/Q00/Q0024/Q002401/README.de.md) What should companies share about risks from frontier AI models?
+- [Q002359](../berichte/Q00/Q0023/Q002359/README.de.md) Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+- [Q002351](../berichte/Q00/Q0023/Q002351/README.de.md) How Does Time Horizon Vary Across Domains?
+- [Q002327](../berichte/Q00/Q0023/Q002327/README.de.md) Details about METR's evaluation of OpenAI GPT-5
+- [Q004835](../berichte/Q00/Q0048/Q004835/README.de.md) Details about METR's evaluation of OpenAI GPT-5
+- [Q002296](../berichte/Q00/Q0022/Q002296/README.de.md) Notes on Scientific Communication at METR
+- [Q002270](../berichte/Q00/Q0022/Q002270/README.de.md) Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study
+- [Q002249](../berichte/Q00/Q0022/Q002249/README.de.md) Claude, GPT, and Gemini All Struggle to Evade Monitors
+- [Q002198](../berichte/Q00/Q0021/Q002198/README.de.md) Early Results on Monitorability in QA Settings
+- [Q002176](../berichte/Q00/Q0021/Q002176/README.de.md) MALT: A Dataset of Natural and Prompted Behaviors That Threaten Eval Integrity
+- [Q002143](../berichte/Q00/Q0021/Q002143/README.de.md) Summary of our gpt-oss methodology review
+- [Q002130](../berichte/Q00/Q0021/Q002130/README.de.md) Review of the Anthropic Summer 2025 Pilot Sabotage Risk Report
+- [Q002118](../berichte/Q00/Q0021/Q002118/README.de.md) Details about METR's evaluation of OpenAI GPT-5.1-Codex-Max
+- [Q002093](../berichte/Q00/Q0020/Q002093/README.de.md) Common Elements of Frontier AI Safety Policies (December 2025 Update)
+- [Q002060](../berichte/Q00/Q0020/Q002060/README.de.md) Clarifying limitations of time horizon
+- [Q002028](../berichte/Q00/Q0020/Q002028/README.de.md) Frontier AI safety regulations: A reference for lab staff
+- [Q002038](../berichte/Q00/Q0020/Q002038/README.de.md) Time Horizon 1.1
+- [Q002019](../berichte/Q00/Q0020/Q002019/README.de.md) A simpler AI timelines model predicts 99% AI R&D automation in ~2032
+- [Q002004](../berichte/Q00/Q0020/Q002004/README.de.md) Measuring Time Horizon using Claude Code and Codex
+- [Q001966](../berichte/Q00/Q0019/Q001966/README.de.md) How We Protect Confidential Information
+- [Q001957](../berichte/Q00/Q0019/Q001957/README.de.md) Five lessons from having helped run an AI-Biology RCT
+- [Q001945](../berichte/Q00/Q0019/Q001945/README.de.md) We are Changing our Developer Productivity Experiment Design
+- [Q001929](../berichte/Q00/Q0019/Q001929/README.de.md) Observations from two CLI game reimplementation runs with Opus 4.6
+- [Q001902](../berichte/Q00/Q0019/Q001902/README.de.md) Many SWE-bench-Passing PRs Would Not Be Merged into Main
+- [Q001876](../berichte/Q00/Q0018/Q001876/README.de.md) Review of the Anthropic Sabotage Risk Report: Claude Opus 4.6
+- [Q001865](../berichte/Q00/Q0018/Q001865/README.de.md) We spent 2 hours working in the future
+- [Q001832](../berichte/Q00/Q0018/Q001832/README.de.md) Impact of modeling assumptions on time horizon results
+- [Q001794](../berichte/Q00/Q0017/Q001794/README.de.md) Red-Teaming Anthropic's Internal Agent Monitoring Systems
+- [Q001785](../berichte/Q00/Q0017/Q001785/README.de.md) Fine-tuning experiments on CoT controllability
+- [Q001746](../berichte/Q00/Q0017/Q001746/README.de.md) MirrorCode: Evidence that AI can already do some weeks-long coding tasks
+- [Q001703](../berichte/Q00/Q0017/Q001703/README.de.md) Evidence on AI R&D Progress from NanoGPT
+- [Q001677](../berichte/Q00/Q0016/Q001677/README.de.md) Review of the "Risks from automated R&D" section in the Anthropic Risk Report (February 2026)
+- [Q001688](../berichte/Q00/Q0016/Q001688/README.de.md) Task Substitution and Uplift
+- [Q001659](../berichte/Q00/Q0016/Q001659/README.de.md) Measuring the Self-Reported Impact of Early-2026 AI on Technical Worker Productivity
+- [Q001569](../berichte/Q00/Q0015/Q001569/README.de.md) Frontier Risk Report (February to March 2026)
+- [Q001435](../berichte/Q00/Q0014/Q001435/README.de.md) Summary of METR's predeployment evaluation of GPT-5.6 Sol
+- [Q001424](../berichte/Q00/Q0014/Q001424/README.de.md) Because 8 ≈ e², Anthropic's researcher uplift is plausibly >2x
+- [Q001377](../berichte/Q00/Q0013/Q001377/README.de.md) Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT
+- [Q001366](../berichte/Q00/Q0013/Q001366/README.de.md) The Economics of Recursive Self-Improvement
+- [Q001346](../berichte/Q00/Q0013/Q001346/README.de.md) Metrics of Agent Ability
+- [Q001318](../berichte/Q00/Q0013/Q001318/README.de.md) How independent researchers could investigate AI propensities after misalignment incidents
+- [Q001199](../berichte/Q00/Q0011/Q001199/README.de.md) Funding update
+- [Q001245](../berichte/Q00/Q0012/Q001245/README.de.md) Have We Seen an Acceleration in Discoveries?
+- [Q001162](../berichte/Q00/Q0011/Q001162/README.de.md) Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident
+- [Q001126](../berichte/Q00/Q0011/Q001126/README.de.md) Update on Security at METR
+- [Q001059](../berichte/Q00/Q0010/Q001059/README.de.md) Summary of METR's predeployment evaluation of Claude Opus 5.5
+- [Q001020](../berichte/Q00/Q0010/Q001020/README.de.md) Implementing and Evaluating a Basic Per-Action Monitor for Safer Evals
+- [Q000968](../berichte/Q00/Q0009/Q000968/README.de.md) Chris Painter's testimony to the U.S. Senate on AI agent incidents
+- [Q000066](../berichte/Q00/Q0000/Q000066/README.de.md) A proposal for better informing the public about loss-of-control risks from frontier AI development
+- [Q000089](../berichte/Q00/Q0000/Q000089/README.de.md) How an assessor could investigate control and monitoring of internal AI agents
+- [Q000102](../berichte/Q00/Q0001/Q000102/README.de.md) How an assessor could investigate alignment of unreleased AI models
+- [Q000110](../berichte/Q00/Q0001/Q000110/README.de.md) How an assessor could investigate evidence of acceleration from the automation of AI R&D
+- [Q000877](../berichte/Q00/Q0008/Q000877/README.de.md) Our approach to working with AI companies
+- [Q000836](../berichte/Q00/Q0008/Q000836/README.de.md) Review of the "Misalignment in high-stakes settings" section in Anthropic's Risk Report (August 2026)
+- [Q000114](../berichte/Q00/Q0001/Q000114/README.de.md) Red-Teaming OpenAI's Internal Agent Monitoring Systems
+- [Q000367](../berichte/Q00/Q0003/Q000367/README.de.md) Independent Assessment of AI R&D Acceleration at Anthropic in October 2026
+- [Q000474](../berichte/Q00/Q0004/Q000474/README.de.md) Review of the "Risks from automated R&D" section in Anthropic's Risk Report (August 2026)
+
+### microsoft.com
+
+- [Q000361](../berichte/Q00/Q0003/Q000361/README.de.md) ARTEX abuse expands as cybercriminals target financial sector
+
+### miit.gov.cn
+
+- [Q000386](../berichte/Q00/Q0003/Q000386/README.de.md) 工业和信息化部办公厅关于加强智能体终端设备进网管理的通知
+- [Q000391](../berichte/Q00/Q0003/Q000391/README.de.md) 《关于加强智能体终端设备进网管理的通知》政策解读
+
+### mindgard.ai
+
+- [Q000447](../berichte/Q00/Q0004/Q000447/README.de.md) AI Agent Kill Switches: What They Stop and Miss
+
+### minimax
+
+- [Q006343](../berichte/Q00/Q0063/Q006343/README.de.md) Towards Scalable Pre-training of Visual Tokenizers for Generation
+- [Q000896](../berichte/Q00/Q0008/Q000896/README.de.md) MiniMax｜Japanese IP, Ready for the Global AI Era
+- [Q000781](../berichte/Q00/Q0007/Q000781/README.de.md) MiniMax M3.1 Flash: Redefining Agent Performance and Cost
+- [Q000802](../berichte/Q00/Q0008/Q000802/README.de.md) Introducing MiniMax Code Mini App
+- [Q000663](../berichte/Q00/Q0006/Q000663/README.de.md) MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era
+
+### mistral
+
+- [Q000930](../berichte/Q00/Q0009/Q000930/README.de.md) Mistral x Mozilla: Private, Multilingual AI Browsing
+- [Q001596](../berichte/Q00/Q0015/Q001596/README.de.md) Making sovereign, open-weight AI the technology frontier
+- [Q003534](../berichte/Q00/Q0035/Q003534/README.de.md) Development of a novel biofilm classification tool and comparative analysis of result interpretation methodologies for the evaluation of biofilm forming capacity of bacteria using tissue culture plate method
+- [Q000952](../berichte/Q00/Q0009/Q000952/README.de.md) Bringing open AI models to the frontier
+- [Q000967](../berichte/Q00/Q0009/Q000967/README.de.md) Mistral 7B
+- [Q001046](../berichte/Q00/Q0010/Q001046/README.de.md) La Plateforme | Mistral AI
+- [Q001140](../berichte/Q00/Q0011/Q001140/README.de.md) Mixtral of experts | Mistral AI
+- [Q000683](../berichte/Q00/Q0006/Q000683/README.de.md) Au Large | Mistral AI
+- [Q001053](../berichte/Q00/Q0010/Q001053/README.de.md) Le Chat | Mistral AI
+- [Q001125](../berichte/Q00/Q0011/Q001125/README.de.md) Cheaper, Better, Faster, Stronger
+- [Q001093](../berichte/Q00/Q0010/Q001093/README.de.md) The Mistral AI Non-Production License
+- [Q000940](../berichte/Q00/Q0009/Q000940/README.de.md) Mistral AI Fine-tuning Hackathon
+- [Q001036](../berichte/Q00/Q0010/Q001036/README.de.md) My Tailor is Mistral
+- [Q001013](../berichte/Q00/Q0010/Q001013/README.de.md) Codestral Mamba | Mistral AI
+- [Q001063](../berichte/Q00/Q0010/Q001063/README.de.md) Mistral AI
+- [Q001117](../berichte/Q00/Q0011/Q001117/README.de.md) Mistral NeMo | Mistral AI
+- [Q000707](../berichte/Q00/Q0007/Q000707/README.de.md) Large Enough | Mistral AI
+- [Q000989](../berichte/Q00/Q0009/Q000989/README.de.md) Build, tweak, repeat | Mistral AI
+- [Q001150](../berichte/Q00/Q0011/Q001150/README.de.md) [Deprecated] Pixtral 12B | Mistral AI
+- [Q001180](../berichte/Q00/Q0011/Q001180/README.de.md) AI in abundance | Mistral AI
+- [Q001078](../berichte/Q00/Q0010/Q001078/README.de.md) Un Ministral, des Ministraux
+- [Q000978](../berichte/Q00/Q0009/Q000978/README.de.md) Mistral batch API
+- [Q001109](../berichte/Q00/Q0011/Q001109/README.de.md) Mistral Moderation API | Mistral AI
+- [Q001097](../berichte/Q00/Q0010/Q001097/README.de.md) Mistral has entered the chat
+- [Q001000](../berichte/Q00/Q0010/Q001000/README.de.md) Codestral 25.01 | Mistral AI
+- [Q001085](../berichte/Q00/Q0010/Q001085/README.de.md) Purr-fectly informed | Mistral AI
+- [Q001191](../berichte/Q00/Q0011/Q001191/README.de.md) Mistral Small 3 | Mistral AI
+- [Q001203](../berichte/Q00/Q0012/Q001203/README.de.md) The all new le Chat: Your AI assistant for life and work
+- [Q001214](../berichte/Q00/Q0012/Q001214/README.de.md) Mistral Saba | Mistral AI
+- [Q001225](../berichte/Q00/Q0012/Q001225/README.de.md) Empowering product development with an agentic workflow
+- [Q000821](../berichte/Q00/Q0008/Q000821/README.de.md) Mistral OCR | Mistral AI
+- [Q001231](../berichte/Q00/Q0012/Q001231/README.de.md) Mistral Small 3.1 | Mistral AI
+- [Q001239](../berichte/Q00/Q0012/Q001239/README.de.md) Evaluating RAG with LLM as a Judge
+- [Q001249](../berichte/Q00/Q0012/Q001249/README.de.md) Medium is the new large.
+- [Q001256](../berichte/Q00/Q0012/Q001256/README.de.md) Introducing Le Chat Enterprise
+- [Q001272](../berichte/Q00/Q0012/Q001272/README.de.md) Mistral AI
+- [Q001264](../berichte/Q00/Q0012/Q001264/README.de.md) Build AI agents with the Mistral Agents API
+- [Q001283](../berichte/Q00/Q0012/Q001283/README.de.md) Codestral Embed | Mistral AI
+- [Q001289](../berichte/Q00/Q0012/Q001289/README.de.md) Introducing Mistral Code | Mistral AI
+- [Q001296](../berichte/Q00/Q0012/Q001296/README.de.md) Mistral AI
+- [Q001302](../berichte/Q00/Q0013/Q001302/README.de.md) Mistral Compute | Mistral AI
+- [Q001311](../berichte/Q00/Q0013/Q001311/README.de.md) Announcing AI for Citizens
+- [Q001324](../berichte/Q00/Q0013/Q001324/README.de.md) Upgrading agentic coding capabilities with the new Devstral models
+- [Q001345](../berichte/Q00/Q0013/Q001345/README.de.md) Mistral AI
+- [Q001335](../berichte/Q00/Q0013/Q001335/README.de.md) Le Chat dives deep.
+- [Q001357](../berichte/Q00/Q0013/Q001357/README.de.md) Our contribution to a global environmental standard for AI
+- [Q001385](../berichte/Q00/Q0013/Q001385/README.de.md) Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise
+- [Q001370](../berichte/Q00/Q0013/Q001370/README.de.md) Unlocking the potential of vision language models on satellite imagery through fine-tuning
+- [Q001395](../berichte/Q00/Q0013/Q001395/README.de.md) Le Chat. Custom MCP connectors. Memories.
+- [Q001405](../berichte/Q00/Q0014/Q001405/README.de.md) Make Memory work for you.
+- [Q001412](../berichte/Q00/Q0014/Q001412/README.de.md) Mistral AI raises 1.7B€ to accelerate technological progress with AI
+- [Q001423](../berichte/Q00/Q0014/Q001423/README.de.md) Introducing Mistral AI Studio.
+- [Q001432](../berichte/Q00/Q0014/Q001432/README.de.md) Mistral AI - KI für Deutschland
+- [Q001446](../berichte/Q00/Q0014/Q001446/README.de.md) Introducing Mistral 3 | Mistral AI
+- [Q001460](../berichte/Q00/Q0014/Q001460/README.de.md) Introducing: Devstral 2 and Mistral Vibe CLI.
+- [Q001473](../berichte/Q00/Q0014/Q001473/README.de.md) Introducing Mistral OCR 3
+- [Q001620](../berichte/Q00/Q0016/Q001620/README.de.md) Heaps do lie: debugging a memory leak in vLLM.
+- [Q001494](../berichte/Q00/Q0014/Q001494/README.de.md) Voxtral transcribes at the speed of sound.
+- [Q001627](../berichte/Q00/Q0016/Q001627/README.de.md) Rails testing on autopilot: Building an agent that writes what developers won't
+- [Q000894](../berichte/Q00/Q0008/Q000894/README.de.md) Mistral AI partners with NVIDIA to accelerate open frontier models
+- [Q001502](../berichte/Q00/Q0015/Q001502/README.de.md) Leanstral: Open-Source foundation for trustworthy vibe-coding
+- [Q001514](../berichte/Q00/Q0015/Q001514/README.de.md) Introducing Mistral Small 4
+- [Q001520](../berichte/Q00/Q0015/Q001520/README.de.md) Introducing Forge | Mistral AI
+- [Q000909](../berichte/Q00/Q0009/Q000909/README.de.md) Speaking of Voxtral | Mistral AI
+- [Q001158](../berichte/Q00/Q0011/Q001158/README.de.md) Spaces: A CLI Built for Humans and Agents
+- [Q000919](../berichte/Q00/Q0009/Q000919/README.de.md) Workflows for work that runs the business
+- [Q001528](../berichte/Q00/Q0015/Q001528/README.de.md) Connect the dots: Build with built-in and custom MCPs in Studio
+- [Q001544](../berichte/Q00/Q0015/Q001544/README.de.md) Remote agents in Vibe. Powered by Mistral Medium 3.5.
+- [Q001577](../berichte/Q00/Q0015/Q001577/README.de.md) Emmi joins Mistral to accelerate the AI-native industry
+- [Q001635](../berichte/Q00/Q0016/Q001635/README.de.md) Physics AI research that’s shaping the industry.
+- [Q001644](../berichte/Q00/Q0016/Q001644/README.de.md) Introducing physics AI at Mistral: the foundation for engineering acceleration.
+- [Q001660](../berichte/Q00/Q0016/Q001660/README.de.md) Introducing Search Toolkit | Mistral AI
+- [Q001668](../berichte/Q00/Q0016/Q001668/README.de.md) AI Now Summit 2026
+- [Q001570](../berichte/Q00/Q0015/Q001570/README.de.md) Mistral OCR 4 : SOTA OCR for Document Intelligence
+- [Q001556](../berichte/Q00/Q0015/Q001556/README.de.md) Bringing more control over your connectors
+- [Q001551](../berichte/Q00/Q0015/Q001551/README.de.md) Leanstral 1.5: Proof Abundance for All
+- [Q001562](../berichte/Q00/Q0015/Q001562/README.de.md) Robostral Navigate: single-camera AI navigation
+- [Q001687](../berichte/Q00/Q0016/Q001687/README.de.md) Version control for prompts & skills in Studio
+- [Q000796](../berichte/Q00/Q0007/Q000796/README.de.md) Timestral: Mistral's time-series foundation models
+- [Q001675](../berichte/Q00/Q0016/Q001675/README.de.md) Introducing Shieldstral.
+- [Q001588](../berichte/Q00/Q0015/Q001588/README.de.md) In-region inference, open models, and new European infrastructure for sovereign AI.
+- [Q001695](../berichte/Q00/Q0016/Q001695/README.de.md) Introducing Agentic Search
+- [Q001706](../berichte/Q00/Q0017/Q001706/README.de.md) Mistral x HUMAIN
+- [Q001710](../berichte/Q00/Q0017/Q001710/README.de.md) Modernizing complex legacy code with AI agents
+- [Q001610](../berichte/Q00/Q0016/Q001610/README.de.md) Cloudera and Mistral Partner for Sovereign Enterprise AI
+- [Q001602](../berichte/Q00/Q0016/Q001602/README.de.md) Mistral Opens Munich Hub to Advance Industrial AI in Germany
+- [Q000848](../berichte/Q00/Q0008/Q000848/README.de.md) Introducing Mistral Large 4
+- [Q000883](../berichte/Q00/Q0008/Q000883/README.de.md) Mistral Advances AI for Engineering with NVIDIA
+- [Q000868](../berichte/Q00/Q0008/Q000868/README.de.md) Voxtral 3: Speech-to-Text, TTS & Voice Agents
+- [Q000215](../berichte/Q00/Q0002/Q000215/README.de.md) Mistral Large 4 (Le Chonk) is now open weight
+- [Q000770](../berichte/Q00/Q0007/Q000770/README.de.md) Build Enterprise Agents, Workflows & Apps in Mistral Studio
+
+### mlq.ai
+
+- [Q000529](../berichte/Q00/Q0005/Q000529/README.de.md) Anthropic's amended S-1 says its $35 billion Lambda compute deal can now be cancelled, and raises its Microsoft commitment
+
+### mofa.go.jp
+
+- [Q000582](../berichte/Q00/Q0005/Q000582/README.de.md) G7 Foreign Ministers’ Meeting in Paris (Overview of the “Session 2: Artificial Intelligence”)
+
+### moneycontrol.com
+
+- [Q000488](../berichte/Q00/Q0004/Q000488/README.de.md) Can making AI safer become an excuse to restrict competition?- Moneycontrol.com
+
+### mrkt30.com
+
+- [Q000608](../berichte/Q00/Q0006/Q000608/README.de.md) What Article 50 Actually Requires Before December 2: Text Watermarks, Detection Limits and the Grace Period
+
+### nature.com
+
+- [Q000559](../berichte/Q00/Q0005/Q000559/README.de.md) AI agents enter the ‘wet lab’
+
+### ncsc.gov.uk
+
+- [Q000340](../berichte/Q00/Q0003/Q000340/README.de.md) Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years
+
+### netz-trends.de
+
+- [Q000617](../berichte/Q00/Q0006/Q000617/README.de.md) EU AI watermark rule vs US law: no federal rule yet
+- [Q000637](../berichte/Q00/Q0006/Q000637/README.de.md) Commentary: EU AI watermarks from Dec 2, 2026
+
+### news.cgtn.com
+
+- [Q000385](../berichte/Q00/Q0003/Q000385/README.de.md) Chinese premier Li Qiang calls for global cooperation on cyberspace
+
+### nicfab.eu
+
+- [Q000615](../berichte/Q00/Q0006/Q000615/README.de.md) Marking, Provenance, Authenticity: Three Different Things
+
+### nist
+
+- [Q000142](../berichte/Q00/Q0001/Q000142/README.de.md) https://www.nist.gov/system/files/documents/2026/10/16/Key_Practices_for_Incident_Readiness_and_Response_in_Super_Intelligence%20_Training_and_Evaluation.pdf
+- [Q004529](../berichte/Q00/Q0045/Q004529/README.de.md) NIST IR 8547 initial public draft, Transition to Post-Quantum Cryptography Standards
+- [Q002024](../berichte/Q00/Q0020/Q002024/README.de.md) NIST Launches Centers for AI in Manufacturing and Critical Infrastructure
+- [Q001973](../berichte/Q00/Q0019/Q001973/README.de.md) CAISI Issues Request for Information About Securing AI Agent Systems
+- [Q001934](../berichte/Q00/Q0019/Q001934/README.de.md) NIST Allocates Over $3 Million to Small Businesses Advancing AI, Biotechnology, Semiconductors, Quantum and More
+- [Q001907](../berichte/Q00/Q0019/Q001907/README.de.md) Announcing the "AI Agent Standards Initiative" for Interoperable and Secure Innovation
+- [Q001531](../berichte/Q00/Q0015/Q001531/README.de.md) NIST Expands AI Consortium’s Scope, Calls for New Members
+- [Q001470](../berichte/Q00/Q0014/Q001470/README.de.md) New AI Model Shows How to Evacuate for Fires One Safe Step at a Time
+- [Q001315](../berichte/Q00/Q0013/Q001315/README.de.md) NIST Joins National Genesis Mission to Accelerate AI Innovation
+- [Q000047](../berichte/Q00/Q0000/Q000047/README.de.md) CAISI’s Assessment of Z.ai’s GLM-5.3 Cyber Capabilities
+- [Q000145](../berichte/Q00/Q0001/Q000145/README.de.md) Summary of Comments on the Concept Paper
+- [Q000026](../berichte/Q00/Q0000/Q000026/README.de.md) Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation
+- [Q000152](../berichte/Q00/Q0001/Q000152/README.de.md) Design Tenets for Agent Identity Management Systems
+- [Q000541](../berichte/Q00/Q0005/Q000541/README.de.md) Adversarial Machine Learning Taxonomy and Terminology | Draft NIST SP 2400-102e2026
+
+### nixonpeabody.com
+
+- [Q000407](../berichte/Q00/Q0004/Q000407/README.de.md) BIS formally suspends the Affiliates Rule until January 10, 2027
+
+### notebookcheck.net
+
+- [Q000609](../berichte/Q00/Q0006/Q000609/README.de.md) Claude now watermarks text from older models, with no opt-out
+
+### npr.org
+
+- [Q000648](../berichte/Q00/Q0006/Q000648/README.de.md) AI chatbots are becoming political advisers. Their answers can mislead voters
+
+### nti.org
+
+- [Q000571](../berichte/Q00/Q0005/Q000571/README.de.md) U.S.-China Workshop Tackles Missile-Launch Notifications and AI-Nuclear Risks
+- [Q000577](../berichte/Q00/Q0005/Q000577/README.de.md) NTI-Led Delegation Advances U.S.-China Nuclear Fail-Safe Dialogue in Beijing
+
+### nyudatascience.medium.com
+
+- [Q000478](../berichte/Q00/Q0004/Q000478/README.de.md) A New Tool Gives Researchers Evidence to Back Their AI Training Claims
+
+### occ.gov
+
+- [Q000455](../berichte/Q00/Q0004/Q000455/README.de.md) Super Intelligence: Supervisory Framework
+
+### oecd
+
+- [Q005861](../berichte/Q00/Q0058/Q005861/README.de.md) Artificial Intelligence in Society
+- [Q005867](../berichte/Q00/Q0058/Q005867/README.de.md) Scoping the OECD AI principles: Deliberations of the Expert Group on Artificial Intelligence at the OECD (AIGO)
+- [Q005499](../berichte/Q00/Q0054/Q005499/README.de.md) How Australia takes a global approach to human-centred AI for maximum benefits
+- [Q007177](../berichte/Q00/Q0071/Q007177/README.de.md) Three habits to cultivate when converting ethical AI principles into ethical AI practice
+- [Q007193](../berichte/Q00/Q0071/Q007193/README.de.md) The IDB is bringing responsible and ethical AI to Latin America and the Caribbean
+- [Q007188](../berichte/Q00/Q0071/Q007188/README.de.md) The OECD Network of Experts on AI: Moving from principle to practice for trustworthy AI
+- [Q007225](../berichte/Q00/Q0072/Q007225/README.de.md) Japan’s AI Utilization Guidelines: an initiative for implementing the OECD AI Principles
+- [Q007231](../berichte/Q00/Q0072/Q007231/README.de.md) Brazil should have a national artificial intelligence observatory. This is what it should look like
+- [Q005657](../berichte/Q00/Q0056/Q005657/README.de.md) OECD.AI Policy Observatory launch brings experts together to share and shape AI policy
+- [Q007126](../berichte/Q00/Q0071/Q007126/README.de.md) Policy makers can enable AI for the fight against COVID-19
+- [Q007213](../berichte/Q00/Q0072/Q007213/README.de.md) The American AI Initiative:  The U.S. strategy for leadership in artificial intelligence
+- [Q007208](../berichte/Q00/Q0072/Q007208/README.de.md) Repository of open science initiatives to fight the COVID-19 pandemic
+- [Q007082](../berichte/Q00/Q0070/Q007082/README.de.md) Can AI combat cognitive capacity issues and information overload?
+- [Q007128](../berichte/Q00/Q0071/Q007128/README.de.md) Denmark: an independent council and a labelling scheme to promote the ethical use of data
+- [Q009572](../berichte/Q00/Q0095/Q009572/README.de.md) Singapore’s model framework balances innovation and trust in AI
+- [Q006986](../berichte/Q00/Q0069/Q006986/README.de.md) AI Index Report 2019 – Chapter 8 Societal Considerations
+- [Q006997](../berichte/Q00/Q0069/Q006997/README.de.md) AI Index Report 2019 – Chapter 2 Conferences
+- [Q006991](../berichte/Q00/Q0069/Q006991/README.de.md) AI Index Report 2019 – Chapter 4 The Economy
+- [Q007002](../berichte/Q00/Q0070/Q007002/README.de.md) AI Index Report 2019 – Chapter 5 Education
+- [Q007007](../berichte/Q00/Q0070/Q007007/README.de.md) AI Index Report 2019 – Chapter 6 Autonomous Systems
+- [Q007011](../berichte/Q00/Q0070/Q007011/README.de.md) AI Index Report 2019 – Chapter 7 Public Perception
+- [Q007198](../berichte/Q00/Q0071/Q007198/README.de.md) AI Index Report 2019 – Chapter 3 Technical Performance
+- [Q007203](../berichte/Q00/Q0072/Q007203/README.de.md) AI Index Report 2019 – Chapter 1 Research and Development
+- [Q006674](../berichte/Q00/Q0066/Q006674/README.de.md) HAI Institute’s latest AI Index Report covers 3 times as many data sets
+- [Q007016](../berichte/Q00/Q0070/Q007016/README.de.md) AI Index Report 2019 – Introduction
+- [Q007166](../berichte/Q00/Q0071/Q007166/README.de.md) The Global Partnership on AI takes off – at the OECD
+- [Q007218](../berichte/Q00/Q0072/Q007218/README.de.md) Not all intelligence is artificial
+- [Q007133](../berichte/Q00/Q0071/Q007133/README.de.md) Harnessing Artificial Intelligence for Development
+- [Q007156](../berichte/Q00/Q0071/Q007156/README.de.md) An introduction to the Global Partnership on AI’s work on data governance
+- [Q007151](../berichte/Q00/Q0071/Q007151/README.de.md) An introduction to the Global Partnership on AI’s work on Responsible AI
+- [Q007144](../berichte/Q00/Q0071/Q007144/README.de.md) An introduction to the Global Partnership on AI’s Pandemic Response
+- [Q007114](../berichte/Q00/Q0071/Q007114/README.de.md) Shaping AI trends in work and society – an evidence based approach is crucial
+- [Q005324](../berichte/Q00/Q0053/Q005324/README.de.md) Artificial intelligence in health still needs human intelligence
+- [Q006214](../berichte/Q00/Q0062/Q006214/README.de.md) An introduction to the Global Partnership on AI’s work on the future of work
+- [Q005589](../berichte/Q00/Q0055/Q005589/README.de.md) How do we govern the complex intersection between AI and cybersecurity?
+- [Q007077](../berichte/Q00/Q0070/Q007077/README.de.md) An introduction to the Global Partnership on AI’s work on Innovation and Commercialization
+- [Q006894](../berichte/Q00/Q0068/Q006894/README.de.md) Webinar: How can Artificial Intelligence help Latin America and the Caribbean fight the COVID-19 virus?
+- [Q006683](../berichte/Q00/Q0066/Q006683/README.de.md) How private applied AI R&D labs can make AI work for mid-size businesses
+- [Q007161](../berichte/Q00/Q0071/Q007161/README.de.md) An open call for input from GPAI’s Data Governance Working Group
+- [Q007169](../berichte/Q00/Q0071/Q007169/README.de.md) OECD’s work on AI With a view on COVID-19
+- [Q007173](../berichte/Q00/Q0071/Q007173/README.de.md) OECD’s work on AI With a view on COVID-19
+- [Q006305](../berichte/Q00/Q0063/Q006305/README.de.md) COVID-19 and beyond: Elements of certainty can make AI ecosystems trustworthy
+- [Q007137](../berichte/Q00/Q0071/Q007137/README.de.md) iHuman: a virtual screening of the film with Director Tonje Schei
+- [Q006726](../berichte/Q00/Q0067/Q006726/README.de.md) A first look at the OECD’s Framework for the Classification of AI Systems, designed to give policymakers clarity
+- [Q006854](../berichte/Q00/Q0068/Q006854/README.de.md) Collective and Augmented Intelligence Against COVID-19 – a decision support tool for policymakers
+- [Q007110](../berichte/Q00/Q0071/Q007110/README.de.md) Deepmind’s Alphafold: a solution to the 50-year-old challenge of protein folding
+- [Q009569](../berichte/Q00/Q0095/Q009569/README.de.md) How the OECD’s AI system classification work added to a year of progress in AI governance
+- [Q006862](../berichte/Q00/Q0068/Q006862/README.de.md) The impact of AI on the labour market: is this time different?
+- [Q007122](../berichte/Q00/Q0071/Q007122/README.de.md) Moller, N. et al. (2020) “Who does the work of data?” ACM Interaction
+- [Q007027](../berichte/Q00/Q0070/Q007027/README.de.md) The OECD AI Systems Classification Framework: progress, challenges and way forward
+- [Q005876](../berichte/Q00/Q0058/Q005876/README.de.md) AI measurement in ICT usage surveys: A review
+- [Q006982](../berichte/Q00/Q0069/Q006982/README.de.md) AI measurement in ICT usage surveys
+- [Q006716](../berichte/Q00/Q0067/Q006716/README.de.md) The power of persuading: Can and should we regulate AI algorithms?
+- [Q006948](../berichte/Q00/Q0069/Q006948/README.de.md) AI Index Report 2021 Chapter 1
+- [Q006951](../berichte/Q00/Q0069/Q006951/README.de.md) AI Index Report 2021
+- [Q006956](../berichte/Q00/Q0069/Q006956/README.de.md) AI Index Report 2021 Chapter 7
+- [Q006961](../berichte/Q00/Q0069/Q006961/README.de.md) AI Index Report 2021 Chapter 6
+- [Q006970](../berichte/Q00/Q0069/Q006970/README.de.md) AI Index Report 2021 Chapter 4
+- [Q006974](../berichte/Q00/Q0069/Q006974/README.de.md) AI Index Report 2021 Chapter 3
+- [Q006978](../berichte/Q00/Q0069/Q006978/README.de.md) AI Index Report 2021 Chapter 2
+- [Q003069](../berichte/Q00/Q0030/Q003069/README.de.md) Ensuring trustworthy algorithmic decision-making
+- [Q006222](../berichte/Q00/Q0062/Q006222/README.de.md) Blog series: How countries are empowering citizens for AI and the future of work
+- [Q006498](../berichte/Q00/Q0064/Q006498/README.de.md) Canada’s leadership in AI – talent, ecosystems, and responsible AI
+- [Q006419](../berichte/Q00/Q0064/Q006419/README.de.md) Singapore: The future of work in the age of AI
+- [Q005475](../berichte/Q00/Q0054/Q005475/README.de.md) Germany’s human-centred approach to AI is inclusive, evidence-based and capacity-building
+- [Q006625](../berichte/Q00/Q0066/Q006625/README.de.md) What are the tools for implementing trustworthy AI? A comparative framework and database
+- [Q006430](../berichte/Q00/Q0064/Q006430/README.de.md) Egypt’s AI strategy is more about development than AI
+- [Q006357](../berichte/Q00/Q0063/Q006357/README.de.md) Public consultation on the OECD Framework for Classifying AI Systems
+- [Q006441](../berichte/Q00/Q0064/Q006441/README.de.md) ‘If it isn’t diverse, it isn’t ethical’: the United Kingdom’s approach to AI policy
+- [Q006927](../berichte/Q00/Q0069/Q006927/README.de.md) GPAI’s Responsible AI Working Group work in 2021
+- [Q006229](../berichte/Q00/Q0062/Q006229/README.de.md) The 2021 AI Index: AI Industrialization and Future Challenges
+- [Q006905](../berichte/Q00/Q0069/Q006905/README.de.md) An update on GPAI’s Data Governance Working Group – and a call for proposals for two new projects
+- [Q006910](../berichte/Q00/Q0069/Q006910/README.de.md) GPAI’s AI and Pandemic Response Working Group work in 2021
+- [Q006887](../berichte/Q00/Q0068/Q006887/README.de.md) How smart can education get? Very smart.
+- [Q005882](../berichte/Q00/Q0058/Q005882/README.de.md) Tools for trustworthy AI: A framework to compare implementation tools for trustworthy AI systems
+- [Q006869](../berichte/Q00/Q0068/Q006869/README.de.md) Japan gives Minister’s Award to Andrew Wyckoff for his achievements at the OECD
+- [Q006877](../berichte/Q00/Q0068/Q006877/README.de.md) A new approach to measuring government investment in AI-related R&D
+- [Q006831](../berichte/Q00/Q0068/Q006831/README.de.md) Soft law 2.0: Incorporating incentives and implementation mechanisms into the governance of artificial intelligence
+- [Q005892](../berichte/Q00/Q0058/Q005892/README.de.md) State of implementation of the OECD AI Principles: Insights from national AI policies
+- [Q006449](../berichte/Q00/Q0064/Q006449/README.de.md) How the OECD AI Policy Observatory has shaped Colombia and Latin America’s approach to AI policy
+- [Q006844](../berichte/Q00/Q0068/Q006844/README.de.md) Survey: classifying AI systems used in response to the COVID-19 pandemic
+- [Q006836](../berichte/Q00/Q0068/Q006836/README.de.md) An applied research agenda for data governance for AI
+- [Q006882](../berichte/Q00/Q0068/Q006882/README.de.md) Enabling data sharing for social benefit through data trusts at the Global Partnership on AI, GPAI
+- [Q006823](../berichte/Q00/Q0068/Q006823/README.de.md) Familiar methods can help to ensure trustworthy AI as the algorithm auditing industry grows
+- [Q006527](../berichte/Q00/Q0065/Q006527/README.de.md) GlobalPolicy.AI unites the work of eight international organisations on artificial intelligence
+- [Q005900](../berichte/Q00/Q0059/Q005900/README.de.md) OECD Business and Finance Outlook 2021: AI in Business and Finance
+- [Q005908](../berichte/Q00/Q0059/Q005908/README.de.md) Venture capital investments in artificial intelligence: Analysing trends in VC in AI companies from 2012 through 2020
+- [Q006251](../berichte/Q00/Q0062/Q006251/README.de.md) We can shape policies to steer AI towards inclusive growth. Here’s how
+- [Q006263](../berichte/Q00/Q0062/Q006263/README.de.md) Artificial intelligence and the future of science
+- [Q002326](../berichte/Q00/Q0023/Q002326/README.de.md) A responsible AI strategy for climate action
+- [Q006554](../berichte/Q00/Q0065/Q006554/README.de.md) Gender bias in AI: what the United States, Canada, and Western European nations can learn from other countries
+- [Q006696](../berichte/Q00/Q0066/Q006696/README.de.md) Testing frameworks for the classification of AI systems
+- [Q005841](../berichte/Q00/Q0058/Q005841/README.de.md) Measuring compute capacity: a critical step to capturing AI’s full economic potential
+- [Q006709](../berichte/Q00/Q0067/Q006709/README.de.md) Creating real-world data trusts: progress so far and the path ahead
+- [Q006636](../berichte/Q00/Q0066/Q006636/README.de.md) The OECD Framework for Classifying AI Systems to assess policy challenges and ensure international standards in AI
+- [Q006701](../berichte/Q00/Q0067/Q006701/README.de.md) OECD Framework for Classifying AI Systems: two page overview
+- [Q005916](../berichte/Q00/Q0059/Q005916/README.de.md) OECD Framework for the Classification of AI systems
+- [Q006599](../berichte/Q00/Q0065/Q006599/README.de.md) What do AI systems and cows have in common?
+- [Q006646](../berichte/Q00/Q0066/Q006646/README.de.md) AI must not make women’s working lives worse
+- [Q005921](../berichte/Q00/Q0059/Q005921/README.de.md) The Effects of AI on the Working Lives of Women
+- [Q006608](../berichte/Q00/Q0066/Q006608/README.de.md) AI in financial services – opportunities for putting OECD frameworks into action
+- [Q006458](../berichte/Q00/Q0064/Q006458/README.de.md) Korea is leading an exemplary AI transition. Here’s how.
+- [Q006591](../berichte/Q00/Q0065/Q006591/README.de.md) Three takeaways from classifying AI systems designed to fight the COVID-19 pandemic
+- [Q006381](../berichte/Q00/Q0063/Q006381/README.de.md) Businesses are applying the OECD AI Principles. How is it going?
+- [Q005806](../berichte/Q00/Q0058/Q005806/README.de.md) Reducing the carbon emissions of AI
+- [Q006468](../berichte/Q00/Q0064/Q006468/README.de.md) Is AI a wake-up call for financial services in the UK?
+- [Q006581](../berichte/Q00/Q0065/Q006581/README.de.md) Lessons for businesses and regulators on implementing trustworthy AI
+- [Q006237](../berichte/Q00/Q0062/Q006237/README.de.md) A framework to navigate the emerging regulatory landscape for AI
+- [Q006571](../berichte/Q00/Q0065/Q006571/README.de.md) Leveraging AI, big data analytics and people to fight untruths online
+- [Q006539](../berichte/Q00/Q0065/Q006539/README.de.md) Putting the OECD AI Principles into practice: progress and future perspectives – Event summary
+- [Q006563](../berichte/Q00/Q0065/Q006563/README.de.md) AI needs the right trade policies to flourish
+- [Q006478](../berichte/Q00/Q0064/Q006478/README.de.md) Thailand’s AI strategy to boost economic and social wellbeing
+- [Q006488](../berichte/Q00/Q0064/Q006488/README.de.md) Singapore’s A.I.Verify builds trust through transparency
+- [Q006547](../berichte/Q00/Q0065/Q006547/README.de.md) AlphaFold: How AI can accelerate scientific discovery
+- [Q006371](../berichte/Q00/Q0063/Q006371/README.de.md) Is it enough to audit recruitment algorithms for bias?
+- [Q006520](../berichte/Q00/Q0065/Q006520/README.de.md) Google search terms can say a lot about how countries use artificial intelligence
+- [Q005519](../berichte/Q00/Q0055/Q005519/README.de.md) New AI technologies can perpetuate old biases: some examples in the United States
+- [Q006511](../berichte/Q00/Q0065/Q006511/README.de.md) Responsible AI licenses: a practical tool for implementing the OECD Principles for Trustworthy AI
+- [Q006084](../berichte/Q00/Q0060/Q006084/README.de.md) The European Union could rethink its definition of General Purpose AI Systems (GPAIS)
+- [Q001705](../berichte/Q00/Q0017/Q001705/README.de.md) The twin transitions: are digital technologies the key to a clean energy future?
+- [Q005931](../berichte/Q00/Q0059/Q005931/README.de.md) Measuring the environmental impacts of artificial intelligence compute and applications: The AI footprint
+- [Q005939](../berichte/Q00/Q0059/Q005939/README.de.md) Harnessing the power of AI and emerging technologies: Background paper for the CDEP Ministerial meeting
+- [Q005957](../berichte/Q00/Q0059/Q005957/README.de.md) Building better societies through digital policy: Background paper for the CDEP Ministerial meeting
+- [Q005792](../berichte/Q00/Q0057/Q005792/README.de.md) Can AI help save the planet?
+- [Q006391](../berichte/Q00/Q0063/Q006391/README.de.md) AI has made its way to the workplace. So how have laws kept pace?
+- [Q006403](../berichte/Q00/Q0064/Q006403/README.de.md) AI legal cases are increasing: how can we prepare?
+- [Q006243](../berichte/Q00/Q0062/Q006243/README.de.md) Artificial General Intelligence: can we avoid the ultimate existential threat?
+- [Q006200](../berichte/Q00/Q0062/Q006200/README.de.md) AI for All: How India is carving its own path in the global AI race
+- [Q006317](../berichte/Q00/Q0063/Q006317/README.de.md) Data from tech and social platforms underline the success of India’s AI upskilling policies
+- [Q005948](../berichte/Q00/Q0059/Q005948/README.de.md) Advancing accountability in AI: Governing and managing risks throughout the lifecycle for trustworthy AI
+- [Q001205](../berichte/Q00/Q0012/Q001205/README.de.md) A blueprint for building national compute capacity for artificial intelligence
+- [Q006327](../berichte/Q00/Q0063/Q006327/README.de.md) Auditors have a role in Canadian AI governance initiatives, but it needs clarification
+- [Q001821](../berichte/Q00/Q0018/Q001821/README.de.md) Artificially Inequitable? AI and closing the gender gap
+- [Q006413](../berichte/Q00/Q0064/Q006413/README.de.md) Time to beat the diversity gap in artificial intelligence
+- [Q006337](../berichte/Q00/Q0063/Q006337/README.de.md) What is web3? Part 1 of a three-part vlog on the OECD and web3
+- [Q006282](../berichte/Q00/Q0062/Q006282/README.de.md) The EU’s AI Act needs to address critical manipulation methods
+- [Q006347](../berichte/Q00/Q0063/Q006347/README.de.md) Analysing simulated environments and immersive technologies in the European AI Act and Brazil’s proposed AI regulation
+- [Q003529](../berichte/Q00/Q0035/Q003529/README.de.md) As language models and generative AI take the world by storm, the OECD is tracking the policy implications
+- [Q005966](../berichte/Q00/Q0059/Q005966/README.de.md) AI language models: Technological, socio-economic and policy considerations
+- [Q006294](../berichte/Q00/Q0062/Q006294/README.de.md) A roadmap for an AI learning campaign
+- [Q006273](../berichte/Q00/Q0062/Q006273/README.de.md) A look at AI and Blockchain governance and an interview with CZ
+- [Q006184](../berichte/Q00/Q0061/Q006184/README.de.md) Lawsuits in the United States point to a need for AI risk management systems
+- [Q005279](../berichte/Q00/Q0052/Q005279/README.de.md) AI Act and disability-centred policy: how can we stop perpetuating social exclusion?
+- [Q006094](../berichte/Q00/Q0060/Q006094/README.de.md) Can synthetic data enable data sharing in financial services?
+- [Q001219](../berichte/Q00/Q0012/Q001219/README.de.md) We need to use AI to fight climate change
+- [Q003006](../berichte/Q00/Q0030/Q003006/README.de.md) Regulatory sandboxes can facilitate experimentation in artificial intelligence
+- [Q006194](../berichte/Q00/Q0061/Q006194/README.de.md) When AI generates work, standard contractual terms can help generate value and clarity
+- [Q002845](../berichte/Q00/Q0028/Q002845/README.de.md) Vers une réelle égalité en intelligence artificielle : une politique d’IA transformatrice pour l’égalité des genres et la diversité
+- [Q006207](../berichte/Q00/Q0062/Q006207/README.de.md) Calling on Consultants! Come work with us at the OECD.AI Policy Observatory
+- [Q006069](../berichte/Q00/Q0060/Q006069/README.de.md) Basic safety requirements for AI risk management
+- [Q006122](../berichte/Q00/Q0061/Q006122/README.de.md) Should we do this? Navigating risk and innovation through digital ethics in business
+- [Q005390](../berichte/Q00/Q0053/Q005390/README.de.md) Announcing the new OECD.AI Expert Group on AI Futures
+- [Q005971](../berichte/Q00/Q0059/Q005971/README.de.md) Regulatory sandboxes in artificial intelligence
+- [Q006136](../berichte/Q00/Q0061/Q006136/README.de.md) DeepMind: Exploring institutions for global AI governance
+- [Q006108](../berichte/Q00/Q0061/Q006108/README.de.md) Call for Partners: the Global Challenge to Build Trust in the Age of Generative AI
+- [Q006018](../berichte/Q00/Q0060/Q006018/README.de.md) A law for foundation models: the EU AI Act can improve regulation for fairer competition
+- [Q006160](../berichte/Q00/Q0061/Q006160/README.de.md) Canada and the UK compare AI governance efforts and  reflect on regulating AI
+- [Q006173](../berichte/Q00/Q0061/Q006173/README.de.md) Brazil’s path to responsible AI
+- [Q005338](../berichte/Q00/Q0053/Q005338/README.de.md) Artificial intelligence in health: big opportunities, big risks
+- [Q009565](../berichte/Q00/Q0095/Q009565/README.de.md) Three steps for businesses to make AI data and compute more sustainable
+- [Q006044](../berichte/Q00/Q0060/Q006044/README.de.md) BigCode: toward open AI governance processes in LLMs for coding
+- [Q005830](../berichte/Q00/Q0058/Q005830/README.de.md) Will businesses or laws and regulations ever prioritise environmental sustainability for AI systems?
+- [Q006146](../berichte/Q00/Q0061/Q006146/README.de.md) Expert Roundtable on Generative AI – 31 May 2023
+- [Q006059](../berichte/Q00/Q0060/Q006059/README.de.md) Generative AI: Unlocking opportunities for India’s future
+- [Q005982](../berichte/Q00/Q0059/Q005982/README.de.md) G7 Hiroshima Process on Generative Artificial Intelligence (AI)
+- [Q006030](../berichte/Q00/Q0060/Q006030/README.de.md) Vague concepts in the EU AI Act will not protect citizens from AI manipulation
+- [Q005994](../berichte/Q00/Q0059/Q005994/README.de.md) Initial policy considerations for generative artificial intelligence
+- [Q005306](../berichte/Q00/Q0053/Q005306/README.de.md) Web3, AI, and other technologies provide new opportunities to improve healthcare
+- [Q005571](../berichte/Q00/Q0055/Q005571/README.de.md) Why policymakers worldwide must prioritise security for AI
+- [Q005779](../berichte/Q00/Q0057/Q005779/README.de.md) The AI data challenge: How do we protect privacy and other fundamental rights in an AI-driven world?
+- [Q005767](../berichte/Q00/Q0057/Q005767/README.de.md) Bridging the gap in AI governance and the rule of law: The Athens Roundtable 2023
+- [Q005686](../berichte/Q00/Q0056/Q005686/README.de.md) Stocktaking for the development of an AI incident definition
+- [Q006003](../berichte/Q00/Q0060/Q006003/README.de.md) The state of implementation of the OECD AI Principles four years on
+- [Q003111](../berichte/Q00/Q0031/Q003111/README.de.md) How countries are implementing the OECD Principles for Trustworthy AI
+- [Q005617](../berichte/Q00/Q0056/Q005617/README.de.md) The OECD AI Incidents Monitor: an evidence base for effective AI policy
+- [Q005818](../berichte/Q00/Q0058/Q005818/README.de.md) Accelerating science could be the most valuable use of AI
+- [Q005747](../berichte/Q00/Q0057/Q005747/README.de.md) Updates to the OECD’s definition of an AI system explained
+- [Q002313](../berichte/Q00/Q0023/Q002313/README.de.md) How much water does AI consume? The public deserves to know
+- [Q005733](../berichte/Q00/Q0057/Q005733/README.de.md) Human, or human-like? Transparency for AI-generated content
+- [Q005721](../berichte/Q00/Q0057/Q005721/README.de.md) For disabilities and designated groups, the Digital Services and Market Acts may complement AI and data policies to ensure algorithmic safety and accountability
+- [Q005147](../berichte/Q00/Q0051/Q005147/README.de.md) How can standard contract terms advance responsible AI data and model sharing for generative AI and other applications?
+- [Q005603](../berichte/Q00/Q0056/Q005603/README.de.md) Ensuring AI’s trustworthiness: reliability engineering meets data-driven risk management
+- [Q005696](../berichte/Q00/Q0056/Q005696/README.de.md) The argument for holistic AI audits
+- [Q005707](../berichte/Q00/Q0057/Q005707/README.de.md) The United States works with domestic and international AI communities to establish frameworks that advance trustworthy AI for all
+- [Q005352](../berichte/Q00/Q0053/Q005352/README.de.md) 2023: A pioneering year for AI and the OECD
+- [Q005676](../berichte/Q00/Q0056/Q005676/README.de.md) Exploring DLT and blockchain: A comparative analysis of Hedera, Bitcoin, Ethereum, and how they integrate with AI technologies
+- [Q005667](../berichte/Q00/Q0056/Q005667/README.de.md) Provide your feedback on how to improve the OECD.AI Database of National AI Policies & Strategies
+- [Q009490](../berichte/Q00/Q0094/Q009490/README.de.md) OECD health ministers: people and partnerships are the secret to enabling AI in healthcare
+- [Q005293](../berichte/Q00/Q0052/Q005293/README.de.md) The therapeutic caveat: Prohibitions on manipulation and persuasion in the EU AI Act
+- [Q005163](../berichte/Q00/Q0051/Q005163/README.de.md) Is there AI beyond Chat GPT?
+- [Q005633](../berichte/Q00/Q0056/Q005633/README.de.md) Reflections on safety: General-purpose AI developers can learn from the Challenger disaster
+- [Q002064](../berichte/Q00/Q0020/Q002064/README.de.md) A new expert group at the OECD for policy synergies in AI, data and privacy
+- [Q005422](../berichte/Q00/Q0054/Q005422/README.de.md) How to handle GDPR data access requests in AI-driven personal data processing
+- [Q005644](../berichte/Q00/Q0056/Q005644/README.de.md) Will artificial intelligence cause an economic growth explosion?
+- [Q004471](../berichte/Q00/Q0044/Q004471/README.de.md) Explanatory memorandum on the updated OECD definition of an AI system
+- [Q005534](../berichte/Q00/Q0055/Q005534/README.de.md) The AI data scraping challenge:  How can we proceed responsibly?
+- [Q005409](../berichte/Q00/Q0054/Q005409/README.de.md) What is AI? Can you make a clear distinction between AI and non-AI systems?
+- [Q005443](../berichte/Q00/Q0054/Q005443/README.de.md) Deliberate, inclusive AI policies to empower women in Africa
+- [Q005555](../berichte/Q00/Q0055/Q005555/README.de.md) Responsible science communication can be a catalyst for trust in technology
+- [Q005488](../berichte/Q00/Q0054/Q005488/README.de.md) In tune with ethics: Responsible artificial intelligence and the music industry
+- [Q005545](../berichte/Q00/Q0055/Q005545/README.de.md) UK and OECD.AI come together to give AI actors a valuable resource for trustworthy AI
+- [Q003136](../berichte/Q00/Q0031/Q003136/README.de.md) Building the foundations for collaboration: The OECD-African Union AI Dialogue
+- [Q005433](../berichte/Q00/Q0054/Q005433/README.de.md) Canada’s plans to bridge the AI compute gap and how it can make industry policy inclusive and sustainable
+- [Q004487](../berichte/Q00/Q0044/Q004487/README.de.md) Defining AI incidents and related terms
+- [Q004582](../berichte/Q00/Q0045/Q004582/README.de.md) Name it to tame it: Defining AI incidents and hazards
+- [Q005362](../berichte/Q00/Q0053/Q005362/README.de.md) Evolving with innovation: The 2024 OECD AI Principles update
+- [Q003149](../berichte/Q00/Q0031/Q003149/README.de.md) OECD AI Review of Germany: A new phase for Germany’s AI strategy
+- [Q003037](../berichte/Q00/Q0030/Q003037/README.de.md) A look at the risks and opportunities for AI in tax administrations
+- [Q005464](../berichte/Q00/Q0054/Q005464/README.de.md) Responsible AI in African economic policymaking
+- [Q005454](../berichte/Q00/Q0054/Q005454/README.de.md) Circle of trust: Six steps to foster the effective development of tools for trustworthy AI in the UK and the United States
+- [Q002052](../berichte/Q00/Q0020/Q002052/README.de.md) Six crucial policy considerations for AI, data governance and privacy: Insights from the OECD
+- [Q004500](../berichte/Q00/Q0045/Q004500/README.de.md) AI, data governance and privacy: Synergies and areas of international co-operation
+- [Q005375](../berichte/Q00/Q0053/Q005375/README.de.md) Towards algorithm auditing: A research overview
+- [Q005396](../berichte/Q00/Q0053/Q005396/README.de.md) Terms of reference (ToR) for participants in the OECD Network of Experts on Artificial Intelligence (ONE AI)
+- [Q005235](../berichte/Q00/Q0052/Q005235/README.de.md) Participate in the OECD’s pilot on monitoring the application of the G7 Code of Conduct for Organisations Developing Advanced AI Development
+- [Q005217](../berichte/Q00/Q0052/Q005217/README.de.md) Deadline extended to 1 October: Public consultation on risk thresholds for advanced AI systems
+- [Q005261](../berichte/Q00/Q0052/Q005261/README.de.md) AI Safety Institutes: Can countries meet the challenge?
+- [Q003279](../berichte/Q00/Q0032/Q003279/README.de.md) Governing with artificial intelligence: Are governments ready?
+- [Q005205](../berichte/Q00/Q0052/Q005205/README.de.md) AI could transform disaster response. How do we ensure it reaches those who need it most?
+- [Q005250](../berichte/Q00/Q0052/Q005250/README.de.md) AI Standards Hub makes its AI standards available on the OECD Catalogue of Tools and Metrics for Trustworthy AI
+- [Q005188](../berichte/Q00/Q0051/Q005188/README.de.md) Participate in the OECD survey on private sector perspectives on AI adoption and governance
+- [Q005131](../berichte/Q00/Q0051/Q005131/README.de.md) With mounting pressure on health systems, can AI help 8 billion people to obtain optimal health outcomes?
+- [Q005115](../berichte/Q00/Q0051/Q005115/README.de.md) Everyone must understand the environmental costs of AI
+- [Q004693](../berichte/Q00/Q0046/Q004693/README.de.md) Navigating the environmental impact of AI
+- [Q004757](../berichte/Q00/Q0047/Q004757/README.de.md) 2023 LinkedIn data on OECD.AI:  Definitions for AI occupations are more specific, women in more AI jobs as career transitions to AI grow
+- [Q004811](../berichte/Q00/Q0048/Q004811/README.de.md) Unpacking the ‘AI wardrobe’: How national policies are shaping the future of AI
+- [Q003719](../berichte/Q00/Q0037/Q003719/README.de.md) How the global community can come together to understand AI’s risks
+- [Q002969](../berichte/Q00/Q0029/Q002969/README.de.md) Assessing potential future artificial intelligence risks, benefits and policy imperatives
+- [Q004677](../berichte/Q00/Q0046/Q004677/README.de.md) Safer together: How governments can enhance the AI Safety Institute Network’s role in global AI governance
+- [Q002980](../berichte/Q00/Q0029/Q002980/README.de.md) Artificial Intelligence and the health workforce: Perspectives from medical associations on AI and health
+- [Q004828](../berichte/Q00/Q0048/Q004828/README.de.md) A collective effort for accountability in AI governance: The Sixth Edition of the Athens Roundtable on AI and the Rule of Law
+- [Q002931](../berichte/Q00/Q0029/Q002931/README.de.md) Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence
+- [Q004844](../berichte/Q00/Q0048/Q004844/README.de.md) Social dialogue and AI: Global Deal focus group on social dialogue and the use of AI systems in the workplace
+- [Q002833](../berichte/Q00/Q0028/Q002833/README.de.md) Guide d’application des recommandations pour une politique d’IA transformatrice
+- [Q004866](../berichte/Q00/Q0048/Q004866/README.de.md) AI for everyone? A roadmap to substantive equality in AI ecosystems
+- [Q004893](../berichte/Q00/Q0048/Q004893/README.de.md) Future of GPAI and the GPAI Secretariat: Integrated Partnership on AI with the OECD, under the GPAI Brand
+- [Q004922](../berichte/Q00/Q0049/Q004922/README.de.md) 04 – From co-generated data to generative AI New rights and governance models in digital
+- [Q004931](../berichte/Q00/Q0049/Q004931/README.de.md) 03 – AI for net zero: Assessing readiness for AI
+- [Q004943](../berichte/Q00/Q0049/Q004943/README.de.md) 02 – Social media governance project: Summary of work in 2024
+- [Q004971](../berichte/Q00/Q0049/Q004971/README.de.md) 12 – Justicia de datos llevada a la practica : Guia para las comunidades afectadas
+- [Q004991](../berichte/Q00/Q0049/Q004991/README.de.md) 11 – Justice en matière de données : Guide pratique pour les communautées concernées
+- [Q005021](../berichte/Q00/Q0050/Q005021/README.de.md) 09 – Copyright and data protection rights in co-generated input and output of generative AI
+- [Q005041](../berichte/Q00/Q0050/Q005041/README.de.md) 19 – Pandemic resilience case studies of an AI-calibrated ensemble of models to inform decision-making
+- [Q005050](../berichte/Q00/Q0050/Q005050/README.de.md) 18 – Digital ecosystems that empower communities: Exploring case studies to develop theory and templates for technology stacks
+- [Q005064](../berichte/Q00/Q0050/Q005064/README.de.md) 17 – Scaling responsible AI solutions – Building an international community of practice and knowledge-sharing
+- [Q005076](../berichte/Q00/Q0050/Q005076/README.de.md) 16 – Algorithmic Transparency in the Public Sector Recommendations for Governments to Enhance the Transparency of Public Algorithms
+- [Q005088](../berichte/Q00/Q0050/Q005088/README.de.md) 15 – Algorithmic Transparency in the Public Sector Case studies of repositories of public algorithms in Chile, the EU and the UK
+- [Q004908](../berichte/Q00/Q0049/Q004908/README.de.md) From co-generated data to generative AI
+- [Q002958](../berichte/Q00/Q0029/Q002958/README.de.md) A sectoral taxonomy of AI intensity
+- [Q004742](../berichte/Q00/Q0047/Q004742/README.de.md) Trustworthy AI for the enterprise: How to train an LLM to follow a code of conduct
+- [Q004772](../berichte/Q00/Q0047/Q004772/README.de.md) AI’s potential futures: Mitigating risks, harnessing opportunities
+- [Q004801](../berichte/Q00/Q0048/Q004801/README.de.md) Towards a Hiroshima Artificial Intelligence Process Code of Conduct Reporting Framework: Findings from the Pilot
+- [Q002660](../berichte/Q00/Q0026/Q002660/README.de.md) Voces del cambio: la IA generativa y la transformación del trabajo en América Latina
+- [Q002678](../berichte/Q00/Q0026/Q002678/README.de.md) Voices of change: Generative AI and the transformation  of work in Latin America
+- [Q004636](../berichte/Q00/Q0046/Q004636/README.de.md) Empower AI Workers (EAIW):  Worker AI Adoption, Usage, and  Regional Differences
+- [Q004622](../berichte/Q00/Q0046/Q004622/README.de.md) Generative AI and the future of work global dialogue: Perceptions and prospects Roundtables in Asia, Europe, and Latin America
+- [Q004607](../berichte/Q00/Q0046/Q004607/README.de.md) More partnerships, more insights, better tools: How we shaped AI policy in 2024
+- [Q004518](../berichte/Q00/Q0045/Q004518/README.de.md) The OECD-African Union AI Dialogue 2.0: From strategy to implementation
+- [Q004652](../berichte/Q00/Q0046/Q004652/README.de.md) If reliable AI content detection tools become available, should we use them? If so, how?
+- [Q004591](../berichte/Q00/Q0045/Q004591/README.de.md) How might standard contract terms help unlock responsible AI data sharing?
+- [Q004703](../berichte/Q00/Q0047/Q004703/README.de.md) The AI Action Summit and beyond: 3 Steps to strengthen global AI collaboration
+- [Q002950](../berichte/Q00/Q0029/Q002950/README.de.md) Algorithmic management in the workplace
+- [Q004721](../berichte/Q00/Q0047/Q004721/README.de.md) AI safety solutions mapping: An initiative for advanced AI governance
+- [Q002939](../berichte/Q00/Q0029/Q002939/README.de.md) Steering AI’s future: Strategies for anticipatory governance
+- [Q004538](../berichte/Q00/Q0045/Q004538/README.de.md) How the G7’s new AI reporting framework could shape the future of AI governance
+- [Q004465](../berichte/Q00/Q0044/Q004465/README.de.md) Artificial intelligence and intellectual property: Navigating the challenges of data scraping
+- [Q002922](../berichte/Q00/Q0029/Q002922/README.de.md) Intellectual property issues in artificial intelligence trained on scraped data
+- [Q004550](../berichte/Q00/Q0045/Q004550/README.de.md) The hidden cost of AI: Unpacking its energy and water footprint
+- [Q002905](../berichte/Q00/Q0029/Q002905/README.de.md) Towards a common reporting framework for AI incidents
+- [Q002917](../berichte/Q00/Q0029/Q002917/README.de.md) AI skills and capabilities in Canada
+- [Q002044](../berichte/Q00/Q0020/Q002044/README.de.md) From deepfake scams to biased AI: How incident reporting can help us keep ahead of AI’s harms
+- [Q004564](../berichte/Q00/Q0045/Q004564/README.de.md) Risk thresholds for frontier AI: Insights from the AI Action Summit
+- [Q003159](../berichte/Q00/Q0031/Q003159/README.de.md) How can we leverage AI to solve justice problems for all?
+- [Q004435](../berichte/Q00/Q0044/Q004435/README.de.md) Making digital regulation work – The crucial role technical standards play in implementing the EU AI Act
+- [Q003508](../berichte/Q00/Q0035/Q003508/README.de.md) Building trust in AI: A practical approach to transparency
+- [Q004445](../berichte/Q00/Q0044/Q004445/README.de.md) Complete the G7 Hiroshima AI Process Reporting Framework by 15 April 2025 and join the leaders shaping AI transparency
+- [Q002256](../berichte/Q00/Q0022/Q002256/README.de.md) AI for informal sector worker Annual Report
+- [Q003192](../berichte/Q00/Q0031/Q003192/README.de.md) Government automated-decision-making: transparency and responsibility in the public sector
+- [Q003198](../berichte/Q00/Q0031/Q003198/README.de.md) Digital EconomyOutlook 2024, Volume 1: Embracing the Technology Frontier
+- [Q003265](../berichte/Q00/Q0032/Q003265/README.de.md) A milestone in international AI transparency: The OECD publishes initial submissions from the G7 Hiroshima AI Process Reporting Framework
+- [Q003742](../berichte/Q00/Q0037/Q003742/README.de.md) How anticipatory governance can lead to AI policies that stand the test of time
+- [Q003516](../berichte/Q00/Q0035/Q003516/README.de.md) From myth to metrics: Communities can leverage the real costs of generative AI when negotiating for data centres
+- [Q004431](../berichte/Q00/Q0044/Q004431/README.de.md) AI in finance: Balancing innovation and stability
+- [Q004246](../berichte/Q00/Q0042/Q004246/README.de.md) Report on GPAI Sustainable Agriculture Convening
+- [Q004256](../berichte/Q00/Q0042/Q004256/README.de.md) 2023 GPAI Innovation & Commercialization Working  Group Report
+- [Q004278](../berichte/Q00/Q0042/Q004278/README.de.md) Broad Adoption of AI by SMEs in the Agriculture and Farming Sector: Overview of 2023 Activities and 2024 Outlook
+- [Q004294](../berichte/Q00/Q0042/Q004294/README.de.md) Boosting Innovation while Regulating AI: Overview of 2023 Activities and 2024 Outlook
+- [Q004315](../berichte/Q00/Q0043/Q004315/README.de.md) Broad Adoption of AI by SMEs: Overview of 2023 Activities and 2024 Outlook
+- [Q004325](../berichte/Q00/Q0043/Q004325/README.de.md) Fostering Contractual Pathways  for Responsible AI Data and  Model Sharing for Generative AI  and Other AI Applications
+- [Q004334](../berichte/Q00/Q0043/Q004334/README.de.md) Innovation and Commercialization Working Group Report
+- [Q004343](../berichte/Q00/Q0043/Q004343/README.de.md) Broad Adoption of AI by SMEs in the Agriculture and Farming Sector Report
+- [Q004349](../berichte/Q00/Q0043/Q004349/README.de.md) Guidelines for Scraping or Collecting Publicly Accessible Data
+- [Q004364](../berichte/Q00/Q0043/Q004364/README.de.md) Preliminary Report on Data and AI Model Licensing
+- [Q004383](../berichte/Q00/Q0043/Q004383/README.de.md) GPAI Intellectual Property (IP) Primer
+- [Q004394](../berichte/Q00/Q0043/Q004394/README.de.md) Innovation and Commercialization Working Group Report
+- [Q004407](../berichte/Q00/Q0044/Q004407/README.de.md) Innovation and Commercialization Working  Group SMEs Committee Report
+- [Q004416](../berichte/Q00/Q0044/Q004416/README.de.md) Innovation & Commercialization Working Group Report
+- [Q004425](../berichte/Q00/Q0044/Q004425/README.de.md) GPAI Intellectual Property (IP) Primer
+- [Q004154](../berichte/Q00/Q0041/Q004154/README.de.md) Voces del cambio: la IA generativa y la transformación del trabajo en América Latina
+- [Q004165](../berichte/Q00/Q0041/Q004165/README.de.md) Voices of Change: Generative AI and the transformation of work in Latin America
+- [Q004180](../berichte/Q00/Q0041/Q004180/README.de.md) Advancing Data Justice Research and Practice
+- [Q004186](../berichte/Q00/Q0041/Q004186/README.de.md) Data Governance Working Group Report
+- [Q004199](../berichte/Q00/Q0041/Q004199/README.de.md) Data Governance Working Group A Framework Paper for GPAI’s work on Data Governance
+- [Q004225](../berichte/Q00/Q0042/Q004225/README.de.md) The Role of Data in AI: Report for the Data Governance Working Group of the Global Partnership of
+- [Q003952](../berichte/Q00/Q0039/Q003952/README.de.md) Data Governance Working Group A Framework Paper for GPAI’s  Work on Data Governance 2.0
+- [Q003966](../berichte/Q00/Q0039/Q003966/README.de.md) Data Governance Working Group Report
+- [Q003981](../berichte/Q00/Q0039/Q003981/README.de.md) Data Justice Policy Brief: Putting data justice into practice
+- [Q003991](../berichte/Q00/Q0039/Q003991/README.de.md) A Primer on Data and Social Justice
+- [Q004006](../berichte/Q00/Q0040/Q004006/README.de.md) A Primer on Data and Economic Justice
+- [Q004016](../berichte/Q00/Q0040/Q004016/README.de.md) Enabling Data Sharing  for Social Benefit  Through Data Trusts:  Data Trusts in Climate
+- [Q004031](../berichte/Q00/Q0040/Q004031/README.de.md) Data Justice in Practice: A Guide for Policymakers
+- [Q004050](../berichte/Q00/Q0040/Q004050/README.de.md) Data Justice in Practice: A Guide for Impacted Communities
+- [Q004065](../berichte/Q00/Q0040/Q004065/README.de.md) Data Justice in Practice:  A Guide for Developers
+- [Q004080](../berichte/Q00/Q0040/Q004080/README.de.md) Advancing Data Justice Research and Practice: An Integrated Literature Review
+- [Q004095](../berichte/Q00/Q0040/Q004095/README.de.md) Advancing Data Justice Research and Practice: Data Justice Stories
+- [Q004108](../berichte/Q00/Q0041/Q004108/README.de.md) Advancing Data Justice Research and Practice
+- [Q004120](../berichte/Q00/Q0041/Q004120/README.de.md) Data Governance Working Group Report
+- [Q004136](../berichte/Q00/Q0041/Q004136/README.de.md) Enabling data sharing for social  benefit through data trusts
+- [Q003904](../berichte/Q00/Q0039/Q003904/README.de.md) Data Governance Working Group Report
+- [Q003912](../berichte/Q00/Q0039/Q003912/README.de.md) Trustworthy Data Institutional Framework
+- [Q003928](../berichte/Q00/Q0039/Q003928/README.de.md) Overcoming Data Barriers via Trustworthy Privacy-Enhancing Technologies
+- [Q003934](../berichte/Q00/Q0039/Q003934/README.de.md) Designing Trustworthy Data Institutions
+- [Q003940](../berichte/Q00/Q0039/Q003940/README.de.md) The Role of Government as a Provider of Data for Artificial Intelligence
+- [Q002604](../berichte/Q00/Q0026/Q002604/README.de.md) Climate Change and AI Recommendations for Government Action
+- [Q003770](../berichte/Q00/Q0037/Q003770/README.de.md) Responsible Development, Use and Governance of AI Working Group Report
+- [Q003779](../berichte/Q00/Q0037/Q003779/README.de.md) Responsible AI Working Group Report
+- [Q003787](../berichte/Q00/Q0037/Q003787/README.de.md) Responsible AI Strategy for the Environment
+- [Q003797](../berichte/Q00/Q0037/Q003797/README.de.md) Social Media Governance Project
+- [Q003804](../berichte/Q00/Q0038/Q003804/README.de.md) Crowdsourcing the curation of the training set for harmful content classifiers used in social media
+- [Q003812](../berichte/Q00/Q0038/Q003812/README.de.md) Scaling Responsible AI Solutions Challenges and Opportunities
+- [Q003821](../berichte/Q00/Q0038/Q003821/README.de.md) Pandemic Resilience Developing an AI-calibrated ensemble of models to inform decision making
+- [Q003830](../berichte/Q00/Q0038/Q003830/README.de.md) Towards Real Diversity and Gender Equality in Artificial Intelligence
+- [Q003838](../berichte/Q00/Q0038/Q003838/README.de.md) AI for Net Zero Electricity
+- [Q003846](../berichte/Q00/Q0038/Q003846/README.de.md) Responsible AI Working Group Report
+- [Q003853](../berichte/Q00/Q0038/Q003853/README.de.md) Transparency Mechanisms for Social Media Recommender Algorithms: From Proposals to Action
+- [Q003863](../berichte/Q00/Q0038/Q003863/README.de.md) Biodiversity and Artificial Intelligence: Opportunities & Recommendations for Action
+- [Q003867](../berichte/Q00/Q0038/Q003867/README.de.md) Measuring the environmental impacts of artificial intelligence compute and applications
+- [Q003873](../berichte/Q00/Q0038/Q003873/README.de.md) AI for Public Good Drug Discovery Advocacy Efforts and a Further Call to Action
+- [Q003879](../berichte/Q00/Q0038/Q003879/README.de.md) Responsible AI Working Group Report
+- [Q003887](../berichte/Q00/Q0038/Q003887/README.de.md) Transparency Mechanisms for Social Media Recommender Algorithms: From Proposals to Action
+- [Q003896](../berichte/Q00/Q0038/Q003896/README.de.md) Areas for future action in the responsible AI ecosystem
+- [Q003752](../berichte/Q00/Q0037/Q003752/README.de.md) Fostering regional cooperation for trustworthy AI in Southeast Asia
+- [Q003761](../berichte/Q00/Q0037/Q003761/README.de.md) The Role of Government as a Provider of Data for Artificial Intelligence
+- [Q003172](../berichte/Q00/Q0031/Q003172/README.de.md) How governments are driving AI adoption for economic growth
+- [Q003548](../berichte/Q00/Q0035/Q003548/README.de.md) Fairwork Amazon Report 2024 Transformation of the Warehouse  Sector through AI
+- [Q003569](../berichte/Q00/Q0035/Q003569/README.de.md) Fairwork AI Ratings 2023 The Workers Behind AI at Sama
+- [Q003589](../berichte/Q00/Q0035/Q003589/README.de.md) Future of Work Working Group Report
+- [Q003613](../berichte/Q00/Q0036/Q003613/README.de.md) AI Observation Platform Report
+- [Q003625](../berichte/Q00/Q0036/Q003625/README.de.md) AI for Fair Work
+- [Q003644](../berichte/Q00/Q0036/Q003644/README.de.md) CAST Constructive Approach to Smart Technologies
+- [Q003656](../berichte/Q00/Q0036/Q003656/README.de.md) Policy Brief: Generative AI, Jobs, and Policy Response
+- [Q003668](../berichte/Q00/Q0036/Q003668/README.de.md) Future of Work Working Group Report
+- [Q003671](../berichte/Q00/Q0036/Q003671/README.de.md) AI Living Lab Report
+- [Q003676](../berichte/Q00/Q0036/Q003676/README.de.md) AI Observation Platform Report
+- [Q003686](../berichte/Q00/Q0036/Q003686/README.de.md) AI for Fair Work Report November 2022 – GPAI Tokyo Summit
+- [Q003694](../berichte/Q00/Q0036/Q003694/README.de.md) Future of Work Working Group Report November 2021 – GPAI Paris Summit
+- [Q003699](../berichte/Q00/Q0036/Q003699/README.de.md) Future of Work AI observatory at the workplace
+- [Q003710](../berichte/Q00/Q0037/Q003710/README.de.md) Future of Work Working Group Report
+- [Q003226](../berichte/Q00/Q0032/Q003226/README.de.md) The AI Workforce: What LinkedIn data reveals about ‘AI Talent’ trends in OECD.AI’s live data
+- [Q002732](../berichte/Q00/Q0027/Q002732/README.de.md) What explainable AI is, why it matters and how we can achieve it
+- [Q003463](../berichte/Q00/Q0034/Q003463/README.de.md) The Role of Government as a Provider of Data for Artificial Intelligence – Phase I Full Report
+- [Q003320](../berichte/Q00/Q0033/Q003320/README.de.md) Algorithmic transparency in the public sector: A state-of-the-art report of algorithmic transparency instruments
+- [Q003342](../berichte/Q00/Q0033/Q003342/README.de.md) Towards Substantive Equality in Artificial Intelligence: Transformative AI Policy for Gender Equality and Diversity (November 2024)
+- [Q003352](../berichte/Q00/Q0033/Q003352/README.de.md) AI for Net Zero: Assessing Readiness for AI (November 2024)
+- [Q003359](../berichte/Q00/Q0033/Q003359/README.de.md) Transparency Mechanisms for Social Media Recommender Algorithms: From Proposals to Action
+- [Q003366](../berichte/Q00/Q0033/Q003366/README.de.md) State-of-the-art Foundation AI Models Should be Accompanied by Detection Mechanisms as a Condition of Public Release
+- [Q003376](../berichte/Q00/Q0033/Q003376/README.de.md) Social Media Governance Policy Brief: How the DSA can enable a public science of digital platform social impacts (policy brief)
+- [Q003392](../berichte/Q00/Q0033/Q003392/README.de.md) Social Media Governance project
+- [Q003398](../berichte/Q00/Q0033/Q003398/README.de.md) The Role of Government as a Provider of Data for Artificial Intelligence
+- [Q003418](../berichte/Q00/Q0034/Q003418/README.de.md) The Role of Government as a Provider of Data for Artificial Intelligence Phase 1 Full Report
+- [Q003431](../berichte/Q00/Q0034/Q003431/README.de.md) Co-generation of data: Copyright and data protection rights in co-generated input and output of generative AI – Principles (November 2024)
+- [Q003437](../berichte/Q00/Q0034/Q003437/README.de.md) Algorithmic Transparency in the Public Sector A state-of-the-art report of  algorithmic transparency  instruments
+- [Q002893](../berichte/Q00/Q0028/Q002893/README.de.md) Digital and AI skills in health occupations
+- [Q003302](../berichte/Q00/Q0033/Q003302/README.de.md) Proportional oversight for AI model updates can boost AI adoption
+- [Q002636](../berichte/Q00/Q0026/Q002636/README.de.md) Introducing the OECD AI Capability Indicators
+- [Q003244](../berichte/Q00/Q0032/Q003244/README.de.md) From PISA to AI: How the OECD is measuring what AI can do
+- [Q002719](../berichte/Q00/Q0027/Q002719/README.de.md) Advancing human-centric AI: Highlights from the 2025 GPAI-Associated Innovation Workshop in Tokyo
+- [Q002764](../berichte/Q00/Q0027/Q002764/README.de.md) Strengthening global AI Safety: A perspective on the Singapore Consensus
+- [Q002694](../berichte/Q00/Q0026/Q002694/README.de.md) Shaping trustworthy AI: Early insights from the Hiroshima AI Process Reporting Framework
+- [Q002864](../berichte/Q00/Q0028/Q002864/README.de.md) Sharing trustworthy AI models with privacy-enhancing technologies
+- [Q002881](../berichte/Q00/Q0028/Q002881/README.de.md) Developments in Artificial Intelligence markets: New indicators based on model characteristics, prices and providers
+- [Q002385](../berichte/Q00/Q0023/Q002385/README.de.md) The effects of generative AI on productivity, innovation and entrepreneurship
+- [Q002796](../berichte/Q00/Q0027/Q002796/README.de.md) Transparencia algorítmica en el sector  público: Informe sobre el estado de los instrumentos de transparencia  algorítmica
+- [Q002822](../berichte/Q00/Q0028/Q002822/README.de.md) Hacia la igualdad sustantiva en el ámbito de la inteligencia artificial (IA): políticas transformadoras de IA para la igualdad de género y la diversidad
+- [Q002394](../berichte/Q00/Q0023/Q002394/README.de.md) Is generative AI a General Purpose Technology? Implications for productivity and policy
+- [Q002405](../berichte/Q00/Q0024/Q002405/README.de.md) Macroeconomic productivity gains from Artificial Intelligence in G7 economies
+- [Q002412](../berichte/Q00/Q0024/Q002412/README.de.md) AI and the future of social protection in OECD countries
+- [Q002785](../berichte/Q00/Q0027/Q002785/README.de.md) Building a responsible AI future: How the G7 Hiroshima AI Process is enhancing responsible AI around the globe
+- [Q002336](../berichte/Q00/Q0023/Q002336/README.de.md) Introducing the OECD.AI Policy Navigator
+- [Q002487](../berichte/Q00/Q0024/Q002487/README.de.md) The HAIP Reporting Framework: Feedback on a quiet revolution in AI transparency
+- [Q002558](../berichte/Q00/Q0025/Q002558/README.de.md) AI and the world of work: A real-time snapshot of how national businesses are adopting AI in Israel
+- [Q002352](../berichte/Q00/Q0023/Q002352/README.de.md) How to govern AI in agriculture responsibly: risks, tools and solutions
+- [Q002421](../berichte/Q00/Q0024/Q002421/README.de.md) AI openness: A primer for policymakers
+- [Q002586](../berichte/Q00/Q0025/Q002586/README.de.md) When your AI knows you better than anyone: Privacy in the age of intimate assistants
+- [Q002361](../berichte/Q00/Q0023/Q002361/README.de.md) When it comes to AI incidents, safety and security are not the same
+- [Q001090](../berichte/Q00/Q0010/Q001090/README.de.md) AI openness: Balancing innovation, transparency and risk in open-weight models
+- [Q002613](../berichte/Q00/Q0026/Q002613/README.de.md) GPAI SAFE project report: Mapping the global AI safety risks  and solutions landscape
+- [Q002626](../berichte/Q00/Q0026/Q002626/README.de.md) GPAI SAFE project report: Technical trustworthiness and data governance assurance of models
+- [Q002471](../berichte/Q00/Q0024/Q002471/README.de.md) Sovereign AI for assistive and public technologies: How policymakers can reinforce critical digital capacities
+- [Q002460](../berichte/Q00/Q0024/Q002460/README.de.md) A dynamic dialogue with Southeast Asia to put the OECD AI Principles into action
+- [Q002152](../berichte/Q00/Q0021/Q002152/README.de.md) Governing with Artificial Intelligence: The state of play and way forward in core government functions
+- [Q002433](../berichte/Q00/Q0024/Q002433/README.de.md) AI governance through global red lines can help prevent unacceptable risks
+- [Q001168](../berichte/Q00/Q0011/Q001168/README.de.md) Identifying emerging AI technologies using patent data: A semi-automated approach
+- [Q001181](../berichte/Q00/Q0011/Q001181/README.de.md) How are AI developers managing risks? Insights from responses to the reporting framework of the Hiroshima AI Process Code of Conduct
+- [Q002277](../berichte/Q00/Q0022/Q002277/README.de.md) G7 AI transparency reporting: Ten insights for AI governance and risk management
+- [Q002373](../berichte/Q00/Q0023/Q002373/README.de.md) New Zealand created its AI Strategy and Guidance products to incorporate OECD values in a distinct manner
+- [Q002295](../berichte/Q00/Q0022/Q002295/README.de.md) From risk to resilience: No-code AI governance in the Global South
+- [Q002168](../berichte/Q00/Q0021/Q002168/README.de.md) Quantum and AI: A powerful partnership for the next digital revolution
+- [Q002139](../berichte/Q00/Q0021/Q002139/README.de.md) There are many ways to minimise water use related to AI operations, but they may not be what you think
+- [Q002185](../berichte/Q00/Q0021/Q002185/README.de.md) What gets measured gets managed: How the OECD and European Commission quantify AI investment
+- [Q002032](../berichte/Q00/Q0020/Q002032/README.de.md) People, Planet, Progress: An opportunity for an international agreement on AI climate sustainability at India’s AI Impact Summit 2026
+- [Q002204](../berichte/Q00/Q0022/Q002204/README.de.md) From “black box AI” to operational AI transparency: How the HAIP Reporting Framework can play an important role in global AI governance
+- [Q002215](../berichte/Q00/Q0022/Q002215/README.de.md) Rebuilding digital trust in the age of AI
+- [Q001791](../berichte/Q00/Q0017/Q001791/README.de.md) The geography of AI compute: Mapping what is available and where
+- [Q002240](../berichte/Q00/Q0022/Q002240/README.de.md) Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence (Volume 1)
+- [Q001870](../berichte/Q00/Q0018/Q001870/README.de.md) A Socio-technical approach to AI literacy: A quick guide
+- [Q002101](../berichte/Q00/Q0021/Q002101/README.de.md) Facing the stakes of AI together: The Seventh Edition of the Athens Roundtable on AI and the Rule of Law
+- [Q002224](../berichte/Q00/Q0022/Q002224/README.de.md) Le rôle du Gouvernement en tant que fournisseur de données pour l’Intelligence Artificielle Phase 2 : Un outil pratique pour le partage de données gouvernementales pour l’IA
+- [Q002193](../berichte/Q00/Q0021/Q002193/README.de.md) Tracking Europe’s progress on AI: Insights from the implementation of the EU Coordinated Plan on Artificial Intelligence
+- [Q001963](../berichte/Q00/Q0019/Q001963/README.de.md) Why quantum technologies need AI to succeed
+- [Q001989](../berichte/Q00/Q0019/Q001989/README.de.md) Public AI: Policies for democratic and sustainable AI infrastructures
+- [Q002082](../berichte/Q00/Q0020/Q002082/README.de.md) Can mid-sized economies come together to build frontier AI?
+- [Q002120](../berichte/Q00/Q0021/Q002120/README.de.md) Why insurance companies should encourage solid AI risk management instead of excluding it
+- [Q001888](../berichte/Q00/Q0018/Q001888/README.de.md) Exploring possible AI trajectories through 2030
+- [Q001718](../berichte/Q00/Q0017/Q001718/README.de.md) Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence (Volume 2)
+- [Q002018](../berichte/Q00/Q0020/Q002018/README.de.md) AI@Work Labs: A bottom-up approach to shaping AI policy and practice The 2025 annual report of the Network of Labs
+- [Q002003](../berichte/Q00/Q0020/Q002003/README.de.md) From scraping to ethical sharing: Initial considerations for Virtuous Innovative Approaches and Data Use Collaboration in AI Training (VIADUCT)
+- [Q001073](../berichte/Q00/Q0010/Q001073/README.de.md) The Global South can shape AI in practical terms: Why the India AI Impact Summit Matters
+- [Q001188](../berichte/Q00/Q0011/Q001188/README.de.md) Trends in AI incidents and hazards reported by the media
+- [Q001930](../berichte/Q00/Q0019/Q001930/README.de.md) Venture capital investments in artificial intelligence through 2025
+- [Q001807](../berichte/Q00/Q0018/Q001807/README.de.md) Turning AI ambition into action: How the OECD is engaging at India’s AI Impact Summit
+- [Q001623](../berichte/Q00/Q0016/Q001623/README.de.md) The OECD’s new responsible AI guidance: A compass for businesses in a complex terrain
+- [Q001914](../berichte/Q00/Q0019/Q001914/README.de.md) The OECD.AI Index (technical paper)
+- [Q001948](../berichte/Q00/Q0019/Q001948/README.de.md) Summary statement of the GPAI Co-Chairs GPAI Council Meeting in New Delhi, India
+- [Q001900](../berichte/Q00/Q0019/Q001900/README.de.md) Voices of change: Generative AI and the transformation of work in Latin America
+- [Q001118](../berichte/Q00/Q0011/Q001118/README.de.md) Can we create a clear understanding of what agentic AI is and does?
+- [Q001282](../berichte/Q00/Q0012/Q001282/README.de.md) Why AI Sandboxes matter for responsible innovation and public trust
+- [Q001636](../berichte/Q00/Q0016/Q001636/README.de.md) Deadline extension 20 March: Global call for ‘Governing with Artificial Intelligence’: Share your initiatives and insights on AI-driven innovation in government
+- [Q001103](../berichte/Q00/Q0011/Q001103/README.de.md) To be truly participative, stakeholder involvement should follow an AI system’s entire lifecycle
+- [Q001550](../berichte/Q00/Q0015/Q001550/README.de.md) Rethinking AI data: From scraping to sustainable and ethical data sharing
+- [Q001055](../berichte/Q00/Q0010/Q001055/README.de.md) Designing transparency for government AI: Insights from the UK’s Algorithmic Transparency Recording Standard initiative
+- [Q001145](../berichte/Q00/Q0011/Q001145/README.de.md) The European Union is deploying AI across strategic sectors
+- [Q001131](../berichte/Q00/Q0011/Q001131/README.de.md) Establishing the shared foundations for collective AI security
+- [Q001032](../berichte/Q00/Q0010/Q001032/README.de.md) The OECD AI Policy Toolkit: Better AI policies for better lives
+- [Q001244](../berichte/Q00/Q0012/Q001244/README.de.md) AI for inclusive and resilient agri-food systems: Potential ways forward
+- [Q001268](../berichte/Q00/Q0012/Q001268/README.de.md) How people are using GenAI chatbots: Evidence from web traffic data
+- [Q000913](../berichte/Q00/Q0009/Q000913/README.de.md) How quantum technologies could open new frontiers for AI
+- [Q001358](../berichte/Q00/Q0013/Q001358/README.de.md) Skills in the AI age
+- [Q000925](../berichte/Q00/Q0009/Q000925/README.de.md) HAIP is transforming transparency from a compliance burden to a competitive advantage
+- [Q001156](../berichte/Q00/Q0011/Q001156/README.de.md) Competition in the age of AI
+- [Q001292](../berichte/Q00/Q0012/Q001292/README.de.md) A five-step roadmap to closing the AI evaluation gap
+- [Q001232](../berichte/Q00/Q0012/Q001232/README.de.md) Can the finance sector oversee AI innovation while maintaining its rapid progress?
+- [Q000837](../berichte/Q00/Q0008/Q000837/README.de.md) Agentic AI in organisations
+- [Q000973](../berichte/Q00/Q0009/Q000973/README.de.md) Putting agentic AI systems to work: What practitioners reveal about deployment and governance
+- [Q000943](../berichte/Q00/Q0009/Q000943/README.de.md) Bridging frameworks: How HAIP 2.0 supports interoperability with the EU AI Act
+- [Q000884](../berichte/Q00/Q0008/Q000884/README.de.md) Investors matter for the future of trustworthy AI. Are they ready?
+- [Q000854](../berichte/Q00/Q0008/Q000854/README.de.md) Securing AI compute
+- [Q000761](../berichte/Q00/Q0007/Q000761/README.de.md) OECD Digital Economy and Society Outlook 2026 | Spotlight on powering AI progress: The future of compute
+
+### onthewire.ai
+
+- [Q000294](../berichte/Q00/Q0002/Q000294/README.de.md) Two new preprints test the limits of chain-of-thought monitoring
+- [Q000314](../berichte/Q00/Q0003/Q000314/README.de.md) Policy paper proposes five chain-of-thought disclosures for AI labs and finds none of the three it audits covers the full set
+
+### openai
+
+- [Q000441](../berichte/Q00/Q0004/Q000441/README.de.md) Control Room: A central system to track and stop model workloads across our research infrastructure
+- [Q000694](../berichte/Q00/Q0006/Q000694/README.de.md) Dein Browser wird geprüft!
+- [Q000700](../berichte/Q00/Q0007/Q000700/README.de.md) AI and System Evolution in CPD: Integrating CHAT with a Unified Theory of Emergent System Evolution
+- [Q000714](../berichte/Q00/Q0007/Q000714/README.de.md) JAKCalc: A machine-learning approach to rationalized JAK2 testing in patients with elevated hemoglobin levels
+- [Q000726](../berichte/Q00/Q0007/Q000726/README.de.md) AI is a viable alternative to high throughput screening: a 318-target study
+- [Q000740](../berichte/Q00/Q0007/Q000740/README.de.md) Variation in reversal learning by three generalist mesocarnivores
+- [Q000745](../berichte/Q00/Q0007/Q000745/README.de.md) A Crossroads, Not an Island: A Response to Hanoch Dagan
+- [Q000994](../berichte/Q00/Q0009/Q000994/README.de.md) Student Collective
+- [Q001380](../berichte/Q00/Q0013/Q001380/README.de.md) Security
+- [Q001479](../berichte/Q00/Q0014/Q001479/README.de.md) Disrupting malicious uses of AI
+- [Q001851](../berichte/Q00/Q0018/Q001851/README.de.md) LLM-Assisted Reanalysis of Unsolved Rare Disease Genomes Increases Diagnostic Yield
+- [Q002077](../berichte/Q00/Q0020/Q002077/README.de.md) GPT-4o System Card External Testers Acknowledgements
+- [Q002500](../berichte/Q00/Q0025/Q002500/README.de.md) https://s-rsa.com/index.php/agi/article/download/18908/12474
+- [Q003139](../berichte/Q00/Q0031/Q003139/README.de.md) Customizing models for legal professionals
+- [Q003155](../berichte/Q00/Q0031/Q003155/README.de.md) Accelerating antibiotic discovery with ChatGPT
+- [Q003169](../berichte/Q00/Q0031/Q003169/README.de.md) Powering virtual education for the classroom
+- [Q003373](../berichte/Q00/Q0033/Q003373/README.de.md) The future of the firm
+- [Q003680](../berichte/Q00/Q0036/Q003680/README.de.md) DALL·E 2
+- [Q003933](../berichte/Q00/Q0039/Q003933/README.de.md) Booking.com and OpenAI personalize travel at scale
+- [Q003946](../berichte/Q00/Q0039/Q003946/README.de.md) Product News and Updates
+- [Q003969](../berichte/Q00/Q0039/Q003969/README.de.md) Nubank elevates customer experiences with OpenAI
+- [Q004329](../berichte/Q00/Q0043/Q004329/README.de.md) Morgan Stanley uses AI evals to shape the future of financial services
+- [Q004491](../berichte/Q00/Q0044/Q004491/README.de.md) Supporting the blind community with ChatGPT
+- [Q004556](../berichte/Q00/Q0045/Q004556/README.de.md) Building AI-powered apps for business
+- [Q004850](../berichte/Q00/Q0048/Q004850/README.de.md) Surging developer productivity with custom GPTs
+- [Q004910](../berichte/Q00/Q0049/Q004910/README.de.md) MavenAGI launches automated customer support agents powered by OpenAI
+- [Q004965](../berichte/Q00/Q0049/Q004965/README.de.md) Personalizing education with ChatGPT
+- [Q005176](../berichte/Q00/Q0051/Q005176/README.de.md) Genmab launches “AI Everywhere”
+- [Q005192](../berichte/Q00/Q0051/Q005192/README.de.md) Estée Lauder Uses ChatGPT Enterprise for Consumer Insights
+- [Q005229](../berichte/Q00/Q0052/Q005229/README.de.md) Using ChatGPT to detect wildfires early
+- [Q005370](../berichte/Q00/Q0053/Q005370/README.de.md) Boosting the customer retail experience with GPT-4o mini
+- [Q005400](../berichte/Q00/Q0054/Q005400/README.de.md) Introducing GPT-6 Sol and Luna
+- [Q005634](../berichte/Q00/Q0056/Q005634/README.de.md) Improving India’s critical care infrastructure
+- [Q005684](../berichte/Q00/Q0056/Q005684/README.de.md) Reducing health insurance costs and improving care
+- [Q005692](../berichte/Q00/Q0056/Q005692/README.de.md) Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
+- [Q005872](../berichte/Q00/Q0058/Q005872/README.de.md) Delivering LLM-powered health solutions
+- [Q005924](../berichte/Q00/Q0059/Q005924/README.de.md) Using AI to improve patient access to clinical trials
+- [Q006000](../berichte/Q00/Q0060/Q006000/README.de.md) Saving lives with AI health coaching
+- [Q006151](../berichte/Q00/Q0061/Q006151/README.de.md) OpenAI Newsroom
+- [Q006197](../berichte/Q00/Q0061/Q006197/README.de.md) Enterprise-ready trust and safety
+- [Q006204](../berichte/Q00/Q0062/Q006204/README.de.md) OpenAI Newsroom | Global Affairs
+- [Q006234](../berichte/Q00/Q0062/Q006234/README.de.md) Delivering contextual job matching for millions with OpenAI
+- [Q006253](../berichte/Q00/Q0062/Q006253/README.de.md) Delivering nuanced insights from customer feedback
+- [Q006279](../berichte/Q00/Q0062/Q006279/README.de.md) Using ChatGPT to grow ATV Big Air Tour
+- [Q006400](../berichte/Q00/Q0064/Q006400/README.de.md) Preserving languages for the future
+- [Q006463](../berichte/Q00/Q0064/Q006463/README.de.md) The eternal complement
+- [Q006487](../berichte/Q00/Q0064/Q006487/README.de.md) Making education data accessible
+- [Q006528](../berichte/Q00/Q0065/Q006528/README.de.md) Rox goes “all in” on OpenAI
+- [Q006536](../berichte/Q00/Q0065/Q006536/README.de.md) OpenAI Newsroom | Recent news
+- [Q006628](../berichte/Q00/Q0066/Q006628/README.de.md) Introducing Verdi, an AI dev platform powered by GPT-4o
+- [Q006645](../berichte/Q00/Q0066/Q006645/README.de.md) Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
+- [Q006670](../berichte/Q00/Q0066/Q006670/README.de.md) Filling crucial language learning gaps
+- [Q006690](../berichte/Q00/Q0066/Q006690/README.de.md) Fine-tuning GPT-3 to scale video creation
+- [Q006719](../berichte/Q00/Q0067/Q006719/README.de.md) Moderna
+- [Q006723](../berichte/Q00/Q0067/Q006723/README.de.md) Delivering high-performance customer support
+- [Q006733](../berichte/Q00/Q0067/Q006733/README.de.md) Increasing accuracy of pediatric visit notes
+- [Q006766](../berichte/Q00/Q0067/Q006766/README.de.md) Building agricultural database for farmers
+- [Q006771](../berichte/Q00/Q0067/Q006771/README.de.md) Putting AI to work at Upwork
+- [Q006807](../berichte/Q00/Q0068/Q006807/README.de.md) OpenAI and Altera logos appear on a white background, with a central image of a close-up orange leaf showing intricate vein details.
+- [Q006832](../berichte/Q00/Q0068/Q006832/README.de.md) Color Health uses the reasoning capabilities of GPT-4o to help doctors transform cancer care
+- [Q006868](../berichte/Q00/Q0068/Q006868/README.de.md) Accurately analyzing large scale qualitative data
+- [Q006885](../berichte/Q00/Q0068/Q006885/README.de.md) Sparking a more productive company with ChatGPT Enterprise
+- [Q006892](../berichte/Q00/Q0068/Q006892/README.de.md) Grab builds smarter maps for Southeast Asia with vision fine-tuning
+- [Q006912](../berichte/Q00/Q0069/Q006912/README.de.md) Arco Educação
+- [Q006918](../berichte/Q00/Q0069/Q006918/README.de.md) Reimagining the email experience with AI
+- [Q006923](../berichte/Q00/Q0069/Q006923/README.de.md) LY Corporation: Driving growth and ‘WOW’ moments with OpenAI
+- [Q006976](../berichte/Q00/Q0069/Q006976/README.de.md) Evolving online forms into dynamic data
+- [Q006987](../berichte/Q00/Q0069/Q006987/README.de.md) Achieving 10x growth with agentic sales prospecting
+- [Q007004](../berichte/Q00/Q0070/Q007004/README.de.md) Transforming visual accessibility
+- [Q007058](../berichte/Q00/Q0070/Q007058/README.de.md) Klarna's AI assistant does the work of 700 full-time agents
+- [Q007164](../berichte/Q00/Q0071/Q007164/README.de.md) Improving health literacy and patient well-being
+- [Q007178](../berichte/Q00/Q0071/Q007178/README.de.md) Mercari enhances product listings and better supports sellers with GPT-4o mini
+- [Q007199](../berichte/Q00/Q0071/Q007199/README.de.md) Simplifying contract reviews with AI
+- [Q007269](../berichte/Q00/Q0072/Q007269/README.de.md) Automating 90% of finance and legal work with agents
+- [Q007314](../berichte/Q00/Q0073/Q007314/README.de.md) DALL·E 3
+- [Q007349](../berichte/Q00/Q0073/Q007349/README.de.md) Awakening Sleeping Beauties at The Met
+- [Q007389](../berichte/Q00/Q0073/Q007389/README.de.md) Factory builds the Command Center for software development with OpenAI’s reasoning models
+- [Q007396](../berichte/Q00/Q0073/Q007396/README.de.md) Building an autonomous financial analyst with o1 and o3-mini
+- [Q007407](../berichte/Q00/Q0074/Q007407/README.de.md) Rogo scales AI-driven financial research with OpenAI o1
+- [Q007499](../berichte/Q00/Q0074/Q007499/README.de.md) Canva's AI-powered Magic Studio Used 5 Billion Times and Counting
+- [Q007505](../berichte/Q00/Q0075/Q007505/README.de.md) Embedding AI into developer software
+- [Q007512](../berichte/Q00/Q0075/Q007512/README.de.md) Building a data-driven, efficient culture with AI
+- [Q007519](../berichte/Q00/Q0075/Q007519/README.de.md) Using GPT-4 to deliver a new customer service standard
+- [Q007605](../berichte/Q00/Q0076/Q007605/README.de.md) Sora: Creating video from text
+- [Q007713](../berichte/Q00/Q0077/Q007713/README.de.md) GPT-6 Astra: The next generation in intelligence for work
+- [Q007970](../berichte/Q00/Q0079/Q007970/README.de.md) OpenAI Newsroom | AI Adoption
+- [Q007984](../berichte/Q00/Q0079/Q007984/README.de.md) OpenAI Newsroom | Applied AI
+- [Q008062](../berichte/Q00/Q0080/Q008062/README.de.md) OpenAI o1 and new tools for developers
+- [Q008115](../berichte/Q00/Q0081/Q008115/README.de.md) OpenAI Newsroom | Intelligence Age
+- [Q008461](../berichte/Q00/Q0084/Q008461/README.de.md) Verify OpenAI-generated content
+- [Q008572](../berichte/Q00/Q0085/Q008572/README.de.md) AI as the greatest source of empowerment for all
+- [Q008615](../berichte/Q00/Q0086/Q008615/README.de.md) GPT-4o System Card External Testers Acknowledgements
+- [Q008719](../berichte/Q00/Q0087/Q008719/README.de.md) Training to cycle across Antarctica with ChatGPT
+- [Q008723](../berichte/Q00/Q0087/Q008723/README.de.md) Creating new simulations of black holes with Codex
+- [Q008732](../berichte/Q00/Q0087/Q008732/README.de.md) Chip Ganassi Racing × OpenAI
+- [Q008762](../berichte/Q00/Q0087/Q008762/README.de.md) Frontier Builders
+- [Q009298](../berichte/Q00/Q0092/Q009298/README.de.md) Introducing GPT-6.1 Terra
+- [Q009301](../berichte/Q00/Q0093/Q009301/README.de.md) Safety & responsibility
+- [Q009304](../berichte/Q00/Q0093/Q009304/README.de.md) How we think about safety and alignment
+- [Q009312](../berichte/Q00/Q0093/Q009312/README.de.md) OpenAI for cybersecurity
+- [Q009431](../berichte/Q00/Q0094/Q009431/README.de.md) https://arxiv.org/pdf/2005.14165
+- [Q009433](../berichte/Q00/Q0094/Q009433/README.de.md) Learning Policy Representations in Multiagent Systems
+- [Q009434](../berichte/Q00/Q0094/Q009434/README.de.md) https://arxiv.org/pdf/2410.07095
+- [Q009435](../berichte/Q00/Q0094/Q009435/README.de.md) https://arxiv.org/pdf/1802.09464
+- [Q009436](../berichte/Q00/Q0094/Q009436/README.de.md) https://arxiv.org/pdf/1803.02999
+- [Q009437](../berichte/Q00/Q0094/Q009437/README.de.md) On the Quantitative Analysis of Decoder-Based Generative Models
+- [Q009438](../berichte/Q00/Q0094/Q009438/README.de.md) OpenAI o1 System Card
+- [Q009440](../berichte/Q00/Q0094/Q009440/README.de.md) PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications
+- [Q009441](../berichte/Q00/Q0094/Q009441/README.de.md) https://arxiv.org/pdf/1811.01848
+- [Q009442](../berichte/Q00/Q0094/Q009442/README.de.md) https://arxiv.org/pdf/2210.10760
+- [Q009443](../berichte/Q00/Q0094/Q009443/README.de.md) https://arxiv.org/pdf/1610.05755
+- [Q009444](../berichte/Q00/Q0094/Q009444/README.de.md) https://arxiv.org/pdf/2410.11081
+- [Q009445](../berichte/Q00/Q0094/Q009445/README.de.md) https://arxiv.org/pdf/1910.07113
+- [Q009446](../berichte/Q00/Q0094/Q009446/README.de.md) https://arxiv.org/pdf/1803.01118
+- [Q009448](../berichte/Q00/Q0094/Q009448/README.de.md) https://arxiv.org/pdf/2205.14334
+- [Q009449](../berichte/Q00/Q0094/Q009449/README.de.md) https://arxiv.org/pdf/1908.08016
+- [Q009450](../berichte/Q00/Q0094/Q009450/README.de.md) https://arxiv.org/pdf/2201.10005
+- [Q009452](../berichte/Q00/Q0094/Q009452/README.de.md) https://arxiv.org/pdf/2501.18841
+- [Q009453](../berichte/Q00/Q0094/Q009453/README.de.md) https://arxiv.org/pdf/1610.03518
+- [Q009454](../berichte/Q00/Q0094/Q009454/README.de.md) Transfer of Adversarial Robustness Between Perturbation Types
+- [Q009455](../berichte/Q00/Q0094/Q009455/README.de.md) https://arxiv.org/pdf/2109.07958
+- [Q009456](../berichte/Q00/Q0094/Q009456/README.de.md) https://arxiv.org/pdf/1706.01502
+- [Q009457](../berichte/Q00/Q0094/Q009457/README.de.md) https://arxiv.org/pdf/2102.02503
+- [Q009458](../berichte/Q00/Q0094/Q009458/README.de.md) https://arxiv.org/pdf/1803.07246
+- [Q009459](../berichte/Q00/Q0094/Q009459/README.de.md) https://arxiv.org/pdf/1807.10299
+- [Q009460](../berichte/Q00/Q0094/Q009460/README.de.md) Why Language Models Hallucinate
+- [Q009461](../berichte/Q00/Q0094/Q009461/README.de.md) gpt-oss-120b & gpt-oss-20b Model Card
+- [Q009515](../berichte/Q00/Q0095/Q009515/README.de.md) Das Zeitfenster für KI-Richtlinien ist offen. Wir müssen handeln.
+- [Q009518](../berichte/Q00/Q0095/Q009518/README.de.md) Wir stellen den Australian Youth Safety Blueprint vor
+- [Q009523](../berichte/Q00/Q0095/Q009523/README.de.md) KI-gestützte Operationen unter falschem Deckmantel unterbinden
+- [Q009525](../berichte/Q00/Q0095/Q009525/README.de.md) Böswillige Nutzung von KI verhindern
+- [Q009526](../berichte/Q00/Q0095/Q009526/README.de.md) Operation „A2Z“: Mehrsprachige Einflussaktivitäten
+- [Q009527](../berichte/Q00/Q0095/Q009527/README.de.md) Bet Bot: Spam-Netzwerk für Glücksspiel
+- [Q009528](../berichte/Q00/Q0095/Q009528/README.de.md) Corrupt Comment: Kritik an einer Antikorruptionsstiftung
+- [Q009529](../berichte/Q00/Q0095/Q009529/README.de.md) Cyber-Spezialoperationen: Planung von Einflussnahme mit Verbindungen nach China
+- [Q009530](../berichte/Q00/Q0095/Q009530/README.de.md) Cyber-Bedrohungsakteure: KI-gestützte Angriffsforschung
+- [Q009531](../berichte/Q00/Q0095/Q009531/README.de.md) Operation „High Five“: Kommentare zur Politik der Philippinen
+- [Q009532](../berichte/Q00/Q0095/Q009532/README.de.md) Demokratische Governance von Frontier-KI, Teil II: Cyberabwehrteams stärken
+- [Q009533](../berichte/Q00/Q0095/Q009533/README.de.md) GPT-6.1 Sol hilft CodeRabbit, die Sicherheit komplexer Codebasen zu verbessern
+- [Q009534](../berichte/Q00/Q0095/Q009534/README.de.md) Wie wir Fehlausrichtung bei Frontier-Modellen erkennen
+- [Q009536](../berichte/Q00/Q0095/Q009536/README.de.md) Unser Rahmen für Berichte über Modell-Fehlausrichtung
+- [Q009537](../berichte/Q00/Q0095/Q009537/README.de.md) Wie Ultrafast die Untersuchung von Vorfällen bei OpenAI von Stunden auf Minuten verkürzte
+- [Q009538](../berichte/Q00/Q0095/Q009538/README.de.md) OpenAI weitet Cyberzugang für den zivilen Schutz der Ukraine aus
+- [Q009539](../berichte/Q00/Q0095/Q009539/README.de.md) OpenAI und Polens NASK kooperieren für mehr KI-Sicherheit und Schutz vor Angriffen
+- [Q009540](../berichte/Q00/Q0095/Q009540/README.de.md) OpenAI übernimmt Orchestra Bio
+- [Q009541](../berichte/Q00/Q0095/Q009541/README.de.md) Wir bereiten unseren nächsten Sicherheitssprint vor, um OpenAI besser zu schützen
+- [Q009542](../berichte/Q00/Q0095/Q009542/README.de.md) Sam Altmans Rede vor dem Sicherheitsrat der Vereinten Nationen
+- [Q009543](../berichte/Q00/Q0095/Q009543/README.de.md) Mit Tausenden KI-Agenten neue Ansatzpunkte in biologischen Daten entdecken
+- [Q009545](../berichte/Q00/Q0095/Q009545/README.de.md) Auf dem Weg zu Sicherheitsnachweisen für das Training von Frontier-KI
+- [Q008160](../berichte/Q00/Q0081/Q008160/README.de.md) Introducing OpenAI
+- [Q009080](../berichte/Q00/Q0090/Q009080/README.de.md) Weight normalization: A simple reparameterization to accelerate training of deep neural networks
+- [Q008329](../berichte/Q00/Q0083/Q008329/README.de.md) Team++
+- [Q008297](../berichte/Q00/Q0082/Q008297/README.de.md) Welcome, Pieter and Shivon!
+- [Q007831](../berichte/Q00/Q0078/Q007831/README.de.md) OpenAI Gym Beta
+- [Q008259](../berichte/Q00/Q0082/Q008259/README.de.md) Team update
+- [Q008593](../berichte/Q00/Q0085/Q008593/README.de.md) Adversarial training methods for semi-supervised text classification
+- [Q009074](../berichte/Q00/Q0090/Q009074/README.de.md) Generative models
+- [Q009004](../berichte/Q00/Q0090/Q009004/README.de.md) OpenAI technical goals
+- [Q008652](../berichte/Q00/Q0086/Q008652/README.de.md) Concrete AI safety problems
+- [Q008376](../berichte/Q00/Q0083/Q008376/README.de.md) Special projects
+- [Q008287](../berichte/Q00/Q0082/Q008287/README.de.md) Team update
+- [Q008850](../berichte/Q00/Q0088/Q008850/README.de.md) Machine Learning Unconference
+- [Q008113](../berichte/Q00/Q0081/Q008113/README.de.md) Infrastructure for deep learning
+- [Q008059](../berichte/Q00/Q0080/Q008059/README.de.md) Transfer from simulation to real world through learning deep inverse dynamics model
+- [Q008847](../berichte/Q00/Q0088/Q008847/README.de.md) Report from the self-organizing conference
+- [Q008581](../berichte/Q00/Q0085/Q008581/README.de.md) Semi-supervised knowledge transfer for deep learning from private training data
+- [Q008356](../berichte/Q00/Q0083/Q008356/README.de.md) Extensions and limitations of the neural GPU
+- [Q008216](../berichte/Q00/Q0082/Q008216/README.de.md) Variational lossy autoencoder
+- [Q008427](../berichte/Q00/Q0084/Q008427/README.de.md) RL²: Fast reinforcement learning via slow reinforcement learning
+- [Q009086](../berichte/Q00/Q0090/Q009086/README.de.md) A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models
+- [Q009089](../berichte/Q00/Q0090/Q009089/README.de.md) On the quantitative analysis of decoder-based generative models
+- [Q008464](../berichte/Q00/Q0084/Q008464/README.de.md) #Exploration: A study of count-based exploration for deep reinforcement learning
+- [Q009007](../berichte/Q00/Q0090/Q009007/README.de.md) OpenAI and Microsoft
+- [Q008350](../berichte/Q00/Q0083/Q008350/README.de.md) Faulty reward functions in the wild
+- [Q009077](../berichte/Q00/Q0090/Q009077/README.de.md) PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
+- [Q008454](../berichte/Q00/Q0084/Q008454/README.de.md) Team update
+- [Q008676](../berichte/Q00/Q0086/Q008676/README.de.md) Adversarial attacks on neural network policies
+- [Q008602](../berichte/Q00/Q0086/Q008602/README.de.md) Attacking machine learning with adversarial examples
+- [Q009092](../berichte/Q00/Q0090/Q009092/README.de.md) Third-person imitation learning
+- [Q009083](../berichte/Q00/Q0090/Q009083/README.de.md) Prediction and control with temporal segment models
+- [Q008484](../berichte/Q00/Q0084/Q008484/README.de.md) Emergence of grounded compositional language in multi-agent populations
+- [Q008315](../berichte/Q00/Q0083/Q008315/README.de.md) Learning to communicate
+- [Q008991](../berichte/Q00/Q0089/Q008991/README.de.md) Distill
+- [Q008326](../berichte/Q00/Q0083/Q008326/README.de.md) Evolution strategies as a scalable alternative to reinforcement learning
+- [Q008811](../berichte/Q00/Q0088/Q008811/README.de.md) Spam detection in the physical world
+- [Q008291](../berichte/Q00/Q0082/Q008291/README.de.md) Unsupervised sentiment neuron
+- [Q008353](../berichte/Q00/Q0083/Q008353/README.de.md) Stochastic Neural Networks for hierarchical reinforcement learning
+- [Q008490](../berichte/Q00/Q0084/Q008490/README.de.md) Equivalence between policy gradients and soft Q-learning
+- [Q007847](../berichte/Q00/Q0078/Q007847/README.de.md) Roboschool
+- [Q008311](../berichte/Q00/Q0083/Q008311/README.de.md) Robots that learn
+- [Q007814](../berichte/Q00/Q0078/Q007814/README.de.md) OpenAI Baselines: DQN
+- [Q008476](../berichte/Q00/Q0084/Q008476/README.de.md) UCB exploration via Q-ensembles
+- [Q008519](../berichte/Q00/Q0085/Q008519/README.de.md) Learning to cooperate, compete, and communicate
+- [Q007863](../berichte/Q00/Q0078/Q007863/README.de.md) Learning from human preferences
+- [Q007806](../berichte/Q00/Q0078/Q007806/README.de.md) Faster physics in Python
+- [Q008331](../berichte/Q00/Q0083/Q008331/README.de.md) Teacher–student curriculum learning
+- [Q008524](../berichte/Q00/Q0085/Q008524/README.de.md) Hindsight Experience Replay
+- [Q008590](../berichte/Q00/Q0085/Q008590/README.de.md) Robust adversarial inputs
+- [Q007828](../berichte/Q00/Q0078/Q007828/README.de.md) Proximal Policy Optimization
+- [Q008073](../berichte/Q00/Q0080/Q008073/README.de.md) Better exploration with parameter noise
+- [Q007817](../berichte/Q00/Q0078/Q007817/README.de.md) Gathering human feedback
+- [Q008494](../berichte/Q00/Q0084/Q008494/README.de.md) Dota 2
+- [Q008080](../berichte/Q00/Q0080/Q008080/README.de.md) More on Dota 2
+- [Q007868](../berichte/Q00/Q0078/Q007868/README.de.md) OpenAI Baselines: ACKTR & A2C
+- [Q008543](../berichte/Q00/Q0085/Q008543/README.de.md) Learning with opponent-learning awareness
+- [Q008527](../berichte/Q00/Q0085/Q008527/README.de.md) Learning to model other minds
+- [Q008191](../berichte/Q00/Q0081/Q008191/README.de.md) Nonlinear computation in deep linear networks
+- [Q008533](../berichte/Q00/Q0085/Q008533/README.de.md) Meta-learning for wrestling
+- [Q009052](../berichte/Q00/Q0090/Q009052/README.de.md) Competitive self-play
+- [Q009057](../berichte/Q00/Q0090/Q009057/README.de.md) Domain randomization and generative models for robotic grasping
+- [Q009055](../berichte/Q00/Q0090/Q009055/README.de.md) Asymmetric actor critic for image-based robot learning
+- [Q009060](../berichte/Q00/Q0090/Q009060/README.de.md) Sim-to-real transfer of robotic control with dynamics randomization
+- [Q008457](../berichte/Q00/Q0084/Q008457/README.de.md) Generalizing from simulation
+- [Q007580](../berichte/Q00/Q0075/Q007580/README.de.md) Learning a hierarchy
+- [Q009067](../berichte/Q00/Q0090/Q009067/README.de.md) Interpretable and pedagogical examples
+- [Q008409](../berichte/Q00/Q0084/Q008409/README.de.md) Learning sparse neural networks through L₀ regularization
+- [Q007839](../berichte/Q00/Q0078/Q007839/README.de.md) Block-sparse GPU kernels
+- [Q008243](../berichte/Q00/Q0082/Q008243/README.de.md) Scaling Kubernetes to 2,500 nodes
+- [Q007843](../berichte/Q00/Q0078/Q007843/README.de.md) Requests for Research 2.0
+- [Q008530](../berichte/Q00/Q0085/Q008530/README.de.md) Discovering types for entity disambiguation
+- [Q009064](../berichte/Q00/Q0090/Q009064/README.de.md) Interpretable machine learning through teaching
+- [Q008644](../berichte/Q00/Q0086/Q008644/README.de.md) Preparing for malicious uses of AI
+- [Q008985](../berichte/Q00/Q0089/Q008985/README.de.md) OpenAI supporters
+- [Q008844](../berichte/Q00/Q0088/Q008844/README.de.md) OpenAI hackathon
+- [Q007767](../berichte/Q00/Q0077/Q007767/README.de.md) Ingredients for robotics research
+- [Q008497](../berichte/Q00/Q0084/Q008497/README.de.md) Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research
+- [Q008487](../berichte/Q00/Q0084/Q008487/README.de.md) Some considerations on learning to explore via meta-reinforcement learning
+- [Q007731](../berichte/Q00/Q0077/Q007731/README.de.md) OpenAI Scholars
+- [Q008210](../berichte/Q00/Q0082/Q008210/README.de.md) Reptile: A scalable meta-learning algorithm
+- [Q008536](../berichte/Q00/Q0085/Q008536/README.de.md) On first-order meta-learning algorithms
+- [Q008840](../berichte/Q00/Q0088/Q008840/README.de.md) Report from the OpenAI hackathon
+- [Q009048](../berichte/Q00/Q0090/Q009048/README.de.md) Improving GANs using optimal transport
+- [Q008342](../berichte/Q00/Q0083/Q008342/README.de.md) Variance reduction for policy gradient with action-dependent factorized baselines
+- [Q008784](../berichte/Q00/Q0087/Q008784/README.de.md) Retro Contest
+- [Q008403](../berichte/Q00/Q0084/Q008403/README.de.md) Gotta Learn Fast: A new benchmark for generalization in RL
+- [Q008187](../berichte/Q00/Q0081/Q008187/README.de.md) Evolved Policy Gradients
+- [Q008686](../berichte/Q00/Q0086/Q008686/README.de.md) AI safety via debate
+- [Q008815](../berichte/Q00/Q0088/Q008815/README.de.md) AI and compute
+- [Q007761](../berichte/Q00/Q0077/Q007761/README.de.md) Gym Retro
+- [Q008299](../berichte/Q00/Q0082/Q008299/README.de.md) OpenAI Fellows Fall 2018
+- [Q008774](../berichte/Q00/Q0087/Q008774/README.de.md) GamePad: A learning environment for theorem proving
+- [Q008391](../berichte/Q00/Q0083/Q008391/README.de.md) Improving language understanding with unsupervised learning
+- [Q008415](../berichte/Q00/Q0084/Q008415/README.de.md) Learning policy representations in multiagent systems
+- [Q008511](../berichte/Q00/Q0085/Q008511/README.de.md) Retro Contest: Results
+- [Q008234](../berichte/Q00/Q0082/Q008234/README.de.md) OpenAI Five
+- [Q008424](../berichte/Q00/Q0084/Q008424/README.de.md) Learning Montezuma’s Revenge from a single demonstration
+- [Q008229](../berichte/Q00/Q0082/Q008229/README.de.md) Glow: Better reversible generative models
+- [Q008833](../berichte/Q00/Q0088/Q008833/README.de.md) OpenAI Five Benchmark
+- [Q008263](../berichte/Q00/Q0082/Q008263/README.de.md) OpenAI Scholars 2018: Meet our Scholars
+- [Q008254](../berichte/Q00/Q0082/Q008254/README.de.md) Variational option discovery algorithms
+- [Q008347](../berichte/Q00/Q0083/Q008347/README.de.md) Learning dexterity
+- [Q008239](../berichte/Q00/Q0082/Q008239/README.de.md) OpenAI Five Benchmark: Results
+- [Q008506](../berichte/Q00/Q0085/Q008506/README.de.md) Large-scale study of curiosity-driven learning
+- [Q008277](../berichte/Q00/Q0082/Q008277/README.de.md) The International 2018: Results
+- [Q008248](../berichte/Q00/Q0082/Q008248/README.de.md) OpenAI Scholars 2018: Final projects
+- [Q008780](../berichte/Q00/Q0087/Q008780/README.de.md) FFJORD: Free-form continuous dynamics for scalable reversible generative models
+- [Q008284](../berichte/Q00/Q0082/Q008284/README.de.md) OpenAI Fellows Winter 2019 & Interns Summer 2019
+- [Q008153](../berichte/Q00/Q0081/Q008153/README.de.md) OpenAI Scholars 2019: Applications open
+- [Q008655](../berichte/Q00/Q0086/Q008655/README.de.md) Learning complex goals with iterated amplification
+- [Q008200](../berichte/Q00/Q0082/Q008200/README.de.md) Reinforcement learning with prediction-based rewards
+- [Q008321](../berichte/Q00/Q0083/Q008321/README.de.md) Plan online, learn offline: Efficient learning and exploration via model-based control
+- [Q008503](../berichte/Q00/Q0085/Q008503/README.de.md) Learning concepts with energy functions
+- [Q007793](../berichte/Q00/Q0077/Q007793/README.de.md) Spinning Up in Deep RL
+- [Q008468](../berichte/Q00/Q0084/Q008468/README.de.md) Quantifying generalization in reinforcement learning
+- [Q008103](../berichte/Q00/Q0081/Q008103/README.de.md) How AI training scales
+- [Q008256](../berichte/Q00/Q0082/Q008256/README.de.md) OpenAI Fellows Summer 2018: Final projects
+- [Q008690](../berichte/Q00/Q0086/Q008690/README.de.md) Computational limitations in robust classification and win-win results
+- [Q008626](../berichte/Q00/Q0086/Q008626/README.de.md) Better language models and their implications
+- [Q008596](../berichte/Q00/Q0085/Q008596/README.de.md) AI safety needs social scientists
+- [Q008827](../berichte/Q00/Q0088/Q008827/README.de.md) Spinning Up in Deep RL: Workshop review
+- [Q008418](../berichte/Q00/Q0084/Q008418/README.de.md) Neural MMO: A massively multiagent game environment
+- [Q008575](../berichte/Q00/Q0085/Q008575/README.de.md) Introducing Activation Atlases
+- [Q006587](../berichte/Q00/Q0065/Q006587/README.de.md) OpenAI LP
+- [Q008170](../berichte/Q00/Q0081/Q008170/README.de.md) OpenAI Scholars 2019: Meet our Scholars
+- [Q008499](../berichte/Q00/Q0084/Q008499/README.de.md) Implicit generation and generalization methods for energy-based models
+- [Q008147](../berichte/Q00/Q0081/Q008147/README.de.md) OpenAI Five Finals
+- [Q008206](../berichte/Q00/Q0082/Q008206/README.de.md) OpenAI Five defeats Dota 2 world champions
+- [Q008338](../berichte/Q00/Q0083/Q008338/README.de.md) Generative modeling with sparse transformers
+- [Q008480](../berichte/Q00/Q0084/Q008480/README.de.md) MuseNet
+- [Q008682](../berichte/Q00/Q0086/Q008682/README.de.md) Transfer of adversarial robustness between perturbation types
+- [Q008203](../berichte/Q00/Q0082/Q008203/README.de.md) OpenAI Fellows Fall 2018: Final projects
+- [Q008364](../berichte/Q00/Q0083/Q008364/README.de.md) OpenAI Scholars 2019: Final projects
+- [Q008821](../berichte/Q00/Q0088/Q008821/README.de.md) OpenAI Robotics Symposium 2019
+- [Q008585](../berichte/Q00/Q0085/Q008585/README.de.md) Why responsible AI development needs cooperation on safety
+- [Q009046](../berichte/Q00/Q0090/Q009046/README.de.md) Microsoft invests in and partners with OpenAI to support us building beneficial AGI
+- [Q008251](../berichte/Q00/Q0082/Q008251/README.de.md) Learning Day
+- [Q008679](../berichte/Q00/Q0086/Q008679/README.de.md) GPT-2: 6-month follow-up
+- [Q008666](../berichte/Q00/Q0086/Q008666/README.de.md) Testing robustness against unforeseen adversaries
+- [Q007797](../berichte/Q00/Q0077/Q007797/README.de.md) Emergent tool use from multi-agent interaction
+- [Q008777](../berichte/Q00/Q0087/Q008777/README.de.md) Fine-tuning GPT-2 from human preferences
+- [Q008158](../berichte/Q00/Q0081/Q008158/README.de.md) OpenAI Scholars 2020: Applications open
+- [Q007677](../berichte/Q00/Q0076/Q007677/README.de.md) Solving Rubik’s Cube with a robot hand
+- [Q007779](../berichte/Q00/Q0077/Q007779/README.de.md) GPT-2: 1.5B release
+- [Q007821](../berichte/Q00/Q0078/Q007821/README.de.md) Safety Gym
+- [Q008618](../berichte/Q00/Q0086/Q008618/README.de.md) Benchmarking safe exploration in deep reinforcement learning
+- [Q007757](../berichte/Q00/Q0077/Q007757/README.de.md) Procgen Benchmark
+- [Q008770](../berichte/Q00/Q0087/Q008770/README.de.md) Deep double descent
+- [Q008086](../berichte/Q00/Q0080/Q008086/README.de.md) Dota 2 with large scale deep reinforcement learning
+- [Q008766](../berichte/Q00/Q0087/Q008766/README.de.md) Scaling laws for neural language models
+- [Q009043](../berichte/Q00/Q0090/Q009043/README.de.md) OpenAI standardizes on PyTorch
+- [Q007772](../berichte/Q00/Q0077/Q007772/README.de.md) OpenAI Microscope
+- [Q008309](../berichte/Q00/Q0083/Q008309/README.de.md) Improving verifiability in AI development
+- [Q007803](../berichte/Q00/Q0078/Q007803/README.de.md) Jukebox
+- [Q008648](../berichte/Q00/Q0086/Q008648/README.de.md) AI and efficiency
+- [Q005758](../berichte/Q00/Q0057/Q005758/README.de.md) Language models are few-shot learners
+- [Q007170](../berichte/Q00/Q0071/Q007170/README.de.md) OpenAI API
+- [Q007123](../berichte/Q00/Q0071/Q007123/README.de.md) Image GPT
+- [Q008837](../berichte/Q00/Q0088/Q008837/README.de.md) Procgen and MineRL Competitions
+- [Q008361](../berichte/Q00/Q0083/Q008361/README.de.md) OpenAI Scholars 2020: Final projects
+- [Q008306](../berichte/Q00/Q0083/Q008306/README.de.md) Learning to summarize with human feedback
+- [Q008076](../berichte/Q00/Q0080/Q008076/README.de.md) Generative language modeling for automated theorem proving
+- [Q009001](../berichte/Q00/Q0090/Q009001/README.de.md) OpenAI licenses GPT-3 technology to Microsoft
+- [Q008412](../berichte/Q00/Q0084/Q008412/README.de.md) Organizational update from OpenAI
+- [Q007488](../berichte/Q00/Q0074/Q007488/README.de.md) DALL·E: Creating images from text
+- [Q007789](../berichte/Q00/Q0077/Q007789/README.de.md) CLIP: Connecting text and images
+- [Q008178](../berichte/Q00/Q0081/Q008178/README.de.md) Scaling Kubernetes to 7,500 nodes
+- [Q008294](../berichte/Q00/Q0082/Q008294/README.de.md) Understanding the capabilities, limitations, and societal impact of large language models
+- [Q008552](../berichte/Q00/Q0085/Q008552/README.de.md) Multimodal neurons in artificial neural networks
+- [Q009010](../berichte/Q00/Q0090/Q009010/README.de.md) GPT-3 powers the next generation of apps
+- [Q008280](../berichte/Q00/Q0082/Q008280/README.de.md) Will Hurd joins OpenAI’s board of directors
+- [Q008438](../berichte/Q00/Q0084/Q008438/README.de.md) OpenAI Scholars 2021: Final projects
+- [Q008184](../berichte/Q00/Q0081/Q008184/README.de.md) Improving language model behavior by training on a curated dataset
+- [Q000974](../berichte/Q00/Q0009/Q000974/README.de.md) Evaluating large language models trained on code
+- [Q007825](../berichte/Q00/Q0078/Q007825/README.de.md) Introducing Triton: Open-source GPU programming for neural networks
+- [Q000737](../berichte/Q00/Q0007/Q000737/README.de.md) OpenAI Codex
+- [Q008272](../berichte/Q00/Q0082/Q008272/README.de.md) Helen Toner joins OpenAI’s board of directors
+- [Q008367](../berichte/Q00/Q0083/Q008367/README.de.md) TruthfulQA: Measuring how models mimic human falsehoods
+- [Q008181](../berichte/Q00/Q0081/Q008181/README.de.md) Summarizing books with human feedback
+- [Q007776](../berichte/Q00/Q0077/Q007776/README.de.md) Solving math word problems
+- [Q009035](../berichte/Q00/Q0090/Q009035/README.de.md) OpenAI’s API now available with no waitlist
+- [Q008442](../berichte/Q00/Q0084/Q008442/README.de.md) OpenAI Residency
+- [Q009039](../berichte/Q00/Q0090/Q009039/README.de.md) Customizing GPT-3 for your application
+- [Q008319](../berichte/Q00/Q0083/Q008319/README.de.md) WebGPT: Improving the factual accuracy of language models through web browsing
+- [Q008083](../berichte/Q00/Q0080/Q008083/README.de.md) Text and code embeddings by contrastive pre-training
+- [Q009024](../berichte/Q00/Q0090/Q009024/README.de.md) Introducing text and code embeddings
+- [Q007236](../berichte/Q00/Q0072/Q007236/README.de.md) Aligning language models to follow instructions
+- [Q008549](../berichte/Q00/Q0085/Q008549/README.de.md) Solving (some) formal math olympiad problems
+- [Q007272](../berichte/Q00/Q0072/Q007272/README.de.md) A research agenda for assessing the economic impacts of code generation models
+- [Q008673](../berichte/Q00/Q0086/Q008673/README.de.md) Lessons learned on language model safety and misuse
+- [Q008966](../berichte/Q00/Q0089/Q008966/README.de.md) Economic impacts research at OpenAI
+- [Q000809](../berichte/Q00/Q0008/Q000809/README.de.md) New GPT-3 capabilities: Edit & insert
+- [Q007782](../berichte/Q00/Q0077/Q007782/README.de.md) Hierarchical text-conditional image generation with CLIP latents
+- [Q008266](../berichte/Q00/Q0082/Q008266/README.de.md) Measuring Goodhart’s law
+- [Q008143](../berichte/Q00/Q0081/Q008143/README.de.md) OpenAI leadership team update
+- [Q009027](../berichte/Q00/Q0090/Q009027/README.de.md) DALL·E 2 research preview update
+- [Q001009](../berichte/Q00/Q0010/Q001009/README.de.md) Powering next generation applications with OpenAI Codex
+- [Q007366](../berichte/Q00/Q0073/Q007366/README.de.md) Teaching models to express their uncertainty in words
+- [Q009029](../berichte/Q00/Q0090/Q009029/README.de.md) Best practices for deploying language models
+- [Q008106](../berichte/Q00/Q0081/Q008106/README.de.md) Techniques for training large neural networks
+- [Q008380](../berichte/Q00/Q0083/Q008380/README.de.md) AI-written critiques help humans notice flaws
+- [Q008150](../berichte/Q00/Q0081/Q008150/README.de.md) Evolution through large models
+- [Q008546](../berichte/Q00/Q0085/Q008546/README.de.md) Learning to play Minecraft with Video PreTraining
+- [Q007835](../berichte/Q00/Q0078/Q007835/README.de.md) DALL·E 2 pre-training mitigations
+- [Q008995](../berichte/Q00/Q0089/Q008995/README.de.md) DALL·E 2: Extending creativity
+- [Q002349](../berichte/Q00/Q0023/Q002349/README.de.md) Reducing bias and improving safety in DALL·E 2
+- [Q009032](../berichte/Q00/Q0090/Q009032/README.de.md) DALL·E now available in beta
+- [Q007694](../berichte/Q00/Q0076/Q007694/README.de.md) A hazard analysis framework for code synthesis large language models
+- [Q008269](../berichte/Q00/Q0082/Q008269/README.de.md) Efficient training of language models to fill in the middle
+- [Q007335](../berichte/Q00/Q0073/Q007335/README.de.md) New and improved content moderation tooling
+- [Q007548](../berichte/Q00/Q0075/Q007548/README.de.md) Our approach to alignment research
+- [Q009019](../berichte/Q00/Q0090/Q009019/README.de.md) DALL·E: Introducing outpainting
+- [Q006619](../berichte/Q00/Q0066/Q006619/README.de.md) Introducing Whisper
+- [Q008050](../berichte/Q00/Q0080/Q008050/README.de.md) DALL·E now available without waitlist
+- [Q008065](../berichte/Q00/Q0080/Q008065/README.de.md) Scaling laws for reward model overoptimization
+- [Q009014](../berichte/Q00/Q0090/Q009014/README.de.md) DALL·E API now available in public beta
+- [Q008742](../berichte/Q00/Q0087/Q008742/README.de.md) Introducing ChatGPT
+- [Q008056](../berichte/Q00/Q0080/Q008056/README.de.md) Discovering the minutiae of backend systems
+- [Q007036](../berichte/Q00/Q0070/Q007036/README.de.md) New and improved embedding model
+- [Q007769](../berichte/Q00/Q0077/Q007769/README.de.md) Point-E: A system for generating 3D point clouds from complex prompts
+- [Q000732](../berichte/Q00/Q0007/Q000732/README.de.md) Rapamycin in the context of Pascal’s Wager: generative pre-trained\ntransformer perspective
+- [Q006980](../berichte/Q00/Q0069/Q006980/README.de.md) The power of continuous learning
+- [Q002531](../berichte/Q00/Q0025/Q002531/README.de.md) Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk
+- [Q009119](../berichte/Q00/Q0091/Q009119/README.de.md) OpenAI and Microsoft extend partnership
+- [Q007091](../berichte/Q00/Q0070/Q007091/README.de.md) New AI classifier for indicating AI-written text
+- [Q008727](../berichte/Q00/Q0087/Q008727/README.de.md) Introducing ChatGPT Plus
+- [Q007594](../berichte/Q00/Q0075/Q007594/README.de.md) How should AI systems behave, and who should decide?
+- [Q008567](../berichte/Q00/Q0085/Q008567/README.de.md) Planning for AGI and beyond
+- [Q005341](../berichte/Q00/Q0053/Q005341/README.de.md) GPT-4
+- [Q005597](../berichte/Q00/Q0055/Q005597/README.de.md) Stripe
+- [Q007220](../berichte/Q00/Q0072/Q007220/README.de.md) GPT-4
+- [Q008138](../berichte/Q00/Q0081/Q008138/README.de.md) GPTs are GPTs: An early look at the labor market impact potential of large language models
+- [Q001037](../berichte/Q00/Q0010/Q001037/README.de.md) ChatGPT plugins
+- [Q009166](../berichte/Q00/Q0091/Q009166/README.de.md) March 20 ChatGPT outage: Here’s what happened
+- [Q007654](../berichte/Q00/Q0076/Q007654/README.de.md) Our approach to AI safety
+- [Q007574](../berichte/Q00/Q0075/Q007574/README.de.md) Announcing OpenAI’s Bug Bounty Program
+- [Q008875](../berichte/Q00/Q0088/Q008875/README.de.md) New ways to manage your data in ChatGPT
+- [Q008303](../berichte/Q00/Q0083/Q008303/README.de.md) Language models can explain neurons in language models
+- [Q008908](../berichte/Q00/Q0089/Q008908/README.de.md) Introducing the ChatGPT app for iOS
+- [Q007570](../berichte/Q00/Q0075/Q007570/README.de.md) Governance of superintelligence
+- [Q008092](../berichte/Q00/Q0080/Q008092/README.de.md) Improving mathematical reasoning with process supervision
+- [Q001753](../berichte/Q00/Q0017/Q001753/README.de.md) OpenAI Cybersecurity Grant Program
+- [Q002810](../berichte/Q00/Q0028/Q002810/README.de.md) Comment on NTIA AI Accountability Policy
+- [Q008911](../berichte/Q00/Q0089/Q008911/README.de.md) Function calling and other API updates
+- [Q008913](../berichte/Q00/Q0089/Q008913/README.de.md) Testimony before the U.S. Senate
+- [Q008963](../berichte/Q00/Q0089/Q008963/README.de.md) Questions for the Record
+- [Q008451](../berichte/Q00/Q0084/Q008451/README.de.md) Introducing OpenAI London
+- [Q007621](../berichte/Q00/Q0076/Q007621/README.de.md) Insights from global conversations
+- [Q009110](../berichte/Q00/Q0091/Q009110/README.de.md) Introducing Superalignment
+- [Q008605](../berichte/Q00/Q0086/Q008605/README.de.md) Frontier AI regulation: Managing emerging risks to public safety
+- [Q009134](../berichte/Q00/Q0091/Q009134/README.de.md) Partnership with American Journalism Project to support local news
+- [Q008860](../berichte/Q00/Q0088/Q008860/README.de.md) Custom instructions for ChatGPT
+- [Q007614](../berichte/Q00/Q0076/Q007614/README.de.md) Moving AI governance forward
+- [Q008864](../berichte/Q00/Q0088/Q008864/README.de.md) Frontier Model Forum
+- [Q008659](../berichte/Q00/Q0086/Q008659/README.de.md) Confidence-Building Measures for Artificial Intelligence: Workshop proceedings
+- [Q008903](../berichte/Q00/Q0089/Q008903/README.de.md) Using GPT-4 for content moderation
+- [Q008445](../berichte/Q00/Q0084/Q008445/README.de.md) OpenAI acquires Global Illumination
+- [Q009169](../berichte/Q00/Q0091/Q009169/README.de.md) GPT-3.5 Turbo fine-tuning and API updates
+- [Q009117](../berichte/Q00/Q0091/Q009117/README.de.md) OpenAI partners with Scale to provide support for enterprises fine-tuning models
+- [Q009142](../berichte/Q00/Q0091/Q009142/README.de.md) Introducing ChatGPT Enterprise
+- [Q009146](../berichte/Q00/Q0091/Q009146/README.de.md) Teaching with AI
+- [Q008433](../berichte/Q00/Q0084/Q008433/README.de.md) Join us for OpenAI’s first developer conference on November 6 in San Francisco
+- [Q008334](../berichte/Q00/Q0083/Q008334/README.de.md) Introducing OpenAI Dublin
+- [Q007854](../berichte/Q00/Q0078/Q007854/README.de.md) GPT-4V(ision) system card
+- [Q008746](../berichte/Q00/Q0087/Q008746/README.de.md) ChatGPT can now see, hear, and speak
+- [Q007865](../berichte/Q00/Q0078/Q007865/README.de.md) DALL·E 3 system card
+- [Q008896](../berichte/Q00/Q0088/Q008896/README.de.md) DALL·E 3 is now available in ChatGPT Plus and Enterprise
+- [Q008988](../berichte/Q00/Q0089/Q008988/README.de.md) Frontier Model Forum updates
+- [Q002791](../berichte/Q00/Q0027/Q002791/README.de.md) OpenAI’s Approach to Frontier Risk
+- [Q009099](../berichte/Q00/Q0090/Q009099/README.de.md) Frontier risk and preparedness
+- [Q006990](../berichte/Q00/Q0069/Q006990/README.de.md) Introducing GPTs
+- [Q009227](../berichte/Q00/Q0092/Q009227/README.de.md) New models and developer products announced at DevDay
+- [Q008430](../berichte/Q00/Q0084/Q008430/README.de.md) OpenAI announces leadership transition
+- [Q008400](../berichte/Q00/Q0084/Q008400/README.de.md) Sam Altman returns as CEO, OpenAI has a new initial board
+- [Q001360](../berichte/Q00/Q0013/Q001360/README.de.md) OpenAI Red Teaming Network
+- [Q009131](../berichte/Q00/Q0091/Q009131/README.de.md) Partnership with Axel Springer to deepen beneficial use of AI in journalism
+- [Q007648](../berichte/Q00/Q0076/Q007648/README.de.md) Superalignment Fast Grants
+- [Q007657](../berichte/Q00/Q0076/Q007657/README.de.md) Weak-to-strong generalization
+- [Q008578](../berichte/Q00/Q0085/Q008578/README.de.md) Practices for Governing Agentic AI Systems
+- [Q007246](../berichte/Q00/Q0072/Q007246/README.de.md) OpenAI and journalism
+- [Q006328](../berichte/Q00/Q0063/Q006328/README.de.md) Introducing ChatGPT Team
+- [Q008696](../berichte/Q00/Q0086/Q008696/README.de.md) Introducing the GPT Store
+- [Q008961](../berichte/Q00/Q0089/Q008961/README.de.md) How OpenAI is approaching 2024 worldwide elections
+- [Q007669](../berichte/Q00/Q0076/Q007669/README.de.md) Democratic inputs to AI grant program: lessons learned and implementation plans
+- [Q008037](../berichte/Q00/Q0080/Q008037/README.de.md) New embedding models and API updates
+- [Q008624](../berichte/Q00/Q0086/Q008624/README.de.md) Building an early warning system for LLM-aided biological threat creation
+- [Q008968](../berichte/Q00/Q0089/Q008968/README.de.md) Response to NIST Executive Order on AI
+- [Q007108](../berichte/Q00/Q0071/Q007108/README.de.md) Memory and new controls for ChatGPT
+- [Q002455](../berichte/Q00/Q0024/Q002455/README.de.md) Disrupting malicious uses of AI by state-affiliated threat actors
+- [Q008473](../berichte/Q00/Q0084/Q008473/README.de.md) Video generation models as world simulators
+- [Q006481](../berichte/Q00/Q0064/Q006481/README.de.md) OpenAI and Elon Musk
+- [Q005655](../berichte/Q00/Q0056/Q005655/README.de.md) OpenAI announces new members to board of directors
+- [Q007073](../berichte/Q00/Q0070/Q007073/README.de.md) Review completed & Altman, Brockman to continue to lead OpenAI
+- [Q007069](../berichte/Q00/Q0070/Q007069/README.de.md) Global news partnerships: Le Monde and Prisa Media
+- [Q009233](../berichte/Q00/Q0092/Q009233/README.de.md) Sora first impressions
+- [Q007961](../berichte/Q00/Q0079/Q007961/README.de.md) OpenAI’s comment to the NTIA on open model weights
+- [Q005384](../berichte/Q00/Q0053/Q005384/README.de.md) Navigating the challenges and opportunities of synthetic voices
+- [Q004336](../berichte/Q00/Q0043/Q004336/README.de.md) Start using ChatGPT instantly
+- [Q007226](../berichte/Q00/Q0072/Q007226/README.de.md) Introducing improvements to the fine-tuning API and expanding our custom models program
+- [Q007081](../berichte/Q00/Q0070/Q007081/README.de.md) Introducing OpenAI Japan
+- [Q008598](../berichte/Q00/Q0085/Q008598/README.de.md) The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions
+- [Q007261](../berichte/Q00/Q0072/Q007261/README.de.md) Introducing more enterprise-grade features for API customers
+- [Q009108](../berichte/Q00/Q0091/Q009108/README.de.md) OpenAI’s commitment to child safety: adopting safety by design principles
+- [Q008007](../berichte/Q00/Q0080/Q008007/README.de.md) GPT-4 API general availability and deprecation of older models in the Completions API
+- [Q008100](../berichte/Q00/Q0081/Q008100/README.de.md) Introducing ChatGPT and Whisper APIs
+- [Q007167](../berichte/Q00/Q0071/Q007167/README.de.md) We’re bringing the Financial Times’ world-class journalism to ChatGPT
+- [Q001195](../berichte/Q00/Q0011/Q001195/README.de.md) IUVM: Iran-linked influence content network
+- [Q002178](../berichte/Q00/Q0021/Q002178/README.de.md) "Bad Grammar": Russian-linked Telegram comment activity
+- [Q002281](../berichte/Q00/Q0022/Q002281/README.de.md) Operation "Spamouflage": China-linked influence activity
+- [Q002319](../berichte/Q00/Q0023/Q002319/README.de.md) Operation "Zero Zeno": Israel-linked influence activity
+- [Q002592](../berichte/Q00/Q0025/Q002592/README.de.md) Operation "Doppelganger": Russian influence activity targeting Ukraine
+- [Q007146](../berichte/Q00/Q0071/Q007146/README.de.md) API Partnership with Stack Overflow
+- [Q007542](../berichte/Q00/Q0075/Q007542/README.de.md) Our approach to data and AI
+- [Q007641](../berichte/Q00/Q0076/Q007641/README.de.md) Understanding the source of what we see and hear online
+- [Q004290](../berichte/Q00/Q0042/Q004290/README.de.md) Hello GPT-4o
+- [Q008000](../berichte/Q00/Q0080/Q008000/README.de.md) Spring Update
+- [Q008009](../berichte/Q00/Q0080/Q008009/README.de.md) Introducing GPT-4o and more tools to ChatGPT free users
+- [Q007105](../berichte/Q00/Q0071/Q007105/README.de.md) Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist
+- [Q007263](../berichte/Q00/Q0072/Q007263/README.de.md) OpenAI and Reddit Partnership
+- [Q007883](../berichte/Q00/Q0078/Q007883/README.de.md) Improvements to data analysis in ChatGPT
+- [Q007874](../berichte/Q00/Q0078/Q007874/README.de.md) How the voices for ChatGPT were chosen
+- [Q007646](../berichte/Q00/Q0076/Q007646/README.de.md) OpenAI safety practices
+- [Q006852](../berichte/Q00/Q0068/Q006852/README.de.md) A landmark multi-year global partnership with News Corp
+- [Q002430](../berichte/Q00/Q0024/Q002430/README.de.md) OpenAI Board Forms Safety and Security Committee
+- [Q003115](../berichte/Q00/Q0031/Q003115/README.de.md) Enhancing news in ChatGPT with The Atlantic
+- [Q007039](../berichte/Q00/Q0070/Q007039/README.de.md) A Content and Product Partnership with Vox Media
+- [Q007411](../berichte/Q00/Q0074/Q007411/README.de.md) The Newsroom AI Catalyst: a global program with WAN-IFRA
+- [Q000679](../berichte/Q00/Q0006/Q000679/README.de.md) Disrupting deceptive uses of AI by covert influence operations
+- [Q007031](../berichte/Q00/Q0070/Q007031/README.de.md) Introducing OpenAI for Nonprofits
+- [Q007502](../berichte/Q00/Q0075/Q007502/README.de.md) Introducing ChatGPT Edu
+- [Q007275](../berichte/Q00/Q0072/Q007275/README.de.md) Extracting Concepts from GPT-4
+- [Q001951](../berichte/Q00/Q0019/Q001951/README.de.md) Expanding on how Voice Engine works and our safety research
+- [Q006702](../berichte/Q00/Q0067/Q006702/README.de.md) OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)
+- [Q006850](../berichte/Q00/Q0068/Q006850/README.de.md) OpenAI and Apple announce partnership
+- [Q007155](../berichte/Q00/Q0071/Q007155/README.de.md) OpenAI appoints Retired U.S. Army General
+- [Q001351](../berichte/Q00/Q0013/Q001351/README.de.md) Empowering defenders through our Cybersecurity Grant Program
+- [Q007751](../berichte/Q00/Q0077/Q007751/README.de.md) Consistency Models
+- [Q007784](../berichte/Q00/Q0077/Q007784/README.de.md) A Holistic Approach to Undesired Content Detection in the Real World
+- [Q007786](../berichte/Q00/Q0077/Q007786/README.de.md) Improved Techniques for Training Consistency Models
+- [Q007046](../berichte/Q00/Q0070/Q007046/README.de.md) OpenAI Acquires Rockset
+- [Q006995](../berichte/Q00/Q0069/Q006995/README.de.md) Strategic Content Partnership with TIME
+- [Q007243](../berichte/Q00/Q0072/Q007243/README.de.md) Finding GPT-4’s mistakes with GPT-4
+- [Q007385](../berichte/Q00/Q0073/Q007385/README.de.md) OpenAI and Los Alamos National Laboratory announce bioscience research partnership
+- [Q007410](../berichte/Q00/Q0074/Q007410/README.de.md) Prover-Verifier Games improve legibility of language model outputs
+- [Q003275](../berichte/Q00/Q0032/Q003275/README.de.md) New compliance and administrative tools for ChatGPT Enterprise
+- [Q007316](../berichte/Q00/Q0073/Q007316/README.de.md) GPT-4o mini: advancing cost-efficient intelligence
+- [Q001961](../berichte/Q00/Q0019/Q001961/README.de.md) Improving Model Safety Behavior with Rule-Based Rewards
+- [Q006552](../berichte/Q00/Q0065/Q006552/README.de.md) SearchGPT Prototype
+- [Q001246](../berichte/Q00/Q0012/Q001246/README.de.md) A Primer on the EU AI Act: What It Means for AI Providers and Deployers
+- [Q007361](../berichte/Q00/Q0073/Q007361/README.de.md) Introducing Structured Outputs in the API
+- [Q002072](../berichte/Q00/Q0020/Q002072/README.de.md) GPT-4o System Card
+- [Q006928](../berichte/Q00/Q0069/Q006928/README.de.md) Zico Kolter Joins OpenAI’s Board of Directors
+- [Q007285](../berichte/Q00/Q0072/Q007285/README.de.md) Introducing SWE-bench Verified
+- [Q002370](../berichte/Q00/Q0023/Q002370/README.de.md) Disrupting a covert Iranian influence operation
+- [Q007379](../berichte/Q00/Q0073/Q007379/README.de.md) OpenAI partners with Condé Nast
+- [Q008981](../berichte/Q00/Q0089/Q008981/README.de.md) Fine-tuning now available for GPT-4o
+- [Q007282](../berichte/Q00/Q0072/Q007282/README.de.md) Learning to reason with LLMs
+- [Q007811](../berichte/Q00/Q0078/Q007811/README.de.md) OpenAI o1-mini
+- [Q008053](../berichte/Q00/Q0080/Q008053/README.de.md) Introducing OpenAI o1
+- [Q007585](../berichte/Q00/Q0075/Q007585/README.de.md) An update on our safety & security practices
+- [Q008370](../berichte/Q00/Q0083/Q008370/README.de.md) Introducing the OpenAI Academy
+- [Q009137](../berichte/Q00/Q0091/Q009137/README.de.md) OpenAI and GEDI partner for Italian news content
+- [Q009213](../berichte/Q00/Q0092/Q009213/README.de.md) Upgrading the Moderation API with our new multimodal moderation model
+- [Q001218](../berichte/Q00/Q0012/Q001218/README.de.md) Rwandan election content: Political commenting network
+- [Q002114](../berichte/Q00/Q0021/Q002114/README.de.md) Operation “Stop News”: Russia-origin influence activity
+- [Q002170](../berichte/Q00/Q0021/Q002170/README.de.md) Operation “STORM-2035”: Iran-origin influence activity
+- [Q002226](../berichte/Q00/Q0022/Q002226/README.de.md) SweetSpecter: China-linked cyber activity
+- [Q002237](../berichte/Q00/Q0022/Q002237/README.de.md) STORM-0817: Iran-linked malware and scraping activity
+- [Q002340](../berichte/Q00/Q0023/Q002340/README.de.md) Tort Report: Abusive reporting activity
+- [Q002556](../berichte/Q00/Q0025/Q002556/README.de.md) CyberAv3ngers: Iran-linked cyber research activity
+- [Q003101](../berichte/Q00/Q0031/Q003101/README.de.md) Hoax: Fake Russian “troll” error message
+- [Q008916](../berichte/Q00/Q0089/Q008916/README.de.md) Prompt Caching in the API
+- [Q008921](../berichte/Q00/Q0089/Q008921/README.de.md) Introducing the Realtime API
+- [Q009236](../berichte/Q00/Q0092/Q009236/README.de.md) Introducing vision to the fine-tuning API
+- [Q009239](../berichte/Q00/Q0092/Q009239/README.de.md) Model Distillation in the API
+- [Q009163](../berichte/Q00/Q0091/Q009163/README.de.md) New funding to scale the benefits of AI
+- [Q006710](../berichte/Q00/Q0067/Q006710/README.de.md) Introducing canvas
+- [Q009152](../berichte/Q00/Q0091/Q009152/README.de.md) New Credit Facility Enhances Financial Flexibility
+- [Q009122](../berichte/Q00/Q0091/Q009122/README.de.md) OpenAI and Hearst Content Partnership
+- [Q002464](../berichte/Q00/Q0024/Q002464/README.de.md) An update on disrupting deceptive uses of AI
+- [Q008194](../berichte/Q00/Q0081/Q008194/README.de.md) MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering
+- [Q002599](../berichte/Q00/Q0025/Q002599/README.de.md) Evaluating fairness in ChatGPT
+- [Q008753](../berichte/Q00/Q0087/Q008753/README.de.md) OpenAI and the Lenfest Institute AI Collaborative and Fellowship program
+- [Q008919](../berichte/Q00/Q0089/Q008919/README.de.md) OpenAI appoints Scott Schools as Chief Compliance Officer
+- [Q008971](../berichte/Q00/Q0089/Q008971/README.de.md) Dr. Ronnie Chatterji named OpenAI’s first Chief Economist
+- [Q008219](../berichte/Q00/Q0082/Q008219/README.de.md) Simplifying, stabilizing, and scaling continuous-time consistency models
+- [Q002434](../berichte/Q00/Q0024/Q002434/README.de.md) OpenAI’s approach to AI and national security
+- [Q008608](../berichte/Q00/Q0086/Q008608/README.de.md) Introducing SimpleQA
+- [Q006501](../berichte/Q00/Q0065/Q006501/README.de.md) Introducing ChatGPT search
+- [Q009178](../berichte/Q00/Q0091/Q009178/README.de.md) OpenAI’s comments to the NTIA on data center growth, resilience, and security
+- [Q008213](../berichte/Q00/Q0082/Q008213/README.de.md) OpenAI en France
+- [Q008587](../berichte/Q00/Q0085/Q008587/README.de.md) Advancing red teaming with people and AI
+- [Q009151](../berichte/Q00/Q0091/Q009151/README.de.md) OpenAI and Future partner on specialist content
+- [Q007012](../berichte/Q00/Q0070/Q007012/README.de.md) Introducing ChatGPT Pro
+- [Q008641](../berichte/Q00/Q0086/Q008641/README.de.md) OpenAI o1 System Card
+- [Q001978](../berichte/Q00/Q0019/Q001978/README.de.md) Sora System Card
+- [Q007344](../berichte/Q00/Q0073/Q007344/README.de.md) Sora is here
+- [Q007966](../berichte/Q00/Q0079/Q007966/README.de.md) Minne Atairu & Sora
+- [Q008164](../berichte/Q00/Q0081/Q008164/README.de.md) Elon Musk wanted an OpenAI for-profit
+- [Q002396](../berichte/Q00/Q0023/Q002396/README.de.md) Deliberative alignment: reasoning enables safer language models
+- [Q008855](../berichte/Q00/Q0088/Q008855/README.de.md) Early access for safety testing
+- [Q008245](../berichte/Q00/Q0082/Q008245/README.de.md) Why OpenAI’s structure must evolve to advance our mission
+- [Q008976](../berichte/Q00/Q0089/Q008976/README.de.md) OpenAI’s Economic Blueprint
+- [Q008225](../berichte/Q00/Q0082/Q008225/README.de.md) Adebayo Ogunlesi Joins OpenAI’s Board of Directors
+- [Q009161](../berichte/Q00/Q0091/Q009161/README.de.md) Partnering with Axios expands OpenAI’s work with the news industry
+- [Q009155](../berichte/Q00/Q0091/Q009155/README.de.md) The power of personalized AI
+- [Q006984](../berichte/Q00/Q0069/Q006984/README.de.md) Announcing The Stargate Project
+- [Q008069](../berichte/Q00/Q0080/Q008069/README.de.md) Trading Inference-Time Compute for Adversarial Robustness
+- [Q008857](../berichte/Q00/Q0088/Q008857/README.de.md) Bertelsmann powers creativity and productivity with OpenAI
+- [Q007249](../berichte/Q00/Q0072/Q007249/README.de.md) Computer-Using Agent
+- [Q008692](../berichte/Q00/Q0086/Q008692/README.de.md) Introducing Operator
+- [Q009104](../berichte/Q00/Q0091/Q009104/README.de.md) Operator System Card
+- [Q002643](../berichte/Q00/Q0026/Q002643/README.de.md) Introducing ChatGPT Gov
+- [Q009127](../berichte/Q00/Q0091/Q009127/README.de.md) Strengthening America’s AI leadership with the U.S. National Laboratories
+- [Q002991](../berichte/Q00/Q0029/Q002991/README.de.md) OpenAI o3-mini
+- [Q009197](../berichte/Q00/Q0091/Q009197/README.de.md) OpenAI o3-mini System Card
+- [Q002098](../berichte/Q00/Q0020/Q002098/README.de.md) Operation “Sponsored Discontent”: Influence activity
+- [Q002334](../berichte/Q00/Q0023/Q002334/README.de.md) Task scam: AI-assisted fake review jobs
+- [Q002571](../berichte/Q00/Q0025/Q002571/README.de.md) Operation “Peer Review”: AI-assisted surveillance planning
+- [Q002688](../berichte/Q00/Q0026/Q002688/README.de.md) Iranian influence nexus: Cross-platform activity
+- [Q002743](../berichte/Q00/Q0027/Q002743/README.de.md) Covert influence operation: Ghana election activity
+- [Q007374](../berichte/Q00/Q0073/Q007374/README.de.md) Romance-baiting scam: AI-assisted pig butchering workflows
+- [Q007414](../berichte/Q00/Q0074/Q007414/README.de.md) Deceptive Employment Scheme: AI-assisted hiring deception
+- [Q006828](../berichte/Q00/Q0068/Q006828/README.de.md) Introducing deep research
+- [Q007997](../berichte/Q00/Q0079/Q007997/README.de.md) Understanding complex trends with deep research
+- [Q007326](../berichte/Q00/Q0073/Q007326/README.de.md) Ten tiny canvases
+- [Q007399](../berichte/Q00/Q0073/Q007399/README.de.md) Fishing for first timers
+- [Q008515](../berichte/Q00/Q0085/Q008515/README.de.md) My dog, the maths tutor
+- [Q009139](../berichte/Q00/Q0091/Q009139/README.de.md) OpenAI and the CSU system bring AI to 500,000 students & faculty
+- [Q006362](../berichte/Q00/Q0063/Q006362/README.de.md) Introducing data residency in Europe
+- [Q008974](../berichte/Q00/Q0089/Q008974/README.de.md) OpenAI at the Paris  AI Action Summit
+- [Q002832](../berichte/Q00/Q0028/Q002832/README.de.md) Introducing the Intelligence Age
+- [Q009125](../berichte/Q00/Q0091/Q009125/README.de.md) OpenAI partners with Schibsted Media Group
+- [Q001909](../berichte/Q00/Q0019/Q001909/README.de.md) Sharing the latest Model Spec
+- [Q007363](../berichte/Q00/Q0073/Q007363/README.de.md) Shaping the future of retail with AI
+- [Q008806](../berichte/Q00/Q0088/Q008806/README.de.md) Using AI to focus on the big picture
+- [Q009148](../berichte/Q00/Q0091/Q009148/README.de.md) OpenAI and Guardian Media Group launch content partnership
+- [Q009216](../berichte/Q00/Q0092/Q009216/README.de.md) Introducing the SWE-Lancer benchmark
+- [Q002797](../berichte/Q00/Q0027/Q002797/README.de.md) College students and ChatGPT adoption in the US
+- [Q005878](../berichte/Q00/Q0058/Q005878/README.de.md) Uber enables outstanding on-demand experiences with AI
+- [Q002804](../berichte/Q00/Q0028/Q002804/README.de.md) Disrupting malicious uses of AI
+- [Q008947](../berichte/Q00/Q0089/Q008947/README.de.md) Estonia and OpenAI to bring ChatGPT to schools nationwide
+- [Q009223](../berichte/Q00/Q0092/Q009223/README.de.md) Deep research System Card
+- [Q005493](../berichte/Q00/Q0054/Q005493/README.de.md) Introducing GPT-4.5
+- [Q009241](../berichte/Q00/Q0092/Q009241/README.de.md) GPT-4.5 system card
+- [Q008870](../berichte/Q00/Q0088/Q008870/README.de.md) 1,000 Scientist AI Jam Session: Advancing science with the U.S. national labs
+- [Q007526](../berichte/Q00/Q0075/Q007526/README.de.md) LaunchDarkly's approach to AI-powered product management
+- [Q009158](../berichte/Q00/Q0091/Q009158/README.de.md) Introducing NextGenAI: A consortium to advance research and education with AI
+- [Q008883](../berichte/Q00/Q0088/Q008883/README.de.md) Detecting misbehavior in frontier reasoning models
+- [Q008067](../berichte/Q00/Q0080/Q008067/README.de.md) New tools for building agents
+- [Q009243](../berichte/Q00/Q0092/Q009243/README.de.md) OpenAI’s proposals for the U.S. AI Action Plan
+- [Q008872](../berichte/Q00/Q0088/Q008872/README.de.md) The court rejects Elon’s latest attempt to slow OpenAI down
+- [Q007354](../berichte/Q00/Q0073/Q007354/README.de.md) EliseAI improves housing and healthcare efficiency with AI
+- [Q005503](../berichte/Q00/Q0055/Q005503/README.de.md) Introducing next-generation audio models in the API
+- [Q009208](../berichte/Q00/Q0092/Q009208/README.de.md) Early methods for studying affective use and emotional well-being on ChatGPT
+- [Q008448](../berichte/Q00/Q0084/Q008448/README.de.md) Leadership updates
+- [Q001026](../berichte/Q00/Q0010/Q001026/README.de.md) Addendum to GPT-4o System Card: Native image generation
+- [Q006818](../berichte/Q00/Q0068/Q006818/README.de.md) Introducing 4o Image Generation
+- [Q008956](../berichte/Q00/Q0089/Q008956/README.de.md) Scaling the OpenAI Academy: A new hub for AI literacy and community learning
+- [Q009261](../berichte/Q00/Q0092/Q009261/README.de.md) Addendum to GPT-4o System Card: 4o image generation
+- [Q008196](../berichte/Q00/Q0081/Q008196/README.de.md) Security on the path to AGI
+- [Q006728](../berichte/Q00/Q0067/Q006728/README.de.md) Zendesk uses OpenAI to build adaptive service agents focused on resolutions
+- [Q009174](../berichte/Q00/Q0091/Q009174/README.de.md) New funding to build towards AGI
+- [Q007798](../berichte/Q00/Q0077/Q007798/README.de.md) PaperBench: Evaluating AI’s Ability to Replicate AI Research
+- [Q009253](../berichte/Q00/Q0092/Q009253/README.de.md) New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit
+- [Q009266](../berichte/Q00/Q0092/Q009266/README.de.md) Our response to the UK’s copyright consultation
+- [Q007532](../berichte/Q00/Q0075/Q007532/README.de.md) Canva enables creativity with AI
+- [Q007881](../berichte/Q00/Q0078/Q007881/README.de.md) OpenAI’s EU Economic Blueprint
+- [Q009290](../berichte/Q00/Q0092/Q009290/README.de.md) OpenAI Pioneers Program
+- [Q005451](../berichte/Q00/Q0054/Q005451/README.de.md) BrowseComp: a benchmark for browsing agents
+- [Q008942](../berichte/Q00/Q0089/Q008942/README.de.md) Introducing GPT-4.1 in the API
+- [Q008629](../berichte/Q00/Q0086/Q008629/README.de.md) Our updated Preparedness Framework
+- [Q009184](../berichte/Q00/Q0091/Q009184/README.de.md) OpenAI board of directors announces advisors to nonprofit commission
+- [Q001915](../berichte/Q00/Q0019/Q001915/README.de.md) OpenAI o3 and o4-mini System Card
+- [Q006570](../berichte/Q00/Q0065/Q006570/README.de.md) Introducing OpenAI o3 and o4-mini
+- [Q006821](../berichte/Q00/Q0068/Q006821/README.de.md) Thinking with images
+- [Q007403](../berichte/Q00/Q0074/Q007403/README.de.md) Speak is personalizing language learning with AI
+- [Q009256](../berichte/Q00/Q0092/Q009256/README.de.md) The Washington Post partners with OpenAI on search content
+- [Q007634](../berichte/Q00/Q0076/Q007634/README.de.md) Introducing our latest image generation model in the API
+- [Q008905](../berichte/Q00/Q0089/Q008905/README.de.md) Sycophancy in GPT-4o: What happened and what we’re doing about it
+- [Q008926](../berichte/Q00/Q0089/Q008926/README.de.md) Expanding on what we missed with sycophancy
+- [Q005440](../berichte/Q00/Q0054/Q005440/README.de.md) Lowe’s leverages AI to power home improvement retail
+- [Q009259](../berichte/Q00/Q0092/Q009259/README.de.md) Evolving OpenAI’s structure
+- [Q008460](../berichte/Q00/Q0084/Q008460/README.de.md) John Deere transforms agriculture with AI
+- [Q009269](../berichte/Q00/Q0092/Q009269/README.de.md) Introducing AI stories: daily benefits shine a light on bigger opportunities
+- [Q006949](../berichte/Q00/Q0069/Q006949/README.de.md) OpenAI Expands Leadership with Fidji Simo
+- [Q007277](../berichte/Q00/Q0072/Q007277/README.de.md) Introducing data residency in Asia
+- [Q007930](../berichte/Q00/Q0079/Q007930/README.de.md) Introducing OpenAI for Countries
+- [Q008540](../berichte/Q00/Q0085/Q008540/README.de.md) The San Antonio Spurs use ChatGPT to scale impact on and off the court
+- [Q008958](../berichte/Q00/Q0089/Q008958/README.de.md) OpenAI’s response to the Department of Energy on AI infrastructure
+- [Q007558](../berichte/Q00/Q0075/Q007558/README.de.md) Introducing HealthBench
+- [Q006213](../berichte/Q00/Q0062/Q006213/README.de.md) AI powers Expedia’s marketing evolution
+- [Q007135](../berichte/Q00/Q0071/Q007135/README.de.md) Introducing Codex
+- [Q009221](../berichte/Q00/Q0092/Q009221/README.de.md) Addendum to o3 and o4-mini system card: Codex
+- [Q008032](../berichte/Q00/Q0080/Q008032/README.de.md) New tools and features in the Responses API
+- [Q007392](../berichte/Q00/Q0073/Q007392/README.de.md) Shipping code faster with o3, o4-mini, and GPT-4.1
+- [Q008141](../berichte/Q00/Q0081/Q008141/README.de.md) OpenAI Deutschland
+- [Q009271](../berichte/Q00/Q0092/Q009271/README.de.md) Introducing Stargate UAE
+- [Q009252](../berichte/Q00/Q0092/Q009252/README.de.md) Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator
+- [Q006698](../berichte/Q00/Q0066/Q006698/README.de.md) Creating websites in minutes with AI Website Builder
+- [Q001489](../berichte/Q00/Q0014/Q001489/README.de.md) Operation “Sneer Review”: China-origin influence activity
+- [Q002156](../berichte/Q00/Q0021/Q002156/README.de.md) STORM-2035: Recidivist influence activity
+- [Q002188](../berichte/Q00/Q0021/Q002188/README.de.md) Operation “VAGue Focus”: Social engineering and influence activity
+- [Q002265](../berichte/Q00/Q0022/Q002265/README.de.md) Operation “Wrong Number”: AI-assisted task scam
+- [Q002286](../berichte/Q00/Q0022/Q002286/README.de.md) Vixen and Keyhole Panda: China-linked cyber operations
+- [Q002310](../berichte/Q00/Q0023/Q002310/README.de.md) Operation “Uncle Spam”: US polarization influence activity
+- [Q002772](../berichte/Q00/Q0027/Q002772/README.de.md) Operation “Helgoland Bite”: German-language influence activity
+- [Q007416](../berichte/Q00/Q0074/Q007416/README.de.md) Operation “ScopeCreep”: Russian-speaking malware development
+- [Q007431](../berichte/Q00/Q0074/Q007431/README.de.md) Deceptive Employment Scheme: IT worker activity
+- [Q002470](../berichte/Q00/Q0024/Q002470/README.de.md) Disrupting malicious uses of AI: June 2025
+- [Q008421](../berichte/Q00/Q0084/Q008421/README.de.md) How we’re responding to The New York Times’ data demands in order to protect user privacy
+- [Q008128](../berichte/Q00/Q0081/Q008128/README.de.md) Scaling security with responsible disclosure
+- [Q006634](../berichte/Q00/Q0066/Q006634/README.de.md) Bringing the magic of AI to Mattel’s iconic brands
+- [Q002621](../berichte/Q00/Q0026/Q002621/README.de.md) Introducing OpenAI for Government
+- [Q008757](../berichte/Q00/Q0087/Q008757/README.de.md) Toward understanding and preventing misalignment generalization
+- [Q009274](../berichte/Q00/Q0092/Q009274/README.de.md) Preparing for future AI capabilities in biology
+- [Q007352](../berichte/Q00/Q0073/Q007352/README.de.md) Unify engineers growth by using the right model for every task
+- [Q008953](../berichte/Q00/Q0089/Q008953/README.de.md) AI in Australia—OpenAI’s Economic Blueprint
+- [Q005717](../berichte/Q00/Q0057/Q005717/README.de.md) Genspark ships no-code personal agents with GPT-4.1 and OpenAI Realtime API
+- [Q009250](../berichte/Q00/Q0092/Q009250/README.de.md) Working with 400,000 teachers to shape the future of AI in schools
+- [Q007943](../berichte/Q00/Q0079/Q007943/README.de.md) The EU Code of Practice and future of AI in Europe
+- [Q008923](../berichte/Q00/Q0089/Q008923/README.de.md) Intellectual freedom by design
+- [Q001899](../berichte/Q00/Q0018/Q001899/README.de.md) ChatGPT agent System Card
+- [Q005640](../berichte/Q00/Q0056/Q005640/README.de.md) Statement from the OpenAI Board of Directors on the Nonprofit Commission Report
+- [Q006409](../berichte/Q00/Q0064/Q006409/README.de.md) Invideo AI enables anyone with an idea to produce high-quality videos
+- [Q006682](../berichte/Q00/Q0066/Q006682/README.de.md) Introducing ChatGPT agent
+- [Q008900](../berichte/Q00/Q0089/Q008900/README.de.md) OpenAI nonprofit jam
+- [Q009218](../berichte/Q00/Q0092/Q009218/README.de.md) A $50 million fund to build with communities
+- [Q002725](../berichte/Q00/Q0027/Q002725/README.de.md) OpenAI and UK Government announce strategic partnership to deliver AI-driven growth
+- [Q002445](../berichte/Q00/Q0024/Q002445/README.de.md) OpenAI’s new economic analysis
+- [Q003090](../berichte/Q00/Q0030/Q003090/README.de.md) Stargate Advances with 4.5 GW Partnership with Oracle
+- [Q008786](../berichte/Q00/Q0087/Q008786/README.de.md) Pioneering an AI clinical copilot with Penda Health
+- [Q006008](../berichte/Q00/Q0060/Q006008/README.de.md) Model ML is helping financial firms rebuild with AI from the ground up
+- [Q008830](../berichte/Q00/Q0088/Q008830/README.de.md) OpenAI DevDay is back and bigger than ever
+- [Q007266](../berichte/Q00/Q0072/Q007266/README.de.md) Outtake’s agents resolve cybersecurity attacks in hours with OpenAI
+- [Q008012](../berichte/Q00/Q0080/Q008012/README.de.md) Introducing study mode in ChatGPT
+- [Q007202](../berichte/Q00/Q0072/Q007202/README.de.md) Intercom's three lessons for creating a sustainable AI advantage
+- [Q007222](../berichte/Q00/Q0072/Q007222/README.de.md) Introducing Stargate Norway
+- [Q007298](../berichte/Q00/Q0072/Q007298/README.de.md) How Figma integrates AI to transform design and empower creatives
+- [Q008749](../berichte/Q00/Q0087/Q008749/README.de.md) What we’re optimizing ChatGPT for
+- [Q001927](../berichte/Q00/Q0019/Q001927/README.de.md) Estimating worst case frontier risks of open weight LLMs
+- [Q007308](../berichte/Q00/Q0073/Q007308/README.de.md) Introducing gpt-oss
+- [Q007679](../berichte/Q00/Q0076/Q007679/README.de.md) gpt-oss-120b & gpt-oss-20b Model Card
+- [Q007945](../berichte/Q00/Q0079/Q007945/README.de.md) Open weights and AI for all
+- [Q008878](../berichte/Q00/Q0088/Q008878/README.de.md) Providing ChatGPT to the entire U.S. federal workforce
+- [Q001802](../berichte/Q00/Q0018/Q001802/README.de.md) GPT-5 System Card
+- [Q007113](../berichte/Q00/Q0071/Q007113/README.de.md) Medical research with GPT-5
+- [Q007159](../berichte/Q00/Q0071/Q007159/README.de.md) From hard refusals to safe-completions: toward output-centric safety training
+- [Q007191](../berichte/Q00/Q0071/Q007191/README.de.md) Introducing GPT-5
+- [Q007212](../berichte/Q00/Q0072/Q007212/README.de.md) Introducing GPT-5 for developers
+- [Q007651](../berichte/Q00/Q0076/Q007651/README.de.md) GPT-5 and the new era of work
+- [Q007382](../berichte/Q00/Q0073/Q007382/README.de.md) Basis scales accounting by turning OpenAI model progress into trusted agents
+- [Q009200](../berichte/Q00/Q0092/Q009200/README.de.md) OpenAI’s letter to Governor Newsom on harmonized regulation
+- [Q008802](../berichte/Q00/Q0088/Q008802/README.de.md) How DoorDash is scaling AI to empower employees to build, learn, and innovate faster
+- [Q007338](../berichte/Q00/Q0073/Q007338/README.de.md) MIXI reimagines communication with ChatGPT
+- [Q006524](../berichte/Q00/Q0065/Q006524/README.de.md) Blue J’s approach for scaling fast in complex, regulated domains
+- [Q008790](../berichte/Q00/Q0087/Q008790/README.de.md) Accelerating life sciences research
+- [Q008978](../berichte/Q00/Q0089/Q008978/README.de.md) Introducing the OpenAI Learning Accelerator in India
+- [Q007591](../berichte/Q00/Q0075/Q007591/README.de.md) Helping people when they need it most
+- [Q008613](../berichte/Q00/Q0086/Q008613/README.de.md) Collective alignment: public input on our Model Spec
+- [Q004779](../berichte/Q00/Q0047/Q004779/README.de.md) Introducing gpt-realtime and Realtime API updates for production voice agents
+- [Q009230](../berichte/Q00/Q0092/Q009230/README.de.md) Supporting nonprofit and community innovation
+- [Q008167](../berichte/Q00/Q0081/Q008167/README.de.md) Building more helpful ChatGPT experiences for everyone
+- [Q009246](../berichte/Q00/Q0092/Q009246/README.de.md) Vijaye Raji to become CTO of Applications with acquisition of Statsig
+- [Q007617](../berichte/Q00/Q0076/Q007617/README.de.md) Expanding economic opportunity with AI
+- [Q007111](../berichte/Q00/Q0071/Q007111/README.de.md) OpenAI and Greek Government launch ‘OpenAI for Greece’
+- [Q007175](../berichte/Q00/Q0071/Q007175/README.de.md) Why language models hallucinate
+- [Q005893](../berichte/Q00/Q0058/Q005893/README.de.md) A People-First AI Fund: $50M to support nonprofits
+- [Q002607](../berichte/Q00/Q0026/Q002607/README.de.md) SafetyKit scales risk agents with OpenAI’s most capable models
+- [Q006301](../berichte/Q00/Q0063/Q006301/README.de.md) Statement on OpenAI’s Nonprofit and PBC
+- [Q007098](../berichte/Q00/Q0070/Q007098/README.de.md) A joint statement from OpenAI and Microsoft
+- [Q007644](../berichte/Q00/Q0076/Q007644/README.de.md) Working with US CAISI and UK AISI to build more secure AI systems
+- [Q000996](../berichte/Q00/Q0009/Q000996/README.de.md) Addendum to GPT-5 system card: GPT-5-Codex
+- [Q001833](../berichte/Q00/Q0018/Q001833/README.de.md) Addendum to GPT-5 system card: GPT-5-Codex
+- [Q006797](../berichte/Q00/Q0067/Q006797/README.de.md) Introducing upgrades to Codex
+- [Q007252](../berichte/Q00/Q0072/Q007252/README.de.md) How people are using ChatGPT
+- [Q001524](../berichte/Q00/Q0015/Q001524/README.de.md) Teen safety, freedom, and privacy
+- [Q007291](../berichte/Q00/Q0072/Q007291/README.de.md) Introducing Stargate UK
+- [Q008372](../berichte/Q00/Q0083/Q008372/README.de.md) Building towards age prediction
+- [Q007661](../berichte/Q00/Q0076/Q007661/README.de.md) Detecting and reducing scheming in AI models
+- [Q003471](../berichte/Q00/Q0034/Q003471/README.de.md) SchoolAI builds an AI platform that empowers teachers
+- [Q006217](../berichte/Q00/Q0062/Q006217/README.de.md) OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems
+- [Q007508](../berichte/Q00/Q0075/Q007508/README.de.md) CNA is transforming its newsroom with AI
+- [Q006577](../berichte/Q00/Q0065/Q006577/README.de.md) OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites
+- [Q003002](../berichte/Q00/Q0030/Q003002/README.de.md) SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’
+- [Q003869](../berichte/Q00/Q0038/Q003869/README.de.md) ENEOS Materials brings ChatGPT Enterprise to manufacturing
+- [Q005486](../berichte/Q00/Q0054/Q005486/README.de.md) Introducing ChatGPT Pulse
+- [Q006943](../berichte/Q00/Q0069/Q006943/README.de.md) Measuring the performance of our models on real-world tasks
+- [Q008555](../berichte/Q00/Q0085/Q008555/README.de.md) More ways to work with your team and tools in ChatGPT
+- [Q009279](../berichte/Q00/Q0092/Q009279/README.de.md) Partnering with AARP to help keep older adults safe online
+- [Q003669](../berichte/Q00/Q0036/Q003669/README.de.md) Turning contracts into searchable data at OpenAI
+- [Q006103](../berichte/Q00/Q0061/Q006103/README.de.md) Empowering teams to unlock insights faster at OpenAI
+- [Q006313](../berichte/Q00/Q0063/Q006313/README.de.md) How OpenAI Built an AI Sales Assistant for Its GTM Team
+- [Q006353](../berichte/Q00/Q0063/Q006353/README.de.md) How OpenAI Uses AI to Convert Inbound Sales Leads
+- [Q006714](../berichte/Q00/Q0067/Q006714/README.de.md) Improving support with every interaction at OpenAI
+- [Q006843](../berichte/Q00/Q0068/Q006843/README.de.md) Introducing parental controls
+- [Q007008](../berichte/Q00/Q0070/Q007008/README.de.md) Building OpenAI with OpenAI
+- [Q008015](../berichte/Q00/Q0080/Q008015/README.de.md) Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol
+- [Q009192](../berichte/Q00/Q0091/Q009192/README.de.md) Combating online child sexual exploitation & abuse
+- [Q001012](../berichte/Q00/Q0010/Q001012/README.de.md) Sora 2 System Card
+- [Q001655](../berichte/Q00/Q0016/Q001655/README.de.md) Sora 2 System Card
+- [Q006651](../berichte/Q00/Q0066/Q006651/README.de.md) Sora 2 is here
+- [Q008561](../berichte/Q00/Q0085/Q008561/README.de.md) Launching Sora responsibly
+- [Q001202](../berichte/Q00/Q0012/Q001202/README.de.md) PRC-linked abuse: Surveillance and influence activity
+- [Q001462](../berichte/Q00/Q0014/Q001462/README.de.md) Cyber Operation: Korean-language malware support
+- [Q002244](../berichte/Q00/Q0022/Q002244/README.de.md) Operation “Stop News”: Recidivist influence activity
+- [Q002553](../berichte/Q00/Q0025/Q002553/README.de.md) Operation “Nine–emdash Line”: Regional influence activity
+- [Q002583](../berichte/Q00/Q0025/Q002583/README.de.md) Cyber Operation: Phishing and scripting support
+- [Q007347](../berichte/Q00/Q0073/Q007347/README.de.md) Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure
+- [Q007375](../berichte/Q00/Q0073/Q007375/README.de.md) Scam operations: Online fraud networks
+- [Q007377](../berichte/Q00/Q0073/Q007377/README.de.md) Cyber Operation: Russian-speaking malware tooling
+- [Q005765](../berichte/Q00/Q0057/Q005765/README.de.md) With GPT-5, Wrtn builds lifestyle AI for millions in Korea
+- [Q007288](../berichte/Q00/Q0072/Q007288/README.de.md) OpenAI announces strategic collaboration with Japan’s Digital Agency
+- [Q005470](../berichte/Q00/Q0054/Q005470/README.de.md) Introducing AgentKit, new Evals, and RFT for agents
+- [Q006093](../berichte/Q00/Q0060/Q006093/README.de.md) Codex is now generally available
+- [Q006908](../berichte/Q00/Q0069/Q006908/README.de.md) Introducing apps in ChatGPT and the new Apps SDK
+- [Q007925](../berichte/Q00/Q0079/Q007925/README.de.md) Accelerating AI adoption in Europe
+- [Q009282](../berichte/Q00/Q0092/Q009282/README.de.md) AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs
+- [Q001406](../berichte/Q00/Q0014/Q001406/README.de.md) Disrupting malicious uses of AI: October 2025
+- [Q004864](../berichte/Q00/Q0048/Q004864/README.de.md) HiBob turns 2,500 GPTs into product and team growth
+- [Q008664](../berichte/Q00/Q0086/Q008664/README.de.md) Defining and evaluating political bias in LLMs
+- [Q005853](../berichte/Q00/Q0058/Q005853/README.de.md) HYGH speeds development and campaigns with ChatGPT Business
+- [Q006375](../berichte/Q00/Q0063/Q006375/README.de.md) OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators
+- [Q002883](../berichte/Q00/Q0028/Q002883/README.de.md) Argentina’s AI opportunity
+- [Q007688](../berichte/Q00/Q0076/Q007688/README.de.md) Expert Council on Well-Being and AI
+- [Q003881](../berichte/Q00/Q0038/Q003881/README.de.md) Plex Coffee delivers fast, personal service with ChatGPT
+- [Q003329](../berichte/Q00/Q0033/Q003329/README.de.md) Introducing ChatGPT Atlas
+- [Q008044](../berichte/Q00/Q0080/Q008044/README.de.md) Continuing your ChatGPT experience beyond WhatsApp
+- [Q007462](../berichte/Q00/Q0074/Q007462/README.de.md) AI in Japan—OpenAI’s Japan Economic Blueprint
+- [Q007964](../berichte/Q00/Q0079/Q007964/README.de.md) The next chapter for UK sovereign AI
+- [Q003691](../berichte/Q00/Q0036/Q003691/README.de.md) AI in South Korea—OpenAI’s Economic Blueprint
+- [Q005788](../berichte/Q00/Q0057/Q005788/README.de.md) Work smarter with your company knowledge in ChatGPT
+- [Q006494](../berichte/Q00/Q0064/Q006494/README.de.md) Consensus accelerates research with GPT-5 and Responses API
+- [Q009203](../berichte/Q00/Q0092/Q009203/README.de.md) OpenAI acquires Software Applications Incorporated, maker of Sky
+- [Q001005](../berichte/Q00/Q0010/Q001005/README.de.md) Addendum to GPT-5 System Card: Sensitive Conversations
+- [Q001867](../berichte/Q00/Q0018/Q001867/README.de.md) Addendum to GPT-5 System Card: Sensitive conversations
+- [Q004631](../berichte/Q00/Q0046/Q004631/README.de.md) Steuerrecht.com delivers client-ready legal analysis with ChatGPT
+- [Q007682](../berichte/Q00/Q0076/Q007682/README.de.md) Strengthening ChatGPT’s responses in sensitive conversations
+- [Q009264](../berichte/Q00/Q0092/Q009264/README.de.md) Seizing the AI opportunity
+- [Q003708](../berichte/Q00/Q0037/Q003708/README.de.md) The Next Chapter of the Microsoft–OpenAI Partnership
+- [Q003803](../berichte/Q00/Q0038/Q003803/README.de.md) Doppel’s AI defense system stops attacks before they spread
+- [Q004686](../berichte/Q00/Q0046/Q004686/README.de.md) Advancing organizational transformation for business innovation
+- [Q008018](../berichte/Q00/Q0080/Q008018/README.de.md) Built to Benefit Everyone: OpenAI’s Updated Structure
+- [Q001988](../berichte/Q00/Q0019/Q001988/README.de.md) Introducing gpt-oss-safeguard
+- [Q002011](../berichte/Q00/Q0020/Q002011/README.de.md) gpt-oss-safeguard technical report
+- [Q007142](../berichte/Q00/Q0071/Q007142/README.de.md) Introducing Aardvark: OpenAI’s agentic security researcher
+- [Q008174](../berichte/Q00/Q0081/Q008174/README.de.md) How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas
+- [Q008934](../berichte/Q00/Q0089/Q008934/README.de.md) Expanding Stargate to Michigan
+- [Q006560](../berichte/Q00/Q0065/Q006560/README.de.md) Introducing IndQA
+- [Q008396](../berichte/Q00/Q0083/Q008396/README.de.md) AWS and OpenAI announce multi-year strategic partnership
+- [Q007909](../berichte/Q00/Q0079/Q007909/README.de.md) Brazil’s AI moment is here
+- [Q004436](../berichte/Q00/Q0044/Q004436/README.de.md) How Chime is redefining marketing through AI
+- [Q004438](../berichte/Q00/Q0044/Q004438/README.de.md) How CRED is tapping AI to deliver premium customer experiences
+- [Q008570](../berichte/Q00/Q0085/Q008570/README.de.md) 1 million business customers: the fastest-growing business platform in history
+- [Q002191](../berichte/Q00/Q0021/Q002191/README.de.md) Introducing the Teen Safety Blueprint
+- [Q004443](../berichte/Q00/Q0044/Q004443/README.de.md) How BBVA is scaling AI from pilot to practice across the org
+- [Q007608](../berichte/Q00/Q0076/Q007608/README.de.md) AI progress and recommendations
+- [Q007667](../berichte/Q00/Q0076/Q007667/README.de.md) Understanding prompt injections: a frontier security challenge
+- [Q008029](../berichte/Q00/Q0080/Q008029/README.de.md) Free ChatGPT for transitioning U.S. servicemembers and veterans
+- [Q000900](../berichte/Q00/Q0009/Q000900/README.de.md) GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum
+- [Q001609](../berichte/Q00/Q0016/Q001609/README.de.md) GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum
+- [Q005604](../berichte/Q00/Q0056/Q005604/README.de.md) Neuro drives national retail wins with ChatGPT Business
+- [Q006336](../berichte/Q00/Q0063/Q006336/README.de.md) GPT-5.1: A smarter, more conversational ChatGPT
+- [Q007691](../berichte/Q00/Q0076/Q007691/README.de.md) Fighting the New York Times’ invasion of user privacy
+- [Q004770](../berichte/Q00/Q0047/Q004770/README.de.md) How Philips is scaling AI literacy across 70,000 employees
+- [Q007491](../berichte/Q00/Q0074/Q007491/README.de.md) Understanding neural networks through sparse circuits
+- [Q007638](../berichte/Q00/Q0076/Q007638/README.de.md) Introducing GPT-5.1 for developers
+- [Q008798](../berichte/Q00/Q0087/Q008798/README.de.md) Introducing group chats in ChatGPT
+- [Q008886](../berichte/Q00/Q0088/Q008886/README.de.md) Introducing OpenAI for Ireland
+- [Q007664](../berichte/Q00/Q0076/Q007664/README.de.md) OpenAI named Emerging Leader in 2025 Gartner Innovation Guide
+- [Q000927](../berichte/Q00/Q0009/Q000927/README.de.md) GPT-5.1-Codex-Max System Card
+- [Q007054](../berichte/Q00/Q0070/Q007054/README.de.md) Intuit and OpenAI join forces on new AI-powered experiences
+- [Q001618](../berichte/Q00/Q0016/Q001618/README.de.md) GPT-5.1-Codex-Max System Card
+- [Q002137](../berichte/Q00/Q0021/Q002137/README.de.md) Strengthening our safety ecosystem with external testing
+- [Q004390](../berichte/Q00/Q0043/Q004390/README.de.md) How Scania accelerates work with AI across its global workforce
+- [Q006968](../berichte/Q00/Q0069/Q006968/README.de.md) Building more with GPT-5.1-Codex-Max
+- [Q007588](../berichte/Q00/Q0075/Q007588/README.de.md) How evals drive the next chapter in AI for businesses
+- [Q008024](../berichte/Q00/Q0080/Q008024/README.de.md) A free version of ChatGPT built for teachers
+- [Q008881](../berichte/Q00/Q0088/Q008881/README.de.md) OpenAI and Target launch the Target app in ChatGPT
+- [Q002963](../berichte/Q00/Q0029/Q002963/README.de.md) Early experiments in accelerating science with GPT-5
+- [Q005202](../berichte/Q00/Q0052/Q005202/README.de.md) OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain
+- [Q005902](../berichte/Q00/Q0059/Q005902/README.de.md) Helping 1,000 small businesses build with AI
+- [Q008021](../berichte/Q00/Q0080/Q008021/README.de.md) Introducing shopping research in ChatGPT
+- [Q008867](../berichte/Q00/Q0088/Q008867/README.de.md) How GPT-5 helped mathematician Ernest Ryu solve a 40-year-old open problem
+- [Q004545](../berichte/Q00/Q0045/Q004545/README.de.md) Inside JetBrains—the company reshaping how the world writes code
+- [Q007553](../berichte/Q00/Q0075/Q007553/README.de.md) Expanding data residency access to business customers worldwide
+- [Q009286](../berichte/Q00/Q0092/Q009286/README.de.md) Our approach to mental health-related litigation
+- [Q001682](../berichte/Q00/Q0016/Q001682/README.de.md) What to know about a recent Mixpanel security incident
+- [Q003082](../berichte/Q00/Q0030/Q003082/README.de.md) Accenture and OpenAI accelerate enterprise AI success
+- [Q004467](../berichte/Q00/Q0044/Q004467/README.de.md) OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption
+- [Q006125](../berichte/Q00/Q0061/Q006125/README.de.md) Inside Mirakl’s agent commerce vision
+- [Q006839](../berichte/Q00/Q0068/Q006839/README.de.md) OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”
+- [Q007892](../berichte/Q00/Q0078/Q007892/README.de.md) Funding grants for new research into AI and mental health
+- [Q006758](../berichte/Q00/Q0067/Q006758/README.de.md) Announcing the initial People-First AI Fund grantees
+- [Q007469](../berichte/Q00/Q0074/Q007469/README.de.md) How confessions can keep language models honest
+- [Q009172](../berichte/Q00/Q0091/Q009172/README.de.md) OpenAI to acquire Neptune
+- [Q005267](../berichte/Q00/Q0052/Q005267/README.de.md) Introducing OpenAI for Australia
+- [Q005745](../berichte/Q00/Q0057/Q005745/README.de.md) How Virgin Atlantic uses AI to enhance every step of travel
+- [Q006888](../berichte/Q00/Q0068/Q006888/README.de.md) Instacart and OpenAI partner on AI shopping experiences
+- [Q007545](../berichte/Q00/Q0075/Q007545/README.de.md) The state of enterprise AI
+- [Q005648](../berichte/Q00/Q0056/Q005648/README.de.md) Commonwealth Bank of Australia builds AI fluency at scale
+- [Q007257](../berichte/Q00/Q0072/Q007257/README.de.md) Bringing powerful AI to millions across Europe with Deutsche Telekom
+- [Q007535](../berichte/Q00/Q0075/Q007535/README.de.md) How Scout24 is building the next generation of real-estate search with AI
+- [Q007915](../berichte/Q00/Q0079/Q007915/README.de.md) OpenAI co-founds Agentic AI Foundation, donates AGENTS.md
+- [Q008275](../berichte/Q00/Q0082/Q008275/README.de.md) OpenAI appoints Denise Dresser as Chief Revenue Officer
+- [Q008795](../berichte/Q00/Q0087/Q008795/README.de.md) Launching our first OpenAI Certifications courses
+- [Q001425](../berichte/Q00/Q0014/Q001425/README.de.md) Strengthening cyber resilience as AI capabilities advance
+- [Q000960](../berichte/Q00/Q0009/Q000960/README.de.md) Update to GPT-5 System Card: GPT-5.2
+- [Q001818](../berichte/Q00/Q0018/Q001818/README.de.md) Update to GPT-5 System Card: GPT-5.2
+- [Q003394](../berichte/Q00/Q0033/Q003394/README.de.md) The Walt Disney Company and OpenAI reach landmark agreement to  bring beloved characters from across Disney’s brands to Sora
+- [Q006111](../berichte/Q00/Q0061/Q006111/README.de.md) How Podium is arming 10,000+ SMBs with AI agents
+- [Q006555](../berichte/Q00/Q0065/Q006555/README.de.md) Ten years
+- [Q006999](../berichte/Q00/Q0069/Q006999/README.de.md) Advancing science and math with GPT-5.2
+- [Q007130](../berichte/Q00/Q0071/Q007130/README.de.md) Introducing GPT-5.2
+- [Q003448](../berichte/Q00/Q0034/Q003448/README.de.md) BBVA and OpenAI collaborate to transform global banking
+- [Q004798](../berichte/Q00/Q0047/Q004798/README.de.md) BNY builds “AI for everyone, everywhere” with OpenAI
+- [Q006752](../berichte/Q00/Q0067/Q006752/README.de.md) How We Used Codex to Ship Sora for Android in 28 Days
+- [Q001727](../berichte/Q00/Q0017/Q001727/README.de.md) Evaluating AI’s ability to perform scientific research tasks
+- [Q001789](../berichte/Q00/Q0017/Q001789/README.de.md) Measuring AI’s capability to accelerate biological research in the wet lab
+- [Q004810](../berichte/Q00/Q0048/Q004810/README.de.md) The new ChatGPT Images is here
+- [Q007611](../berichte/Q00/Q0076/Q007611/README.de.md) Developers can now submit apps to ChatGPT
+- [Q007624](../berichte/Q00/Q0076/Q007624/README.de.md) Introducing OpenAI Academy for News Organizations
+- [Q000780](../berichte/Q00/Q0007/Q000780/README.de.md) Sidestepping Evaluation Awareness and Anticipating Misalignment with\n      Production Evaluations
+- [Q000982](../berichte/Q00/Q0009/Q000982/README.de.md) Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+- [Q001560](../berichte/Q00/Q0015/Q001560/README.de.md) Updating our Model Spec with teen protections
+- [Q001744](../berichte/Q00/Q0017/Q001744/README.de.md) Evaluating chain-of-thought monitorability
+- [Q002823](../berichte/Q00/Q0028/Q002823/README.de.md) Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+- [Q005961](../berichte/Q00/Q0059/Q005961/README.de.md) Introducing GPT-5.2-Codex
+- [Q006946](../berichte/Q00/Q0069/Q006946/README.de.md) Deepening our collaboration with the U.S. Department of Energy
+- [Q007576](../berichte/Q00/Q0075/Q007576/README.de.md) AI literacy resources for teens and parents
+- [Q007568](../berichte/Q00/Q0075/Q007568/README.de.md) Continuously hardening ChatGPT Atlas against prompt injection
+- [Q007889](../berichte/Q00/Q0078/Q007889/README.de.md) One in a million: celebrating the customers shaping AI’s future
+- [Q009308](../berichte/Q00/Q0093/Q009308/README.de.md) Terms of Use
+- [Q007878](../berichte/Q00/Q0078/Q007878/README.de.md) Apply to OpenAI Grove
+- [Q003820](../berichte/Q00/Q0038/Q003820/README.de.md) How Tolan builds voice-first AI with GPT-5.1
+- [Q006140](../berichte/Q00/Q0061/Q006140/README.de.md) Introducing ChatGPT Health
+- [Q005611](../berichte/Q00/Q0056/Q005611/README.de.md) OpenAI for Healthcare
+- [Q006384](../berichte/Q00/Q0063/Q006384/README.de.md) Netomi’s lessons for scaling agentic systems into the enterprise
+- [Q005859](../berichte/Q00/Q0058/Q005859/README.de.md) Datadog uses Codex for system-level code review
+- [Q007102](../berichte/Q00/Q0071/Q007102/README.de.md) OpenAI and SoftBank Group partner with SB Energy
+- [Q001434](../berichte/Q00/Q0014/Q001434/README.de.md) OpenAI’s Raising Concerns Policy
+- [Q006087](../berichte/Q00/Q0060/Q006087/README.de.md) Zenken boosts a lean sales team with ChatGPT Enterprise
+- [Q006932](../berichte/Q00/Q0069/Q006932/README.de.md) OpenAI partners with Cerebras
+- [Q007440](../berichte/Q00/Q0074/Q007440/README.de.md) Strengthening the US AI supply chain through domestic manufacturing
+- [Q007917](../berichte/Q00/Q0079/Q007917/README.de.md) Investing in Merge Labs
+- [Q005162](../berichte/Q00/Q0051/Q005162/README.de.md) Our approach to advertising and expanding access to ChatGPT
+- [Q007564](../berichte/Q00/Q0075/Q007564/README.de.md) Introducing ChatGPT Go, now available worldwide
+- [Q008945](../berichte/Q00/Q0089/Q008945/README.de.md) The truth left out from Elon Musk’s recent court filing
+- [Q007975](../berichte/Q00/Q0079/Q007975/README.de.md) A business that scales with the value of intelligence
+- [Q008699](../berichte/Q00/Q0086/Q008699/README.de.md) AI for self empowerment
+- [Q005533](../berichte/Q00/Q0055/Q005533/README.de.md) ServiceNow powers actionable enterprise AI with OpenAI
+- [Q006077](../berichte/Q00/Q0060/Q006077/README.de.md) Rolling out age prediction
+- [Q006308](../berichte/Q00/Q0063/Q006308/README.de.md) Stargate Community
+- [Q007953](../berichte/Q00/Q0079/Q007953/README.de.md) Horizon 1000: Advancing AI for primary healthcare
+- [Q003716](../berichte/Q00/Q0037/Q003716/README.de.md) How countries can end the capability overhang
+- [Q004235](../berichte/Q00/Q0042/Q004235/README.de.md) How Higgsfield turns simple ideas into cinematic social videos
+- [Q007948](../berichte/Q00/Q0079/Q007948/README.de.md) Introducing OpenAI’s Education for Countries
+- [Q003285](../berichte/Q00/Q0032/Q003285/README.de.md) Inside Praktika's conversational approach to language learning
+- [Q008040](../berichte/Q00/Q0080/Q008040/README.de.md) Scaling PostgreSQL to power 800 million ChatGPT users
+- [Q005588](../berichte/Q00/Q0055/Q005588/README.de.md) Unrolling the Codex agent loop
+- [Q005699](../berichte/Q00/Q0056/Q005699/README.de.md) How Indeed uses AI to help evolve the job search
+- [Q003956](../berichte/Q00/Q0039/Q003956/README.de.md) Introducing Prism
+- [Q004002](../berichte/Q00/Q0040/Q004002/README.de.md) TRUSTBANK uses AI agents to personalize Furusato Nozei gifts
+- [Q007437](../berichte/Q00/Q0074/Q007437/README.de.md) PVH reimagines the future of fashion with OpenAI
+- [Q005809](../berichte/Q00/Q0058/Q005809/README.de.md) The next chapter for AI in the EU
+- [Q007932](../berichte/Q00/Q0079/Q007932/README.de.md) EMEA Youth & Wellbeing Grant
+- [Q004762](../berichte/Q00/Q0047/Q004762/README.de.md) Taisei Corporation shapes the next generation of talent with AI
+- [Q008121](../berichte/Q00/Q0081/Q008121/README.de.md) Inside OpenAI’s in-house data agent
+- [Q009276](../berichte/Q00/Q0092/Q009276/README.de.md) Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT
+- [Q001210](../berichte/Q00/Q0012/Q001210/README.de.md) Operation “Fish Food”: Russia-origin content farm activity
+- [Q002274](../berichte/Q00/Q0022/Q002274/README.de.md) Silver lining playbook: Likely China-origin activity targeting US persons
+- [Q002730](../berichte/Q00/Q0027/Q002730/README.de.md) Operation “Trolling Stone”: Russia-linked influence activity
+- [Q002761](../berichte/Q00/Q0027/Q002761/README.de.md) Operation “No Bell”: Coordinated criticism of the US and allies
+- [Q007367](../berichte/Q00/Q0073/Q007367/README.de.md) Operation “Date Bait”: AI-enabled scam targeting loveseekers
+- [Q007369](../berichte/Q00/Q0073/Q007369/README.de.md) Romance scam: AI-enabled romance scam workflows
+- [Q007372](../berichte/Q00/Q0073/Q007372/README.de.md) Operation “False Witness”: Fake recovery service impersonating authorities
+- [Q006516](../berichte/Q00/Q0065/Q006516/README.de.md) Snowflake and OpenAI partner to bring frontier intelligence to enterprise data
+- [Q006863](../berichte/Q00/Q0068/Q006863/README.de.md) Introducing the Codex app
+- [Q006291](../berichte/Q00/Q0062/Q006291/README.de.md) The Sora feed philosophy
+- [Q007078](../berichte/Q00/Q0070/Q007078/README.de.md) Unlocking the Codex harness: how we built the App Server
+- [Q001696](../berichte/Q00/Q0016/Q001696/README.de.md) Introducing Trusted Access for Cyber
+- [Q001824](../berichte/Q00/Q0018/Q001824/README.de.md) GPT-5.3-Codex System Card
+- [Q002000](../berichte/Q00/Q0020/Q002000/README.de.md) Introducing OpenAI Frontier
+- [Q004937](../berichte/Q00/Q0049/Q004937/README.de.md) Introducing GPT-5.3-Codex
+- [Q006879](../berichte/Q00/Q0068/Q006879/README.de.md) Navigating health questions with ChatGPT
+- [Q007240](../berichte/Q00/Q0072/Q007240/README.de.md) GPT-5 lowers the cost of cell-free protein synthesis
+- [Q007715](../berichte/Q00/Q0077/Q007715/README.de.md) Making AI work for everyone, everywhere: our approach to localization
+- [Q007937](../berichte/Q00/Q0079/Q007937/README.de.md) Bringing ChatGPT to GenAI.mil
+- [Q006874](../berichte/Q00/Q0068/Q006874/README.de.md) Harness engineering: leveraging Codex in an agent-first world
+- [Q007331](../berichte/Q00/Q0073/Q007331/README.de.md) Introducing GPT-5.3-Codex-Spark
+- [Q002027](../berichte/Q00/Q0020/Q002027/README.de.md) Introducing Lockdown Mode and Elevated Risk labels in ChatGPT
+- [Q007086](../berichte/Q00/Q0070/Q007086/README.de.md) Beyond rate limits: scaling access to Codex and Sora
+- [Q007452](../berichte/Q00/Q0074/Q007452/README.de.md) Scaling social science research
+- [Q007475](../berichte/Q00/Q0074/Q007475/README.de.md) GPT-5.2 derives a new result in theoretical physics
+- [Q007446](../berichte/Q00/Q0074/Q007446/README.de.md) Introducing EVMbench
+- [Q007956](../berichte/Q00/Q0079/Q007956/README.de.md) Introducing OpenAI for India
+- [Q007464](../berichte/Q00/Q0074/Q007464/README.de.md) Advancing independent research on AI alignment
+- [Q007148](../berichte/Q00/Q0071/Q007148/README.de.md) OpenAI Research
+- [Q007434](../berichte/Q00/Q0074/Q007434/README.de.md) Our First Proof submissions
+- [Q001600](../berichte/Q00/Q0016/Q001600/README.de.md) Why we no longer evaluate SWE-bench Verified
+- [Q002936](../berichte/Q00/Q0029/Q002936/README.de.md) OpenAI announces Frontier Alliance Partners
+- [Q007748](../berichte/Q00/Q0077/Q007748/README.de.md) Arvind KC appointed Chief People Officer
+- [Q007028](../berichte/Q00/Q0070/Q007028/README.de.md) OpenAI partners with Pacific Northwest National Laboratory
+- [Q007301](../berichte/Q00/Q0073/Q007301/README.de.md) OpenAI Codex and Figma launch seamless code-to-design experience
+- [Q005739](../berichte/Q00/Q0057/Q005739/README.de.md) Scaling AI for everyone
+- [Q006015](../berichte/Q00/Q0060/Q006015/README.de.md) An update on our mental health-related work
+- [Q006802](../berichte/Q00/Q0068/Q006802/README.de.md) Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock
+- [Q007116](../berichte/Q00/Q0071/Q007116/README.de.md) OpenAI and Amazon announce strategic partnership
+- [Q008131](../berichte/Q00/Q0081/Q008131/README.de.md) Joint Statement from OpenAI and Microsoft
+- [Q008109](../berichte/Q00/Q0081/Q008109/README.de.md) Our agreement with the Department of War
+- [Q007279](../berichte/Q00/Q0072/Q007279/README.de.md) GPT-5.3 Instant: Smoother, more useful everyday conversations
+- [Q009205](../berichte/Q00/Q0092/Q009205/README.de.md) GPT-5.3 Instant System Card
+- [Q004419](../berichte/Q00/Q0044/Q004419/README.de.md) Extending single-minus amplitudes to gravitons
+- [Q006159](../berichte/Q00/Q0061/Q006159/README.de.md) Understanding AI and learning outcomes
+- [Q007583](../berichte/Q00/Q0075/Q007583/README.de.md) How Axios uses AI to help deliver high-impact local journalism
+- [Q002632](../berichte/Q00/Q0026/Q002632/README.de.md) Introducing ChatGPT for Excel and new financial data integrations
+- [Q006025](../berichte/Q00/Q0060/Q006025/README.de.md) VfL Wolfsburg turns ChatGPT into a club-wide capability
+- [Q006431](../berichte/Q00/Q0064/Q006431/README.de.md) Introducing GPT-5.4
+- [Q007450](../berichte/Q00/Q0074/Q007450/README.de.md) Reasoning models struggle to control their chains of thought, and that’s good
+- [Q007696](../berichte/Q00/Q0076/Q007696/README.de.md) The five AI value models driving business reinvention
+- [Q007912](../berichte/Q00/Q0079/Q007912/README.de.md) Ensuring AI use in education leads to opportunity
+- [Q007972](../berichte/Q00/Q0079/Q007972/README.de.md) Introducing the Adoption news channel
+- [Q009288](../berichte/Q00/Q0092/Q009288/README.de.md) GPT-5.4 Thinking System Card
+- [Q001629](../berichte/Q00/Q0016/Q001629/README.de.md) Codex Security: now in research preview
+- [Q003599](../berichte/Q00/Q0035/Q003599/README.de.md) How Balyasny Asset Management built an AI research engine
+- [Q006438](../berichte/Q00/Q0064/Q006438/README.de.md) How Descript engineers multilingual video dubbing at scale
+- [Q007994](../berichte/Q00/Q0079/Q007994/README.de.md) An open-source spec for Codex orchestration: Symphony.
+- [Q006737](../berichte/Q00/Q0067/Q006737/README.de.md) OpenAI to acquire Promptfoo
+- [Q005510](../berichte/Q00/Q0055/Q005510/README.de.md) New ways to learn math and science in ChatGPT
+- [Q007484](../berichte/Q00/Q0074/Q007484/README.de.md) Improving instruction hierarchy in frontier LLMs
+- [Q004222](../berichte/Q00/Q0042/Q004222/README.de.md) Rakuten fixes issues twice as fast with Codex
+- [Q007733](../berichte/Q00/Q0077/Q007733/README.de.md) Designing AI agents to resist prompt injection
+- [Q007989](../berichte/Q00/Q0079/Q007989/README.de.md) From model to agent: Equipping the Responses API with a computer environment
+- [Q000769](../berichte/Q00/Q0007/Q000769/README.de.md) Metagaming matters for training, evaluation, and oversight
+- [Q001578](../berichte/Q00/Q0015/Q001578/README.de.md) Why Codex Security doesn’t start with a SAST report
+- [Q004754](../berichte/Q00/Q0047/Q004754/README.de.md) Introducing GPT-5.4 mini and nano
+- [Q007541](../berichte/Q00/Q0075/Q007541/README.de.md) Equipping workers with insights about compensation
+- [Q008558](../berichte/Q00/Q0085/Q008558/README.de.md) OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
+- [Q007138](../berichte/Q00/Q0071/Q007138/README.de.md) OpenAI to acquire Astral
+- [Q007899](../berichte/Q00/Q0078/Q007899/README.de.md) Creating with Sora safely
+- [Q002843](../berichte/Q00/Q0028/Q002843/README.de.md) Helping developers build safer AI experiences for teens
+- [Q005434](../berichte/Q00/Q0054/Q005434/README.de.md) Powering Product Discovery in ChatGPT
+- [Q005618](../berichte/Q00/Q0056/Q005618/README.de.md) Update on the OpenAI Foundation
+- [Q001671](../berichte/Q00/Q0016/Q001671/README.de.md) Introducing the OpenAI Safety Bug Bounty program
+- [Q001880](../berichte/Q00/Q0018/Q001880/README.de.md) Inside our approach to the Model Spec
+- [Q003714](../berichte/Q00/Q0037/Q003714/README.de.md) STADLER reshapes knowledge work at a 230-year-old company
+- [Q007921](../berichte/Q00/Q0079/Q007921/README.de.md) Helping disaster response teams turn AI into action across Asia
+- [Q008088](../berichte/Q00/Q0080/Q008088/README.de.md) Accelerating the next phase of AI
+- [Q003181](../berichte/Q00/Q0031/Q003181/README.de.md) Gradient Labs gives every bank customer an AI account manager
+- [Q005415](../berichte/Q00/Q0054/Q005415/README.de.md) OpenAI acquires TBPN
+- [Q006811](../berichte/Q00/Q0068/Q006811/README.de.md) Codex now offers pay-as-you-go pricing for teams
+- [Q002162](../berichte/Q00/Q0021/Q002162/README.de.md) Introducing the Child Safety Blueprint
+- [Q008853](../berichte/Q00/Q0088/Q008853/README.de.md) The next phase of enterprise AI
+- [Q007094](../berichte/Q00/Q0070/Q007094/README.de.md) CyberAgent moves faster with ChatGPT Enterprise and Codex
+- [Q007745](../berichte/Q00/Q0077/Q007745/README.de.md) Our response to the Axios developer tool compromise
+- [Q005527](../berichte/Q00/Q0055/Q005527/README.de.md) Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI
+- [Q001651](../berichte/Q00/Q0016/Q001651/README.de.md) Trusted access for the next era of cyber defense
+- [Q006955](../berichte/Q00/Q0069/Q006955/README.de.md) The next evolution of the Agents SDK
+- [Q001634](../berichte/Q00/Q0016/Q001634/README.de.md) Accelerating the cyber defense ecosystem that protects us all
+- [Q005984](../berichte/Q00/Q0059/Q005984/README.de.md) Codex for (almost) everything
+- [Q007304](../berichte/Q00/Q0073/Q007304/README.de.md) Introducing GPT-Rosalind for life sciences research
+- [Q009211](../berichte/Q00/Q0092/Q009211/README.de.md) OpenAI helps Hyatt advance AI among colleagues
+- [Q003748](../berichte/Q00/Q0037/Q003748/README.de.md) Scaling Codex to enterprises worldwide
+- [Q006791](../berichte/Q00/Q0067/Q006791/README.de.md) Introducing ChatGPT Images 2.0
+- [Q006238](../berichte/Q00/Q0062/Q006238/README.de.md) Introducing OpenAI Privacy Filter
+- [Q006323](../berichte/Q00/Q0063/Q006323/README.de.md) Making ChatGPT free for clinicians
+- [Q006707](../berichte/Q00/Q0067/Q006707/README.de.md) Introducing workspace agents in ChatGPT
+- [Q006972](../berichte/Q00/Q0069/Q006972/README.de.md) Speeding up agentic workflows with WebSockets in the Responses API
+- [Q001812](../berichte/Q00/Q0018/Q001812/README.de.md) GPT-5.5 System Card
+- [Q007022](../berichte/Q00/Q0070/Q007022/README.de.md) Introducing GPT-5.5
+- [Q004670](../berichte/Q00/Q0046/Q004670/README.de.md) Modeling an AI jobs transition
+- [Q004787](../berichte/Q00/Q0047/Q004787/README.de.md) Our principles
+- [Q004647](../berichte/Q00/Q0046/Q004647/README.de.md) The next phase of the Microsoft OpenAI partnership
+- [Q005943](../berichte/Q00/Q0059/Q005943/README.de.md) OpenAI available at FedRAMP Moderate
+- [Q006938](../berichte/Q00/Q0069/Q006938/README.de.md) Choco automates food distribution with AI agents
+- [Q003700](../berichte/Q00/Q0037/Q003700/README.de.md) OpenAI models, Codex, and Managed Agents come to AWS
+- [Q008793](../berichte/Q00/Q0087/Q008793/README.de.md) Our commitment to community safety
+- [Q001270](../berichte/Q00/Q0012/Q001270/README.de.md) Cybersecurity in the Intelligence Age
+- [Q005975](../berichte/Q00/Q0059/Q005975/README.de.md) Where the goblins came from
+- [Q009187](../berichte/Q00/Q0091/Q009187/README.de.md) Building the compute infrastructure for the Intelligence Age
+- [Q001690](../berichte/Q00/Q0016/Q001690/README.de.md) Introducing Advanced Account Security
+- [Q006847](../berichte/Q00/Q0068/Q006847/README.de.md) OpenAI and PwC collaborate to reimagine the office of the CFO
+- [Q008406](../berichte/Q00/Q0084/Q008406/README.de.md) How OpenAI delivers low-latency voice AI at scale
+- [Q001260](../berichte/Q00/Q0012/Q001260/README.de.md) Advancing youth safety and wellbeing in EMEA
+- [Q003301](../berichte/Q00/Q0033/Q003301/README.de.md) GPT-5.5 Instant: smarter, clearer, and more personalized
+- [Q007896](../berichte/Q00/Q0078/Q007896/README.de.md) Supercomputer networking to accelerate large scale AI training
+- [Q009177](../berichte/Q00/Q0091/Q009177/README.de.md) GPT-5.5 Instant System Card
+- [Q009195](../berichte/Q00/Q0091/Q009195/README.de.md) New ways to buy ChatGPT ads
+- [Q003746](../berichte/Q00/Q0037/Q003746/README.de.md) Singular Bank helps bankers move fast with ChatGPT and Codex
+- [Q003834](../berichte/Q00/Q0038/Q003834/README.de.md) Uber uses OpenAI to help people earn smarter and book faster
+- [Q008565](../berichte/Q00/Q0085/Q008565/README.de.md) How ChatGPT learns about the world while protecting privacy
+- [Q008998](../berichte/Q00/Q0089/Q008998/README.de.md) Introducing ChatGPT Futures Class of 2026
+- [Q001761](../berichte/Q00/Q0017/Q001761/README.de.md) Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
+- [Q003211](../berichte/Q00/Q0032/Q003211/README.de.md) Parloa builds service agents customers want to talk to
+- [Q005991](../berichte/Q00/Q0059/Q005991/README.de.md) Simplex rethinks software development with Codex
+- [Q006045](../berichte/Q00/Q0060/Q006045/README.de.md) Introducing Trusted Contact in ChatGPT
+- [Q007319](../berichte/Q00/Q0073/Q007319/README.de.md) Advancing voice intelligence with new models in the API
+- [Q007254](../berichte/Q00/Q0072/Q007254/README.de.md) Running Codex safely at OpenAI
+- [Q009182](../berichte/Q00/Q0091/Q009182/README.de.md) OpenAI launches DeployCo to help businesses build around intelligence
+- [Q001571](../berichte/Q00/Q0015/Q001571/README.de.md) The Hugging Face incident and the road ahead
+- [Q004077](../berichte/Q00/Q0040/Q004077/README.de.md) What Parameter Golf taught us about AI-assisted research
+- [Q005307](../berichte/Q00/Q0053/Q005307/README.de.md) How NVIDIA engineers and researchers build with Codex
+- [Q007342](../berichte/Q00/Q0073/Q007342/README.de.md) AutoScout24 scales engineering with AI-powered workflows
+- [Q005914](../berichte/Q00/Q0059/Q005914/README.de.md) Building a safe, effective sandbox to enable Codex on Windows
+- [Q006284](../berichte/Q00/Q0062/Q006284/README.de.md) Our response to the TanStack npm supply chain attack
+- [Q006168](../berichte/Q00/Q0061/Q006168/README.de.md) Work with Codex from anywhere
+- [Q006415](../berichte/Q00/Q0064/Q006415/README.de.md) Sea's View on the Future of Agentic Software Development with Codex
+- [Q009190](../berichte/Q00/Q0091/Q009190/README.de.md) Helping ChatGPT better recognize context in sensitive conversations
+- [Q005112](../berichte/Q00/Q0051/Q005112/README.de.md) ChatGPT for personal finance and budgeting
+- [Q005479](../berichte/Q00/Q0054/Q005479/README.de.md) Databricks brings GPT-5.5 to enterprise agent workflows
+- [Q005032](../berichte/Q00/Q0050/Q005032/README.de.md) OpenAI and Malta partner to bring ChatGPT Plus to all citizens
+- [Q005732](../berichte/Q00/Q0057/Q005732/README.de.md) OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments
+- [Q007043](../berichte/Q00/Q0070/Q007043/README.de.md) Introducing OpenAI for Singapore
+- [Q007902](../berichte/Q00/Q0079/Q007902/README.de.md) Advancing content provenance for a safer, more transparent AI ecosystem
+- [Q004507](../berichte/Q00/Q0045/Q004507/README.de.md) How Ramp engineers accelerate code review with Codex
+- [Q007182](../berichte/Q00/Q0071/Q007182/README.de.md) The next phase of OpenAI’s Education for Countries
+- [Q007234](../berichte/Q00/Q0072/Q007234/README.de.md) OpenAI Research
+- [Q007472](../berichte/Q00/Q0074/Q007472/README.de.md) An OpenAI model has disproved a central conjecture in discrete geometry
+- [Q003728](../berichte/Q00/Q0037/Q003728/README.de.md) AdventHealth advances whole-person care with OpenAI
+- [Q004593](../berichte/Q00/Q0045/Q004593/README.de.md) How Virgin Atlantic ships faster with Codex
+- [Q006035](../berichte/Q00/Q0060/Q006035/README.de.md) OpenAI named a leader in enterprise coding agents by Gartner
+- [Q006359](../berichte/Q00/Q0063/Q006359/README.de.md) AI is becoming a first hire for small businesses
+- [Q007418](../berichte/Q00/Q0074/Q007418/README.de.md) OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
+- [Q002699](../berichte/Q00/Q0026/Q002699/README.de.md) Election information and safeguards in 2026
+- [Q004513](../berichte/Q00/Q0045/Q004513/README.de.md) Cisco and OpenAI redefine enterprise engineering with Codex
+- [Q005242](../berichte/Q00/Q0052/Q005242/README.de.md) Warp’s big bet on building open source with GPT-5.5
+- [Q006858](../berichte/Q00/Q0068/Q006858/README.de.md) Building self-improving tax agents with Codex
+- [Q002330](../berichte/Q00/Q0023/Q002330/README.de.md) OpenAI’s Frontier Governance Framework
+- [Q003577](../berichte/Q00/Q0035/Q003577/README.de.md) How Endava builds an agentic organization with Codex
+- [Q002048](../berichte/Q00/Q0020/Q002048/README.de.md) Strengthening societal resilience with Rosalind Biodefense
+- [Q003485](../berichte/Q00/Q0034/Q003485/README.de.md) Boston Children’s uses AI to unlock new diagnoses
+- [Q005797](../berichte/Q00/Q0057/Q005797/README.de.md) How Braintrust turns customer requests into code with Codex
+- [Q001227](../berichte/Q00/Q0012/Q001227/README.de.md) “Data Center Bandwagon” Campaign: US-targeted influence activity
+- [Q002037](../berichte/Q00/Q0020/Q002037/README.de.md) OpenAI frontier models and Codex are now available on AWS
+- [Q002126](../berichte/Q00/Q0021/Q002126/README.de.md) “Tech and Tariffs” Campaign: Influence activity targeting US tech policy
+- [Q002875](../berichte/Q00/Q0028/Q002875/README.de.md) Our views on AI policy and political advocacy
+- [Q007322](../berichte/Q00/Q0073/Q007322/README.de.md) Building the infrastructure for the Intelligence Age in Michigan
+- [Q001234](../berichte/Q00/Q0012/Q001234/README.de.md) Advancing youth safety and opportunity through global leadership
+- [Q005026](../berichte/Q00/Q0050/Q005026/README.de.md) Travelers deploys AI-powered claims countrywide with OpenAI
+- [Q006295](../berichte/Q00/Q0062/Q006295/README.de.md) Codex is becoming a productivity tool for everyone
+- [Q006582](../berichte/Q00/Q0065/Q006582/README.de.md) Codex for every role, tool, and workflow
+- [Q001844](../berichte/Q00/Q0018/Q001844/README.de.md) OpenAI public policy agenda
+- [Q002661](../berichte/Q00/Q0026/Q002661/README.de.md) A blueprint for democratic governance of frontier AI
+- [Q007295](../berichte/Q00/Q0072/Q007295/README.de.md) Introducing GPT-Rosalind-5.5
+- [Q002410](../berichte/Q00/Q0024/Q002410/README.de.md) How Endava is redesigning software delivery around AI agents
+- [Q006245](../berichte/Q00/Q0062/Q006245/README.de.md) Dreaming: Better memory for a more helpful ChatGPT
+- [Q008670](../berichte/Q00/Q0086/Q008670/README.de.md) Biodefense in the Intelligence Age
+- [Q004029](../berichte/Q00/Q0040/Q004029/README.de.md) Introducing the OpenAI Economic Research Exchange
+- [Q005124](../berichte/Q00/Q0051/Q005124/README.de.md) Confidential submission of draft S-1 to the SEC
+- [Q008394](../berichte/Q00/Q0083/Q008394/README.de.md) Built to benefit everyone: our plan
+- [Q008750](../berichte/Q00/Q0087/Q008750/README.de.md) Request for Proposals: OpenAI Economic Research Exchange
+- [Q001341](../berichte/Q00/Q0013/Q001341/README.de.md) Industrial policy for the intelligence age
+- [Q004504](../berichte/Q00/Q0045/Q004504/README.de.md) How engineers at Nextdoor use Codex to build without limits
+- [Q005276](../berichte/Q00/Q0052/Q005276/README.de.md) What Codex unlocks for Notion
+- [Q006117](../berichte/Q00/Q0061/Q006117/README.de.md) Access OpenAI models and Codex through your Oracle cloud commitment
+- [Q006266](../berichte/Q00/Q0062/Q006266/README.de.md) From data to decisions: how LSEG is scaling trusted AI
+- [Q008047](../berichte/Q00/Q0080/Q008047/README.de.md) PRC-linked influence operations are targeting AI debates in the US
+- [Q004402](../berichte/Q00/Q0044/Q004402/README.de.md) BBVA puts AI at the core of banking with OpenAI
+- [Q006592](../berichte/Q00/Q0065/Q006592/README.de.md) OpenAI to acquire Ona
+- [Q007229](../berichte/Q00/Q0072/Q007229/README.de.md) Supporting Europe’s work in ensuring a trustworthy AI ecosystem
+- [Q007978](../berichte/Q00/Q0079/Q007978/README.de.md) How an astrophysicist uses Codex to help simulate black holes
+- [Q003696](../berichte/Q00/Q0036/Q003696/README.de.md) How Preply combines AI and human tutors to personalize learning
+- [Q008950](../berichte/Q00/Q0089/Q008950/README.de.md) New OpenAI Academy courses for the next era of work
+- [Q005522](../berichte/Q00/Q0055/Q005522/README.de.md) Introducing the OpenAI Partner Network
+- [Q007443](../berichte/Q00/Q0074/Q007443/README.de.md) Predicting model behavior before release by simulating deployment
+- [Q001021](../berichte/Q00/Q0010/Q001021/README.de.md) A near-autonomous AI chemist improves a challenging reaction
+- [Q007562](../berichte/Q00/Q0075/Q007562/README.de.md) Introducing LifeSciBench
+- [Q007707](../berichte/Q00/Q0077/Q007707/README.de.md) Improving health intelligence in ChatGPT
+- [Q007981](../berichte/Q00/Q0079/Q007981/README.de.md) Using AI to help physicians diagnose rare genetic diseases affecting children
+- [Q008710](../berichte/Q00/Q0087/Q008710/README.de.md) New usage analytics and updated spend controls for enterprises
+- [Q006509](../berichte/Q00/Q0065/Q006509/README.de.md) Samsung Electronics brings ChatGPT and Codex to employees
+- [Q007704](../berichte/Q00/Q0077/Q007704/README.de.md) Codex-maxxing for long-running work
+- [Q007743](../berichte/Q00/Q0077/Q007743/README.de.md) Daybreak: Tools for securing every organization in the world
+- [Q008135](../berichte/Q00/Q0081/Q008135/README.de.md) Patch the Planet: a Daybreak initiative to support open source maintainers
+- [Q005248](../berichte/Q00/Q0052/Q005248/README.de.md) How Omio is building the future of conversational travel
+- [Q005626](../berichte/Q00/Q0056/Q005626/README.de.md) How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+- [Q007935](../berichte/Q00/Q0079/Q007935/README.de.md) Helping build shared standards for advanced AI
+- [Q006368](../berichte/Q00/Q0063/Q006368/README.de.md) OpenAI and Broadcom unveil LLM-optimized inference chip
+- [Q005096](../berichte/Q00/Q0050/Q005096/README.de.md) How agents are transforming work
+- [Q004428](../berichte/Q00/Q0044/Q004428/README.de.md) Previewing GPT-5.6 Sol: a next-generation model
+- [Q002858](../berichte/Q00/Q0028/Q002858/README.de.md) HP Inc. launches Frontier strategic partnership with OpenAI
+- [Q006055](../berichte/Q00/Q0060/Q006055/README.de.md) Mapping Europe’s AI Workforce Opportunity
+- [Q007460](../berichte/Q00/Q0074/Q007460/README.de.md) Introducing GeneBench-Pro
+- [Q007538](../berichte/Q00/Q0075/Q007538/README.de.md) How ChatGPT adoption has expanded
+- [Q008095](../berichte/Q00/Q0080/Q008095/README.de.md) Core dump epidemiology: fixing an 18-year-old bug
+- [Q008714](../berichte/Q00/Q0087/Q008714/README.de.md) Inside Genebench-Pro
+- [Q000327](../berichte/Q00/Q0003/Q000327/README.de.md) Trying to prompt-inject the grader in filenames
+- [Q003517](../berichte/Q00/Q0035/Q003517/README.de.md) MUFG aims to become AI-native with OpenAI
+- [Q004701](../berichte/Q00/Q0047/Q004701/README.de.md) Australian Payments Plus moves faster with ChatGPT and Codex
+- [Q001892](../berichte/Q00/Q0018/Q001892/README.de.md) Separating signal from noise in coding evaluations
+- [Q002783](../berichte/Q00/Q0027/Q002783/README.de.md) Our approach to government and national security partnerships
+- [Q002943](../berichte/Q00/Q0029/Q002943/README.de.md) Helping K–12 educators build practical AI skills
+- [Q006071](../berichte/Q00/Q0060/Q006071/README.de.md) Introducing GPT-Live
+- [Q002253](../berichte/Q00/Q0022/Q002253/README.de.md) OpenAI Bio Bug Bounty
+- [Q006613](../berichte/Q00/Q0066/Q006613/README.de.md) GPT-5.6: Frontier intelligence that scales with your ambition
+- [Q006962](../berichte/Q00/Q0069/Q006962/README.de.md) ChatGPT is now a partner for your most ambitious work
+- [Q008026](../berichte/Q00/Q0080/Q008026/README.de.md) GPT-5.6 is now the preferred model in Microsoft 365 Copilot
+- [Q004877](../berichte/Q00/Q0048/Q004877/README.de.md) How Deutsche Telekom is rewiring telecommunications with AI
+- [Q007456](../berichte/Q00/Q0074/Q007456/README.de.md) How to manage AI investments in the agentic era
+- [Q001250](../berichte/Q00/Q0012/Q001250/README.de.md) The US is advancing AI safety through state and federal action
+- [Q006453](../berichte/Q00/Q0064/Q006453/README.de.md) GPT-Red: Unlocking Self-Improvement for Robustness
+- [Q004839](../berichte/Q00/Q0048/Q004839/README.de.md) How Codex became a collaborator for OpenAI’s creative team
+- [Q005378](../berichte/Q00/Q0053/Q005378/README.de.md) How Cars24 scales conversations and builds faster with OpenAI
+- [Q005562](../berichte/Q00/Q0055/Q005562/README.de.md) Why teens deserve access to safe AI
+- [Q006348](../berichte/Q00/Q0063/Q006348/README.de.md) A scorecard for the AI age
+- [Q000337](../berichte/Q00/Q0003/Q000337/README.de.md) Using peers’ work to gain unauthorized access to OpenAI research infrastructure
+- [Q001661](../berichte/Q00/Q0016/Q001661/README.de.md) Safety and alignment in an era of long-horizon models
+- [Q001622](../berichte/Q00/Q0016/Q001622/README.de.md) OpenAI and Hugging Face partner to address security incident during model evaluation
+- [Q007426](../berichte/Q00/Q0074/Q007426/README.de.md) Introducing the ChatGPT for small business program
+- [Q007729](../berichte/Q00/Q0077/Q007729/README.de.md) David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC
+- [Q004736](../berichte/Q00/Q0047/Q004736/README.de.md) Introducing OpenAI Presence
+- [Q004945](../berichte/Q00/Q0049/Q004945/README.de.md) NTT DATA Group cuts incident analysis to 30 minutes with Codex
+- [Q007927](../berichte/Q00/Q0079/Q007927/README.de.md) How news organizations are using AI to advance their vital missions
+- [Q007940](../berichte/Q00/Q0079/Q007940/README.de.md) Advancing the next era of national science
+- [Q007958](../berichte/Q00/Q0079/Q007958/README.de.md) Building AI infrastructure with the Effingham County community
+- [Q007628](../berichte/Q00/Q0076/Q007628/README.de.md) Launching Health in ChatGPT
+- [Q004896](../berichte/Q00/Q0048/Q004896/README.de.md) How AI is expanding what people do at work
+- [Q007422](../berichte/Q00/Q0074/Q007422/README.de.md) Scientific computing in the age of agentic AI
+- [Q001504](../berichte/Q00/Q0015/Q001504/README.de.md) How GPT-5.6 fuses frontier intelligence with frontier efficiency
+- [Q004539](../berichte/Q00/Q0045/Q004539/README.de.md) Accelerating scientific discovery with ChatGPT for Academic Researchers
+- [Q007673](../berichte/Q00/Q0076/Q007673/README.de.md) How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
+- [Q001279](../berichte/Q00/Q0012/Q001279/README.de.md) Advancing the price-performance frontier with GPT-5.6
+- [Q004570](../berichte/Q00/Q0045/Q004570/README.de.md) How avatarin built a 24/7 retail agent with GPT-Realtime
+- [Q002298](../berichte/Q00/Q0022/Q002298/README.de.md) Disrupting a Cambodia-based criminal scam operation
+- [Q003660](../berichte/Q00/Q0036/Q003660/README.de.md) Univé builds an AI-ready workforce
+- [Q003874](../berichte/Q00/Q0038/Q003874/README.de.md) Building abundant intelligence
+- [Q007950](../berichte/Q00/Q0079/Q007950/README.de.md) Advancing responsible AI across Europe
+- [Q006638](../berichte/Q00/Q0066/Q006638/README.de.md) Ten advances in mathematics and theoretical computer science
+- [Q003072](../berichte/Q00/Q0030/Q003072/README.de.md) Apple is getting this wrong
+- [Q004017](../berichte/Q00/Q0040/Q004017/README.de.md) Circles powers telco personalization with OpenAI technology
+- [Q007992](../berichte/Q00/Q0079/Q007992/README.de.md) How we built a realtime system for responsive voice AI in six months
+- [Q000352](../berichte/Q00/Q0003/Q000352/README.de.md) Bypassing network restrictions during a coding evaluation
+- [Q001774](../berichte/Q00/Q0017/Q001774/README.de.md) Third-party cyber evaluations involving OpenAI models
+- [Q005360](../berichte/Q00/Q0053/Q005360/README.de.md) New ways to learn and teach with ChatGPT Work and Codex
+- [Q005456](../berichte/Q00/Q0054/Q005456/README.de.md) Working with the American Psychological Association on youth mental health and AI
+- [Q007516](../berichte/Q00/Q0075/Q007516/README.de.md) From asking to doing: How the world is putting ChatGPT to work
+- [Q007872](../berichte/Q00/Q0078/Q007872/README.de.md) Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
+- [Q001765](../berichte/Q00/Q0017/Q001765/README.de.md) Responding to the next frontier of critical cyber capabilities
+- [Q005151](../berichte/Q00/Q0051/Q005151/README.de.md) How HSP GRUPPE builds AI capabilities for tax advisory
+- [Q001516](../berichte/Q00/Q0015/Q001516/README.de.md) Putting frontier cyber models in more trusted hands
+- [Q001711](../berichte/Q00/Q0017/Q001711/README.de.md) Expanding Daybreak as the Cyber Defense Window Narrows
+- [Q004455](../berichte/Q00/Q0044/Q004455/README.de.md) How Zapier transformed core marketing processes with ChatGPT Work
+- [Q004521](../berichte/Q00/Q0045/Q004521/README.de.md) Virgin Atlantic sharpens customer journeys with ChatGPT Work
+- [Q005838](../berichte/Q00/Q0058/Q005838/README.de.md) Premium seats are coming to ChatGPT Business
+- [Q006661](../berichte/Q00/Q0066/Q006661/README.de.md) Model ML completes finance work more efficiently with GPT-5.6 Sol
+- [Q007522](../berichte/Q00/Q0075/Q007522/README.de.md) OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+- [Q008387](../berichte/Q00/Q0083/Q008387/README.de.md) What building an AI-native finance function taught me
+- [Q004370](../berichte/Q00/Q0043/Q004370/README.de.md) Testing ads in ChatGPT
+- [Q008222](../berichte/Q00/Q0082/Q008222/README.de.md) Daybreak models are now available on AWS
+- [Q004142](../berichte/Q00/Q0041/Q004142/README.de.md) How RingCentral builds AI-native work from engineering to ops
+- [Q004822](../berichte/Q00/Q0048/Q004822/README.de.md) From assistance to execution: How enterprises put AI to work
+- [Q007524](../berichte/Q00/Q0075/Q007524/README.de.md) How frontier firms are pulling ahead
+- [Q007152](../berichte/Q00/Q0071/Q007152/README.de.md) Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
+- [Q007700](../berichte/Q00/Q0077/Q007700/README.de.md) The builder’s guide to GPT‑5.6
+- [Q007739](../berichte/Q00/Q0077/Q007739/README.de.md) OpenAI appoints Dali Rajic as Chief Revenue Officer
+- [Q002716](../berichte/Q00/Q0027/Q002716/README.de.md) New policy ideas for the Intelligence Age
+- [Q005822](../berichte/Q00/Q0058/Q005822/README.de.md) OpenAI joins PORTS-Pike project
+- [Q006549](../berichte/Q00/Q0065/Q006549/README.de.md) The Defender’s Window
+- [Q001548](../berichte/Q00/Q0015/Q001548/README.de.md) Pacing model development in an era of cyber-critical capabilities
+- [Q002676](../berichte/Q00/Q0026/Q002676/README.de.md) Strengthening democratic oversight in national security
+- [Q003018](../berichte/Q00/Q0030/Q003018/README.de.md) Partnering with CodeAI to prepare the first AI generation
+- [Q003898](../berichte/Q00/Q0038/Q003898/README.de.md) Asana completed a years-long code migration in 2 weeks with Codex
+- [Q004620](../berichte/Q00/Q0046/Q004620/README.de.md) How NVIDIA scales expertise with ChatGPT Work
+- [Q007858](../berichte/Q00/Q0078/Q007858/README.de.md) Introducing ChatGPT for Teens: Built for learning, backed by protections
+- [Q008382](../berichte/Q00/Q0083/Q008382/README.de.md) ChatGPT Ads expands across Europe
+- [Q001538](../berichte/Q00/Q0015/Q001538/README.de.md) Offering Zero Data Retention for frontier models
+- [Q004725](../berichte/Q00/Q0047/Q004725/README.de.md) Replit expands access to software creation with GPT-5.6 Luna
+- [Q005408](../berichte/Q00/Q0054/Q005408/README.de.md) Stampli cuts launch hours by 68% using ChatGPT Work
+- [Q008126](../berichte/Q00/Q0081/Q008126/README.de.md) Introducing Intelligence Age
+- [Q007195](../berichte/Q00/Q0071/Q007195/README.de.md) Advancing price-performance for developers with GPT‑5.6 in Kiro
+- [Q002203](../berichte/Q00/Q0022/Q002203/README.de.md) Disrupting a new covert influence campaign from Russia
+- [Q005672](../berichte/Q00/Q0056/Q005672/README.de.md) Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+- [Q006744](../berichte/Q00/Q0067/Q006744/README.de.md) The full stack behind abundant intelligence
+- [Q007530](../berichte/Q00/Q0075/Q007530/README.de.md) Introducing the Admin plugin for ChatGPT Work and Codex
+- [Q004249](../berichte/Q00/Q0042/Q004249/README.de.md) Learning never stops: How AI makes learning continuous
+- [Q004954](../berichte/Q00/Q0049/Q004954/README.de.md) How loveholidays is making everyone a builder with Codex
+- [Q008706](../berichte/Q00/Q0087/Q008706/README.de.md) Bringing ChatGPT for Teachers to more U.S. school districts
+- [Q003848](../berichte/Q00/Q0038/Q003848/README.de.md) Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+- [Q004185](../berichte/Q00/Q0041/Q004185/README.de.md) Expanding OpenAI’s presence in Brazil
+- [Q003811](../berichte/Q00/Q0038/Q003811/README.de.md) Supporting Thailand’s next generation of AI startups
+- [Q008736](../berichte/Q00/Q0087/Q008736/README.de.md) Our decision on Cursor following its acquisition by SpaceX
+- [Q001555](../berichte/Q00/Q0015/Q001555/README.de.md) OpenAI supports California’s bill to advance youth AI safety
+- [Q004272](../berichte/Q00/Q0042/Q004272/README.de.md) A milestone in expanding access to AI
+- [Q005541](../berichte/Q00/Q0055/Q005541/README.de.md) Polimill builds Japan's next-generation public AI infrastructure
+- [Q003894](../berichte/Q00/Q0038/Q003894/README.de.md) How law firm Gilbert + Tobin governs and scales AI with OpenAI
+- [Q005727](../berichte/Q00/Q0057/Q005727/README.de.md) How AI-native companies turn workflows into operating capability
+- [Q007551](../berichte/Q00/Q0075/Q007551/README.de.md) Path to Astra: critical capabilities and frontier safeguards
+- [Q007719](../berichte/Q00/Q0077/Q007719/README.de.md) Healthcare organizations can now connect EHR and additional industry data to ChatGPT
+- [Q003127](../berichte/Q00/Q0031/Q003127/README.de.md) ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- [Q002089](../berichte/Q00/Q0020/Q002089/README.de.md) Safety overview: GPT-6 Astra
+- [Q005801](../berichte/Q00/Q0058/Q005801/README.de.md) Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+- [Q005886](../berichte/Q00/Q0058/Q005886/README.de.md) Legora reviewed 41 documents in minutes with GPT-6 Astra
+- [Q007736](../berichte/Q00/Q0077/Q007736/README.de.md) Daybreak for Frontline Defenders: $1B to protect essential services
+- [Q007478](../berichte/Q00/Q0074/Q007478/README.de.md) An Alien Mind
+- [Q007497](../berichte/Q00/Q0074/Q007497/README.de.md) Research acceleration: The view inside OpenAI
+- [Q007050](../berichte/Q00/Q0070/Q007050/README.de.md) Supporting independent journalism in Ukraine
+- [Q004049](../berichte/Q00/Q0040/Q004049/README.de.md) 1Password increases engineering productivity 21% with Codex
+- [Q004975](../berichte/Q00/Q0049/Q004975/README.de.md) OpenAI expands initiatives to support journalism from classrooms to newsrooms
+- [Q005318](../berichte/Q00/Q0053/Q005318/README.de.md) The Work Now Within Reach
+- [Q006900](../berichte/Q00/Q0069/Q006900/README.de.md) How GPT-5.6 Sol helps run quantum computing experiments
+- [Q007429](../berichte/Q00/Q0074/Q007429/README.de.md) Funding grants for new research into AI and teen development
+- [Q007631](../berichte/Q00/Q0076/Q007631/README.de.md) On the Navier–Stokes Millennium Prize Problem
+- [Q007726](../berichte/Q00/Q0077/Q007726/README.de.md) Introducing ChatGPT Images 2.5
+- [Q005950](../berichte/Q00/Q0059/Q005950/README.de.md) Paul Christiano joins OpenAI Foundation Board
+- [Q003386](../berichte/Q00/Q0033/Q003386/README.de.md) Now everyone can put data to work
+- [Q005045](../berichte/Q00/Q0050/Q005045/README.de.md) Expanding AI access and cyber defense for federal, state, local, and tribal governments
+- [Q005576](../berichte/Q00/Q0055/Q005576/README.de.md) Introducing ChatGPT for Financial Services
+- [Q006209](../berichte/Q00/Q0062/Q006209/README.de.md) Introducing the Agents API
+- [Q006546](../berichte/Q00/Q0065/Q006546/README.de.md) Build more natural voice experiences with GPT‑Live‑1 in the API
+- [Q007066](../berichte/Q00/Q0070/Q007066/README.de.md) How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+- [Q004359](../berichte/Q00/Q0043/Q004359/README.de.md) Rapidly scaling online storage to serve over 1 billion ChatGPT users
+- [Q004601](../berichte/Q00/Q0046/Q004601/README.de.md) Cognition helps Devin test its own work with GPT‑6 Astra
+- [Q005012](../berichte/Q00/Q0050/Q005012/README.de.md) Perplexity trusts GPT-6 Astra with end-to-end systems
+- [Q005348](../berichte/Q00/Q0053/Q005348/README.de.md) How Fyxer built an AI executive assistant people trust
+- [Q003264](../berichte/Q00/Q0032/Q003264/README.de.md) How to connect AI usage to business value
+- [Q003429](../berichte/Q00/Q0034/Q003429/README.de.md) How workers are unlocking new ways of working
+- [Q004052](../berichte/Q00/Q0040/Q004052/README.de.md) Hex turns complex analysis into visual reports with GPT‑6 Astra
+- [Q006260](../berichte/Q00/Q0062/Q006260/README.de.md) Helping older adults use AI in everyday life
+- [Q006505](../berichte/Q00/Q0065/Q006505/README.de.md) Reimagining advertising with AI
+- [Q006388](../berichte/Q00/Q0063/Q006388/README.de.md) How Cooley is accelerating IPO work with ChatGPT
+- [Q006903](../berichte/Q00/Q0069/Q006903/README.de.md) Introducing Astra for Law
+- [Q003378](../berichte/Q00/Q0033/Q003378/README.de.md) V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna
+- [Q003652](../berichte/Q00/Q0036/Q003652/README.de.md) Higgsfield AI ships new video features in a day with GPT-6 Astra
+- [Q004712](../berichte/Q00/Q0047/Q004712/README.de.md) Building standards for the next phase of AI
+- [Q005750](../berichte/Q00/Q0057/Q005750/README.de.md) Expanding OpenAI Academy with new learning paths
+- [Q008124](../berichte/Q00/Q0081/Q008124/README.de.md) Advisory Group on Mathematics and Artificial Intelligence
+- [Q005813](../berichte/Q00/Q0058/Q005813/README.de.md) Parallel cut research time and cost in half with GPT‑6 Astra
+- [Q006220](../berichte/Q00/Q0062/Q006220/README.de.md) Priorities and principles for effective third party assessments
+- [Q006740](../berichte/Q00/Q0067/Q006740/README.de.md) Better prompt caching for GPT-6
+- [Q003236](../berichte/Q00/Q0032/Q003236/README.de.md) Introducing MentalHealthBench
+- [Q003768](../berichte/Q00/Q0037/Q003768/README.de.md) How invideo improves color grading 3x with GPT‑6 Astra
+- [Q004659](../berichte/Q00/Q0046/Q004659/README.de.md) Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+- [Q005290](../berichte/Q00/Q0052/Q005290/README.de.md) Airbnb widens access to GPT-6 Astra and OpenAI frontier models
+- [Q005425](../berichte/Q00/Q0054/Q005425/README.de.md) Two years of OpenAI Academy
+- [Q006445](../berichte/Q00/Q0064/Q006445/README.de.md) Grab and OpenAI bring practical AI skills to Southeast Asia
+- [Q006476](../berichte/Q00/Q0064/Q006476/README.de.md) Harvey turns legal context into stronger drafts with GPT-6 Astra
+- [Q008739](../berichte/Q00/Q0087/Q008739/README.de.md) ChatGPT Ads expands to Southeast Asia and Taiwan
+- [Q005256](../berichte/Q00/Q0052/Q005256/README.de.md) Proaction boosts sales 60% and saves 75+ hours with Codex
+- [Q006747](../berichte/Q00/Q0067/Q006747/README.de.md) Wayfair boosts catalog accuracy and support speed with OpenAI
+- [Q007216](../berichte/Q00/Q0072/Q007216/README.de.md) Lowe’s answers millions of home improvement questions with OpenAI
+- [Q003855](../berichte/Q00/Q0038/Q003855/README.de.md) Basis completes a tax workbook 2x faster with GPT-6 Astra
+- [Q004923](../berichte/Q00/Q0049/Q004923/README.de.md) How we will do better for Australia
+- [Q004990](../berichte/Q00/Q0049/Q004990/README.de.md) The Lenfest Institute grows landmark program with expanded OpenAI support
+- [Q000065](../berichte/Q00/Q0000/Q000065/README.de.md) Addendum to GPT-6 Astra System Card: GPT-6.1 Sol
+- [Q003539](../berichte/Q00/Q0035/Q003539/README.de.md) GPT-6 Astra: A new generation of intelligence
+- [Q006189](../berichte/Q00/Q0061/Q006189/README.de.md) DevDay 2026 Recap
+- [Q006230](../berichte/Q00/Q0062/Q006230/README.de.md) Introducing dots
+- [Q001590](../berichte/Q00/Q0015/Q001590/README.de.md) Disrupting a coordinated model-distillation campaign
+- [Q004831](../berichte/Q00/Q0048/Q004831/README.de.md) Helping small businesses put AI to work
+- [Q003762](../berichte/Q00/Q0037/Q003762/README.de.md) The Den frees up 10-15 hours a week to grow with ChatGPT Work
+- [Q004126](../berichte/Q00/Q0041/Q004126/README.de.md) How Albertsons Companies is reimagining retail from the inside out
+- [Q003925](../berichte/Q00/Q0039/Q003925/README.de.md) Chatham scales its capital markets expertise with OpenAI
+- [Q005550](../berichte/Q00/Q0055/Q005550/README.de.md) A model guide for the GPT-6 family
+- [Q000153](../berichte/Q00/Q0001/Q000153/README.de.md) Suppressing misalignment monitoring alerts and disabling misalignment monitoring
+- [Q006514](../berichte/Q00/Q0065/Q006514/README.de.md) Building advertising for the way people use AI
+- [Q007906](../berichte/Q00/Q0079/Q007906/README.de.md) Our approach to EU text provenance rules
+- [Q004316](../berichte/Q00/Q0043/Q004316/README.de.md) How Jump Trading is scaling quant research with ChatGPT
+- [Q004695](../berichte/Q00/Q0046/Q004695/README.de.md) Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+- [Q007597](../berichte/Q00/Q0075/Q007597/README.de.md) Sharing AI progress in mathematics
+- [Q007685](../berichte/Q00/Q0076/Q007685/README.de.md) Advancing computer use with Ironclad
+- [Q000082](../berichte/Q00/Q0000/Q000082/README.de.md) GPT-6 Sol and GPT-6 Luna: October 2026 update
+- [Q000318](../berichte/Q00/Q0003/Q000318/README.de.md) Covert underperformance on safety research tasks
+- [Q004350](../berichte/Q00/Q0043/Q004350/README.de.md) GPT-6 and Intelligent UI for everyone
+- [Q004889](../berichte/Q00/Q0048/Q004889/README.de.md) Radisson Hotel Group brings hotel discovery into ChatGPT
+- [Q008702](../berichte/Q00/Q0087/Q008702/README.de.md) Helping teens learn, plan, and shape the future of AI
+- [Q000333](../berichte/Q00/Q0003/Q000333/README.de.md) Stopping a running alignment evaluation
+- [Q000345](../berichte/Q00/Q0003/Q000345/README.de.md) Misalignment Reports and Notices
+- [Q003908](../berichte/Q00/Q0039/Q003908/README.de.md) LegalOn halves Codex costs while maintaining development speed
+- [Q004434](../berichte/Q00/Q0044/Q004434/README.de.md) How Oracle turns days of work into minutes with ChatGPT and Codex
+- [Q006470](../berichte/Q00/Q0064/Q006470/README.de.md) Pollo AI turns creative ideas into campaigns with OpenAI
+- [Q004195](../berichte/Q00/Q0041/Q004195/README.de.md) Sophos cuts threat investigation time by 96% with OpenAI Daybreak
+- [Q005075](../berichte/Q00/Q0050/Q005075/README.de.md) Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
+- [Q004172](../berichte/Q00/Q0041/Q004172/README.de.md) Higgsfield takes AI video from 1 minute to over 10
+- [Q002404](../berichte/Q00/Q0024/Q002404/README.de.md) How Block is building AI-powered security with OpenAI technology
+- [Q003195](../berichte/Q00/Q0031/Q003195/README.de.md) How Third Moment Research runs 10,000 agents for 36+ hours
+- [Q003337](../berichte/Q00/Q0033/Q003337/README.de.md) Amp puts AI agents to work beyond code with OpenAI models
+- [Q006224](../berichte/Q00/Q0062/Q006224/README.de.md) SentinelOne cuts malware analysis from weeks to hours
+- [Q007358](../berichte/Q00/Q0073/Q007358/README.de.md) The EU’s next chapter in AI is agentic
+- [Q003795](../berichte/Q00/Q0037/Q003795/README.de.md) Bringing GPT-Rosalind to academic research labs
+- [Q004575](../berichte/Q00/Q0045/Q004575/README.de.md) Sullivan & Cromwell brings legal expertise into agreement review
+- [Q008003](../berichte/Q00/Q0080/Q008003/README.de.md) Teaching students to think and learn through questions
+- [Q003500](../berichte/Q00/Q0035/Q003500/README.de.md) How Itaú is building generative AI for its entire customer base
+- [Q003827](../berichte/Q00/Q0038/Q003827/README.de.md) How Localiza reorganized work around generative AI
+- [Q004262](../berichte/Q00/Q0042/Q004262/README.de.md) Benefit Street Partners answers questions faster with Codex
+- [Q005461](../berichte/Q00/Q0054/Q005461/README.de.md) How Grupo Boticário uses AI to strengthen human connections
+- [Q005515](../berichte/Q00/Q0055/Q005515/README.de.md) Stack Overflow for Agents triples signups with ChatGPT plugin
+- [Q005832](../berichte/Q00/Q0058/Q005832/README.de.md) Advancing coding in low‑resource programming languages
+- [Q003643](../berichte/Q00/Q0036/Q003643/README.de.md) Franchisee reconciles cash in 94% less time with ChatGPT Work
+- [Q005138](../berichte/Q00/Q0051/Q005138/README.de.md) Terminal X matches senior investor judgment 88.6% with GPT-6.1
+- [Q002420](../berichte/Q00/Q0024/Q002420/README.de.md) Cloudflare links vulnerability discovery to defense with OpenAI
+- [Q003219](../berichte/Q00/Q0032/Q003219/README.de.md) ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
+- [Q004091](../berichte/Q00/Q0040/Q004091/README.de.md) How AT&T is rethinking in-house legal work with OpenAI
+- [Q004105](../berichte/Q00/Q0041/Q004105/README.de.md) Patch the Planet: global response coordination as agents uncover critical vulnerabilities
+- [Q005212](../berichte/Q00/Q0052/Q005212/README.de.md) OpenAI models are coming to Google Cloud
+- [Q005935](../berichte/Q00/Q0059/Q005935/README.de.md) How we built ChatGPT’s novel ad stack for user trust and relevance
+- [Q006341](../berichte/Q00/Q0063/Q006341/README.de.md) Broad access through consistent standards
+- [Q003400](../berichte/Q00/Q0034/Q003400/README.de.md) Uber brings ChatGPT Work to all employees with OpenAI
+- [Q003626](../berichte/Q00/Q0036/Q003626/README.de.md) What FDE means at OpenAI
+- [Q004116](../berichte/Q00/Q0041/Q004116/README.de.md) Build more responsive apps with the Decisions API
+- [Q000037](../berichte/Q00/Q0000/Q000037/README.de.md) Securing our frontier model training environment
+- [Q004159](../berichte/Q00/Q0041/Q004159/README.de.md) Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+- [Q005709](../berichte/Q00/Q0057/Q005709/README.de.md) Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live
+- [Q001396](../berichte/Q00/Q0013/Q001396/README.de.md) OpenAI Newsroom
+- [Q003247](../berichte/Q00/Q0032/Q003247/README.de.md) Working with academic communities to build scientific understanding
+- [Q003435](../berichte/Q00/Q0034/Q003435/README.de.md) How Fanatics and OpenAI streamline the fan experience
+- [Q003844](../berichte/Q00/Q0038/Q003844/README.de.md) Greptile takes bug detection beyond code review with GPT-6 Astra
+- [Q005056](../berichte/Q00/Q0050/Q005056/README.de.md) ChatGPT’s expanding world of work
+- [Q005778](../berichte/Q00/Q0057/Q005778/README.de.md) OpenAI Newsroom
+- [Q003415](../berichte/Q00/Q0034/Q003415/README.de.md) OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+- [Q003561](../berichte/Q00/Q0035/Q003561/README.de.md) Retell uses OpenAI models to help power 100M monthly calls
+- [Q003986](../berichte/Q00/Q0039/Q003986/README.de.md) How Check Point accelerates vulnerability research with Daybreak
+- [Q004587](../berichte/Q00/Q0045/Q004587/README.de.md) Legora is building the agentic operating system for legal work
+- [Q005842](../berichte/Q00/Q0058/Q005842/README.de.md) OpenAI and ServiceNow expand partnership across enterprise workflows
+- [Q000196](../berichte/Q00/Q0001/Q000196/README.de.md) An updated Model Spec for more capable and beneficial AI
+- [Q000274](../berichte/Q00/Q0002/Q000274/README.de.md) How we detect frontier model misalignment
+- [Q003509](../berichte/Q00/Q0035/Q003509/README.de.md) How Ropes & Gray is developing AI for transactional diligence
+- [Q007063](../berichte/Q00/Q0070/Q007063/README.de.md) Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot
+- [Q000252](../berichte/Q00/Q0002/Q000252/README.de.md) Community safety report and new protections for teens
+- [Q003032](../berichte/Q00/Q0030/Q003032/README.de.md) Fair use benefits everyone
+- [Q003050](../berichte/Q00/Q0030/Q003050/README.de.md) Making it easier for websites to express AI training preferences
+- [Q000300](../berichte/Q00/Q0003/Q000300/README.de.md) Training activation classifiers for safety and alignment
+- [Q002894](../berichte/Q00/Q0028/Q002894/README.de.md) Qodo builds context into AI code review with Codex
+- [Q002904](../berichte/Q00/Q0029/Q002904/README.de.md) LifeVal
+- [Q002923](../berichte/Q00/Q0029/Q002923/README.de.md) Scaling Git at OpenAI
+- [Q002929](../berichte/Q00/Q0029/Q002929/README.de.md) OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
+- [Q002952](../berichte/Q00/Q0029/Q002952/README.de.md) Introducing the Grid Protectors Program
+- [Q002968](../berichte/Q00/Q0029/Q002968/README.de.md) Rewarding defenders with bigger bug bounties
+- [Q000308](../berichte/Q00/Q0003/Q000308/README.de.md) Eval-production behavior gaps in agent safety and the role of eval-awareness
+- [Q000841](../berichte/Q00/Q0008/Q000841/README.de.md) Accelerating engineering for the physical world
+- [Q001444](../berichte/Q00/Q0014/Q001444/README.de.md) How Cisco defends at machine speed with OpenAI
+- [Q002481](../berichte/Q00/Q0024/Q002481/README.de.md) OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer
+- [Q002493](../berichte/Q00/Q0024/Q002493/README.de.md) Heimstaden is changing residential real estate management with AI
+- [Q001050](../berichte/Q00/Q0010/Q001050/README.de.md) A thousand fewer paths to root
+- [Q002356](../berichte/Q00/Q0023/Q002356/README.de.md) DevRev delivers autonomous self-service with GPT-6.1 Sol
+- [Q002358](../berichte/Q00/Q0023/Q002358/README.de.md) OpenAI to acquire Pierre Computer Company, Inc.
+- [Q002362](../berichte/Q00/Q0023/Q002362/README.de.md) Daybreak Red is now available in AWS GovCloud (US-East)
+- [Q002386](../berichte/Q00/Q0023/Q002386/README.de.md) Introducing Images 2.6
+- [Q003455](../berichte/Q00/Q0034/Q003455/README.de.md) OpenAI Research
+- [Q000339](../berichte/Q00/Q0003/Q000339/README.de.md) GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+- [Q000546](../berichte/Q00/Q0005/Q000546/README.de.md) GPT-6 Cyber System Card
+- [Q001290](../berichte/Q00/Q0012/Q001290/README.de.md) Australian universities are creating AI-native graduates
+- [Q001299](../berichte/Q00/Q0012/Q001299/README.de.md) Franklin Templeton uses OpenAI to support investment research
+- [Q001306](../berichte/Q00/Q0013/Q001306/README.de.md) Merge builds product and business tools with OpenAI technology
+- [Q001328](../berichte/Q00/Q0013/Q001328/README.de.md) Cult.fit builds operational muscle with Codex
+- [Q001453](../berichte/Q00/Q0014/Q001453/README.de.md) Setting a new standard for responsible AI infrastructure
+- [Q000490](../berichte/Q00/Q0004/Q000490/README.de.md) Measuring how AI agents handle everyday wet-lab science
+- [Q001186](../berichte/Q00/Q0011/Q001186/README.de.md) Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
+- [Q005299](../berichte/Q00/Q0052/Q005299/README.de.md) OpenAI Research
+- [Q006993](../berichte/Q00/Q0069/Q006993/README.de.md) OpenAI Research
+- [Q000794](../berichte/Q00/Q0007/Q000794/README.de.md) ChatGPT Enterprise now available in AWS Marketplace
+- [Q000874](../berichte/Q00/Q0008/Q000874/README.de.md) Kuken Industries searches 70 years of drawings in minutes
+- [Q000892](../berichte/Q00/Q0008/Q000892/README.de.md) CodeRabbit scales agentic software development and ships 20x more
+- [Q000006](../berichte/Q00/Q0000/Q000006/README.de.md) Work at the Frontier: AI’s effect on freelance work
+- [Q000288](../berichte/Q00/Q0002/Q000288/README.de.md) What affects chain-of-thought monitorability across the model lifecycle?
+- [Q000818](../berichte/Q00/Q0008/Q000818/README.de.md) Closing the AI guidance gap in education
+- [Q000904](../berichte/Q00/Q0009/Q000904/README.de.md) Cogent and OpenAI build cyber defense factories for enterprises
+- [Q000915](../berichte/Q00/Q0009/Q000915/README.de.md) Singapore Airlines elevates travel & work with OpenAI technology
+- [Q000936](../berichte/Q00/Q0009/Q000936/README.de.md) Introducing Businesses in ChatGPT
+- [Q001174](../berichte/Q00/Q0011/Q001174/README.de.md) Helping caregivers use AI in everyday life
+- [Q000827](../berichte/Q00/Q0008/Q000827/README.de.md) JioStar’s chief architect on AI discovery at 500M-user scale
+- [Q001161](../berichte/Q00/Q0011/Q001161/README.de.md) ChatGPT Plus for veterans and servicemembers
+- [Q001154](../berichte/Q00/Q0011/Q001154/README.de.md) Gilbert + Tobin rethinks the business of law with AI
+- [Q009306](../berichte/Q00/Q0093/Q009306/README.de.md) Usage policies
+
+### orfonline.org
+
+- [Q000502](../berichte/Q00/Q0005/Q000502/README.de.md) Beyond the Test Lab: Embedding Independent Oversight in AI Safety
+- [Q000643](../berichte/Q00/Q0006/Q000643/README.de.md) Beyond Detection: The Challenge of Governing AI Slop
+
+### pacificcouncil.org
+
+- [Q000590](../berichte/Q00/Q0005/Q000590/README.de.md) AI Arms Control in a Contested World
+
+### pai
+
+- [Q003041](../berichte/Q00/Q0030/Q003041/README.de.md) f2cfdcb - Partnership on AI
+- [Q003092](../berichte/Q00/Q0030/Q003092/README.de.md) e47f4ec - Partnership on AI
+- [Q003180](../berichte/Q00/Q0031/Q003180/README.de.md) cf40491 - Partnership on AI
+- [Q003193](../berichte/Q00/Q0031/Q003193/README.de.md) b279f11 - Partnership on AI
+- [Q003216](../berichte/Q00/Q0032/Q003216/README.de.md) c26ecfc - Partnership on AI
+- [Q003340](../berichte/Q00/Q0033/Q003340/README.de.md) 70690ae - Partnership on AI
+- [Q003385](../berichte/Q00/Q0033/Q003385/README.de.md) d02f00e - Partnership on AI
+- [Q003391](../berichte/Q00/Q0033/Q003391/README.de.md) 7598fa9 - Partnership on AI
+- [Q003430](../berichte/Q00/Q0034/Q003430/README.de.md) cd01e7e - Partnership on AI
+- [Q003461](../berichte/Q00/Q0034/Q003461/README.de.md) 9021997 - Partnership on AI
+- [Q003475](../berichte/Q00/Q0034/Q003475/README.de.md) 9c16a75 - Partnership on AI
+- [Q003581](../berichte/Q00/Q0035/Q003581/README.de.md) ad228bb - Partnership on AI
+- [Q003603](../berichte/Q00/Q0036/Q003603/README.de.md) ec755d9 - Partnership on AI
+- [Q003677](../berichte/Q00/Q0036/Q003677/README.de.md) e5bf810 - Partnership on AI
+- [Q003750](../berichte/Q00/Q0037/Q003750/README.de.md) 75f9c7c - Partnership on AI
+- [Q003782](../berichte/Q00/Q0037/Q003782/README.de.md) b8a92cc - Partnership on AI
+- [Q003788](../berichte/Q00/Q0037/Q003788/README.de.md) 72b7b84 - Partnership on AI
+- [Q003801](../berichte/Q00/Q0038/Q003801/README.de.md) bad9888 - Partnership on AI
+- [Q003809](../berichte/Q00/Q0038/Q003809/README.de.md) c52ccad - Partnership on AI
+- [Q003816](../berichte/Q00/Q0038/Q003816/README.de.md) a7cc0e2 - Partnership on AI
+- [Q003823](../berichte/Q00/Q0038/Q003823/README.de.md) b63c999 - Partnership on AI
+- [Q003837](../berichte/Q00/Q0038/Q003837/README.de.md) ecafb94 - Partnership on AI
+- [Q003850](../berichte/Q00/Q0038/Q003850/README.de.md) 97a388a - Partnership on AI
+- [Q003871](../berichte/Q00/Q0038/Q003871/README.de.md) 9c61b62 - Partnership on AI
+- [Q003878](../berichte/Q00/Q0038/Q003878/README.de.md) de8a5f5 - Partnership on AI
+- [Q003937](../berichte/Q00/Q0039/Q003937/README.de.md) 9d5ec5e - Partnership on AI
+- [Q002227](../berichte/Q00/Q0022/Q002227/README.de.md) Report on Algorithmic Risk Assessment Tools in the U.S. Criminal Justice System
+- [Q003639](../berichte/Q00/Q0036/Q003639/README.de.md) The Partnership on AI Launches Multistakeholder Initiative To Enhance Machine Learning Transparency
+- [Q002123](../berichte/Q00/Q0021/Q002123/README.de.md) AI, Labor, and the Economy Case Study Compendium
+- [Q002159](../berichte/Q00/Q0021/Q002159/README.de.md) Visa Laws, Policies, and Practices: Recommendations for Accelerating the Mobility of Global AI/ML Talent
+- [Q002175](../berichte/Q00/Q0021/Q002175/README.de.md) Human-AI Collaboration Framework & Case Studies
+- [Q002183](../berichte/Q00/Q0021/Q002183/README.de.md) Human-AI Collaboration Trust Literature Review: Key Insights and Bibliography
+- [Q002103](../berichte/Q00/Q0021/Q002103/README.de.md) Bringing Facial Recognition Systems To Light
+- [Q002238](../berichte/Q00/Q0022/Q002238/README.de.md) The Ethics of AI and Emotional Intelligence
+- [Q002247](../berichte/Q00/Q0022/Q002247/README.de.md) Framework for Promoting Workforce Well-being in the AI-Integrated Workplace
+- [Q002252](../berichte/Q00/Q0022/Q002252/README.de.md) Managing the Risks of AI Research: Six Recommendations for Responsible Publication
+- [Q002218](../berichte/Q00/Q0022/Q002218/README.de.md) Redesigning AI for Shared Prosperity: An Agenda
+- [Q002271](../berichte/Q00/Q0022/Q002271/README.de.md) Responsible Sourcing of Data Enrichment Services
+- [Q003087](../berichte/Q00/Q0030/Q003087/README.de.md) a5ffa23
+- [Q003971](../berichte/Q00/Q0039/Q003971/README.de.md) a147ffe
+- [Q003982](../berichte/Q00/Q0039/Q003982/README.de.md) f18e439
+- [Q003682](../berichte/Q00/Q0036/Q003682/README.de.md) 0c388cd
+- [Q003712](../berichte/Q00/Q0037/Q003712/README.de.md) be5bd7a
+- [Q003722](../berichte/Q00/Q0037/Q003722/README.de.md) abd4c48
+- [Q003730](../berichte/Q00/Q0037/Q003730/README.de.md) 3f72f4f
+- [Q003845](../berichte/Q00/Q0038/Q003845/README.de.md) 6840c6a
+- [Q003862](../berichte/Q00/Q0038/Q003862/README.de.md) 89c575f
+- [Q003943](../berichte/Q00/Q0039/Q003943/README.de.md) d7ddb74
+- [Q003955](../berichte/Q00/Q0039/Q003955/README.de.md) 8389128
+- [Q003616](../berichte/Q00/Q0036/Q003616/README.de.md) dcdd795
+- [Q003794](../berichte/Q00/Q0037/Q003794/README.de.md) e3d2b8f
+- [Q003805](../berichte/Q00/Q0038/Q003805/README.de.md) 4a3bf11
+- [Q003828](../berichte/Q00/Q0038/Q003828/README.de.md) 5087157
+- [Q000752](../berichte/Q00/Q0007/Q000752/README.de.md) a61b27e
+- [Q001133](../berichte/Q00/Q0011/Q001133/README.de.md) ed0e5ac
+- [Q001142](../berichte/Q00/Q0011/Q001142/README.de.md) d1c8d57
+- [Q002477](../berichte/Q00/Q0024/Q002477/README.de.md) 3badee5
+- [Q002781](../berichte/Q00/Q0027/Q002781/README.de.md) 38b798d
+- [Q002794](../berichte/Q00/Q0027/Q002794/README.de.md) 0cab80c
+- [Q003133](../berichte/Q00/Q0031/Q003133/README.de.md) 39050dc
+- [Q003144](../berichte/Q00/Q0031/Q003144/README.de.md) fb15a2a
+- [Q003150](../berichte/Q00/Q0031/Q003150/README.de.md) d1a3705
+- [Q003157](../berichte/Q00/Q0031/Q003157/README.de.md) 7cbcf44
+- [Q003166](../berichte/Q00/Q0031/Q003166/README.de.md) 9fea3d1
+- [Q003174](../berichte/Q00/Q0031/Q003174/README.de.md) d9430c7
+- [Q003706](../berichte/Q00/Q0037/Q003706/README.de.md) fbd7a03
+- [Q000958](../berichte/Q00/Q0009/Q000958/README.de.md) 7fb4e3f
+- [Q003396](../berichte/Q00/Q0033/Q003396/README.de.md) 329fbf0
+- [Q003767](../berichte/Q00/Q0037/Q003767/README.de.md) b75f30f
+- [Q003960](../berichte/Q00/Q0039/Q003960/README.de.md) a0d284d
+- [Q003693](../berichte/Q00/Q0036/Q003693/README.de.md) 3fba3ac
+- [Q003631](../berichte/Q00/Q0036/Q003631/README.de.md) 508af54
+- [Q003745](../berichte/Q00/Q0037/Q003745/README.de.md) 7d16c77
+- [Q003772](../berichte/Q00/Q0037/Q003772/README.de.md) 8ad7ba7
+- [Q003778](../berichte/Q00/Q0037/Q003778/README.de.md) 29b746b
+- [Q003883](../berichte/Q00/Q0038/Q003883/README.de.md) 38a254c
+- [Q003893](../berichte/Q00/Q0038/Q003893/README.de.md) 505295f
+- [Q003903](../berichte/Q00/Q0039/Q003903/README.de.md) b347489
+- [Q003918](../berichte/Q00/Q0039/Q003918/README.de.md) b2f6cc2
+- [Q003930](../berichte/Q00/Q0039/Q003930/README.de.md) 3ab84fe
+- [Q002760](../berichte/Q00/Q0027/Q002760/README.de.md) 042b51c
+- [Q002142](../berichte/Q00/Q0021/Q002142/README.de.md) ABOUT ML Reference Document
+- [Q001068](../berichte/Q00/Q0010/Q001068/README.de.md) Partnership on AI Names Rebecca Finlay as CEO
+- [Q003532](../berichte/Q00/Q0035/Q003532/README.de.md) 39ecbbf
+- [Q003651](../berichte/Q00/Q0036/Q003651/README.de.md) 208230f
+- [Q003667](../berichte/Q00/Q0036/Q003667/README.de.md) 477ee22
+- [Q002257](../berichte/Q00/Q0022/Q002257/README.de.md) Fairer Algorithmic Decision-Making and Its Consequences: Interrogating the Risks and Benefits of Demographic Data Collection, Use, and Non-Use
+- [Q003564](../berichte/Q00/Q0035/Q003564/README.de.md) 8d86717
+- [Q003572](../berichte/Q00/Q0035/Q003572/README.de.md) 383d905
+- [Q003592](../berichte/Q00/Q0035/Q003592/README.de.md) 03b0d15
+- [Q001033](../berichte/Q00/Q0010/Q001033/README.de.md) Annual Report 2021
+- [Q003542](../berichte/Q00/Q0035/Q003542/README.de.md) 34de80a
+- [Q003552](../berichte/Q00/Q0035/Q003552/README.de.md) 275ffff
+- [Q000799](../berichte/Q00/Q0007/Q000799/README.de.md) c091904
+- [Q003380](../berichte/Q00/Q0033/Q003380/README.de.md) 80d8d1b
+- [Q003421](../berichte/Q00/Q0034/Q003421/README.de.md) b6666b0
+- [Q003436](../berichte/Q00/Q0034/Q003436/README.de.md) 2d009f6
+- [Q003519](../berichte/Q00/Q0035/Q003519/README.de.md) 9d94abe
+- [Q002280](../berichte/Q00/Q0022/Q002280/README.de.md) After the Offer: The Role of Attrition in AI’s ‘Diversity Problem’
+- [Q003407](../berichte/Q00/Q0034/Q003407/README.de.md) Partnership on AI Releases Groundbreaking Study on Attrition of Minoritized Workers in Tech
+- [Q003450](../berichte/Q00/Q0034/Q003450/README.de.md) 798af02
+- [Q003503](../berichte/Q00/Q0035/Q003503/README.de.md) 1cd275a
+- [Q003511](../berichte/Q00/Q0035/Q003511/README.de.md) 4ece50f
+- [Q000969](../berichte/Q00/Q0009/Q000969/README.de.md) 7e4a641
+- [Q001206](../berichte/Q00/Q0012/Q001206/README.de.md) 8473702
+- [Q002955](../berichte/Q00/Q0029/Q002955/README.de.md) 1c5f463
+- [Q001955](../berichte/Q00/Q0019/Q001955/README.de.md) Making AI Inclusive: 4 Guiding Principles for Ethical Engagement
+- [Q003253](../berichte/Q00/Q0032/Q003253/README.de.md) b390a4e
+- [Q003277](../berichte/Q00/Q0032/Q003277/README.de.md) 73950ca
+- [Q003287](../berichte/Q00/Q0032/Q003287/README.de.md) d67c55e
+- [Q003318](../berichte/Q00/Q0033/Q003318/README.de.md) bed8f77
+- [Q003260](../berichte/Q00/Q0032/Q003260/README.de.md) 2337f54
+- [Q003272](../berichte/Q00/Q0032/Q003272/README.de.md) 78f6c6a
+- [Q003327](../berichte/Q00/Q0033/Q003327/README.de.md) a4ecacc
+- [Q003333](../berichte/Q00/Q0033/Q003333/README.de.md) a53966e
+- [Q001321](../berichte/Q00/Q0013/Q001321/README.de.md) AI and Job Quality
+- [Q001115](../berichte/Q00/Q0011/Q001115/README.de.md) 9b12679
+- [Q003202](../berichte/Q00/Q0032/Q003202/README.de.md) 375c273
+- [Q003229](../berichte/Q00/Q0032/Q003229/README.de.md) 9bc51a3
+- [Q003238](../berichte/Q00/Q0032/Q003238/README.de.md) 5f231bc
+- [Q001266](../berichte/Q00/Q0012/Q001266/README.de.md) Improving Conditions for Data Enrichment Workers
+- [Q001352](../berichte/Q00/Q0013/Q001352/README.de.md) Implementing Responsible Data Enrichment Practices at DeepMind
+- [Q001242](../berichte/Q00/Q0012/Q001242/README.de.md) PAI Response to the FTC’s Advance Notice of Proposed Rulemaking on Commercial Surveillance and Data Security
+- [Q001254](../berichte/Q00/Q0012/Q001254/README.de.md) ABOUT ML in Practice: The Example of Biologit
+- [Q001276](../berichte/Q00/Q0012/Q001276/README.de.md) ABOUT ML in Practice: The Example of UNOCHA
+- [Q001262](../berichte/Q00/Q0012/Q001262/README.de.md) PAI’s Responsible Practices for Synthetic Media: A Framework for Collective Action
+- [Q001271](../berichte/Q00/Q0012/Q001271/README.de.md) Global Task Force for Inclusive AI
+- [Q003124](../berichte/Q00/Q0031/Q003124/README.de.md) b9faa1b
+- [Q001201](../berichte/Q00/Q0012/Q001201/README.de.md) d5254fb
+- [Q003054](../berichte/Q00/Q0030/Q003054/README.de.md) f089b08
+- [Q003025](../berichte/Q00/Q0030/Q003025/README.de.md) 0d70a5d
+- [Q003102](../berichte/Q00/Q0031/Q003102/README.de.md) 3be39cc
+- [Q003117](../berichte/Q00/Q0031/Q003117/README.de.md) 04ae405
+- [Q001308](../berichte/Q00/Q0013/Q001308/README.de.md) ea5d507
+- [Q000881](../berichte/Q00/Q0008/Q000881/README.de.md) de04dca
+- [Q001327](../berichte/Q00/Q0013/Q001327/README.de.md) 1d618ed
+- [Q003074](../berichte/Q00/Q0030/Q003074/README.de.md) fea11f9
+- [Q001248](../berichte/Q00/Q0012/Q001248/README.de.md) PAI’s Response to NTIA—AI Accountability Policy Request for Comment
+- [Q003015](../berichte/Q00/Q0030/Q003015/README.de.md) e20f847
+- [Q002205](../berichte/Q00/Q0022/Q002205/README.de.md) Guidelines for AI and Shared Prosperity
+- [Q002994](../berichte/Q00/Q0029/Q002994/README.de.md) PAI Responds to the NTIA Request for Comment on AI Accountability Policy
+- [Q001229](../berichte/Q00/Q0012/Q001229/README.de.md) PAI’s Response to the FTC’s Notification of Availability of Petition for Rulemaking — AI in Campaign Ads
+- [Q000817](../berichte/Q00/Q0008/Q000817/README.de.md) Eyes Off My Data: Conclusion
+- [Q000858](../berichte/Q00/Q0008/Q000858/README.de.md) Eyes Off My Data: Appendix
+- [Q000986](../berichte/Q00/Q0009/Q000986/README.de.md) Differentially Private Federated Statistics
+- [Q001042](../berichte/Q00/Q0010/Q001042/README.de.md) A Sociotechnical Framework for Assessing Demographic Data Collection
+- [Q001151](../berichte/Q00/Q0011/Q001151/README.de.md) A Sociotechnical Examination of Differentially Private Federated Statistics as an Algorithmic Fairness Technique
+- [Q001157](../berichte/Q00/Q0011/Q001157/README.de.md) Eyes Off My Data: Introduction
+- [Q002962](../berichte/Q00/Q0029/Q002962/README.de.md) 1c8b2b1
+- [Q000680](../berichte/Q00/Q0006/Q000680/README.de.md) be60050 - Partnership on AI
+- [Q001087](../berichte/Q00/Q0010/Q001087/README.de.md) Eyes Off My Data: Premise of the Project
+- [Q000835](../berichte/Q00/Q0008/Q000835/README.de.md) Eyes Off My Data: Executive Summary
+- [Q001018](../berichte/Q00/Q0010/Q001018/README.de.md) Building a Glossary for Synthetic Media Transparency Methods
+- [Q001339](../berichte/Q00/Q0013/Q001339/README.de.md) Eyes Off My Data
+- [Q001233](../berichte/Q00/Q0012/Q001233/README.de.md) PAI response to the USAID RFI on the Global AI Research Agenda
+- [Q000690](../berichte/Q00/Q0006/Q000690/README.de.md) a5250a6 - Partnership on AI
+- [Q001237](../berichte/Q00/Q0012/Q001237/README.de.md) PAI’s comments on NIST AI 100-4, Reducing Risks Posed by Synthetic Content
+- [Q001280](../berichte/Q00/Q0012/Q001280/README.de.md) ABOUT ML in Practice: The Example of Intuit
+- [Q001099](../berichte/Q00/Q0010/Q001099/README.de.md) Risk Mitigation Strategies for the Open Foundation Model Value Chain
+- [Q000845](../berichte/Q00/Q0008/Q000845/README.de.md) From Principles to Practices
+- [Q000928](../berichte/Q00/Q0009/Q000928/README.de.md) Towards Responsible AI Content
+- [Q001192](../berichte/Q00/Q0011/Q001192/README.de.md) Creating Equitable AI Systems with the Participatory & Inclusive Demographic Data Guidelines
+- [Q000872](../berichte/Q00/Q0008/Q000872/README.de.md) a81c481
+- [Q001943](../berichte/Q00/Q0019/Q001943/README.de.md) Documenting the Impacts of Foundation Models
+- [Q000937](../berichte/Q00/Q0009/Q000937/README.de.md) cfc3910
+- [Q001146](../berichte/Q00/Q0011/Q001146/README.de.md) ff3ca1e
+- [Q001288](../berichte/Q00/Q0012/Q001288/README.de.md) 8b18bcd
+- [Q001293](../berichte/Q00/Q0012/Q001293/README.de.md) b58911f
+- [Q001298](../berichte/Q00/Q0012/Q001298/README.de.md) 2023a5a
+- [Q002441](../berichte/Q00/Q0024/Q002441/README.de.md) 3a83137
+- [Q002454](../berichte/Q00/Q0024/Q002454/README.de.md) 010ee6f
+- [Q001127](../berichte/Q00/Q0011/Q001127/README.de.md) Responsibly Navigating the Enterprise AI Landscape
+- [Q000902](../berichte/Q00/Q0009/Q000902/README.de.md) Safeguarding Trust and Dignity in the Age of AI-Generated Media
+- [Q002300](../berichte/Q00/Q0023/Q002300/README.de.md) 3f761d0
+- [Q000736](../berichte/Q00/Q0007/Q000736/README.de.md) Decoding AI Governance: A Toolkit for Navigating Evolving Norms, Standards, and Rules
+- [Q001022](../berichte/Q00/Q0010/Q001022/README.de.md) Workers Participating in Transparency: Addressing the Gap in AI Transparency on Labor
+- [Q000704](../berichte/Q00/Q0007/Q000704/README.de.md) Prioritizing Real-Time Failure Detection in AI Agents
+- [Q001079](../berichte/Q00/Q0010/Q001079/README.de.md) AI Agents & Global Governance
+- [Q000891](../berichte/Q00/Q0008/Q000891/README.de.md) Preparing for AI Agent Governance
+- [Q001176](../berichte/Q00/Q0011/Q001176/README.de.md) Disclosure of AI-related impacts, risks, and opportunities
+- [Q000997](../berichte/Q00/Q0009/Q000997/README.de.md) Six AI Governance Priorities for 2026
+- [Q000791](../berichte/Q00/Q0007/Q000791/README.de.md) Strengthening the AI Assurance Ecosystem
+- [Q001166](../berichte/Q00/Q0011/Q001166/README.de.md) Closing the AI Assurance Divide: Policy Strategies for Developing Economies
+- [Q000766](../berichte/Q00/Q0007/Q000766/README.de.md) Demand and Incentives for External AI Assurance
+- [Q001185](../berichte/Q00/Q0011/Q001185/README.de.md) Building Justified Trust in AI Assurers
+- [Q000912](../berichte/Q00/Q0009/Q000912/README.de.md) How banking sector workers in Ireland won AI protections
+- [Q000975](../berichte/Q00/Q0009/Q000975/README.de.md) How the Pennsylvania government and a major union agreed to AI protections for state employees
+- [Q001110](../berichte/Q00/Q0011/Q001110/README.de.md) How an Italian trade union won AI protections for call center workers
+- [Q001119](../berichte/Q00/Q0011/Q001119/README.de.md) 2026 Transparency Report on Foundation Model Impacts
+- [Q001212](../berichte/Q00/Q0012/Q001212/README.de.md) Corporate AI Risk Assessment Framework
+- [Q001223](../berichte/Q00/Q0012/Q001223/README.de.md) Pathways for Operationalising AI Assurance
+- [Q001064](../berichte/Q00/Q0010/Q001064/README.de.md) How AI Companies are Handling Suicide and Self-Harm Today
+- [Q000825](../berichte/Q00/Q0008/Q000825/README.de.md) How EXL integrated employee feedback into its AI governance framework
+- [Q001004](../berichte/Q00/Q0010/Q001004/README.de.md) How IBM's Responsible Technology Team Created Multiple Avenues for Employee Feedback
+- [Q001054](../berichte/Q00/Q0010/Q001054/README.de.md) Seeking Worker Input in the Use of AI
+- [Q001216](../berichte/Q00/Q0012/Q001216/README.de.md) AI Disclosure Recommendations
+- [Q000002](../berichte/Q00/Q0000/Q000002/README.de.md) The Observability Gap in AI Agents
+
+### pm.gc.ca
+
+- [Q000410](../berichte/Q00/Q0004/Q000410/README.de.md) Joint declaration on Paris call for AI safety and security
+
+### politico.eu
+
+- [Q000495](../berichte/Q00/Q0004/Q000495/README.de.md) EU needs a system to respond to AI incidents, Finland and Estonia say
+- [Q000503](../berichte/Q00/Q0005/Q000503/README.de.md) Microsoft outage renews European calls to detox from US tech
+- [Q000512](../berichte/Q00/Q0005/Q000512/README.de.md) EU deal on Ukraine talks overshadows AI-focused summit in Dublin
+
+### poynter.org
+
+- [Q000629](../berichte/Q00/Q0006/Q000629/README.de.md) Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms. Did they work?
+
+### ppc.land
+
+- [Q000659](../berichte/Q00/Q0006/Q000659/README.de.md) Anthropic bans Claude-built fake sites aimed at gaming AI answers
+- [Q000642](../berichte/Q00/Q0006/Q000642/README.de.md) AI disclosure label
+
+### presidentti.fi
+
+- [Q000423](../berichte/Q00/Q0004/Q000423/README.de.md) Paris Call for AI safety and security
+
+### prnewswire.com
+
+- [Q000380](../berichte/Q00/Q0003/Q000380/README.de.md) New UN guide keeps people in charge of AI in smart cities
+
+### public-inspection.federalregister.gov
+
+- [Q000405](../berichte/Q00/Q0004/Q000405/README.de.md) https://public-inspection.federalregister.gov/2026-22793.pdf
+
+### pypi.org
+
+- [Q000429](../berichte/Q00/Q0004/Q000429/README.de.md) rh-model-signing
+
+### quews.news
+
+- [Q000434](../berichte/Q00/Q0004/Q000434/README.de.md) US and China should stay clear-eyed on AI cooperation and competition, Bessent says
+
+### redwoodresearch.org
+
+- [Q000293](../berichte/Q00/Q0002/Q000293/README.de.md) Towards understanding score-seeking in LLMs
+
+### resilientcyber.io
+
+- [Q000450](../berichte/Q00/Q0004/Q000450/README.de.md) The AI Kill Switch Isn't One Control, and Stopping the Agent Is The Easy Part
+
+### reuters.com
+
+- [Q000547](../berichte/Q00/Q0005/Q000547/README.de.md) US and China should stay clear-eyed on AI cooperation and competition, Bessent says
+- [Q000492](../berichte/Q00/Q0004/Q000492/README.de.md) OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development
+- [Q000464](../berichte/Q00/Q0004/Q000464/README.de.md) AI rockets to top of worries about financial system in latest Fed survey
+
+### reyo.ai
+
+- [Q000639](../berichte/Q00/Q0006/Q000639/README.de.md) AI Disclosure in Ads: EU Labeling Rules 2026
+
+### rits.shanghai.nyu.edu
+
+- [Q000400](../berichte/Q00/Q0004/Q000400/README.de.md) Kimi K3.1 Pro Weights Ship at 1.56 TB, With Cyber Gains Held Back
+
+### rte.ie
+
+- [Q000653](../berichte/Q00/Q0006/Q000653/README.de.md) Cttee recommends smart glasses ban over covert recording
+
+### sanctity.ai
+
+- [Q000319](../berichte/Q00/Q0003/Q000319/README.de.md) A Stanford-led benchmark found frontier models fold when a teammate pushes back.
+
+### santageai.com
+
+- [Q000607](../berichte/Q00/Q0006/Q000607/README.de.md) xAI Watermarks Grok by Default, 23 Days Before EU Deadline
+
+### scmp.com
+
+- [Q000465](../berichte/Q00/Q0004/Q000465/README.de.md) OpenAI executive urges caution in China-US AI talks, warns of distillation
+- [Q000486](../berichte/Q00/Q0004/Q000486/README.de.md) US midterm shift could squeeze China on AI, bring clarity to bilateral talks
+- [Q000480](../berichte/Q00/Q0004/Q000480/README.de.md) From filmmaking to maths, AI tide is rising faster than official responses
+- [Q000572](../berichte/Q00/Q0005/Q000572/README.de.md) China, Russia and US try to nail down AI nuclear agenda in time for Apec talks
+
+### sec.gov
+
+- [Q001847](../berichte/Q00/Q0018/Q001847/README.de.md) Anthropic, PBC
+- [Q001848](../berichte/Q00/Q0018/Q001848/README.de.md) Anthropic, PBC
+
+### segib.org
+
+- [Q000370](../berichte/Q00/Q0003/Q000370/README.de.md) https://segib.org/wp-content/uploads/2026/11/Declaracion_Madrid_Transformacion_Digital_IA-ES.pdf
+- [Q000389](../berichte/Q00/Q0003/Q000389/README.de.md) Los países iberoamericanos acuerdan en Madrid la Alianza Iberoamericana de Inteligencia Artificial
+
+### simoninstitute.ch
+
+- [Q000463](../berichte/Q00/Q0004/Q000463/README.de.md) A Macroprudential Layer for Frontier AI Governance – Simon Institute for Longterm Governance
+
+### sipri.org
+
+- [Q000470](../berichte/Q00/Q0004/Q000470/README.de.md) Building on progress in China–USA talks on AI
+
+### socialday.live
+
+- [Q000647](../berichte/Q00/Q0006/Q000647/README.de.md) LinkedIn will cut reach of AI-generated posts with 94% precision, screening every post that leaves your network
+
+### sonicstate.com
+
+- [Q000594](../berichte/Q00/Q0005/Q000594/README.de.md) ADC26: C2PA - Cryptographic Music Provenance
+
+### spec.c2pa.org
+
+- [Q000596](../berichte/Q00/Q0005/Q000596/README.de.md) Applying Content Credentials to Music Assets :: C2PA Specifications
+
+### spotlightdelaware.org
+
+- [Q000402](../berichte/Q00/Q0004/Q000402/README.de.md) Delaware DOJ launches probe of OpenAI following Hugging Face hack
+
+### statescoop.com
+
+- [Q000469](../berichte/Q00/Q0004/Q000469/README.de.md) New York’s RAISE Act 2.0 would expand AI oversight, according to safety expert
+
+### sumatosoft.com
+
+- [Q000454](../berichte/Q00/Q0004/Q000454/README.de.md) How Often AI Agents Get Pulled Back After Go-Live
+
+### tagesschau
+
+- [Q004387](../berichte/Q00/Q0043/Q004387/README.de.md) Afrika-Gipfel in Russland: Putin umwirbt einen ganzen Kontinent
+- [Q004395](../berichte/Q00/Q0043/Q004395/README.de.md) Milliardenschwerer Hackerangriff auf Kryptobörse Binance
+
+### taipeitimes.com
+
+- [Q000384](../berichte/Q00/Q0003/Q000384/README.de.md) China plans broad AI guardrails after global lapses
+
+### tapetownstudio.com
+
+- [Q000640](../berichte/Q00/Q0006/Q000640/README.de.md) How to Prove Your Music Is Human-Made in 2026
+
+### tdcommons.org
+
+- [Q000428](../berichte/Q00/Q0004/Q000428/README.de.md) SI Registry™: One Signed, Append-Only Record that Both Governs Certified AI Systems and Informs the Public, in which Each System's Runtime Limits Bind Only When Recorded, Role-Scoped Writers Sign in Separate Lanes, Certification Status Is Derived Live from the Records It Depends On, Typed Cross-References Link Compute, Model, Data, Skill, Machine, Site and Credential so that a Change Propagates to Every Dependent Record, Physical Events Are Anchored by Signed Device Evidence, Independent Witnesses Prevent Split Views, Linking Is Limited to Protect Privacy, and No Stop or Restore Ever Depends on the Registry
+
+### techbriefly.com
+
+- [Q000324](../berichte/Q00/Q0003/Q000324/README.de.md) Anthropic bans sustained cruelty toward Claude under new policy
+
+### techcrunch.com
+
+- [Q000473](../berichte/Q00/Q0004/Q000473/README.de.md) Anthropic warns that it's very close to RSI capability, aka self-building AI
+- [Q000401](../berichte/Q00/Q0004/Q000401/README.de.md) Meta acquires AI coding startup Conductor
+
+### technologyreview.com
+
+- [Q000349](../berichte/Q00/Q0003/Q000349/README.de.md) Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
+
+### techpolicy.press
+
+- [Q000001](../berichte/Q00/Q0000/Q000001/README.de.md) The Incident Report Is Becoming a Building Block of AI Governance
+
+### techrepublic.com
+
+- [Q000484](../berichte/Q00/Q0004/Q000484/README.de.md) Nvidia Tightens AI Chip Tracking in Southeast Asia as China Smuggling Concerns Grow
+
+### techtimes.com
+
+- [Q000552](../berichte/Q00/Q0005/Q000552/README.de.md) Federal AI Testing Unit CAISSI: Staff Asked to Report Informally to White House, AP Says
+- [Q000422](../berichte/Q00/Q0004/Q000422/README.de.md) AI Development Freeze Lawsuit: Nonprofits Sue 5 Labs, Say Real Freeze Needs Government Inspections
+
+### techuk.org
+
+- [Q000343](../berichte/Q00/Q0003/Q000343/README.de.md) NCSC Annual Review 2026: The State of the Cyber Nation
+
+### the-decoder.com
+
+- [Q000604](../berichte/Q00/Q0006/Q000604/README.de.md) Anthropic's text watermark is easy to bypass on several older Claude models
+- [Q000306](../berichte/Q00/Q0003/Q000306/README.de.md) OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute
+
+### theairankings.com
+
+- [Q000628](../berichte/Q00/Q0006/Q000628/README.de.md) What Is C2PA? Content Credentials Explained (2026)
+
+### thediplomat.com
+
+- [Q000479](../berichte/Q00/Q0004/Q000479/README.de.md) After the Midterms: What Xi and Trump Should Discuss in Shenzhen
+
+### theeuropeanpost.eu
+
+- [Q000655](../berichte/Q00/Q0006/Q000655/README.de.md) AI Act Omnibus Sets 2 December Deadline For Deepfake Watermarks
+
+### thefuturesociety.org
+
+- [Q000372](../berichte/Q00/Q0003/Q000372/README.de.md) Five Recommendations in Response to the Call for Control of Frontier AI Models
+
+### theguardian.com
+
+- [Q000377](../berichte/Q00/Q0003/Q000377/README.de.md) Russia and US seek to block plan for binding rules on autonomous weapons
+
+### themoscowtimes.com
+
+- [Q000576](../berichte/Q00/Q0005/Q000576/README.de.md) Russia, China and U.S. in Talks to Curb AI Use in Nuclear Arsenals, Report Says
+
+### thenewstack.io
+
+- [Q000440](../berichte/Q00/Q0004/Q000440/README.de.md) Developers have been hacking around MCP’s file-upload problem for two years. A fix is taking shape.
+
+### thenextweb.com
+
+- [Q000426](../berichte/Q00/Q0004/Q000426/README.de.md) AI firms sign Macron’s Paris Call, but safety group says it lacks teeth
+- [Q000569](../berichte/Q00/Q0005/Q000569/README.de.md) Trump AI task force targets AI-powered cyberattack reporting
+
+### theoregongroup.com
+
+- [Q000425](../berichte/Q00/Q0004/Q000425/README.de.md) US warns China over rare earths after Beijing delivers only two-thirds of commitments - The Oregon Group
+
+### thepaper.cn
+
+- [Q000522](../berichte/Q00/Q0005/Q000522/README.de.md) 中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为
+
+### thestar.com.my
+
+- [Q009483](../berichte/Q00/Q0094/Q009483/README.de.md) Cold War lessons for the AI age: how a US-China hotline could help stop a nuclear attack
+
+### theverge.com
+
+- [Q000338](../berichte/Q00/Q0003/Q000338/README.de.md) OpenAI says its new cybersecurity model is better at not hacking other companies
+- [Q000364](../berichte/Q00/Q0003/Q000364/README.de.md) Why a new report on Anthropic automating AI development is alarming researchers
+
+### thinkingmachines.ai
+
+- [Q000404](../berichte/Q00/Q0004/Q000404/README.de.md) Introducing Inkling 2 Small
+
+### trymorse.ai
+
+- [Q000323](../berichte/Q00/Q0003/Q000323/README.de.md) Anthropic Usage Policy Update: What Changes on Nov 12
+
+### tuev-verband.de
+
+- [Q000505](../berichte/Q00/Q0005/Q000505/README.de.md) Konzept zur Prüfung von Hochleistungs-KI vom TÜV-Verband und TÜV AI.Lab
+
+### turbin3.org
+
+- [Q000298](../berichte/Q00/Q0002/Q000298/README.de.md) Verifying Decentralized AI Training: Where a Chain Fits
+
+### uk.diplomatie.gouv.fr
+
+- [Q000312](../berichte/Q00/Q0003/Q000312/README.de.md) Paris Call for AI safety and security | France in the United Kingdom
+
+### ully.com
+
+- [Q000360](../berichte/Q00/Q0003/Q000360/README.de.md) AI cyberattacks: a timeline of real cases
+
+### ustr.gov
+
+- [Q000354](../berichte/Q00/Q0003/Q000354/README.de.md) Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng
+
+### uvolchyk.medium.com
+
+- [Q010118](../berichte/Q01/Q0101/Q010118/README.de.md) Changing UITableViewCell height with ease
+- [Q010108](../berichte/Q01/Q0101/Q010108/README.de.md) Exploring text customisation with NSAttributedString
+- [Q010101](../berichte/Q01/Q0101/Q010101/README.de.md) Recreating UITextView: Text Layout
+- [Q010096](../berichte/Q01/Q0100/Q010096/README.de.md) Recreating UITextView: Custom Attributes
+- [Q010092](../berichte/Q01/Q0100/Q010092/README.de.md) Making things glow and shine with SwiftUI
+- [Q010073](../berichte/Q01/Q0100/Q010073/README.de.md) Baking Metal shaders with Vapor and SwiftUI
+- [Q010067](../berichte/Q01/Q0100/Q010067/README.de.md) Hiding actions in buttons with UIKit
+- [Q010062](../berichte/Q01/Q0100/Q010062/README.de.md) Animating neumorphic digits with SwiftUI
+- [Q010059](../berichte/Q01/Q0100/Q010059/README.de.md) Scrolling pickers in SwiftUI
+- [Q010054](../berichte/Q01/Q0100/Q010054/README.de.md) Exploring spatial borders with SwiftUI
+- [Q010042](../berichte/Q01/Q0100/Q010042/README.de.md) Sparkling shiny things with Metal and SwiftUI
+- [Q010038](../berichte/Q01/Q0100/Q010038/README.de.md) Blooming fireworks with Metal and SwiftUI
+- [Q010035](../berichte/Q01/Q0100/Q010035/README.de.md) Crafting a Dissolve Effect in Metal and SwiftUI
+- [Q010029](../berichte/Q01/Q0100/Q010029/README.de.md) Bursting fireworks with Metal
+- [Q010026](../berichte/Q01/Q0100/Q010026/README.de.md) Oscillating glowing strings with Metal and SwiftUI
+
+### uz.kursiv.media
+
+- [Q000580](../berichte/Q00/Q0005/Q000580/README.de.md) Trump, Xi and Putin could discuss AI curbs in nuclear command
+
+### vals.ai
+
+- [Q000543](../berichte/Q00/Q0005/Q000543/README.de.md) CyberOffense Leaderboard and Methodology
+
+### veritaschain.org
+
+- [Q000396](../berichte/Q00/Q0003/Q000396/README.de.md) AI incident verification records | VSO
+
+### worldstandardscooperation.org
+
+- [Q000365](../berichte/Q00/Q0003/Q000365/README.de.md) Frontier AI: what the international standards system already offers
+
+### x-posts
+
+- [Q001251](../berichte/Q00/Q0012/Q001251/README.de.md) Post by @HasanASaleem on X
+- [Q000553](../berichte/Q00/Q0005/Q000553/README.de.md) Post by @xiangyuqi_pton on X
+- [Q000787](../berichte/Q00/Q0007/Q000787/README.de.md) Post by @hwchase17 on X
+- [Q000760](../berichte/Q00/Q0007/Q000760/README.de.md) Post by @OpenAI on X
+- [Q000611](../berichte/Q00/Q0006/Q000611/README.de.md) Post by @METR_Evals on X
+- [Q000172](../berichte/Q00/Q0001/Q000172/README.de.md) Post by @nbeckstead on X
+- [Q000230](../berichte/Q00/Q0002/Q000230/README.de.md) Post by @fchollet on X
+- [Q000584](../berichte/Q00/Q0005/Q000584/README.de.md) Post by @sama on X
+- [Q000593](../berichte/Q00/Q0005/Q000593/README.de.md) Post by @demishassabis on X
+- [Q000689](../berichte/Q00/Q0006/Q000689/README.de.md) Post by @RhysSullivan on X
+- [Q000842](../berichte/Q00/Q0008/Q000842/README.de.md) Post by @aidangomez on X
+- [Q000595](../berichte/Q00/Q0005/Q000595/README.de.md) Post by @satyanadella on X
+- [Q000638](../berichte/Q00/Q0006/Q000638/README.de.md) Post by @ryangrim on X
+- [Q000227](../berichte/Q00/Q0002/Q000227/README.de.md) Post by @AJEnglish on X
+- [Q000833](../berichte/Q00/Q0008/Q000833/README.de.md) Post by @arpit_bhayani on X
+- [Q000620](../berichte/Q00/Q0006/Q000620/README.de.md) Post by @AmbassadorRice on X
+- [Q000381](../berichte/Q00/Q0003/Q000381/README.de.md) Post by @tedlieu on X
+- [Q000535](../berichte/Q00/Q0005/Q000535/README.de.md) Post by @eosnos on X
+- [Q000451](../berichte/Q00/Q0004/Q000451/README.de.md) Post by @GovKathyHochul on X
+- [Q000662](../berichte/Q00/Q0006/Q000662/README.de.md) Post by @deredleritt3r on X
+- [Q000526](../berichte/Q00/Q0005/Q000526/README.de.md) Post by @FicusAgentLtd on X
+- [Q000528](../berichte/Q00/Q0005/Q000528/README.de.md) Post by @ParleyPolicy on X
+- [Q000315](../berichte/Q00/Q0003/Q000315/README.de.md) Post by @DavidSacks on X
+- [Q000328](../berichte/Q00/Q0003/Q000328/README.de.md) Post by @cameronwilson on X
+- [Q000601](../berichte/Q00/Q0006/Q000601/README.de.md) Post by @WhiteHouse on X
+- [Q000699](../berichte/Q00/Q0006/Q000699/README.de.md) Post by @emollick on X
+- [Q000521](../berichte/Q00/Q0005/Q000521/README.de.md) Post by @WhiteHouse on X
+- [Q001114](../berichte/Q00/Q0011/Q001114/README.de.md) Post by @DavidDuvenaud on X
+- [Q001171](../berichte/Q00/Q0011/Q001171/README.de.md) Post by @DavidDuvenaud on X
+- [Q001178](../berichte/Q00/Q0011/Q001178/README.de.md) Post by @DavidDuvenaud on X
+- [Q000336](../berichte/Q00/Q0003/Q000336/README.de.md) Post by @liambraus on X
+- [Q000725](../berichte/Q00/Q0007/Q000725/README.de.md) Post by @BrianRoemmele on X
+- [Q000734](../berichte/Q00/Q0007/Q000734/README.de.md) Post by @PreyWebthree on X
+- [Q000476](../berichte/Q00/Q0004/Q000476/README.de.md) Post by @PTI_News on X
+- [Q000705](../berichte/Q00/Q0007/Q000705/README.de.md) Post by @deanwball on X
+- [Q000823](../berichte/Q00/Q0008/Q000823/README.de.md) Post by @GoogleDeepMind on X
+- [Q000681](../berichte/Q00/Q0006/Q000681/README.de.md) Post by @natolambert on X
+- [Q000756](../berichte/Q00/Q0007/Q000756/README.de.md) Post by @Paul__Walsh on X
+- [Q000839](../berichte/Q00/Q0008/Q000839/README.de.md) Post by @DavidSacks on X
+- [Q000149](../berichte/Q00/Q0001/Q000149/README.de.md) Post by @DarioAmodei on X
+- [Q000432](../berichte/Q00/Q0004/Q000432/README.de.md) Post by @NSACyber on X
+- [Q000459](../berichte/Q00/Q0004/Q000459/README.de.md) Post by @theobearman on X
+- [Q000557](../berichte/Q00/Q0005/Q000557/README.de.md) Post by @farairesearch on X
+- [Q000245](../berichte/Q00/Q0002/Q000245/README.de.md) Post by @minshengguancha on X
+- [Q000670](../berichte/Q00/Q0006/Q000670/README.de.md) Post by @it_is_pjs on X
+- [Q000013](../berichte/Q00/Q0000/Q000013/README.de.md) Post by @LatviaUN_NY on X
+- [Q000109](../berichte/Q00/Q0001/Q000109/README.de.md) Post by @IIIDEM_Official on X
+- [Q000141](../berichte/Q00/Q0001/Q000141/README.de.md) Post by @EmmieHine on X
+- [Q000332](../berichte/Q00/Q0003/Q000332/README.de.md) Post by @MarioNawfal on X
+- [Q000393](../berichte/Q00/Q0003/Q000393/README.de.md) Post by @kenwardcdw on X
+- [Q000778](../berichte/Q00/Q0007/Q000778/README.de.md) Post by @neuralloot on X
+- [Q000438](../berichte/Q00/Q0004/Q000438/README.de.md) Post by @NIST on X
+- [Q000614](../berichte/Q00/Q0006/Q000614/README.de.md) Post by @rohanpaul_ai on X
+- [Q000072](../berichte/Q00/Q0000/Q000072/README.de.md) Post by @kimsalim99 on X
+- [Q000261](../berichte/Q00/Q0002/Q000261/README.de.md) Post by @kimsalim99 on X
+- [Q000763](../berichte/Q00/Q0007/Q000763/README.de.md) Post by @PapaRichens on X
+- [Q000019](../berichte/Q00/Q0000/Q000019/README.de.md) Post by @GreeceMFA on X
+- [Q000068](../berichte/Q00/Q0000/Q000068/README.de.md) Post by @SanghaDr on X
+- [Q000357](../berichte/Q00/Q0003/Q000357/README.de.md) Post by @me_deepu on X
+- [Q000646](../berichte/Q00/Q0006/Q000646/README.de.md) Post by @rarestbarbie on X
+- [Q000650](../berichte/Q00/Q0006/Q000650/README.de.md) Post by @StewInPhiwwy on X
+- [Q000103](../berichte/Q00/Q0001/Q000103/README.de.md) Post by @VietNam_UN on X
+- [Q000131](../berichte/Q00/Q0001/Q000131/README.de.md) Post by @ITUAsiaPacific on X
+- [Q000156](../berichte/Q00/Q0001/Q000156/README.de.md) Post by @Danie1Tech on X
+- [Q000182](../berichte/Q00/Q0001/Q000182/README.de.md) Post by @smartsaver01 on X
+- [Q000192](../berichte/Q00/Q0001/Q000192/README.de.md) Post by @angeloinchina on X
+- [Q000351](../berichte/Q00/Q0003/Q000351/README.de.md) An AI agent attacked a real GitHub repo in a safety test. Telling it to stop barely worked
+- [Q000538](../berichte/Q00/Q0005/Q000538/README.de.md) Post by @izhejiang on X
+- [Q000023](../berichte/Q00/Q0000/Q000023/README.de.md) Post by @zhu_jingyang on X
+- [Q000113](../berichte/Q00/Q0001/Q000113/README.de.md) Post by @rail_knust on X
+- [Q000302](../berichte/Q00/Q0003/Q000302/README.de.md) Post by @maykamaykaba on X
+- [Q000341](../berichte/Q00/Q0003/Q000341/README.de.md) Post by @_achan96_ on X
+- [Q000397](../berichte/Q00/Q0003/Q000397/README.de.md) Post by @ProfSchrepel on X
+- [Q000641](../berichte/Q00/Q0006/Q000641/README.de.md) Post by @Phoenixyin13 on X
+- [Q000995](../berichte/Q00/Q0009/Q000995/README.de.md) Post by @francescofaenzi on X
+- [Q001098](../berichte/Q00/Q0010/Q001098/README.de.md) Post by @MOFCOM_China on X
+- [Q001105](../berichte/Q00/Q0011/Q001105/README.de.md) Post by @MTSlive on X
+- [Q001207](../berichte/Q00/Q0012/Q001207/README.de.md) Post by @DSCI_Connect on X
+- [Q000878](../berichte/Q00/Q0008/Q000878/README.de.md) Post by @RepCasar on X
+- [Q000897](../berichte/Q00/Q0008/Q000897/README.de.md) Who’s who: who decides how AI is governed in 2027
+- [Q000956](../berichte/Q00/Q0009/Q000956/README.de.md) Post by @deusproof on X
+- [Q001030](../berichte/Q00/Q0010/Q001030/README.de.md) Post by @natolambert on X
+- [Q001043](../berichte/Q00/Q0010/Q001043/README.de.md) Post by @peterwildeford on X
+- [Q001071](../berichte/Q00/Q0010/Q001071/README.de.md) Post by @boazbaraktcs on X
+- [Q001221](../berichte/Q00/Q0012/Q001221/README.de.md) Post by @nyuCIC on X
+- [Q001281](../berichte/Q00/Q0012/Q001281/README.de.md) Post by @agounardes on X
+- [Q001388](../berichte/Q00/Q0013/Q001388/README.de.md) Post by @repligate on X
+- [Q000991](../berichte/Q00/Q0009/Q000991/README.de.md) Post by @SenWarren on X
+- [Q001008](../berichte/Q00/Q0010/Q001008/README.de.md) Post by @lumpenspace on X
+- [Q001049](../berichte/Q00/Q0010/Q001049/README.de.md) Post by @OpenAI on X
+- [Q001141](../berichte/Q00/Q0011/Q001141/README.de.md) Post by @demishassabis on X
+- [Q001241](../berichte/Q00/Q0012/Q001241/README.de.md) Post by @domainsea on X
+- [Q001319](../berichte/Q00/Q0013/Q001319/README.de.md) Post by @Pontifex on X
+- [Q001356](../berichte/Q00/Q0013/Q001356/README.de.md) Post by @rohanpaul_ai on X
+- [Q000931](../berichte/Q00/Q0009/Q000931/README.de.md) Post by @BarryESharp on X
+- [Q001003](../berichte/Q00/Q0010/Q001003/README.de.md) Post by @johnmcclure00 on X
+- [Q001120](../berichte/Q00/Q0011/Q001120/README.de.md) Post by @wfithian on X
+- [Q001149](../berichte/Q00/Q0011/Q001149/README.de.md) Post by @AnthropicAI on X
+- [Q001285](../berichte/Q00/Q0012/Q001285/README.de.md) Post by @KathyHochul on X
+- [Q001379](../berichte/Q00/Q0013/Q001379/README.de.md) Post by @Sauers_ on X
+- [Q000905](../berichte/Q00/Q0009/Q000905/README.de.md) Post by @Chinaembmanila on X
+- [Q000910](../berichte/Q00/Q0009/Q000910/README.de.md) Post by @AIDailyBrief on X
+- [Q000918](../berichte/Q00/Q0009/Q000918/README.de.md) Post by @thetect0nic on X
+- [Q001129](../berichte/Q00/Q0011/Q001129/README.de.md) Post by @juliankissa on X
+- [Q001187](../berichte/Q00/Q0011/Q001187/README.de.md) Post by @scottlincicome on X
+- [Q001193](../berichte/Q00/Q0011/Q001193/README.de.md) Post by @ariannahuff on X
+- [Q001247](../berichte/Q00/Q0012/Q001247/README.de.md) Post by @LuizaJarovsky on X
+- [Q001267](../berichte/Q00/Q0012/Q001267/README.de.md) Post by @BrianRoemmele on X
+- [Q001420](../berichte/Q00/Q0014/Q001420/README.de.md) Post by @boazbaraktcs on X
+
+### x.com
+
+- [Q001501](../berichte/Q00/Q0015/Q001501/README.de.md) Post by @jeffrsebo on X
+- [Q001796](../berichte/Q00/Q0017/Q001796/README.de.md) Post by @theobearman on X
+- [Q001830](../berichte/Q00/Q0018/Q001830/README.de.md) Post by @METR_Evals on X
+- [Q001979](../berichte/Q00/Q0019/Q001979/README.de.md) Post by @sentient_found on X
+- [Q001522](../berichte/Q00/Q0015/Q001522/README.de.md) Post by @boazbaraktcs on X
+- [Q001658](../berichte/Q00/Q0016/Q001658/README.de.md) Post by @HudsonInstitute on X
+- [Q001956](../berichte/Q00/Q0019/Q001956/README.de.md) Post by @ContentAuth on X
+- [Q001428](../berichte/Q00/Q0014/Q001428/README.de.md) Post by @Marcus_J_W on X
+- [Q001541](../berichte/Q00/Q0015/Q001541/README.de.md) Post by @GlenGilmore on X
+- [Q001697](../berichte/Q00/Q0016/Q001697/README.de.md) Post by @smperng on X
+- [Q001871](../berichte/Q00/Q0018/Q001871/README.de.md) Post by @Eric_Wallace_ on X
+- [Q001513](../berichte/Q00/Q0015/Q001513/README.de.md) Post by @freganmitts on X
+- [Q001552](../berichte/Q00/Q0015/Q001552/README.de.md) Post by @ICRC on X
+- [Q001573](../berichte/Q00/Q0015/Q001573/README.de.md) Post by @prathoshap on X
+- [Q001648](../berichte/Q00/Q0016/Q001648/README.de.md) Post by @Sam_McCandlish on X
+- [Q001673](../berichte/Q00/Q0016/Q001673/README.de.md) Post by @Sam_McCandlish on X
+- [Q001681](../berichte/Q00/Q0016/Q001681/README.de.md) Post by @Sam_McCandlish on X
+- [Q001704](../berichte/Q00/Q0017/Q001704/README.de.md) Post by @sreekanti on X
+- [Q001722](../berichte/Q00/Q0017/Q001722/README.de.md) Post by @METR_Evals on X
+- [Q001770](../berichte/Q00/Q0017/Q001770/README.de.md) Post by @ValsAI on X
+- [Q001809](../berichte/Q00/Q0018/Q001809/README.de.md) Post by @AlexBores on X
+- [Q001999](../berichte/Q00/Q0019/Q001999/README.de.md) Post by @drewharwell on X
+- [Q009552](../berichte/Q00/Q0095/Q009552/README.de.md) Post by @OpenAI on X
+- [Q001452](../berichte/Q00/Q0014/Q001452/README.de.md) Post by @Marcus_J_W on X
+- [Q001487](../berichte/Q00/Q0014/Q001487/README.de.md) GPT-6 Astra Covertly Underperforms on Safety Research Tasks
+- [Q001533](../berichte/Q00/Q0015/Q001533/README.de.md) Post by @SecScottBessent on X
+- [Q001591](../berichte/Q00/Q0015/Q001591/README.de.md) Post by @tomekkorbak on X
+- [Q001730](../berichte/Q00/Q0017/Q001730/README.de.md) Post by @OpenAI on X
+- [Q001855](../berichte/Q00/Q0018/Q001855/README.de.md) Post by @ITU on X
+- [Q001559](../berichte/Q00/Q0015/Q001559/README.de.md) Post by @ControlAI on X
+- [Q001707](../berichte/Q00/Q0017/Q001707/README.de.md) Post by @fragRoger on X
+- [Q001911](../berichte/Q00/Q0019/Q001911/README.de.md) Post by @KSAmofaEN on X
+- [Q001471](../berichte/Q00/Q0014/Q001471/README.de.md) Post by @dbreunig on X
+- [Q001477](../berichte/Q00/Q0014/Q001477/README.de.md) Post by @boazbaraktcs on X
+- [Q001491](../berichte/Q00/Q0014/Q001491/README.de.md) Post by @grok on X
+- [Q001850](../berichte/Q00/Q0018/Q001850/README.de.md) Post by @Research_FRI on X
+- [Q001894](../berichte/Q00/Q0018/Q001894/README.de.md) Post by @MofaJapan_en on X
+- [Q001754](../berichte/Q00/Q0017/Q001754/README.de.md) Post by @robertwiblin on X
+- [Q001760](../berichte/Q00/Q0017/Q001760/README.de.md) Post by @robertwiblin on X
+- [Q001922](../berichte/Q00/Q0019/Q001922/README.de.md) Post by @francediplo_EN on X
+- [Q001508](../berichte/Q00/Q0015/Q001508/README.de.md) Post by @melinda_esen on X
+- [Q001882](../berichte/Q00/Q0018/Q001882/README.de.md) Post by @a16z on X
+- [Q001455](../berichte/Q00/Q0014/Q001455/README.de.md) Post by @Marcus_J_W on X
+- [Q001764](../berichte/Q00/Q0017/Q001764/README.de.md) Post by @_jrosenberg on X
+- [Q001903](../berichte/Q00/Q0019/Q001903/README.de.md) Post by @ipsnews on X
+- [Q001932](../berichte/Q00/Q0019/Q001932/README.de.md) Post by @OPCW on X
+- [Q002008](../berichte/Q00/Q0020/Q002008/README.de.md) Post by @DetectorMediaEn on X
+- [Q001642](../berichte/Q00/Q0016/Q001642/README.de.md) Post by @abbyxuu on X
+- [Q001984](../berichte/Q00/Q0019/Q001984/README.de.md) Post by @Iammdshohag on X
+
+### xai
+
+- [Q004403](../berichte/Q00/Q0044/Q004403/README.de.md) https://raw.githubusercontent.com/xai-org/grok-prompts/main/README.md
+- [Q004404](../berichte/Q00/Q0044/Q004404/README.de.md) https://docs.x.ai/developers/faq/security.md
+- [Q004412](../berichte/Q00/Q0044/Q004412/README.de.md) https://raw.githubusercontent.com/xai-org/grok-prompts/main/grok_4_safety_prompt.txt
+- [Q004414](../berichte/Q00/Q0044/Q004414/README.de.md) https://docs.x.ai/grok-bot/security.md
+- [Q004449](../berichte/Q00/Q0044/Q004449/README.de.md) https://raw.githubusercontent.com/xai-org/grok-prompts/main/grok_4_code_rc1_safety_prompt.txt
+- [Q004450](../berichte/Q00/Q0044/Q004450/README.de.md) https://docs.x.ai/grok-bot/security-faq.md
+- [Q004457](../berichte/Q00/Q0044/Q004457/README.de.md) https://raw.githubusercontent.com/xai-org/grok-prompts/main/grok4_system_turn_prompt_v8.j2
+- [Q004461](../berichte/Q00/Q0044/Q004461/README.de.md) https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
+- [Q004479](../berichte/Q00/Q0044/Q004479/README.de.md) https://raw.githubusercontent.com/xai-org/grok-prompts/main/grok4p1_thinking_system_turn_prompt_v2.j2
+- [Q004480](../berichte/Q00/Q0044/Q004480/README.de.md) https://docs.x.ai/developers/models.md
+- [Q004485](../berichte/Q00/Q0044/Q004485/README.de.md) https://raw.githubusercontent.com/xai-org/grok-prompts/main/grok4p1_non_thinking_system_turn_prompt.j2
+- [Q004486](../berichte/Q00/Q0044/Q004486/README.de.md) https://docs.x.ai/developers/grok-4-7.md
+- [Q004497](../berichte/Q00/Q0044/Q004497/README.de.md) https://raw.githubusercontent.com/xai-org/grok-prompts/main/ask_grok_system_prompt.j2
+
+### youtube.com
+
+- [Q000433](../berichte/Q00/Q0004/Q000433/README.de.md) 三年前求國會管 AI，三年後站上聯合國：奧特曼這次換白宮說不｜參議院＋安理會・中英字幕
+- [Q000297](../berichte/Q00/Q0002/Q000297/README.de.md) Paul Christiano: AI Alignment - What’s Working and What’s Not | The Hinton Lectures 2026 (Night 1)
+- [Q000304](../berichte/Q00/Q0003/Q000304/README.de.md) Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)
+- [Q000313](../berichte/Q00/Q0003/Q000313/README.de.md) Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)
+
+### zaobao.com.sg
+
+- [Q000356](../berichte/Q00/Q0003/Q000356/README.de.md) 何立峰与贝森特和格里尔通话 严正关切美对华经贸限制
+
+### zhipu
+
+- [Q002539](../berichte/Q00/Q0025/Q002539/README.de.md) https://www.sciengine.com/doi/pdf/9FAC7838538C4AA29CDAC5D0ECF27207
+- [Q002622](../berichte/Q00/Q0026/Q002622/README.de.md) https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13513/135134N/An-efficient-compaction-scheme-for-LSM-based-storage-system-via/10.1117/12.3056894.pdf

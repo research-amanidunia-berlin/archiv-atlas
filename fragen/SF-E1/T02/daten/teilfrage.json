@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T02",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Welche Ordnung gibt Staaten außerhalb eines führenden Staatenpaares ein echtes Stimmrecht, nicht nur ein Anhörungsrecht, bei Vorfallschwellen, Fähigkeitskriterien und Standards?",
+    "en": "What governance gives states outside a leading pair of states a genuine vote, not mere consultation, over incident thresholds, capability criteria and standards?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-17",
+      "text": {
+        "de": "China warnt vor „digitaler Hegemonie\", die USA lehnen jedes „globalistische Vorhaben zur Kontrolle von Superintelligenz\" ab, und mehrere Delegationen des Globalen Südens bestanden darauf, dass nicht wenige Staaten oder Unternehmen die Regeln festlegen dürfen. Welche Governance gibt Staaten außerhalb der USA-China-Achse eine echte Stimme — nicht nur eine bloße Anhörung — bei Schwellenwerten für Vorfälle, Fähigkeitskriterien und Standards?",
+        "en": "China warns against \"digital hegemony\", the US rejects any \"globalist scheme of control of superintelligence\", and several Global South delegations insisted that a few states or companies must not set the rules. What governance gives states outside the US–China dyad a genuine vote — not mere consultation — over incident thresholds, capability criteria and standards?"
+      }
+    }
+  ],
+  "bewertung": null
+}

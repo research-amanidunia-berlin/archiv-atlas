@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F3-T01",
+  "sammelfrage": "SF-F3",
+  "frage": {
+    "de": "Würden Staaten auf die Fähigkeit führender KI-Modelle, biologische Systeme zu entwerfen, dieselben Prüfungen und Freigabeschwellen anwenden wie auf Cyber oder eine eigens ausgehandelte Regelung? Und welche eigenen Fähigkeitsschwellen, Prüfmethoden, Maßnahmen zur Eindämmung und Meldepflichten sollen für KI-Hilfe in der Chemie, bei radioaktiven Stoffen und in der Nukleartechnik gelten, statt alle Wissenschaft mit doppeltem Verwendungszweck in eine einzige Biologie- oder Cyber-Regel zu fassen?",
+    "en": "Would states apply the same evaluations and release thresholds to leading AI models' biological-design capability as to cyber, or a separately negotiated regime? And which separate capability thresholds, evaluation methods, containment controls and incident-reporting duties should apply to AI assistance in the chemical, radiological and nuclear domains, rather than folding all dual-use science into one biological or cyber rule?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-25",
+      "text": {
+        "de": "Welche gemeinsamen Bewertungen und Veröffentlichungsschwellen würden beide Seiten auf die Fähigkeit von Frontier-Modellen zum biologischen Design anwenden — dasselbe Regime wie für den Cyberbereich oder ein gesondert ausgehandeltes Regime?",
+        "en": "Which shared evaluations and release thresholds would both sides apply to frontier models' biological-design capability — the same regime as for cyber, or a separately negotiated one?"
+      }
+    },
+    {
+      "id": "redlines-38",
+      "text": {
+        "de": "Welche eigenständigen Fähigkeits-Schwellenwerte, Bewertungsmethoden, Eindämmungskontrollen und Meldepflichten für Vorfälle sollten für KI-Unterstützung in den Bereichen Chemie, Strahlung und Nuklearwaffen gelten, statt alle Dual-Use-Wissenschaft unter eine einzige Regel für Biologie oder Cyber zu fassen?",
+        "en": "What separate capability thresholds, evaluation methods, containment controls, and incident-reporting duties should apply to AI assistance in chemical, radiological, and nuclear domains rather than folding all dual-use science into one biological or cyber rule?"
+      }
+    }
+  ],
+  "bewertung": null
+}

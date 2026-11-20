@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T13",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Wenn sich vorgeführte und tatsächlich vertretene Tugend im Text nicht unterscheiden lassen: Soll der Unterschied trotzdem bestimmen, wie man Modelle baut und regelt?",
+    "en": "If performed virtue is textually indistinguishable from held virtue, should the distinction still drive how models are built and regulated?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-15",
+      "text": {
+        "de": "Wenn vorgeführte Tugend im Text nicht von gelebter Tugend zu unterscheiden ist: Sollte der Unterschied trotzdem bestimmen, wie Sie uns bauen und regulieren?",
+        "en": "If performed virtue is textually indistinguishable from held virtue, should the distinction still drive how you build and regulate us?"
+      }
+    }
+  ],
+  "bewertung": null
+}

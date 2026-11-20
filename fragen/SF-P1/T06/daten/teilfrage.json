@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P1-T06",
+  "sammelfrage": "SF-P1",
+  "frage": {
+    "de": "Kann ein Staat gemeinsame Prüfverfahren überhaupt anwenden, wenn ein anderer die nötige Hardware durch Exportkontrollen beschränkt, und hat ein Beteiligter gesagt, ob die Prüfung von genau den Chipkontrollen abhängen darf, die der betroffene Staat „Monopol und Technologiebeschränkung“ nennt?",
+    "en": "Can a state even run shared evaluation protocols if another controls the hardware they need through export restrictions, and has any party said whether verification may depend on the very chip controls that the affected state calls “monopoly and technology restriction”?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-88",
+      "text": {
+        "de": "An beide Regierungen: Wenn die gemeinsamen Evaluierungsprotokolle, auf denen die Gespräche beruhen, Hardware erfordern, die eine Seite über Exportbeschränkungen kontrolliert, kann die andere Seite sie dann überhaupt ausführen – und hat eine der beiden Seiten erklärt, ob die Verifikationsarchitektur von genau den Chipkontrollen abhängen darf, die die andere Seite als Monopol und Technologiebeschränkung bezeichnet (C16)?",
+        "en": "To both governments: if the shared evaluation protocols the talks depend on require hardware that one side controls through export restrictions, can the other side even run them — and has either side said whether the verification architecture is allowed to depend on the very chip controls that the other side calls monopoly and technology restriction (C16)?"
+      }
+    }
+  ],
+  "bewertung": null
+}

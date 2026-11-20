@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H1-T05",
+  "sammelfrage": "SF-H1",
+  "frage": {
+    "de": "Wie können Staaten zusammenarbeiten, um die Ausbreitung von Fähigkeiten zu beobachten, die durch Destillation aus großen, auf Sicherheit ausgerichteten Modellen in kleinere, weniger geregelte Modelle gelangen?",
+    "en": "How can states cooperate to monitor the proliferation of capabilities transferred via distillation from large, safety-aligned models into smaller, less governed ones?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-06",
+      "text": {
+        "de": "Wie können die beiden Mächte zusammenarbeiten, um die Weitergabe von Fähigkeiten zu überwachen, die per Destillation von großen, auf Sicherheit ausgerichteten Modellen auf kleinere, weniger regulierte Modelle übertragen werden?",
+        "en": "How can the two powers cooperate to monitor the proliferation of capabilities that are transferred from large, safety-aligned models to smaller, less-governed models via distillation?"
+      }
+    }
+  ],
+  "bewertung": null
+}

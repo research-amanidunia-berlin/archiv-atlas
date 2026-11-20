@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T11",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Werden Ministerien eine Behauptung über Fähigkeiten nur anerkennen, wenn ein anderer Staat denselben Test wiederholen kann, und können sie sich auf unabhängige Prüfer und einen sicheren Zugang einigen, um strittige Befunde nachzustellen?",
+    "en": "Will ministries accept a capability claim only when another state can rerun the same test, and can they agree on independent evaluators and secure access to reproduce disputed findings?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "verify-05",
+      "text": {
+        "de": "An die Ministerien beider Seiten: Können Sie sich auf unabhängige Prüfer und einen sicheren Zugang einigen, um umstrittene Befunde zu Fähigkeiten zu reproduzieren?",
+        "en": "Ministries on both sides: can you agree on independent evaluators and secure access to reproduce disputed capability findings?"
+      }
+    },
+    {
+      "id": "verify-06",
+      "text": {
+        "de": "Akzeptieren Sie eine Fähigkeitsbehauptung nur, wenn die andere Seite denselben Test wiederholen kann?",
+        "en": "Will you accept a capability claim only when the other side can rerun the same test?"
+      }
+    }
+  ],
+  "bewertung": null
+}

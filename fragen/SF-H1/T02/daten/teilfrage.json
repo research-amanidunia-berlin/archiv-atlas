@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H1-T02",
+  "sammelfrage": "SF-H1",
+  "frage": {
+    "de": "Welche Belege wäre ein Labor bereit, seiner eigenen Regierung zu geben, wenn ein ausländisches Labor offenbar Fähigkeiten aus einem seiner Modelle extrahiert hat, und würde dessen Regierung im Gegenzug dasselbe Format anerkennen?",
+    "en": "What evidence would a lab be willing to share with its own government when a foreign lab appears to have extracted capabilities from one of its models, and would that lab's government accept the same format in return?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-03",
+      "text": {
+        "de": "Wenn die Fähigkeiten eines Modells offenbar von einem anderen Labor abgeschöpft wurden: Welche Belege wäre ein Labor bereit, mit seiner eigenen Regierung zu teilen, und würde die andere Seite im Gegenzug dasselbe Format akzeptieren?",
+        "en": "When a model's capabilities appear to have been extracted by another lab, what evidence would a lab be willing to share with its own government, and would the other side accept the same format in return?"
+      }
+    }
+  ],
+  "bewertung": null
+}

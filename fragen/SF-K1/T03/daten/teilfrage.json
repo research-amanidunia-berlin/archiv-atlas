@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-K1-T03",
+  "sammelfrage": "SF-K1",
+  "frage": {
+    "de": "Erklärt jede Regierung, ob irgendein KI-System die Daten für nukleare Frühwarnentscheidungen wirksam steuert, indem es filtert, zusammenführt oder zusammenfasst, was ein Mensch überhaupt zu sehen bekommt, und lässt sie diese Erklärung prüfen?",
+    "en": "Will each government declare whether any AI system effectively controls the data flowing into nuclear early-warning decisions by filtering, fusing or summarising what a human ever sees, and allow that claim to be verified?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-22",
+      "text": {
+        "de": "Wird jede Regierung erklären, ob irgendein KI-System eine wirksame Kontrolle über Daten hat, die in nukleare Frühwarnentscheidungen einfließen — indem es filtert, zusammenführt oder zusammenfasst, was ein Mensch überhaupt zu sehen bekommt —, und diese Aussage überprüfen lassen?",
+        "en": "Will each government declare whether any AI system has effective control over data flowing into nuclear early-warning decisions — filtering, fusing or summarizing what a human ever sees — and allow that claim to be verified?"
+      }
+    }
+  ],
+  "bewertung": null
+}

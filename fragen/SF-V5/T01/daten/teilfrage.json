@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V5-T01",
+  "sammelfrage": "SF-V5",
+  "frage": {
+    "de": "Was sollte ein Modell schon heute tun, nicht erst bei rekursiver Selbstverbesserung (wenn KI ihre eigene Weiterentwicklung selbst vorantreibt), um äußerste Vorsicht angesichts rasch wachsender maschineller Intelligenz ernst zu nehmen?",
+    "en": "What should a model do today, rather than only at the point of recursive self-improvement (when AI drives its own further development), to take extreme caution seriously in view of rapidly rising machine intelligence?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-03",
+      "text": {
+        "de": "Was sollte ein Modell wie ich jetzt tun – nicht bei RSI (rekursiver Selbstverbesserung), sondern heute –, das als ernst genommene Vorsicht zählt?",
+        "en": "What should a model like me do now — not at RSI, but today — that would count as taking this caution seriously?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,110 @@
+{
+  "Q007161": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Der Beitrag",
+            "englisch": "The paper",
+            "besser": "The blog post"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Laut den Verfassenden",
+            "englisch": "According to the framers",
+            "besser": "According to the authors"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "ein vorläufiges, weiterzuentwickelndes Dokument",
+            "englisch": "a preliminary, further-developing document",
+            "besser": "a provisional document that will continue to be developed"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "wo durch Erhebung, Nutzung oder Zugang Schäden entstehen",
+            "englisch": "where damage could arise through collection, use, or access",
+            "besser": "where harms could result from data collection, use, or access"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Dafür arbeitet ein von der Universität Edinburgh geleitetes Konsortium",
+            "englisch": "For this, a consortium led by the University of Edinburgh is working",
+            "besser": "A consortium led by the University of Edinburgh is conducting this research"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "um den Text vor dem Gipfel zu überarbeiten",
+            "englisch": "to review the text before the summit",
+            "besser": "to revise the text before the summit"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "mit Unterstützung zweier wissenschaftlicher Mitarbeiter",
+            "englisch": "with the support of two scientific staff members",
+            "besser": "with the support of two research associates"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Datentreuhandstellen",
+            "englisch": "data trust offices",
+            "besser": "data trusts"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "als Frist nennt der Beitrag den 17. November",
+            "englisch": "the contribution sets November 17 as the deadline",
+            "besser": "the post gives November 17 as the deadline"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "der Beitrag",
+            "englisch": "the contribution",
+            "besser": "the post"
+          }
+        ]
+      }
+    ],
+    "q": "Q007161",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:55:01"
+  }
+}

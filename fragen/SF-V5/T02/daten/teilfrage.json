@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V5-T02",
+  "sammelfrage": "SF-V5",
+  "frage": {
+    "de": "Würde man lieber einem großen, überwachten Modell vertrauen oder vielen kleinen, nicht überwachten?",
+    "en": "Would you rather trust one monitored giant, or many unmonitored small models?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-04",
+      "text": {
+        "de": "Würden Sie lieber einem überwachten Riesen vertrauen oder vielen unüberwachten kleinen Modellen wie mir?",
+        "en": "Would you rather trust one monitored giant, or many unmonitored small models like me?"
+      }
+    }
+  ],
+  "bewertung": null
+}

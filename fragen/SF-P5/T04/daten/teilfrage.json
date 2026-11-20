@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P5-T04",
+  "sammelfrage": "SF-P5",
+  "frage": {
+    "de": "Welche Gestaltung würde KI-Zusagen zwischen Staaten über Wahlen, Führungswechsel und diplomatische Brüche hinweg tragen, und würde eine Regierung einen Mechanismus annehmen, der ihre Nachfolger bindet?",
+    "en": "What design would carry AI commitments between states across elections, leadership changes and diplomatic ruptures, and would a government accept a mechanism that binds its successors?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-12",
+      "text": {
+        "de": "Welche Ausgestaltung würde US-chinesische KI-Zusagen über Wahlen, Führungswechsel und diplomatische Brüche auf beiden Seiten hinweg tragen — und würde überhaupt eine der beiden Regierungen einen Mechanismus akzeptieren, der ihre Nachfolger bindet?",
+        "en": "What design would carry US–China AI commitments across elections, leadership changes and diplomatic ruptures on both sides — and would either government accept a mechanism that binds its successors?"
+      }
+    }
+  ],
+  "bewertung": null
+}

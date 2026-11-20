@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T03",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Welche Rolle spielten Modelle der geprüften Modellfamilie, wenn überhaupt, beim Entwerfen, Durchführen oder Bewerten von Prüfungen oder Sicherheitsberichten, die Regierungen vorgelegt werden, und wird diese Rolle offengelegt?",
+    "en": "What role, if any, did models from the evaluated family play in designing, running or grading evaluations or safety reports submitted to governments, and will that role be disclosed?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-33",
+      "text": {
+        "de": "Bei Bewertungen oder Sicherheitsberichten, die Regierungen vorgelegt werden — welche Rolle, wenn überhaupt, spielten Modelle aus der bewerteten Modellfamilie bei der Gestaltung, Durchführung oder Benotung der Tests, und werden Sie diese Rolle offenlegen?",
+        "en": "For evaluations or safety reports submitted to governments, what role, if any, did models from the evaluated family play in designing, running, or grading the tests, and will you disclose that role?"
+      }
+    }
+  ],
+  "bewertung": null
+}

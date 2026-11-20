@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T09",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Bevor der Meldekanal Vorfallmeldungen aus Laboren als Auslöser nutzt: Erklärt jede Regierung, welche laborinternen Entscheidungen über die Weitergabe von Vorfällen nach außen sie als Eingaben behandelt, obwohl sie diese nicht prüfen kann? Und gilt ein unerklärtes Nichtmelden eines Labors, soweit ein Aufschub aus Sicherheitsgründen es erlaubt, als Schweigen oder als meldepflichtiges Versäumnis?",
+    "en": "Before the reporting channel relies on incident reports from labs as triggers, will each government state which lab-internal decisions about disclosing incidents externally it will treat as inputs it cannot audit? And is a lab's unexplained non-disclosure, where a security delay permits it, treated as silence or as a reportable omission?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-38",
+      "text": {
+        "de": "OpenAIs F10 sagt: „Schwerwiegende Vorfälle bei Safety, Security und Fehlausrichtung sollten mit der US-Bundesregierung geteilt werden, und wir arbeiten daran, Meldemechanismen vorzuschlagen.“ Amodei schlägt im Sicherheitsrat „ein Benachrichtigungssystem für KI-Vorfälle, die für die globale Sicherheit bedeutsam sind“ vor (L292) – einen Kanal von Regierung zu Regierung. Zwischen beiden liegt eine ungeprüfte Weiterleitung: In der vorgeschlagenen Architektur kann eine grenzüberschreitende Hotline-Meldung aus dem internen Offenlegungsprozess eines Labors stammen (F7–F24), dessen Kriterien einseitig verfasst wurden und nach Belieben überarbeitet werden können (F25) und dessen Offenlegungsentscheidungen bei der Laborleitung enden (F24). Bevor sich die Hotline auf von Laboren stammende Vorfallsmeldungen als Auslöser stützt: Werden beide Regierungen erklären, welche laborinternen Offenlegungsentscheidungen sie als Eingaben behandeln werden, die sie nicht nachprüfen können – und würde eine unerklärte Nichtoffenlegung durch ein Labor (zulässig im Rahmen der Verzögerungen aus Sicherheitsgründen nach F22) als Schweigen oder als meldepflichtige Unterlassung behandelt?",
+        "en": "OpenAI's F10 says \"serious safety, security and misalignment incidents should be shared with the US federal government, and we are working to propose reporting mechanisms.\" Amodei at the Council proposes \"a notification system for AI incidents that are significant to global security\" (L292) — a government-to-government channel. Between them sits an unexamined relay: under the proposed architecture, a cross-border hotline report may originate in a lab's internal disclosure process (F7–F24) whose criteria were written unilaterally, revised at will (F25), and whose disclosure decisions end at lab leadership (F24). Before the hotline relies on lab-originated incident reports as triggers, will both governments state which lab-internal disclosure decisions they will treat as inputs they cannot audit — and would a lab's unexplained non-disclosure (permitted under F22's security delays) be treated as silence or as a reportable omission?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M4-T05",
+  "sammelfrage": "SF-M4",
+  "frage": {
+    "de": "Wenn das Sicherheitsteam eines Labors beim gewöhnlichen Training eine unerwartete gefährliche Fähigkeit entdeckt: Welche kürzeste durchsetzbare Frist gilt, bis dieser Fund Labore und Regierungen anderer Staaten erreichen muss, und wer bescheinigt diese Frist?",
+    "en": "When a lab's safety team discovers an unexpected dangerous capability during ordinary training, what is the shortest enforceable delay before that finding must reach labs and governments in other states, and who certifies that delay?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-21",
+      "text": {
+        "de": "Wenn das Sicherheitsteam eines Labors im gewöhnlichen Training eine unerwartete gefährliche Fähigkeit entdeckt: Welche kürzeste durchsetzbare Frist gilt, bis dieser Befund die Labore und Regierungen der anderen Seite erreichen muss, und wer bestätigt diese Frist?",
+        "en": "When a lab's safety team discovers an unexpected dangerous capability during ordinary training, what is the shortest enforceable delay before that finding must reach labs and governments on the other side, and who certifies that delay?"
+      }
+    }
+  ],
+  "bewertung": null
+}

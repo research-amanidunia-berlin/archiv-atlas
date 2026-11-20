@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E5-T04",
+  "sammelfrage": "SF-E5",
+  "frage": {
+    "de": "Wie wird jede Regierung der eigenen Bevölkerung ihre Zusagen zur KI-Sicherheit erklären, ohne dass die Erklärung als Zugeständnis an die anderen oder als Zeichen eigener Schwäche bei KI-Fähigkeiten gelesen wird?",
+    "en": "How will each government explain its AI safety commitments to its own public without the explanation being read as a concession to the others or a sign of domestic capability weakness?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-20",
+      "text": {
+        "de": "An beide Regierungen: Wie wird jede Seite ihrer eigenen Öffentlichkeit ihre Zusagen zur KI-Sicherheit erklären, ohne dass die Erklärung als Zugeständnis an die andere Seite oder als Zeichen innenpolitischer Schwäche in den eigenen Fähigkeiten gelesen wird?",
+        "en": "To both governments: How will each side explain its AI safety commitments to its own public without the explanation being read as either a concession to the other side or a sign of domestic capability weakness?"
+      }
+    }
+  ],
+  "bewertung": null
+}

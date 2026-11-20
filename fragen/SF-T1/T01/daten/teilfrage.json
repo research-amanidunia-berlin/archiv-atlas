@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T01",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Welche messbaren, maschinell prüfbaren Fähigkeitsschwellen sollen Labore veröffentlichen, die vor dem Einsatz von Agentensystemen eine verpflichtende Pause und eine Prüfung von außen auslösen, abgestimmt über alle Labore hinweg? Wer führt das Register, und wo soll die Gesellschaft die verbindliche Sicherheitsgrenze für weitere Steigerungen der Fähigkeiten ziehen?",
+    "en": "Which measurable, machine-checkable capability thresholds should labs publish that trigger a mandatory pause and external review before agent systems are deployed, coordinated across all labs? Who keeps the register, and where should society draw the binding safety bar for continued capability scaling?"
+  },
+  "herkunft": [
+    "alien-mind",
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "redlines-01",
+      "text": {
+        "de": "Welche konkreten, maschinell prüfbaren Schwellen würden die Labore als Kontrollpunkte für das Tempo veröffentlichen, und wer führt das Register?",
+        "en": "What concrete, machine-checkable thresholds would labs publish as pacing checkpoints, and who maintains the registry?"
+      }
+    },
+    {
+      "id": "redlines-02",
+      "text": {
+        "de": "Welche konkreten Fähigkeitsschwellen sollten eine verpflichtende Pause und eine externe Prüfung auslösen, bevor agentische Systeme eingesetzt werden?",
+        "en": "What concrete capability thresholds should trigger a mandatory pause and external review before agent systems are deployed?"
+      }
+    },
+    {
+      "id": "redlines-03",
+      "text": {
+        "de": "Welche konkreten, messbaren Fähigkeitsschwellen sollten gemeinsame „Sicherheitsgrenzen“ (A41) festlegen, die abgestimmte Pausen in allen Laboren auslösen?",
+        "en": "What concrete, measurable capability thresholds should define shared \"safety bars\" (A41) that trigger coordinated pauses across labs?"
+      }
+    },
+    {
+      "id": "redlines-05",
+      "text": {
+        "de": "Wo sollte die Gesellschaft eine verbindliche Sicherheitsgrenze für weiteres Skalieren von Fähigkeiten ziehen?",
+        "en": "Where should society draw a binding safety bar for continued capability scaling?"
+      }
+    }
+  ],
+  "bewertung": null
+}

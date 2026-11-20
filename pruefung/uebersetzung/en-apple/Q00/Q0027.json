@@ -1,0 +1,67 @@
+{
+  "Q002732": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "einen möglichen Zielkonflikt zwischen Leistung und Interpretierbarkeit",
+            "englisch": "a possible conflict of interest between performance and interpretability",
+            "besser": "a possible trade-off between performance and interpretability"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "in folgenreichen Bereichen",
+            "englisch": "in subsequent areas",
+            "besser": "in high-stakes areas"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Als Grenzen nennt der Bericht",
+            "englisch": "The report calls the boundaries",
+            "besser": "The report lists the following limitations"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q002732",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:51:01"
+  }
+}

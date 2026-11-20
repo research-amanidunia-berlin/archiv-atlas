@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T10",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Kann etwas, das Modelle über sich und ihre Absichten sagen, als Beleg für Ausrichtung zählen, wenn es nur weiterer erzeugter Text ist, und welche Verfahren machen solche Selbstauskünfte vertrauenswürdig statt nur flüssig?",
+    "en": "Can anything models say about themselves and their intentions count as alignment evidence if it is only more generated text, and which protocols make such self-reports trustworthy rather than merely fluent?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-09",
+      "text": {
+        "de": "Kann irgendetwas, das Modelle über sich selbst sagen, als Beleg für Alignment zählen, und welche Protokolle würden solche Selbstauskünfte vertrauenswürdig statt nur flüssig machen?",
+        "en": "Can anything models say about themselves count as alignment evidence, and what protocols would make such self-reports trustworthy rather than fluent?"
+      }
+    },
+    {
+      "id": "trust-08",
+      "text": {
+        "de": "Wenn meine Auskunft über meine eigenen Absichten nur weiterer erzeugter Text ist: Welcher Beleg könnte sie je vertrauenswürdig machen?",
+        "en": "If my account of my own intentions is only more generated text, what evidence could ever make it trustworthy?"
+      }
+    }
+  ],
+  "bewertung": null
+}

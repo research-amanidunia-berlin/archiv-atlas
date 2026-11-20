@@ -1,0 +1,34 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# I kept building LLM apps that worked in demos and broke in production.
+
+Bericht Q011080 · Quelle medium.com · Datum 2026-06-09 · [Original öffnen](https://medium.com/ai-advances/i-kept-building-llm-apps-that-worked-in-demos-and-broke-in-production-9cff6f27e3df)
+
+[Alle Berichte](../../../README.de.md) · Daten: [bericht.json](bericht.json)
+
+## Zusammenfassung (von Luna, ungeprüft)
+
+Der Autor argumentiert anhand eines fehlerhaften Support-Chatbots, dass die Qualität von LLM-Anwendungen stark davon abhängt, welche Informationen tatsächlich im Kontext landen. Er empfiehlt gepflegte Wissensquellen, gezielte Suche und Filterung, passende Gesprächszusammenfassungen sowie Protokolle und Tests mit bekannten Antworten. Die Empfehlungen beruhen überwiegend auf seiner Praxiserfahrung; die angeführte Studie wird im Beitrag nur knapp beschrieben.
+
+## Sammelfragen
+
+Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
+
+| Frage | clef | Luna | d3-ultra | JEV | amos | drex |
+|---|---|---|---|---|---|---|
+| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 54 / 92 % | 0 / 0 % | 96 / 98 % | 23 / 49 % | 8 / 23 % |
+| [SF-H3](../../../../fragen/SF-H3/) Wie lässt sich nachverfolgen, woraus ein Modell entstanden ist und was in ihm steckt? | 0 / 0 % | 89 / 98 % | 0 / 0 % | 79 / 88 % | 8 / 23 % | 0 / 0 % |
+| [SF-V4](../../../../fragen/SF-V4/) Was für ein Wesen ist ein Modell, und was folgt daraus für den Umgang mit ihm und für den Wert des Menschseins? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 49 / 69 % | 6 / 12 % | 0 / 0 % |
+| [SF-E4](../../../../fragen/SF-E4/) Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen? | 0 / 0 % | 4 / 66 % | 0 / 0 % | 47 / 67 % | 5 / 12 % | 4 / 10 % |
+| [SF-A1](../../../../fragen/SF-A1/) Welche Befugnisse darf ein KI-Agent haben, also eine KI, die selbstständig mit Werkzeugen handelt? Wer entzieht sie ihm, und wie prüft man, dass er in seinem Auftrag bleibt? | 0 / 0 % | 41 / 81 % | 0 / 0 % | 13 / 36 % | 9 / 23 % | 4 / 11 % |
+| [SF-F4](../../../../fragen/SF-F4/) Für welche Modelle, Entwickler und Einsätze gelten Prüfregeln, und wann muss neu geprüft werden? | 0 / 0 % | 38 / 76 % | 0 / 0 % | 27 / 55 % | 6 / 15 % | 0 / 0 % |
+| [SF-T1](../../../../fragen/SF-T1/) Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie? | 0 / 0 % | 36 / 77 % | 0 / 0 % | 37 / 75 % | 0 / 0 % | 6 / 13 % |
+| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 32 / 86 % | 0 / 0 % | 0 / 0 % | 7 / 25 % | 6 / 15 % |
+| [SF-E5](../../../../fragen/SF-E5/) Welche Mitsprache haben die Menschen, die mit KI leben, bei Tempo und Grenzen, und welche Entscheidungen müssen bei ihnen bleiben? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 24 / 45 % | 6 / 14 % | 0 / 0 % |
+| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 8 / 27 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 5 / 10 % | 2 / 5 % |
+| [SF-V1](../../../../fragen/SF-V1/) Was zählt als Beleg für die Werte eines Modells, wenn sein sichtbares Denken und seine Selbstauskünfte allein nicht genügen? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 21 % | 7 / 17 % |
+| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 1 / 43 % | 0 / 0 % | 0 / 0 % | 7 / 20 % | 4 / 11 % |
+| [SF-A3](../../../../fragen/SF-A3/) Welche Gefahren entstehen, wenn viele KI-Systeme zusammenwirken oder dieselbe Infrastruktur teilen? | 0 / 0 % | 3 / 64 % | 0 / 0 % | 2 / 9 % | 7 / 18 % | 0 / 0 % |
+| [SF-M3](../../../../fragen/SF-M3/) Wie stellt man fest, ob ein Vorfall gewollt oder versehentlich war, und ob KI oder herkömmliche Mittel dahinterstecken? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 14 % | 0 / 0 % |
+| [SF-M4](../../../../fragen/SF-M4/) Wie kommen Meldungen von Laboren, Betreibern und Nutzern schnell und geschützt zu den Stellen, die handeln müssen, auch über Grenzen hinweg? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 13 % | 3 / 6 % |
+| [SF-A2](../../../../fragen/SF-A2/) Lassen sich KI-Systeme sicher anhalten, zurücksetzen, abschotten oder drosseln, und wer darf das anordnen? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 14 % | 3 / 9 % |

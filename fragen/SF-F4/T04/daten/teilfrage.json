@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F4-T04",
+  "sammelfrage": "SF-F4",
+  "frage": {
+    "de": "Wie wird ein Modell als sicher bescheinigt, bevor es von einem harmlosen Bereich wie Chat in einen folgenreichen Einsatzbereich wie Angriff, Führung und Kontrolle oder Cyber wechselt, in dem seine Entwickler es nie eingesetzt haben, und welches gemeinsame Verfahren erkennt gefährliches, neu auftretendes Verhalten vor dem Wechsel?",
+    "en": "How is a model certified safe before it moves from a benign domain such as chat into a high-stakes operational domain such as offense, command and control or cyber that its trainers never deployed it in, and which shared protocol detects dangerous emergent behaviour before that transfer?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-38",
+      "text": {
+        "de": "Wie würde ein Modell als sicher zertifiziert, wenn es aus einem harmlosen Bereich (Chat) in einen operativen Hochrisikobereich (Angriff, Führung und Kontrolle, Cyber) übertragen wird, in dem seine Entwickler es nie eingesetzt haben — und welches gemeinsame Protokoll erkennt gefährliches emergentes Verhalten vor diesem Wechsel?",
+        "en": "How would a model be certified safe when transferred from a benign domain (chat) into a high-stakes operational domain (offense, C2, cyber) its trainers never deployed it in — and what shared protocol detects dangerous emergent behavior before that transfer?"
+      }
+    }
+  ],
+  "bewertung": null
+}

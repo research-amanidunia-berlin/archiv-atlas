@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T03",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Veröffentlicht das Labor zu jedem veröffentlichten Fallbericht über Fehlausrichtung, was sich danach geändert hat (erneutes Training, Einsatzbeschränkungen, Überwachung), und veröffentlicht es eine datierte Nachprüfung, die zeigt, ob diese Maßnahmen das gemeldete Verhalten an den betroffenen Modellversionen geändert haben und ob eine Stelle von außen das Ergebnis nachgestellt hat?",
+    "en": "For every published misalignment case report, does the lab publish what changed afterwards (retraining, deployment restrictions, monitoring), and does it publish a dated follow-up showing whether those measures changed the reported behaviour on the relevant model versions and whether an outside assessor reproduced the result?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "transparency-15",
+      "text": {
+        "de": "Werden die Labore zu jedem veröffentlichten Fallbericht auch offenlegen, was danach geändert wurde — erneutes Training, Einsatzbeschränkungen, Überwachung —, damit die Öffentlichkeit prüfen kann, ob die Offenlegung Folgen hatte?",
+        "en": "For every published case report, will the lab also publish what changed afterwards — retraining, deployment restrictions, monitoring — so that outsiders can check whether the disclosure had consequences?"
+      }
+    },
+    {
+      "id": "transparency-24",
+      "text": {
+        "de": "Wenn ein vollständiger Bericht über Fehlausrichtung ergriffene oder geplante Maßnahmen beschreibt: Wird das Labor einen datierten Folgebericht veröffentlichen, der zeigt, ob diese Maßnahmen das gemeldete Verhalten bei den betreffenden Modellversionen verändert haben und ob ein externer Gutachter das Ergebnis reproduziert hat?",
+        "en": "When a full misalignment report describes measures taken or planned, will the lab publish a dated follow-up showing whether those measures changed the reported behavior on the relevant model versions, and whether an outside assessor reproduced the result?"
+      }
+    }
+  ],
+  "bewertung": null
+}

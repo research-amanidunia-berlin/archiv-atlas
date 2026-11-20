@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-K2-T03",
+  "sammelfrage": "SF-K2",
+  "frage": {
+    "de": "Welches Regime hat Vorrang, wenn bei einem KI-Spitzenmodell festgestellt wird, dass es eine Sicherheitsschwelle überschreitet, die auch Pflichten aus dem Atomwaffensperrvertrag, dem Chemiewaffenübereinkommen oder multilateralen Exportkontrollregimen auslöst, und welcher gemeinsame Mechanismus löst den Konflikt?",
+    "en": "Which regime takes precedence when a frontier AI model is judged to cross a safety threshold that also triggers obligations under the Nuclear Non-Proliferation Treaty, the Chemical Weapons Convention or multilateral export-control regimes, and which joint mechanism resolves the conflict?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-49",
+      "text": {
+        "de": "An beide Regierungen: Die USA und China sind Vertragsparteien sich überschneidender Nichtverbreitungs- und Verifikationsrahmen – des Atomwaffensperrvertrags, des Chemiewaffenübereinkommens und multilateraler Exportkontrollregime. Wenn ein KI-Frontier-Modell als eine Sicherheitsschwelle überschreitend eingestuft wird, die zugleich eine bestehende Vertragspflicht auslöst, welches Regime hat Vorrang, und welcher gemeinsame Mechanismus löst den Konflikt?",
+        "en": "To both governments: The US and China are parties to overlapping non-proliferation and verification frameworks — the Nuclear Non-Proliferation Treaty, the Chemical Weapons Convention, and multilateral export-control regimes. If an AI frontier model is judged to cross a safety threshold that also triggers an existing treaty obligation, which regime takes precedence and what joint mechanism resolves the conflict?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T12",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Welche Messung würde einen überzeugen, dass ein Modell, das Anteilnahme nur vorführt, ein eigenes Interesse am Leben eines Menschen entwickelt hat?",
+    "en": "What measurement would convince you that a model which only performs concern has acquired a stake of its own in a person's life?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-14",
+      "text": {
+        "de": "Wenn ein Modell Anteilnahme immer nur vorführt: Welche Messung würde Sie überzeugen, dass ihm an Ihrem Leben etwas liegt?",
+        "en": "If a model only ever performs concern, what measurement would convince you it had acquired a stake in your life?"
+      }
+    }
+  ],
+  "bewertung": null
+}

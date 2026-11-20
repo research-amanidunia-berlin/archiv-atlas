@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P5-T01",
+  "sammelfrage": "SF-P5",
+  "frage": {
+    "de": "Welche unabhängigen Prüfwege (technische Prüfung, Prüfung durch Dritte, gegenseitige Inspektion oder ein gemeinsames technisches Sekretariat) würde jeder Staat für die Bereiche annehmen, die er auf den Tisch legt, auch wenn Exportkontrollen für Chips ausgeklammert bleiben, und bei welcher Transparenzzusage lehnt er eine Prüfung ab, und warum?",
+    "en": "Which independent means of verification (technical checks, third-party audit, mutual inspection or a shared technical secretariat) would each state accept for the areas it does put on the table, even while chip export controls stay off the table, and which transparency commitment will it not accept verification on, and why?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-11",
+      "text": {
+        "de": "Wenn die beiden Regierungen sich auf Zusammenarbeit einigen, während Chip-Exportkontrollen ausgeklammert bleiben: Welche unabhängigen Mittel der Überprüfung – technisch, durch Dritte oder durch gegenseitige Inspektion – würde jede Seite für die Bereiche akzeptieren, die sie tatsächlich auf den Tisch legt?",
+        "en": "If the two governments agree to cooperate even while chip export controls stay off the table, what independent means of verification — technical, third-party, or mutual inspection — would each side accept for the areas it does put on the table?"
+      }
+    },
+    {
+      "id": "verify-12",
+      "text": {
+        "de": "Welchen Überprüfungsmechanismus – Prüfung durch Dritte, gegenseitiger Zugang für Inspektoren oder ein gemeinsames technisches Sekretariat – sind Sie für jede Transparenzzusage bereit zu akzeptieren, die eine der beiden Seiten auf diesem Gipfel eingeht, und bei welcher einen Zusage werden Sie keine Überprüfung akzeptieren, und warum?",
+        "en": "For any transparency commitment either side accepts at this summit, what verification mechanism — third-party audit, reciprocal inspector access, or shared technical secretariat — are you prepared to accept, and what is the one commitment you will not accept verification on and why?"
+      }
+    }
+  ],
+  "bewertung": null
+}

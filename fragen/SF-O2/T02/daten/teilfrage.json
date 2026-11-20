@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O2-T02",
+  "sammelfrage": "SF-O2",
+  "frage": {
+    "de": "Solange es nach einem Gipfel kein amtliches Ergebnisprotokoll gibt: Welche Mindestzusage unterhalb eines Vertrags würde jede Regierung schon veröffentlichen, damit Labore und Drittstaaten nicht wochenlang raten?",
+    "en": "Until an official readout of a summit exists, which minimum commitment short of a treaty would each government still publish so that labs and third countries are not left guessing for weeks?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-14",
+      "text": {
+        "de": "Solange es keine offizielle Zusammenfassung des Treffens zwischen Trump und Xi im Weißen Haus gibt — welche bilaterale KI-Mindestverpflichtung — noch kein vollständiger Vertrag — würde jede Seite dennoch veröffentlichen, damit Labore und Drittstaaten nicht wochenlang im Ungewissen bleiben?",
+        "en": "Until an official readout of the Trump–Xi White House meeting exists, what minimum bilateral AI commitment — short of a full treaty — would each side still publish so that labs and third countries are not left guessing for weeks?"
+      }
+    }
+  ],
+  "bewertung": null
+}

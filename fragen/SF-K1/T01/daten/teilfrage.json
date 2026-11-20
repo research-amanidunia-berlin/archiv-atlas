@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-K1-T01",
+  "sammelfrage": "SF-K1",
+  "frage": {
+    "de": "Wie prüft ein Staat unabhängig, dass Entscheidungen über den Einsatz von Gewalt, vor allem in der nuklearen Führung und Kontrolle, ausschließlich beim Menschen bleiben? Welche unabhängig prüfbaren Belege würde er als Nachweis dafür annehmen, dass kein KI-System irgendwo in der Kette der nuklearen Führung und Kontrolle eines anderen Staates Freigabebefugnis hat, ohne dass Startverfahren offengelegt werden, und erlauben beide dafür ein gemeinsames Prüfverfahren?",
+    "en": "How does a state independently verify that decisions on the use of force, especially in nuclear command and control, remain exclusively human? What independently checkable evidence would it accept that no AI system holds release authority anywhere in another state's nuclear command-and-control chain, without exposing launch procedures, and would both permit a shared audit protocol for that claim?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-29",
+      "text": {
+        "de": "Wie würde jede Seite unabhängig überprüfen, dass Entscheidungen über den Gewalteinsatz, insbesondere die nukleare Kommando- und Kontrollführung, ausschließlich menschlich bleiben — und welchen Prüfnachweis würde die jeweils andere Seite akzeptieren, ohne Startverfahren offenzulegen?",
+        "en": "How would each side independently verify that decisions on the use of force, especially nuclear command and control, remain exclusively human — and what audit evidence would the other side accept without exposing launch procedures?"
+      }
+    },
+    {
+      "id": "redlines-24",
+      "text": {
+        "de": "Welchen unabhängig überprüfbaren Nachweis würde jede Seite dafür akzeptieren, dass kein KI-System irgendwo in der nuklearen Kommando-und-Kontroll-Kette der anderen Seite die Freigabebefugnis hat — und würden beide ein gemeinsames Prüfprotokoll für diese Behauptung zulassen?",
+        "en": "What independently checkable evidence would each side accept that no AI system holds release authority anywhere in the other side's nuclear command-and-control chain — and would both permit a shared audit protocol for that claim?"
+      }
+    }
+  ],
+  "bewertung": null
+}

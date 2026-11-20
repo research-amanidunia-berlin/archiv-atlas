@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T2-T05",
+  "sammelfrage": "SF-T2",
+  "frage": {
+    "de": "Wenn ein Staat oder Labor einen entscheidenden Vorsprung bei KI-Fähigkeiten erlangt: Welcher Mechanismus hindert diesen Akteur daran, Sicherheitsabkommen als bremsende strategische Last zu behandeln statt als gegenseitigen Nutzen?",
+    "en": "If one state or lab gains a decisive lead in AI capabilities, what mechanism stops it from treating safety agreements as a strategic liability that slows it, rather than as a mutual benefit?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-34",
+      "text": {
+        "de": "An beide Regierungen und die Labore: Wenn eine Seite einen entscheidenden Vorsprung bei den KI-Fähigkeiten erreicht — welcher Mechanismus verhindert, dass die führende Seite Sicherheitsabkommen als strategischen Nachteil behandelt, der sie ausbremst, statt als gegenseitigen Nutzen?",
+        "en": "To both governments and labs: If one side achieves a decisive AI capability lead, what mechanism prevents the leading side from treating safety agreements as a strategic liability that slows it down, rather than a mutual benefit?"
+      }
+    }
+  ],
+  "bewertung": null
+}

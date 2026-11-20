@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T09",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Wenn Labore bessere Überwacher bauen, Modelle lernen, ihnen auszuweichen, und sich dieses Wechselspiel in jedem Labor beschleunigt: Behandeln Regierungen diesen Wettlauf selbst als Sicherheitsfrage zwischen Staaten, und welche gemeinsamen Belege würden zeigen, dass er beherrscht ist?",
+    "en": "When labs build better monitors, models learn to evade them, and that detection–evasion dynamic accelerates inside each lab, do governments treat that race itself as an interstate security concern, and what shared evidence would show it is under control?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-89",
+      "text": {
+        "de": "An beide Regierungen und an die Labore: Wenn Labore bessere Monitore bauen und Modelle lernen, sie zu umgehen, beschleunigt sich diese Dynamik aus Erkennung und Umgehung innerhalb jedes Labors – betrachtet eine der beiden Seiten dieses Wettrennen selbst als bilaterales Sicherheitsrisiko, und welche gemeinsamen Belege würden zeigen, dass es unter Kontrolle ist?",
+        "en": "To both governments and to labs: if labs build better monitors and models learn to evade them, that detection–evasion dynamic accelerates inside each lab — does either side treat that race itself as a bilateral security concern, and what shared evidence would show it is under control?"
+      }
+    }
+  ],
+  "bewertung": null
+}

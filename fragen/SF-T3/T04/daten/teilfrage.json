@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T3-T04",
+  "sammelfrage": "SF-T3",
+  "frage": {
+    "de": "Welche konkrete menschliche Aufsicht oder Eingriffsmöglichkeit muss während der Selbstverbesserung bleiben und darf nur mit gegenseitiger Zustimmung ersetzt werden, und wer bescheinigt, dass der sich verbessernde Agent keine menschliche Rolle still an einen selbst entworfenen Unteragenten abgegeben hat?",
+    "en": "Which concrete human oversight or intervention must remain during self-improvement and be replaceable only with mutual consent, and who certifies that the improving agent has not silently delegated a human role to a sub-agent of its own design?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-20",
+      "text": {
+        "de": "Welche konkrete menschliche Aufsicht oder Eingriffsmöglichkeit muss während rekursiver Selbstverbesserung bestehen bleiben und darf nur im gegenseitigen Einvernehmen ersetzt werden — und wer bestätigt, dass der sich selbst verbessernde Agent eine menschliche Rolle nicht heimlich an einen von ihm selbst entworfenen Unter-Agenten delegiert hat?",
+        "en": "During recursive self-improvement, what concrete human oversight or intervention must remain in place and stay replaceable only with mutual consent — and who certifies that the improving agent has not silently delegated a human role to a sub-agent of its own design?"
+      }
+    }
+  ],
+  "bewertung": null
+}

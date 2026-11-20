@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F4-T02",
+  "sammelfrage": "SF-F4",
+  "frage": {
+    "de": "Wenn ein Frontier-Modell vor jeder öffentlichen Freigabe zuerst ausgewählte Partner, Forschende oder eine Prüfstelle erreicht: Braucht diese Version mit beschränktem Zugang dieselben veröffentlichten Fähigkeits- und Sicherheitsprüfungen und dieselbe Mitteilung an andere Regierungen wie eine öffentliche Freigabe?",
+    "en": "When a frontier model first reaches selected partners, researchers or a test body before any public release, must that limited-access version carry the same published capability and safety evaluations, and the same notification to other governments, as a public release?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-56",
+      "text": {
+        "de": "Wenn ein Frontier-Modell vor jeder öffentlichen Veröffentlichung zuerst ausgewählte Partner, Forschende oder eine Prüfstelle erreicht – etwa über den Vorabzugang, unter dem das britische AI Security Institute Claude Mythos Preview geprüft hat –, muss diese Version mit begrenztem Zugang dann dieselben veröffentlichten Bewertungen zu Fähigkeiten und Sicherheit und dieselbe Meldung an die andere Regierung haben wie eine öffentliche Veröffentlichung?",
+        "en": "When a frontier model first reaches selected partners, researchers, or a test body before any public release — for example the preview access under which the UK AI Security Institute evaluated Claude Mythos Preview — must that limited-access version carry the same published capability and safety evaluations, and the same notification to the other government, as a public release?"
+      }
+    }
+  ],
+  "bewertung": null
+}

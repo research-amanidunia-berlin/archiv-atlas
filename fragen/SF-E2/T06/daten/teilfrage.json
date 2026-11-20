@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E2-T06",
+  "sammelfrage": "SF-E2",
+  "frage": {
+    "de": "Hat eine Regierung direkt auf den Vorschlag eines Labors geantwortet? Gefragt wurde das zu China und dem Essay „We Must Pace the Frontier“ von Anthropic-Chef Dario Amodei; der Artikel von Minister Chen Yixin erschien einen Tag danach, eine direkte Antwort ist nicht belegt.",
+    "en": "Has a government answered a lab's proposal directly? This was asked about China and the essay “We Must Pace the Frontier” by Anthropic CEO Dario Amodei; Minister Chen Yixin's article appeared one day later, a direct answer is not documented."
+  },
+  "herkunft": [
+    "sachfragen"
+  ],
+  "originale": [
+    {
+      "id": "facts-05",
+      "text": {
+        "de": "Gibt es eine chinesische Antwort auf Amodeis Essay selbst (P43–P48)? Der offizielle Artikel erschien einen Tag danach; eine direkte Antwort ist nicht belegt.",
+        "en": "Is there a Chinese response to Amodei's essay itself (P43–P48)? The official article appeared one day after it; a direct answer is not documented."
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O2-T01",
+  "sammelfrage": "SF-O2",
+  "frage": {
+    "de": "Falls zwischenstaatliche KI-Gespräche ein schriftliches Protokoll ergeben: Wird es vollständig oder nur zusammengefasst veröffentlicht, und welche Aussagen (rote Linien, Schwellen, benannte Modelle) bleiben von vornherein draußen?",
+    "en": "If government AI talks produce a written record, will it be published in full or only in summary, and which categories of statement (red lines, thresholds, named models) are excluded by default?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-10",
+      "text": {
+        "de": "Falls der Dialog zwischen den USA und China ein schriftliches Protokoll hervorbringt — wird es vollständig veröffentlicht oder nur in Zusammenfassungen, und welche Kategorien von Aussagen (rote Linien, Schwellenwerte, namentlich genannte Modelle) sind standardmäßig von der Veröffentlichung ausgeschlossen?",
+        "en": "If the US–China dialogue produces a written record, will it be published in full, or only summaries — and which categories of statement (red lines, thresholds, named models) are excluded from publication by default?"
+      }
+    }
+  ],
+  "bewertung": null
+}

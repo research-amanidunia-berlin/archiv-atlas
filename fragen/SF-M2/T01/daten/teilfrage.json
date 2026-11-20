@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T01",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Wer nimmt eine Meldung in jedem Staat entgegen, und ist sie nur eine Benachrichtigung, oder verpflichtet sie eine Regierung dauerhaft zum Handeln? Veröffentlichen die Staaten eine gemeinsame Erklärung, die die zuständige Stelle je Staat, die meldepflichtigen Vorfallklassen und Schweregrade, einen verschlüsselten und authentifizierten Kanal mit Empfangsbestätigung und die längste Frist von der Entdeckung bis zur Meldung festlegt?",
+    "en": "Who receives a report in each state, and is it only a notification, or does it place a government under a standing obligation to act? Will the states publish a joint communiqué that sets out the competent authority in each state, the incident classes and severity levels that require notification, an encrypted and authenticated channel with receipt acknowledgment, and the maximum time from detection to notification?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-05",
+      "text": {
+        "de": "Wenn ein KI-Vorfall ernst genug ist, um den vorgeschlagenen Meldemechanismus auszulösen: Wer nimmt ihn auf jeder Seite entgegen, und zu welcher Reaktion verpflichtet eine Meldung jede der beiden Regierungen tatsächlich – ist es nur ein Benachrichtigungskanal oder eine ständige Pflicht zu handeln?",
+        "en": "If an AI incident is serious enough to trigger the proposed reporting mechanism, who on each side receives it, and what response does a report actually commit either government to — is it a notification channel only, or a standing obligation to act?"
+      }
+    },
+    {
+      "id": "hotline-06",
+      "text": {
+        "de": "Wie könnte eine KI-Hotline zwischen den USA und China für KI-Vorfälle, die die nationale Sicherheit berühren, aufgebaut sein, damit die Kommunikation rechtzeitig und wirksam ist?",
+        "en": "How could a US-China AI hotline for national security-level AI incidents be structured to ensure timely and effective communication?"
+      }
+    },
+    {
+      "id": "verify-71",
+      "text": {
+        "de": "Die Gespräche zwischen Bessent und He (20. Sept.) brachten einen US-Vorschlag für einen „Meldemechanismus für KI-Vorfälle“ und die Vereinbarung weiterer Gespräche. Chinas Außenministerium (22. Sept.) verwies Fragen an die „zuständigen Behörden“, ohne eine Zustimmung zu bestätigen. Werden Sie nun ein gemeinsames Kommuniqué veröffentlichen, das (a) die zuständige Behörde auf jeder Seite benennt (CERT, MSS, CISA, eine neue Stelle), (b) die Vorfallklassen und Schweregrade festlegt, die eine Meldepflicht auslösen, (c) den Kommunikationskanal bestimmt (verschlüsselt, authentifiziert, mit Empfangsbestätigung) und (d) die längste Frist von der Entdeckung bis zur Meldung nennt – oder bleibt die Hotline eine Pressemitteilung?",
+        "en": "The Bessent–He talks (20 Sept) produced a US proposal for an \"AI incident notification mechanism\" and an agreement to hold further talks. China's Foreign Ministry (22 Sept) referred questions to \"competent authorities\" without confirming acceptance. Will you now publish a joint communiqué that: (a) names the competent authority on each side (CERT, MSS, CISA, new body), (b) defines the incident classes and severity levels that trigger mandatory notification, (c) specifies the communication channel (encrypted, authenticated, with receipt acknowledgment), and (d) states the maximum time from detection to notification — or will the hotline remain a press release?"
+      }
+    }
+  ],
+  "bewertung": null
+}

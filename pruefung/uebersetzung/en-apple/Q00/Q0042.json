@@ -1,0 +1,123 @@
+{
+  "Q004298": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "drei weitere Modelle, die die Karte teilweise nutzten",
+            "englisch": "three additional models that partially used the map",
+            "besser": "three additional models that partially used the card"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Läufen mit 18 Partien",
+            "englisch": "runs with 18 parts",
+            "besser": "runs with 18 games"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Der beste menschliche Vergleichsspieler benötigte sechs Durchläufe",
+            "englisch": "the best human comparison player required six rounds",
+            "besser": "the best human comparison player needed six runs"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Astra minimiere die Ermüdung nur mäßig",
+            "englisch": "his performance ... Astra only moderately minimizes fatigue",
+            "besser": "Astra only reduces fatigue to a limited extent"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "neue Werte ... ausweisen",
+            "englisch": "demonstrate new values",
+            "besser": "report new results"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "einem menschlichen Spitzenkandidaten",
+            "englisch": "a human top candidate",
+            "besser": "a top human player"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Kleine Multi-Agenten-Versuche",
+            "englisch": "Small multi-agent attempts",
+            "besser": "Small multi-agent experiments"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "taktischer Ermüdungsvermeidung",
+            "englisch": "tactical fatigue avoidance",
+            "besser": "managing fatigue during tactical play"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "blieb weiterhin deutlich vor früheren Modellen",
+            "englisch": "remained significantly ahead of previous models",
+            "besser": "remained clearly ahead of previous models"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Kleine Multi-Agenten-Versuche",
+            "englisch": "Small multi-agent attempts",
+            "besser": "Small multi-agent experiments"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "EBR-bench",
+            "englisch": "the EBR benchmark",
+            "besser": "EBR-bench"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "die zentrale Spielmechanik",
+            "englisch": "the core gameplay mechanics",
+            "besser": "the core gameplay mechanic"
+          }
+        ]
+      }
+    ],
+    "q": "Q004298",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:52:01"
+  }
+}

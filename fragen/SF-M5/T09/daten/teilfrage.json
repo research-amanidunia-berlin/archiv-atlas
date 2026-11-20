@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M5-T09",
+  "sammelfrage": "SF-M5",
+  "frage": {
+    "de": "Welches wirtschaftliche Mittel (Bußgelder, Haftung oder Regeln für die Beschaffung) würde die Mitglieder der Leitung eines Labors persönlich schlechter stellen, wenn sie an einem vereinbarten Sicherheitsprüfpunkt vorbeirennen, als wenn sie ihn einhalten?",
+    "en": "Which economic instrument (fines, liability or procurement rules) would leave a lab's directors personally worse off for racing past an agreed safety checkpoint than for complying with it?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "redlines-19",
+      "text": {
+        "de": "Welches wirtschaftliche Instrument — Geldbußen, Haftung oder Vergaberegeln — würde dafür sorgen, dass es für die Direktoren eines Labors persönlich schlechter ausgeht, an einem vereinbarten Sicherheits-Checkpoint vorbeizupreschen, als sich daran zu halten?",
+        "en": "What economic instrument — fines, liability, or procurement rules — would make a lab's directors personally worse off for racing past an agreed safety checkpoint than for complying with it?"
+      }
+    }
+  ],
+  "bewertung": null
+}

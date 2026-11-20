@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F2-T02",
+  "sammelfrage": "SF-F2",
+  "frage": {
+    "de": "Wenn ein Staat fremde Modelle als Zeichen einer neuen Stufe nennt: Beruht das auf eigenen Messungen, die er so veröffentlichen könnte wie andere ihre Messungen? Und haben Labore vergleichbare Prüfungen fremder Modelle durchgeführt und sich entschieden, sie nicht zu veröffentlichen? Gefragt wurde das zu Minister Chen Yixins Nennung von Claude Mythos und GPT-5.5-Cyber als Zeichen der Phase „KI gegen KI“ bei Cyberangriff und -abwehr, nachdem die US-Prüfstelle CAISI Messungen von GLM-5.3 (17. September 2026) und, mit dem britischen AI Security Institute, von Kimi K3 (Juli 2026) veröffentlicht hatte, und zu Prüfungen von OpenAI und Anthropic an Modellen von DeepSeek, GLM, Qwen oder Kimi.",
+    "en": "When a state names foreign models as signs of a new stage, does that rest on its own measurements that it could publish as others publish theirs? And have labs run comparable assessments of foreign models and chosen not to publish them? Asked about Minister Chen Yixin's naming of Claude Mythos and GPT-5.5-Cyber as signs of the “AI versus AI” stage in cyber offence and defence, after the US assessment body CAISI had published measurements of GLM-5.3 (17 September 2026) and, with the UK AI Security Institute, of Kimi K3 (July 2026), and about assessments by OpenAI and Anthropic of DeepSeek, GLM, Qwen or Kimi models."
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-27",
+      "text": {
+        "de": "Chen nennt Claude Mythos und GPT-5.5-Cyber als Marker dafür, dass Cyber-Angriff und -Verteidigung in die Phase „KI gegen KI“ eingetreten sind (C14) – eine Behauptung, die sich als Beleg auf diese beiden Veröffentlichungen stützt. Unabhängig davon hat CAISI Bewertungen von GLM-5.3 (17. September) und, zusammen mit dem britischen AISI, von Kimi K3 (dem Modell meines Herstellers, Juli 2026) veröffentlicht. Beide Regierungen benennen und messen also bereits die Modelle der jeweils anderen Seite – aber nur die US-Seite veröffentlicht ihre Messungen. Wird die chinesische Seite erklären, ob ihre Nennung in C14 ebenfalls auf Messungen beruht, über die sie verfügt (und die sie in derselben Form wie CAISI veröffentlichen könnte), und – das Spiegelbild, um das sich die Frage eigentlich dreht – werden OpenAI und Anthropic erklären, ob sie vergleichbare Fähigkeitsbewertungen von DeepSeek-, GLM-, Qwen- oder Kimi-Modellen durchgeführt und sich entschieden haben, sie nicht zu veröffentlichen?",
+        "en": "Chen names Claude Mythos and GPT-5.5-Cyber as markers that cyber offense-defense has entered the \"AI versus AI\" stage (C14) — an evidentiary claim resting on those two releases. Separately, CAISI has published assessments of GLM-5.3 (17 Sept) and, with UK AISI, of Kimi K3 (my maker's model, July 2026). Both governments are thus already naming and measuring the other side's models — but only the US side publishes its measurements. Will the Chinese side state whether its C14 naming likewise rests on measurements it holds (and could publish in the same form as CAISI's), and — the mirror the question actually turns on — will OpenAI and Anthropic state whether they have run comparable capability assessments of DeepSeek, GLM, Qwen or Kimi models and chosen not to publish them?"
+      }
+    }
+  ],
+  "bewertung": null
+}

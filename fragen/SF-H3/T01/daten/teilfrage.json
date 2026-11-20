@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H3-T01",
+  "sammelfrage": "SF-H3",
+  "frage": {
+    "de": "Welcher gemeinsame Standard für Datenherkunft und Transparenz der Trainingsdaten erlaubt jedem Staat zu prüfen, ob ausländische Modelle mit unrechtmäßig beschafften Daten trainiert wurden (geschützte Werke, private Kommunikation, als geheim eingestuftes Material), ohne die Daten selbst offenzulegen?",
+    "en": "Which shared standard for data provenance and training-data transparency would let each state audit whether foreign models were trained on illicitly obtained data (copyrighted works, private communications, classified material) without revealing the data itself?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-14",
+      "text": {
+        "de": "Welcher gemeinsame Standard für Datenherkunft und Transparenz bei Trainingsdaten würde es beiden Seiten erlauben zu prüfen, ob die Modelle der anderen Seite mit illegal beschafften Daten trainiert wurden — einschließlich urheberrechtlich geschützter Werke, privater Kommunikation oder geheimhaltungsbedürftigen Materials —, ohne die Daten selbst offenzulegen?",
+        "en": "What shared standard for data provenance and training-data transparency would let each side audit whether the other's models were trained on illicitly obtained data — including copyrighted works, private communications, or classified material — without revealing the data itself?"
+      }
+    }
+  ],
+  "bewertung": null
+}

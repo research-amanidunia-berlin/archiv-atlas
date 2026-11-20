@@ -1,0 +1,298 @@
+{
+  "Q004504": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Systeme mit engen zeitlichen Abhängigkeiten",
+            "englisch": "systems with tight time dependencies",
+            "besser": "systems with tight timing constraints"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Titel zu anderen OpenAI-Motiven",
+            "englisch": "titles to other OpenAI models",
+            "besser": "titles of other OpenAI imagery"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "möglicherweise länger im Rückstand geblieben",
+            "englisch": "could have fallen behind for longer",
+            "besser": "might have remained in the backlog longer"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Nextdoor Codex für die eigenständige Umsetzung ... einsetzt",
+            "englisch": "Nextdoor Codex is used for the independent implementation ...",
+            "besser": "Nextdoor uses Codex to independently implement ..."
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "wie Nextdoors Kernplattformteam Codex ... nutzt",
+            "englisch": "how Nextdoor's core platform team Codex uses it",
+            "besser": "how Nextdoor's core platform team uses Codex"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Funktionen plattformübergreifend eigenständiger verantworten",
+            "englisch": "independently manage features across platforms more independently",
+            "besser": "take more independent ownership of features across platforms"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Ausdauer des Systems",
+            "englisch": "the system's durability",
+            "besser": "the system's persistence"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "Nextdoor schreibt Codex schnellere, eigenständigere Produktentwicklung und technische Fehlersuche zu",
+            "englisch": "Nextdoor attributes Codex's faster, more independent product development and technical troubleshooting to this",
+            "besser": "Nextdoor attributes faster, more independent product development and technical troubleshooting to Codex."
+          }
+        ]
+      }
+    ],
+    "q": "Q004504",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:52:19"
+  },
+  "Q004531": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Die Verfassenden argumentieren / die Verfassenden nennen",
+            "englisch": "The framers argue / the framers cite",
+            "besser": "The authors argue / the authors cite"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "löst Aufgaben möglichst leistungsfähig",
+            "englisch": "solves tasks as efficiently as possible",
+            "besser": "solves tasks as effectively as possible"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "wie sich die vorgeschlagenen Ansätze praktisch bewähren",
+            "englisch": "how the proposed approaches have proven practical",
+            "besser": "how the proposed approaches fare in practice"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Die Verfassenden argumentieren",
+            "englisch": "The framers argue",
+            "besser": "The authors argue"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "durch den Einsatz die eigenen Bedingungen verändern kann",
+            "englisch": "through the use can change one's own conditions",
+            "besser": "can change the conditions on which it depends through its deployment"
+          }
+        ]
+      }
+    ],
+    "q": "Q004531",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:52:33"
+  },
+  "Q004571": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Der Bericht vertritt die Einschätzung",
+            "englisch": "The report concludes",
+            "besser": "The report assesses"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Er beschreibt drei mögliche Wirkungsweisen.",
+            "englisch": "He describes three possible mechanisms of action.",
+            "besser": "It describes three possible mechanisms."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Als politisches Kurzdossier",
+            "englisch": "As a political brief",
+            "besser": "As a policy brief"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Die Suche solle mit bereitwilligen Infrastrukturbetreibern zusammenarbeiten",
+            "englisch": "The search should collaborate with willing infrastructure operators",
+            "besser": "The team should work with willing infrastructure operators"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Anlagen oder produzierte Güter beeinträchtigen",
+            "englisch": "impair facilities or produced goods",
+            "besser": "harm facilities or the goods they produce"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "ein staatliches ICS-Team zur proaktiven Suche nach Bedrohungen",
+            "englisch": "a state ICS team for the proactive search for threats",
+            "besser": "a government ICS team for proactive threat hunting"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "wegen ihrer besonderen Technik",
+            "englisch": "because of their special technology",
+            "besser": "because of their distinctive technical characteristics"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "leistungsfähigen Angreifern",
+            "englisch": "powerful attackers",
+            "besser": "highly capable attackers"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Das Kurzdossier",
+            "englisch": "The brief report",
+            "besser": "The policy brief"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "ein staatliches Team für proaktive Bedrohungssuche",
+            "englisch": "a state team for proactive threat detection",
+            "besser": "a government team for proactive threat hunting"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "ML-gestützte Angriffe",
+            "englisch": "AI-supported attacks",
+            "besser": "ML-supported attacks"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "proaktive Bedrohungssuche",
+            "englisch": "proactive threat detection",
+            "besser": "proactive threat hunting"
+          }
+        ]
+      }
+    ],
+    "q": "Q004571",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:52:25"
+  }
+}

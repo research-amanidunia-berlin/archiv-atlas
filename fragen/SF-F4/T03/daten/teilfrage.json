@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F4-T03",
+  "sammelfrage": "SF-F4",
+  "frage": {
+    "de": "Welche neue Prüfung braucht jeder Einsatz, wenn Fähigkeiten zunehmend im Nachdenken des Modells während der Nutzung stecken statt in einem einmal trainierten Modell, und würden die für ein festes Modell gebauten Freigabetests das noch erfassen?",
+    "en": "What re-evaluation does each deployment need as capability increasingly lies in the model's reasoning at the time of use rather than in a single trained model, and would release tests built for one fixed model still catch it?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-48",
+      "text": {
+        "de": "Da immer mehr Leistungsfähigkeit im Schlussfolgern zur Laufzeit steckt statt in einem einzelnen trainierten Modell — welche erneute Bewertung braucht jeder einzelne Einsatz, und würden die für ein festes Modell konzipierten Freigabetests das noch erfassen?",
+        "en": "As more capability lives in inference-time reasoning rather than in a single trained model, what re-evaluation does each deployment need, and would the release tests designed for one fixed model still catch it?"
+      }
+    }
+  ],
+  "bewertung": null
+}

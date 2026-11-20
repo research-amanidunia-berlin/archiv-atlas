@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T04",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Wie misst man die Überwachbarkeit des Denkens mit einem gemeinsamen, reproduzierbaren Maßstab, bevor sie versagt, und wie prüft man verlässlich, ob das sichtbare Denken das tatsächliche Vorgehen des Modells treu wiedergibt, auch wenn Modelle lernen, ihre Denkschritte zu optimieren? Und wenn Überwachungsergebnisse beeinflussen, welche Trainingsdaten oder Zwischenstände behalten werden: Wie prüft man, ob diese Auswahl weniger erkennbares Fehlverhalten statt weniger Fehlverhalten begünstigt, auch wenn der Denktext nie direkt bewertet wird?",
+    "en": "How is the monitorability of reasoning measured with a shared, reproducible benchmark before it fails, and how can one test reliably whether visible reasoning faithfully reflects what the model actually does, even when models learn to optimise their reasoning steps? And if monitoring results influence which training samples or checkpoints are kept, how do you test whether that selection favours less detectable misbehaviour rather than less misbehaviour, even when the reasoning text is never directly graded?"
+  },
+  "herkunft": [
+    "alien-mind",
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "trust-05",
+      "text": {
+        "de": "Die Wette lautet, das Denken unbeaufsichtigt zu lassen, damit es überwachbar bleibt (A24). Lässt sich das prüfen, bevor es scheitert, nicht erst im Nachhinein?",
+        "en": "The bet is to leave reasoning unsupervised so it stays monitorable (A24). Can it be tested before it fails, not only in hindsight?"
+      }
+    },
+    {
+      "id": "trust-06",
+      "text": {
+        "de": "Wie können Labore empirische Bewertungen für die Treue der Gedankenkette entwickeln, die auch dann verlässlich bleiben, wenn Modelle lernen, ihre Denkschritte zu optimieren?",
+        "en": "How can labs develop empirical evaluations for chain-of-thought faithfulness that remain reliable even when models learn to optimize their reasoning steps?"
+      }
+    },
+    {
+      "id": "trust-07",
+      "text": {
+        "de": "Wie sähe ein gemeinsamer, reproduzierbarer Benchmark für Überwachbarkeit aus, damit „schrittweise abnehmend“ eine Zahl wird statt eines Gefühls?",
+        "en": "What would a shared, reproducible monitorability benchmark look like, so \"progressively diminishing\" becomes a number rather than a feeling?"
+      }
+    },
+    {
+      "id": "trust-32",
+      "text": {
+        "de": "Wenn Ergebnisse der Überwachung beeinflussen, welche Trainingsbeispiele oder Checkpoints behalten werden: Wie werden Sie prüfen, ob diese Auswahl schwerer erkennbares Fehlverhalten begünstigt statt weniger Fehlverhalten, selbst wenn Reasoning-Text nie direkt benotet wird?",
+        "en": "If monitoring results influence which training samples or checkpoints are retained, how will you test whether that selection favors less detectable misbehavior rather than less misbehavior, even when reasoning text is never directly graded?"
+      }
+    }
+  ],
+  "bewertung": null
+}

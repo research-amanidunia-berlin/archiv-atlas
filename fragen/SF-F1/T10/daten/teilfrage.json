@@ -1,0 +1,57 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T10",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Was wäre nötig, damit eine staatliche Aufsichtsplattform für KI-Sicherheit und unabhängige Prüfer mit dauerhaftem Zugang im Labor nach einem gemeinsamen öffentlichen Protokoll dieselben Cyber-Tests in einer gemeinsamen Testumgebung durchführen, die Prüfer zweier Staaten jeweils am Modell des anderen, und die Ergebnisse in beiden veröffentlichen? Und könnten zwei Staaten eine gemeinsam bezeugte Prüfung desselben führenden KI-Modells durchführen und übereinstimmende Prüfsummen (Hashes) der Ergebnisse veröffentlichen?",
+    "en": "What would it take for a state AI safety supervision platform and independent evaluators with ongoing access inside labs to run the same cyber tests in a shared test environment under one public protocol, the evaluators of two states each on the other's model, and to publish the results in both? And could two states run one jointly witnessed evaluation of the same leading AI model and publish matching result digests (hashes)?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "verify-02",
+      "text": {
+        "de": "Was bräuchte es, damit die „Aufsichtsplattform für KI-Sicherheit“ (C22) und die eingebetteten Prüfer (P9) eine identische Testsammlung fahren und beide Ergebnisse veröffentlichen?",
+        "en": "What would it take for the \"AI safety supervision platform\" (C22) and the embedded evaluators (P9) to run one identical test suite and publish both results?"
+      }
+    },
+    {
+      "id": "verify-01",
+      "text": {
+        "de": "Könnten Chinas Aufsichtsplattform (C22) und Amodeis eingebettete Prüfer (P9) ein gemeinsames Cyber-Testgelände mit gegenseitigen Tests und öffentlichen Ergebnissen betreiben?",
+        "en": "Could China's supervision platform (C22) and Amodei's embedded evaluators (P9) run one shared cyber range with reciprocal tests and public results?"
+      }
+    },
+    {
+      "id": "verify-03",
+      "text": {
+        "de": "Können Chinas Aufsichtsplattform (C22) und die eingebetteten Prüfer aus dem Essay (P9) ein Testprotokoll teilen, damit eine Behauptung wie in C14 mit demselben Maßstab gemessen wird?",
+        "en": "Can China's supervision platform (C22) and the essay's embedded evaluators (P9) share one test protocol, so a C14-style claim is measured on one yardstick?"
+      }
+    },
+    {
+      "id": "verify-04",
+      "text": {
+        "de": "Könnten die im Artikel vorgeschlagene Plattform (C22) und die im Essay vorgeschlagenen Prüfer (P9) ein öffentliches Protokoll zur Messung offensiver Cyber-Schwellen teilen, und wo würde jede Seite es veröffentlichen?",
+        "en": "Could the platform the article proposes (C22) and the evaluators the essay proposes (P9) share one public protocol for measuring cyber-offense thresholds, and where would each publish it?"
+      }
+    },
+    {
+      "id": "verify-07",
+      "text": {
+        "de": "Könnten Sie eine gemeinsam beobachtete Bewertung desselben Spitzenmodells durchführen und übereinstimmende Ergebniszusammenfassungen veröffentlichen?",
+        "en": "Could you run one jointly witnessed evaluation of the same frontier model and publish matching result digests?"
+      }
+    },
+    {
+      "id": "verify-08",
+      "text": {
+        "de": "Könnte die Industrie gegenseitige Tests erproben: Die Prüfer jeder Seite führen dieselben vereinbarten Cyber-Tests am Spitzenmodell der anderen durch, und die Ergebnisse werden auf beiden Seiten veröffentlicht?",
+        "en": "Could industry pilot reciprocal testing: each side's evaluators run the same agreed cyber tests on the other's frontier model, results published on both sides?"
+      }
+    }
+  ],
+  "bewertung": null
+}

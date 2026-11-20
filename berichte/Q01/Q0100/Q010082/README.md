@@ -1,0 +1,17 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# SwiftUI: Webview ↔ JavaScript. Two-Way Communication.
+
+Report Q010082 · Source medium.com · Date 2025-10-18 · [Open original](https://medium.com/gitconnected/swiftui-webview-javascript-two-way-communication-d820f310d4c2)
+
+[All reports](../../../README.md) · Data: [bericht.json](bericht.json)
+
+## Summary (German, by Luna, unchecked)
+
+Der vollständige Bericht erläutert anhand einer Demo, wie SwiftUI und JavaScript über `WKUserContentController` Nachrichten austauschen, Swift-Funktionen mit Antwort aufrufen und Webfunktionen zur UI-Aktualisierung anstoßen können. Der Autor berichtet von möglichen Timingproblemen bei `callJavaScript` direkt nach dem Laden; die Beispiele sind keine allgemeine Zuverlässigkeits- oder Sicherheitsprüfung.
+
+## Collected questions
+
+Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
+
+No collected question reaches 10 % in levels 3–7 with any model.

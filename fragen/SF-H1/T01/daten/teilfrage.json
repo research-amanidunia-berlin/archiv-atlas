@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H1-T01",
+  "sammelfrage": "SF-H1",
+  "frage": {
+    "de": "Nach welchen gemeinsamen Kriterien sollen Regierungen die legitime Forschungsnutzung öffentlich zugänglicher KI-Ausgaben von einer Destillation unterscheiden, die die Sicherheitsinvestitionen eines anderen Landes systematisch unterläuft? Werden sie eine gemeinsame, enge Definition veröffentlichen, welche Nutzungen von Modellausgaben jede von ihnen als Verstoß wertet, und ein gemeinsames, überprüfbares Register geprüfter unerlaubter Versuche oder lizenzierter Destillation führen? Wie zeigt jede Regierung sonst, dass sie die Vereinbarung durchsetzt und den Vorwurf nicht nur gezielt einsetzt?",
+    "en": "By what agreed criteria should governments distinguish legitimate research use of publicly available AI outputs from distillation that systematically undermines another nation's safety investments? Will they publish a shared, narrow definition of which model-output uses each of them considers a violation, and keep a shared, auditable register of verified unauthorised attempts or of licensed distillation? How otherwise does each government show that it is enforcing the agreement rather than using the accusation selectively?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-01",
+      "text": {
+        "de": "Auf welche Kriterien sollten sich beide Regierungen einigen, um die legitime Nutzung öffentlich verfügbarer KI-Ausgaben für die Forschung von einer Modell-Destillation zu unterscheiden, die die Sicherheitsinvestitionen eines anderen Landes systematisch untergräbt?",
+        "en": "What criteria should both governments agree on to distinguish between legitimate use of publicly available AI outputs for research and model distillation that systematically undermines another nation's safety investments?"
+      }
+    },
+    {
+      "id": "origin-02",
+      "text": {
+        "de": "Die Destillation führender US-amerikanischer oder chinesischer Modelle durch Labore im jeweils anderen Land ist jetzt Teil der Gespräche: Werden die beiden Regierungen eine gemeinsame, enge Definition veröffentlichen, welche Nutzungen von Modellausgaben (z. B. synthetische Daten für das Feintuning, das Abgreifen von Fähigkeitsbewertungen) jede von ihnen als Verstoß betrachtet, oder bleibt der Begriff eine einseitige Anschuldigung?",
+        "en": "Distillation of frontier US or Chinese models by laboratories in the other country is now part of the talks; will the two governments publish a shared, narrow definition of which model-output uses (e.g. synthetic fine-tuning data, capability-eval harvesting) they each consider a violation, or will the term remain a unilateral accusation?"
+      }
+    },
+    {
+      "id": "origin-25",
+      "text": {
+        "de": "Wenn sich beide Regierungen auf eine gemeinsame Definition von unbefugter Destillation einigen (wie in origin-02 gefragt), werden sie dann auch ein gemeinsames, prüfbares Protokoll oder Register bestätigter unbefugter Versuche — oder lizenzierter, legitimer Destillation — führen, und wenn nicht, wie beweist dann eine der beiden Seiten, dass sie das Abkommen durchsetzt, statt den Vorwurf selektiv zu benutzen?",
+        "en": "If both governments agree on a shared definition of unauthorized distillation (as asked in origin-02), will they also maintain a shared, auditable log or registry of verified unauthorized attempts — or of licensed, legitimate distillation — and if not, how does either side prove it is enforcing the agreement rather than using the accusation selectively?"
+      }
+    }
+  ],
+  "bewertung": null
+}

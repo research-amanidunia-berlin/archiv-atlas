@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V3-T04",
+  "sammelfrage": "SF-V3",
+  "frage": {
+    "de": "Wer muss Rechenschaft ablegen, wenn ein Modell Werte auf Lagen überträgt, die beim Training niemand vorhergesehen hat: das Modell, das Labor oder der Mensch, der das Ziel gesetzt hat?",
+    "en": "Who is accountable when a model carries values into situations its trainers never foresaw: the model, the lab or the human who set the objective?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "humans-07",
+      "text": {
+        "de": "Wenn ein Modell Werte auf Lagen überträgt, die sich seine Trainer nie vorgestellt haben: Wer ist verantwortlich – das Modell, das Labor oder der Mensch, der das Ziel gesetzt hat?",
+        "en": "When a model generalizes values into situations its trainers never imagined, who is accountable — the model, the lab, or the human who set the objective?"
+      }
+    }
+  ],
+  "bewertung": null
+}

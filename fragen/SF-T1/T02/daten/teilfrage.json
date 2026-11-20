@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T02",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Welche messbaren Schwellen halten die weitere Skalierung von KI-Modellen automatisch an, wer prüft sie, und wie bleiben diese Auslöser bindend, wenn der Wettbewerb drückt?",
+    "en": "Which measurable thresholds automatically pause further scaling of AI models, who verifies them, and how do those triggers stay binding under competitive pressure?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "redlines-04",
+      "text": {
+        "de": "An die Labore und die ganze Branche: Welche messbaren Schwellen werden das Skalieren automatisch pausieren, wer überprüft sie, und wie bleiben diese Auslöser unter Wettbewerbsdruck verbindlich?",
+        "en": "Labs and the wider industry: which measurable thresholds will automatically pause scaling, who verifies them, and how will those triggers remain binding under competitive pressure?"
+      }
+    }
+  ],
+  "bewertung": null
+}

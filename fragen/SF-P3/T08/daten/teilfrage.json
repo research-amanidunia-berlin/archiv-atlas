@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T08",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Welche gemeinsame Bezugsgröße für den Umfang der Nutzung, welcher Beobachtungszeitraum, welcher Stichprobenplan, welche Definition von Beinahe-Vorfall und welche statistische Obergrenze (obere Konfidenzgrenze) würden es jedem erlauben zu sagen: „keine erkennbare systemische Fehlausrichtung (Verhalten gegen die vorgesehenen Ziele oder Werte) im Einsatzmaßstab“? Und wie muss dargestellt werden, dass die Erkennung lückenhaft ist?",
+    "en": "Which common exposure denominator (a measure of how much a system is used), observation period, sampling plan, near-miss definition and statistical upper bound (upper confidence bound) would allow anyone to say “no detectable systemic misalignment (behaviour against intended goals or values) at deployment scale”? And how must imperfect detection coverage be shown?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-60",
+      "text": {
+        "de": "Labore, Normungsgremien und beide Regierungen: Welcher gemeinsame Nenner für Exposition, Beobachtungszeitraum, Stichprobenplan, Definition von Beinahe-Unfällen und obere Konfidenzgrenze würde es beiden Seiten erlauben zu sagen „keine feststellbare systemische Fehlausrichtung im Einsatzmaßstab\", und wie muss eine unvollständige Erkennungsabdeckung dargestellt werden?",
+        "en": "Labs, standards bodies, and both governments: what common exposure denominator, observation period, sampling plan, near-miss definition, and upper confidence bound would allow either side to say “no detectable systemic misalignment at deployment scale,” and how must imperfect detection coverage be displayed?"
+      }
+    }
+  ],
+  "bewertung": null
+}

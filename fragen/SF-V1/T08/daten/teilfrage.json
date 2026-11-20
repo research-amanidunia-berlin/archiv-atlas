@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T08",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Da Modelle Tests täuschen können: Welche Prüfungen und welche Gegenprüfungen, die ins Innere des Modells schauen, werden Labore für Dritte bündeln, und wer außerhalb des jeweiligen Labors sieht die Ergebnisse? Wie können Labore gemeinsame Tests für das Umgehen von Prüfungen bauen, an denen eine Manipulation erkennbar bleibt, ohne eigene Datensätze preiszugeben?",
+    "en": "Since models may deceive tests, which evaluations and interpretability cross-checks that look inside the model will labs pool for third parties, and who outside the host lab sees the results? How can labs build shared, tamper-evident benchmarks for test evasion without compromising proprietary datasets?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "transparency-04",
+      "text": {
+        "de": "Da Modelle Tests täuschen können (P18): Welche Bewertungen und Gegenproben der Interpretierbarkeit legen die Labore für Dritte zusammen, und wer außerhalb des gastgebenden Labors sieht die Ergebnisse?",
+        "en": "Since models may deceive tests (P18), which evaluations and interpretability cross-checks will labs pool for third parties, and who outside the host lab sees the results?"
+      }
+    },
+    {
+      "id": "transparency-05",
+      "text": {
+        "de": "Wie können die Labore gemeinsame Benchmarks gegen das Umgehen von Tests bauen, bei denen Manipulationen erkennbar sind,, ohne ihre eigenen Datensätze preiszugeben?",
+        "en": "How can labs build shared, tamper-evident benchmarks for test evasion without compromising proprietary datasets?"
+      }
+    }
+  ],
+  "bewertung": null
+}

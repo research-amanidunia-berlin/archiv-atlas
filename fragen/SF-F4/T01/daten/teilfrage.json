@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F4-T01",
+  "sammelfrage": "SF-F4",
+  "frage": {
+    "de": "Einigen sich Staaten auf eine Definition von „Frontier-Modell“ (Modell an der vordersten Grenze der Entwicklung), nach Rechenaufwand, Fähigkeit oder Einsatz, und veröffentlicht jeder, welche Modelle seiner eigenen Firmen darunter fallen, damit alle über dieselben Modelle sprechen und keine Firma sich das passende Kriterium aussucht?",
+    "en": "Will states agree on one definition of a “frontier model” (a model at the leading edge of development), by compute, capability or deployment, and will each publish which of its own companies' models fall inside it, so that all know they are talking about the same models and no company can pick the criterion that suits it?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-40",
+      "text": {
+        "de": "Werden sich beide Seiten auf eine Definition von „Frontier-Modell\" einigen — nach Rechenleistung, Fähigkeit oder Einsatz — und veröffentlichen, welche Modelle ihrer eigenen Unternehmen darunterfallen, damit beide wissen, dass sie über dieselben Objekte sprechen, und kein Unternehmen sich das ihm passende Kriterium aussuchen kann?",
+        "en": "Will both sides agree on one definition of \"frontier model\" — by compute, capability, or deployment — and publish which of their own companies' models fall inside it, so that both know they are talking about the same objects and no company can pick the criterion that suits it?"
+      }
+    }
+  ],
+  "bewertung": null
+}

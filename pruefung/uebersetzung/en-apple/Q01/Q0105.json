@@ -1,0 +1,183 @@
+{
+  "Q010564": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "er berichtet keine ausgeführte Bereitstellung",
+            "englisch": "it does not report a detailed deployment",
+            "besser": "it does not report a deployment that was actually carried out"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "mit automatischer Übernahme",
+            "englisch": "with automatic selection",
+            "besser": "with automatic application"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "schließt Nullwerte aus",
+            "englisch": "excludes zero values",
+            "besser": "excludes null values"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "Für mehrere Sheets nennt der Beitrag",
+            "englisch": "For multiple sheets, the contribution uses",
+            "besser": "For multiple sheets, the article mentions"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "eine knappe Variante für alle Sheets",
+            "englisch": "a simplified version for all sheets",
+            "besser": "a concise version for all sheets"
+          }
+        ]
+      }
+    ],
+    "q": "Q010564",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:55:53"
+  },
+  "Q010579": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Dynamische Aktionen werden zur Laufzeit gesetzt.",
+            "englisch": "Dynamic actions are set for the duration.",
+            "besser": "Dynamic actions are set at runtime."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "wenn sie ausgeblendet werden müssen",
+            "englisch": "when they need to be blurred",
+            "besser": "when they need to be hidden."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "laut Darstellung",
+            "englisch": "According to the display",
+            "besser": "As described in the article"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "SF-Symbol-Favoriten-App",
+            "englisch": "SF icon favorites app",
+            "besser": "SF Symbols favorites app"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "SF-Symbolsammlung",
+            "englisch": "SF icon collection",
+            "besser": "SF Symbols collection"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "im ersten Fall kommt die Aktion über `connectionOptions`",
+            "englisch": "In the first case, the action is triggered via `connectionOptions`",
+            "besser": "In the first case, the action is received via `connectionOptions`."
+          },
+          {
+            "art": "sinn",
+            "deutsch": "enthält aber keine unabhängige Prüfung der Implementierung",
+            "englisch": "but does not contain an independent test of the implementation",
+            "besser": "but does not contain an independent review of the implementation"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "weggelassen",
+            "deutsch": "iOS-Schnellaktionen",
+            "englisch": "iOS actions",
+            "besser": "iOS quick actions"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Schnellaktionen",
+            "englisch": "actions",
+            "besser": "quick actions"
+          }
+        ]
+      }
+    ],
+    "q": "Q010579",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:56:04"
+  }
+}

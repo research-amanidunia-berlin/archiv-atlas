@@ -1,0 +1,171 @@
+{
+  "Q011701": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Anpassung an andere Gebietsschemata",
+            "englisch": "adjustment to other area codes",
+            "besser": "adaptation to other locales"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Buchstaben aus dem Wert entfernen ließen",
+            "englisch": "characters could be removed from the value",
+            "besser": "letters could be removed from the value"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Zugleich schränkt er ein, dass Zahlen zwar in das Feld eingegeben werden können",
+            "englisch": "At the same time, he restricts that numbers can indeed be entered into the field",
+            "besser": "At the same time, he qualifies this by noting that numbers can be entered into the field."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Gebietsschemata",
+            "englisch": "region schemes",
+            "besser": "locales"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Buchstaben würden aus dem gespeicherten Wert entfernt",
+            "englisch": "characters would be removed from the stored value",
+            "besser": "letters would be removed from the stored value"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "andere Gebietsschemata",
+            "englisch": "other area charts",
+            "besser": "other locales"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Buchstaben aus dem gespeicherten Wert entfernt würden",
+            "englisch": "characters from the stored value would be removed",
+            "besser": "letters would be removed from the stored value"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "werden nicht näher belegt",
+            "englisch": "is not further explained",
+            "besser": "is not further substantiated"
+          }
+        ]
+      }
+    ],
+    "q": "Q011701",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:57:04"
+  },
+  "Q011709": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "übernimmt er die ID und die beiden Felder",
+            "englisch": "it takes over the ID and the two fields",
+            "besser": "it copies the ID and the two fields"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Zugriffsschutz",
+            "englisch": "access protection",
+            "besser": "access control"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Die Migration wird in der Anleitung ausgelassen und als bereits vorhandene Grundlage vorausgesetzt.",
+            "englisch": "The migration is omitted in the instructions and is assumed to be based on an already existing foundation.",
+            "besser": "The migration is omitted from the guide and is assumed to already be in place."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "bei fehlendem Datensatz",
+            "englisch": "when the data is not found",
+            "besser": "when the record is missing"
+          }
+        ]
+      }
+    ],
+    "q": "Q011709",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:57:01"
+  }
+}

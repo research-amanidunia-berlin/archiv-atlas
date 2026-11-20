@@ -1,0 +1,117 @@
+{
+  "Q003088": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "das Öffnen von Taschenverschlüssen",
+            "englisch": "opening zipper pulls",
+            "besser": "opening bag closures"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "semantische und physische Sicherheit",
+            "englisch": "semantic and physical security",
+            "besser": "semantic and physical safety"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "untergeordneten sicherheitskritischen Steuerungen",
+            "englisch": "subordinate security-critical controls",
+            "besser": "lower-level safety-critical controllers"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheitsrat",
+            "englisch": "security board",
+            "besser": "safety council"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "umfassenden Sicherheitsnachweis",
+            "englisch": "comprehensive security proof",
+            "besser": "comprehensive safety assurance"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "der Beitrag",
+            "englisch": "the contribution",
+            "besser": "the article"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Taschenverschlüsse öffnen",
+            "englisch": "opening zipper closures",
+            "besser": "opening bag closures"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Sicherheitsprüfungen",
+            "englisch": "security tests",
+            "besser": "safety assessments"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Leistungsangaben",
+            "englisch": "performance specifications",
+            "besser": "performance claims"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "umfassender Sicherheitsnachweis",
+            "englisch": "comprehensive security proof",
+            "besser": "comprehensive safety assurance"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "der Beitrag",
+            "englisch": "the contribution",
+            "besser": "the article"
+          }
+        ]
+      }
+    ],
+    "q": "Q003088",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:51:21"
+  }
+}

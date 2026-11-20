@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E5-T03",
+  "sammelfrage": "SF-E5",
+  "frage": {
+    "de": "Wie können Menschen, die von KI betroffen sind, die Sicherheitszusagen ihrer Regierungen verbindlich mitbestimmen, bevor diese sie auf einem Gipfel festlegen? Zum Beispiel über einen Bürgerrat, ein Einspruchsrecht nach öffentlicher Anhörung oder eine unabhängige Vertretung mit festen Rechten, und nicht nur über Gespräche mit Fachleuten.",
+    "en": "How can people affected by AI have a binding say in their governments' safety commitments before these are locked in at a summit? For example through a citizens’ assembly, a right to object after a public consultation or an independent body with formal rights, and not only through talks among experts."
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-31",
+      "text": {
+        "de": "An beide Regierungen und zivilgesellschaftliche Organisationen: Welcher verbindliche Mechanismus — eine Bürgerversammlung, ein Vetorecht durch öffentliche Stellungnahme oder eine unabhängige Interessenvertretung mit formellem Antragsrecht — stellt über technische Konsultationen hinaus sicher, dass Menschen in beiden Ländern, die von Frontier-KI-Systemen betroffen sind, Sicherheitsverpflichtungen beeinflussen können, bevor diese beim Gipfel festgeschrieben werden?",
+        "en": "To both governments and civil-society organizations: beyond technical consultations, what binding mechanism — a citizens' assembly, a public-comment veto, or an independent advocacy body with formal standing — ensures that people in both countries who are affected by frontier-AI systems can influence safety commitments before those commitments are locked in at the summit?"
+      }
+    }
+  ],
+  "bewertung": null
+}

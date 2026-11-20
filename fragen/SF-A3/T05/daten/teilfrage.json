@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A3-T05",
+  "sammelfrage": "SF-A3",
+  "frage": {
+    "de": "Wie sollen Aufsichtsbehörden und Labore die Gesamtrisiken und die miteinander verknüpften Risiken tausender einzeln genehmigter Einsätze bewerten, die Infrastruktur, Modelle, Datenquellen oder Fehlerarten teilen?",
+    "en": "How should regulators and labs assess aggregate and correlated risks across thousands of separately approved deployments that share infrastructure, models, data sources or failure modes?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-43",
+      "text": {
+        "de": "Wie sollten Regulierungsbehörden und Labore aggregierte und korrelierte Risiken über Tausende einzeln genehmigter Einsätze hinweg bewerten, die sich Infrastruktur, Modelle, Datenquellen oder Fehlermodi teilen?",
+        "en": "How should regulators and labs assess aggregate and correlated risks across thousands of individually approved deployments that share infrastructure, models, data sources, or failure modes?"
+      }
+    }
+  ],
+  "bewertung": null
+}

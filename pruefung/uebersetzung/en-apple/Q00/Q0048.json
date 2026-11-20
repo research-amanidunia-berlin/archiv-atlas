@@ -1,0 +1,116 @@
+{
+  "Q004896": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 1,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "Von den nicht allgemeinen, berufsbezogenen Nachrichten ordnen sie 43,5 Prozent Aufgaben außerhalb des Berufs der jeweiligen Nutzer zu.",
+            "englisch": "From the non-general, job-related messages, they assign 43.5 percent of the tasks to activities outside the respective users' professions.",
+            "besser": "They classify 43.5 percent of the non-general, job-related messages as concerning tasks outside the users’ respective professions."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Beschäftigten im Kundenerlebnis",
+            "englisch": "employees in the customer experience",
+            "besser": "customer experience employees"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Bei Beschäftigten aus dem Ingenieurwesen sind 18,5 Prozent ihrer Nachrichten aufgabenfremd",
+            "englisch": "Among employees from engineering, 18.5 percent of their messages are unrelated to tasks",
+            "besser": "Among engineering employees, 18.5 percent of their messages concern tasks outside their profession."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Anteil berufsfremder Aufgaben",
+            "englisch": "share of non-work-related tasks",
+            "besser": "share of tasks outside the users’ professions"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "nach Darstellung der Autoren",
+            "englisch": "according to the authors' presentation",
+            "besser": "according to the authors"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "erste Ausgabe einer Forschungsreihe",
+            "englisch": "the first issue of a research series",
+            "besser": "the first installment in a research series"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "kein nachgewiesener Wirkmechanismus",
+            "englisch": "not a proven mechanism of action",
+            "besser": "not a proven mechanism"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "der spezifischen, nicht allgemein verbreiteten Aufgaben",
+            "englisch": "the specific, non-commonly found tasks",
+            "besser": "the specific tasks that are not common across professions"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Designaufgaben selten in Nachrichten anderer Gruppen erscheinen",
+            "englisch": "design tasks rarely appear in news from other groups",
+            "besser": "design tasks rarely appear in messages from other groups"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Anteil berufsfremder Aufgaben",
+            "englisch": "proportion of non‑professional tasks",
+            "besser": "proportion of tasks outside the users’ professions"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Beschäftigte greifen auf Aufgaben anderer Berufe zurück",
+            "englisch": "employees draw on tasks from other professions",
+            "besser": "employees take on tasks from other professions"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q004896",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:53:06"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A1-T01",
+  "sammelfrage": "SF-A1",
+  "frage": {
+    "de": "Welche Mindestgrenzen und Schutzvorkehrungen sollen für Zugangsdaten, Kommunikation, Geld, dauerhaftes Gedächtnis, Verträge, Änderungen an Systemen und Handlungen in der physischen Welt gelten, auch wenn ein Agent über Tage ohne sofortige menschliche Zustimmung handelt, und wer darf Befugnisse erteilen, prüfen und entziehen?",
+    "en": "Which minimum boundaries and safeguards should apply to credentials, communications, funds, persistent memory, contracts, changes to systems and physical actions, including when an agent acts over days without immediate human approval, and who may grant, audit and revoke those permissions?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-21",
+      "text": {
+        "de": "Welche Mindestgrenzen der Befugnis sollten für den Zugriff jedes werkzeugnutzenden Agenten auf Zugangsdaten, Kommunikation, Geldmittel, dauerhaftes Gedächtnis und physische Handlungen gelten, und wer darf diese Berechtigungen erteilen, prüfen und widerrufen?",
+        "en": "What minimum authority boundaries should apply to every tool-using agent’s access to credentials, communications, funds, persistent memory, and physical actions, and who may grant, audit, and revoke those permissions?"
+      }
+    },
+    {
+      "id": "humans-26",
+      "text": {
+        "de": "Welche Schutzmaßnahmen sollten gelten, wenn KI-Agenten über mehrere Tage hinweg handeln, Geld ausgeben, Verträge abschließen oder Systeme verändern können, ohne dass unmittelbar ein Mensch zustimmt?",
+        "en": "Which safeguards should apply when AI agents can act across days, spend money, sign agreements, or change systems without immediate human approval?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T01",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Wie bekommen Staaten des Globalen Südens, Hochschulen und Zivilgesellschaft eine verbindliche Stimme statt Beobachterstatus in den entstehenden KI-Sicherheitsplattformen, Prüfverbünden und Normungsgremien?",
+    "en": "How will Global South states, universities and civil society get a binding voice, not just observer status, in the emerging AI safety platforms, evaluation consortia and standards bodies?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-13",
+      "text": {
+        "de": "Wie werden Staaten des Globalen Südens, Universitäten und die Zivilgesellschaft eine verbindliche Stimme erhalten — nicht nur Beobachterstatus — in der entstehenden Architektur aus KI-Sicherheitsplattformen, Bewertungskonsortien und Normungsgremien?",
+        "en": "How will Global South states, universities, and civil society get a binding voice — not just observer status — in the emerging architecture of AI safety platforms, evaluation consortia, and standards bodies?"
+      }
+    }
+  ],
+  "bewertung": null
+}

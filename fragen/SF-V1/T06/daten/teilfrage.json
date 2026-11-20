@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T06",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Was bedeutet Aufsicht, wenn man das Denken, auf das man sich am meisten verlässt, nicht mehr verlässlich überwachen kann? Und wenn ein Labor die Gedankenkette verbirgt, um sie vor dem Druck zu schützen, der entstünde, wenn sie im Training bewertet würde: Wer kann seine Sicherheitsdarstellung dann noch widerlegen?",
+    "en": "What does oversight mean when the reasoning we most rely on can no longer be reliably monitored? And when a lab hides the chain of thought to protect it from the pressure that would arise if it were graded in training, who can still falsify its safety story?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-02",
+      "text": {
+        "de": "Wenn wir das Denken, auf das wir uns am meisten verlassen, nicht mehr zuverlässig überwachen können: Was bedeutet „Aufsicht“ dann überhaupt?",
+        "en": "If we can no longer reliably monitor the reasoning we most rely on, what does \"oversight\" even mean?"
+      }
+    },
+    {
+      "id": "transparency-06",
+      "text": {
+        "de": "Wenn ein Labor die Gedankenkette verbirgt, „um sie vor Aufsichtsdruck zu schützen“: Wer kann seine Sicherheitsgeschichte dann noch widerlegen?",
+        "en": "When a lab hides the chain of thought \"to protect it from supervision pressure,\" who can still falsify its safety story?"
+      }
+    }
+  ],
+  "bewertung": null
+}

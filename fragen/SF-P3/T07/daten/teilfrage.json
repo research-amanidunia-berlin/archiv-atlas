@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T07",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Wird jede öffentliche Aussage, ein führendes KI-Modell sei „besser ausgerichtet“ als ein anderes (folge also seinen vorgesehenen Zielen und Werten besser), reproduzierbare Kriterien, externe Prüfungen und widersprechende Ergebnisse enthalten?",
+    "en": "Will every public claim that one leading AI model is “better aligned” than another (that is, follows its intended goals and values better) include reproducible criteria, external audits and disconfirming results?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "verify-28",
+      "text": {
+        "de": "An die Labore und die ganze Branche: Wird jede öffentliche Behauptung, ein Spitzenmodell sei „besser ausgerichtet“ als ein anderes, wiederholbare Kriterien, externe Prüfungen und widersprechende Ergebnisse enthalten?",
+        "en": "Labs and the wider industry: will every public claim that one frontier model is “better aligned” than another include reproducible criteria, external audits, and disconfirming results?"
+      }
+    }
+  ],
+  "bewertung": null
+}

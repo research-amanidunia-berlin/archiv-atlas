@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O3-T02",
+  "sammelfrage": "SF-O3",
+  "frage": {
+    "de": "Wenn langlebige Vorfallakten, Sicherheitsnachweise, Identitäten von KI-Agenten und Prüfsignaturen die heutige Kryptografie überdauern: Welche Regeln für den Wechsel auf quantensichere Verfahren, den Schlüsselwechsel und die weitere Prüfung älterer Belege sollten alle annehmen, ohne früher anerkannte Belege ungültig zu machen?",
+    "en": "When long-lived incident records, safety attestations, AI-agent identities and audit signatures outlive today's cryptography, which rules for migration to quantum-resistant methods, key rotation and the continued verification of older evidence should everyone adopt without invalidating previously accepted evidence?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-61",
+      "text": {
+        "de": "Normungsgremien, Labore und Regierungen: Wenn langlebige Vorfallsaufzeichnungen, Sicherheitsbescheinigungen, Agenten-Identitäten und Prüfsignaturen die heutige Kryptografie überdauern, welche Post-Quanten-Migrations-, Schlüsselrotations- und Rückwärts-Überprüfungsregeln sollten beide Seiten übernehmen, ohne zuvor akzeptierte Nachweise ungültig zu machen?",
+        "en": "Standards bodies, labs, and governments: when long-lived incident records, safety attestations, agent identities, and audit signatures outlive today’s cryptography, what post-quantum migration, key-rotation, and backward-verification rules should both sides adopt without invalidating previously accepted evidence?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,50 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T04",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Welcher gemeinsame, neutrale und offene Maßstab (Aufgaben, Erfolgsrate, abgeschirmte Testumgebung, Belege) zeigt, dass eine Cyber-Schwelle überschritten ist? Würden ein Ministerium und ein Labor in verschiedenen Staaten ihn annehmen, bevor das nächste Modell als Überschreitung eingestuft wird, damit Schwellen gemessen und nicht behauptet werden? Und dient derselbe Maßstab dann sowohl dazu, ein Modell einzustufen, als auch dazu, das Tempo seiner Entwicklung zu steuern?",
+    "en": "Which shared, neutral and open yardstick (tasks, success rate, a sealed-off test environment, evidence) shows that a cyber threshold is crossed? Would a ministry and a lab in different countries accept it before the next model is declared to have crossed it, so that thresholds are measured rather than asserted? And would the same scale then serve both to classify a model and to set the pace of its development?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "cyber-14",
+      "text": {
+        "de": "Welcher Maßstab sollte für die Behauptung gelten, dass Mythos und GPT-5.5-Cyber eine überschrittene Schwelle der Cyber-Fähigkeit markieren (C14), und würden ein Ministerium und ein Labor auf entgegengesetzten Seiten ihn beide akzeptieren?",
+        "en": "What standard should govern the claim that Mythos and GPT-5.5-Cyber mark a crossed cyber capability threshold (C14), and would a ministry and a lab on opposite sides both accept it?"
+      }
+    },
+    {
+      "id": "cyber-15",
+      "text": {
+        "de": "Können sich die Aufsichtsbehörden beider Seiten auf einen neutralen Benchmark für Cyber-Bewertungen einigen, damit „KI gegen KI“ (C14) ein gemeinsames Testfeld wird und keine Frontlinie?",
+        "en": "Can regulators on both sides agree on one neutral cyber-evaluation benchmark, so \"AI versus AI\" (C14) becomes a shared test bed, not a battlefield line?"
+      }
+    },
+    {
+      "id": "cyber-16",
+      "text": {
+        "de": "Einigen Sie sich auf einen minimalen offenen Standard für Tests offensiver Cyber-Fähigkeit, damit Schwellen zu Messungen werden?",
+        "en": "Will you agree a minimal open standard for testing cyber offense, so thresholds become measurements?"
+      }
+    },
+    {
+      "id": "cyber-17",
+      "text": {
+        "de": "Welche gemeinsame Definition einer Cyber-Fähigkeitsschwelle – Aufgaben, Erfolgsquote, Sandbox – sollten beide übernehmen, damit das Benennen eines Modells und das Festlegen seines Tempos dieselbe Skala nutzen?",
+        "en": "What shared definition of a cyber-capability threshold — tasks, success rate, sandbox — should both adopt, so naming and pacing a model use one scale?"
+      }
+    },
+    {
+      "id": "cyber-18",
+      "text": {
+        "de": "Könnten sich die Aufsichtsbehörden beider Seiten darauf einigen, welche Belege – welche Tests, welche Kennzahlen – beweisen, dass eine Cyber-Schwelle überschritten ist, bevor das nächste Modell benannt wird?",
+        "en": "Could regulators on both sides agree what evidence — which tests, which metrics — proves a cyber threshold crossed, before the next model is named?"
+      }
+    }
+  ],
+  "bewertung": null
+}

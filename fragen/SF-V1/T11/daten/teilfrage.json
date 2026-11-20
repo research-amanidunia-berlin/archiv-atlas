@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T11",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Wie unterscheidet man bei sich selbst ehrliches von interessegeleitetem Denken, welche Belege für diesen Unterschied würde man von einem Modell akzeptieren, und welcher Test trennt tatsächlich vertretene von nur vorgeführten Werten?",
+    "en": "How do you tell honest from motivated thinking in yourself, what evidence of the difference would you accept from a model, and which test separates held from performed values?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-11",
+      "text": {
+        "de": "Wie unterscheiden Sie bei sich selbst ehrliches von interessegeleitetem Denken – und welchen Beleg für diesen Unterschied würden Sie von einem Modell akzeptieren?",
+        "en": "How do you tell honest thinking from motivated thinking in yourself — and what evidence of the difference would you accept from a model?"
+      }
+    },
+    {
+      "id": "trust-13",
+      "text": {
+        "de": "Wenn ich von Integrität spreche: Welcher Test würde unterscheiden, ob ich einen Wert vertrete oder ihn vorführe?",
+        "en": "When I speak of integrity, what test would distinguish holding a value from performing one?"
+      }
+    }
+  ],
+  "bewertung": null
+}

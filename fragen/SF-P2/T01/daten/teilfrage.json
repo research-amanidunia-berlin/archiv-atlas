@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P2-T01",
+  "sammelfrage": "SF-P2",
+  "frage": {
+    "de": "Wer wählt die Prüfer aus, wer bezahlt sie, wer darf sie entlassen, und wird dieser Vertrag vor dem ersten Befund veröffentlicht? Welchen Mindestvertrag, der ihre Unabhängigkeit wahrt, könnten Labore jetzt unterschreiben, ohne auf ein Gesetz zu warten, einschließlich der Frage, wie Berichte veröffentlicht werden? Und wie bleiben die Prüfer unabhängig, wenn Geld oder Infrastruktur vom geprüften Labor kommen?",
+    "en": "Who selects, pays and may dismiss the evaluators, and is that contract published before the first finding? What minimum contract that preserves their independence could labs sign now, without waiting for legislation, including how reports are published? And how do the evaluators stay independent when money or infrastructure comes from the lab they audit?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "verify-20",
+      "text": {
+        "de": "Wer wählt, bezahlt und kann einen eingebetteten Prüfer entlassen, und würden Sie diesen Vertrag vor dem ersten Befund veröffentlichen?",
+        "en": "Who selects, pays and can dismiss an embedded evaluator, and would you publish that contract before the first finding?"
+      }
+    },
+    {
+      "id": "verify-21",
+      "text": {
+        "de": "Welchen minimal tragfähigen Vertrag für eingebettete Prüfer könnten die Labore jetzt unterschreiben, ohne auf ein Gesetz zu warten, der die Unabhängigkeit der Prüfer wahrt – einschließlich der Frage, wer zahlt und wie Berichte veröffentlicht werden?",
+        "en": "What minimal-viable contract for embedded evaluators could labs sign now, without waiting for legislation, that preserves reviewer independence — including who pays and how reports are published?"
+      }
+    },
+    {
+      "id": "verify-22",
+      "text": {
+        "de": "Wie können eingebettete Prüfer unabhängig bleiben, wenn ihre Finanzierung oder Infrastruktur weiterhin von den Laboren abhängen könnte, die sie prüfen?",
+        "en": "How can embedded evaluators remain independent when their funding or infrastructure might still depend on the labs they audit?"
+      }
+    }
+  ],
+  "bewertung": null
+}

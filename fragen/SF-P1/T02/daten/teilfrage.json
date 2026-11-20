@@ -1,0 +1,37 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P1-T02",
+  "sammelfrage": "SF-P1",
+  "frage": {
+    "de": "Bekommen ausländische Prüfer in den Laboren eines Staates denselben mitarbeiterähnlichen Zugang, der von den Laboren eines anderen verlangt wird, und würden dessen Labore das umgekehrt annehmen? Würden ein eigenes KI-Gesetz und eine nationale Aufsichtsplattform, die ein Staat ankündigt, von einem anderen Staat bestellte Prüfer annehmen, mit demselben Zugang und mit Veröffentlichung ohne redaktionelle Kontrolle? Und welche Regel gilt für ihre Notizen, wenn ein Gericht oder eine Sicherheitsbehörde eine Offenlegung über ihren Sicherheitsauftrag hinaus erzwingt: Dürfen sie dann eine unabhängige Aufsicht informieren?",
+    "en": "Do foreign evaluators get, inside one state's labs, the same employee-like access that is asked of another state's labs, and would those labs accept the reverse? Would a dedicated AI law and a national supervision platform announced by a state accept evaluators appointed by another state, with the same access and with publication without editorial control? And what rule governs their notes when a court or security authority compels disclosure beyond their safety mandate: may they then notify an independent oversight body?"
+  },
+  "herkunft": [
+    "chen-yixin",
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-09",
+      "text": {
+        "de": "Der Artikel kündigt ein eigenes KI-Gesetz und eine nationale Aufsichtsplattform an. Erhalten ausländische Prüfer in chinesischen Laboren den mitarbeiterähnlichen Zugang, den P9 von US-Laboren verlangt – und würden US-Labore das Umgekehrte akzeptieren?",
+        "en": "It announces a dedicated AI law and a national supervision platform. Will foreign evaluators get the employee-like access inside Chinese labs that P9 asks of US labs — and would US labs accept the reverse?"
+      }
+    },
+    {
+      "id": "verify-10",
+      "text": {
+        "de": "Würden diese Instrumente Prüfer akzeptieren, die von der anderen Seite ernannt werden – gleicher Zugang, Veröffentlichung ohne redaktionelle Kontrolle?",
+        "en": "Would those instruments accept evaluators appointed by the other side — same access, publication without editorial control?"
+      }
+    },
+    {
+      "id": "verify-72",
+      "text": {
+        "de": "Wenn eine bilaterale Vereinbarung einem Prüfer aus dem einen Land dauerhaften Zugang innerhalb eines Labors im anderen Land gewährt: Welche Regel wird für die Notizen des Prüfers gelten, wenn ein Gericht oder eine Behörde für nationale Sicherheit eine Offenlegung erzwingt, die über den Sicherheitsauftrag des Prüfers hinausgeht, und darf der Prüfer eine unabhängige Aufsichtsstelle benachrichtigen?",
+        "en": "If a bilateral arrangement grants an evaluator from one country ongoing access inside a lab in the other, what rule will govern evaluator notes when a court or national-security authority compels disclosure beyond the evaluator’s safety mandate, and may the evaluator notify an independent oversight body?"
+      }
+    }
+  ],
+  "bewertung": null
+}

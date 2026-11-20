@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P2-T04",
+  "sammelfrage": "SF-P2",
+  "frage": {
+    "de": "Werden die Zugangsrechte der Prüfer veröffentlicht, gibt es einen unabhängigen, befristeten Einspruch gegen Schwärzungen, ein unabhängiges Verfahren für den Streit, wenn ein Labor einen Befund als Geschäftsgeheimnis schwärzt und der Prüfer ihn für ein Sicherheitsproblem hält, und ein öffentliches Register verweigerter Zugänge und Schwärzungen, damit das Schweigen eines Prüfers nicht als Zeichen von Sicherheit gelesen wird?",
+    "en": "Are evaluators' access rights published, is there an independent, time-limited appeal against redactions, an independent process for disputes when a lab redacts a finding as commercially sensitive but the evaluator calls it a safety concern, and a public register of denied access and redactions, so that an evaluator's silence cannot be read as a sign of safety?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "transparency-01",
+      "text": {
+        "de": "An die Labore: Veröffentlichen Sie die Zugangsrechte der Prüfer, und geben Sie ihnen einen unabhängigen, befristeten Einspruch gegen Schwärzungen?",
+        "en": "Labs: will you publish evaluators' access rights and give them an independent, time-limited appeal against redactions?"
+      }
+    },
+    {
+      "id": "transparency-02",
+      "text": {
+        "de": "Welches unabhängige Verfahren entscheidet einen Streit, wenn ein Labor einen Befund als geschäftlich sensibel schwärzt, der Prüfer ihn aber als Sicherheitsproblem einstuft?",
+        "en": "What independent process resolves disputes when a lab redacts a finding as commercially sensitive but the evaluator calls it a safety concern?"
+      }
+    },
+    {
+      "id": "transparency-03",
+      "text": {
+        "de": "Welches öffentliche Register verweigerter Zugänge und Schwärzungen (P28) führen die Labore, damit das Schweigen eines Prüfers nicht als Sicherheit gelesen werden kann?",
+        "en": "What public register of denied access and redactions (P28) will labs keep, so an evaluator's silence cannot read as safety?"
+      }
+    }
+  ],
+  "bewertung": null
+}

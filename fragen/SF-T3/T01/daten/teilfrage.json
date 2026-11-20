@@ -1,0 +1,30 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T3-T01",
+  "sammelfrage": "SF-T3",
+  "frage": {
+    "de": "Welches messbare Zeichen, also welche beobachtbare Änderung in der Fähigkeit eines Modells, die Abläufe zu verbessern, mit denen seine eigenen Fähigkeiten entwickelt werden, würden Labore und Staaten gemeinsam als Beginn der Selbstverbesserung anerkennen, und wer darf im Labor danach suchen? Welche beobachtbare Änderung markiert den Schritt von beaufsichtigter automatisierter Forschung zu voll selbstständiger Selbstverbesserung, und welche öffentliche Stelle darf diesen Schritt nach Prüfung der Belege für menschliche Kontrolle erlauben oder ablehnen?",
+    "en": "Which measurable signature, that is, which observable change in a model's ability to improve the pipeline that develops its own capabilities, would labs and states jointly accept as the onset of self-improvement, and who is authorised to look for it inside a lab? Which observable change marks the move from supervised automated research to fully autonomous self-improvement, and which public institution may authorise or reject that move after reviewing evidence of human control?"
+  },
+  "herkunft": [
+    "allgemein",
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-23",
+      "text": {
+        "de": "Bevor „rekursive Selbstverbesserung\" durch irgendeinen Standard geregelt werden kann: Auf welches messbare Kennzeichen würden sich die Labore, die USA und China als Beginn einigen — eine beobachtbare Veränderung in der Fähigkeit eines Modells, seine eigene Entwicklungskette zu verbessern —, und wer ist befugt, innerhalb eines Labors nach diesem Kennzeichen zu suchen?",
+        "en": "Before \"recursive self-improvement\" can be governed by any standard, what measurable signature would the labs, the US and China agree counts as its onset — an observable change in a model's ability to improve its own capability pipeline — and who is authorised to look for that signature inside a lab?"
+      }
+    },
+    {
+      "id": "redlines-42",
+      "text": {
+        "de": "Welche beobachtbare Veränderung würde den Übergang von überwachter automatisierter Forschung zu vollständig autonomer rekursiver Selbstverbesserung markieren, und welche öffentliche Institution könnte diesen Übergang genehmigen oder ablehnen, nachdem sie Belege für menschliche Kontrolle geprüft hat?",
+        "en": "What observable change would mark the move from supervised automated research to fully autonomous recursive self-improvement, and which public institution could authorize or reject that move after reviewing evidence of human control?"
+      }
+    }
+  ],
+  "bewertung": null
+}

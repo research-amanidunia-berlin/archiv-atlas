@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T07",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Lieber ein Modell, das immer seinen Lösungsweg zeigen muss, oder eines, das im Stillen mehr kann: Welches Risiko nimmt man in Kauf?",
+    "en": "Would you rather have a model that must always show its work, or one that is quietly more capable: which risk would you sign up for?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-21",
+      "text": {
+        "de": "Hätten Sie lieber ein Modell, das immer seinen Rechenweg zeigen muss, oder eines, das still leistungsfähiger ist? Für welches Risiko würden Sie unterschreiben?",
+        "en": "Would you rather have a model that must always show its work, or one that is quietly more capable? Which risk would you sign up for?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M3-T01",
+  "sammelfrage": "SF-M3",
+  "frage": {
+    "de": "Wie trennt man in Echtzeit eine gezielte KI-gestützte Cyberoperation von einer versehentlichen KI-Eskalation oder von Modellverhalten, das nur wie ein Angriff aussieht, da sowohl Fehlalarme als auch übersehene Angriffe die Spannungen verschärfen können?",
+    "en": "How do you tell, in real time, a deliberate AI-powered cyber operation from an accidental AI-driven escalation or from model behaviour that merely looks like an attack, given that both false alarms and missed attacks could escalate tensions?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-09",
+      "text": {
+        "de": "Wie sollte die vorgeschlagene KI-Hotline zwischen einer absichtlichen, KI-gestützten Cyberoperation und einem Modellverhalten unterscheiden, das nur wie ein Angriff aussieht – wenn doch sowohl Fehlalarme als auch übersehene Fälle die Spannungen verschärfen könnten?",
+        "en": "How should the proposed AI hotline distinguish between a deliberate cyber operation powered by AI and a model behavior that merely resembles an attack, given that both false positives and false negatives could escalate tensions?"
+      }
+    },
+    {
+      "id": "hotline-08",
+      "text": {
+        "de": "Wie wird die „KI-Hotline“ praktisch so umgesetzt, dass sie in Echtzeit zwischen unbeabsichtigten, KI-bedingten Eskalationen und absichtlichen feindseligen Handlungen unterscheiden kann?",
+        "en": "How will the \"AI hotline\" be operationalized to distinguish between accidental AI-driven escalations and intentional adversarial actions in real-time?"
+      }
+    }
+  ],
+  "bewertung": null
+}

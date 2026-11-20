@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T04",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Wie bekommen Staaten, in denen kein Spitzenlabor sitzt, einen echten Platz beim Setzen internationaler technischer KI-Normen, damit KI in der Praxis ein gemeinsames Gut bleibt und nicht nur wenige Regierungen und Firmen die Regeln schreiben?",
+    "en": "How can states that host no frontier labs gain a real seat in setting international AI technical standards, so that AI remains, in practice, a shared asset rather than rules written only by a few governments and companies?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-27",
+      "text": {
+        "de": "Wie können Staaten, die keine Frontier-Labore beherbergen, einen echten Sitz bei der Festlegung internationaler technischer KI-Standards erhalten, damit KI in der Praxis ein gemeinsames Gut bleibt — statt Regeln, die nur von wenigen Regierungen und Unternehmen geschrieben werden?",
+        "en": "How can states that do not host frontier labs gain a real seat in setting international AI technical standards so that AI remains, in practice, a shared asset rather than rules written only by a few governments and companies?"
+      }
+    }
+  ],
+  "bewertung": null
+}

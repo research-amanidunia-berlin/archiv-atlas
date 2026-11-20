@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T02",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Welchem Eskalationsverfahren soll der Kanal folgen, wenn ein Vorfall vom zweiseitigen fachlichen Austausch in eine Lage übergeht, in der Drittstaaten oder verbündete militärische Kommandostrukturen beteiligt werden könnten?",
+    "en": "What escalation protocol should the channel follow when an incident moves from a bilateral technical exchange into a situation where third countries or allied military command structures could become involved?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-07",
+      "text": {
+        "de": "Welchem Eskalationsprotokoll sollte die KI-Hotline folgen, wenn ein Vorfall aus einem bilateralen technischen Austausch in eine Lage übergeht, in die Drittstaaten oder verbündete militärische Kommandostrukturen beteiligt werden könnten?",
+        "en": "What escalation protocol should the AI hotline follow when an incident moves from a bilateral technical exchange into a situation where third-party countries or allied military command structures could become involved?"
+      }
+    }
+  ],
+  "bewertung": null
+}

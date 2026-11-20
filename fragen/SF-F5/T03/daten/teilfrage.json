@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F5-T03",
+  "sammelfrage": "SF-F5",
+  "frage": {
+    "de": "Welche konkreten gemeinsamen Maßnahmen könnten Staaten umsetzen, um von KI gesteuerte Cyberbedrohungen durch Dritte gemeinsam zu erkennen und einzudämmen?",
+    "en": "Which specific cooperative measures could states implement to jointly detect and mitigate AI-driven cyber threats originating from third parties?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "cyber-24",
+      "text": {
+        "de": "Welche konkreten gemeinsamen Maßnahmen könnten die USA und China ergreifen, um KI-gesteuerte Cyberbedrohungen durch Dritte gemeinsam zu erkennen und einzudämmen?",
+        "en": "What specific cooperative measures could the US and China implement to jointly detect and mitigate AI-driven cyber threats originating from third parties?"
+      }
+    }
+  ],
+  "bewertung": null
+}

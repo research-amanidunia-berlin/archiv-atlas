@@ -1,0 +1,37 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T01",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Welche Belege zu Cyberfähigkeiten soll ein Labor vor der Freigabe eines Modells veröffentlichen (Methoden, Aufgabenfamilien, Fehlerraten, getestete Version, reproduzierbare Cyber-Tests in abgeschirmter Umgebung für unabhängige Prüfer), damit jedes Ministerium sie nachstellen kann, statt ihnen vertrauen zu müssen? Und führt es für dieselbe Modellversion abgestimmte Cyber-Tests durch, die sowohl den durch Schutzmaßnahmen verhinderten Missbrauch als auch die legitimen Abwehraufgaben messen, die dieselben Schutzmaßnahmen blockieren, und weist es beide Ergebnisse aus?",
+    "en": "What cyber-capability evidence should a lab publish before releasing a model (methods, task families, failure rates, the version tested, reproducible cyber benchmarks in a sealed-off test environment for independent auditors), so that any ministry can reproduce it rather than having to trust it? And will it run matched cyber tests on the same model version that measure both the misuse prevented by safeguards and the legitimate defensive tasks blocked by the same safeguards, and report both results?"
+  },
+  "herkunft": [
+    "allgemein",
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "cyber-05",
+      "text": {
+        "de": "Welche reproduzierbaren Cyber-Benchmarks in abgeschotteter Umgebung werden Spitzenlabore unabhängigen Prüfern vorlegen, damit Fähigkeitsschwellen überprüft statt behauptet werden?",
+        "en": "What reproducible, sandboxed cyber benchmarks will frontier labs publish to independent auditors so capability thresholds are verified rather than asserted?"
+      }
+    },
+    {
+      "id": "cyber-08",
+      "text": {
+        "de": "Welche Belege zur Cyber-Fähigkeit sollte ein Labor vor der Veröffentlichung vorlegen – Methoden, Aufgabenfamilien, Fehlerquoten, geprüfte Version –, damit ein Ministerium auf jeder Seite sie nachvollziehen kann, statt ihnen zu vertrauen?",
+        "en": "What cyber-capability evidence should a lab publish before release — methods, task families, failure rates, version tested — so a ministry on either side can reproduce it rather than trust it?"
+      }
+    },
+    {
+      "id": "cyber-30",
+      "text": {
+        "de": "Werden Sie aufeinander abgestimmte Cyber-Tests durchführen, die sowohl den durch Schutzmechanismen verhinderten Missbrauch messen als auch legitime Verteidigungsaufgaben, die von denselben Schutzmechanismen blockiert werden, und dann beide Ergebnisse für dieselbe Modellversion berichten?",
+        "en": "Will you run matched cyber tests that measure both misuse prevented by safeguards and legitimate defensive tasks blocked by the same safeguards, then report both results for the same model version?"
+      }
+    }
+  ],
+  "bewertung": null
+}

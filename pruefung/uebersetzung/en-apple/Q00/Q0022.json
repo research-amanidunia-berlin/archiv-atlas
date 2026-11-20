@@ -1,0 +1,234 @@
+{
+  "Q002204": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "laut Bericht an eine Resolution der UN-Generalversammlung von März 2024 angelehnt",
+            "englisch": "based on a report submitted to a resolution of the UN General Assembly in March 2024",
+            "besser": "based, according to the report, on a March 2024 UN General Assembly resolution"
+          },
+          {
+            "art": "verschiebung",
+            "deutsch": "freiwillige Ansätze gegenüber verbindlichen Berichtspflichten beweglicher",
+            "englisch": "voluntary approaches toward binding reporting obligations could be more flexible",
+            "besser": "voluntary approaches could respond more flexibly to technological change than mandatory reporting requirements"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "international anschlussfähige Transparenz",
+            "englisch": "internationally comparable transparency",
+            "besser": "transparency that is compatible with international approaches"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "drohten zugleich unterschiedliche Anforderungen und Abstimmungslücken",
+            "englisch": "different requirements and coordination gaps simultaneously threatened",
+            "besser": "there was also a risk of differing requirements and gaps in coordination"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "um neue Themen wie agentische KI und Modellsicherheit zu ergänzen",
+            "englisch": "to complement new topics such as agentic AI and model safety",
+            "besser": "to incorporate new topics such as agentic AI and model safety"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "belegt werden vor allem Start, Aufbau und erste Beteiligung",
+            "englisch": "they are primarily supported by the start-up, setup, and initial participation",
+            "besser": "the evidence mainly concerns the launch, design, and initial participation"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q002204",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:50:43"
+  },
+  "Q002224": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "eine neue Datenfreigabeinitiative",
+            "englisch": "a new data release initiative",
+            "besser": "a new data-sharing initiative"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "den Teilaspekt des Datenteilens",
+            "englisch": "the partial aspect of data sharing",
+            "besser": "the data-sharing component"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": [
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "mit Checkliste",
+            "englisch": "with checklists",
+            "besser": "with a checklist"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Sie kann ... dienen",
+            "englisch": "it can serve for",
+            "besser": "it can be used for"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q002224",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:50:55"
+  },
+  "Q002238": {
+    "fassungen": [
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "mit Auskunfts- und Löschrechten für bestimmte Daten",
+            "englisch": "with informational and deletion rights for certain data",
+            "besser": "with rights to access information about certain data and to have it deleted"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "viele Anwendungen nach seiner Einschätzung früh entwickelt sind",
+            "englisch": "many applications are, in its view, being developed early",
+            "besser": "many applications are, in its view, still at an early stage"
+          }
+        ]
+      },
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "bei Einstellungen",
+            "englisch": "during settings",
+            "besser": "in hiring"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Auskunft über erhobene Daten und deren Verwendung",
+            "englisch": "allows disclosure of collected data and its use",
+            "besser": "allows people, under certain conditions, to obtain information about the data collected and how it is used"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Der Text berichtet zudem über beginnende Regulierung.",
+            "englisch": "The text also reports about emerging regulation.",
+            "besser": "The text also reports on emerging regulation."
+          }
+        ]
+      }
+    ],
+    "q": "Q002238",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:51:10"
+  }
+}

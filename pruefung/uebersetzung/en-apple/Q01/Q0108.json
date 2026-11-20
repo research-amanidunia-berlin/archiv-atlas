@@ -1,0 +1,129 @@
+{
+  "Q010807": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Der Beitrag",
+            "englisch": "the contribution",
+            "besser": "the article"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "die Funktionszeitüberschreitung auf eine Minute zu setzen",
+            "englisch": "setting the function execution time to one minute",
+            "besser": "setting the function timeout to one minute"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "bei dem die URL ausgegeben werden soll",
+            "englisch": "during which the URL should be output",
+            "besser": "which should output the URL"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "übernimmt die enthaltene Einbettungs-URL in den Zustand",
+            "englisch": "takes over the embedded URL contained in it into its state",
+            "besser": "stores the embedding URL it contains in its state"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Zudem enthält der abgedruckte Code Unstimmigkeiten",
+            "englisch": "Furthermore, the printed code contains inconsistencies",
+            "besser": "Furthermore, the code shown contains inconsistencies"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "den produktiven Betrieb",
+            "englisch": "production deployment",
+            "besser": "production operation"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "eine Abweichung beim Namen der Dashboard-ID-Umgebungsvariable",
+            "englisch": "an exception in the name of the dashboard ID environment variable",
+            "besser": "a discrepancy in the name of the dashboard ID environment variable"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Der vollständige Artikel",
+            "englisch": "The full article",
+            "besser": "The full article"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "QuickSight-SDK",
+            "englisch": "QuickSight SDK",
+            "besser": "QuickSight embedding SDK"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Die Lambda-Funktion erhält eine Rolle",
+            "englisch": "The Lambda function receives a role",
+            "besser": "The Lambda function is assigned a role"
+          },
+          {
+            "art": "weggelassen",
+            "deutsch": "Auch die JSON-Antwort muss zur erwarteten Eigenschaft `EmbedUrl` passen.",
+            "englisch": "The JSON response also must match the expected property `EmbedUrl`.",
+            "besser": "The JSON response must also be processed so that it matches the expected property `EmbedUrl`."
+          },
+          {
+            "art": "begriff",
+            "deutsch": "produktiver Betrieb",
+            "englisch": "production deployment",
+            "besser": "production operation"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "zeigt die Einbettung eines QuickSight-Dashboards über Lambda und Next.js",
+            "englisch": "shows the embedding of a QuickSight dashboard about Lambda and Next.js",
+            "besser": "shows how to embed a QuickSight dashboard using Lambda and Next.js"
+          }
+        ]
+      }
+    ],
+    "q": "Q010807",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:56:00"
+  }
+}

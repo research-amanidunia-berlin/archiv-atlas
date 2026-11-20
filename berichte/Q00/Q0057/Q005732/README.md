@@ -1,0 +1,37 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments
+
+Report Q005732 · Source openai.com · Date 2026-05-18 · [Open original](https://openai.com/index/dell-codex-enterprise-partnership/)
+
+[All reports](../../../README.md) · Data: [bericht.json](bericht.json)
+
+## Summary (German, by Luna, unchecked)
+
+OpenAI und Dell wollen Codex mit Dells Plattform für lokale Unternehmensdaten verbinden und prüfen zusätzlich eine Zusammenarbeit mit der Dell AI Factory. Die Unternehmen erwarten dadurch mehr Einsatzmöglichkeiten für KI-Agenten in Entwicklung und Wissensarbeit; konkrete technische Details, Zeitpläne und unabhängige Belege nennt die Ankündigung nicht.
+
+## Collected questions
+
+Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
+
+| Question | clef | Luna | d3-ultra | JEV | amos | drex |
+|---|---|---|---|---|---|---|
+| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 24 / 86 % | – | 47 / 67 % | 9 / 24 % | 3 / 10 % |
+| [SF-M4](../../../../fragen/SF-M4/) How do reports from labs, deployers and users reach those who must act, quickly and securely, including across borders? | 0 / 0 % | 0 / 0 % | – | 36 / 51 % | 5 / 12 % | 3 / 6 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 25 / 74 % | – | 35 / 62 % | 11 / 32 % | 7 / 21 % |
+| [SF-A1](../../../../fragen/SF-A1/) Which powers may an AI agent hold, that is, an AI acting autonomously with tools? Who withdraws them, and how is it checked that it stays within its task? | 0 / 0 % | 25 / 83 % | – | 30 / 66 % | 13 / 33 % | 6 / 19 % |
+| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 29 / 62 % | – | 23 / 48 % | 5 / 15 % | 3 / 9 % |
+| [SF-A2](../../../../fragen/SF-A2/) Can AI systems be safely paused, rolled back, isolated or degraded, and who may order it? | 0 / 0 % | 15 / 45 % | – | 0 / 0 % | 7 / 20 % | 4 / 13 % |
+| [SF-A3](../../../../fragen/SF-A3/) Which dangers arise when many AI systems interact or share the same infrastructure? | 0 / 0 % | 10 / 61 % | – | 15 / 47 % | 6 / 20 % | 1 / 8 % |
+| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 13 / 50 % | – | 0 / 0 % | 0 / 0 % | 4 / 7 % |
+| [SF-V4](../../../../fragen/SF-V4/) What kind of entity is a model, and what follows for how we treat it and for the value of being human? | 0 / 0 % | 0 / 0 % | – | 10 / 29 % | 0 / 0 % | 0 / 0 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 0 / 0 % | – | 9 / 26 % | 5 / 13 % | 4 / 8 % |
+| [SF-W2](../../../../fragen/SF-W2/) How do competition law and public procurement bear on AI safety? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 7 / 19 % | 4 / 9 % |
+| [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 5 / 10 % |
+| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 2 / 34 % | – | 0 / 0 % | 5 / 12 % | 4 / 9 % |
+| [SF-F4](../../../../fragen/SF-F4/) Which models, developers and deployments do testing rules apply to, and when must testing be repeated? | 0 / 0 % | 0 / 0 % | – | 3 / 21 % | 5 / 13 % | 2 / 6 % |
+| [SF-P3](../../../../fragen/SF-P3/) How can one tell that a lab monitors itself honestly and that its tests are valid? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 4 / 11 % |
+| [SF-F5](../../../../fragen/SF-F5/) How do states act together against AI-enabled cyberattacks and prevent escalation between autonomous systems, without hampering defence? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 0 / 0 % |
+| [SF-O2](../../../../fragen/SF-O2/) What should governments, labs and evaluators disclose about their talks, commitments, evaluations and interventions? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 10 % | 4 / 9 % |
+| [SF-O3](../../../../fragen/SF-O3/) Which text governs, and how do you prove a document has not been altered? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 12 % | 0 / 0 % |
+| [SF-P1](../../../../fragen/SF-P1/) Under what conditions do states and labs verify each other: with what access, what data and what public results? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 12 % | 1 / 4 % |

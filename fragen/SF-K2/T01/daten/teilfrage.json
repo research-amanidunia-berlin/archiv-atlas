@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-K2-T01",
+  "sammelfrage": "SF-K2",
+  "frage": {
+    "de": "Wenn Staaten KI-Sicherheitsgrenzen für Spitzenmodelle vereinbaren: Welche Zusage, falls überhaupt eine, erstreckt diese Grenzen auf ihre militärischen Verbündeten, Partner beim Austausch von Geheimdienstwissen und Tochterfirmen von Rüstungsunternehmen, etwa in der NATO oder im Geheimdienstverbund Five Eyes?",
+    "en": "If states agree on AI safety limits for frontier models, which commitment, if any, extends those limits to their military allies, intelligence-sharing partners and defence-contractor subsidiaries, such as in NATO or the Five Eyes intelligence alliance?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-48",
+      "text": {
+        "de": "An beide Regierungen: Wenn sich die USA und China auf KI-Sicherheitsgrenzen für Frontier-Modelle einigen, welche Verpflichtung – falls überhaupt – dehnt diese Grenzen auf militärische Verbündete, Partner beim Austausch nachrichtendienstlicher Erkenntnisse und Tochterunternehmen von Rüstungsauftragnehmern aus, die im Rahmen bilateraler Sicherheitsabkommen wie der NATO oder Five Eyes tätig sind?",
+        "en": "To both governments: If the US and China agree on AI safety limits for frontier models, what commitment — if any — extends those limits to military allies, intelligence-sharing partners, and defense-contractor subsidiaries operating under bilateral security treaties such as NATO or Five Eyes?"
+      }
+    }
+  ],
+  "bewertung": null
+}

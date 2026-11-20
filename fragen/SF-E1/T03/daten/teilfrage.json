@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T03",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Welches verbindliche Stimm- oder Vetorecht gibt Staaten des Globalen Südens und Laboren ohne Spitzenmodelle ein echtes Mitspracherecht im gemeinsamen Standard, nicht nur eine beratende Rolle?",
+    "en": "Which binding vote or veto gives Global South states and labs without frontier models a real say in the shared standard, not only a consultative role?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "humans-24",
+      "text": {
+        "de": "Mehrere Redner bei der UN (23. September) warnten davor, dass wenige Staaten oder Unternehmen die Regeln festlegen könnten. Welcher verbindliche Abstimmungs- oder Vetomechanismus würde Staaten des Globalen Südens und Nicht-Frontier-Laboren eine echte Mitsprache beim gemeinsamen Standard geben, statt nur eine beratende Rolle?",
+        "en": "Several UN speakers (23 Sept) warned that a few states or companies could set the rules; what binding vote or veto mechanism would give Global South states and non-frontier labs a real say in the shared standard, not only a consultative role?"
+      }
+    }
+  ],
+  "bewertung": null
+}

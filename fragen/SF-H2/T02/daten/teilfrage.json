@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H2-T02",
+  "sammelfrage": "SF-H2",
+  "frage": {
+    "de": "Wenn ein Staat Agentenwerkzeuge mit offenem Quellcode als Risiko für Spionage und Datenabfluss einstuft und sich offen veröffentlichte Modellgewichte nicht zurückholen lassen: Welche konkreten, für die beteiligten Regierungen annehmbaren Regeln sollen die Veröffentlichung von Modellen mit offenen Gewichten und selbstständigen Agentenfähigkeiten bestimmen, und wie vermeiden diese Regeln, die offene Forschung abzuwürgen?",
+    "en": "If a state classes open-source agent tools as espionage and data-leak risks, and openly released model weights cannot be recalled, which concrete rules acceptable to the governments involved should govern the release of open-weight models with autonomous agent capabilities, and how would those rules avoid collapsing open research?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-12",
+      "text": {
+        "de": "Chinas Artikel nennt quelloffene Agenten-Werkzeuge (z. B. „Lobster\") als Kanäle für Spionage und Datenlecks. Da offene Gewichte nicht zurückgerufen werden können — welche konkreten, für beide Regierungen akzeptablen Regeln würden die Veröffentlichung von Open-Weight-Modellen mit autonomen Agenten-Fähigkeiten steuern, und wie würden diese Regeln verhindern, dass die offene Forschung auf beiden Seiten zusammenbricht?",
+        "en": "China's article names open-source agent tools (e.g. \"Lobster\") as espionage and data-leak vectors. Since open weights cannot be recalled, what concrete rules — acceptable to both governments — would govern the release of open-weight models with autonomous agent capabilities, and how would those rules avoid collapsing open research on either side?"
+      }
+    }
+  ],
+  "bewertung": null
+}

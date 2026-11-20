@@ -1,0 +1,36 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F2-T01",
+  "sammelfrage": "SF-F2",
+  "frage": {
+    "de": "Wenn ein Ministerium ein Modell als Beleg nennt, dass eine Schwelle überschritten ist: Veröffentlicht das Ministerium die Tests, die Modellversion und was es gemessen hat, und veröffentlicht das Labor die Cyber-Prüfung dieser Version auch in der Sprache des Ministeriums? Und welches Ergebnis würde das Ministerium dazu bringen, seine Behauptung zurückzunehmen?",
+    "en": "When a ministry names a model as proof that a threshold has been crossed, does the ministry publish the tests, the model version and what it measured, and does the lab publish that version's cyber evaluation in the ministry's language too? And which result would make the ministry withdraw its claim?"
+  },
+  "herkunft": [
+    "chen-yixin"
+  ],
+  "originale": [
+    {
+      "id": "cyber-11",
+      "text": {
+        "de": "Wenn ein amtliches Dokument ein Modell als Beweis dafür nennt, dass eine Schwelle überschritten ist, veröffentlichen Sie dann die Tests und die Version dahinter, damit die Benennung überprüfbar wird?",
+        "en": "When an official document names a model as proof a threshold is crossed, will you publish the tests and version behind it, making the naming checkable?"
+      }
+    },
+    {
+      "id": "cyber-12",
+      "text": {
+        "de": "Wenn ein Ministerium ein Modell als Zeichen für eine überschrittene Schwelle nennt: Würde es veröffentlichen, was es gemessen hat und welches Ergebnis es zur Rücknahme der Behauptung bewegen würde?",
+        "en": "When a ministry names a model as a threshold marker, would it publish what it measured and what result would make it withdraw the claim?"
+      }
+    },
+    {
+      "id": "cyber-13",
+      "text": {
+        "de": "Wenn ein Ministerium Ihr Modell als Zeichen einer überschrittenen Schwelle nennt: Veröffentlichen Sie die Cyber-Bewertung dieser Version auf Chinesisch und Englisch, damit sie geprüft und nicht behauptet wird?",
+        "en": "When a ministry names your model as the mark of a crossed threshold, will you publish that release's cyber evaluation in Chinese and English, so it is checked, not asserted?"
+      }
+    }
+  ],
+  "bewertung": null
+}

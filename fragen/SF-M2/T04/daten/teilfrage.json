@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-M2-T04",
+  "sammelfrage": "SF-M2",
+  "frage": {
+    "de": "Geht ein Meldekanal aus Wirtschafts- und Handelsgesprächen hervor, nicht aus einem Kanal für KI-Sicherheit oder Militär: Trennen die Regierungen ihn förmlich von diesen Gesprächen, damit ein Zollstreit oder ein Streit um Exportkontrollen die Meldung von KI-Vorfällen nicht einfrieren oder beeinflussen kann, oder ist die Kopplung gewollt?",
+    "en": "If a reporting channel emerges from economic and trade talks, not from an AI-safety or military channel, will the governments formally separate it from that trade track, so that a tariff dispute or an export-control flare-up cannot freeze or sway AI incident reporting, or is keeping them linked deliberate?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "hotline-31",
+      "text": {
+        "de": "Die „KI-Hotline“ entstand in den Wirtschafts- und Handelsgesprächen zwischen Finanzminister Bessent und Vizepremier He Lifeng, nicht in einem Kanal für KI-Sicherheit oder im Militärkanal. Werden die beiden Regierungen den Meldemechanismus für Vorfälle förmlich vom Handelsstrang trennen, damit ein Zollstreit oder ein Aufflammen bei den Exportkontrollen die Meldung von KI-Vorfällen nicht einfrieren oder beeinflussen kann – oder ist die Verknüpfung gewollt?",
+        "en": "The \"AI hotline\" emerged from the economic-and-trade talks between Treasury Secretary Bessent and Vice Premier He Lifeng, not from an AI-safety or military channel. Will the two governments formally separate the incident-notification mechanism from the trade track, so that a tariff dispute or an export-control flare-up cannot freeze or sway AI incident reporting — or is keeping them linked the deliberate design?"
+      }
+    }
+  ],
+  "bewertung": null
+}

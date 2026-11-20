@@ -1,0 +1,67 @@
+{
+  "Q005139": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "verschiebung",
+            "deutsch": "Er erkläre Reaktionen von Dopamin besser.",
+            "englisch": "It explains dopamine responses better.",
+            "besser": "According to the abstract, it explains dopamine responses better."
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Klassische Theorien des bestärkenden Lernens (Reinforcement Learning, RL) gehen demnach vor allem davon aus, dass gelernt wird, wie wahrscheinlich belohnende Ergebnisse sind.",
+            "englisch": "Classical theories of reinforcement learning (RL) therefore primarily assume that learning occurs about how likely rewarding outcomes are.",
+            "besser": "Classical theories of reinforcement learning (RL) therefore primarily assume that learning involves estimating the likelihood of rewarding outcomes."
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "Distributionelles Reinforcement Learning erfasst dagegen die gesamte Verteilung möglicher Belohnungen und erklärt demnach Dopaminreaktionen besser.",
+            "englisch": "In contrast, distributional reinforcement learning captures the entire distribution of possible rewards and thus explains dopamine reactions better.",
+            "besser": "In contrast, distributional reinforcement learning captures the entire distribution of possible rewards and, according to the abstract, better explains dopamine responses."
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q005139",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:53:47"
+  }
+}

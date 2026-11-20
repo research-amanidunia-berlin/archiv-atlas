@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E4-T02",
+  "sammelfrage": "SF-E4",
+  "frage": {
+    "de": "Welche konkreten Mechanismen (bezahlbarer Zugang zu Modellen, Rechenleistung im öffentlichen Interesse, Technologietransfer) sollen Sicherheitsregeln begleiten, damit sie Monopole nicht vertiefen und Länder mit wenig Mitteln nicht abhängig zurücklassen?",
+    "en": "Which concrete mechanisms (affordable model access, public-interest compute, technology transfer) should accompany safety rules so they do not deepen monopoly and leave low-resource countries dependent?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-25",
+      "text": {
+        "de": "Welche konkreten Mechanismen — bezahlbarer Modellzugang, Rechenleistung im öffentlichen Interesse oder Technologietransfer — sollten Sicherheitsregeln begleiten, damit diese keine Monopole vertiefen und ressourcenarme Länder nicht in Abhängigkeit zurücklassen?",
+        "en": "What concrete mechanisms—affordable model access, public-interest compute, or technology transfer—should accompany safety rules so they do not deepen monopoly and leave low-resource countries dependent?"
+      }
+    }
+  ],
+  "bewertung": null
+}

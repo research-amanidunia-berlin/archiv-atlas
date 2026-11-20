@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T08",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Wenn ein Sicherheitsprojekt mit KI-Hilfe zugleich die allgemeine Fähigkeit des Modells oder die für sein Training genutzte Rechenleistung steigert: Wie hält man beide Wirkungen fest, und wie entscheidet man, ob der daraus entstehende Fähigkeitszuwachs eine neue Sicherheitsprüfung braucht, bevor die Arbeit weitergeht?",
+    "en": "When an AI-assisted safety project also raises the model's general capability or the compute used to train it, how are both effects recorded, and how is it decided whether the resulting capability gain requires a new safety review before the work continues?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "redlines-40",
+      "text": {
+        "de": "Wenn ein KI-gestütztes Sicherheitsprojekt auch die allgemeine Fähigkeit des Modells oder die zu seinem Training genutzte Rechenleistung verbessert: Wie werden Sie beide Effekte erfassen und entscheiden, ob der daraus entstehende Fähigkeitszuwachs eine neue Sicherheitsprüfung erfordert, bevor die Arbeit weitergeht?",
+        "en": "If an AI-assisted safety project also improves general model capability or the compute used to train it, how will you record both effects and decide whether the resulting capability gain requires a new safety review before the work continues?"
+      }
+    }
+  ],
+  "bewertung": null
+}

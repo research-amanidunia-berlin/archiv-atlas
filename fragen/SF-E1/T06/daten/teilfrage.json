@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T06",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Wenn zwei Staaten eine Vereinbarung über die Prüfung von Spitzenmodellen treffen: Welchen Platz, falls überhaupt einen, hat darin ein Drittstaat, in dem ein Labor dieselbe Fähigkeitsschwelle überschreitet, und was geschieht, wenn gerade das Modell dieses Labors sich falsch verhält?",
+    "en": "If two states reach an agreement on frontier-model evaluation, what seat, if any, does a third country have in it if a lab based there crosses the same capability threshold, and what happens when that lab's model is the one that misbehaves?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-12",
+      "text": {
+        "de": "Bei der UN-Sitzung warnten mehrere Staaten des Globalen Südens, dass wenige Staaten oder Unternehmen die Regeln festlegen könnten. Wenn eine US-chinesische Einigung über die Bewertung von Frontier-Modellen erzielt wird, welchen Platz gibt es dann, wenn überhaupt, für ein Drittland, das ein Labor beherbergt, das dieselbe Fähigkeitsschwelle überschreitet, aber weder Washington noch Peking ist — und was passiert, wenn genau das Modell dieses Labors sich fehlverhält?",
+        "en": "The UN meeting heard several Global South states warn that a few states or companies could set the rules. If a US–China agreement on frontier-model evaluation is reached, what seat, if any, exists for a third country that hosts a lab crossing the same capability threshold but is neither Washington nor Beijing — and what happens when that lab's model is the one that misbehaves?"
+      }
+    }
+  ],
+  "bewertung": null
+}

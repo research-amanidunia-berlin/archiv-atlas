@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P4-T02",
+  "sammelfrage": "SF-P4",
+  "frage": {
+    "de": "Verpflichten sich Staaten jeweils, ein Register der Trainingsläufe über einer festgelegten Rechenschwelle zu veröffentlichen, damit kein Staat heimlich über vereinbarte Grenzen hinaus wachsen kann?",
+    "en": "Will states each commit to publishing a registry of training runs above a defined compute threshold, so that no state can secretly scale past agreed limits?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-44",
+      "text": {
+        "de": "Werden sich die USA und China jeweils verpflichten, ein Register der Rechenleistungszuteilungen für Frontier-Modelle zu veröffentlichen — Trainingsläufe oberhalb einer festgelegten FLOP-Schwelle —, damit keine der beiden Seiten heimlich über vereinbarte Grenzen hinaus skalieren kann?",
+        "en": "Will the US and China each commit to publishing a registry of frontier-model compute allocations — training runs above a defined FLOP threshold — so that neither side can secretly scale past agreed limits?"
+      }
+    }
+  ],
+  "bewertung": null
+}

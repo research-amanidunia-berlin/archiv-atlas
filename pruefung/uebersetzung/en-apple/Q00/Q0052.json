@@ -1,0 +1,158 @@
+{
+  "Q005201": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Sicherheit; Sicherheitsprobleme; Sicherheit",
+            "englisch": "AI security; security issues; safety",
+            "besser": "AI safety; safety issues; safety"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "KI als allgemeiner Technologie",
+            "englisch": "AI as a general technology",
+            "besser": "AI as a general-purpose technology"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "in Bereichen mit hohen Folgen",
+            "englisch": "in areas with high consequences",
+            "besser": "in high-stakes areas"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Sicherheit",
+            "englisch": "AI security",
+            "besser": "AI safety"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Sicherheit",
+            "englisch": "AI security",
+            "besser": "AI safety"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "KI-Sicherheitsforschung",
+            "englisch": "AI security research",
+            "besser": "AI safety research"
+          }
+        ]
+      }
+    ],
+    "q": "Q005201",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:53:31"
+  },
+  "Q005239": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sprache",
+            "deutsch": "neue Disziplinen wie Bioengineering, Informatik und Materialwissenschaften früher bereits Veränderungen in Wissenschaft und Technik ermöglicht hätten",
+            "englisch": "new disciplines such as bioengineering, computer science, and materials science would have already enabled changes in science and technology earlier",
+            "besser": "new disciplines such as bioengineering, computer science, and materials science had previously enabled changes in science and technology"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "auf einige Fachgebiete beschränkt bleiben",
+            "englisch": "remain limited to certain fields of expertise",
+            "besser": "remain limited to certain fields"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "ob die Veränderungen eng begrenzt oder breit wirksam sind",
+            "englisch": "whether the changes are narrowly limited or broadly effective",
+            "besser": "whether the changes are narrowly confined or have broad effects"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Datengrundlage",
+            "englisch": "data basis",
+            "besser": "underlying data"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": true,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q005239",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:53:54"
+  }
+}

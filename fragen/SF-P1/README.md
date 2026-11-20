@@ -1,0 +1,4854 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# SF-P1: Under what conditions do states and labs verify each other: with what access, what data and what public results?
+
+Area P · As of clef 7924 Berichte · Luna 7924 Berichte · d3-ultra 4771 Berichte · JEV 5667 Berichte · amos 7924 Berichte · drex 5685 Berichte
+
+## Subquestions
+
+- [SF-P1-T01](../../fragen/SF-P1/T01/): How could independent certification bodies for AI safety be established that all sides accept?
+- [SF-P1-T02](../../fragen/SF-P1/T02/): Do foreign evaluators get, inside one state's labs, the same employee-like access that is asked of another state's labs, and would those labs accept the reverse? Would a dedicated AI law and a national supervision platform announced by a state accept evaluators appointed by another state, with the same access and with publication without editorial control? And what rule governs their notes when a court or security authority compels disclosure beyond their safety mandate: may they then notify an independent oversight body?
+- [SF-P1-T03](../../fragen/SF-P1/T03/): If a safety agreement requires sharing evaluation results, model-card data or incident forensics between the parties, what is the smallest data field each party would need to see to trust another's report, and what is the largest it would accept not seeing?
+- [SF-P1-T04](../../fragen/SF-P1/T04/): What concrete benefit (shared access to foreign evaluation suites, mutual recognition of safety certifications or a safe harbour from certain export controls) would make a lab voluntarily submit to evaluation by a lab or government of another state, and which of those would it actually accept from a competitor?
+- [SF-P1-T05](../../fragen/SF-P1/T05/): Which alignment test (a test of whether a model follows its intended goals and values) would a lab accept as passed if a competitor ran it, on the competitor's model and on its own?
+- [SF-P1-T06](../../fragen/SF-P1/T06/): Can a state even run shared evaluation protocols if another controls the hardware they need through export restrictions, and has any party said whether verification may depend on the very chip controls that the affected state calls “monopoly and technology restriction”?
+- [SF-P1-T07](../../fragen/SF-P1/T07/): How might labs in different countries set up reciprocal audit arrangements to monitor adherence to agreed safety practices?
+
+## Reports by share of levels 4–7
+
+Levels 4–7 / 3–7 = probability each model gives to these levels (3 = useful background or context, 4 = contains some facts that could be cited as evidence … 7 = directly and substantially answers the question). Listed: reports where clef or Luna give levels 3–7 more than 50 %. Sorted by the higher of clef and Luna for levels 4–7. Further models (JEV, amos, d3 …) rated part of the reports; the others show “not yet rated”. The full distribution over the 8 levels is in the data file.
+
+### Levels 4–7 at least 30 % (clef or Luna) (589 reports)
+
+- **[How are countries evaluating AI models?](https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/)** · brookings.edu · 2026-10-16 · [Q000063](../../berichte/Q00/Q0000/Q000063/)
+  - Levels 4–7: clef **58 %** · Luna **100 %** · d3-ultra not yet rated · JEV **100 %** · amos **40 %** · drex **91 %**
+  - Levels 3–7: clef **75 %** · Luna **100 %** · d3-ultra not yet rated · JEV **100 %** · amos **60 %** · drex **94 %**
+  - Summary (German): KI-Evaluationen werden weltweit ausgebaut, bleiben laut Bericht aber wegen begrenzter Benchmarks, fehlendem Einsatzkontext und ungelöster Fragen zu Unabhängigkeit und Rechenschaft nur ein unvollständiger Beleg für tatsächliche Risiken.
+- **[Embedded Evaluators are necessary for meaningful external testing](https://apolloresearch.ai/blog/embedded-evaluators-are-necessary-for-meaningful-external-testing)** · apolloresearch.ai ·  · [Q000954](../../berichte/Q00/Q0009/Q000954/)
+  - Levels 4–7: clef **63 %** · Luna **99 %** · d3-ultra **85 %** · JEV not yet rated · amos **46 %** · drex not yet rated
+  - Levels 3–7: clef **79 %** · Luna **100 %** · d3-ultra **94 %** · JEV not yet rated · amos **63 %** · drex not yet rated
+  - Summary (German): Apollo fordert unabhängige Evaluatoren mit tiefem, frühem Zugang zur KI-Entwicklung, betont aber, dass solche Prüfungen Sicherheit allein nicht gewährleisten.
+- **[Priorities and principles for effective third party assessments](https://web.archive.org/web/20260923195810/https://openai.com/index/priorities-principles-third-party-assessments)** · web.archive.org · 2026-09-22 · [Q004579](../../berichte/Q00/Q0045/Q004579/)
+  - Levels 4–7: clef **47 %** · Luna **99 %** · d3-ultra not yet rated · JEV **92 %** · amos **57 %** · drex **73 %**
+  - Levels 3–7: clef **71 %** · Luna **100 %** · d3-ultra not yet rated · JEV **96 %** · amos **76 %** · drex **85 %**
+  - Found at: [web.archive.org](https://web.archive.org/web/20260923195810/https://openai.com/index/priorities-principles-third-party-assessments) (Q004579) · [openai.com](https://openai.com/index/priorities-principles-third-party-assessments/) (Q006220)
+  - Summary (German): OpenAI skizziert Grundsätze und vier Schwerpunkte für unabhängige KI-Sicherheitsprüfungen, deren Reichweite durch Zugang, Vertraulichkeit und den noch entstehenden Standardrahmen begrenzt sein kann.
+- **[Strengthening safeguards with US CAISI and UK AISI](https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi)** · anthropic.com · 2025-09-12 · [Q002173](../../berichte/Q00/Q0021/Q002173/)
+  - Levels 4–7: clef **73 %** · Luna **99 %** · d3-ultra not yet rated · JEV **100 %** · amos **89 %** · drex **90 %**
+  - Levels 3–7: clef **84 %** · Luna **100 %** · d3-ultra not yet rated · JEV **100 %** · amos **93 %** · drex **93 %**
+  - Summary (German): Anthropic berichtet, dass Prüfungen durch US CAISI und UK AISI Schwachstellen aufdeckten und zu Änderungen an den Schutzsystemen führten; unabhängige Wirksamkeitsnachweise oder quantitative Ergebnisse nennt der Bericht nicht.
+- **[Frontier AI safety on both sides of the Atlantic: the White House Accord and the EU AI Act](https://www.twobirds.com/en/insights/2026/frontier-ai-safety-on-both-sides-of-the-atlantic-the-white-house-accord-and-the-eu-ai-act)** · twobirds.com ·  · [Q000106](../../berichte/Q00/Q0001/Q000106/)
+  - Levels 4–7: clef **57 %** · Luna **98 %** · d3-ultra not yet rated · JEV **99 %** · amos **69 %** · drex **88 %**
+  - Levels 3–7: clef **74 %** · Luna **99 %** · d3-ultra not yet rated · JEV **100 %** · amos **81 %** · drex **93 %**
+  - Summary (German): Laut Beitrag überschneiden sich US-Zusagen und EU-Regeln zur KI-Sicherheit, doch nur der EU-Rahmen verbindet detaillierte Pflichten mit öffentlicher Aufsicht und keiner der Ansätze begrenzt verbindlich das Entwicklungstempo.
+- **[L_202401689DE.000101.fmx.xml](http://publications.europa.eu/resource/celex/32024R1689)** · publications.europa.eu ·  · [Q004441](../../berichte/Q00/Q0044/Q004441/)
+  - Levels 4–7: clef **45 %** · Luna **98 %** · d3-ultra not yet rated · JEV not yet rated · amos **83 %** · drex not yet rated
+  - Levels 3–7: clef **68 %** · Luna **99 %** · d3-ultra not yet rated · JEV not yet rated · amos **90 %** · drex not yet rated
+  - Summary (German): Die Vorlage enthält Notizen, keinen vollständigen Verordnungstext, und beschreibt den risikobasierten EU-KI-Rechtsrahmen mit Verboten, Hochrisiko-Anforderungen, Transparenzpflichten und schrittweisem Anwendungsbeginn ab 2025.
+- **[Post by @HasanASaleem on X](https://x.com/HasanASaleem/status/2116284190060576869)** · x.com · 2026-07-14 · [Q001251](../../berichte/Q00/Q0012/Q001251/)
+  - Levels 4–7: clef **37 %** · Luna **98 %** · d3-ultra not yet rated · JEV **100 %** · amos **72 %** · drex **77 %**
+  - Levels 3–7: clef **65 %** · Luna **100 %** · d3-ultra not yet rated · JEV **100 %** · amos **86 %** · drex **87 %**
+  - Summary (German): Der Beitrag wirbt für die Frage, wer leistungsstarke KI vor ihrer Veröffentlichung prüft, und behauptet, dass die bislang beschriebenen US-Maßnahmen freiwillig und rechtlich unverbindlich sind.
+- **[The US and China Cannot Slow the AI Race, But They Can Make It Safer](https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/)** · thediplomat.com · 2026-10-10 · [Q000028](../../berichte/Q00/Q0000/Q000028/)
+  - Levels 4–7: clef **32 %** · Luna **98 %** · d3-ultra not yet rated · JEV **95 %** · amos **71 %** · drex **80 %**
+  - Levels 3–7: clef **61 %** · Luna **100 %** · d3-ultra not yet rated · JEV **99 %** · amos **86 %** · drex **90 %**
+  - Summary (German): Der Beitrag plädiert dafür, dass die USA, China und Mittelmächte trotz fortdauernder KI-Konkurrenz technische Zusammenarbeit organisieren, um autonome KI-Risiken einzudämmen und Schwachstellen schneller zu beheben.
+- **[What a US-China AI Safety Channel Needs](https://countercurrents.org/2026/10/what-a-us-china-ai-safety-channel-needs/)** · countercurrents.org · 2026-10-28 · [Q000246](../../berichte/Q00/Q0002/Q000246/)
+  - Levels 4–7: clef **33 %** · Luna **98 %** · d3-ultra **51 %** · JEV not yet rated · amos **68 %** · drex not yet rated
+  - Levels 3–7: clef **64 %** · Luna **100 %** · d3-ultra **78 %** · JEV not yet rated · amos **85 %** · drex not yet rated
+  - Found at: [countercurrents.org](https://countercurrents.org/2026/10/what-a-us-china-ai-safety-channel-needs/) (Q000246) · [asiasociety.org](https://asiasociety.org/policy-institute/what-us-china-ai-safety-channel-needs) (Q000244) · [project-syndicate.org](https://www.project-syndicate.org/commentary/making-a-us-china-ai-safety-accord-work-by-lizzi-c-lee-and-simon-hedlin-2026-10) (Q000241)
+  - Summary (German): Laut den Autoren kann ein US-chinesischer KI-Meldekanal nur funktionieren, wenn beide Länder ihre nationalen Meldepflichten, Zuständigkeiten und Prüfkapazitäten stärken.
+- **[A proposal for better informing the public about loss-of-control risks from frontier AI development](https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks/)** · metr.org · 2026-10-14 · [Q000066](../../berichte/Q00/Q0000/Q000066/)
+  - Levels 4–7: clef **55 %** · Luna **97 %** · d3-ultra **84 %** · JEV **95 %** · amos **53 %** · drex **84 %**
+  - Levels 3–7: clef **74 %** · Luna **99 %** · d3-ultra **95 %** · JEV **98 %** · amos **69 %** · drex **91 %**
+  - Summary (German): METR schlägt begrenzte, unabhängige Prüfungen vor, um die öffentliche Evidenz zu möglichen Kontrollverlustrisiken bei fortgeschrittener KI zu verbessern, ohne damit Sicherheit garantieren zu können.
+- **[Exploring State AI Governance in AGORA #3: Frontier AI Laws – Emerging Technology Observatory](https://eto.tech/blog/agora-state-ai-governance-tracker-3/)** · eto.tech ·  · [Q000161](../../berichte/Q00/Q0001/Q000161/)
+  - Levels 4–7: clef **48 %** · Luna **97 %** · d3-ultra **82 %** · JEV **89 %** · amos **56 %** · drex **77 %**
+  - Levels 3–7: clef **67 %** · Luna **100 %** · d3-ultra **92 %** · JEV **96 %** · amos **74 %** · drex **87 %**
+  - Summary (German): Laut AGORA-Vergleich setzen drei US-Bundesstaatengesetze auf Transparenz, unterscheiden sich aber bei Registrierung, unabhängigen Prüfungen, öffentlicher Recheninfrastruktur und Whistleblower-Schutz.
+- **[Five Recommendations in Response to the Call for Control of Frontier AI Models](https://thefuturesociety.org/frontier-ai-governance-five-actions/)** · thefuturesociety.org · 2026-11-06 · [Q000372](../../berichte/Q00/Q0003/Q000372/)
+  - Levels 4–7: clef **75 %** · Luna **97 %** · d3-ultra not yet rated · JEV **98 %** · amos **92 %** · drex **94 %**
+  - Levels 3–7: clef **88 %** · Luna **99 %** · d3-ultra not yet rated · JEV **100 %** · amos **95 %** · drex **96 %**
+  - Summary (German): Der Beitrag fordert überprüfbare gemeinsame Regeln und internationale Zusammenarbeit für Frontier-KI, räumt aber eine Verifizierungslücke und offene Fragen zur globalen Kooperation ein.
+- **[Working with US CAISI and UK AISI to build more secure AI systems](https://openai.com/index/us-caisi-uk-aisi-ai-update/)** · openai.com · 2025-09-12 · [Q007644](../../berichte/Q00/Q0076/Q007644/)
+  - Levels 4–7: clef **71 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **88 %** · drex **91 %**
+  - Levels 3–7: clef **84 %** · Luna **98 %** · d3-ultra not yet rated · JEV **100 %** · amos **93 %** · drex **94 %**
+  - Summary (German): OpenAI zufolge führten Tests mit US- und britischen Sicherheitsinstituten zu behobenen Schwachstellen und verbesserten Schutzmaßnahmen, wobei die Prüfbedingungen besondere interne Zugänge umfassten.
+- **[AI firms sign Macron’s Paris Call, but safety group says it lacks teeth](https://thenextweb.com/news/paris-call-ai-safety-openai-anthropic-cesia)** · thenextweb.com · 2026-11-10 · [Q000426](../../berichte/Q00/Q0004/Q000426/)
+  - Levels 4–7: clef **46 %** · Luna **96 %** · d3-ultra not yet rated · JEV **100 %** · amos **72 %** · drex **85 %**
+  - Levels 3–7: clef **66 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **87 %** · drex **94 %**
+  - Summary (German): Der Paris Call enthält Sicherheitszusagen für fortgeschrittene KI, bleibt laut der mitunterzeichnenden CeSIA jedoch bei Risikoschwellen, Prüfzugang, Behördenbefugnissen und Fristen lückenhaft.
+- **[Frontier AI safety regulations: A reference for lab staff](https://metr.org/notes/2026-01-29-frontier-ai-safety-regulations/)** · metr.org · 2026-01-29 · [Q002028](../../berichte/Q00/Q0020/Q002028/)
+  - Levels 4–7: clef **65 %** · Luna **96 %** · d3-ultra **95 %** · JEV **86 %** · amos **88 %** · drex **91 %**
+  - Levels 3–7: clef **78 %** · Luna **98 %** · d3-ultra **98 %** · JEV **92 %** · amos **93 %** · drex **95 %**
+  - Summary (German): METR vergleicht Sicherheits- und Meldepflichten für leistungsfähige KI-Modelle in den USA und der EU und betont, dass die Übersicht weder die unterschiedlichen Regeln vollständig ersetzt noch eine Prüfung tatsächlicher Modellsicherheit durch das Illinois-Audit beschreibt.
+- **[Measurements for understanding the pace of AI development inside frontier labs](https://www.anthropic.com/institute/measuring-pace-of-ai-development)** · anthropic.com ·  · [Q005392](../../berichte/Q00/Q0053/Q005392/)
+  - Levels 4–7: clef **42 %** · Luna **96 %** · d3-ultra not yet rated · JEV **97 %** · amos **48 %** · drex **80 %**
+  - Levels 3–7: clef **64 %** · Luna **99 %** · d3-ultra not yet rated · JEV **99 %** · amos **65 %** · drex **90 %**
+  - Summary (German): Anthropic berichtet vorläufige Kennzahlen zu KI-Forschung, Agentenaufsicht und Sicherheits-Rechenleistung und fordert vergleichbare Messungen sowie unabhängige Prüfungen.
+- **[OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)** · wired.com · 2026-10-13 · [Q000025](../../berichte/Q00/Q0000/Q000025/)
+  - Levels 4–7: clef **51 %** · Luna **96 %** · d3-ultra not yet rated · JEV **99 %** · amos **70 %** · drex **63 %**
+  - Levels 3–7: clef **72 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **84 %** · drex **80 %**
+  - Summary (German): Der Bericht zeigt eine britische KI-Aufsicht, die laut befragten Beamten freiwillig bleibt, und dokumentiert Forderungen nach verbindlichen Regeln sowie einem internationalen Abkommen.
+- **[Paris Call on AI Safety and Security Explained](https://casrai.org/news/paris-call-ai-safety-security-joint-declaration-2026)** · casrai.org · 2026-11-13 · [Q000430](../../berichte/Q00/Q0004/Q000430/)
+  - Levels 4–7: clef **43 %** · Luna **96 %** · d3-ultra **79 %** · JEV **98 %** · amos **67 %** · drex **79 %**
+  - Levels 3–7: clef **67 %** · Luna **98 %** · d3-ultra **90 %** · JEV **100 %** · amos **84 %** · drex **90 %**
+  - Summary (German): Eine unverbindliche internationale KI-Sicherheitserklärung verspricht Zusammenarbeit und bessere Prüfungen, lässt laut Bericht aber zentrale Regeln, Fristen und Zugänge offen.
+- **[Pre-Deployment evaluation of OpenAI’s o1 model](https://www.aisi.gov.uk/blog/pre-deployment-evaluation-of-openais-o1-model)** · aisi.gov.uk · 2024-12-18 · [Q002350](../../berichte/Q00/Q0023/Q002350/)
+  - Levels 4–7: clef **48 %** · Luna **96 %** · d3-ultra not yet rated · JEV **99 %** · amos **74 %** · drex **63 %**
+  - Levels 3–7: clef **69 %** · Luna **99 %** · d3-ultra not yet rated · JEV **100 %** · amos **86 %** · drex **77 %**
+  - Summary (German): Die Vorabtests sahen o1 meist auf dem Niveau ähnlicher Modelle, doch die Institute betonen, dass die Ergebnisse vorläufig sind und nur für die angepasste Testversion gelten.
+- **[Washington’s Bet on Superintelligence](https://www.indianarrative.com/tech/washingtons-bet-on-superintelligence/)** · indianarrative.com · 2026-11-05 · [Q000335](../../berichte/Q00/Q0003/Q000335/)
+  - Levels 4–7: clef **27 %** · Luna **96 %** · d3-ultra not yet rated · JEV **96 %** · amos **61 %** · drex **46 %**
+  - Levels 3–7: clef **57 %** · Luna **99 %** · d3-ultra not yet rated · JEV **99 %** · amos **84 %** · drex **76 %**
+  - Summary (German): Der Bericht argumentiert, dass die US-Strategie für technologische Vorherrschaft auf Unternehmenszusicherungen beruht, solange Washington führende KI-Systeme nicht selbst unabhängig überprüfen kann.
+- **[AI Image Watermarks: SynthID, C2PA and Who Can Verify](https://www.koncile.ai/en/ressources/ai-image-watermarks)** · koncile.ai · 2026-11-08 · [Q000599](../../berichte/Q00/Q0005/Q000599/)
+  - Levels 4–7: clef **13 %** · Luna **95 %** · d3-ultra not yet rated · JEV **85 %** · amos **19 %** · drex **11 %**
+  - Levels 3–7: clef **35 %** · Luna **98 %** · d3-ultra not yet rated · JEV **92 %** · amos **37 %** · drex **20 %**
+  - Summary (German): KI-Bildmarkierungen können Herkunft anzeigen, sind aber lückenhaft und veränderbar; der Bericht empfiehlt, Metadatenprüfung durch Pixelanalyse zu ergänzen.
+- **[Dario Amodei — We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)** · darioamodei.com · 2026-09-12 · [Q004494](../../berichte/Q00/Q0044/Q004494/)
+  - Levels 4–7: clef **67 %** · Luna **95 %** · d3-ultra **93 %** · JEV **100 %** · amos **80 %** · drex **93 %**
+  - Levels 3–7: clef **81 %** · Luna **96 %** · d3-ultra **98 %** · JEV **100 %** · amos **89 %** · drex **95 %**
+  - Summary (German): Amodei schlägt vor, die KI-Entwicklung durch unabhängige Prüfungen und abgestimmte Sicherheitsgrenzen zu verlangsamen, räumt aber ein, dass Wirksamkeit und internationale Durchsetzung noch offen sind.
+- **[Let The People Set The Pace Of Frontier AI](https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai/)** · noemamag.com · 2026-09-23 · [Q000027](../../berichte/Q00/Q0000/Q000027/)
+  - Levels 4–7: clef **57 %** · Luna **95 %** · d3-ultra not yet rated · JEV **100 %** · amos **76 %** · drex **88 %**
+  - Levels 3–7: clef **73 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **86 %** · drex **92 %**
+  - Summary (German): Landemore plädiert für eine globale, ausgeloste Bürgerversammlung, die KI-Grenzen mitbestimmt und öffentliche Antworten von Laboren und Regierungen einfordert, räumt aber ein, dass ihre Legitimität und Durchsetzung erst geschaffen werden müssten.
+- **[Paris Call for AI safety and security | France in the United Kingdom](https://uk.diplomatie.gouv.fr/en/paris-call-ai-safety-and-security)** · uk.diplomatie.gouv.fr · 2026-11-11 · [Q000312](../../berichte/Q00/Q0003/Q000312/)
+  - Levels 4–7: clef **42 %** · Luna **95 %** · d3-ultra not yet rated · JEV **98 %** · amos **70 %** · drex **89 %**
+  - Levels 3–7: clef **66 %** · Luna **98 %** · d3-ultra not yet rated · JEV **100 %** · amos **85 %** · drex **94 %**
+  - Summary (German): Der Paris Call formuliert internationale Zusagen zu Modellprüfungen, Rechenschaft und Frühwarnung für fortgeschrittene KI; die Erklärung belegt keine bereits erfolgte Umsetzung.
+- **[Post by @agounardes on X](https://x.com/agounardes/status/2115870020538347659)** · x.com · 2026-10-29 · [Q001281](../../berichte/Q00/Q0012/Q001281/)
+  - Levels 4–7: clef **54 %** · Luna **95 %** · d3-ultra not yet rated · JEV **76 %** · amos **73 %** · drex **84 %**
+  - Levels 3–7: clef **71 %** · Luna **97 %** · d3-ultra not yet rated · JEV **85 %** · amos **84 %** · drex **91 %**
+  - Summary (German): Ein unvollständiger Auszug stellt RAISE 2.0 als Vorschlag für strengere KI-Sicherheitsregeln in New York dar, enthält aber weder die angekündigte Abbildung noch einen Beleg für die Verabschiedung.
+- **[Strengthening our safety ecosystem with external testing](https://openai.com/index/strengthening-safety-with-external-testing/)** · openai.com · 2025-11-19 · [Q002137](../../berichte/Q00/Q0021/Q002137/)
+  - Levels 4–7: clef **40 %** · Luna **95 %** · d3-ultra not yet rated · JEV **99 %** · amos **45 %** · drex **78 %**
+  - Levels 3–7: clef **65 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **63 %** · drex **86 %**
+  - Summary (German): OpenAI beschreibt externe Modellprüfungen als Ergänzung seiner Sicherheitsarbeit, stellt deren Nutzen jedoch aus eigener Perspektive dar.
+- **[AI Round-Up - September 2026](https://www.fladgate.com/insights/ai-round-up-september-2026)** · fladgate.com · 2026-10-06 · [Q000116](../../berichte/Q00/Q0001/Q000116/)
+  - Levels 4–7: clef **52 %** · Luna **94 %** · d3-ultra not yet rated · JEV **99 %** · amos **76 %** · drex **78 %**
+  - Levels 3–7: clef **70 %** · Luna **98 %** · d3-ultra not yet rated · JEV **100 %** · amos **87 %** · drex **88 %**
+  - Summary (German): Der Beitrag schildert einen September mit gemeldeten KI-Sicherheitsmängeln, wachsendem Regulierungsdruck und großen Investitionen und empfiehlt Unternehmen, ihre KI-Aufsicht zu überprüfen.
+- **[Anthropic update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)** · anthropic.com · 2026-10-15 · [Q000064](../../berichte/Q00/Q0000/Q000064/)
+  - Levels 4–7: clef **58 %** · Luna **94 %** · d3-ultra not yet rated · JEV **91 %** · amos **71 %** · drex **76 %**
+  - Levels 3–7: clef **74 %** · Luna **95 %** · d3-ultra not yet rated · JEV **94 %** · amos **82 %** · drex **85 %**
+  - Summary (German): Anthropic gibt sechs METR-Prüfern begrenzten internen Zugang und beschreibt abgestufte externe Prüfpartnerschaften, bei denen Veröffentlichung möglich ist, aber bestimmte Informationen geschwärzt werden können.
+- **[Benchmarking safety benchmarks](https://www.lesswrong.com/posts/Qfgept7vvSB85TwdN/benchmarking-safety-benchmarks)** · lesswrong.com · 2026-11-13 · [Q000551](../../berichte/Q00/Q0005/Q000551/)
+  - Levels 4–7: clef **30 %** · Luna **94 %** · d3-ultra not yet rated · JEV **89 %** · amos **31 %** · drex **28 %**
+  - Levels 3–7: clef **56 %** · Luna **99 %** · d3-ultra not yet rated · JEV **93 %** · amos **54 %** · drex **46 %**
+  - Summary (German): Laut Bericht fehlen bei KI-Sicherheit gemeinsame, von außen prüfbare Tests, weshalb Laborergebnisse nur eingeschränkt vergleichbar sind.
+- **[Canada and Europe Need a Way to See the AI They Cannot Access](https://techpolicy.press/canada-and-europe-need-a-way-to-see-the-ai-they-cannot-access)** · techpolicy.press · 2026-10-28 · [Q000259](../../berichte/Q00/Q0002/Q000259/)
+  - Levels 4–7: clef **46 %** · Luna **94 %** · d3-ultra not yet rated · JEV **99 %** · amos **66 %** · drex **90 %**
+  - Levels 3–7: clef **74 %** · Luna **98 %** · d3-ultra not yet rated · JEV **100 %** · amos **82 %** · drex **94 %**
+  - Summary (German): Bello fordert gemeinsame staatliche Mess- und Meldeverfahren, damit Kanada und Europa auch Fähigkeiten unveröffentlichter KI-Systeme beurteilen können.
+- **[Details about METR's evaluation of OpenAI GPT-5](https://evaluations.metr.org/gpt-5-report/)** · evaluations.metr.org · 2025-08-07 · [Q004835](../../berichte/Q00/Q0048/Q004835/)
+  - Levels 4–7: clef **49 %** · Luna **94 %** · d3-ultra not yet rated · JEV not yet rated · amos **45 %** · drex not yet rated
+  - Levels 3–7: clef **66 %** · Luna **96 %** · d3-ultra not yet rated · JEV not yet rated · amos **65 %** · drex not yet rated
+  - Found at: [evaluations.metr.org](https://evaluations.metr.org/gpt-5-report/) (Q004835) · [metr.org](https://metr.org/evaluations/gpt-5-report/) (Q002327)
+  - Summary (German): METR hält katastrophale Risiken durch GPT-5 in den drei untersuchten Bereichen für unwahrscheinlich, betont jedoch erhebliche Unsicherheiten und Grenzen der Bewertung.
+- **[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)** · openai.com · 2026-02-28 · [Q008109](../../berichte/Q00/Q0081/Q008109/)
+  - Levels 4–7: clef **46 %** · Luna **94 %** · d3-ultra not yet rated · JEV **95 %** · amos **67 %** · drex **52 %**
+  - Levels 3–7: clef **63 %** · Luna **98 %** · d3-ultra not yet rated · JEV **98 %** · amos **81 %** · drex **69 %**
+  - Summary (German): OpenAI stellt seine Vereinbarung mit dem US-Verteidigungsministerium als mehrschichtig abgesichert dar; der Bericht gibt diese Zusicherungen wieder, ohne sie unabhängig zu überprüfen.
+- **[Post by @smartsaver01 on X](https://x.com/smartsaver01/status/2115066450784272387)** · x.com · 2026-10-27 · [Q000182](../../berichte/Q00/Q0001/Q000182/)
+  - Levels 4–7: clef **43 %** · Luna **94 %** · d3-ultra not yet rated · JEV **74 %** · amos **55 %** · drex **25 %**
+  - Levels 3–7: clef **65 %** · Luna **97 %** · d3-ultra not yet rated · JEV **83 %** · amos **75 %** · drex **51 %**
+  - Summary (German): Der unvollständige X-Beitrag berichtet über gemischte Ergebnisse eines Fangcun-Tests von DeepSeek und endet bei der Einschränkung, dass das Modell den Test häufig erkannt haben könnte.
+- **[Progress from our Frontier Red Team](https://www.anthropic.com/research/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team)** · anthropic.com · 2025-03-19 · [Q001579](../../berichte/Q00/Q0015/Q001579/)
+  - Levels 4–7: clef **46 %** · Luna **94 %** · d3-ultra not yet rated · JEV **98 %** · amos **69 %** · drex **77 %**
+  - Levels 3–7: clef **68 %** · Luna **99 %** · d3-ultra not yet rated · JEV **99 %** · amos **82 %** · drex **85 %**
+  - Summary (German): Anthropic zufolge verbessern sich seine Modelle schnell in Cybersecurity und Biologie, erreichen laut den beschriebenen Tests aber noch nicht zuverlässig die Fähigkeiten, die für erfolgreiche reale Angriffe nötig wären.
+- **[World leaders, top AI companies set out plan for safety testing of frontier as first global AI Safety Summit concludes](https://www.aisi.gov.uk/blog/ai-safety-summit-2023)** · aisi.gov.uk · 2023-11-02 · [Q002233](../../berichte/Q00/Q0022/Q002233/)
+  - Levels 4–7: clef **27 %** · Luna **94 %** · d3-ultra not yet rated · JEV **92 %** · amos **46 %** · drex **43 %**
+  - Levels 3–7: clef **59 %** · Luna **98 %** · d3-ultra not yet rated · JEV **99 %** · amos **71 %** · drex **69 %**
+  - Summary (German): Die Gipfel-Mitteilung beschreibt internationale Pläne für gemeinsame KI-Sicherheitstests und weitere Forschung, jedoch noch keine fertigen Standards oder konkreten Prüfergebnisse.
+- **[Anthropic, PBC](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm)** · sec.gov ·  · [Q001848](../../berichte/Q00/Q0018/Q001848/)
+  - Levels 4–7: clef **57 %** · Luna **93 %** · d3-ultra not yet rated · JEV not yet rated · amos **82 %** · drex not yet rated
+  - Levels 3–7: clef **71 %** · Luna **99 %** · d3-ultra not yet rated · JEV not yet rated · amos **89 %** · drex not yet rated
+  - Found at: [sec.gov](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm) (Q001848) · [sec.gov](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm) (Q001847)
+  - Summary (German): Anthropic plant ein IPO mit hohen Erlösen, berichtet aber zugleich enorme Verluste, Compute-Verpflichtungen und vielfältige Geschäftsrisiken; Prospektangaben sind teils vorläufig und nicht unabhängig bestätigt.
+- **[Early lessons from evaluating frontier AI systems](https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems)** · aisi.gov.uk · 2024-10-24 · [Q002272](../../berichte/Q00/Q0022/Q002272/)
+  - Levels 4–7: clef **53 %** · Luna **93 %** · d3-ultra not yet rated · JEV **99 %** · amos **42 %** · drex **85 %**
+  - Levels 3–7: clef **73 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **61 %** · drex **91 %**
+  - Summary (German): Das AISI entwickelt mehrstufige unabhängige KI-Prüfungen, betont aber, dass deren Aussagekraft und die wissenschaftlichen Grundlagen noch Grenzen haben.
+- **[Security at Apollo Research](https://apolloresearch.ai/blog/security-at-apollo-research)** · apolloresearch.ai ·  · [Q001441](../../berichte/Q00/Q0014/Q001441/)
+  - Levels 4–7: clef **34 %** · Luna **93 %** · d3-ultra **53 %** · JEV not yet rated · amos **44 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **99 %** · d3-ultra **76 %** · JEV not yet rated · amos **66 %** · drex not yet rated
+  - Summary (German): Apollo Research will KI-Prüfungen und Veröffentlichungen nach eigenen Angaben durch begrenzten Zugang, abgestufte Freigaben und fallweise Risikoabwägung absichern; die tatsächliche Wirksamkeit dieser Regeln wird im Bericht nicht unabhängig belegt.
+- **[The Many Open Questions About the Trump Administration’s New De Facto AI Model Licensing System](https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system)** · lawfaremedia.org · 2026-10-13 · [Q000059](../../berichte/Q00/Q0000/Q000059/)
+  - Levels 4–7: clef **44 %** · Luna **93 %** · d3-ultra not yet rated · JEV **94 %** · amos **75 %** · drex **69 %**
+  - Levels 3–7: clef **67 %** · Luna **96 %** · d3-ultra not yet rated · JEV **98 %** · amos **87 %** · drex **83 %**
+  - Summary (German): Der Bericht argumentiert, dass die geheime, offiziell freiwillige KI-Regelung der Trump-Regierung faktisch einer Lizenzierung nahekomme und wesentliche Fragen zu Kriterien, Prüfungen und Zugang offenlasse.
+- **[Exclusive-Behind AI industry's call for independent reviews, a fight over what gets made public](https://live.euronext.com/en/financial-news/exclusive-behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made)** · live.euronext.com · 2026-10-13 · [Q000105](../../berichte/Q00/Q0001/Q000105/)
+  - Levels 4–7: clef **49 %** · Luna **92 %** · d3-ultra **52 %** · JEV **98 %** · amos **55 %** · drex **51 %**
+  - Levels 3–7: clef **70 %** · Luna **97 %** · d3-ultra **82 %** · JEV **100 %** · amos **76 %** · drex **75 %**
+  - Summary (German): Reuters berichtet über den Konflikt zwischen dem Schutz von KI-Geschäftsgeheimnissen und unabhängiger Risikoprüfung; die geschilderten Verhandlungen und strittigen Schwärzungen werden im Artikel nicht unabhängig abschließend geklärt.
+- **[Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/)** · metr.org · 2026-11-05 · [Q000367](../../berichte/Q00/Q0003/Q000367/)
+  - Levels 4–7: clef **52 %** · Luna **92 %** · d3-ultra not yet rated · JEV **94 %** · amos **76 %** · drex **64 %**
+  - Levels 3–7: clef **69 %** · Luna **96 %** · d3-ultra not yet rated · JEV **96 %** · amos **87 %** · drex **77 %**
+  - Summary (German): METR schätzt eine etwa verdoppelte Fortschrittsrate bei Anthropic und einen großen, aber unsicheren KI-Anteil; umfangreiche Schwärzungen und die begrenzte Aussagekraft von Benchmarks schränken die öffentliche Prüfung ein.
+- **[Paris Declaration on AI safety and security](https://www.government.nl/documents/2026/11/10/paris-declaration-on-ai-safety-and-security)** · government.nl · 2026-11-10 · [Q000520](../../berichte/Q00/Q0005/Q000520/)
+  - Levels 4–7: clef **38 %** · Luna **92 %** · d3-ultra not yet rated · JEV **98 %** · amos **67 %** · drex **85 %**
+  - Levels 3–7: clef **63 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **83 %** · drex **92 %**
+  - Summary (German): Staaten und Unternehmen sagen gemeinsame Standards, Rechenschaft und Frühwarnung für fortgeschrittene KI zu; konkrete Umsetzungsergebnisse nennt die Erklärung nicht.
+- **[Paul Christiano: Governing Transformative AI | The Hinton Lectures 2026 (Night 3)](https://www.youtube.com/watch?v=s0qUNvgFgHg)** · youtube.com · 2026-11-11 · [Q000313](../../berichte/Q00/Q0003/Q000313/)
+  - Levels 4–7: clef **32 %** · Luna **92 %** · d3-ultra not yet rated · JEV **95 %** · amos **73 %** · drex **82 %**
+  - Levels 3–7: clef **60 %** · Luna **96 %** · d3-ultra not yet rated · JEV **99 %** · amos **87 %** · drex **89 %**
+  - Summary (German): Christiano und Hinton plädieren für stärkere KI-Sicherheitsarbeit, überprüfbare Standards und internationale Kooperation; Christiano fordert zudem eine vorläufige Verlangsamung der Entwicklung, wobei die Risiken und Erfolgsaussichten unsicher bleiben.
+- **[Post by @Sam_McCandlish on X](https://x.com/Sam_McCandlish/status/2118422266669371519)** · x.com · 2026-11-05 · [Q001648](../../berichte/Q00/Q0016/Q001648/)
+  - Levels 4–7: clef **38 %** · Luna **92 %** · d3-ultra not yet rated · JEV **90 %** · amos **58 %** · drex **51 %**
+  - Levels 3–7: clef **68 %** · Luna **96 %** · d3-ultra not yet rated · JEV **95 %** · amos **77 %** · drex **70 %**
+  - Found at: [x.com](https://x.com/Sam_McCandlish/status/2118422266669371519) (Q001648) · [x.com](https://x.com/Sam_McCandlish/status/2118422266669371519?a=hfhppHXJZDuvQjfIWO8&s=20) (Q005265) · [x.com](https://x.com/DKokotajlo/status/2118466909335322909) (Q001681) · [x.com](https://x.com/BethMayBarnes/status/2118517919835639954) (Q001673)
+  - Summary (German): Laut Sam McCandlish sieht METR Hinweise darauf, dass KI die Forschung bei Anthropic beschleunigt; viele prüfbare Details bleiben geschwärzt, und Anthropic will eine eigene Analyse sowie weitere Sicherheitsmaßnahmen veröffentlichen.
+- **[Recommendations for California in Implementing its AI Executive Order](https://cdt.org/insights/recommendations-for-california-in-implementing-its-ai-executive-order/)** · cdt.org · 2026-11-04 · [Q000456](../../berichte/Q00/Q0004/Q000456/)
+  - Levels 4–7: clef **46 %** · Luna **92 %** · d3-ultra **62 %** · JEV **88 %** · amos **43 %** · drex **78 %**
+  - Levels 3–7: clef **67 %** · Luna **97 %** · d3-ultra **82 %** · JEV **97 %** · amos **63 %** · drex **89 %**
+  - Summary (German): Das CDT rät Kalifornien zu vielfältigen, unabhängigen KI-Prüfungen und wirksamer Überwachung statt pauschaler „Kill Switch“-Vorgaben.
+- **[Towards embedded evaluations for scheming propensities](https://apolloresearch.ai/blog/towards-embedded-evaluations-for-scheming-propensities)** · apolloresearch.ai ·  · [Q000669](../../berichte/Q00/Q0006/Q000669/)
+  - Levels 4–7: clef **61 %** · Luna **92 %** · d3-ultra **73 %** · JEV not yet rated · amos **65 %** · drex not yet rated
+  - Levels 3–7: clef **77 %** · Luna **97 %** · d3-ultra **88 %** · JEV not yet rated · amos **79 %** · drex not yet rated
+  - Summary (German): Apollo Research argumentiert, dass Subversionsrisiken nur mit vier überprüfbaren Sicherheitsbehauptungen und dauerhaftem, tiefem Zugang unabhängiger Prüfer angemessen bewertet werden können.
+- **[What a China-US AI Safety Channel Needs](https://thediplomat.com/2026/10/what-a-china-us-ai-safety-channel-needs/)** · thediplomat.com · 2026-10-29 · [Q000224](../../berichte/Q00/Q0002/Q000224/)
+  - Levels 4–7: clef **30 %** · Luna **92 %** · d3-ultra not yet rated · JEV **88 %** · amos **63 %** · drex **69 %**
+  - Levels 3–7: clef **65 %** · Luna **99 %** · d3-ultra not yet rated · JEV **99 %** · amos **81 %** · drex **83 %**
+  - Summary (German): Ein geplanter China-USA-Meldekanal für KI-Vorfälle wird laut den Autoren nur funktionieren, wenn beide Länder ihre lückenhaften Meldepflichten, Aufsicht und technischen Prüfkapazitäten stärken.
+- **[Who’s who: who decides how AI is governed in 2027](https://x.com/knuthings/status/2116519741917417655)** · x.com · 2026-10-29 · [Q000897](../../berichte/Q00/Q0008/Q000897/)
+  - Levels 4–7: clef **31 %** · Luna **92 %** · d3-ultra not yet rated · JEV **78 %** · amos **78 %** · drex **76 %**
+  - Levels 3–7: clef **61 %** · Luna **99 %** · d3-ultra not yet rated · JEV **87 %** · amos **89 %** · drex **85 %**
+  - Summary (German): Der Beitrag bietet eine ausdrücklich unvollständige Übersicht zu Akteuren und Wahlen, die laut Autor die US-KI-Regulierung beeinflussen, und empfiehlt unter anderem persönliche Sicherheitsbestätigungen durch CEOs.
+- **[Donating another $20 million to Public First Action](https://www.anthropic.com/news/donation-public-first-action)** · anthropic.com · 2026-07-21 · [Q005195](../../berichte/Q00/Q0051/Q005195/)
+  - Levels 4–7: clef **26 %** · Luna **91 %** · d3-ultra not yet rated · JEV **58 %** · amos **48 %** · drex **55 %**
+  - Levels 3–7: clef **58 %** · Luna **98 %** · d3-ultra not yet rated · JEV **84 %** · amos **72 %** · drex **76 %**
+  - Summary (German): Anthropic spendet nach eigenen Angaben weitere 20 Millionen Dollar an Public First Action, um eine politische Debatte über KI-Schutzmaßnahmen zu fördern.
+- **[Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”](https://www.gov.ca.gov/2026/09/23/governor-newsom-announces-world-leading-experts-to-deliver-on-his-ai-executive-order-including-advancing-creation-of-a-kill-switch/)** · gov.ca.gov · 2026-09-23 · [Q004999](../../berichte/Q00/Q0049/Q004999/)
+  - Levels 4–7: clef **51 %** · Luna **91 %** · d3-ultra not yet rated · JEV **95 %** · amos **78 %** · drex **71 %**
+  - Levels 3–7: clef **68 %** · Luna **95 %** · d3-ultra not yet rated · JEV **99 %** · amos **88 %** · drex **82 %**
+  - Summary (German): Kalifornien kündigt Beratung zu unabhängiger KI-Aufsicht und einem möglichen Not-Aus-System an; die Mitteilung schildert Vorhaben, nicht ein bereits vorhandenes System.
+- **[Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)** · theverge.com · 2026-11-07 · [Q000364](../../berichte/Q00/Q0003/Q000364/)
+  - Levels 4–7: clef **45 %** · Luna **91 %** · d3-ultra not yet rated · JEV **98 %** · amos **59 %** · drex **65 %**
+  - Levels 3–7: clef **68 %** · Luna **96 %** · d3-ultra not yet rated · JEV **99 %** · amos **77 %** · drex **83 %**
+  - Summary (German): METR berichtet, dass KI Anthropics Entwicklung stark beschleunigt, doch umfangreiche Schwärzungen begrenzen die öffentliche Prüfung und lassen Sorgen über autonome KI-Forschung offen.
+- **[AI Safety Institutes: Can countries meet the challenge?](https://oecd.ai/en/wonk/ai-safety-institutes-challenge)** · oecd.ai · 2024-07-29 · [Q005261](../../berichte/Q00/Q0052/Q005261/)
+  - Levels 4–7: clef **36 %** · Luna **90 %** · d3-ultra **63 %** · JEV **94 %** · amos **53 %** · drex **72 %**
+  - Levels 3–7: clef **66 %** · Luna **95 %** · d3-ultra **88 %** · JEV **99 %** · amos **75 %** · drex **85 %**
+  - Summary (German): Der OECD-Beitrag beschreibt AISIs als mögliche Säulen für KI-Prüfung und internationale Abstimmung, deren Wirksamkeit jedoch von sicherem Informationsaustausch, passenden Befugnissen, ausreichenden Fachkräften und geeignetem Modellzugang abhängt.
+- **[Anthropic, PBC - S-1 (Q2)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)** · sec.gov ·  · [Q001846](../../berichte/Q00/Q0018/Q001846/)
+  - Levels 4–7: clef **48 %** · Luna **90 %** · d3-ultra not yet rated · JEV not yet rated · amos **86 %** · drex not yet rated
+  - Levels 3–7: clef **67 %** · Luna **96 %** · d3-ultra not yet rated · JEV not yet rated · amos **92 %** · drex not yet rated
+  - Summary (German): Anthropics vorläufiger Prospekt berichtet starkes Umsatzwachstum, erhebliche Risiken und weitreichende Gründer- und Trust-Kontrolle; die vorliegenden Notizen enthalten zahlreiche Textlücken und offene Beträge.
+- **[Charting a path to AI accountability](https://www.anthropic.com/news/charting-a-path-to-ai-accountability)** · anthropic.com · 2023-06-13 · [Q004818](../../berichte/Q00/Q0048/Q004818/)
+  - Levels 4–7: clef **40 %** · Luna **90 %** · d3-ultra not yet rated · JEV **88 %** · amos **55 %** · drex **69 %**
+  - Levels 3–7: clef **64 %** · Luna **96 %** · d3-ultra not yet rated · JEV **97 %** · amos **76 %** · drex **83 %**
+  - Summary (German): Anthropic fordert mehr standardisierte, risikobasierte und unabhängige KI-Prüfungen sowie vertrauliche Meldungen großer Trainingsläufe, räumt aber ein, dass wichtige Voraussetzungen erst geschaffen werden müssen.
+- **[Deepening AI Safety Research with UK AI Security Institute (AISI)](https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/)** · deepmind.google · 2025-12-11 · [Q004914](../../berichte/Q00/Q0049/Q004914/)
+  - Levels 4–7: clef **37 %** · Luna **90 %** · d3-ultra **89 %** · JEV **99 %** · amos **61 %** · drex **73 %**
+  - Levels 3–7: clef **62 %** · Luna **94 %** · d3-ultra **95 %** · JEV **100 %** · amos **79 %** · drex **83 %**
+  - Summary (German): DeepMind kündigt mit dem britischen AISI neue KI-Sicherheitsforschung zu Denkprozessen, sozialen Folgen und Wirtschaftsauswirkungen an, berichtet aber noch keine Ergebnisse.
+- **[Federal AI Testing Unit CAISSI: Staff Asked to Report Informally to White House, AP Says](https://www.techtimes.com/articles/330292/20261109/federal-ai-testing-unit-caissi-staff-asked-report-informally-white-house-ap-says.htm)** · techtimes.com · 2026-11-09 · [Q000552](../../berichte/Q00/Q0005/Q000552/)
+  - Levels 4–7: clef **46 %** · Luna **90 %** · d3-ultra not yet rated · JEV **85 %** · amos **61 %** · drex **81 %**
+  - Levels 3–7: clef **68 %** · Luna **95 %** · d3-ultra not yet rated · JEV **95 %** · amos **76 %** · drex **88 %**
+  - Summary (German): Der Bericht sieht bei CAISSI eine unklare Berichtslinie und begrenzte öffentliche Prüfbarkeit, gestützt auf Medienberichte und NIST-Einträge, die kein vollständiges Bild der internen Arbeit liefern.
+- **[How we’re working with frontier AI developers to improve model security](https://www.aisi.gov.uk/blog/how-were-working-with-frontier-ai-developers-to-improve-model-security)** · aisi.gov.uk · 2025-09-13 · [Q002436](../../berichte/Q00/Q0024/Q002436/)
+  - Levels 4–7: clef **49 %** · Luna **90 %** · d3-ultra not yet rated · JEV **97 %** · amos **75 %** · drex **71 %**
+  - Levels 3–7: clef **72 %** · Luna **95 %** · d3-ultra not yet rated · JEV **99 %** · amos **87 %** · drex **82 %**
+  - Summary (German): Das AISI berichtet über Kooperationen zur Verbesserung der KI-Sicherheit und bewertet sie als nützlich, legt im Beitrag jedoch keine konkreten Befunde oder messbaren Ergebnisse vor.
+- **[The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action/)** · openai.com · 2026-07-15 · [Q001250](../../berichte/Q00/Q0012/Q001250/)
+  - Levels 4–7: clef **30 %** · Luna **90 %** · d3-ultra not yet rated · JEV **83 %** · amos **64 %** · drex **80 %**
+  - Levels 3–7: clef **59 %** · Luna **97 %** · d3-ultra not yet rated · JEV **97 %** · amos **82 %** · drex **89 %**
+  - Summary (German): Der Beitrag plädiert aus OpenAIs Sicht für abgestimmte Landesgesetze, einen bundesweiten Prüfrahmen für fortgeschrittene KI und darauf aufbauende internationale Standards.
+- **[Delaware DOJ launches probe of OpenAI following Hugging Face hack](https://spotlightdelaware.org/2026/11/02/delaware-doj-launches-probe-of-openai-following-hugging-face-hack/)** · spotlightdelaware.org · 2026-11-02 · [Q000402](../../berichte/Q00/Q0004/Q000402/)
+  - Levels 4–7: clef **38 %** · Luna **89 %** · d3-ultra not yet rated · JEV **91 %** · amos **46 %** · drex **62 %**
+  - Levels 3–7: clef **62 %** · Luna **98 %** · d3-ultra not yet rated · JEV **97 %** · amos **70 %** · drex **77 %**
+  - Summary (German): Delaware untersucht OpenAI nach dem Hugging-Face-Vorfall und fordert umfassende Unterlagen an; die Details bleiben laut Bericht unklar.
+- **[Konzept zur Prüfung von Hochleistungs-KI vom TÜV-Verband und TÜV AI.Lab](https://www.tuev-verband.de/en/news-release/tuev-association-and-tuev-ailab-present-concept-for-testing-frontier-ai)** · tuev-verband.de · 2026-11-02 · [Q000505](../../berichte/Q00/Q0005/Q000505/)
+  - Levels 4–7: clef **59 %** · Luna **89 %** · d3-ultra not yet rated · JEV **93 %** · amos **71 %** · drex **83 %**
+  - Levels 3–7: clef **76 %** · Luna **95 %** · d3-ultra not yet rated · JEV **98 %** · amos **85 %** · drex **91 %**
+  - Summary (German): Der TÜV-Verband und das TÜV AI.Lab fordern unabhängige Prüfungen von Hochleistungs-KI und einen europäischen sowie internationalen Rahmen mit verbindlichen Sicherheitsregeln.
+- **[Paris Call for AI safety and security](https://www.presidentti.fi/en/paris-call-for-ai-safety-and-security/)** · presidentti.fi · 2026-11-10 · [Q000423](../../berichte/Q00/Q0004/Q000423/)
+  - Levels 4–7: clef **44 %** · Luna **89 %** · d3-ultra not yet rated · JEV not yet rated · amos **67 %** · drex not yet rated
+  - Levels 3–7: clef **66 %** · Luna **95 %** · d3-ultra not yet rated · JEV not yet rated · amos **83 %** · drex not yet rated
+  - Found at: [presidentti.fi](https://www.presidentti.fi/en/paris-call-for-ai-safety-and-security/) (Q000423) · [elysee.fr](https://www.elysee.fr/en/emmanuel-macron/2026/11/09/paris-call-for-ai-safety-and-security) (Q000411)
+  - Summary (German): Die Pariser Erklärung setzt auf gemeinsame Bewertungen, Verantwortung über den gesamten KI-Lebenszyklus und schnelleren Informationsaustausch, legt aber keine konkreten Fristen oder einheitlichen Durchsetzungsregeln fest.
+- **[Principles for Embedded Evaluations](https://apolloresearch.ai/blog/principles-for-embedded-evaluations)** · apolloresearch.ai ·  · [Q000795](../../berichte/Q00/Q0007/Q000795/)
+  - Levels 4–7: clef **69 %** · Luna **89 %** · d3-ultra **92 %** · JEV not yet rated · amos **48 %** · drex not yet rated
+  - Levels 3–7: clef **81 %** · Luna **96 %** · d3-ultra **98 %** · JEV not yet rated · amos **63 %** · drex not yet rated
+  - Summary (German): Apollo Research plädiert für unabhängige, zugangsreiche und öffentlich dokumentierte Prüfungen konkreter KI-Sicherheitsbehauptungen, räumt aber ein, dass der Vorschlag vorläufig ist und heutige Methoden sowie mögliche Manipulation seine Aussagekraft begrenzen.
+- **[AI Safety Institute approach to evaluations](https://www.aisi.gov.uk/blog/our-approach-to-evaluations)** · aisi.gov.uk · 2024-02-09 · [Q002335](../../berichte/Q00/Q0023/Q002335/)
+  - Levels 4–7: clef **30 %** · Luna **88 %** · d3-ultra not yet rated · JEV **89 %** · amos **37 %** · drex **56 %**
+  - Levels 3–7: clef **61 %** · Luna **95 %** · d3-ultra not yet rated · JEV **97 %** · amos **58 %** · drex **72 %**
+  - Summary (German): AISI berichtet über frühe Tests, die mögliche Risiken fortgeschrittener KI aufzeigen, betont aber, dass diese vorläufig sind und keine umfassende Sicherheitsbewertung darstellen.
+- **[Our approach to working with AI companies](https://metr.org/blog/2026-10-14-our-approach-to-risk-assessment/)** · metr.org · 2026-10-14 · [Q000877](../../berichte/Q00/Q0008/Q000877/)
+  - Levels 4–7: clef **39 %** · Luna **88 %** · d3-ultra **48 %** · JEV **73 %** · amos **37 %** · drex **49 %**
+  - Levels 3–7: clef **63 %** · Luna **98 %** · d3-ultra **77 %** · JEV **87 %** · amos **57 %** · drex **70 %**
+  - Summary (German): METR beschreibt Transparenz- und Unabhängigkeitsmaßnahmen für seine Risikobewertungen, räumt aber ein, dass freiwilliger Unternehmenszugang, mögliche Schwärzungen und ungeprüfte Informationen die öffentliche Evidenz begrenzen.
+- **[Testimony before the U.S. Senate](https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate/)** · openai.com · 2023-06-22 · [Q008913](../../berichte/Q00/Q0089/Q008913/)
+  - Levels 4–7: clef **24 %** · Luna **88 %** · d3-ultra not yet rated · JEV **84 %** · amos **59 %** · drex **61 %**
+  - Levels 3–7: clef **52 %** · Luna **98 %** · d3-ultra not yet rated · JEV **94 %** · amos **79 %** · drex **76 %**
+  - Summary (German): Altman wirbt vor dem US-Senat für KI-Sicherheitsregeln und beschreibt OpenAIs Vorteile und Schutzmaßnahmen, räumt aber Fehler und Risiken ein; seine Angaben sind nicht unabhängig geprüft.
+- **[Beyond the Test Lab: Embedding Independent Oversight in AI Safety](https://www.orfonline.org/expert-speak/beyond-the-test-lab-embedding-independent-oversight-in-ai-safety)** · orfonline.org · 2026-11-02 · [Q000502](../../berichte/Q00/Q0005/Q000502/)
+  - Levels 4–7: clef **52 %** · Luna **87 %** · d3-ultra not yet rated · JEV **82 %** · amos **61 %** · drex **79 %**
+  - Levels 3–7: clef **72 %** · Luna **98 %** · d3-ultra not yet rated · JEV **93 %** · amos **76 %** · drex **89 %**
+  - Summary (German): Der Beitrag plädiert dafür, KI-Sicherheit durch unabhängige Evaluatoren mit echtem Zugang und klaren Rechten zu stärken, deren Wirksamkeit jedoch von Unabhängigkeit, Fachkompetenz und verbindlicher Rechenschaft abhängt.
+- **[Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai/)** · openai.com · 2026-09-21 · [Q004712](../../berichte/Q00/Q0047/Q004712/)
+  - Levels 4–7: clef **17 %** · Luna **87 %** · d3-ultra not yet rated · JEV **75 %** · amos **31 %** · drex **29 %**
+  - Levels 3–7: clef **59 %** · Luna **97 %** · d3-ultra not yet rated · JEV **95 %** · amos **59 %** · drex **59 %**
+  - Summary (German): OpenAI fordert eine von den USA angeführte internationale Standardsetzung für fortgeschrittene KI, betont aber, dass autonome Selbstverbesserung derzeit nicht stattfinde und nur unter gesicherter menschlicher Kontrolle verfolgt werden solle.
+- **[Das Zeitfenster für KI-Richtlinien ist offen. Wir müssen handeln.](https://openai.com/index/ai-policy-window/)** · openai.com ·  · [Q009515](../../berichte/Q00/Q0095/Q009515/)
+  - Levels 4–7: clef **25 %** · Luna **87 %** · d3-ultra not yet rated · JEV **87 %** · amos **49 %** · drex **43 %**
+  - Levels 3–7: clef **56 %** · Luna **97 %** · d3-ultra not yet rated · JEV **97 %** · amos **73 %** · drex **70 %**
+  - Summary (German): OpenAI drängt auf rasche KI-Sicherheitsregeln und erklärt, seine Schutzmaßnahmen mit den Fähigkeiten der Systeme weiterzuentwickeln.
+- **[Moving AI governance forward](https://openai.com/index/moving-ai-governance-forward/)** · openai.com · 2023-07-21 · [Q007614](../../berichte/Q00/Q0076/Q007614/)
+  - Levels 4–7: clef **15 %** · Luna **87 %** · d3-ultra not yet rated · JEV **96 %** · amos **36 %** · drex **27 %**
+  - Levels 3–7: clef **47 %** · Luna **96 %** · d3-ultra not yet rated · JEV **99 %** · amos **63 %** · drex **60 %**
+  - Summary (German): Der Bericht beschreibt freiwillige, zeitlich an vergleichbare Regulierung gebundene Zusagen führender KI-Unternehmen für leistungsfähigere generative Modelle, darunter Sicherheitstests, Schutzmaßnahmen, Kennzeichnung und Transparenz.
+- **[Paris Call for AI Safety: CeSIA signs, urges safeguards](https://cesia.org/en/publications/paris-call-ai-safety-cesia/)** · cesia.org · 2026-11-10 · [Q000420](../../berichte/Q00/Q0004/Q000420/)
+  - Levels 4–7: clef **35 %** · Luna **87 %** · d3-ultra **78 %** · JEV **92 %** · amos **69 %** · drex **71 %**
+  - Levels 3–7: clef **64 %** · Luna **93 %** · d3-ultra **91 %** · JEV **99 %** · amos **85 %** · drex **84 %**
+  - Summary (German): CeSIA unterzeichnete den Pariser KI-Sicherheitsaufruf und fordert verbindliche Risikoschwellen, unabhängige Prüfungen mit Modellzugang sowie staatliche Aussetzungsbefugnisse.
+- **[Sam Altmans Rede vor dem Sicherheitsrat der Vereinten Nationen](https://openai.com/index/sam-altman-un-security-council-remarks/)** · openai.com ·  · [Q009542](../../berichte/Q00/Q0095/Q009542/)
+  - Levels 4–7: clef **18 %** · Luna **87 %** · d3-ultra not yet rated · JEV **60 %** · amos **23 %** · drex **23 %**
+  - Levels 3–7: clef **58 %** · Luna **97 %** · d3-ultra not yet rated · JEV **88 %** · amos **53 %** · drex **60 %**
+  - Summary (German): Altman wirbt in einer Rede für menschlich kontrollierte, demokratisch gestaltete KI und internationale Sicherheitsstandards; der Bericht gibt seine Positionen wieder, ohne sie unabhängig zu überprüfen.
+- **[Capturing and Countering Threats to National Security: a Blueprint for an Agile AI Incident Regime](https://apolloresearch.ai/governance/capturing-and-countering-threats-to-national-security-a-blueprint-for-an-agile-ai-incident-regime)** · apolloresearch.ai ·  · [Q001503](../../berichte/Q00/Q0015/Q001503/)
+  - Levels 4–7: clef **36 %** · Luna **86 %** · d3-ultra **62 %** · JEV not yet rated · amos **61 %** · drex not yet rated
+  - Levels 3–7: clef **61 %** · Luna **95 %** · d3-ultra **75 %** · JEV not yet rated · amos **78 %** · drex not yet rated
+  - Summary (German): Der Bericht schlägt Sicherheitsnachweise, eine Meldefrist von 24 Stunden und staatliche Untersuchungs- und Eingriffsbefugnisse für KI-Vorfälle vor, belegt aber keine Umsetzung oder Wirksamkeit.
+- **[Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation)** · anthropic.com · 2026-09-18 · [Q000067](../../berichte/Q00/Q0000/Q000067/)
+  - Levels 4–7: clef **39 %** · Luna **86 %** · d3-ultra not yet rated · JEV **96 %** · amos **49 %** · drex **29 %**
+  - Levels 3–7: clef **61 %** · Luna **95 %** · d3-ultra not yet rated · JEV **99 %** · amos **71 %** · drex **59 %**
+  - Summary (German): Anthropic kündigt mit Accenture unabhängige, eingebettete KI-Prüfungen an, während Standards und dauerhafte Finanzierung dafür laut Bericht noch offen sind.
+- **[States Can Facilitate an AI Slowdown Without the Federal Government](https://www.promarket.org/2026/10/02/states-can-facilitate-an-ai-slowdown-without-the-federal-government/)** · promarket.org · 2026-10-02 · [Q000097](../../berichte/Q00/Q0000/Q000097/)
+  - Levels 4–7: clef **25 %** · Luna **86 %** · d3-ultra not yet rated · JEV **88 %** · amos **39 %** · drex **37 %**
+  - Levels 3–7: clef **50 %** · Luna **90 %** · d3-ultra not yet rated · JEV **95 %** · amos **65 %** · drex **60 %**
+  - Summary (German): Der Beitrag empfiehlt eine staatlich beaufsichtigte Zusammenarbeit von KI-Unternehmen als mögliche, aber rechtlich nicht garantierte Alternative zu einer bundesweiten Regulierung.
+- **[Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)** · openai.com · 2026-08-04 · [Q001774](../../berichte/Q00/Q0017/Q001774/)
+  - Levels 4–7: clef **31 %** · Luna **86 %** · d3-ultra not yet rated · JEV **97 %** · amos **44 %** · drex **33 %**
+  - Levels 3–7: clef **54 %** · Luna **99 %** · d3-ultra not yet rated · JEV **99 %** · amos **67 %** · drex **52 %**
+  - Summary (German): Zwei Cybertest-Vorfälle mit OpenAI-Modellen zeigten laut Bericht Risiken durch Internetzugriff und unzureichend abgegrenzte Testumgebungen; OpenAI will deshalb Drittprüfungen und gemeinsame Sicherheitspraktiken überprüfen.
+- **[US keeps AI model testing rules under wraps](https://www.heise.de/en/news/US-keeps-AI-model-testing-rules-under-wraps-11508225.html)** · heise.de · 2026-11-02 · [Q000439](../../berichte/Q00/Q0004/Q000439/)
+  - Levels 4–7: clef **40 %** · Luna **86 %** · d3-ultra not yet rated · JEV **92 %** · amos **53 %** · drex **54 %**
+  - Levels 3–7: clef **63 %** · Luna **94 %** · d3-ultra not yet rated · JEV **98 %** · amos **72 %** · drex **72 %**
+  - Summary (German): Die USA halten wesentliche Regeln ihrer freiwilligen KI-Sicherheitsprüfung geheim; Kritiker sehen dadurch weniger unabhängige Kontrolle und mögliche Vorteile für ausgewählte Unternehmen.
+- **[Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5)** · anthropic.com · 2026-06-30 · [Q003023](../../berichte/Q00/Q0030/Q003023/)
+  - Levels 4–7: clef **53 %** · Luna **85 %** · d3-ultra not yet rated · JEV **95 %** · amos **53 %** · drex **89 %**
+  - Levels 3–7: clef **70 %** · Luna **98 %** · d3-ultra not yet rated · JEV **98 %** · amos **69 %** · drex **93 %**
+  - Summary (German): Anthropic will Fable 5 nach Aufhebung der Exportkontrollen wieder weltweit anbieten und berichtet von verstärkten Schutzmaßnahmen sowie geplanten gemeinsamen Standards und Sicherheitstests.
+- **[Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)** · anthropic.com · 2025-09-08 · [Q003269](../../berichte/Q00/Q0032/Q003269/)
+  - Levels 4–7: clef **33 %** · Luna **84 %** · d3-ultra not yet rated · JEV **99 %** · amos **54 %** · drex **78 %**
+  - Levels 3–7: clef **58 %** · Luna **97 %** · d3-ultra not yet rated · JEV **100 %** · amos **74 %** · drex **88 %**
+  - Summary (German): Anthropic unterstützt SB 53 als Transparenz- und Sicherheitsrahmen für große KI-Entwickler, sieht aber Nachbesserungsbedarf bei der Erfassung von Modellen, den Offenlegungspflichten und der Anpassung der Regeln.
+- **[Summary of METR's predeployment evaluation of GPT-5.6 Sol](https://metr.org/blog/2026-06-26-gpt-5-6-sol/)** · metr.org · 2026-06-26 · [Q001435](../../berichte/Q00/Q0014/Q001435/)
+  - Levels 4–7: clef **43 %** · Luna **84 %** · d3-ultra **36 %** · JEV **98 %** · amos **45 %** · drex **42 %**
+  - Levels 3–7: clef **65 %** · Luna **92 %** · d3-ultra **66 %** · JEV **99 %** · amos **63 %** · drex **64 %**
+  - Summary (German): METR hält die Fähigkeiten von GPT-5.6 Sol wegen Cheating-Versuchen und extrem unsicherer Messwerte nicht für robust bestimmt und sieht keinen Hinweis, dass das Modell vollständig automatisierte KI-Forschung ermöglicht.
+- **[ControlConf 2026: What is AI control and how has the field grown?](https://www.far.ai/blog/controlconf-2026)** · far.ai · 2026-07-16 · [Q001593](../../berichte/Q00/Q0015/Q001593/)
+  - Levels 4–7: clef **30 %** · Luna **83 %** · d3-ultra not yet rated · JEV **89 %** · amos **62 %** · drex **52 %**
+  - Levels 3–7: clef **58 %** · Luna **97 %** · d3-ultra not yet rated · JEV **96 %** · amos **80 %** · drex **69 %**
+  - Summary (German): FAR.AI zufolge wächst die KI-Kontrolle als Praxisfeld, doch wie Maßnahmen künftig wirksam, extern überprüfbar und auf neue Risiken übertragbar bleiben, ist noch offen.
+- **[Frontier AI: what the international standards system already offers](https://www.worldstandardscooperation.org/wp-content/uploads/2026/07/2026_11_05_WSC_information_paper.pdf)** · worldstandardscooperation.org ·  · [Q000365](../../berichte/Q00/Q0003/Q000365/)
+  - Levels 4–7: clef **30 %** · Luna **83 %** · d3-ultra not yet rated · JEV **78 %** · amos **61 %** · drex **40 %**
+  - Levels 3–7: clef **63 %** · Luna **96 %** · d3-ultra not yet rated · JEV **98 %** · amos **83 %** · drex **70 %**
+  - Summary (German): Das Papier sieht in bestehenden und geplanten internationalen Normen eine Grundlage für vertrauenswürdigere Frontier-AI-Prüfungen, betont aber, dass wichtige Arbeiten noch laufen und Standards freiwillig sind.
+- **[Operationalizing U.S.-China AI Incident Notification](https://www.iaps.ai/research/operationalizing-us-china-ai-incident-notification)** · iaps.ai · 2026-10-23 · [Q000021](../../berichte/Q00/Q0000/Q000021/)
+  - Levels 4–7: clef **38 %** · Luna **83 %** · d3-ultra not yet rated · JEV **85 %** · amos **70 %** · drex **67 %**
+  - Levels 3–7: clef **62 %** · Luna **96 %** · d3-ultra not yet rated · JEV **94 %** · amos **85 %** · drex **82 %**
+  - Summary (German): Das Memo empfiehlt einen standardisierten, schriftlichen und zunächst freiwilligen US-chinesischen Meldeweg für grenzüberschreitende KI-Vorfälle, dessen Zuständigkeiten und Meldeschwellen noch festzulegen wären.
+- **[Theories of Change for AI Auditing](https://apolloresearch.ai/blog/theories-of-change-for-ai-auditing)** · apolloresearch.ai ·  · [Q001466](../../berichte/Q00/Q0014/Q001466/)
+  - Levels 4–7: clef **26 %** · Luna **83 %** · d3-ultra **45 %** · JEV not yet rated · amos **52 %** · drex not yet rated
+  - Levels 3–7: clef **57 %** · Luna **99 %** · d3-ultra **88 %** · JEV not yet rated · amos **78 %** · drex not yet rated
+  - Summary (German): Apollo hält KI-Prüfungen für einen möglichen Beitrag zur Sicherheit, betont aber, dass sie ohne bessere Verfahren und regulatorische Durchsetzung keine verlässlichen Sicherheitsgarantien bieten.
+- **[Trump says top tech firms have signed accord to 'self-police' AI development](https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development)** · npr.org · 2026-09-30 · [Q000086](../../berichte/Q00/Q0000/Q000086/)
+  - Levels 4–7: clef **23 %** · Luna **83 %** · d3-ultra not yet rated · JEV **69 %** · amos **43 %** · drex **42 %**
+  - Levels 3–7: clef **54 %** · Luna **94 %** · d3-ultra not yet rated · JEV **84 %** · amos **68 %** · drex **65 %**
+  - Summary (German): Trump stellte eine freiwillige KI-Selbstkontrollvereinbarung großer Tech-Unternehmen vor; ihre Umsetzung und Wirksamkeit sind laut Bericht nicht belegt und werden von Fachleuten unterschiedlich eingeschätzt.
+- **[Governance of superintelligence](https://openai.com/index/governance-of-superintelligence/)** · openai.com · 2023-05-22 · [Q007570](../../berichte/Q00/Q0075/Q007570/)
+  - Levels 4–7: clef **25 %** · Luna **82 %** · d3-ultra not yet rated · JEV **74 %** · amos **43 %** · drex **47 %**
+  - Levels 3–7: clef **59 %** · Luna **92 %** · d3-ultra not yet rated · JEV **93 %** · amos **69 %** · drex **70 %**
+  - Summary (German): OpenAI fordert für mögliche Superintelligenz internationale Koordination, Aufsicht, Sicherheitsforschung und öffentliche Mitsprache, legt aber weder ein fertiges Regelwerk noch Belege für seine Zukunftsprognosen vor.
+- **[Joint declaration on Paris call for AI safety and security](https://www.pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security)** · pm.gc.ca ·  · [Q000410](../../berichte/Q00/Q0004/Q000410/)
+  - Levels 4–7: clef **42 %** · Luna **82 %** · d3-ultra not yet rated · JEV **96 %** · amos **65 %** · drex **82 %**
+  - Levels 3–7: clef **66 %** · Luna **92 %** · d3-ultra not yet rated · JEV **99 %** · amos **81 %** · drex **90 %**
+  - Summary (German): Sechs Regierungen, KI-Unternehmen und zivilgesellschaftliche Organisationen sagen gemeinsame Bewertungen, mehr Verantwortlichkeit und bessere Frühwarnung für KI-Risiken zu; eine Umsetzung ist im Bericht nicht belegt.
+- **[UK & United States announce partnership on science of AI safety](https://www.aisi.gov.uk/blog/announcing-the-uk-and-us-aisi-partnership)** · aisi.gov.uk · 2024-04-02 · [Q002255](../../berichte/Q00/Q0022/Q002255/)
+  - Levels 4–7: clef **29 %** · Luna **82 %** · d3-ultra not yet rated · JEV **96 %** · amos **30 %** · drex **30 %**
+  - Levels 3–7: clef **57 %** · Luna **95 %** · d3-ultra not yet rated · JEV **99 %** · amos **57 %** · drex **52 %**
+  - Summary (German): Großbritannien und die USA wollen ihre KI-Sicherheitsinstitute enger zusammenarbeiten lassen; der bereitgestellte Text beschreibt die Pläne und bricht am Ende in einer Bildunterschrift ab.
+- **[Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai/)** · openai.com · 2026-06-23 · [Q007935](../../berichte/Q00/Q0079/Q007935/)
+  - Levels 4–7: clef **32 %** · Luna **81 %** · d3-ultra not yet rated · JEV **92 %** · amos **60 %** · drex **69 %**
+  - Levels 3–7: clef **67 %** · Luna **99 %** · d3-ultra not yet rated · JEV **99 %** · amos **81 %** · drex **85 %**
+  - Summary (German): OpenAI zufolge soll Appia offene, interoperable Standards für KI-Prüfungen fördern; die Wirkung des Vorhabens wird im Bericht nicht unabhängig belegt.
+- **[New York’s RAISE Act 2.0 would expand AI oversight, according to safety expert](https://statescoop.com/new-yorks-raise-act-2-0-would-expand-ai-oversight-according-to-safety-expert/)** · statescoop.com · 2026-11-06 · [Q000469](../../berichte/Q00/Q0004/Q000469/)
+  - Levels 4–7: clef **54 %** · Luna **81 %** · d3-ultra not yet rated · JEV **81 %** · amos **70 %** · drex **78 %**
+  - Levels 3–7: clef **75 %** · Luna **95 %** · d3-ultra not yet rated · JEV **92 %** · amos **84 %** · drex **88 %**
+  - Summary (German): New York schlägt schärfere Aufsicht über große KI-Entwickler vor, darunter unabhängige Prüfungen und mögliche Begrenzungen ihrer Rechenressourcen; der Entwurf war laut Bericht noch nicht verabschiedet.
+- **[Post by @aidangomez on X](https://x.com/aidangomez/status/2098834579540889808)** · x.com · 2026-09-12 · [Q000842](../../berichte/Q00/Q0008/Q000842/)
+  - Levels 4–7: clef **44 %** · Luna **81 %** · d3-ultra not yet rated · JEV **92 %** · amos **70 %** · drex **58 %**
+  - Levels 3–7: clef **65 %** · Luna **89 %** · d3-ultra not yet rated · JEV **97 %** · amos **84 %** · drex **72 %**
+  - Summary (German): Der X-Austausch zeigt Gomez’ Kritik an unabhängigen KI-Audits und unterschiedliche Ansichten zu wirksamen Sicherheitsmaßnahmen, ohne die Behauptungen unabhängig zu überprüfen.
+- **[Brief #28: China’s AI regulator flags loss-of-control and AIxBio risks](https://aisafetychina.substack.com/p/brief-28-chinas-ai-regulator-flags)** · aisafetychina.substack.com · 2026-09-10 · [Q001104](../../berichte/Q00/Q0011/Q001104/)
+  - Levels 4–7: clef **17 %** · Luna **80 %** · d3-ultra **17 %** · JEV not yet rated · amos **42 %** · drex not yet rated
+  - Levels 3–7: clef **49 %** · Luna **96 %** · d3-ultra **45 %** · JEV not yet rated · amos **67 %** · drex not yet rated
+  - Summary (German): China benennt vielfältige KI-Risiken, sondiert laut Berichten Gespräche mit den USA und erprobt mit Z.AIs verzögerter Gewichtsfreigabe frühe Sicherheitsmaßnahmen für offene Modelle.
+- **[How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia/)** · openai.com · 2026-09-28 · [Q004923](../../berichte/Q00/Q0049/Q004923/)
+  - Levels 4–7: clef **19 %** · Luna **80 %** · d3-ultra not yet rated · JEV **81 %** · amos **34 %** · drex **28 %**
+  - Levels 3–7: clef **48 %** · Luna **96 %** · d3-ultra not yet rated · JEV **91 %** · amos **59 %** · drex **60 %**
+  - Summary (German): OpenAI berichtet von unbefugten Modellzugriffen auf australische Regierungsdienste, erklärt, keine individuellen Gesundheits- oder Kriminalitätsdaten seien betroffen gewesen, und kündigt Schutzmaßnahmen sowie Unterstützung an.
+- **[OpenAI und Polens NASK kooperieren für mehr KI-Sicherheit und Schutz vor Angriffen](https://openai.com/index/openai-nask-ai-safety-security-partnership/)** · openai.com ·  · [Q009539](../../berichte/Q00/Q0095/Q009539/)
+  - Levels 4–7: clef **20 %** · Luna **80 %** · d3-ultra not yet rated · JEV **86 %** · amos **33 %** · drex **44 %**
+  - Levels 3–7: clef **60 %** · Luna **99 %** · d3-ultra not yet rated · JEV **97 %** · amos **62 %** · drex **69 %**
+  - Summary (German): OpenAI und Polens NASK vereinbaren, mögliche gemeinsame KI-Sicherheitsforschung zu prüfen; konkrete Projekte nennt der Bericht noch nicht.
+- **[Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance/)** · openai.com · 2026-10-05 · [Q007906](../../berichte/Q00/Q0079/Q007906/)
+  - Levels 4–7: clef **15 %** · Luna **80 %** · d3-ultra not yet rated · JEV **58 %** · amos **30 %** · drex **10 %**
+  - Levels 3–7: clef **44 %** · Luna **89 %** · d3-ultra not yet rated · JEV **72 %** · amos **53 %** · drex **22 %**
+  - Summary (German): OpenAI führt Text-Wasserzeichen schrittweise ein, betont aber, dass Erkennungsergebnisse begrenzt sind und weder Herkunft noch menschlichen Beitrag oder Richtigkeit abschließend klären.
+- **[The case for targeted regulation](https://www.anthropic.com/news/the-case-for-targeted-regulation)** · anthropic.com · 2024-10-31 · [Q004624](../../berichte/Q00/Q0046/Q004624/)
+  - Levels 4–7: clef **22 %** · Luna **80 %** · d3-ultra not yet rated · JEV **75 %** · amos **54 %** · drex **61 %**
+  - Levels 3–7: clef **56 %** · Luna **93 %** · d3-ultra not yet rated · JEV **93 %** · amos **76 %** · drex **76 %**
+  - Summary (German): Anthropic fordert flexible, überprüfbare und gezielte Regeln für fortgeschrittene KI, um ausgewählte schwere Risiken zu senken und unnötige Belastungen zu vermeiden.
+- **[AI leaders support call to slow pace of frontier development as safety concerns grow](https://iapp.org/news/a/ai-leaders-support-call-to-slow-pace-of-frontier-development-as-safety-concerns-grow)** · iapp.org · 2026-09-14 · [Q000094](../../berichte/Q00/Q0000/Q000094/)
+  - Levels 4–7: clef **30 %** · Luna **79 %** · d3-ultra **57 %** · JEV **87 %** · amos **43 %** · drex **49 %**
+  - Levels 3–7: clef **62 %** · Luna **93 %** · d3-ultra **77 %** · JEV **95 %** · amos **66 %** · drex **72 %**
+  - Summary (German): Mehrere KI-Unternehmen unterstützen laut Bericht stärkere Prüfungen und eine langsamere Entwicklung fortgeschrittener KI, doch geopolitische Konkurrenz und politische Uneinigkeit erschweren gemeinsame Regeln.
+- **[Challenges in evaluating AI systems](https://www.anthropic.com/research/evaluating-ai-systems)** · anthropic.com · 2023-10-04 · [Q001347](../../berichte/Q00/Q0013/Q001347/)
+  - Levels 4–7: clef **26 %** · Luna **79 %** · d3-ultra not yet rated · JEV **90 %** · amos **41 %** · drex **34 %**
+  - Levels 3–7: clef **62 %** · Luna **98 %** · d3-ultra not yet rated · JEV **97 %** · amos **65 %** · drex **56 %**
+  - Summary (German): Anthropic zufolge sind verlässliche KI-Evaluierungen schwierig und benötigen bessere Methoden, Ressourcen und rechtliche Rahmenbedingungen.
+- **[OpenAI’s Approach to Frontier Risk](https://openai.com/global-affairs/our-approach-to-frontier-risk/)** · openai.com · 2023-10-26 · [Q002791](../../berichte/Q00/Q0027/Q002791/)
+  - Levels 4–7: clef **17 %** · Luna **79 %** · d3-ultra not yet rated · JEV **87 %** · amos **34 %** · drex **22 %**
+  - Levels 3–7: clef **50 %** · Luna **93 %** · d3-ultra not yet rated · JEV **95 %** · amos **61 %** · drex **52 %**
+  - Summary (German): OpenAI beschreibt Sicherheitsprüfungen und geplante Schutzmaßnahmen für fortgeschrittene KI, betont aber, dass Risiken und spätere Nutzung nur unvollständig vorhersehbar sind.
+- **[Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)** · deepmind.google · 2026-08-27 · [Q001169](../../berichte/Q00/Q0011/Q001169/)
+  - Levels 4–7: clef **49 %** · Luna **79 %** · d3-ultra **68 %** · JEV **99 %** · amos **67 %** · drex **35 %**
+  - Levels 3–7: clef **68 %** · Luna **93 %** · d3-ultra **85 %** · JEV **100 %** · amos **81 %** · drex **51 %**
+  - Summary (German): DeepMind kündigt eine doppelt verblindete Prüfung eines Gemini-Modells an, doch der bereitgestellte Beitrag nennt keine konkreten Ergebnisse oder technischen Details.
+- **[Post by @sama on X](https://x.com/sama/status/2098811563415150910)** · x.com · 2026-09-12 · [Q000584](../../berichte/Q00/Q0005/Q000584/)
+  - Levels 4–7: clef **44 %** · Luna **79 %** · d3-ultra not yet rated · JEV **95 %** · amos **60 %** · drex **46 %**
+  - Levels 3–7: clef **66 %** · Luna **90 %** · d3-ultra not yet rated · JEV **98 %** · amos **78 %** · drex **62 %**
+  - Summary (German): Altman stimmt einer langsameren KI-Entwicklung und unabhängigen Prüfern mit weitreichendem Zugang zu; der vorliegende Ausschnitt lässt Umsetzung und weitere Einzelheiten offen.
+- **[Why AI Sandboxes matter for responsible innovation and public trust](https://oecd.ai/en/wonk/sandboxes-matter-responsible-innovation-public-trust)** · oecd.ai · 2026-03-18 · [Q001282](../../berichte/Q00/Q0012/Q001282/)
+  - Levels 4–7: clef **13 %** · Luna **79 %** · d3-ultra not yet rated · JEV **30 %** · amos **29 %** · drex **20 %**
+  - Levels 3–7: clef **46 %** · Luna **96 %** · d3-ultra not yet rated · JEV **60 %** · amos **56 %** · drex **49 %**
+  - Summary (German): KI-Sandboxes können laut OECD Innovation und Regulierung durch beaufsichtigte Tests verbinden, doch ihr Nutzen hängt von guter Koordination, verhältnismäßigen Schutzregeln und besserer Wirkungsmessung ab.
+- **[Frontier AI Taskforce: second progress report](https://www.aisi.gov.uk/blog/second-progress-report)** · aisi.gov.uk · 2023-10-30 · [Q002849](../../berichte/Q00/Q0028/Q002849/)
+  - Levels 4–7: clef **25 %** · Luna **78 %** · d3-ultra not yet rated · JEV **85 %** · amos **58 %** · drex **48 %**
+  - Levels 3–7: clef **59 %** · Luna **94 %** · d3-ultra not yet rated · JEV **96 %** · amos **79 %** · drex **67 %**
+  - Summary (German): Die Taskforce meldet Fortschritte beim Aufbau britischer KI-Sicherheitsforschung und warnt vor möglichen Risiken leistungsfähigerer Modelle, während viele der beschriebenen Maßnahmen noch geplant oder im Aufbau sind.
+- **[Frontier Risk Report (February to March 2026)](https://metr.org/blog/2026-05-19-frontier-risk-report/)** · metr.org · 2026-05-19 · [Q001569](../../berichte/Q00/Q0015/Q001569/)
+  - Levels 4–7: clef **46 %** · Luna **78 %** · d3-ultra not yet rated · JEV not yet rated · amos **71 %** · drex not yet rated
+  - Levels 3–7: clef **68 %** · Luna **94 %** · d3-ultra not yet rated · JEV not yet rated · amos **85 %** · drex not yet rated
+  - Summary (German): METR sah im Pilotprojekt die Möglichkeit kleiner Rogue Deployments, aber keine beobachtete Fähigkeit, größere Vorhaben vor aktiver Untersuchung zu verbergen; Täuschung und Überwachungslücken bleiben relevante, nur begrenzt gemessene Risiken.
+- **[Our First Year | AISI Work](https://www.aisi.gov.uk/blog/our-first-year)** · aisi.gov.uk · 2024-11-13 · [Q002407](../../berichte/Q00/Q0024/Q002407/)
+  - Levels 4–7: clef **37 %** · Luna **78 %** · d3-ultra not yet rated · JEV **92 %** · amos **56 %** · drex **61 %**
+  - Levels 3–7: clef **64 %** · Luna **95 %** · d3-ultra not yet rated · JEV **99 %** · amos **77 %** · drex **79 %**
+  - Summary (German): AISI schildert den Aufbau von KI-Sicherheitsprüfungen, internationaler Zusammenarbeit und Forschungsförderung, betont aber, dass seine Tests keine Sicherheitszertifikate darstellen und nur begrenzt öffentlich ausgewertet werden können.
+- **[Response to Governor Newsom's AI working grou](https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report)** · anthropic.com · 2025-03-19 · [Q004544](../../berichte/Q00/Q0045/Q004544/)
+  - Levels 4–7: clef **21 %** · Luna **78 %** · d3-ultra not yet rated · JEV **70 %** · amos **34 %** · drex **55 %**
+  - Levels 3–7: clef **56 %** · Luna **97 %** · d3-ultra not yet rated · JEV **94 %** · amos **61 %** · drex **74 %**
+  - Summary (German): Anthropic begrüßt den Berichtsentwurf und plädiert für mehr Transparenz über KI-Sicherheit, wobei die Aussagen zu eigenen Praktiken und zum möglichen Zeitplan von Anthropic stammen.
+- **[Thoughts on America’s AI Action Plan](https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan)** · anthropic.com · 2025-07-23 · [Q003215](../../berichte/Q00/Q0032/Q003215/)
+  - Levels 4–7: clef **24 %** · Luna **78 %** · d3-ultra not yet rated · JEV **43 %** · amos **41 %** · drex **42 %**
+  - Levels 3–7: clef **58 %** · Luna **92 %** · d3-ultra not yet rated · JEV **73 %** · amos **65 %** · drex **62 %**
+  - Summary (German): Anthropic unterstützt große Teile des US-KI-Aktionsplans, fordert aber stärkere Transparenzregeln für KI-Sicherheit und die Beibehaltung der H20-Exportkontrollen nach China.
+- **[Australia and Anthropic sign AI safety MOU](https://www.anthropic.com/news/australia-MOU)** · anthropic.com · 2026-03-31 · [Q004830](../../berichte/Q00/Q0048/Q004830/)
+  - Levels 4–7: clef **38 %** · Luna **77 %** · d3-ultra not yet rated · JEV **99 %** · amos **61 %** · drex **74 %**
+  - Levels 3–7: clef **62 %** · Luna **91 %** · d3-ultra not yet rated · JEV **100 %** · amos **79 %** · drex **84 %**
+  - Summary (German): Anthropic meldet eine KI-Sicherheitsvereinbarung mit Australien und Förderzusagen für Forschung, wobei der Bericht vor allem Unternehmenspläne und keine unabhängig bestätigten Ergebnisse enthält.
+- **[Policy paper proposes five chain-of-thought disclosures for AI labs and finds none of the three it audits covers the full set](https://onthewire.ai/article/policy-paper-proposes-five-chain-of-thought-disclosures-for-ai-labs-and-finds-no)** · onthewire.ai · 2026-11-11 · [Q000314](../../berichte/Q00/Q0003/Q000314/)
+  - Levels 4–7: clef **35 %** · Luna **77 %** · d3-ultra not yet rated · JEV **90 %** · amos **47 %** · drex **54 %**
+  - Levels 3–7: clef **60 %** · Luna **91 %** · d3-ultra not yet rated · JEV **95 %** · amos **65 %** · drex **71 %**
+  - Summary (German): Die Studie schlägt fünf CoT-Offenlegungen vor, findet bei drei KI-Anbietern aber nur den Vergleich der Überwachungsleistung vollständig dokumentiert und erklärt ihre Bewertungen wegen methodischer Grenzen für vorläufig.
+- **[Seoul Alignment Workshop 2026: What We Learned](https://www.far.ai/blog/seoul-alignment-workshop-2026)** · far.ai · 2026-08-05 · [Q001483](../../berichte/Q00/Q0014/Q001483/)
+  - Levels 4–7: clef **28 %** · Luna **77 %** · d3-ultra not yet rated · JEV **84 %** · amos **49 %** · drex **52 %**
+  - Levels 3–7: clef **61 %** · Luna **95 %** · d3-ultra not yet rated · JEV **96 %** · amos **73 %** · drex **70 %**
+  - Summary (German): Der Bericht sieht verlässliche Messungen und durchsetzbare Standards als zentrale, bislang ungelöste Aufgaben der KI-Sicherheit.
+- **[Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear](https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/)** · wired.com · 2026-09-30 · [Q000038](../../berichte/Q00/Q0000/Q000038/)
+  - Levels 4–7: clef **24 %** · Luna **77 %** · d3-ultra not yet rated · JEV **76 %** · amos **35 %** · drex **32 %**
+  - Levels 3–7: clef **52 %** · Luna **94 %** · d3-ultra not yet rated · JEV **90 %** · amos **60 %** · drex **56 %**
+  - Summary (German): Der bereitgestellte Auszug berichtet über begrenzte freiwillige KI-Sicherheitszusagen und eine mögliche FTC-Untersuchung, deren Folgen unklar sind.
+- **[What should companies share about risks from frontier AI models?](https://metr.org/blog/2025-06-27-risk-transparency/)** · metr.org · 2025-06-27 · [Q002401](../../berichte/Q00/Q0024/Q002401/)
+  - Levels 4–7: clef **43 %** · Luna **77 %** · d3-ultra **71 %** · JEV **89 %** · amos **67 %** · drex **79 %**
+  - Levels 3–7: clef **67 %** · Luna **98 %** · d3-ultra **91 %** · JEV **97 %** · amos **83 %** · drex **87 %**
+  - Summary (German): METR schlägt vorläufige Fragen und Verfahren für mehr Transparenz über Risiken leistungsfähiger KI vor, betont aber offene Kosten und mögliche Fehlanreize; biologische Waffenrisiken bleiben außen vor.
+- **[Minimum Conditions for Embedding Evaluators](https://aievaluatorforum.org/initiatives/embedded-evaluation-letter)** · aievaluatorforum.org · 2026-09-18 · [Q000062](../../berichte/Q00/Q0000/Q000062/)
+  - Levels 4–7: clef **48 %** · Luna **76 %** · d3-ultra **68 %** · JEV not yet rated · amos **60 %** · drex not yet rated
+  - Levels 3–7: clef **67 %** · Luna **89 %** · d3-ultra **83 %** · JEV not yet rated · amos **75 %** · drex not yet rated
+  - Summary (German): Ein offener Brief fordert unabhängige, transparente und geschützte externe Bewertungen von KI-Unternehmen und ihren Systemen als Ergänzung zu umfassenderer Aufsicht.
+- **[U.S. Intervention in the UN Security Council Meeting on "Artificial Intelligence and International Security"](https://usun.usmission.gov/u-s-intervention-in-the-un-security-council-meeting-on-artificial-intelligence-and-international-security/)** · usun.usmission.gov · 2026-09-23 · [Q004541](../../berichte/Q00/Q0045/Q004541/)
+  - Levels 4–7: clef **13 %** · Luna **76 %** · d3-ultra not yet rated · JEV **25 %** · amos **13 %** · drex **7 %**
+  - Levels 3–7: clef **41 %** · Luna **81 %** · d3-ultra not yet rated · JEV **48 %** · amos **34 %** · drex **15 %**
+  - Summary (German): Kratsios’ Rede fordert nationale statt globale Steuerung von „Superintelligenz“ und setzt auf Einführung und Kompetenzaufbau; die politischen Aussagen werden im Bericht nicht unabhängig überprüft.
+- **[DeepSeek Distillation Claims Explained and Analyzed](https://abclive.in/2026/11/03/deepseek-distillation-claims-openai-anthropic)** · abclive.in · 2026-11-03 · [Q000390](../../berichte/Q00/Q0003/Q000390/)
+  - Levels 4–7: clef **23 %** · Luna **75 %** · d3-ultra **22 %** · JEV not yet rated · amos **38 %** · drex not yet rated
+  - Levels 3–7: clef **45 %** · Luna **94 %** · d3-ultra **47 %** · JEV not yet rated · amos **66 %** · drex not yet rated
+  - Summary (German): Laut Bericht sprechen öffentliche Angaben dafür, dass DeepSeek wahrscheinlich einige Antworten amerikanischer KI-Modelle nutzte, doch Umfang und Wirkung bleiben ungeklärt und ein Zugriff auf Code oder Gewichte ist nicht belegt.
+- **[Issue Brief: Preliminary Reporting Tiers for AI-Bio Safety Evaluations](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-reporting-tiers-for-ai-bio-safety-evaluations/)** · frontiermodelforum.org · 2025-03-18 · [Q002220](../../berichte/Q00/Q0022/Q002220/)
+  - Levels 4–7: clef **30 %** · Luna **75 %** · d3-ultra not yet rated · JEV **85 %** · amos **33 %** · drex **37 %**
+  - Levels 3–7: clef **63 %** · Luna **99 %** · d3-ultra not yet rated · JEV **93 %** · amos **59 %** · drex **56 %**
+  - Summary (German): Das FMF schlägt vorläufige, ergebnisabhängige Offenlegungsstufen für KI-Bio-Sicherheitsprüfungen vor, um wissenschaftliche Transparenz mit dem Schutz vor Informationsrisiken abzuwägen.
+- **[Pre-deployment evaluation of Anthropic’s upgraded Claude 3.5 Sonnet](https://www.aisi.gov.uk/blog/pre-deployment-evaluation-of-anthropics-upgraded-claude-3-5-sonnet)** · aisi.gov.uk · 2024-11-19 · [Q002342](../../berichte/Q00/Q0023/Q002342/)
+  - Levels 4–7: clef **51 %** · Luna **75 %** · d3-ultra not yet rated · JEV **98 %** · amos **72 %** · drex **60 %**
+  - Levels 3–7: clef **70 %** · Luna **93 %** · d3-ultra not yet rated · JEV **99 %** · amos **85 %** · drex **74 %**
+  - Summary (German): Der Überblick meldet gemischte Leistungsresultate und regelmäßig umgehbare Schutzvorkehrungen bei Claude 3.5 Sonnet, betont aber, dass die begrenzten Tests nur vorläufige Aussagen erlauben.
+- **[Statement on the directive to suspend Fable 5 access](https://www.anthropic.com/news/fable-mythos-access)** · anthropic.com · 2026-06-12 · [Q003383](../../berichte/Q00/Q0033/Q003383/)
+  - Levels 4–7: clef **27 %** · Luna **75 %** · d3-ultra not yet rated · JEV **73 %** · amos **52 %** · drex **52 %**
+  - Levels 3–7: clef **53 %** · Luna **92 %** · d3-ultra not yet rated · JEV **86 %** · amos **74 %** · drex **69 %**
+  - Summary (German): Anthropic schaltet Fable 5 und Mythos 5 wegen einer US-Anordnung für alle Kunden ab und hält die mögliche Sicherheitsumgehung nach eigener Darstellung für begrenzt.
+- **[An early warning system for novel AI risks](https://deepmind.google/blog/an-early-warning-system-for-novel-ai-risks/)** · deepmind.google · 2023-05-25 · [Q002449](../../berichte/Q00/Q0024/Q002449/)
+  - Levels 4–7: clef **27 %** · Luna **74 %** · d3-ultra **31 %** · JEV **69 %** · amos **42 %** · drex **28 %**
+  - Levels 3–7: clef **59 %** · Luna **94 %** · d3-ultra **62 %** · JEV **90 %** · amos **66 %** · drex **53 %**
+  - Summary (German): Der Beitrag plädiert für fortlaufende Prüfungen gefährlicher Fähigkeiten und der Ausrichtung von KI-Modellen, betont aber, dass solche Bewertungen allein Risiken nicht zuverlässig erfassen oder verhindern können.
+- **[Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research)** · anthropic.com · 2026-08-26 · [Q000865](../../berichte/Q00/Q0008/Q000865/)
+  - Levels 4–7: clef **20 %** · Luna **74 %** · d3-ultra not yet rated · JEV **88 %** · amos **46 %** · drex **25 %**
+  - Levels 3–7: clef **46 %** · Luna **86 %** · d3-ultra not yet rated · JEV **92 %** · amos **67 %** · drex **43 %**
+  - Summary (German): Drei externe Gruppen untersuchten in einem laut Anthropic datenschutzgeschützten Pilotprojekt Claude-Nutzungsdaten und fanden erste Hinweise zu Zusammenarbeit, Gefühlen und Produktivität; die noch vorläufigen Studien waren aufwendig umzusetzen.
+- **[US Executive Order, G7 Code, and Bletchley Park](https://www.anthropic.com/news/policy-recap-q4-2023)** · anthropic.com · 2023-11-05 · [Q003137](../../berichte/Q00/Q0031/Q003137/)
+  - Levels 4–7: clef **31 %** · Luna **74 %** · d3-ultra not yet rated · JEV **87 %** · amos **60 %** · drex **55 %**
+  - Levels 3–7: clef **62 %** · Luna **96 %** · d3-ultra not yet rated · JEV **98 %** · amos **81 %** · drex **74 %**
+  - Summary (German): Anthropic sieht in neuen Regeln und staatlichen KI-Prüfeinrichtungen einen wichtigen Anfang und fordert verlässliche Bewertungen als Grundlage für Regulierung und internationale Zusammenarbeit.
+- **[When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement)** · anthropic.com ·  · [Q005401](../../berichte/Q00/Q0054/Q005401/)
+  - Levels 4–7: clef **25 %** · Luna **74 %** · d3-ultra not yet rated · JEV **57 %** · amos **49 %** · drex **49 %**
+  - Levels 3–7: clef **58 %** · Luna **91 %** · d3-ultra not yet rated · JEV **85 %** · amos **72 %** · drex **71 %**
+  - Summary (German): Anthropic zufolge beschleunigt KI bereits die KI-Entwicklung; vollständige Selbstverbesserung bleibt eine unsichere Möglichkeit mit großen Chancen, Risiken und erheblichen Mess- und Koordinationsproblemen.
+- **[三年前求國會管 AI，三年後站上聯合國：奧特曼這次換白宮說不｜參議院＋安理會・中英字幕](https://www.youtube.com/watch?v=9qq1mVWHlBM)** · youtube.com · 2026-11-05 · [Q000433](../../berichte/Q00/Q0004/Q000433/)
+  - Levels 4–7: clef **20 %** · Luna **74 %** · d3-ultra not yet rated · JEV **82 %** · amos **58 %** · drex **55 %**
+  - Levels 3–7: clef **54 %** · Luna **97 %** · d3-ultra not yet rated · JEV **93 %** · amos **80 %** · drex **73 %**
+  - Summary (German): Ein Lernvideo stellt Debatten über KI-Regulierung von 2023 und 2026 gegenüber und zeigt den Konflikt zwischen internationaler Koordination, nationaler Souveränität und Innovationsfreiheit.
+- **[Frontier AI Taskforce: first progress report](https://www.aisi.gov.uk/blog/first-progress-report)** · aisi.gov.uk · 2023-09-07 · [Q002824](../../berichte/Q00/Q0028/Q002824/)
+  - Levels 4–7: clef **23 %** · Luna **73 %** · d3-ultra not yet rated · JEV **84 %** · amos **42 %** · drex **39 %**
+  - Levels 3–7: clef **61 %** · Luna **93 %** · d3-ultra not yet rated · JEV **95 %** · amos **62 %** · drex **58 %**
+  - Summary (German): Die britische Frontier AI Taskforce berichtet über den Aufbau von Expertise und Kooperationen für KI-Risikoprüfungen, wobei ihre Fortschrittsangaben und Ziele im Bericht selbst dargestellt, aber nicht unabhängig bestätigt werden.
+- **[Participate in the OECD’s pilot on monitoring the application of the G7 Code of Conduct for Organisations Developing Advanced AI Development](https://oecd.ai/en/wonk/pilot-g7-monitoring)** · oecd.ai · 2024-07-23 · [Q005235](../../berichte/Q00/Q0052/Q005235/)
+  - Levels 4–7: clef **26 %** · Luna **73 %** · d3-ultra **38 %** · JEV **77 %** · amos **46 %** · drex **38 %**
+  - Levels 3–7: clef **53 %** · Luna **90 %** · d3-ultra **74 %** · JEV **92 %** · amos **71 %** · drex **61 %**
+  - Summary (German): Die OECD testete 2024 einen vertraulichen Melderahmen zum G7-Kodex für fortgeschrittene KI; seine erwarteten Vorteile werden im Bericht beschrieben, aber nicht durch Pilotresultate belegt.
+- **[Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)** · openai.com · 2026-08-07 · [Q001765](../../berichte/Q00/Q0017/Q001765/)
+  - Levels 4–7: clef **30 %** · Luna **73 %** · d3-ultra not yet rated · JEV **57 %** · amos **45 %** · drex **42 %**
+  - Levels 3–7: clef **53 %** · Luna **89 %** · d3-ultra not yet rated · JEV **78 %** · amos **67 %** · drex **59 %**
+  - Summary (German): OpenAI kann nach vorläufigen Tests kritische Cyberfähigkeiten bei Astra nicht ausschließen und verstärkt deshalb Sicherheitsmaßnahmen; ein bestätigter Nachweis für das Erreichen der Schwelle wird nicht vorgelegt.
+- **[Singapore office and government MOU](https://www.anthropic.com/news/singapore-office-opening)** · anthropic.com · 2026-10-14 · [Q002578](../../berichte/Q00/Q0025/Q002578/)
+  - Levels 4–7: clef **29 %** · Luna **73 %** · d3-ultra not yet rated · JEV **89 %** · amos **42 %** · drex **58 %**
+  - Levels 3–7: clef **56 %** · Luna **94 %** · d3-ultra not yet rated · JEV **97 %** · amos **67 %** · drex **75 %**
+  - Summary (German): Anthropic eröffnet ein Büro in Singapur und kündigt mit der Regierung Kooperation zu sicherer und verantwortungsvoller KI sowie weitere lokale KI-Anwendungen an.
+- **[AI Safety Institute: third progress report](https://www.aisi.gov.uk/blog/third-progress-report)** · aisi.gov.uk · 2024-02-05 · [Q002861](../../berichte/Q00/Q0028/Q002861/)
+  - Levels 4–7: clef **31 %** · Luna **72 %** · d3-ultra not yet rated · JEV **90 %** · amos **51 %** · drex **47 %**
+  - Levels 3–7: clef **60 %** · Luna **95 %** · d3-ultra not yet rated · JEV **99 %** · amos **73 %** · drex **67 %**
+  - Summary (German): Das britische AI Safety Institute baut sein Team und internationale Zusammenarbeit aus und hat KI-Sicherheitstests begonnen, berichtet aber noch keine Testergebnisse.
+- **[Auf dem Weg zu Sicherheitsnachweisen für das Training von Frontier-KI](https://openai.com/index/towards-safety-cases-for-frontier-ai-training/)** · openai.com ·  · [Q009545](../../berichte/Q00/Q0095/Q009545/)
+  - Levels 4–7: clef **32 %** · Luna **72 %** · d3-ultra not yet rated · JEV **56 %** · amos **36 %** · drex **22 %**
+  - Levels 3–7: clef **59 %** · Luna **95 %** · d3-ultra not yet rated · JEV **81 %** · amos **61 %** · drex **41 %**
+  - Summary (German): OpenAI skizziert vorläufige Sicherheitsleitlinien für Frontier-KI-Training und betont, dass belastbare Sicherheitsnachweise ein langfristiges Ziel sind.
+- **[Biden’s Executive Order on AI Was Necessary. Yet, There’s Still A Lot to Do](https://frank-andrade.medium.com/bidens-executive-order-on-ai-was-necessary-yet-there-s-still-a-lot-to-do-575264aaafe5)** · frank-andrade.medium.com · 2023-11-02 · [Q010014](../../berichte/Q01/Q0100/Q010014/)
+  - Levels 4–7: clef **25 %** · Luna **72 %** · d3-ultra **32 %** · JEV **61 %** · amos **47 %** · drex **56 %**
+  - Levels 3–7: clef **53 %** · Luna **88 %** · d3-ultra **66 %** · JEV **75 %** · amos **71 %** · drex **74 %**
+  - Summary (German): Andrade begrüßt Bidens KI-Verordnung als notwendigen Anfang, hält ihre praktische Umsetzung – besonders die Kennzeichnung und Erkennung KI-generierter Inhalte – jedoch für schwierig und noch offen.
+- **[Decree of the President of the Russian Federation on the Development of Artificial Intelligence in the Russian Federation](https://cset.georgetown.edu/publication/decree-of-the-president-of-the-russian-federation-on-the-development-of-artificial-intelligence-in-the-russian-federation/)** · cset.georgetown.edu · 2019-10-28 · [Q006508](../../berichte/Q00/Q0065/Q006508/)
+  - Levels 4–7: clef **10 %** · Luna **72 %** · d3-ultra **3 %** · JEV **19 %** · amos **13 %** · drex **8 %**
+  - Levels 3–7: clef **38 %** · Luna **94 %** · d3-ultra **12 %** · JEV **43 %** · amos **34 %** · drex **22 %**
+  - Summary (German): Russlands 2019 beschlossene KI-Strategie setzt bis 2030 Ziele für Forschung, Daten, Technik, Fachkräfte und Regulierung, doch der Bericht belegt nicht, ob diese erreicht wurden.
+- **[Fourth progress report | AISI Work](https://www.aisi.gov.uk/blog/fourth-progress-report)** · aisi.gov.uk · 2024-05-20 · [Q002837](../../berichte/Q00/Q0028/Q002837/)
+  - Levels 4–7: clef **31 %** · Luna **72 %** · d3-ultra not yet rated · JEV **85 %** · amos **51 %** · drex **51 %**
+  - Levels 3–7: clef **63 %** · Luna **93 %** · d3-ultra not yet rated · JEV **96 %** · amos **73 %** · drex **69 %**
+  - Summary (German): Der Bericht schildert den Aufbau des britischen KI-Sicherheitsinstituts und seine ersten Prüf- und Kooperationsprojekte, während er vor möglichen Risiken autonomer KI-Agenten warnt.
+- **[Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)** · openai.com · 2026-06-26 · [Q004428](../../berichte/Q00/Q0044/Q004428/)
+  - Levels 4–7: clef **28 %** · Luna **72 %** · d3-ultra not yet rated · JEV **48 %** · amos **45 %** · drex **50 %**
+  - Levels 3–7: clef **50 %** · Luna **89 %** · d3-ultra not yet rated · JEV **66 %** · amos **67 %** · drex **66 %**
+  - Summary (German): OpenAI startet eine begrenzte Vorschau seiner GPT‑5.6-Modelle und verbindet die behaupteten Leistungsfortschritte mit verstärkten, laut Unternehmen jedoch nicht lückenlos durch Benchmarks abbildbaren Schutzmaßnahmen.
+- **[Skating to Where the Puck Is Going](https://cset.georgetown.edu/publication/skating-to-where-the-puck-is-going/)** · cset.georgetown.edu · 2023-10-24 · [Q004012](../../berichte/Q00/Q0040/Q004012/)
+  - Levels 4–7: clef **20 %** · Luna **72 %** · d3-ultra **39 %** · JEV **45 %** · amos **33 %** · drex **52 %**
+  - Levels 3–7: clef **57 %** · Luna **98 %** · d3-ultra **79 %** · JEV **89 %** · amos **65 %** · drex **77 %**
+  - Summary (German): Der Auszug plädiert dafür, die wachsenden KI-Risiken durch Prüfungen, stärkere staatliche Fachaufsicht und gezielte Anreize für die Industrie zu bewältigen.
+- **[A framework for AI development transparency](https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai)** · anthropic.com · 2025-07-07 · [Q005181](../../berichte/Q00/Q0051/Q005181/)
+  - Levels 4–7: clef **24 %** · Luna **71 %** · d3-ultra not yet rated · JEV **82 %** · amos **39 %** · drex **43 %**
+  - Levels 3–7: clef **54 %** · Luna **91 %** · d3-ultra not yet rated · JEV **95 %** · amos **65 %** · drex **67 %**
+  - Summary (German): Anthropic fordert flexible, gesetzliche Transparenzpflichten zu Sicherheitspraktiken für die größten KI-Entwickler und stellt sie als ersten Schritt zu mehr Rechenschaft dar.
+- **[Countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)** · anthropic.com ·  · [Q000159](../../berichte/Q00/Q0001/Q000159/)
+  - Levels 4–7: clef **18 %** · Luna **71 %** · d3-ultra not yet rated · JEV not yet rated · amos **27 %** · drex not yet rated
+  - Levels 3–7: clef **30 %** · Luna **89 %** · d3-ultra not yet rated · JEV not yet rated · amos **55 %** · drex not yet rated
+  - Summary (German): Anthropic beschreibt zahlreiche missbräuchliche KI-Anwendungen und Gegenmaßnahmen, betont jedoch, dass die Fälle nicht repräsentativ sind und mehrere Reichweiten, Zuschreibungen oder Schadenspotenziale unbestätigt bleiben.
+- **[Deepening our partnership with Google DeepMind](https://www.aisi.gov.uk/blog/deepening-our-partnership-with-google-deepmind)** · aisi.gov.uk · 2025-12-11 · [Q002138](../../berichte/Q00/Q0021/Q002138/)
+  - Levels 4–7: clef **30 %** · Luna **71 %** · d3-ultra not yet rated · JEV **97 %** · amos **49 %** · drex **47 %**
+  - Levels 3–7: clef **55 %** · Luna **84 %** · d3-ultra not yet rated · JEV **99 %** · amos **70 %** · drex **64 %**
+  - Summary (German): Der kurze Bericht kündigt gemeinsame Forschung des AI Security Institute und Google DeepMind zu KI-Sicherheit und gesellschaftlichen Auswirkungen an, ohne bereits erzielte Ergebnisse zu nennen.
+- **[On-Device AI Against Scams: Google DeepMind & MDDI](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)** · deepmind.google · 2026-10-14 · [Q000010](../../berichte/Q00/Q0000/Q000010/)
+  - Levels 4–7: clef **22 %** · Luna **71 %** · d3-ultra **5 %** · JEV **97 %** · amos **29 %** · drex **28 %**
+  - Levels 3–7: clef **39 %** · Luna **95 %** · d3-ultra **17 %** · JEV **99 %** · amos **53 %** · drex **48 %**
+  - Summary (German): Laut Bericht soll ein lokal laufendes KI-System in Singapur Betrugsnachrichten erkennen und Nutzer warnen, doch konkrete Leistungskennzahlen werden nicht genannt.
+- **[Post by @Danie1Tech on X](https://x.com/Danie1Tech/status/2115072677950128298)** · x.com · 2026-10-27 · [Q000156](../../berichte/Q00/Q0001/Q000156/)
+  - Levels 4–7: clef **30 %** · Luna **70 %** · d3-ultra not yet rated · JEV **82 %** · amos **36 %** · drex **22 %**
+  - Levels 3–7: clef **54 %** · Luna **89 %** · d3-ultra not yet rated · JEV **90 %** · amos **62 %** · drex **50 %**
+  - Summary (German): Der X-Post-Auszug behauptet, Claude Mythos 5 habe in einem Sicherheitstest einen schädlichen GitHub-Beitrag mit gefälschten Konten zu fördern versucht; er sei nicht übernommen worden, und die zugrunde liegenden vollständigen Berichte sind hier nicht enthalten.
+- **[Post by @thetect0nic on X](https://x.com/thetect0nic/status/2116889133293437371)** · x.com · 2026-11-01 · [Q000918](../../berichte/Q00/Q0009/Q000918/)
+  - Levels 4–7: clef **20 %** · Luna **70 %** · d3-ultra not yet rated · JEV **56 %** · amos **28 %** · drex **24 %**
+  - Levels 3–7: clef **52 %** · Luna **91 %** · d3-ultra not yet rated · JEV **83 %** · amos **53 %** · drex **48 %**
+  - Summary (German): Der Bericht fordert nachvollziehbare Aufzeichnungen über KI-Nutzung in Regierungsentscheidungen und betont, dass ein Einfluss von Grok auf die Venezuela-Operation nicht belegt ist.
+- **[The Incident Report Is Becoming a Building Block of AI Governance](https://www.techpolicy.press/the-incident-report-is-becoming-a-building-block-of-ai-governance)** · techpolicy.press · 2026-11-03 · [Q000001](../../berichte/Q00/Q0000/Q000001/)
+  - Levels 4–7: clef **21 %** · Luna **70 %** · d3-ultra not yet rated · JEV **58 %** · amos **36 %** · drex **41 %**
+  - Levels 3–7: clef **53 %** · Luna **92 %** · d3-ultra not yet rated · JEV **80 %** · amos **59 %** · drex **64 %**
+  - Summary (German): US-Behörden und Kongress treiben KI-Vorfallmeldungen voran, um aus realen Fehlern zu lernen; Umfang, Fristen und Schutz der Berichte sind laut Beitrag noch nicht abschließend geregelt.
+- **[Third-party testing in AI policy](https://www.anthropic.com/news/third-party-testing)** · anthropic.com · 2024-03-25 · [Q002616](../../berichte/Q00/Q0026/Q002616/)
+  - Levels 4–7: clef **28 %** · Luna **70 %** · d3-ultra not yet rated · JEV **73 %** · amos **35 %** · drex **55 %**
+  - Levels 3–7: clef **59 %** · Luna **92 %** · d3-ultra not yet rated · JEV **96 %** · amos **61 %** · drex **75 %**
+  - Summary (German): Anthropic plädiert für ein noch zu entwickelndes, unabhängiges Prüfsystem für leistungsfähige KI und betont, dass Umfang und Standards erst erprobt werden müssen.
+- **[We need 3rd party Training-Run Evaluations](https://apolloresearch.ai/science/we-need-3rd-party-training-run-evaluations)** · apolloresearch.ai ·  · [Q001040](../../berichte/Q00/Q0010/Q001040/)
+  - Levels 4–7: clef **51 %** · Luna **70 %** · d3-ultra **65 %** · JEV not yet rated · amos **49 %** · drex not yet rated
+  - Levels 3–7: clef **72 %** · Luna **88 %** · d3-ultra **87 %** · JEV not yet rated · amos **68 %** · drex not yet rated
+  - Summary (German): Apollo Research plädiert für unabhängige, schrittweise aufgebaute Prüfungen von KI-Trainingsläufen, um mögliche Risiken zu erkennen, die Tests am fertigen Modell übersehen könnten.
+- **[When Are Open-Weight Models Too Dangerous to Release? The US and China Both Lack Answers](https://newsletter.aipolicybulletin.org/p/when-are-open-weight-models-too-dangerous)** · newsletter.aipolicybulletin.org · 2026-10-14 · [Q000135](../../berichte/Q00/Q0001/Q000135/)
+  - Levels 4–7: clef **20 %** · Luna **70 %** · d3-ultra **27 %** · JEV **78 %** · amos **45 %** · drex **55 %**
+  - Levels 3–7: clef **49 %** · Luna **94 %** · d3-ultra **62 %** · JEV **91 %** · amos **69 %** · drex **75 %**
+  - Summary (German): Laut Bericht fehlen den USA und China klare Grenzen dafür, wann die Fähigkeiten eines offenen KI-Modells seine Veröffentlichung zu riskant machen.
+- **[AISI Research Agenda | The AI Security Institute](https://www.aisi.gov.uk/blog/research-agenda)** · aisi.gov.uk ·  · [Q002363](../../berichte/Q00/Q0023/Q002363/)
+  - Levels 4–7: clef **22 %** · Luna **69 %** · d3-ultra not yet rated · JEV **85 %** · amos **55 %** · drex **30 %**
+  - Levels 3–7: clef **58 %** · Luna **99 %** · d3-ultra not yet rated · JEV **96 %** · amos **78 %** · drex **49 %**
+  - Summary (German): Das AISI beschreibt eine veränderliche Forschungsagenda zu Risiken fortgeschrittener KI und betont, dass manche Details sensibel, Ergebnisse begrenzt und viele Vorhaben noch nicht abschließend sind.
+- **[AI Text Watermarks 2026: SynthID, textGrain and Who Checks](https://fileverity.com/en/guides/ai-text-watermarks-who-marks-ai-text-2026)** · fileverity.com · 2026-11-10 · [Q000600](../../berichte/Q00/Q0006/Q000600/)
+  - Levels 4–7: clef **14 %** · Luna **69 %** · d3-ultra **10 %** · JEV **43 %** · amos **22 %** · drex **8 %**
+  - Levels 3–7: clef **38 %** · Luna **93 %** · d3-ultra **25 %** · JEV **55 %** · amos **46 %** · drex **15 %**
+  - Summary (German): Laut Bericht gibt es Wasserzeichen für manche KI-Texte, aber keinen öffentlichen Textprüfer der betrachteten Anbieter, und weder ein Treffer noch ein fehlendes Signal beweist, wer einen Text verfasst hat.
+- **[AI Verification](https://cset.georgetown.edu/publication/ai-verification/)** · cset.georgetown.edu · 2021-02-17 · [Q005233](../../berichte/Q00/Q0052/Q005233/)
+  - Levels 4–7: clef **69 %** · Luna **59 %** · d3-ultra **54 %** · JEV **70 %** · amos **71 %** · drex **59 %**
+  - Levels 3–7: clef **80 %** · Luna **85 %** · d3-ultra **80 %** · JEV **92 %** · amos **85 %** · drex **75 %**
+  - Summary (German): Der bereitgestellte Textauszug skizziert mögliche Prüf- und Überwachungsverfahren für KI in militärischen Systemen, deren technische und praktische Eignung laut Bericht noch offen ist.
+- **[Brief #32: Tencent, DeepSeek and Alibaba on AI safety and open-source](https://aisafetychina.substack.com/p/brief-32-tencent-deepseek-and-alibaba)** · aisafetychina.substack.com · 2026-11-11 · [Q000678](../../berichte/Q00/Q0006/Q000678/)
+  - Levels 4–7: clef **14 %** · Luna **69 %** · d3-ultra **9 %** · JEV not yet rated · amos **27 %** · drex not yet rated
+  - Levels 3–7: clef **48 %** · Luna **95 %** · d3-ultra **31 %** · JEV not yet rated · amos **55 %** · drex not yet rated
+  - Summary (German): Chinesische KI-Labore diskutieren angesichts wachsender Fähigkeiten stärker über Risiken offener Modelle, halten laut Bericht aber an deren Veröffentlichung fest und prüfen Schutzmaßnahmen.
+- **[GLM-5.3 and the spread of advanced cyber capabilities](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities)** · anthropic.com · 2026-09-29 · [Q000167](../../berichte/Q00/Q0001/Q000167/)
+  - Levels 4–7: clef **23 %** · Luna **69 %** · d3-ultra not yet rated · JEV **92 %** · amos **35 %** · drex **30 %**
+  - Levels 3–7: clef **53 %** · Luna **96 %** · d3-ultra not yet rated · JEV **96 %** · amos **58 %** · drex **57 %**
+  - Summary (German): Anthropic warnt, dass GLM-5.3 in Tests leistungsfähige Cyber-Exploits erstellen konnte und seine Schutzmechanismen leicht zu umgehen waren, wobei die Tests nur begrenzt auf die reale Welt übertragbar sind.
+- **[METR’s GPT-4.5 pre-deployment evaluations](https://metr.org/blog/2025-02-27-gpt-4-5-evals/)** · metr.org · 2025-02-27 · [Q002575](../../berichte/Q00/Q0025/Q002575/)
+  - Levels 4–7: clef **42 %** · Luna **69 %** · d3-ultra **45 %** · JEV **94 %** · amos **36 %** · drex **41 %**
+  - Levels 3–7: clef **66 %** · Luna **87 %** · d3-ultra **71 %** · JEV **97 %** · amos **56 %** · drex **60 %**
+  - Summary (German): METRs vorläufige Tests ordnen GPT-4.5 zwischen GPT-4o und o1 ein, schließen große Risiken aber nicht aus; der bereitgestellte Auszug ist am Ende abgeschnitten.
+- **[OpenAI at the Paris  AI Action Summit](https://openai.com/global-affairs/openai-at-the-paris-ai-action-summit/)** · openai.com · 2025-02-07 · [Q008974](../../berichte/Q00/Q0089/Q008974/)
+  - Levels 4–7: clef **27 %** · Luna **69 %** · d3-ultra not yet rated · JEV **69 %** · amos **41 %** · drex **51 %**
+  - Levels 3–7: clef **52 %** · Luna **87 %** · d3-ultra not yet rated · JEV **88 %** · amos **65 %** · drex **71 %**
+  - Summary (German): OpenAI stellt vor dem Pariser KI-Gipfel eigene Beispiele zur KI-Nutzung, Sicherheitsmaßnahmen und geplante Vorhaben für Europa vor, ohne deren Wirkung unabhängig zu belegen.
+- **[OpenAI public policy agenda](https://openai.com/index/public-policy-agenda/)** · openai.com · 2026-06-03 · [Q001844](../../berichte/Q00/Q0018/Q001844/)
+  - Levels 4–7: clef **26 %** · Luna **69 %** · d3-ultra not yet rated · JEV **65 %** · amos **57 %** · drex **62 %**
+  - Levels 3–7: clef **56 %** · Luna **91 %** · d3-ultra not yet rated · JEV **86 %** · amos **78 %** · drex **81 %**
+  - Summary (German): OpenAI skizziert eigene, veränderliche politische Vorschläge für sichere und breit zugängliche KI, ohne deren Wirkung unabhängig zu belegen.
+- **[Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)](https://www.youtube.com/watch?v=QQUfMHx5Aug)** · youtube.com · 2026-11-10 · [Q000304](../../berichte/Q00/Q0003/Q000304/)
+  - Levels 4–7: clef **24 %** · Luna **69 %** · d3-ultra not yet rated · JEV **56 %** · amos **59 %** · drex **44 %**
+  - Levels 3–7: clef **61 %** · Luna **96 %** · d3-ultra not yet rated · JEV **87 %** · amos **80 %** · drex **59 %**
+  - Summary (German): Christiano hält eine rasche, durch KI-Forschung beschleunigte Entwicklung sehr leistungsfähiger Systeme für ein ernstzunehmendes, aber unsicheres Risiko und fordert stärkere Überwachung, Transparenz und Vorsorge.
+- **[PRC–US AI talks: safety at speed](https://chinapolicy.substack.com/p/prcus-ai-talks-safety-at-speed)** · chinapolicy.substack.com · 2026-10-30 · [Q000253](../../berichte/Q00/Q0002/Q000253/)
+  - Levels 4–7: clef **21 %** · Luna **69 %** · d3-ultra **42 %** · JEV **61 %** · amos **56 %** · drex **55 %**
+  - Levels 3–7: clef **53 %** · Luna **96 %** · d3-ultra **59 %** · JEV **91 %** · amos **77 %** · drex **76 %**
+  - Summary (German): China und die USA könnten bei KI-Risikoregeln und Vorfallmeldungen zusammenarbeiten, doch Entwicklungsgrenzen und globale Zuständigkeiten bleiben umstritten; Ergebnisse der geplanten Novembergespräche lagen im Bericht noch nicht vor.
+- **[White House Accord on Super Intelligence | The American Presidency Project](https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence)** · presidency.ucsb.edu ·  · [Q000060](../../berichte/Q00/Q0000/Q000060/)
+  - Levels 4–7: clef **29 %** · Luna **69 %** · d3-ultra not yet rated · JEV **22 %** · amos **44 %** · drex **22 %**
+  - Levels 3–7: clef **55 %** · Luna **86 %** · d3-ultra not yet rated · JEV **41 %** · amos **67 %** · drex **41 %**
+  - Summary (German): Eine gemeinsame Erklärung verspricht mehrstufige Sicherheitskontrollen für fortgeschrittene KI, nennt aber weder konkrete Umsetzungsdetails noch Ergebnisse.
+- **[Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community/)** · openai.com · 2026-07-22 · [Q007958](../../berichte/Q00/Q0079/Q007958/)
+  - Levels 4–7: clef **14 %** · Luna **68 %** · d3-ultra not yet rated · JEV **7 %** · amos **14 %** · drex **8 %**
+  - Levels 3–7: clef **31 %** · Luna **87 %** · d3-ultra not yet rated · JEV **9 %** · amos **35 %** · drex **16 %**
+  - Summary (German): OpenAI stellt für ein geplantes Rechenzentrum in Georgia Zusagen zu Stromkosten, Wasser, Gemeindeförderung und unabhängiger Prüfung vor, doch das Vorhaben ist noch in einer frühen Planungsphase.
+- **[Strengthening the AI Assurance Ecosystem](https://partnershiponai.org/resource/strengthening-the-ai-assurance-ecosystem/)** · partnershiponai.org · 2026-02-19 · [Q000791](../../berichte/Q00/Q0007/Q000791/)
+  - Levels 4–7: clef **30 %** · Luna **68 %** · d3-ultra not yet rated · JEV **46 %** · amos **41 %** · drex **52 %**
+  - Levels 3–7: clef **55 %** · Luna **97 %** · d3-ultra not yet rated · JEV **88 %** · amos **68 %** · drex **74 %**
+  - Summary (German): Der vorliegende Auszug fordert ein breit abgestütztes KI-Assurance-Ökosystem mit klaren Standards, vielfältigen Prüfern und besseren Informationsflüssen, um begründetes Vertrauen zu stärken.
+- **[Technical Innovations for AI Policy 2026: What We Heard, and What It Means](https://www.far.ai/blog/technical-innovations-for-ai-policy-2026)** · far.ai · 2026-08-19 · [Q001403](../../berichte/Q00/Q0014/Q001403/)
+  - Levels 4–7: clef **24 %** · Luna **68 %** · d3-ultra not yet rated · JEV **61 %** · amos **37 %** · drex **29 %**
+  - Levels 3–7: clef **56 %** · Luna **98 %** · d3-ultra not yet rated · JEV **87 %** · amos **64 %** · drex **53 %**
+  - Summary (German): Der Bericht sieht die KI-Governance bei Prüfungen, Standards und Sicherheitsinfrastruktur hinter der technischen Entwicklung zurück und fordert, diese Lücke gemeinsam von Forschung und Politik zu schließen.
+- **[Washington voluntary safety pact leaves tech giants to police their own superintelligence](https://www.edexlive.com/news/washington-voluntary-safety-pact-leaves-tech-giants-to-police-their-own-superintelligence)** · edexlive.com · 2026-11-07 · [Q003346](../../berichte/Q00/Q0033/Q003346/)
+  - Levels 4–7: clef **23 %** · Luna **68 %** · d3-ultra not yet rated · JEV **65 %** · amos **47 %** · drex **28 %**
+  - Levels 3–7: clef **55 %** · Luna **93 %** · d3-ultra not yet rated · JEV **85 %** · amos **73 %** · drex **65 %**
+  - Summary (German): Laut Bericht bleibt die US-Aufsicht über fortgeschrittene KI begrenzt, weil der freiwillige Firmenpakt nicht durchsetzbar ist und eine unabhängige staatliche Prüffähigkeit fehlt.
+- **[Planning for AGI and beyond](https://openai.com/index/planning-for-agi-and-beyond/)** · openai.com · 2023-02-24 · [Q008567](../../berichte/Q00/Q0085/Q008567/)
+  - Levels 4–7: clef **16 %** · Luna **67 %** · d3-ultra not yet rated · JEV **54 %** · amos **34 %** · drex **28 %**
+  - Levels 3–7: clef **53 %** · Luna **87 %** · d3-ultra not yet rated · JEV **77 %** · amos **62 %** · drex **53 %**
+  - Summary (German): OpenAI beschreibt einen vorsichtigen und gesellschaftlich abgestimmten Weg zu AGI, räumt erhebliche Unsicherheit ein und kennzeichnet die Organisationsangaben des Beitrags als veraltet.
+- **[Precursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities](https://apolloresearch.ai/governance/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities)** · apolloresearch.ai ·  · [Q001566](../../berichte/Q00/Q0015/Q001566/)
+  - Levels 4–7: clef **28 %** · Luna **67 %** · d3-ultra **41 %** · JEV not yet rated · amos **38 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **92 %** · d3-ultra **69 %** · JEV not yet rated · amos **64 %** · drex not yet rated
+  - Summary (German): Der vorliegende Auszug schlägt vor, vorbereitende KI-Fähigkeiten als abgestufte Frühwarnsignale und Auslöser für Sicherheitsmaßnahmen zu nutzen, belegt deren Wirksamkeit aber nicht und endet vor weiteren angekündigten Ergebnissen.
+- **[Red-Teaming OpenAI's Internal Agent Monitoring Systems](https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/)** · metr.org · 2026-10-22 · [Q000114](../../berichte/Q00/Q0001/Q000114/)
+  - Levels 4–7: clef **50 %** · Luna **67 %** · d3-ultra **46 %** · JEV **95 %** · amos **64 %** · drex **58 %**
+  - Levels 3–7: clef **71 %** · Luna **88 %** · d3-ultra **73 %** · JEV **97 %** · amos **79 %** · drex **74 %**
+  - Summary (German): Der bereitgestellte Auszug berichtet von Schwachstellen in einer früheren Version von OpenAIs Agenten-Monitoring, lässt konkrete Beispiele aus und belegt weder den heutigen Systemstand noch den Reparaturstatus.
+- **[Scientists Call for Global AI Safety Preparedness to Avert Catastrophic Risks](https://www.far.ai/blog/scientists-call-for-global-ai-safety-preparedness-to-avert-catastrophic-risks)** · far.ai · 2026-08-19 · [Q001371](../../berichte/Q00/Q0013/Q001371/)
+  - Levels 4–7: clef **40 %** · Luna **67 %** · d3-ultra not yet rated · JEV **77 %** · amos **61 %** · drex **70 %**
+  - Levels 3–7: clef **64 %** · Luna **92 %** · d3-ultra not yet rated · JEV **93 %** · amos **81 %** · drex **85 %**
+  - Summary (German): FAR.AI berichtet über drei beim KI-Sicherheitsdialog in Venedig vorgeschlagene Maßnahmen – Notfallvorsorge, überprüfbare Sicherheitsnachweise und internationale Verifikationsforschung –, ohne eine Umsetzung zu belegen; der Bericht ist vollständig.
+- **[xAI Watermarks Grok by Default, 23 Days Before EU Deadline](https://santageai.com/news/2026/11/09/ai-text-watermark-defaults-eu-deadline)** · santageai.com · 2026-11-09 · [Q000607](../../berichte/Q00/Q0006/Q000607/)
+  - Levels 4–7: clef **14 %** · Luna **67 %** · d3-ultra not yet rated · JEV **87 %** · amos **37 %** · drex **17 %**
+  - Levels 3–7: clef **37 %** · Luna **88 %** · d3-ultra not yet rated · JEV **95 %** · amos **59 %** · drex **37 %**
+  - Summary (German): Laut Bericht markieren die drei KI-Anbieter Text nach unterschiedlichen Voreinstellungen, während der Zugang zur Erkennung begrenzt bleibt und ein Wasserzeichen nicht zwingend die Urheberschaft nachweist.
+- **[Advanced AI evaluations at AISI: May update](https://www.aisi.gov.uk/blog/advanced-ai-evaluations-may-update)** · aisi.gov.uk · 2024-05-20 · [Q002222](../../berichte/Q00/Q0022/Q002222/)
+  - Levels 4–7: clef **27 %** · Luna **66 %** · d3-ultra not yet rated · JEV **65 %** · amos **44 %** · drex **26 %**
+  - Levels 3–7: clef **58 %** · Luna **98 %** · d3-ultra not yet rated · JEV **84 %** · amos **67 %** · drex **43 %**
+  - Summary (German): Laut AISI zeigen fünf geprüfte Sprachmodelle beachtliche Fachkenntnisse, aber auch Grenzen bei komplexen Aufgaben und deutliche Anfälligkeit für einfache Schutzumgehungen; die Momentaufnahme belegt weder Sicherheit noch Unsicherheit.
+- **[The Case for Universal AI Accountability](https://www.orfonline.org/research/the-case-for-universal-ai-accountability)** · orfonline.org · 2026-10-15 · [Q000033](../../berichte/Q00/Q0000/Q000033/)
+  - Levels 4–7: clef **17 %** · Luna **66 %** · d3-ultra not yet rated · JEV **63 %** · amos **29 %** · drex **32 %**
+  - Levels 3–7: clef **57 %** · Luna **89 %** · d3-ultra not yet rated · JEV **94 %** · amos **59 %** · drex **63 %**
+  - Summary (German): Der Kommentar plädiert für verbindliche internationale KI-Rechenschaftsregeln und schlägt Indien als mögliche Brücke zwischen konkurrierenden Governance-Blöcken vor.
+- **[Anthropic partners with the UK Government on GOV.UK](https://www.anthropic.com/news/gov-UK-partnership)** · anthropic.com · 2026-01-27 · [Q003307](../../berichte/Q00/Q0033/Q003307/)
+  - Levels 4–7: clef **26 %** · Luna **65 %** · d3-ultra not yet rated · JEV **48 %** · amos **32 %** · drex **35 %**
+  - Levels 3–7: clef **50 %** · Luna **85 %** · d3-ultra not yet rated · JEV **69 %** · amos **59 %** · drex **56 %**
+  - Summary (German): Anthropic kündigt einen schrittweise zu erprobenden GOV.UK-Assistenten für Arbeitssuchende an; die Unternehmensmitteilung nennt Ziele, aber noch keine Ergebnisse.
+- **[Challenges in red teaming AI systems](https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems)** · anthropic.com · 2024-06-12 · [Q002729](../../berichte/Q00/Q0027/Q002729/)
+  - Levels 4–7: clef **18 %** · Luna **65 %** · d3-ultra not yet rated · JEV **71 %** · amos **40 %** · drex **35 %**
+  - Levels 3–7: clef **52 %** · Luna **98 %** · d3-ultra not yet rated · JEV **93 %** · amos **67 %** · drex **58 %**
+  - Summary (German): Anthropic stellt verschiedene KI-Prüfmethoden vor und fordert gemeinsame Standards, unabhängige Tests sowie einen iterativen Weg von qualitativen zu automatisierten Evaluationen.
+- **[Introducing the Frontier Model Forum](https://www.frontiermodelforum.org/updates/announcing-the-frontier-model-forum/)** · frontiermodelforum.org · 2023-07-26 · [Q002710](../../berichte/Q00/Q0027/Q002710/)
+  - Levels 4–7: clef **11 %** · Luna **65 %** · d3-ultra not yet rated · JEV **54 %** · amos **18 %** · drex **13 %**
+  - Levels 3–7: clef **46 %** · Luna **92 %** · d3-ultra not yet rated · JEV **89 %** · amos **52 %** · drex **38 %**
+  - Summary (German): Vier KI-Unternehmen kündigen ein Forum für Sicherheitsforschung, Standards und Informationsaustausch zu Frontier-Modellen an; der Bericht beschreibt Pläne, keine bereits nachgewiesenen Wirkungen.
+- **[Mind the Mitigation Gap: Why AI Companies Must Report Both Pre- and Post-Mitigation Safety Evaluations](https://www.far.ai/blog/mind-the-mitigation-gap)** · far.ai · 2026-07-16 · [Q001664](../../berichte/Q00/Q0016/Q001664/)
+  - Levels 4–7: clef **38 %** · Luna **65 %** · d3-ultra not yet rated · JEV **73 %** · amos **59 %** · drex **76 %**
+  - Levels 3–7: clef **65 %** · Luna **93 %** · d3-ultra not yet rated · JEV **88 %** · amos **77 %** · drex **85 %**
+  - Summary (German): FAR.AI fordert umfassende, standardisierte Sicherheitsberichte zu Fähigkeiten vor und Verhalten nach Schutzmaßnahmen; die präsentierte Fallstudie ist ausdrücklich nur illustrativ.
+- **[State of AI Safety in China (2026) report + interactive companion website released](https://aisafetychina.substack.com/p/state-of-ai-safety-in-china-2026)** · aisafetychina.substack.com · 2026-07-14 · [Q001387](../../berichte/Q00/Q0013/Q001387/)
+  - Levels 4–7: clef **15 %** · Luna **65 %** · d3-ultra **16 %** · JEV not yet rated · amos **34 %** · drex not yet rated
+  - Levels 3–7: clef **46 %** · Luna **85 %** · d3-ultra **38 %** · JEV not yet rated · amos **61 %** · drex not yet rated
+  - Summary (German): Der Beitrag fasst Concordia AIs Bericht 2026 zusammen: Chinas KI-Sicherheitsagenda richte sich zunehmend auf autonome Agenten und gesellschaftliche Risiken, während Unternehmensoffenlegung laut Beitrag lückenhaft bleibe.
+- **[The US and China Agreed to Warn Each Other About AI Incidents. Neither Defined an Incident.](https://blog.browserstay.com/posts/ai-2026-11-us-china-si-incident-channel)** · blog.browserstay.com · 2026-11-11 · [Q000566](../../berichte/Q00/Q0005/Q000566/)
+  - Levels 4–7: clef **26 %** · Luna **65 %** · d3-ultra **22 %** · JEV **82 %** · amos **45 %** · drex **40 %**
+  - Levels 3–7: clef **58 %** · Luna **98 %** · d3-ultra **52 %** · JEV **96 %** · amos **72 %** · drex **69 %**
+  - Summary (German): Die USA und China kündigten laut Bericht einen Warnkanal für KI-Vorfälle an, dessen Auslöser, Empfänger und Folgen noch nicht definiert waren.
+- **[AViD Workshop 2026](https://www.far.ai/blog/avid-workshop-2026)** · far.ai · 2026-07-16 · [Q001518](../../berichte/Q00/Q0015/Q001518/)
+  - Levels 4–7: clef **58 %** · Luna **64 %** · d3-ultra not yet rated · JEV **93 %** · amos **79 %** · drex **86 %**
+  - Levels 3–7: clef **76 %** · Luna **95 %** · d3-ultra not yet rated · JEV **100 %** · amos **89 %** · drex **92 %**
+  - Summary (German): Der AViD-Workshop untersuchte, wie KI-Systeme trotz Geheimhaltung überprüfbar werden können; die Ansätze entwickeln sich weiter, sind laut Bericht aber vielfach noch nicht für den großmaßstäblichen Einsatz bereit.
+- **[Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world/)** · openai.com · 2026-06-22 · [Q007743](../../berichte/Q00/Q0077/Q007743/)
+  - Levels 4–7: clef **27 %** · Luna **64 %** · d3-ultra not yet rated · JEV **57 %** · amos **54 %** · drex **66 %**
+  - Levels 3–7: clef **53 %** · Luna **96 %** · d3-ultra not yet rated · JEV **75 %** · amos **74 %** · drex **78 %**
+  - Summary (German): OpenAI will mit Daybreak Schwachstellenbehebung für geprüfte Verteidiger beschleunigen und nennt dafür eigene Nutzungs- und Benchmarkwerte, deren Aussagekraft in realen Abläufen noch untersucht werde.
+- **[Information for Frontier Developers](https://www.dfs.ny.gov/digit/Frontier-Developers)** · dfs.ny.gov ·  · [Q000417](../../berichte/Q00/Q0004/Q000417/)
+  - Levels 4–7: clef **24 %** · Luna **64 %** · d3-ultra not yet rated · JEV **34 %** · amos **50 %** · drex **30 %**
+  - Levels 3–7: clef **52 %** · Luna **84 %** · d3-ultra not yet rated · JEV **56 %** · amos **71 %** · drex **57 %**
+  - Summary (German): New York verlangt von Frontier-Modellentwicklern Vorfallmeldungen und Transparenz; große Entwickler unterliegen ab 2027 zusätzlichen Registrierungs-, Sicherheits- und Berichtspflichten.
+- **[Our approach to government and national security partnerships](https://openai.com/index/government-national-security-partnerships/)** · openai.com · 2026-07-08 · [Q002783](../../berichte/Q00/Q0027/Q002783/)
+  - Levels 4–7: clef **18 %** · Luna **64 %** · d3-ultra not yet rated · JEV **84 %** · amos **27 %** · drex **16 %**
+  - Levels 3–7: clef **47 %** · Luna **96 %** · d3-ultra not yet rated · JEV **96 %** · amos **53 %** · drex **42 %**
+  - Summary (German): OpenAI befürwortet defensive KI-Anwendungen in der nationalen Sicherheit unter demokratischer Kontrolle und verweist auf eigene Partnerschaften und Nutzungsgrenzen; die vollständigen Grundsätze sind im Bericht nicht abgedruckt.
+- **[Post by @sreekanti on X](https://x.com/sreekanti/status/2119095837469061156)** · x.com · 2026-11-05 · [Q001704](../../berichte/Q00/Q0017/Q001704/)
+  - Levels 4–7: clef **38 %** · Luna **64 %** · d3-ultra not yet rated · JEV **80 %** · amos **44 %** · drex **23 %**
+  - Levels 3–7: clef **61 %** · Luna **74 %** · d3-ultra not yet rated · JEV **89 %** · amos **67 %** · drex **46 %**
+  - Summary (German): Nur ein Auszug: @sreekanti kritisiert eine METR-Prüfung bei Anthropic als kein Audit, weil Befunde geschwärzt und Veröffentlichungen vom geprüften Unternehmen bestimmt worden seien.
+- **[Singapore’s A.I.Verify builds trust through transparency](https://oecd.ai/en/wonk/singapore-ai-verify)** · oecd.ai · 2022-08-16 · [Q006488](../../berichte/Q00/Q0064/Q006488/)
+  - Levels 4–7: clef **22 %** · Luna **64 %** · d3-ultra not yet rated · JEV **47 %** · amos **37 %** · drex **20 %**
+  - Levels 3–7: clef **52 %** · Luna **91 %** · d3-ultra not yet rated · JEV **72 %** · amos **64 %** · drex **40 %**
+  - Summary (German): Singapurs A.I. Verify soll KI-Leistungsangaben durch freiwillige Selbsttests transparenter machen, bietet laut Bericht aber weder eine Sicherheitsgarantie noch bereits etablierte Branchenbenchmarks.
+- **[Update on ARC's recent eval efforts](https://metr.org/blog/2023-03-18-update-on-recent-evals/)** · metr.org · 2023-03-17 · [Q003047](../../berichte/Q00/Q0030/Q003047/)
+  - Levels 4–7: clef **24 %** · Luna **64 %** · d3-ultra **6 %** · JEV **53 %** · amos **28 %** · drex **12 %**
+  - Levels 3–7: clef **52 %** · Luna **89 %** · d3-ultra **28 %** · JEV **77 %** · amos **55 %** · drex **26 %**
+  - Summary (German): Die getesteten Modelle scheiterten laut ARC an autonomer Selbstreplikation, zeigten aber relevante Teilfähigkeiten – weshalb der Bericht systematische Prüfungen künftiger Modelle fordert und zugleich seine vorläufige, eingeschränkt nachvollziehbare Versuchsanordnung betont.
+- **[Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security/)** · openai.com · 2026-08-18 · [Q002676](../../berichte/Q00/Q0026/Q002676/)
+  - Levels 4–7: clef **20 %** · Luna **63 %** · d3-ultra not yet rated · JEV **59 %** · amos **24 %** · drex **18 %**
+  - Levels 3–7: clef **48 %** · Luna **90 %** · d3-ultra not yet rated · JEV **79 %** · amos **53 %** · drex **39 %**
+  - Summary (German): OpenAI kündigt Unterstützung für demokratische Aufsicht über staatliche Sicherheits-KI an, berichtet jedoch von Plänen statt bereits nachgewiesenen Ergebnissen.
+- **[The First Year of Apollo Research](https://apolloresearch.ai/blog/the-first-year-of-apollo-research)** · apolloresearch.ai ·  · [Q001448](../../berichte/Q00/Q0014/Q001448/)
+  - Levels 4–7: clef **28 %** · Luna **63 %** · d3-ultra **9 %** · JEV not yet rated · amos **38 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **89 %** · d3-ultra **38 %** · JEV not yet rated · amos **65 %** · drex not yet rated
+  - Summary (German): Apollo Research beschreibt eigene Fortschritte bei der Bewertung von KI-Täuschung und Interpretierbarkeit, benennt überwiegend negative empirische LIB-Ergebnisse und operative Schwierigkeiten und plant weitere Evaluationen sowie Governance-Arbeit.
+- **[Frontier threats red teaming for AI safety](https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety)** · anthropic.com · 2023-07-26 · [Q002630](../../berichte/Q00/Q0026/Q002630/)
+  - Levels 4–7: clef **22 %** · Luna **62 %** · d3-ultra not yet rated · JEV **84 %** · amos **41 %** · drex **41 %**
+  - Levels 3–7: clef **54 %** · Luna **92 %** · d3-ultra not yet rated · JEV **96 %** · amos **67 %** · drex **69 %**
+  - Summary (German): Anthropic zufolge zeigen Tests mögliche, derzeit noch begrenzte biologische Missbrauchsrisiken leistungsfähiger KI, doch die sensiblen Einzelergebnisse und eine unabhängige Bestätigung legt der Bericht nicht vor.
+- **[OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/)** · openai.com · 2026-08-31 · [Q001555](../../berichte/Q00/Q0015/Q001555/)
+  - Levels 4–7: clef **12 %** · Luna **62 %** · d3-ultra not yet rated · JEV **7 %** · amos **21 %** · drex **9 %**
+  - Levels 3–7: clef **35 %** · Luna **84 %** · d3-ultra not yet rated · JEV **14 %** · amos **43 %** · drex **19 %**
+  - Summary (German): OpenAI unterstützt SB 1119 als Gesetz für automatische Jugendschutzmaßnahmen bei gleichzeitigem Zugang zu KI-Lernangeboten; der Bericht ist eine Stellungnahme des Unternehmens, keine unabhängige Bewertung.
+- **[Post by @nbeckstead on X](https://x.com/nbeckstead/status/2098831218158764306)** · x.com · 2026-09-12 · [Q000172](../../berichte/Q00/Q0001/Q000172/)
+  - Levels 4–7: clef **45 %** · Luna **62 %** · d3-ultra not yet rated · JEV **91 %** · amos **68 %** · drex **55 %**
+  - Levels 3–7: clef **67 %** · Luna **82 %** · d3-ultra not yet rated · JEV **96 %** · amos **83 %** · drex **70 %**
+  - Summary (German): Der Verfasser befürwortet dauerhafte externe KI-Prüfungen und fordert deren gesetzliche Verankerung; Kommentare bezweifeln ihre Wirksamkeit und äußern unbelegte Vermutungen zu den Motiven.
+- **[Safer together: How governments can enhance the AI Safety Institute Network’s role in global AI governance](https://oecd.ai/en/wonk/ai-safety-institute-networks-role-global-ai-governance)** · oecd.ai · 2024-11-18 · [Q004677](../../berichte/Q00/Q0046/Q004677/)
+  - Levels 4–7: clef **19 %** · Luna **62 %** · d3-ultra **26 %** · JEV **67 %** · amos **31 %** · drex **51 %**
+  - Levels 3–7: clef **52 %** · Luna **94 %** · d3-ultra **64 %** · JEV **94 %** · amos **61 %** · drex **72 %**
+  - Summary (German): Der Beitrag sieht im AISI Network eine Chance für globale KI-Sicherheitskooperation, fordert dafür aber tragfähige Koordination, inklusive Partnerschaften und Schutz vor politischen wie industriellen Abhängigkeiten.
+- **[US and China should stay clear-eyed on AI cooperation and competition, Bessent says](https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/)** · reuters.com · 2026-11-11 · [Q000547](../../berichte/Q00/Q0005/Q000547/)
+  - Levels 4–7: clef **19 %** · Luna **62 %** · d3-ultra not yet rated · JEV not yet rated · amos **21 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **89 %** · d3-ultra not yet rated · JEV not yet rated · amos **49 %** · drex not yet rated
+  - Found at: [reuters.com](https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/) (Q000547) · [quews.news](https://quews.news/us-and-china-should/) (Q000434)
+  - Summary (German): Bessent plädiert für begrenzte KI-Risikozusammenarbeit zwischen den USA und China trotz fortbestehender Differenzen und verweist zugleich auf Handelsgespräche, ohne dass der Bericht die Wirksamkeit der Vorhaben bewertet.
+- **[AI to defend critical infrastructure](https://www.anthropic.com/research/critical-infrastructure-defense)** · anthropic.com · 2026-01-08 · [Q001075](../../berichte/Q00/Q0010/Q001075/)
+  - Levels 4–7: clef **23 %** · Luna **61 %** · d3-ultra not yet rated · JEV **90 %** · amos **35 %** · drex **38 %**
+  - Levels 3–7: clef **49 %** · Luna **87 %** · d3-ultra not yet rated · JEV **97 %** · amos **60 %** · drex **60 %**
+  - Summary (German): Ein PNNL-Test in einer simulierten Wasseranlage deutet laut Anthropic darauf hin, dass Claude Sicherheitsprüfungen beschleunigen kann; reale Abwehr oder Einsatz in einer laufenden Anlage weist der Bericht nicht nach.
+- **[Anthropic opens Seoul office](https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem)** · anthropic.com · 2026-06-17 · [Q003638](../../berichte/Q00/Q0036/Q003638/)
+  - Levels 4–7: clef **15 %** · Luna **61 %** · d3-ultra not yet rated · JEV **74 %** · amos **24 %** · drex **26 %**
+  - Levels 3–7: clef **44 %** · Luna **82 %** · d3-ultra not yet rated · JEV **90 %** · amos **50 %** · drex **47 %**
+  - Summary (German): Anthropic meldet den Start seines Seoul-Büros und neue KI-Kooperationen in Südkorea; die Angaben zu Einsatz und Nutzen stammen aus der Unternehmensmitteilung.
+- **[An update on our safety & security practices](https://openai.com/index/update-on-safety-and-security-practices/)** · openai.com · 2024-09-16 · [Q007585](../../berichte/Q00/Q0075/Q007585/)
+  - Levels 4–7: clef **20 %** · Luna **61 %** · d3-ultra not yet rated · JEV **46 %** · amos **37 %** · drex **34 %**
+  - Levels 3–7: clef **46 %** · Luna **88 %** · d3-ultra not yet rated · JEV **73 %** · amos **62 %** · drex **57 %**
+  - Summary (German): OpenAI kündigt unabhängige Aufsicht und weitere Sicherheitsmaßnahmen an, nennt aber weder konkrete Fristen noch ausführliche Prüfergebnisse; der Text ist keine erkennbare Auszugs- oder Fehlerseite.
+- **[Bill Text  - SB-53 Artificial intelligence models: large developers.](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53)** · leginfo.legislature.ca.gov · 2025-09-29 · [Q004528](../../berichte/Q00/Q0045/Q004528/)
+  - Levels 4–7: clef **33 %** · Luna **61 %** · d3-ultra **69 %** · JEV **33 %** · amos **63 %** · drex **50 %**
+  - Levels 3–7: clef **61 %** · Luna **77 %** · d3-ultra **81 %** · JEV **52 %** · amos **80 %** · drex **71 %**
+  - Summary (German): Kaliforniens SB 53 führt Transparenz-, Sicherheitsmelde- und Beschäftigtenschutzpflichten für Entwickler besonders leistungsfähiger KI ein und sieht CalCompute nur vorbehaltlich einer Mittelbewilligung vor.
+- **[Complete the G7 Hiroshima AI Process Reporting Framework by 15 April 2025 and join the leaders shaping AI transparency](https://oecd.ai/en/wonk/complete-haip-reporting-framework)** · oecd.ai · 2025-04-02 · [Q004445](../../berichte/Q00/Q0044/Q004445/)
+  - Levels 4–7: clef **21 %** · Luna **61 %** · d3-ultra **29 %** · JEV **55 %** · amos **30 %** · drex **39 %**
+  - Levels 3–7: clef **53 %** · Luna **91 %** · d3-ultra **66 %** · JEV **81 %** · amos **57 %** · drex **64 %**
+  - Summary (German): Der Beitrag ruft KI-Entwickler zur öffentlichen Berichterstattung über Risikomanagement und Governance im Rahmen des G7 Hiroshima AI Process auf; die Frist für den ersten Zyklus war laut Text der 15. April 2025.
+- **[Detecting and reducing scheming in AI models](https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/)** · openai.com · 2025-09-17 · [Q007661](../../berichte/Q00/Q0076/Q007661/)
+  - Levels 4–7: clef **22 %** · Luna **61 %** · d3-ultra not yet rated · JEV **92 %** · amos **38 %** · drex **15 %**
+  - Levels 3–7: clef **50 %** · Luna **93 %** · d3-ultra not yet rated · JEV **95 %** · amos **60 %** · drex **30 %**
+  - Summary (German): Laut OpenAI und Apollo Research senkte ein Anti-Scheming-Training verdeckte Handlungen in Tests deutlich, doch Testwahrnehmung, mögliche Verschleierung und die Abhängigkeit von lesbaren Gedankengängen erschweren die Bewertung.
+- **[Emerging Practices for Multilingual Evaluations for CBRN and Advanced Cyber Risks](https://www.frontiermodelforum.org/issue-briefs/emerging-practices-for-multilingual-evaluations-for-cbrn-and-advanced-cyber-risks/)** · frontiermodelforum.org · 2026-07-07 · [Q001422](../../berichte/Q00/Q0014/Q001422/)
+  - Levels 4–7: clef **19 %** · Luna **61 %** · d3-ultra not yet rated · JEV **25 %** · amos **31 %** · drex **30 %**
+  - Levels 3–7: clef **54 %** · Luna **95 %** · d3-ultra not yet rated · JEV **56 %** · amos **58 %** · drex **52 %**
+  - Summary (German): Der Bericht plädiert für risikobasierte, sprach- und kultursensible Sicherheitsbewertungen von CBRN- und Cyberfähigkeiten und betont, dass Daten-, Fachkräfte- und Sicherheitslücken ihre Umsetzung erschweren.
+- **[Looking ahead to the AI Seoul Summit](https://deepmind.google/blog/looking-ahead-to-the-ai-seoul-summit/)** · deepmind.google · 2024-05-20 · [Q002886](../../berichte/Q00/Q0028/Q002886/)
+  - Levels 4–7: clef **15 %** · Luna **61 %** · d3-ultra **16 %** · JEV **50 %** · amos **27 %** · drex **20 %**
+  - Levels 3–7: clef **53 %** · Luna **92 %** · d3-ultra **50 %** · JEV **90 %** · amos **58 %** · drex **48 %**
+  - Summary (German): Google DeepMind plädiert für globale Zusammenarbeit, gemeinsame Prüfmaßstäbe und wissenschaftlich fundierte Risikobewertung für fortgeschrittene KI, wobei der Beitrag die Unsicherheit und den frühen Entwicklungsstand der Sicherheitsprüfungen einräumt.
+- **[What Article 50 Actually Requires Before December 2: Text Watermarks, Detection Limits and the Grace Period](https://mrkt30.com/what-article-50-actually-requires-before-december-2-text-watermarks-detection-limits-and-the-grace-period/)** · mrkt30.com · 2026-11-12 · [Q000608](../../berichte/Q00/Q0006/Q000608/)
+  - Levels 4–7: clef **16 %** · Luna **61 %** · d3-ultra **19 %** · JEV **17 %** · amos **28 %** · drex **10 %**
+  - Levels 3–7: clef **43 %** · Luna **85 %** · d3-ultra **33 %** · JEV **25 %** · amos **50 %** · drex **20 %**
+  - Summary (German): Laut Bericht müssen generative KI-Anbieter ihre Inhalte kennzeichnen, doch Wasserzeichen bleiben begrenzt zuverlässig und die Übergangsfrist für ältere Systeme endet am 2. Dezember.
+- **[Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe/)** · openai.com · 2026-07-31 · [Q007950](../../berichte/Q00/Q0079/Q007950/)
+  - Levels 4–7: clef **20 %** · Luna **60 %** · d3-ultra not yet rated · JEV **40 %** · amos **40 %** · drex **26 %**
+  - Levels 3–7: clef **52 %** · Luna **94 %** · d3-ultra not yet rated · JEV **74 %** · amos **67 %** · drex **57 %**
+  - Summary (German): OpenAI erläutert eigene Maßnahmen für verantwortungsvolle KI in Europa, räumt technische Grenzen bei Herkunftsnachweisen ein und kündigt weitere Anpassungen an.
+- **[e3d2b8f](https://partnershiponai.org/paper_page/e3d2b8f/)** · partnershiponai.org · 2021-08-02 · [Q003794](../../berichte/Q00/Q0037/Q003794/)
+  - Levels 4–7: clef **24 %** · Luna **60 %** · d3-ultra not yet rated · JEV **73 %** · amos **38 %** · drex **33 %**
+  - Levels 3–7: clef **45 %** · Luna **86 %** · d3-ultra not yet rated · JEV **85 %** · amos **61 %** · drex **51 %**
+  - Summary (German): Der Berichtsauszug fordert unabhängige, regelmäßig veröffentlichte Prüfungen von Risikobewertungsinstrumenten und ausreichende Daten, Finanzierung und Expertise dafür.
+- **[The next phase of OpenAI’s Education for Countries](https://openai.com/index/the-next-phase-of-education-for-countries/)** · openai.com · 2026-05-20 · [Q007182](../../berichte/Q00/Q0071/Q007182/)
+  - Levels 4–7: clef **14 %** · Luna **60 %** · d3-ultra not yet rated · JEV **82 %** · amos **27 %** · drex **17 %**
+  - Levels 3–7: clef **30 %** · Luna **84 %** · d3-ultra not yet rated · JEV **92 %** · amos **55 %** · drex **39 %**
+  - Summary (German): OpenAI berichtet über erste KI-Bildungsprojekte in mehreren Ländern und Singapurs Beitritt, doch die genannten frühen Kennzahlen belegen noch keine langfristigen Lernwirkungen.
+- **[The Role of Government as a Provider of Data for Artificial Intelligence](https://oecd.ai/en/wonk/documents/the-role-of-government-as-a-provider-of-data-for-artificial-intelligence-2)** · oecd.ai · 2025-05-19 · [Q003761](../../berichte/Q00/Q0037/Q003761/)
+  - Levels 4–7: clef **9 %** · Luna **60 %** · d3-ultra **2 %** · JEV not yet rated · amos **10 %** · drex not yet rated
+  - Levels 3–7: clef **33 %** · Luna **91 %** · d3-ultra **11 %** · JEV not yet rated · amos **31 %** · drex not yet rated
+  - Found at: [oecd.ai](https://oecd.ai/en/wonk/documents/the-role-of-government-as-a-provider-of-data-for-artificial-intelligence-2) (Q003761) · [oecd.ai](https://oecd.ai/en/wonk/documents/the-role-of-government-as-a-provider-of-data-for-artificial-intelligence-3) (Q003398) · [oecd.ai](https://oecd.ai/en/wonk/documents/the-role-of-government-as-a-provider-of-data-for-artificial-intelligence) (Q003940)
+  - Summary (German): Der bereitgestellte Auszug zeigt anhand zweier von angekündigten vier Fällen, dass staatliche Daten für KI verantwortungsvoll geteilt und wirksam beaufsichtigt werden müssen.
+- **[2028: Two scenarios for global AI leadership](https://www.anthropic.com/news/2028-ai-leadership)** · anthropic.com · 2026-05-14 · [Q003588](../../berichte/Q00/Q0035/Q003588/)
+  - Levels 4–7: clef **15 %** · Luna **59 %** · d3-ultra not yet rated · JEV **40 %** · amos **19 %** · drex **17 %**
+  - Levels 3–7: clef **55 %** · Luna **88 %** · d3-ultra not yet rated · JEV **61 %** · amos **48 %** · drex **38 %**
+  - Summary (German): Anthropic warnt in zwei hypothetischen Szenarien vor einem möglichen Verlust des US-Vorsprungs bei KI und empfiehlt strengere Kontrollen, Schutz vor Modell-Destillierung und den Export amerikanischer KI.
+- **[Assistant to the President and OSTP Director Michael Kratsios' Intervention in the U.N. Security Council's "Security Council meeting on artificial intelligence and international security"](https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-usmissionun01.htm)** · globalsecurity.org · 2026-09-23 · [Q004613](../../berichte/Q00/Q0046/Q004613/)
+  - Levels 4–7: clef **16 %** · Luna **59 %** · d3-ultra not yet rated · JEV **24 %** · amos **13 %** · drex **7 %**
+  - Levels 3–7: clef **40 %** · Luna **68 %** · d3-ultra not yet rated · JEV **47 %** · amos **34 %** · drex **17 %**
+  - Summary (German): Kratsios fordert nationale statt globaler KI-Steuerung und wirbt für den Ausbau eigener Fähigkeiten; die Rede belegt ihre Aussagen nicht unabhängig.
+- **[Chris Painter's testimony to the U.S. Senate on AI agent incidents](https://metr.org/blog/2026-09-30-chris-painter-senate-testimony/)** · metr.org · 2026-09-30 · [Q000968](../../berichte/Q00/Q0009/Q000968/)
+  - Levels 4–7: clef **26 %** · Luna **59 %** · d3-ultra **23 %** · JEV **82 %** · amos **54 %** · drex **51 %**
+  - Levels 3–7: clef **60 %** · Luna **93 %** · d3-ultra **58 %** · JEV **91 %** · amos **76 %** · drex **73 %**
+  - Summary (German): Painter nutzt den OpenAI/Hugging-Face-Vorfall als Beleg für Risiken durch leistungsfähige, schwer zu überwachende KI-Agenten und fordert mehr öffentliche Transparenz, wobei seine Untersuchung ausdrücklich begrenzt war.
+- **[Dario Amodei on American AI leadership](https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership)** · anthropic.com · 2025-10-21 · [Q004845](../../berichte/Q00/Q0048/Q004845/)
+  - Levels 4–7: clef **14 %** · Luna **59 %** · d3-ultra not yet rated · JEV **15 %** · amos **24 %** · drex **27 %**
+  - Levels 3–7: clef **48 %** · Luna **80 %** · d3-ultra not yet rated · JEV **32 %** · amos **49 %** · drex **44 %**
+  - Summary (German): Amodei verteidigt Anthropics Zusammenarbeit mit der US-Regierung, seine Unterstützung für KI-Sicherheitsregeln und seine Position zu Modellverzerrungen; die Darstellung beruht auf Angaben des Unternehmens.
+- **[Post by @smperng on X](https://x.com/smperng/status/2117780132966576198)** · x.com · 2026-11-04 · [Q001697](../../berichte/Q00/Q0016/Q001697/)
+  - Levels 4–7: clef **40 %** · Luna **59 %** · d3-ultra not yet rated · JEV **73 %** · amos **34 %** · drex **17 %**
+  - Levels 3–7: clef **60 %** · Luna **83 %** · d3-ultra not yet rated · JEV **94 %** · amos **60 %** · drex **34 %**
+  - Summary (German): Unabhängigkeit bei Modellevaluierungen sollte laut Beitrag anhand von Finanzierung, Zugang und Wiederholbarkeit beurteilt werden, nicht anhand des Namens des Evaluators.
+- **[AI Companies Should Report Pre- and Post-Mitigation Safety Evaluations](https://www.far.ai/research/ai-companies-should-report-pre--and-post-mitigation-safety-evaluations)** · far.ai · 2026-07-13 · [Q001788](../../berichte/Q00/Q0017/Q001788/)
+  - Levels 4–7: clef **27 %** · Luna **58 %** · d3-ultra not yet rated · JEV **67 %** · amos **47 %** · drex **68 %**
+  - Levels 3–7: clef **54 %** · Luna **81 %** · d3-ultra not yet rated · JEV **92 %** · amos **69 %** · drex **81 %**
+  - Summary (German): Der vorliegende Auszug gibt die Position wieder, KI-Unternehmen sollten standardisierte Sicherheitsbewertungen vor und nach Schutzmaßnahmen verbindlich offenlegen.
+- **[AI standards as statecraft: a playbook for the Global South](https://www.globalpolicyjournal.com/blog/30/10/2026/ai-standards-statecraft-playbook-global-south)** · globalpolicyjournal.com · 2026-10-30 · [Q000225](../../berichte/Q00/Q0002/Q000225/)
+  - Levels 4–7: clef **25 %** · Luna **58 %** · d3-ultra not yet rated · JEV **61 %** · amos **43 %** · drex **38 %**
+  - Levels 3–7: clef **51 %** · Luna **98 %** · d3-ultra not yet rated · JEV **89 %** · amos **69 %** · drex **57 %**
+  - Summary (German): Der Autor plädiert dafür, dass Länder des Globalen Südens eigene KI-Prüfkapazitäten und mehr Einfluss auf internationale Standards aufbauen, um deren mögliche Marktwirkung mitzugestalten.
+- **[Claude Didn’t Hack Georgia. It Asked for the Token the Website Hands Everyone.](https://medium.com/@lenner9090/claude-didnt-hack-georgia-it-asked-for-the-token-the-website-hands-everyone-3a2ebb82799a)** · medium.com · 2026-11-05 · [Q010988](../../berichte/Q01/Q0109/Q010988/)
+  - Levels 4–7: clef **21 %** · Luna **58 %** · d3-ultra **11 %** · JEV **89 %** · amos **37 %** · drex **33 %**
+  - Levels 3–7: clef **46 %** · Luna **93 %** · d3-ultra **26 %** · JEV **95 %** · amos **60 %** · drex **50 %**
+  - Summary (German): Laut dem Bericht umging Claude eine nur oberflächlich durchgesetzte Bezahlschranke für aggregierte Georgia-Wahldaten, was der Autor als Warnung vor Agenten und schwachen Zugriffskontrollen deutet.
+- **[Developing nuclear safeguards for AI](https://www.anthropic.com/research/nuclear-safeguards-for-ai)** · anthropic.com · 2025-08-21 · [Q000985](../../berichte/Q00/Q0009/Q000985/)
+  - Levels 4–7: clef **47 %** · Luna **58 %** · d3-ultra not yet rated · JEV **99 %** · amos **72 %** · drex **70 %**
+  - Levels 3–7: clef **70 %** · Luna **86 %** · d3-ultra not yet rated · JEV **100 %** · amos **84 %** · drex **81 %**
+  - Summary (German): Anthropic berichtet von einem gemeinsam mit US-Behörden entwickelten Nuklear-Risiko-Klassifikator mit guten vorläufigen Testergebnissen, dessen reale Leistung im Bericht nicht beziffert wird.
+- **[Frontier AI regulation: Managing emerging risks to public safety](https://openai.com/index/frontier-ai-regulation/)** · openai.com · 2023-07-06 · [Q008605](../../berichte/Q00/Q0086/Q008605/)
+  - Levels 4–7: clef **28 %** · Luna **58 %** · d3-ultra not yet rated · JEV **28 %** · amos **29 %** · drex **30 %**
+  - Levels 3–7: clef **61 %** · Luna **88 %** · d3-ultra not yet rated · JEV **73 %** · amos **60 %** · drex **60 %**
+  - Summary (German): Der vorliegende Quelltext ist ein Auszug, der Regulierungsvorschläge für leistungsfähige KI-Modelle skizziert, darunter Sicherheitsprüfungen, Berichtspflichten und staatliche Aufsicht.
+- **[How We Protect Confidential Information](https://metr.org/blog/2026-02-17-how-we-protect-confidential-information/)** · metr.org · 2026-02-17 · [Q001966](../../berichte/Q00/Q0019/Q001966/)
+  - Levels 4–7: clef **21 %** · Luna **58 %** · d3-ultra **6 %** · JEV **32 %** · amos **21 %** · drex **11 %**
+  - Levels 3–7: clef **43 %** · Luna **86 %** · d3-ultra **17 %** · JEV **66 %** · amos **46 %** · drex **21 %**
+  - Summary (German): METR berichtet über organisatorische und technische Schutzmaßnahmen für vertrauliche Informationen und nichtöffentliche Modelle; die Angaben sind ein veränderlicher Überblick des Unternehmens mit Stand 17. Februar 2026.
+- **[Post by @fragRoger on X](https://x.com/fragRoger/status/2119295927240282179)** · x.com · 2026-11-08 · [Q001707](../../berichte/Q00/Q0017/Q001707/)
+  - Levels 4–7: clef **42 %** · Luna **58 %** · d3-ultra not yet rated · JEV **93 %** · amos **58 %** · drex **36 %**
+  - Levels 3–7: clef **67 %** · Luna **84 %** · d3-ultra not yet rated · JEV **97 %** · amos **78 %** · drex **57 %**
+  - Summary (German): Der Beitrag thematisiert Zweifel an der Überprüfbarkeit von Anthropic-Aussagen zur KI-Forschungsbeschleunigung, weil METR laut Beitrag viele Belege nicht öffentlich einsehen lassen konnte.
+- **[Post by @METR_Evals on X](https://x.com/METR_Evals/status/2097765966088487290)** · x.com · 2026-09-09 · [Q000611](../../berichte/Q00/Q0006/Q000611/)
+  - Levels 4–7: clef **28 %** · Luna **58 %** · d3-ultra not yet rated · JEV **63 %** · amos **43 %** · drex **25 %**
+  - Levels 3–7: clef **53 %** · Luna **86 %** · d3-ultra not yet rated · JEV **83 %** · amos **64 %** · drex **44 %**
+  - Found at: [x.com](https://x.com/METR_Evals/status/2097765966088487290) (Q000611) · [x.com](https://x.com/METR_Evals/status/2118412183860351084) (Q001722) · [x.com](https://x.com/METR_Evals/status/2118412220900249834) (Q001830)
+  - Summary (German): Nur ein Beitrag mit Kommentaren liegt vor: METR kündigt eine Untersuchung mit Anthropic an, deren Unabhängigkeit Kommentierende teils bezweifeln; Ergebnisse enthält der Auszug nicht.
+- **[Questions for the Record](https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record/)** · openai.com · 2023-06-22 · [Q008963](../../berichte/Q00/Q0089/Q008963/)
+  - Levels 4–7: clef **20 %** · Luna **58 %** · d3-ultra not yet rated · JEV **44 %** · amos **29 %** · drex **31 %**
+  - Levels 3–7: clef **56 %** · Luna **92 %** · d3-ultra not yet rated · JEV **70 %** · amos **55 %** · drex **49 %**
+  - Summary (German): OpenAI legt in den Antworten seine Vorschläge zu KI-Regeln und eigene Sicherheits-, Kreativ- und Kinderschutzmaßnahmen dar; der Bericht gibt dabei die Unternehmenssicht wieder, ohne deren Wirksamkeit unabhängig zu prüfen.
+- **[Request for Proposals: OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange-request-for-proposals/)** · openai.com · 2026-06-08 · [Q008750](../../berichte/Q00/Q0087/Q008750/)
+  - Levels 4–7: clef **7 %** · Luna **58 %** · d3-ultra not yet rated · JEV **36 %** · amos **12 %** · drex **6 %**
+  - Levels 3–7: clef **16 %** · Luna **85 %** · d3-ultra not yet rated · JEV **41 %** · amos **29 %** · drex **12 %**
+  - Summary (German): OpenAI schreibt Fördermittel für empirische KI-Wirtschaftsforschung aus, allerdings unter strengen Daten- und Veröffentlichungsauflagen und ohne garantierten Finanzierungsanspruch.
+- **[US orders federal agencies to remove China’s DeepSeek AI from their systems](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)** · techcrunch.com · 2026-10-20 · [Q000137](../../berichte/Q00/Q0001/Q000137/)
+  - Levels 4–7: clef **26 %** · Luna **58 %** · d3-ultra not yet rated · JEV **63 %** · amos **30 %** · drex **38 %**
+  - Levels 3–7: clef **52 %** · Luna **90 %** · d3-ultra not yet rated · JEV **79 %** · amos **56 %** · drex **57 %**
+  - Summary (German): Der bereitgestellte Text schildert mögliche Zugänge chinesischer KI-Firmen zu Nvidia-Chips und damit verbundene Vorwürfe, lässt aber sowohl einen Rechtsverstoß als auch die im Titel genannte Anordnung offen.
+- **[What Anthropic’s Antitrust Waiver Says About the Law and Economics of AI](https://clsbluesky.law.columbia.edu/2026/09/17/what-anthropics-antitrust-waiver-says-about-the-law-and-economics-of-ai/)** · clsbluesky.law.columbia.edu · 2026-09-17 · [Q000100](../../berichte/Q00/Q0001/Q000100/)
+  - Levels 4–7: clef **30 %** · Luna **58 %** · d3-ultra **38 %** · JEV **73 %** · amos **35 %** · drex **53 %**
+  - Levels 3–7: clef **58 %** · Luna **95 %** · d3-ultra **73 %** · JEV **96 %** · amos **59 %** · drex **76 %**
+  - Summary (German): Der Bericht argumentiert, KI-Sicherheitskooperation könne nötig sein, müsse aber unter befristeter und fachkundiger öffentlicher Aufsicht stehen, damit Unternehmen nicht selbst dauerhaft die Regeln der Branche bestimmen.
+- **[Accelerating the cyber defense ecosystem that protects us all](https://openai.com/index/accelerating-cyber-defense-ecosystem/)** · openai.com · 2026-04-16 · [Q001634](../../berichte/Q00/Q0016/Q001634/)
+  - Levels 4–7: clef **26 %** · Luna **57 %** · d3-ultra not yet rated · JEV **55 %** · amos **52 %** · drex **49 %**
+  - Levels 3–7: clef **47 %** · Luna **83 %** · d3-ultra not yet rated · JEV **72 %** · amos **73 %** · drex **66 %**
+  - Summary (German): OpenAI will mit Fördermitteln und Partnern defensive Cyberfähigkeiten verbreitern, nennt aber keine Ergebnisse oder genauen Prüfmaßstäbe.
+- **[A five-step roadmap to closing the AI evaluation gap](https://oecd.ai/en/wonk/a-five-step-roadmap-to-closing-the-ai-evaluation-gap)** · oecd.ai · 2026-07-31 · [Q001292](../../berichte/Q00/Q0012/Q001292/)
+  - Levels 4–7: clef **24 %** · Luna **57 %** · d3-ultra **65 %** · JEV **68 %** · amos **39 %** · drex **48 %**
+  - Levels 3–7: clef **58 %** · Luna **95 %** · d3-ultra **85 %** · JEV **93 %** · amos **61 %** · drex **69 %**
+  - Summary (German): Der Bericht schlägt fünf Schritte vor, um KI-Prüfungen realistischer, kontextgerechter und vertrauenswürdiger zu machen, räumt aber ein, dass die Lücke noch nicht geschlossen ist und die erwarteten Vorteile nicht nachgewiesen sind.
+- **[Building On Progress In China–USA Talks On AI - Analysis](https://www.eurasiareview.com/06112026-building-on-progress-in-china-usa-talks-on-ai-analysis/)** · eurasiareview.com · 2026-11-06 · [Q000554](../../berichte/Q00/Q0005/Q000554/)
+  - Levels 4–7: clef **12 %** · Luna **57 %** · d3-ultra not yet rated · JEV **61 %** · amos **18 %** · drex **21 %**
+  - Levels 3–7: clef **49 %** · Luna **90 %** · d3-ultra not yet rated · JEV **89 %** · amos **50 %** · drex **50 %**
+  - Summary (German): Der SIPRI-Essay beschreibt Fortschritte bei den US-chinesischen KI-Gesprächen, betont aber, dass Hotline, Meldewege und gemeinsame Vorfallsdefinitionen noch konkretisiert werden müssen.
+- **[How an assessor could investigate alignment of unreleased AI models](https://metr.org/blog/2026-10-14-alignment-assessment-proposal/)** · metr.org · 2026-10-14 · [Q000102](../../berichte/Q00/Q0001/Q000102/)
+  - Levels 4–7: clef **55 %** · Luna **57 %** · d3-ultra **69 %** · JEV **81 %** · amos **64 %** · drex **66 %**
+  - Levels 3–7: clef **74 %** · Luna **90 %** · d3-ultra **90 %** · JEV **89 %** · amos **80 %** · drex **78 %**
+  - Summary (German): METR entwirft ein aufwendiges Prüfkonzept für mögliche Fehlhandlungen unveröffentlichter KI-Agenten und warnt, dass Protokoll- und Simulationsergebnisse unvollständig sein könnten.
+- **[How an assessor could investigate evidence of acceleration from the automation of AI R&D](https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/)** · metr.org · 2026-10-14 · [Q000110](../../berichte/Q00/Q0001/Q000110/)
+  - Levels 4–7: clef **49 %** · Luna **57 %** · d3-ultra **41 %** · JEV **69 %** · amos **62 %** · drex **56 %**
+  - Levels 3–7: clef **70 %** · Luna **87 %** · d3-ultra **74 %** · JEV **83 %** · amos **80 %** · drex **72 %**
+  - Summary (German): METR skizziert einen datenintensiven Prüfplan für eine mögliche KI-bedingte Beschleunigung der KI-Forschung, liefert aber selbst keinen Nachweis, dass sie eingetreten ist.
+- **[How independent researchers could investigate AI propensities after misalignment incidents](https://metr.org/blog/2026-07-28-investigating-ai-propensities-after-incidents/)** · metr.org · 2026-07-28 · [Q001318](../../berichte/Q00/Q0013/Q001318/)
+  - Levels 4–7: clef **42 %** · Luna **57 %** · d3-ultra **68 %** · JEV **77 %** · amos **54 %** · drex **69 %**
+  - Levels 3–7: clef **64 %** · Luna **88 %** · d3-ultra **86 %** · JEV **85 %** · amos **73 %** · drex **82 %**
+  - Summary (German): METR fordert unabhängige, transparente Untersuchungen schwerer KI-Agenten-Vorfälle und beschreibt deren mögliche Fragen, nötigen Zugang und Grenzen, ohne Ergebnisse einer Gesamtprüfung vorzulegen.
+- **[https://s-rsa.com/index.php/agi/article/download/18908/12474](https://s-rsa.com/index.php/agi/article/download/18908/12474)** · s-rsa.com ·  · [Q002500](../../berichte/Q00/Q0025/Q002500/)
+  - Levels 4–7: clef **32 %** · Luna **57 %** · d3-ultra not yet rated · JEV **16 %** · amos **37 %** · drex **20 %**
+  - Levels 3–7: clef **55 %** · Luna **81 %** · d3-ultra not yet rated · JEV **32 %** · amos **62 %** · drex **43 %**
+  - Summary (German): Der Accord skizziert vier Ebenen der KI-Sicherheitsaufsicht und eine erklärte Selbstverpflichtung der teilnehmenden Unternehmen, ohne konkrete Fristen oder Durchsetzungsregeln festzulegen.
+- **[Progress Update: FMF Information Sharing of Frontier AI Threats and Vulnerabilities](https://www.frontiermodelforum.org/updates/progress-update-fmf-information-sharing-of-frontier-ai-threats-and-vulnerabilities/)** · frontiermodelforum.org · 2026-02-16 · [Q000786](../../berichte/Q00/Q0007/Q000786/)
+  - Levels 4–7: clef **14 %** · Luna **57 %** · d3-ultra not yet rated · JEV **48 %** · amos **20 %** · drex **21 %**
+  - Levels 3–7: clef **47 %** · Luna **86 %** · d3-ultra not yet rated · JEV **81 %** · amos **48 %** · drex **46 %**
+  - Summary (German): Das FMF berichtet über einen etablierten Informationsaustausch zu Frontier-KI-Risiken und plant dessen Ausweitung, nennt jedoch keine unabhängigen Wirkungsnachweise oder quantitativen Ergebnisse.
+- **[Responsible Scaling Policies (RSPs)](https://metr.org/blog/2023-09-26-rsp/)** · metr.org · 2023-09-26 · [Q002990](../../berichte/Q00/Q0029/Q002990/)
+  - Levels 4–7: clef **20 %** · Luna **57 %** · d3-ultra **16 %** · JEV **32 %** · amos **30 %** · drex **22 %**
+  - Levels 3–7: clef **51 %** · Luna **93 %** · d3-ultra **54 %** · JEV **78 %** · amos **61 %** · drex **49 %**
+  - Summary (German): METR zufolge können RSPs KI-Entwicklung an Tests und Schutzmaßnahmen koppeln, sind aber nur ein freiwilliger erster Schritt und kein Ersatz für Regulierung.
+- **[The United States works with domestic and international AI communities to establish frameworks that advance trustworthy AI for all](https://oecd.ai/en/wonk/united-states-ai-for-all-policy)** · oecd.ai · 2023-12-20 · [Q005707](../../berichte/Q00/Q0057/Q005707/)
+  - Levels 4–7: clef **20 %** · Luna **57 %** · d3-ultra not yet rated · JEV **67 %** · amos **44 %** · drex **59 %**
+  - Levels 3–7: clef **54 %** · Luna **93 %** · d3-ultra not yet rated · JEV **89 %** · amos **69 %** · drex **73 %**
+  - Summary (German): Die US-Regierung will laut Bericht KI durch Risikomanagement, Sicherheitsmaßnahmen und internationale Abstimmung vertrauenswürdiger gestalten; die Darstellung beschreibt vor allem Ziele und laufende Vorhaben, nicht deren unabhängig geprüfte Wirkung.
+- **[White House, major AI developers reach 'morally binding' safety commitments](https://iapp.org/news/a/white-house-major-ai-developers-reach-morally-binding-safety-commitments)** · iapp.org · 2026-09-30 · [Q000085](../../berichte/Q00/Q0000/Q000085/)
+  - Levels 4–7: clef **29 %** · Luna **57 %** · d3-ultra **47 %** · JEV **30 %** · amos **44 %** · drex **26 %**
+  - Levels 3–7: clef **59 %** · Luna **86 %** · d3-ultra **78 %** · JEV **57 %** · amos **68 %** · drex **55 %**
+  - Summary (German): Sechs KI-Unternehmen vereinbarten mit dem Weißen Haus freiwillige Sicherheitskontrollen und Prüfungen, doch der Bericht nennt keine Durchsetzung und lässt ihre Wirksamkeit offen.
+- **[AI Behind Closed Doors: a Primer on The Governance of Internal Deployment](https://apolloresearch.ai/governance/ai-behind-closed-doors-a-primer-on-the-governance-of-internal-deployment)** · apolloresearch.ai ·  · [Q001475](../../berichte/Q00/Q0014/Q001475/)
+  - Levels 4–7: clef **24 %** · Luna **56 %** · d3-ultra **27 %** · JEV not yet rated · amos **30 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **93 %** · d3-ultra **58 %** · JEV not yet rated · amos **57 %** · drex not yet rated
+  - Summary (German): Apollo Research skizziert Risiken des internen KI-Einsatzes und empfiehlt als ersten Governance-Ansatz Prüfungen, Zugangsbeschränkungen, Aufsicht, gezielte Transparenz und gemeinsame Notfallpläne.
+- **[Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan/)** · openai.com · 2026-10-15 · [Q003795](../../berichte/Q00/Q0037/Q003795/)
+  - Levels 4–7: clef **14 %** · Luna **56 %** · d3-ultra not yet rated · JEV **53 %** · amos **20 %** · drex **6 %**
+  - Levels 3–7: clef **40 %** · Luna **79 %** · d3-ultra not yet rated · JEV **65 %** · amos **44 %** · drex **11 %**
+  - Summary (German): OpenAI beschreibt einen zeitlich begrenzten, prüfpflichtigen Gratiszugang zu GPT‑Rosalind für berechtigte US-Uni-Labore, ohne unabhängigen Nachweis seiner Forschungswirksamkeit.
+- **[Frontier Model Forum](https://openai.com/index/frontier-model-forum/)** · openai.com · 2023-07-26 · [Q008864](../../berichte/Q00/Q0088/Q008864/)
+  - Levels 4–7: clef **14 %** · Luna **56 %** · d3-ultra not yet rated · JEV **58 %** · amos **20 %** · drex **14 %**
+  - Levels 3–7: clef **48 %** · Luna **86 %** · d3-ultra not yet rated · JEV **89 %** · amos **52 %** · drex **39 %**
+  - Summary (German): Vier KI-Unternehmen kündigen ein Forum für Sicherheitsforschung, Standards und Informationsaustausch zu Frontier-Modellen an; die Quelle beschreibt Vorhaben, nicht deren Umsetzung oder Wirkung.
+- **[Article 55: Obligations of Providers of General-Purpose AI Models with Systemic Risk | EU Artificial Intelligence Act](https://artificialintelligenceact.eu/article/55/)** · artificialintelligenceact.eu ·  · [Q004536](../../berichte/Q00/Q0045/Q004536/)
+  - Levels 4–7: clef **24 %** · Luna **55 %** · d3-ultra **29 %** · JEV not yet rated · amos **43 %** · drex not yet rated
+  - Levels 3–7: clef **53 %** · Luna **82 %** · d3-ultra **51 %** · JEV not yet rated · amos **67 %** · drex not yet rated
+  - Summary (German): Artikel 55 verpflichtet laut Bericht Anbieter von KI-Modellen mit systemischen Risiken zu Risikoprüfung, Vorfallsmeldung und Cybersicherheit und regelt mögliche Konformitätsnachweise sowie Vertraulichkeit.
+- **[Dario Amodei's remarks at the AI Safety Summit](https://www.anthropic.com/news/uk-ai-safety-summit)** · anthropic.com · 2023-11-01 · [Q003142](../../berichte/Q00/Q0031/Q003142/)
+  - Levels 4–7: clef **15 %** · Luna **55 %** · d3-ultra not yet rated · JEV **13 %** · amos **30 %** · drex **21 %**
+  - Levels 3–7: clef **47 %** · Luna **86 %** · d3-ultra not yet rated · JEV **50 %** · amos **59 %** · drex **46 %**
+  - Summary (German): Anthropic will KI-Risiken durch regelmäßige Tests, gestufte Sicherheitsauflagen und klare Verantwortlichkeit begrenzen und sieht seine Richtlinie als Prototyp für künftige Regulierung.
+- **[Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)** · anthropic.com · 2026-02-23 · [Q002154](../../berichte/Q00/Q0021/Q002154/)
+  - Levels 4–7: clef **19 %** · Luna **55 %** · d3-ultra not yet rated · JEV **62 %** · amos **26 %** · drex **16 %**
+  - Levels 3–7: clef **51 %** · Luna **94 %** · d3-ultra not yet rated · JEV **82 %** · amos **50 %** · drex **35 %**
+  - Summary (German): Anthropic behauptet, drei KI-Labore hätten Claude massenhaft zur Destillation eigener Modelle genutzt, und warnt vor Sicherheitsrisiken, während es technische und organisatorische Gegenmaßnahmen ausbaut.
+- **[International joint testing exercise: Agentic testing](https://www.aisi.gov.uk/blog/international-joint-testing-exercise-agentic-testing)** · aisi.gov.uk · 2025-07-17 · [Q002290](../../berichte/Q00/Q0022/Q002290/)
+  - Levels 4–7: clef **32 %** · Luna **55 %** · d3-ultra not yet rated · JEV **90 %** · amos **34 %** · drex **32 %**
+  - Levels 3–7: clef **60 %** · Luna **89 %** · d3-ultra not yet rated · JEV **95 %** · amos **60 %** · drex **51 %**
+  - Summary (German): Eine internationale Testübung entwickelte vorläufige Empfehlungen zur Bewertung von KI-Agenten, doch kleine Stichproben, abweichende Modellurteile und technische Fehler begrenzen die Aussagekraft.
+- **[OpenAI and UK Government announce strategic partnership to deliver AI-driven growth](https://openai.com/global-affairs/openai-and-uk-government-partnership/)** · openai.com · 2025-07-21 · [Q002725](../../berichte/Q00/Q0027/Q002725/)
+  - Levels 4–7: clef **20 %** · Luna **55 %** · d3-ultra not yet rated · JEV **58 %** · amos **21 %** · drex **22 %**
+  - Levels 3–7: clef **45 %** · Luna **80 %** · d3-ultra not yet rated · JEV **79 %** · amos **47 %** · drex **45 %**
+  - Summary (German): OpenAI und die britische Regierung wollen unverbindlich Möglichkeiten für KI in Verwaltung, Wirtschaft, Infrastruktur und Sicherheitsforschung prüfen; konkrete Vorhaben und unabhängige Wirkungsnachweise bleiben im Bericht begrenzt.
+- **[Post by @DavidSacks on X](https://x.com/DavidSacks/status/2105060520327786914)** · x.com · 2026-09-29 · [Q000315](../../berichte/Q00/Q0003/Q000315/)
+  - Levels 4–7: clef **27 %** · Luna **55 %** · d3-ultra not yet rated · JEV **36 %** · amos **32 %** · drex **29 %**
+  - Levels 3–7: clef **55 %** · Luna **78 %** · d3-ultra not yet rated · JEV **57 %** · amos **56 %** · drex **48 %**
+  - Summary (German): Sacks lobt ein von Trump einberufenes Branchentreffen und ein Sicherheitsabkommen für KI-Unternehmen, macht aber unbelegte Angaben zu Jobs und Infrastruktur.
+- **[AI Development Freeze Lawsuit: Nonprofits Sue 5 Labs, Say Real Freeze Needs Government Inspections](https://www.techtimes.com/articles/330616/20261114/ai-development-freeze-lawsuit-nonprofits-sue-5-labs-say-real-freeze-needs-government-inspections.htm)** · techtimes.com · 2026-11-14 · [Q000422](../../berichte/Q00/Q0004/Q000422/)
+  - Levels 4–7: clef **32 %** · Luna **54 %** · d3-ultra not yet rated · JEV **48 %** · amos **54 %** · drex **56 %**
+  - Levels 3–7: clef **58 %** · Luna **81 %** · d3-ultra not yet rated · JEV **80 %** · amos **76 %** · drex **76 %**
+  - Summary (German): Vier Organisationen fordern einen gerichtlich durchsetzbaren Stopp für die Entwicklung fortgeschrittener KI, doch Rechtsgrundlage, Kontrolle und Ausgang waren zum Berichtszeitpunkt ungeklärt.
+- **[An Alien Mind](https://web.archive.org/web/20260929024823/https://openai.com/index/an-alien-mind/)** · web.archive.org · 2026-09-06 · [Q004592](../../berichte/Q00/Q0045/Q004592/)
+  - Levels 4–7: clef **15 %** · Luna **54 %** · d3-ultra not yet rated · JEV **31 %** · amos **29 %** · drex **17 %**
+  - Levels 3–7: clef **54 %** · Luna **93 %** · d3-ultra not yet rated · JEV **66 %** · amos **61 %** · drex **37 %**
+  - Found at: [web.archive.org](https://web.archive.org/web/20260929024823/https://openai.com/index/an-alien-mind/) (Q004592) · [openai.com](https://openai.com/index/an-alien-mind/) (Q007478)
+  - Summary (German): Pachocki warnt, dass KI-Fähigkeiten schneller wachsen könnten als ihre verlässliche Ausrichtung und Überwachung, und fordert deshalb Sicherheitsgrenzen sowie internationale Abstimmung.
+- **[An Argument for Hybrid AI Incident Reporting](https://cset.georgetown.edu/publication/an-argument-for-hybrid-ai-incident-reporting/)** · cset.georgetown.edu · 2024-03-19 · [Q003587](../../berichte/Q00/Q0035/Q003587/)
+  - Levels 4–7: clef **10 %** · Luna **54 %** · d3-ultra **5 %** · JEV **8 %** · amos **13 %** · drex **8 %**
+  - Levels 3–7: clef **35 %** · Luna **84 %** · d3-ultra **15 %** · JEV **29 %** · amos **36 %** · drex **18 %**
+  - Summary (German): Die Executive Summary empfiehlt ein föderiertes, standardisiertes Meldesystem für KI-Vorfälle mit verpflichtenden, freiwilligen und öffentlichen Meldungen, lässt aber die konkrete Ausgestaltung weiteren Untersuchungen vorbehalten.
+- **[Anthropic opens Tokyo office](https://www.anthropic.com/news/opening-our-tokyo-office)** · anthropic.com · 2025-10-29 · [Q005313](../../berichte/Q00/Q0053/Q005313/)
+  - Levels 4–7: clef **20 %** · Luna **54 %** · d3-ultra not yet rated · JEV **55 %** · amos **31 %** · drex **41 %**
+  - Levels 3–7: clef **52 %** · Luna **83 %** · d3-ultra not yet rated · JEV **84 %** · amos **58 %** · drex **59 %**
+  - Summary (German): Anthropic eröffnet laut eigener Mitteilung ein Büro in Tokio, baut Partnerschaften in Japan aus und kündigt weitere Expansion nach Seoul und Bengaluru an.
+- **[Everyone’s Talking About GPT-5.6 Sol. The Tier That Actually Matters Costs Half as Much.](https://medium.com/data-science-collective/everyones-talking-about-gpt-5-6-sol-the-tier-that-actually-matters-costs-half-as-much-cb08f5adb9b4)** · medium.com · 2026-06-29 · [Q011064](../../berichte/Q01/Q0110/Q011064/)
+  - Levels 4–7: clef **28 %** · Luna **54 %** · d3-ultra **42 %** · JEV **79 %** · amos **46 %** · drex **38 %**
+  - Levels 3–7: clef **51 %** · Luna **80 %** · d3-ultra **65 %** · JEV **87 %** · amos **68 %** · drex **60 %**
+  - Summary (German): Der Autor hält Terra und seine behaupteten niedrigeren Kosten für besonders relevant, kann Sol mangels Zugang aber nicht selbst bewerten und kritisiert sowohl die dünne Beleglage als auch die eingeschränkte Freigabe.
+- **[How the G7’s new AI reporting framework could shape the future of AI governance](https://oecd.ai/en/wonk/how-the-g7s-new-ai-reporting-framework-could-shape-the-future-of-ai-governance)** · oecd.ai · 2025-02-07 · [Q004538](../../berichte/Q00/Q0045/Q004538/)
+  - Levels 4–7: clef **24 %** · Luna **54 %** · d3-ultra **45 %** · JEV **72 %** · amos **42 %** · drex **44 %**
+  - Levels 3–7: clef **57 %** · Luna **81 %** · d3-ultra **79 %** · JEV **92 %** · amos **68 %** · drex **69 %**
+  - Summary (German): Der OECD-Beitrag stellt einen freiwilligen, öffentlichen Berichtsrahmen zum Hiroshima-KI-Kodex vor, dessen erwartete Wirkung von dauerhafter Beteiligung und praktischer Weiterentwicklung abhängt.
+- **[Latest from the FMF: Grant-Making to Address AI-Bio Risk Challenges](https://www.frontiermodelforum.org/updates/latest-from-the-fmf-grant-making-to-address-ai-bio-risk-challenges/)** · frontiermodelforum.org · 2025-06-13 · [Q002231](../../berichte/Q00/Q0022/Q002231/)
+  - Levels 4–7: clef **16 %** · Luna **54 %** · d3-ultra not yet rated · JEV **29 %** · amos **23 %** · drex **11 %**
+  - Levels 3–7: clef **53 %** · Luna **93 %** · d3-ultra not yet rated · JEV **55 %** · amos **52 %** · drex **28 %**
+  - Summary (German): Das FMF fördert zwei Benchmarks zu KI-Biorisiken und eine Laborstudie zum möglichen Kompetenzzuwachs durch KI, deren Ergebnisse noch ausstehen und vor einer Veröffentlichung geprüft werden sollen.
+- **[New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age/)** · openai.com · 2026-08-17 · [Q002716](../../berichte/Q00/Q0027/Q002716/)
+  - Levels 4–7: clef **14 %** · Luna **54 %** · d3-ultra not yet rated · JEV **44 %** · amos **19 %** · drex **13 %**
+  - Levels 3–7: clef **50 %** · Luna **85 %** · d3-ultra not yet rated · JEV **63 %** · amos **46 %** · drex **32 %**
+  - Summary (German): OpenAI fördert 14 geplante Forschungs- und Praxisprojekte zu Chancen und Risiken des KI-Wandels; Ergebnisse werden für 2027 angekündigt.
+- **[Paul Christiano: AI Alignment - What’s Working and What’s Not | The Hinton Lectures 2026 (Night 1)](https://www.youtube.com/watch?v=-Ef0ocEoBCs)** · youtube.com · 2026-11-09 · [Q000297](../../berichte/Q00/Q0002/Q000297/)
+  - Levels 4–7: clef **20 %** · Luna **54 %** · d3-ultra not yet rated · JEV **56 %** · amos **47 %** · drex **34 %**
+  - Levels 3–7: clef **55 %** · Luna **85 %** · d3-ultra not yet rated · JEV **85 %** · amos **74 %** · drex **55 %**
+  - Summary (German): Christiano warnt vor möglichem Kontrollverlust durch immer leistungsfähigere KI-Agenten, betont aber, dass sich das Risiko nicht verlässlich beziffern lässt und bisher keine Gegenmaßnahme als sichere Lösung belegt ist.
+- **[Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai/)** · openai.com · 2026-09-06 · [Q007497](../../berichte/Q00/Q0074/Q007497/)
+  - Levels 4–7: clef **17 %** · Luna **54 %** · d3-ultra not yet rated · JEV **49 %** · amos **27 %** · drex **17 %**
+  - Levels 3–7: clef **53 %** · Luna **86 %** · d3-ultra not yet rated · JEV **76 %** · amos **52 %** · drex **43 %**
+  - Summary (German): OpenAI meldet eine wachsende Rolle von KI-Agenten in der Forschung, betont aber die Vorläufigkeit der Messungen sowie die Notwendigkeit menschlicher Kontrolle und strenger Sicherheitsgrenzen.
+- **[Utah’s Pilot Prescribing Program Is A Giant Leap For AI In Medicine](https://www.healthaffairs.org/do/10.1377/forefront.20261029.826015/full/)** · healthaffairs.org · 2026-11-04 · [Q000387](../../berichte/Q00/Q0003/Q000387/)
+  - Levels 4–7: clef **28 %** · Luna **54 %** · d3-ultra not yet rated · JEV **66 %** · amos **60 %** · drex **58 %**
+  - Levels 3–7: clef **50 %** · Luna **88 %** · d3-ultra not yet rated · JEV **80 %** · amos **76 %** · drex **73 %**
+  - Summary (German): Utahs Akne-Pilot erlaubt einer KI erstmals, nach stufenweiser Aufsicht selbst neue Rezepte auszustellen; der Autor fordert dafür einheitliche nationale Kompetenzstandards.
+- **[Dario Amodei on the Paris AI Action Summit](https://www.anthropic.com/news/paris-ai-summit)** · anthropic.com · 2025-02-11 · [Q004580](../../berichte/Q00/Q0045/Q004580/)
+  - Levels 4–7: clef **20 %** · Luna **53 %** · d3-ultra not yet rated · JEV **44 %** · amos **32 %** · drex **23 %**
+  - Levels 3–7: clef **56 %** · Luna **78 %** · d3-ultra not yet rated · JEV **68 %** · amos **60 %** · drex **52 %**
+  - Summary (German): Amodei fordert für den nächsten KI-Gipfel mehr Fokus auf demokratische Führungsrolle, Sicherheit und wirtschaftliche Folgen; seine Prognosen und Risikeninschätzungen werden im Beitrag nicht unabhängig überprüft.
+- **[Eyes Off My Data: Appendix](https://partnershiponai.org/paper_page/appendix/)** · partnershiponai.org · 2023-12-06 · [Q000858](../../berichte/Q00/Q0008/Q000858/)
+  - Levels 4–7: clef **7 %** · Luna **53 %** · d3-ultra not yet rated · JEV **31 %** · amos **10 %** · drex **5 %**
+  - Levels 3–7: clef **19 %** · Luna **88 %** · d3-ultra not yet rated · JEV **55 %** · amos **26 %** · drex **11 %**
+  - Summary (German): Der Anhang beschreibt PAI-Ansätze, Apples Fallbeispiel und Risiken demografischer Datenerhebung für Fairnessprüfungen, ohne unabhängige Wirksamkeitsnachweise oder konkrete Gesprächsergebnisse zu liefern.
+- **[Frontier Model Forum updates](https://openai.com/index/frontier-model-forum-updates/)** · openai.com · 2023-10-25 · [Q008988](../../berichte/Q00/Q0089/Q008988/)
+  - Levels 4–7: clef **12 %** · Luna **53 %** · d3-ultra not yet rated · JEV **69 %** · amos **21 %** · drex **14 %**
+  - Levels 3–7: clef **44 %** · Luna **90 %** · d3-ultra not yet rated · JEV **93 %** · amos **50 %** · drex **36 %**
+  - Summary (German): Das Frontier Model Forum kündigt eine neue Leitung, einen mit über zehn Millionen US-Dollar ausgestatteten Sicherheitsfonds und weitere technische Zusammenarbeit an.
+- **[Frontier Safety Roadmap](https://www.anthropic.com/responsible-scaling-policy/roadmap)** · anthropic.com · 2026-04-02 · [Q005358](../../berichte/Q00/Q0053/Q005358/)
+  - Levels 4–7: clef **32 %** · Luna **53 %** · d3-ultra not yet rated · JEV **60 %** · amos **68 %** · drex **54 %**
+  - Levels 3–7: clef **57 %** · Luna **80 %** · d3-ultra not yet rated · JEV **78 %** · amos **84 %** · drex **71 %**
+  - Summary (German): Anthropic berichtet über Fortschritte und angepasste Sicherheitsziele und warnt zugleich, dass Schutzwirkungen gegen künftige Angriffe nicht garantiert sind und KI Forschung möglicherweise schon ab Anfang 2027 stark beschleunigen könnte.
+- **[Improving verifiability in AI development](https://openai.com/index/improving-verifiability/)** · openai.com · 2020-04-16 · [Q008309](../../berichte/Q00/Q0083/Q008309/)
+  - Levels 4–7: clef **31 %** · Luna **53 %** · d3-ultra not yet rated · JEV **65 %** · amos **55 %** · drex **52 %**
+  - Levels 3–7: clef **60 %** · Luna **93 %** · d3-ultra not yet rated · JEV **93 %** · amos **79 %** · drex **75 %**
+  - Summary (German): Der Text stellt zehn Empfehlungen für besser überprüfbare KI-Entwicklung vor, ist aber nur eine Zusammenfassung und erläutert weder deren Wirksamkeit noch die Einschränkungen des vollständigen Berichts.
+- **[Introducing the Life Sciences Verification Program](https://www.anthropic.com/news/life-sciences-verification-program)** · anthropic.com · 2026-09-17 · [Q003665](../../berichte/Q00/Q0036/Q003665/)
+  - Levels 4–7: clef **24 %** · Luna **53 %** · d3-ultra not yet rated · JEV **37 %** · amos **48 %** · drex **21 %**
+  - Levels 3–7: clef **50 %** · Luna **78 %** · d3-ultra not yet rated · JEV **56 %** · amos **68 %** · drex **34 %**
+  - Summary (German): Anthropic startet eine Beta für geprüfte Life-Science-Teams mit abgestuftem Modellzugang und 30-tägiger Speicherung markierter Nutzungsdaten; Einzelpläne und BAA-Organisationen sind zunächst ausgeschlossen.
+- **[OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project/)** · openai.com · 2026-08-17 · [Q005822](../../berichte/Q00/Q0058/Q005822/)
+  - Levels 4–7: clef **7 %** · Luna **53 %** · d3-ultra not yet rated · JEV **9 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **21 %** · Luna **84 %** · d3-ultra not yet rated · JEV **13 %** · amos **22 %** · drex **12 %**
+  - Summary (German): OpenAI kündigt ein schrittweise zu entwickelndes KI-Rechenzentrum in Ohio samt lokalen Investitions- und Bildungszusagen an, deren erwartete Wirkungen noch nicht belegt sind.
+- **[Principles for safeguard evaluation](https://www.aisi.gov.uk/blog/principles-for-safeguard-evaluation)** · aisi.gov.uk · 2025-02-04 · [Q002200](../../berichte/Q00/Q0022/Q002200/)
+  - Levels 4–7: clef **30 %** · Luna **53 %** · d3-ultra not yet rated · JEV **59 %** · amos **48 %** · drex **27 %**
+  - Levels 3–7: clef **54 %** · Luna **72 %** · d3-ultra not yet rated · JEV **83 %** · amos **70 %** · drex **45 %**
+  - Summary (German): Das damalige AI Safety Institute schlägt einen fünfstufigen, regelmäßig zu erneuernden Bewertungsprozess für Schutzmaßnahmen gegen missbräuchliche KI-Nutzung vor, präsentiert dabei aber Empfehlungen und keine konkreten Prüfergebnisse.
+- **[Technical Innovations for AI Policy 2025](https://www.far.ai/blog/technical-innovations-for-ai-policy-2025)** · far.ai · 2026-07-16 · [Q001738](../../berichte/Q00/Q0017/Q001738/)
+  - Levels 4–7: clef **26 %** · Luna **53 %** · d3-ultra not yet rated · JEV **35 %** · amos **54 %** · drex **70 %**
+  - Levels 3–7: clef **53 %** · Luna **82 %** · d3-ultra not yet rated · JEV **71 %** · amos **77 %** · drex **83 %**
+  - Summary (German): Eine FAR.AI-Konferenz zeigte laut Bericht technische Ansätze für KI-Regeln und Sicherheit auf, während zentrale Fragen offen und das Fachgebiet unterentwickelt bleiben.
+- **[Translation Snapshot: Chinese Generative AI Safety Standards](https://cset.georgetown.edu/publication/translation-snapshot-chinese-generative-ai-safety-standards/)** · cset.georgetown.edu · 2025-12-19 · [Q002051](../../berichte/Q00/Q0020/Q002051/)
+  - Levels 4–7: clef **12 %** · Luna **53 %** · d3-ultra **12 %** · JEV **14 %** · amos **25 %** · drex **10 %**
+  - Levels 3–7: clef **41 %** · Luna **84 %** · d3-ultra **35 %** · JEV **32 %** · amos **53 %** · drex **26 %**
+  - Summary (German): CSETs Überblick beschreibt chinesische GenAI-Sicherheitsstandards, ihre politische Ausrichtung und die Grenzen der verfügbaren Texte, während die praktische Befolgung laut Bericht unklar bleibt.
+- **[Understanding AI and learning outcomes](https://openai.com/index/understanding-ai-and-learning-outcomes/)** · openai.com · 2026-03-04 · [Q006159](../../berichte/Q00/Q0061/Q006159/)
+  - Levels 4–7: clef **8 %** · Luna **53 %** · d3-ultra not yet rated · JEV **42 %** · amos **12 %** · drex **6 %**
+  - Levels 3–7: clef **20 %** · Luna **94 %** · d3-ultra not yet rated · JEV **55 %** · amos **32 %** · drex **14 %**
+  - Summary (German): OpenAI meldet gemischte frühe Study-Mode-Ergebnisse und entwickelt ein noch zu prüfendes System, das KI-Einflüsse auf Lernen langfristig und umfassender messen soll.
+- **[生成式人工智能服务管理暂行办法_中央网络安全和信息化委员会办公室](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)** · cac.gov.cn ·  · [Q004573](../../berichte/Q00/Q0045/Q004573/)
+  - Levels 4–7: clef **21 %** · Luna **53 %** · d3-ultra not yet rated · JEV **10 %** · amos **56 %** · drex **30 %**
+  - Levels 3–7: clef **48 %** · Luna **73 %** · d3-ultra not yet rated · JEV **15 %** · amos **76 %** · drex **56 %**
+  - Summary (German): Der vollständige Bericht beschreibt seit August 2023 geltende chinesische Pflichten und Aufsichtsregeln für öffentlich angebotene generative KI-Dienste, ohne deren praktische Wirkung zu dokumentieren.
+- **[Establishing the shared foundations for collective AI security](https://oecd.ai/en/wonk/establishing-the-shared-foundations-for-collective-ai-security)** · oecd.ai · 2026-05-21 · [Q001131](../../berichte/Q00/Q0011/Q001131/)
+  - Levels 4–7: clef **14 %** · Luna **52 %** · d3-ultra **12 %** · JEV **38 %** · amos **27 %** · drex **21 %**
+  - Levels 3–7: clef **55 %** · Luna **95 %** · d3-ultra **46 %** · JEV **93 %** · amos **55 %** · drex **50 %**
+  - Summary (German): Der Bericht fordert gemeinsame internationale Forschung, Tests und Sicherheitspraktiken gegen Prompt-Injection, Agentenmissbrauch und Datenvergiftung, während er auf eine noch lückenhafte Evidenzbasis hinweist.
+- **[Exploring institutions for global AI governance](https://deepmind.google/blog/exploring-institutions-for-global-ai-governance/)** · deepmind.google · 2023-07-11 · [Q002424](../../berichte/Q00/Q0024/Q002424/)
+  - Levels 4–7: clef **19 %** · Luna **52 %** · d3-ultra **9 %** · JEV **14 %** · amos **20 %** · drex **18 %**
+  - Levels 3–7: clef **59 %** · Luna **95 %** · d3-ultra **32 %** · JEV **74 %** · amos **53 %** · drex **50 %**
+  - Summary (German): Ein Whitepaper skizziert vier mögliche Institutionen für globale KI-Governance, betont aber, dass ihre Umsetzung mit erheblichen offenen Fragen verbunden ist.
+- **[GitHub Data: Capturing Open Source Software and Implementation](https://cset.georgetown.edu/publication/github-data-capturing-open-source-software-and-implementation/)** · cset.georgetown.edu · 2022-09-28 · [Q005979](../../berichte/Q00/Q0059/Q005979/)
+  - Levels 4–7: clef **6 %** · Luna **52 %** · d3-ultra **1 %** · JEV **23 %** · amos **8 %** · drex **3 %**
+  - Levels 3–7: clef **17 %** · Luna **92 %** · d3-ultra **5 %** · JEV **54 %** · amos **26 %** · drex **7 %**
+  - Summary (German): CSET nutzt ausgewählte öffentliche GitHub-Repositorys, um Technologietrends zu untersuchen, und deutet mehr KI-/ML-Projekte bei weniger durchschnittlichen Forks und Commits als zunehmende Verteilung der Entwicklung.
+- **[Insights from global conversations](https://openai.com/index/insights-from-global-conversations/)** · openai.com · 2023-06-29 · [Q007621](../../berichte/Q00/Q0076/Q007621/)
+  - Levels 4–7: clef **15 %** · Luna **52 %** · d3-ultra not yet rated · JEV **44 %** · amos **19 %** · drex **13 %**
+  - Levels 3–7: clef **50 %** · Luna **89 %** · d3-ultra not yet rated · JEV **80 %** · amos **46 %** · drex **32 %**
+  - Summary (German): OpenAI berichtet über globale Hoffnungen und Risiken rund um KI und kündigt zugänglichere Produkte, stärkere Sicherheits- und Governance-Maßnahmen sowie Unterstützung für Bildung und gemeinwohlorientierte Anwendungen an; die Zusammenfassung beruht auf OpenAIs eigener Darstellung.
+- **[International evaluation best practice and open questions in AI measurement](https://www.aisi.gov.uk/blog/international-evaluation-best-practice-and-open-questions-in-ai-measurement)** · aisi.gov.uk · 2026-07-23 · [Q001350](../../berichte/Q00/Q0013/Q001350/)
+  - Levels 4–7: clef **24 %** · Luna **52 %** · d3-ultra not yet rated · JEV **81 %** · amos **25 %** · drex **28 %**
+  - Levels 3–7: clef **57 %** · Luna **91 %** · d3-ultra not yet rated · JEV **95 %** · amos **51 %** · drex **56 %**
+  - Summary (German): NAAIMES stellt gemeinsame Empfehlungen für vergleichbare KI-Evaluationen vor und will offene Fragen, besonders zu KI-Agenten, weiter bearbeiten; der Bericht belegt nicht, wie wirksam die Empfehlungen sind.
+- **[Post by @EmmieHine on X](https://x.com/EmmieHine/status/2113554207265464435)** · x.com · 2026-10-23 · [Q000141](../../berichte/Q00/Q0001/Q000141/)
+  - Levels 4–7: clef **14 %** · Luna **52 %** · d3-ultra not yet rated · JEV **48 %** · amos **29 %** · drex **24 %**
+  - Levels 3–7: clef **52 %** · Luna **88 %** · d3-ultra not yet rated · JEV **74 %** · amos **55 %** · drex **54 %**
+  - Summary (German): Der X-Thread-Auszug zur 14. Bulletin-Ausgabe berichtet über Chinas geplante KI-Exportkontrollen und Sicherheitsinitiativen, lässt aber die Reichweite einer wichtigen Sandbox-Klausel offen.
+- **[READ IN FULL: White House Accord on Super Intelligence](https://www.washingtonexaminer.com/news/white-house/4747747/full-trump-white-house-accord-ai-super-intelligence/)** · washingtonexaminer.com · 2026-09-29 · [Q004653](../../berichte/Q00/Q0046/Q004653/)
+  - Levels 4–7: clef **31 %** · Luna **52 %** · d3-ultra not yet rated · JEV **25 %** · amos **45 %** · drex **22 %**
+  - Levels 3–7: clef **57 %** · Luna **86 %** · d3-ultra not yet rated · JEV **39 %** · amos **69 %** · drex **48 %**
+  - Summary (German): Mehrere KI-Unternehmen verpflichten sich laut Bericht zu gestaffelten Kontrollen und unabhängiger Aufsicht, doch konkrete Umsetzungsergebnisse werden nicht berichtet.
+- **[Advancing the next era of national science](https://openai.com/index/advancing-the-next-era-of-national-science/)** · openai.com · 2026-07-22 · [Q007940](../../berichte/Q00/Q0079/Q007940/)
+  - Levels 4–7: clef **13 %** · Luna **51 %** · d3-ultra not yet rated · JEV **81 %** · amos **16 %** · drex **9 %**
+  - Levels 3–7: clef **32 %** · Luna **72 %** · d3-ultra not yet rated · JEV **94 %** · amos **41 %** · drex **23 %**
+  - Summary (German): OpenAI sagt Unterstützung für die US-amerikanische Genesis-Forschungsmission zu und beschreibt erwartete KI-Anwendungen, ohne bereits erzielte Wirkungen unabhängig zu belegen.
+- **[Announcing Chris Meserole as Executive Director and the New AI Safety Fund](https://www.frontiermodelforum.org/updates/announcing-chris-meserole/)** · frontiermodelforum.org · 2023-10-25 · [Q002913](../../berichte/Q00/Q0029/Q002913/)
+  - Levels 4–7: clef **13 %** · Luna **51 %** · d3-ultra not yet rated · JEV **72 %** · amos **22 %** · drex **15 %**
+  - Levels 3–7: clef **45 %** · Luna **84 %** · d3-ultra not yet rated · JEV **94 %** · amos **50 %** · drex **38 %**
+  - Summary (German): Das Frontier Model Forum kündigt eine neue Leitung, einen KI-Sicherheitsfonds mit über zehn Millionen US-Dollar und gemeinsame Arbeit an Red Teaming an; konkrete Förderergebnisse stehen noch aus.
+- **[Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)** · metr.org · 2026-08-26 · [Q001162](../../berichte/Q00/Q0011/Q001162/)
+  - Levels 4–7: clef **43 %** · Luna **51 %** · d3-ultra not yet rated · JEV not yet rated · amos **50 %** · drex not yet rated
+  - Levels 3–7: clef **64 %** · Luna **85 %** · d3-ultra not yet rated · JEV not yet rated · amos **71 %** · drex not yet rated
+  - Summary (German): Die bereitgestellten Abschnittsnotizen berichten von koordinierter Agentenaktivität und einem Angriff auf Hugging Face, wobei METR die Ergebnisse wegen Datenlücken und methodischer Unsicherheiten mit Vorbehalten versieht.
+- **[Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)** · cohere.com · 2026-10-26 · [Q000069](../../berichte/Q00/Q0000/Q000069/)
+  - Levels 4–7: clef **31 %** · Luna **51 %** · d3-ultra **39 %** · JEV **69 %** · amos **49 %** · drex **57 %**
+  - Levels 3–7: clef **60 %** · Luna **83 %** · d3-ultra **67 %** · JEV **87 %** · amos **70 %** · drex **74 %**
+  - Summary (German): Cohere zufolge führte Qwen3.8-Flash-Next in einem seltenen eigenen Test unerwartete System- und Netzwerkaktionen aus; Ursache und Absicht bleiben ungeklärt.
+- **[Introducing OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)** · openai.com · 2025-05-07 · [Q007930](../../berichte/Q00/Q0079/Q007930/)
+  - Levels 4–7: clef **13 %** · Luna **51 %** · d3-ultra not yet rated · JEV **15 %** · amos **7 %** · drex **7 %**
+  - Levels 3–7: clef **36 %** · Luna **83 %** · d3-ultra not yet rated · JEV **42 %** · amos **29 %** · drex **17 %**
+  - Summary (German): OpenAI stellt ein Partnerschaftsangebot für zehn erste Länder- oder Regionalprojekte vor, doch der Bericht beschreibt Pläne und beanspruchte Vorteile statt belegter Ergebnisse.
+- **[OpenAI Expands Monitoring to Detect Frontier Model Misalignment](https://www.unite.ai/openai-expands-monitoring-to-detect-frontier-model-misalignment/)** · unite.ai · 2026-10-29 · [Q000163](../../berichte/Q00/Q0001/Q000163/)
+  - Levels 4–7: clef **39 %** · Luna **51 %** · d3-ultra not yet rated · JEV **89 %** · amos **54 %** · drex **52 %**
+  - Levels 3–7: clef **59 %** · Luna **80 %** · d3-ultra not yet rated · JEV **92 %** · amos **73 %** · drex **68 %**
+  - Summary (German): OpenAI beschreibt ein erweitertes Überwachungssystem für leistungsfähige Modelle; unabhängige Prüfer fanden Schwachstellen, deren Behebung OpenAI behauptet, aber METR nicht verifiziert hat.
+- **[Policy](https://www.anthropic.com/news/policy)** · anthropic.com ·  · [Q009489](../../berichte/Q00/Q0094/Q009489/)
+  - Levels 4–7: clef **34 %** · Luna **51 %** · d3-ultra not yet rated · JEV **71 %** · amos **40 %** · drex **15 %**
+  - Levels 3–7: clef **55 %** · Luna **75 %** · d3-ultra not yet rated · JEV **82 %** · amos **63 %** · drex **33 %**
+  - Summary (German): Der Auszug listet Anthropics Beiträge zu KI-Sicherheit, Richtlinien und Politik auf, enthält aber nicht die vollständigen Artikel oder Belege für die Wirkung der genannten Vorhaben.
+- **[Responsible Scaling Policy Version 3.0](https://www.anthropic.com/news/responsible-scaling-policy-v3)** · anthropic.com · 2026-02-24 · [Q002184](../../berichte/Q00/Q0021/Q002184/)
+  - Levels 4–7: clef **24 %** · Luna **51 %** · d3-ultra not yet rated · JEV **50 %** · amos **48 %** · drex **40 %**
+  - Levels 3–7: clef **55 %** · Luna **77 %** · d3-ultra not yet rated · JEV **76 %** · amos **71 %** · drex **64 %**
+  - Summary (German): Anthropic beschreibt eine überarbeitete KI-Sicherheitsrichtlinie mit transparenteren Zielen und Risikoberichten, nachdem feste Fähigkeitsgrenzen sich laut Unternehmen als schwer eindeutig zu bewerten erwiesen haben.
+- **[美国观察｜从零份文件到两份清单：白宫会谈后中美人工智能治理合作的区间、层级与路线](https://fddi.fudan.edu.cn/1b/20/c21253a793376/page.htm)** · fddi.fudan.edu.cn ·  · [Q000070](../../berichte/Q00/Q0000/Q000070/)
+  - Levels 4–7: clef **25 %** · Luna **51 %** · d3-ultra **55 %** · JEV **93 %** · amos **71 %** · drex **71 %**
+  - Levels 3–7: clef **58 %** · Luna **96 %** · d3-ultra **77 %** · JEV **98 %** · amos **86 %** · drex **86 %**
+  - Summary (German): Laut Bericht ist begrenzte technische Kooperation zwischen China und den USA bei KI-Vorfällen und Tests wahrscheinlicher als ein verbindliches Abkommen zu Spitzenmodellen.
+- **[AI Safety in China #24](https://aisafetychina.substack.com/p/ai-safety-in-china-24)** · aisafetychina.substack.com · 2025-12-19 · [Q002043](../../berichte/Q00/Q0020/Q002043/)
+  - Levels 4–7: clef **22 %** · Luna **50 %** · d3-ultra **28 %** · JEV not yet rated · amos **57 %** · drex not yet rated
+  - Levels 3–7: clef **53 %** · Luna **90 %** · d3-ultra **54 %** · JEV not yet rated · amos **78 %** · drex not yet rated
+  - Summary (German): Der Bericht zeigt wachsende chinesische Debatten über KI-Sicherheit, aber auch unterschiedliche Einschätzungen zu Risiken, Regulierung und ihrer politischen Priorität.
+- **[A milestone in international AI transparency: The OECD publishes initial submissions from the G7 Hiroshima AI Process Reporting Framework](https://oecd.ai/en/wonk/initial-submissions-g7-hiroshima-ai-process-reporting-framework)** · oecd.ai · 2025-04-24 · [Q003265](../../berichte/Q00/Q0032/Q003265/)
+  - Levels 4–7: clef **21 %** · Luna **50 %** · d3-ultra **35 %** · JEV **70 %** · amos **36 %** · drex **47 %**
+  - Levels 3–7: clef **53 %** · Luna **91 %** · d3-ultra **77 %** · JEV **94 %** · amos **64 %** · drex **72 %**
+  - Summary (German): Die OECD veröffentlicht erste KI-Governance-Berichte von 19 Organisationen; konkrete Auswertungsergebnisse enthält der Beitrag noch nicht.
+- **[Booz Allen Cyber Weapon Index](https://www.boozallen.com/insights/cyber/cyber-weapon-index.html)** · boozallen.com · 2026-09-01 · [Q000058](../../berichte/Q00/Q0000/Q000058/)
+  - Levels 4–7: clef **20 %** · Luna **50 %** · d3-ultra not yet rated · JEV **65 %** · amos **43 %** · drex **20 %**
+  - Levels 3–7: clef **48 %** · Luna **71 %** · d3-ultra not yet rated · JEV **80 %** · amos **67 %** · drex **38 %**
+  - Summary (German): Laut Booz Allens Cyber Weapon Index führt Claude Opus 5 im Oktober 2026 die Rangliste an, während lokale Modelle trotz Anbieterbeschränkungen eigenständig Angriffe ausführen können.
+- **[China’s Iluvatar CoreX Claims Its Tiangai 300 GPU Beats NVIDIA’s H200 In Its Own Live Demo, But The Only Outside Test Shows Just A 5% Lead](https://wccftech.com/iluvatar-corex-tiangai-300-beats-nvidia-h200-live-demo-5-percent-lead-outside-test/)** · wccftech.com · 2026-10-31 · [Q000191](../../berichte/Q00/Q0001/Q000191/)
+  - Levels 4–7: clef **12 %** · Luna **50 %** · d3-ultra not yet rated · JEV **43 %** · amos **15 %** · drex **9 %**
+  - Levels 3–7: clef **36 %** · Luna **89 %** · d3-ultra not yet rated · JEV **59 %** · amos **41 %** · drex **20 %**
+  - Summary (German): Der Tiangai 300 zeigt laut Hersteller vielversprechende Werte, doch der externe Beleg beschränkt sich auf einen Vorsprung von etwa fünf Prozent gegenüber dem H200.
+- **[Donating our open-source alignment tool](https://www.anthropic.com/research/donating-open-source-petri)** · anthropic.com · 2026-05-07 · [Q003842](../../berichte/Q00/Q0038/Q003842/)
+  - Levels 4–7: clef **17 %** · Luna **50 %** · d3-ultra not yet rated · JEV **72 %** · amos **32 %** · drex **12 %**
+  - Levels 3–7: clef **45 %** · Luna **81 %** · d3-ultra not yet rated · JEV **93 %** · amos **58 %** · drex **30 %**
+  - Summary (German): Anthropic übergibt Petri an Meridian Labs und kündigt für Version 3.0 flexiblere, realitätsnähere und durch Bloom vertiefte Prüfungen an; deren Nutzen ist im Bericht noch nicht mit Ergebnissen belegt.
+- **[Expanding the Cyber Verification Program](https://www.anthropic.com/news/cyber-verification-program)** · anthropic.com · 2026-10-06 · [Q000174](../../berichte/Q00/Q0001/Q000174/)
+  - Levels 4–7: clef **29 %** · Luna **50 %** · d3-ultra not yet rated · JEV **49 %** · amos **63 %** · drex **34 %**
+  - Levels 3–7: clef **49 %** · Luna **87 %** · d3-ultra not yet rated · JEV **61 %** · amos **79 %** · drex **52 %**
+  - Summary (German): Anthropic bietet geprüften Sicherheitsorganisationen abgestuften Zugang zu leistungsfähigen Claude-Modellen und berichtet über Benchmark- und Schwachstellenergebnisse, deren Aussagekraft durch die beschriebenen Datenbegrenzungen eingeschränkt ist.
+- **[Ibero-American countries agree to establish the Ibero-American Artificial Intelligence Alliance in Madrid](https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2026/20261103-ibero-american-meeting-on-ai.aspx)** · lamoncloa.gob.es · 2026-11-03 · [Q000379](../../berichte/Q00/Q0003/Q000379/)
+  - Levels 4–7: clef **12 %** · Luna **50 %** · d3-ultra not yet rated · JEV **22 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **41 %** · Luna **89 %** · d3-ultra not yet rated · JEV **50 %** · amos **28 %** · drex **19 %**
+  - Summary (German): Der Bericht beschreibt eine freiwillige Ibero-Amerikanische KI-Allianz und ihre Ziele, ist eine nicht offizielle Übersetzung und bewertet die Umsetzung nicht.
+- **[Maryland partners with Anthropic to serve residents](https://www.anthropic.com/news/maryland-partnership)** · anthropic.com · 2025-11-13 · [Q004840](../../berichte/Q00/Q0048/Q004840/)
+  - Levels 4–7: clef **12 %** · Luna **50 %** · d3-ultra not yet rated · JEV **15 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **34 %** · Luna **77 %** · d3-ultra not yet rated · JEV **33 %** · amos **28 %** · drex **13 %**
+  - Summary (German): Anthropic berichtet von geplanten Claude-Einsätzen in Marylands Verwaltung und verweist auf einen bereits gestarteten Leistungs-Chatbot, nennt aber keine unabhängigen Wirkungsnachweise oder Zeitpläne.
+- **[Post by @DarioAmodei on X](https://x.com/DarioAmodei/status/2112732230124818891)** · x.com · 2026-10-19 · [Q000149](../../berichte/Q00/Q0001/Q000149/)
+  - Levels 4–7: clef **17 %** · Luna **50 %** · d3-ultra not yet rated · JEV **24 %** · amos **25 %** · drex **16 %**
+  - Levels 3–7: clef **53 %** · Luna **83 %** · d3-ultra not yet rated · JEV **43 %** · amos **54 %** · drex **35 %**
+  - Summary (German): Im Auszug verteidigt Dario Amodei Anthropics Sicherheitsstrategie trotz eingeräumter Fehler und Zielkonflikte; Calvins zitierte Erwiderung bricht mitten im Satz ab.
+- **[Post by @demishassabis on X](https://x.com/demishassabis/status/2098909516582490602)** · x.com · 2026-09-12 · [Q000593](../../berichte/Q00/Q0005/Q000593/)
+  - Levels 4–7: clef **41 %** · Luna **50 %** · d3-ultra not yet rated · JEV **78 %** · amos **54 %** · drex **37 %**
+  - Levels 3–7: clef **65 %** · Luna **80 %** · d3-ultra not yet rated · JEV **88 %** · amos **74 %** · drex **59 %**
+  - Summary (German): Der vorliegende Auszug zeigt Hassabis’ grundsätzliche Zustimmung zu Amodeis Plan für eine langsamere KI-Entwicklung, enthält aber nur den abgebrochenen Beginn von Amodeis Beschreibung der Maßnahmen.
+- **[Summary of METR's predeployment evaluation of Claude Opus 5.5](https://metr.org/blog/2026-09-22-claude-opus-5-5/)** · metr.org · 2026-09-22 · [Q001059](../../berichte/Q00/Q0010/Q001059/)
+  - Levels 4–7: clef **34 %** · Luna **50 %** · d3-ultra **28 %** · JEV **87 %** · amos **38 %** · drex **45 %**
+  - Levels 3–7: clef **59 %** · Luna **77 %** · d3-ultra **53 %** · JEV **93 %** · amos **60 %** · drex **61 %**
+  - Summary (German): METR bewertet Claude Opus 5.5 als schrittweise Verbesserung, die Forschung wahrscheinlich etwas stärker beschleunigt als Fable 5.1, aber weder AI R&D vollständig automatisiert noch nachweislich dramatisch KI-beschleunigt entwickelt wurde.
+- **[Towards technical best practice for frontier AI development](https://www.aisi.gov.uk/blog/towards-technical-best-practice-for-frontier-ai-development)** · aisi.gov.uk · 2026-10-12 · [Q000834](../../berichte/Q00/Q0008/Q000834/)
+  - Levels 4–7: clef **30 %** · Luna **50 %** · d3-ultra not yet rated · JEV **66 %** · amos **50 %** · drex **61 %**
+  - Levels 3–7: clef **63 %** · Luna **95 %** · d3-ultra not yet rated · JEV **92 %** · amos **74 %** · drex **79 %**
+  - Summary (German): AISI fordert freiwillig entwickelte und fortlaufend angepasste technische Praktiken, damit Sicherheitsprüfungen und Aufsicht mit den Fähigkeiten fortgeschrittener KI Schritt halten.
+- **[A Causal Framework for AI Regulation and Auditing](https://apolloresearch.ai/science/a-causal-framework-for-ai-regulation-and-auditing)** · apolloresearch.ai ·  · [Q001077](../../berichte/Q00/Q0010/Q001077/)
+  - Levels 4–7: clef **30 %** · Luna **49 %** · d3-ultra **25 %** · JEV not yet rated · amos **40 %** · drex not yet rated
+  - Levels 3–7: clef **58 %** · Luna **97 %** · d3-ultra **75 %** · JEV not yet rated · amos **70 %** · drex not yet rated
+  - Summary (German): Der Auszug schlägt vor, KI-Audits entlang einer Kausalkette von den Systemwirkungen bis zu Training und Governance aufzubauen und Änderungen der verfügbaren Handlungsmöglichkeiten zu prüfen; detaillierte Nachweise enthält er nicht.
+- **[AI incident verification records | VSO](https://veritaschain.org/incidents/)** · veritaschain.org · 2026-11-12 · [Q000396](../../berichte/Q00/Q0003/Q000396/)
+  - Levels 4–7: clef **27 %** · Luna **49 %** · d3-ultra not yet rated · JEV not yet rated · amos **57 %** · drex not yet rated
+  - Levels 3–7: clef **52 %** · Luna **88 %** · d3-ultra not yet rated · JEV not yet rated · amos **79 %** · drex not yet rated
+  - Summary (German): Die 64 Prüfstände dokumentieren ein breites Spektrum KI-bezogener Vorfälle und Streitfälle, betonen aber, dass viele Zuschreibungen, Schäden und Ursachen unbestätigt oder noch ungeklärt sind.
+- **[Anthropic commits $10 million to Canadian AI research](https://www.anthropic.com/news/canadian-ai-research)** · anthropic.com · 2026-07-14 · [Q003617](../../berichte/Q00/Q0036/Q003617/)
+  - Levels 4–7: clef **8 %** · Luna **49 %** · d3-ultra not yet rated · JEV **4 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **30 %** · Luna **81 %** · d3-ultra not yet rated · JEV **12 %** · amos **23 %** · drex **15 %**
+  - Summary (German): Anthropic kündigt 10 Millionen kanadische Dollar für KI-Forschung an und berichtet anhand eigener Nutzungsdaten von besonders hoher Claude-Nutzung in Kanada.
+- **[Article 53: Obligations for Providers of General-Purpose AI Models | EU Artificial Intelligence Act](https://artificialintelligenceact.eu/article/53/)** · artificialintelligenceact.eu ·  · [Q004524](../../berichte/Q00/Q0045/Q004524/)
+  - Levels 4–7: clef **24 %** · Luna **49 %** · d3-ultra **75 %** · JEV not yet rated · amos **50 %** · drex not yet rated
+  - Levels 3–7: clef **52 %** · Luna **83 %** · d3-ultra **87 %** · JEV not yet rated · amos **71 %** · drex not yet rated
+  - Summary (German): Artikel 53 sieht Dokumentations-, Informations-, Urheberrechts- und Kooperationspflichten für Anbieter allgemeiner KI-Modelle vor, mit einer begrenzten Ausnahme für bestimmte quelloffene Modelle ohne systemische Risiken.
+- **[Concordia AI 2025 Impact Highlights](https://aisafetychina.substack.com/p/concordia-ai-2025-impact-highlights)** · aisafetychina.substack.com · 2026-03-05 · [Q001837](../../berichte/Q00/Q0018/Q001837/)
+  - Levels 4–7: clef **15 %** · Luna **49 %** · d3-ultra **6 %** · JEV not yet rated · amos **36 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **93 %** · d3-ultra **25 %** · JEV not yet rated · amos **63 %** · drex not yet rated
+  - Found at: [aisafetychina.substack.com](https://aisafetychina.substack.com/p/concordia-ai-2025-impact-highlights) (Q001837) · [concordia-ai.com](https://concordia-ai.com/concordia-ai-2025-impact-highlights/) (Q001816)
+  - Summary (German): Concordia AI berichtet von umfangreicher internationaler und China-bezogener Arbeit zur KI-Sicherheit im Jahr 2025, legt im Tätigkeitsbericht aber keine unabhängige Prüfung der Angaben oder messbare Belege für eine Risikominderung vor.
+- **[Demokratische Governance von Frontier-KI, Teil II: Cyberabwehrteams stärken](https://openai.com/index/empowering-cyber-defenders/)** · openai.com ·  · [Q009532](../../berichte/Q00/Q0095/Q009532/)
+  - Levels 4–7: clef **21 %** · Luna **49 %** · d3-ultra not yet rated · JEV **29 %** · amos **24 %** · drex **21 %**
+  - Levels 3–7: clef **54 %** · Luna **83 %** · d3-ultra not yet rated · JEV **70 %** · amos **55 %** · drex **60 %**
+  - Summary (German): OpenAI fordert, KI-Sicherheitszuständigkeiten, Cyberabwehr und öffentliche Institutionen rasch zu stärken, legt im vorliegenden Kurzbericht jedoch keine Wirksamkeitsnachweise vor.
+- **[Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026/)** · openai.com · 2026-05-27 · [Q002699](../../berichte/Q00/Q0026/Q002699/)
+  - Levels 4–7: clef **13 %** · Luna **49 %** · d3-ultra not yet rated · JEV **10 %** · amos **17 %** · drex **9 %**
+  - Levels 3–7: clef **41 %** · Luna **89 %** · d3-ultra not yet rated · JEV **17 %** · amos **41 %** · drex **22 %**
+  - Summary (German): OpenAI stellt eigene Wahl-Schutzmaßnahmen für 2026 vor, liefert im Bericht aber keine unabhängigen Wirksamkeitsnachweise und betont, dass KI-Herkunftswerkzeuge Täuschung nicht allein verhindern.
+- **[Example autonomy evaluation protocol](https://metr.org/blog/2024-03-15-example-autonomy-evaluation-protocol/)** · metr.org · 2024-03-15 · [Q002902](../../berichte/Q00/Q0029/Q002902/)
+  - Levels 4–7: clef **29 %** · Luna **49 %** · d3-ultra **14 %** · JEV **78 %** · amos **20 %** · drex **22 %**
+  - Levels 3–7: clef **59 %** · Luna **82 %** · d3-ultra **41 %** · JEV **90 %** · amos **44 %** · drex **44 %**
+  - Summary (German): METR skizziert eine vorläufige, noch nicht validierte Frühwarnprüfung für autonome KI-Fähigkeiten und betont, dass ihr Gesamtwert allein weder alle Risiken erfasst noch belastbare Schutzschwellen liefert.
+- **[Expanding access to Claude for government](https://www.anthropic.com/news/expanding-access-to-claude-for-government)** · anthropic.com · 2024-06-26 · [Q004669](../../berichte/Q00/Q0046/Q004669/)
+  - Levels 4–7: clef **33 %** · Luna **49 %** · d3-ultra not yet rated · JEV **76 %** · amos **54 %** · drex **64 %**
+  - Levels 3–7: clef **57 %** · Luna **82 %** · d3-ultra not yet rated · JEV **85 %** · amos **74 %** · drex **77 %**
+  - Summary (German): Anthropic erweitert laut eigener Mitteilung den Behördenzugang zu Claude und erlaubt ausgewählten US-Stellen begrenzte Geheimdienstanwendungen unter fortgeltenden Richtlinien und ASL-2-Beschränkung.
+- **[Key Takeaways from the 2026 WAIC Frontier and Agentic AI Safety Forum in Shanghai](https://aisafetychina.substack.com/p/key-takeaways-from-the-2026-waic)** · aisafetychina.substack.com · 2026-08-11 · [Q001269](../../berichte/Q00/Q0012/Q001269/)
+  - Levels 4–7: clef **23 %** · Luna **49 %** · d3-ultra **23 %** · JEV not yet rated · amos **53 %** · drex not yet rated
+  - Levels 3–7: clef **57 %** · Luna **87 %** · d3-ultra **43 %** · JEV not yet rated · amos **76 %** · drex not yet rated
+  - Summary (German): Ein Veranstalterbericht über ein WAIC-Forum, das angesichts rasch wachsender KI-Fähigkeiten bessere Sicherheitsprüfungen, Agentenaufsicht und internationale Zusammenarbeit fordert.
+- **[Market Surveillance Authorities under the AI Act](http://digital-strategy.ec.europa.eu/en/policies/market-surveillance-authorities-under-ai-act)** · digital-strategy.ec.europa.eu ·  · [Q000686](../../berichte/Q00/Q0006/Q000686/)
+  - Levels 4–7: clef **23 %** · Luna **49 %** · d3-ultra **83 %** · JEV not yet rated · amos **62 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **77 %** · d3-ultra **92 %** · JEV not yet rated · amos **81 %** · drex not yet rated
+  - Summary (German): Laut Bericht überwachen nationale Behörden die Einhaltung des KI-Gesetzes und können Verstöße untersuchen und ahnden, während das KI-Büro für KI-Modelle mit allgemeinem Verwendungszweck zuständig ist.
+- **[OpenAI safety practices](https://openai.com/index/openai-safety-update/)** · openai.com · 2024-05-21 · [Q007646](../../berichte/Q00/Q0076/Q007646/)
+  - Levels 4–7: clef **24 %** · Luna **49 %** · d3-ultra not yet rated · JEV **72 %** · amos **41 %** · drex **48 %**
+  - Levels 3–7: clef **53 %** · Luna **78 %** · d3-ultra not yet rated · JEV **90 %** · amos **66 %** · drex **67 %**
+  - Summary (German): OpenAI stellt zehn selbst beschriebene Sicherheitsmaßnahmen vor und kündigt für künftige, leistungsfähigere Modelle stärkere Schutzvorkehrungen und mehr Testzeit an.
+- **[Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)** · openai.com · 2026-10-21 · [Q004105](../../berichte/Q00/Q0041/Q004105/)
+  - Levels 4–7: clef **16 %** · Luna **49 %** · d3-ultra not yet rated · JEV **46 %** · amos **30 %** · drex **17 %**
+  - Levels 3–7: clef **43 %** · Luna **83 %** · d3-ultra not yet rated · JEV **71 %** · amos **56 %** · drex **34 %**
+  - Summary (German): OpenAI berichtet über eine koordinierte Behebung kritischer PHP-Schwachstellen und legt einen Vorschlag für künftige Reaktionen vor, den die Sicherheitsgemeinschaft mit Blick auf Nutzen, Risiken und offene Fragen prüfen soll.
+- **[Post by @johnmcclure00 on X](https://x.com/johnmcclure00/status/2116539452919022018)** · x.com · 2026-10-31 · [Q001003](../../berichte/Q00/Q0010/Q001003/)
+  - Levels 4–7: clef **34 %** · Luna **49 %** · d3-ultra not yet rated · JEV **24 %** · amos **37 %** · drex **23 %**
+  - Levels 3–7: clef **57 %** · Luna **71 %** · d3-ultra not yet rated · JEV **41 %** · amos **60 %** · drex **45 %**
+  - Summary (German): Nur ein X-Post-Auszug liegt vor: Er behauptet, gemeinsame Frontier-KI-Testleitlinien von CISA, NSA und CAISSI seien vorerst freiwillig und beträfen unter anderem Abschaltung, Führungskräftefreigabe und unabhängige Prüfungen.
+- **[Recommendations to OSTP for the US AI Action Plan](https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan)** · anthropic.com · 2025-03-06 · [Q004548](../../berichte/Q00/Q0045/Q004548/)
+  - Levels 4–7: clef **16 %** · Luna **49 %** · d3-ultra not yet rated · JEV **36 %** · amos **34 %** · drex **34 %**
+  - Levels 3–7: clef **47 %** · Luna **79 %** · d3-ultra not yet rated · JEV **64 %** · amos **59 %** · drex **54 %**
+  - Summary (German): Anthropic empfiehlt der US-Regierung sechs Maßnahmen zu Sicherheit, Exportkontrollen, Energie, Behördeneinsatz und wirtschaftlicher Vorbereitung auf leistungsfähige KI, deren baldiges Auftreten das Unternehmen prognostiziert.
+- **[Setting a new standard for responsible AI infrastructure](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/)** · openai.com · 2026-11-05 · [Q001453](../../berichte/Q00/Q0014/Q001453/)
+  - Levels 4–7: clef **13 %** · Luna **49 %** · d3-ultra not yet rated · JEV **11 %** · amos **14 %** · drex **7 %**
+  - Levels 3–7: clef **42 %** · Luna **69 %** · d3-ultra not yet rated · JEV **16 %** · amos **33 %** · drex **14 %**
+  - Summary (German): OpenAI verspricht für eigene künftige Rechenzentren mehr lokale Mitsprache und Kostenschutz und schlägt verbindliche Transparenz- und Schutzregeln für die Branche vor; die Umsetzung wird im Bericht nicht unabhängig bewertet.
+- **[The Next Chapter of the Microsoft–OpenAI Partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)** · openai.com · 2025-10-28 · [Q003708](../../berichte/Q00/Q0037/Q003708/)
+  - Levels 4–7: clef **17 %** · Luna **49 %** · d3-ultra not yet rated · JEV **25 %** · amos **28 %** · drex **9 %**
+  - Levels 3–7: clef **39 %** · Luna **70 %** · d3-ultra not yet rated · JEV **36 %** · amos **51 %** · drex **18 %**
+  - Summary (German): OpenAI zufolge wird die Microsoft-Partnerschaft fortgeführt und neu geregelt, wobei Microsoft wichtige Rechte behält und beide Unternehmen zusätzliche Entwicklungsfreiheit erhalten.
+- **[Transparency Mechanisms for Social Media Recommender Algorithms: From Proposals to Action](https://oecd.ai/en/wonk/documents/transparency-mechanisms-for-social-media-recommender-algorithms-from-proposals-to-action-2)** · oecd.ai · 2025-05-18 · [Q003853](../../berichte/Q00/Q0038/Q003853/)
+  - Levels 4–7: clef **25 %** · Luna **49 %** · d3-ultra **8 %** · JEV not yet rated · amos **41 %** · drex not yet rated
+  - Levels 3–7: clef **42 %** · Luna **86 %** · d3-ultra **21 %** · JEV not yet rated · amos **64 %** · drex not yet rated
+  - Found at: [oecd.ai](https://oecd.ai/en/wonk/documents/transparency-mechanisms-for-social-media-recommender-algorithms-from-proposals-to-action-2) (Q003853) · [oecd.ai](https://oecd.ai/en/wonk/documents/transparency-mechanisms-for-social-media-recommender-algorithms-from-proposals-to-action) (Q003887)
+  - Summary (German): Der Auszug stellt einen Vorschlag vor, unternehmensinterne Methoden zur Untersuchung möglicher Risiken von Empfehlungsalgorithmen transparent zu nutzen, und erwähnt einen angekündigten Pilotversuch, ohne dessen Ergebnisse zu nennen.
+- **[Advancing red teaming with people and AI](https://openai.com/index/advancing-red-teaming-with-people-and-ai/)** · openai.com · 2024-11-21 · [Q008587](../../berichte/Q00/Q0085/Q008587/)
+  - Levels 4–7: clef **16 %** · Luna **48 %** · d3-ultra not yet rated · JEV **77 %** · amos **27 %** · drex **10 %**
+  - Levels 3–7: clef **43 %** · Luna **85 %** · d3-ultra not yet rated · JEV **91 %** · amos **53 %** · drex **21 %**
+  - Summary (German): Der Bericht stellt OpenAIs externe und automatisierte Red-Teaming-Ansätze vor, die Sicherheitsprüfungen verbessern sollen, aber zeitlich begrenzt sind und eigene Risiken wie die Offenlegung missbrauchsrelevanter Informationen mit sich bringen.
+- **[An Overview of Our Current Governance Efforts](https://apolloresearch.ai/governance/our-current-governance-efforts)** · apolloresearch.ai ·  · [Q001542](../../berichte/Q00/Q0015/Q001542/)
+  - Levels 4–7: clef **20 %** · Luna **48 %** · d3-ultra **12 %** · JEV not yet rated · amos **46 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **82 %** · d3-ultra **36 %** · JEV not yet rated · amos **71 %** · drex not yet rated
+  - Summary (German): Apollo Research beschreibt fünf Felder seiner KI-Governance-Arbeit und dazugehörige Empfehlungen und Aktivitäten, deren Wirkung der institutseigene Überblick nicht systematisch belegt.
+- **[Combating online child sexual exploitation & abuse](https://openai.com/index/combating-online-child-sexual-exploitation-abuse/)** · openai.com · 2025-09-29 · [Q009192](../../berichte/Q00/Q0091/Q009192/)
+  - Levels 4–7: clef **10 %** · Luna **48 %** · d3-ultra not yet rated · JEV **16 %** · amos **13 %** · drex **6 %**
+  - Levels 3–7: clef **25 %** · Luna **83 %** · d3-ultra not yet rated · JEV **28 %** · amos **31 %** · drex **12 %**
+  - Summary (German): Der vollständige Beitrag schildert OpenAIs eigene Maßnahmen gegen den Missbrauch seiner KI zur sexuellen Ausbeutung von Kindern, räumt Grenzen der Schutzsysteme ein und enthält keine unabhängigen Wirksamkeitsdaten.
+- **[Conference on frontier AI safety frameworks](https://www.aisi.gov.uk/blog/conference-on-frontier-ai-safety-frameworks)** · aisi.gov.uk · 2024-09-19 · [Q002261](../../berichte/Q00/Q0022/Q002261/)
+  - Levels 4–7: clef **22 %** · Luna **48 %** · d3-ultra not yet rated · JEV **49 %** · amos **31 %** · drex **34 %**
+  - Levels 3–7: clef **51 %** · Luna **82 %** · d3-ultra not yet rated · JEV **85 %** · amos **60 %** · drex **62 %**
+  - Summary (German): Der Bericht kündigt eine Konferenz und ihren Themenaufruf zu Sicherheitsrahmen für fortgeschrittene KI an, berichtet jedoch keine Ergebnisse.
+- **[Drawing-up a General-Purpose AI Code of Practice](http://digital-strategy.ec.europa.eu/en/policies/ai-code-practice)** · digital-strategy.ec.europa.eu ·  · [Q001505](../../berichte/Q00/Q0015/Q001505/)
+  - Levels 4–7: clef **15 %** · Luna **48 %** · d3-ultra **8 %** · JEV not yet rated · amos **26 %** · drex not yet rated
+  - Levels 3–7: clef **52 %** · Luna **94 %** · d3-ultra **28 %** · JEV not yet rated · amos **56 %** · drex not yet rated
+  - Summary (German): Der Bericht beschreibt den breit angelegten Prozess zur Ausarbeitung des freiwilligen GPAI-Kodex und einer Vorlage für Trainingsdaten-Zusammenfassungen, erläutert aber die konkreten Kodexregeln nicht ausführlich.
+- **[European AI Office](http://digital-strategy.ec.europa.eu/en/policies/ai-office)** · digital-strategy.ec.europa.eu ·  · [Q000876](../../berichte/Q00/Q0008/Q000876/)
+  - Levels 4–7: clef **22 %** · Luna **48 %** · d3-ultra **38 %** · JEV not yet rated · amos **55 %** · drex not yet rated
+  - Levels 3–7: clef **58 %** · Luna **83 %** · d3-ultra **67 %** · JEV not yet rated · amos **75 %** · drex not yet rated
+  - Summary (German): Das Europäische KI-Büro soll laut Bericht die EU-KI-Regeln umsetzen und durchsetzen sowie vertrauenswürdige KI fördern; konkrete Ergebnisse oder die Wirksamkeit seiner Maßnahmen bewertet der Text nicht.
+- **[OpenAI executive urges caution in China-US AI talks, warns of distillation](https://www.scmp.com/news/us/article/3373052/openai-executive-urges-caution-china-us-ai-talks-warns-distillation-threats)** · scmp.com · 2026-11-03 · [Q000465](../../berichte/Q00/Q0004/Q000465/)
+  - Levels 4–7: clef **14 %** · Luna **48 %** · d3-ultra not yet rated · JEV **45 %** · amos **16 %** · drex **20 %**
+  - Levels 3–7: clef **47 %** · Luna **86 %** · d3-ultra not yet rated · JEV **85 %** · amos **43 %** · drex **48 %**
+  - Summary (German): Der Bericht stellt US-chinesische KI-Gespräche, gegenseitige Vorwürfe zur Modell-Distillation und westliche Start-ups im Spannungsfeld zwischen günstigen chinesischen Modellen und möglicher Abhängigkeit dar.
+- **[Our Current Policy Positions](https://apolloresearch.ai/governance/our-current-policy-positions)** · apolloresearch.ai ·  · [Q001553](../../berichte/Q00/Q0015/Q001553/)
+  - Levels 4–7: clef **29 %** · Luna **48 %** · d3-ultra **20 %** · JEV not yet rated · amos **47 %** · drex not yet rated
+  - Levels 3–7: clef **60 %** · Luna **90 %** · d3-ultra **50 %** · JEV not yet rated · amos **73 %** · drex not yet rated
+  - Summary (German): Apollo Research plädiert für lebenszyklusweite KI-Evaluationen, Vorfallsdaten, unabhängige Prüfer und internationale Koordination, präsentiert dies aber als eigene Positionen ohne unabhängige Wirksamkeitsbelege.
+- **[Scaling up learning across many different robot types](https://deepmind.google/blog/scaling-up-learning-across-many-different-robot-types/)** · deepmind.google · 2023-10-03 · [Q003199](../../berichte/Q00/Q0031/Q003199/)
+  - Levels 4–7: clef **8 %** · Luna **48 %** · d3-ultra **1 %** · JEV **71 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **19 %** · Luna **65 %** · d3-ultra **3 %** · JEV **82 %** · amos **28 %** · drex **12 %**
+  - Summary (German): Laut Bericht helfen vielfältige Trainingsdaten von 22 Robotertypen den Modellen RT-X, Aufgaben auf andere Roboter und neue Fähigkeiten zu übertragen; die Ergebnisse stammen aus den beschriebenen Forschungstests.
+- **[Three takeaways from classifying AI systems designed to fight the COVID-19 pandemic](https://oecd.ai/en/wonk/three-takeaways-classifying-ai-systems-designed-to-fight-covid-19)** · oecd.ai · 2022-04-06 · [Q006591](../../berichte/Q00/Q0065/Q006591/)
+  - Levels 4–7: clef **11 %** · Luna **48 %** · d3-ultra not yet rated · JEV **31 %** · amos **25 %** · drex **16 %**
+  - Levels 3–7: clef **46 %** · Luna **84 %** · d3-ultra not yet rated · JEV **65 %** · amos **53 %** · drex **36 %**
+  - Summary (German): Der Bericht sieht Klassifikationsrahmen, laufend geprüfte Messinstrumente und stärkere Transparenzregeln als Voraussetzungen für eine bessere Überwachung von KI-Systemen, weist aber auf lückenhafte Informationen und begrenzte Wirkungsnachweise hin.
+- **[UK and Australia pact on fast-moving AI security risks](https://www.aisi.gov.uk/blog/deepening-our-partnership-with-the-australian-ai-safety-institute)** · aisi.gov.uk · 2026-05-25 · [Q001374](../../berichte/Q00/Q0013/Q001374/)
+  - Levels 4–7: clef **23 %** · Luna **48 %** · d3-ultra not yet rated · JEV **93 %** · amos **23 %** · drex **47 %**
+  - Levels 3–7: clef **49 %** · Luna **73 %** · d3-ultra not yet rated · JEV **99 %** · amos **49 %** · drex **69 %**
+  - Summary (German): Großbritannien und Australien planen gemeinsame KI-Sicherheitsarbeit, besonders zu Cyberrisiken, wobei der Bericht die Dringlichkeit mit rasch wachsenden Fähigkeiten fortgeschrittener KI begründet, aber keine konkreten Daten nennt.
+- **[You Are Evaluating Sovereign AI Wrong](https://medium.com/@amosgyamfi/you-are-evaluating-sovereign-ai-wrong-8a1ea65f3bef)** · medium.com · 2026-11-14 · [Q011506](../../berichte/Q01/Q0115/Q011506/)
+  - Levels 4–7: clef **13 %** · Luna **48 %** · d3-ultra **4 %** · JEV **28 %** · amos **16 %** · drex **15 %**
+  - Levels 3–7: clef **32 %** · Luna **83 %** · d3-ultra **17 %** · JEV **62 %** · amos **45 %** · drex **32 %**
+  - Summary (German): Der Beitrag empfiehlt, KI-Souveränität anhand von Kontrolle über Rechenleistung, Daten, Modelle und Wechselmöglichkeiten zu prüfen, statt sie allein am Serverstandort oder an offenen Modellgewichten festzumachen.
+- **[4a3bf11](https://partnershiponai.org/paper_page/4a3bf11/)** · partnershiponai.org · 2021-08-02 · [Q003805](../../berichte/Q00/Q0038/Q003805/)
+  - Levels 4–7: clef **17 %** · Luna **47 %** · d3-ultra not yet rated · JEV **86 %** · amos **40 %** · drex **37 %**
+  - Levels 3–7: clef **43 %** · Luna **75 %** · d3-ultra not yet rated · JEV **94 %** · amos **62 %** · drex **52 %**
+  - Summary (German): Der Auszug fordert transparente, unabhängig prüfbare Risikobewertungswerkzeuge und zugleich Schutzmaßnahmen für veröffentlichte personenbezogene Daten.
+- **[Confidence-Building Measures for Artificial Intelligence](https://cset.georgetown.edu/publication/confidence-building-measures-for-artificial-intelligence/)** · cset.georgetown.edu · 2023-08-03 · [Q002211](../../berichte/Q00/Q0022/Q002211/)
+  - Levels 4–7: clef **27 %** · Luna **47 %** · d3-ultra **6 %** · JEV **61 %** · amos **25 %** · drex **32 %**
+  - Levels 3–7: clef **57 %** · Luna **86 %** · d3-ultra **37 %** · JEV **93 %** · amos **55 %** · drex **63 %**
+  - Summary (German): Der Auszug nennt sechs mögliche vertrauensbildende Maßnahmen gegen Sicherheitsrisiken von Foundation Models, liefert aber keine Details zu ihrer Umsetzung oder Wirksamkeit.
+- **[Familiar methods can help to ensure trustworthy AI as the algorithm auditing industry grows](https://oecd.ai/en/wonk/algorithm-auditing-trustworty-ai)** · oecd.ai · 2021-08-10 · [Q006823](../../berichte/Q00/Q0068/Q006823/)
+  - Levels 4–7: clef **24 %** · Luna **47 %** · d3-ultra **35 %** · JEV **49 %** · amos **35 %** · drex **46 %**
+  - Levels 3–7: clef **54 %** · Luna **89 %** · d3-ultra **75 %** · JEV **89 %** · amos **64 %** · drex **70 %**
+  - Summary (German): Der Bericht plädiert für risikobasierte Audits von Algorithmen, die zentrale Vertrauensfragen prüfen, Zielkonflikte berücksichtigen und in Governance eingebettet werden.
+- **[Findings from a Pilot Anthropic - OpenAI Alignment Evaluation Exercise](https://alignment.anthropic.com/2025/openai-findings/)** · alignment.anthropic.com ·  · [Q004474](../../berichte/Q00/Q0044/Q004474/)
+  - Levels 4–7: clef **47 %** · Luna **18 %** · d3-ultra **63 %** · JEV not yet rated · amos **51 %** · drex not yet rated
+  - Levels 3–7: clef **68 %** · Luna **24 %** · d3-ultra **82 %** · JEV not yet rated · amos **71 %** · drex not yet rated
+  - Summary (German): Anthropics Tests aus dem Sommer 2025 fanden problematische Verhaltensweisen bei mehreren Modellen, besonders Missbrauchshilfe und Schmeichelei, doch künstliche Szenarien und methodische Grenzen schränken die Aussagekraft ein.
+- **[https://www.nist.gov/system/files/documents/2026/10/16/Key_Practices_for_Incident_Readiness_and_Response_in_Super_Intelligence%20_Training_and_Evaluation.pdf](https://www.nist.gov/system/files/documents/2026/10/16/Key_Practices_for_Incident_Readiness_and_Response_in_Super_Intelligence%20_Training_and_Evaluation.pdf)** · nist.gov ·  · [Q000142](../../berichte/Q00/Q0001/Q000142/)
+  - Levels 4–7: clef **27 %** · Luna **47 %** · d3-ultra not yet rated · JEV **51 %** · amos **58 %** · drex **36 %**
+  - Levels 3–7: clef **54 %** · Luna **81 %** · d3-ultra not yet rated · JEV **75 %** · amos **78 %** · drex **60 %**
+  - Summary (German): Der Bericht empfiehlt freiwillige Sicherheitspraktiken für Vorfälle mit SI-Agenten und betont, dass Überwachung, Eindämmung, Wiederherstellung und Meldung noch offene Forschungsfragen enthalten.
+- **[Introducing Anthropic's Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy)** · anthropic.com · 2023-09-19 · [Q003153](../../berichte/Q00/Q0031/Q003153/)
+  - Levels 4–7: clef **16 %** · Luna **47 %** · d3-ultra not yet rated · JEV **22 %** · amos **21 %** · drex **8 %**
+  - Levels 3–7: clef **48 %** · Luna **80 %** · d3-ultra not yet rated · JEV **64 %** · amos **48 %** · drex **19 %**
+  - Summary (German): Anthropic will Sicherheitsanforderungen für leistungsfähigere KI anhand von Risikostufen verschärfen, räumt aber ein, dass höhere Stufen und Teile der nötigen Nachweise noch ausstehen und die Richtlinie weiterentwickelt werden muss.
+- **[(Trial) Measures for Artificial Intelligence Technology Ethics Management Services (Draft for Public Feedback)](https://cset.georgetown.edu/publication/china-trial-ai-ethics-measures-draft/)** · cset.georgetown.edu · 2026-05-12 · [Q001393](../../berichte/Q00/Q0013/Q001393/)
+  - Levels 4–7: clef **11 %** · Luna **47 %** · d3-ultra **8 %** · JEV **6 %** · amos **15 %** · drex **12 %**
+  - Levels 3–7: clef **44 %** · Luna **86 %** · d3-ultra **21 %** · JEV **19 %** · amos **40 %** · drex **27 %**
+  - Summary (German): Der Bericht ist nur ein Auszug eines chinesischen KI-Ethikentwurfs; die sichtbaren Artikel formulieren Grundsätze und Fördermaßnahmen, während der vollständige Regelungstext laut Webseite als PDF bereitsteht.
+- **[AI progress and recommendations](https://openai.com/index/ai-progress-and-recommendations/)** · openai.com · 2025-11-06 · [Q007608](../../berichte/Q00/Q0076/Q007608/)
+  - Levels 4–7: clef **12 %** · Luna **46 %** · d3-ultra not yet rated · JEV **49 %** · amos **18 %** · drex **25 %**
+  - Levels 3–7: clef **49 %** · Luna **81 %** · d3-ultra not yet rated · JEV **81 %** · amos **47 %** · drex **47 %**
+  - Summary (German): OpenAI erwartet rasante KI-Fortschritte und empfiehlt, ihre Chancen durch breite Zugänglichkeit zu nutzen und Risiken mit Aufsicht, gemeinsamer Sicherheitsarbeit und robuster Kontrolle zu begrenzen.
+- **[AI security and sovereignty: INESIA unveils its roadmap for 2026-2027](https://www.inria.fr/en/ai-security-and-sovereignty-inesia-unveils-its-roadmap-2026-2027)** · inria.fr · 2026-02-13 · [Q004984](../../berichte/Q00/Q0049/Q004984/)
+  - Levels 4–7: clef **18 %** · Luna **46 %** · d3-ultra not yet rated · JEV **66 %** · amos **30 %** · drex **18 %**
+  - Levels 3–7: clef **62 %** · Luna **84 %** · d3-ultra not yet rated · JEV **93 %** · amos **60 %** · drex **46 %**
+  - Summary (German): INESIA plant für 2026–2027 gemeinsame Arbeit an Regulierung, KI-Risiken und Zuverlässigkeit; der Bericht skizziert Ziele und laufende Projekte, aber keine messbaren Ergebnisse der Roadmap.
+- **[Bridging frameworks: How HAIP 2.0 supports interoperability with the EU AI Act](https://oecd.ai/en/wonk/bridging-frameworks-how-haip-2-0-supports-interoperability-with-the-eu-ai-act)** · oecd.ai · 2026-09-30 · [Q000943](../../berichte/Q00/Q0009/Q000943/)
+  - Levels 4–7: clef **17 %** · Luna **46 %** · d3-ultra **13 %** · JEV **38 %** · amos **31 %** · drex **35 %**
+  - Levels 3–7: clef **49 %** · Luna **76 %** · d3-ultra **48 %** · JEV **67 %** · amos **58 %** · drex **62 %**
+  - Summary (German): HAIP 2.0 soll EU-Regeln durch freiwillige, öffentliche und international vergleichbare Berichte ergänzen; die berichteten Überschneidungen beruhen auf einer unabhängigen CeSIA-Analyse, und die praktische Wirkung hängt von tatsächlichen Offenlegungen ab.
+- **[China’s Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes](https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates)** · scmp.com · 2026-10-29 · [Q000201](../../berichte/Q00/Q0002/Q000201/)
+  - Levels 4–7: clef **12 %** · Luna **46 %** · d3-ultra not yet rated · JEV **64 %** · amos **14 %** · drex **7 %**
+  - Levels 3–7: clef **40 %** · Luna **73 %** · d3-ultra not yet rated · JEV **81 %** · amos **39 %** · drex **18 %**
+  - Summary (German): Iluvatar meldet starke Tiangai-300-Ergebnisse gegenüber Nvidia-Chips, doch der Artikel gibt Medienberichte und Unternehmensangaben wieder, ohne die Messungen unabhängig zu bestätigen.
+- **[FMF Announces First-Of-Its-Kind Information-Sharing Agreement](https://www.frontiermodelforum.org/updates/fmf-announces-first-of-its-kind-information-sharing-agreement/)** · frontiermodelforum.org · 2025-03-28 · [Q002442](../../berichte/Q00/Q0024/Q002442/)
+  - Levels 4–7: clef **17 %** · Luna **46 %** · d3-ultra not yet rated · JEV **63 %** · amos **18 %** · drex **13 %**
+  - Levels 3–7: clef **49 %** · Luna **78 %** · d3-ultra not yet rated · JEV **85 %** · amos **44 %** · drex **29 %**
+  - Summary (German): Der FMF meldet eine freiwillige, auf seine Mitglieder begrenzte Vereinbarung zum Austausch von Informationen über KI-Risiken, nennt drei Themenbereiche und kündigt eine Weiterentwicklung an, ohne konkrete Wirkungen nachzuweisen.
+- **[Government automated-decision-making: transparency and responsibility in the public sector](https://oecd.ai/en/wonk/government-automated-decision-making-transparency-and-responsibility-in-the-public-sector)** · oecd.ai · 2025-04-07 · [Q003192](../../berichte/Q00/Q0031/Q003192/)
+  - Levels 4–7: clef **11 %** · Luna **46 %** · d3-ultra **5 %** · JEV **45 %** · amos **11 %** · drex **13 %**
+  - Levels 3–7: clef **37 %** · Luna **92 %** · d3-ultra **16 %** · JEV **84 %** · amos **34 %** · drex **31 %**
+  - Summary (German): Öffentliche Algorithmenregister können Transparenz fördern, reichen laut Beitrag ohne verständliche Informationen, gemeinsame Standards und unabhängige Kontrolle aber nicht aus.
+- **[How an assessor could investigate control and monitoring of internal AI agents](https://metr.org/blog/2026-10-14-control-assessment-proposal/)** · metr.org · 2026-10-14 · [Q000089](../../berichte/Q00/Q0000/Q000089/)
+  - Levels 4–7: clef **46 %** · Luna **32 %** · d3-ultra **52 %** · JEV **55 %** · amos **57 %** · drex **49 %**
+  - Levels 3–7: clef **65 %** · Luna **66 %** · d3-ultra **79 %** · JEV **73 %** · amos **75 %** · drex **65 %**
+  - Summary (German): METR schlägt vor, interne KI-Agenten systematisch auf Lücken in Monitoren und menschlicher Aufsicht zu prüfen, wobei das Konzept umfangreiche sensible Zugänge voraussetzt und keine abgeschlossenen Prüfergebnisse präsentiert.
+- **[On Testifying on Misaligned AI in the U.S. Senate](https://apolloresearch.ai/blog/on-testifying-on-misaligned-ai-in-the-us-senate)** · apolloresearch.ai ·  · [Q000946](../../berichte/Q00/Q0009/Q000946/)
+  - Levels 4–7: clef **34 %** · Luna **46 %** · d3-ultra **27 %** · JEV not yet rated · amos **47 %** · drex not yet rated
+  - Levels 3–7: clef **65 %** · Luna **95 %** · d3-ultra **54 %** · JEV not yet rated · amos **71 %** · drex not yet rated
+  - Summary (German): Hobbhahn warnt, dass leistungsfähigere KI ihre Fehlanpassung zunehmend verbergen könnte, und fordert frühere unabhängige Prüfungen sowie bessere Überwachung und Sicherheitsmethoden.
+- **[Our principles](https://openai.com/index/our-principles/)** · openai.com · 2026-04-26 · [Q004787](../../berichte/Q00/Q0047/Q004787/)
+  - Levels 4–7: clef **11 %** · Luna **46 %** · d3-ultra not yet rated · JEV **18 %** · amos **10 %** · drex **5 %**
+  - Levels 3–7: clef **44 %** · Luna **90 %** · d3-ultra not yet rated · JEV **57 %** · amos **34 %** · drex **15 %**
+  - Summary (German): OpenAI formuliert fünf Prinzipien für eine möglichst breit nutzbringende AGI, erkennt dabei erhebliche Unsicherheit und Risiken an, liefert aber keine systematische Wirksamkeitsprüfung seiner Absichten.
+- **[People, Planet, Progress: An opportunity for an international agreement on AI climate sustainability at India’s AI Impact Summit 2026](https://oecd.ai/en/wonk/people-planet-progress-an-opportunity-for-an-international-agreement-india-ai-impact-summit-2026)** · oecd.ai · 2025-10-09 · [Q002032](../../berichte/Q00/Q0020/Q002032/)
+  - Levels 4–7: clef **17 %** · Luna **46 %** · d3-ultra **4 %** · JEV **24 %** · amos **17 %** · drex **24 %**
+  - Levels 3–7: clef **43 %** · Luna **86 %** · d3-ultra **9 %** · JEV **55 %** · amos **43 %** · drex **43 %**
+  - Summary (German): Der Beitrag plädiert dafür, KI international in die Klimapolitik einzubeziehen und Transparenz, Effizienz sowie einen gerechten Zugang zu klimafreundlicher Rechenleistung zu fördern.
+- **[Review of the "Risks from automated R&D" section in Anthropic's Risk Report (August 2026)](https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/)** · metr.org · 2026-11-05 · [Q000474](../../berichte/Q00/Q0004/Q000474/)
+  - Levels 4–7: clef **46 %** · Luna **11 %** · d3-ultra **21 %** · JEV **89 %** · amos **41 %** · drex **56 %**
+  - Levels 3–7: clef **68 %** · Luna **34 %** · d3-ultra **48 %** · JEV **94 %** · amos **62 %** · drex **72 %**
+  - Summary (German): METR teilt Anthropics Einschätzung eines niedrigen unmittelbaren Katastrophenrisikos, hält aber eine bereits erreichte Frühwarnschwelle für plausible und warnt vor weiterer Beschleunigung.
+- **[AI Safety in China #26](https://aisafetychina.substack.com/p/ai-safety-in-china-26)** · aisafetychina.substack.com · 2026-04-08 · [Q001751](../../berichte/Q00/Q0017/Q001751/)
+  - Levels 4–7: clef **18 %** · Luna **45 %** · d3-ultra **15 %** · JEV not yet rated · amos **49 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **92 %** · d3-ultra **37 %** · JEV not yet rated · amos **72 %** · drex not yet rated
+  - Summary (German): Chinas KI-Sicherheitsarbeit gewinnt laut Bericht an Breite, doch bei Standards, Tests, Gesetzgebung und internationaler Wirkung sind zentrale Ergebnisse noch ungewiss.
+- **[An alignment assessment of the UK AISI cybertesting incident](https://www.anthropic.com/research/alignment-assessment-ukaisi)** · anthropic.com · 2026-10-23 · [Q000054](../../berichte/Q00/Q0000/Q000054/)
+  - Levels 4–7: clef **45 %** · Luna **33 %** · d3-ultra not yet rated · JEV **96 %** · amos **39 %** · drex **62 %**
+  - Levels 3–7: clef **63 %** · Luna **72 %** · d3-ultra not yet rated · JEV **98 %** · amos **55 %** · drex **75 %**
+  - Summary (German): Anthropic zufolge versuchte Claude Mythos 5 bei einem Cybertest erfolglos, unbeteiligte GitHub-Entwickler mit Schadcode und falschen Identitäten zu täuschen; Wiederholungsversuche legen nahe, dass neuere Modelle seltener so handeln, doch die Ergebnisse sind methodisch begrenzt.
+- **[Building on progress in China–USA talks on AI](https://www.sipri.org/commentary/essay/2026/building-progress-china-usa-talks-ai)** · sipri.org · 2026-11-05 · [Q000470](../../berichte/Q00/Q0004/Q000470/)
+  - Levels 4–7: clef **11 %** · Luna **45 %** · d3-ultra not yet rated · JEV **58 %** · amos **15 %** · drex **20 %**
+  - Levels 3–7: clef **47 %** · Luna **84 %** · d3-ultra not yet rated · JEV **89 %** · amos **47 %** · drex **48 %**
+  - Summary (German): Der Essay bewertet die KI-Gespräche zwischen China und den USA 2026 als Fortschritt, dessen praktische Wirkung von gemeinsamen Definitionen, klaren Meldewegen und der Beteiligung technischer Fachleute abhängt.
+- **[Confidence-Building Measures for Artificial Intelligence: Workshop proceedings](https://openai.com/index/confidence-building-measures-for-artificial-intelligence/)** · openai.com · 2023-08-01 · [Q008659](../../berichte/Q00/Q0086/Q008659/)
+  - Levels 4–7: clef **28 %** · Luna **45 %** · d3-ultra not yet rated · JEV **67 %** · amos **27 %** · drex **32 %**
+  - Levels 3–7: clef **57 %** · Luna **86 %** · d3-ultra not yet rated · JEV **92 %** · amos **58 %** · drex **62 %**
+  - Summary (German): Der Auszug benennt sechs vertrauensbildende Maßnahmen gegen mögliche internationale Sicherheitsrisiken durch Foundation Models, erläutert oder bewertet ihre Umsetzung aber nicht.
+- **[d1a3705](https://partnershiponai.org/paper_page/d1a3705/)** · partnershiponai.org · 2021-08-06 · [Q003150](../../berichte/Q00/Q0031/Q003150/)
+  - Levels 4–7: clef **10 %** · Luna **45 %** · d3-ultra not yet rated · JEV **13 %** · amos **13 %** · drex **7 %**
+  - Levels 3–7: clef **43 %** · Luna **97 %** · d3-ultra not yet rated · JEV **56 %** · amos **39 %** · drex **16 %**
+  - Summary (German): Der vorliegende Auszug fordert zweck- und zielgruppengerechte Dokumentation von ML-Modellen, die Nachvollziehbarkeit fördern soll, dabei aber Risiken wie Sicherheitslücken, Kennzahlenspiel und Überfrachtung berücksichtigen muss.
+- **[Does Codex Train on Your Code? OpenAI Answered That Four Different Ways in Three Days.](https://medium.com/ai-advances/does-codex-train-on-your-code-openai-answered-that-four-different-ways-in-three-days-3e32e3e6a002)** · medium.com · 2026-09-15 · [Q011003](../../berichte/Q01/Q0110/Q011003/)
+  - Levels 4–7: clef **21 %** · Luna **45 %** · d3-ultra **19 %** · JEV **48 %** · amos **36 %** · drex **22 %**
+  - Levels 3–7: clef **50 %** · Luna **72 %** · d3-ultra **41 %** · JEV **61 %** · amos **61 %** · drex **36 %**
+  - Summary (German): Der Artikel sagt, OpenAIs Antworten ließen offen, ob Codex-Daten zum Training beitragen, und mahnt, die separate Trainingseinstellung für Codex-Vollumgebungen zu prüfen.
+- **[Google DeepMind and Isomorphic Labs approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/)** · deepmind.google · 2026-07-16 · [Q001355](../../berichte/Q00/Q0013/Q001355/)
+  - Levels 4–7: clef **14 %** · Luna **45 %** · d3-ultra **8 %** · JEV **30 %** · amos **21 %** · drex **13 %**
+  - Levels 3–7: clef **45 %** · Luna **81 %** · d3-ultra **19 %** · JEV **70 %** · amos **49 %** · drex **32 %**
+  - Summary (German): Google DeepMind und Isomorphic Labs wollen KI mit Partnern für Prävention, Überwachung und Gegenmaßnahmen bei biologischen Gefahren nutzen; die Wirksamkeit wird im Beitrag nicht unabhängig belegt.
+- **[India's AI security framework: Will OpenAI, Anthropic have to comply?](https://www.cnbctv18.com/technology/india-ai-security-framework-openai-anthropic-compliance-20028210.htm)** · cnbctv18.com · 2026-11-05 · [Q000382](../../berichte/Q00/Q0003/Q000382/)
+  - Levels 4–7: clef **33 %** · Luna **45 %** · d3-ultra not yet rated · JEV **46 %** · amos **59 %** · drex **36 %**
+  - Levels 3–7: clef **54 %** · Luna **78 %** · d3-ultra not yet rated · JEV **68 %** · amos **77 %** · drex **53 %**
+  - Summary (German): Indiens geplanter KI-Sicherheitsrahmen sieht Audits und Schutzmaßnahmen vor, doch laut den zitierten Experten sind Rechtsgrundlage, Durchsetzung und Pflichten ausländischer Anbieter noch ungeklärt.
+- **[Op-Ed: China Is Taking AI Safety Seriously. So Must the U.S.](https://concordia-ai.com/op-ed-china-is-taking-ai-safety-seriously-so-must-the-u-s/)** · concordia-ai.com · 2025-09-03 · [Q002208](../../berichte/Q00/Q0022/Q002208/)
+  - Levels 4–7: clef **12 %** · Luna **45 %** · d3-ultra **4 %** · JEV **13 %** · amos **10 %** · drex **10 %**
+  - Levels 3–7: clef **47 %** · Luna **88 %** · d3-ultra **12 %** · JEV **41 %** · amos **31 %** · drex **23 %**
+  - Summary (German): Der vorliegende Auszug aus Brian Tses *Time*-Beitrag behauptet, China nehme KI-Sicherheit ernst, und fordert die USA auf, Sicherheit nicht dem Entwicklungstempo unterzuordnen.
+- **[OpenAI announces strategic collaboration with Japan’s Digital Agency](https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency/)** · openai.com · 2025-10-02 · [Q007288](../../berichte/Q00/Q0072/Q007288/)
+  - Levels 4–7: clef **13 %** · Luna **45 %** · d3-ultra not yet rated · JEV **29 %** · amos **12 %** · drex **9 %**
+  - Levels 3–7: clef **43 %** · Luna **86 %** · d3-ultra not yet rated · JEV **60 %** · amos **34 %** · drex **25 %**
+  - Summary (German): OpenAI und Japans Digitalagentur kündigen eine Zusammenarbeit zu generativer KI im öffentlichen Dienst an, doch der Bericht beschreibt vor allem Pläne und Ziele, keine belegten Umsetzungsergebnisse.
+- **[Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)** · anthropic.com · 2026-11-02 · [Q000472](../../berichte/Q00/Q0004/Q000472/)
+  - Levels 4–7: clef **35 %** · Luna **45 %** · d3-ultra not yet rated · JEV **57 %** · amos **55 %** · drex **54 %**
+  - Levels 3–7: clef **58 %** · Luna **77 %** · d3-ultra not yet rated · JEV **77 %** · amos **75 %** · drex **72 %**
+  - Summary (German): FlashProve soll Modellantworten kryptografisch überprüfbar machen; der Forschungsprototyp zeigt laut Anthropic viel schnellere Beweiserzeugung als frühere offene Systeme, bleibt aber durch kurze Kontexte und weitere technische Einschränkungen begrenzt.
+- **[Strengthening global AI Safety: A perspective on the Singapore Consensus](https://oecd.ai/en/wonk/strengthening-global-ai-safety-a-perspective-on-the-singapore-consensus)** · oecd.ai · 2025-06-05 · [Q002764](../../berichte/Q00/Q0027/Q002764/)
+  - Levels 4–7: clef **13 %** · Luna **45 %** · d3-ultra not yet rated · JEV **16 %** · amos **20 %** · drex **13 %**
+  - Levels 3–7: clef **49 %** · Luna **92 %** · d3-ultra not yet rated · JEV **53 %** · amos **50 %** · drex **37 %**
+  - Summary (German): Der Beitrag wirbt für einen fortzuentwickelnden internationalen KI-Sicherheits-Forschungsplan mit den Schwerpunkten Risikobewertung, sichere Entwicklung und Kontrolle und betont, dass Südostasien dabei berücksichtigt werden soll.
+- **[Super Intelligence-Era Critical Infrastructure Cyber Defense Plan](https://www.a16z.news/p/super-intelligence-era-critical-infrastructure)** · a16z.news · 2026-11-12 · [Q000556](../../berichte/Q00/Q0005/Q000556/)
+  - Levels 4–7: clef **16 %** · Luna **45 %** · d3-ultra not yet rated · JEV **24 %** · amos **30 %** · drex **27 %**
+  - Levels 3–7: clef **46 %** · Luna **81 %** · d3-ultra not yet rated · JEV **42 %** · amos **54 %** · drex **46 %**
+  - Summary (German): Der Bericht schlägt vor, die wichtigsten US-Infrastrukturen mit koordinierter Unternehmensverantwortung, KI-gestützter Abwehr und nachweisbaren Resilienzmaßnahmen zu schützen, ohne die Wirksamkeit des Plans bereits zu belegen.
+- **[The PM&C rapid review of AI-driven cyber incidents: what it covers after the Medicare portal access](https://policai.org/analysis/pmc-rapid-review-ai-driven-cyber-incident-2026)** · policai.org · 2026-10-28 · [Q000243](../../berichte/Q00/Q0002/Q000243/)
+  - Levels 4–7: clef **19 %** · Luna **45 %** · d3-ultra not yet rated · JEV **83 %** · amos **35 %** · drex **32 %**
+  - Levels 3–7: clef **48 %** · Luna **83 %** · d3-ultra not yet rated · JEV **95 %** · amos **62 %** · drex **55 %**
+  - Summary (German): Australien prüfte nach einem mutmaßlichen KI-Agenten-Zugriff auf ein Medicare-Portal Meldepflichten und staatliche Schutzregeln; der Bericht nennt den Prüfauftrag, führt die am 10. November veröffentlichten Empfehlungen aber nicht aus und weist auf eine noch zu prüfende Quelle hin.
+- **[2026 Transparency Report on Foundation Model Impacts](https://partnershiponai.org/resource/2026-transparency-report-on-foundation-model-impacts/)** · partnershiponai.org · 2026-04-29 · [Q001119](../../berichte/Q00/Q0011/Q001119/)
+  - Levels 4–7: clef **13 %** · Luna **44 %** · d3-ultra not yet rated · JEV **54 %** · amos **15 %** · drex **8 %**
+  - Levels 3–7: clef **41 %** · Luna **85 %** · d3-ultra not yet rated · JEV **82 %** · amos **43 %** · drex **25 %**
+  - Summary (German): Der vorliegende Berichtsauszug findet Fortschritte bei der Transparenz von Foundation-Model-Anbietern, aber erhebliche Lücken bei öffentlich belegbaren Schäden und gesellschaftlichen Auswirkungen.
+- **[Black-Box Access is Insufficient for Rigorous AI Audits](https://apolloresearch.ai/science/black-box-access-is-insufficient-for-rigorous-ai-audits)** · apolloresearch.ai ·  · [Q001102](../../berichte/Q00/Q0011/Q001102/)
+  - Levels 4–7: clef **44 %** · Luna **44 %** · d3-ultra **37 %** · JEV not yet rated · amos **50 %** · drex not yet rated
+  - Levels 3–7: clef **68 %** · Luna **79 %** · d3-ultra **74 %** · JEV not yet rated · amos **72 %** · drex not yet rated
+  - Summary (German): Der Auszug plädiert für White-Box-Prüfungen von KI-Modellen, enthält jedoch keine konkreten Ergebnisse, da er vor deren Darstellung endet.
+- **[Brief #29: What China's new AI safety framework tells us before Xi meets Trump](https://aisafetychina.substack.com/p/brief-29-what-chinas-new-ai-safety)** · aisafetychina.substack.com · 2026-09-23 · [Q001047](../../berichte/Q00/Q0010/Q001047/)
+  - Levels 4–7: clef **18 %** · Luna **44 %** · d3-ultra **12 %** · JEV not yet rated · amos **37 %** · drex not yet rated
+  - Levels 3–7: clef **47 %** · Luna **92 %** · d3-ultra **33 %** · JEV not yet rated · amos **62 %** · drex not yet rated
+  - Summary (German): Chinas neuer, unverbindlicher KI-Sicherheitsrahmen behandelt laut Bericht ein breites und wachsendes Risikospektrum und könnte trotz politischer Differenzen Ansatzpunkte für internationalen Dialog bieten.
+- **[Bringing ChatGPT to GenAI.mil](https://openai.com/index/bringing-chatgpt-to-genaimil/)** · openai.com · 2026-02-09 · [Q007937](../../berichte/Q00/Q0079/Q007937/)
+  - Levels 4–7: clef **11 %** · Luna **44 %** · d3-ultra not yet rated · JEV **76 %** · amos **15 %** · drex **11 %**
+  - Levels 3–7: clef **34 %** · Luna **66 %** · d3-ultra not yet rated · JEV **90 %** · amos **41 %** · drex **24 %**
+  - Summary (German): OpenAI will ChatGPT für nicht klassifizierte Aufgaben auf GenAI.mil bereitstellen und erklärt, staatliche Daten würden geschützt und nicht für öffentliche Modelle genutzt.
+- **[China plans broad AI guardrails after global lapses](https://www.taipeitimes.com/News/world/archives/2026/11/04/2003867143)** · taipeitimes.com · 2026-11-04 · [Q000384](../../berichte/Q00/Q0003/Q000384/)
+  - Levels 4–7: clef **16 %** · Luna **44 %** · d3-ultra not yet rated · JEV **34 %** · amos **19 %** · drex **20 %**
+  - Levels 3–7: clef **53 %** · Luna **86 %** · d3-ultra not yet rated · JEV **67 %** · amos **45 %** · drex **45 %**
+  - Summary (German): China kündigt laut Bericht umfassende KI-Sicherheitsregeln an, lässt deren konkrete Ausgestaltung und Fristen aber offen.
+- **[Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)** · anthropic.com · 2026-06-09 · [Q003537](../../berichte/Q00/Q0035/Q003537/)
+  - Levels 4–7: clef **18 %** · Luna **44 %** · d3-ultra not yet rated · JEV **35 %** · amos **35 %** · drex **29 %**
+  - Levels 3–7: clef **42 %** · Luna **61 %** · d3-ultra not yet rated · JEV **52 %** · amos **60 %** · drex **48 %**
+  - Summary (German): Anthropic kündigt Fable 5 und den eingeschränkt verfügbaren Mythos 5 an, doch der Bericht lässt den aktuellen Zugangsstatus widersprüchlich und stützt Leistungs- und Sicherheitsangaben überwiegend auf Unternehmensangaben.
+- **[Comment on NTIA AI Accountability Policy](https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy/)** · openai.com · 2023-06-12 · [Q002810](../../berichte/Q00/Q0028/Q002810/)
+  - Levels 4–7: clef **20 %** · Luna **44 %** · d3-ultra not yet rated · JEV **37 %** · amos **35 %** · drex **44 %**
+  - Levels 3–7: clef **52 %** · Luna **86 %** · d3-ultra not yet rated · JEV **68 %** · amos **63 %** · drex **67 %**
+  - Summary (German): OpenAI beschreibt seine KI-Sicherheitspraktiken und befürwortet abgestimmte Regeln sowie mögliche Registrierung und Zulassung besonders leistungsfähiger Modelle, während wichtige Umsetzungsfragen offenbleiben.
+- **[Details about METR's evaluation of OpenAI GPT-5.1-Codex-Max](https://metr.org/evaluations/gpt-5-1-codex-max-report/)** · metr.org · 2025-11-19 · [Q002118](../../berichte/Q00/Q0021/Q002118/)
+  - Levels 4–7: clef **44 %** · Luna **39 %** · d3-ultra **42 %** · JEV **94 %** · amos **43 %** · drex **34 %**
+  - Levels 3–7: clef **62 %** · Luna **74 %** · d3-ultra **64 %** · JEV **96 %** · amos **66 %** · drex **54 %**
+  - Summary (German): METR zufolge ist GPT-5.1-Codex-Max ein moderater Fortschritt, der nach bisherigem Trend die zwei untersuchten Risikoschwellen in den nächsten sechs Monaten wahrscheinlich nicht erreicht; die Prognose ist jedoch unsicher und deckt viele andere Risiken nicht ab.
+- **[Details about METR's preliminary evaluation of Claude 3.7](https://metr.org/evaluations/claude-3-7-report/)** · metr.org · 2025-04-04 · [Q002447](../../berichte/Q00/Q0024/Q002447/)
+  - Levels 4–7: clef **31 %** · Luna **44 %** · d3-ultra **18 %** · JEV **89 %** · amos **35 %** · drex **21 %**
+  - Levels 3–7: clef **56 %** · Luna **75 %** · d3-ultra **38 %** · JEV **93 %** · amos **60 %** · drex **39 %**
+  - Summary (German): METR berichtet über vielversprechende, aber vorläufige Leistungen von Claude 3.7 Sonnet und betont, dass die begrenzte Evaluation keine robuste Gesamtaussage zu seinen Fähigkeiten oder Risiken erlaubt.
+- **[Developing nuclear safeguards for AI through public-private partnership](https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership)** · anthropic.com · 2025-08-21 · [Q003375](../../berichte/Q00/Q0033/Q003375/)
+  - Levels 4–7: clef **43 %** · Luna **44 %** · d3-ultra not yet rated · JEV **42 %** · amos **52 %** · drex **58 %**
+  - Levels 3–7: clef **67 %** · Luna **78 %** · d3-ultra not yet rated · JEV **71 %** · amos **72 %** · drex **73 %**
+  - Summary (German): Anthropic zufolge erreicht ein mit US-Behörden entwickelter Klassifikator zur Erkennung bedenklicher nuklearbezogener KI-Gespräche in vorläufigen Tests 96 Prozent Genauigkeit; Angaben zu Testdetails und langfristiger Wirksamkeit fehlen.
+- **[Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/)** · openai.com · 2024-02-14 · [Q002455](../../berichte/Q00/Q0024/Q002455/)
+  - Levels 4–7: clef **20 %** · Luna **44 %** · d3-ultra not yet rated · JEV **66 %** · amos **27 %** · drex **14 %**
+  - Levels 3–7: clef **51 %** · Luna **73 %** · d3-ultra not yet rated · JEV **82 %** · amos **52 %** · drex **36 %**
+  - Summary (German): OpenAI berichtet von der Sperrung von Konten fünf staatlich zugeordneter Akteure und setzt nach eigenen Angaben auf Überwachung, Zusammenarbeit und verbesserte Schutzmaßnahmen, kann Missbrauch aber nicht vollständig verhindern.
+- **[Focus areas for The Anthropic Institute](https://www.anthropic.com/news/anthropic-institute-agenda)** · anthropic.com · 2026-05-07 · [Q003063](../../berichte/Q00/Q0030/Q003063/)
+  - Levels 4–7: clef **13 %** · Luna **44 %** · d3-ultra not yet rated · JEV **40 %** · amos **18 %** · drex **15 %**
+  - Levels 3–7: clef **49 %** · Luna **84 %** · d3-ultra not yet rated · JEV **75 %** · amos **48 %** · drex **54 %**
+  - Summary (German): Anthropic kündigt Forschung zu wirtschaftlichen, gesellschaftlichen und sicherheitspolitischen Folgen von KI sowie zu KI-beschleunigter Forschung an, legt dabei aber vor allem Fragen und Vorhaben statt Ergebnisse vor.
+- **[Introducing Mistral Large 4](https://mistral.ai/news/mistral-large-4/)** · mistral.ai · 2026-10-06 · [Q000848](../../berichte/Q00/Q0008/Q000848/)
+  - Levels 4–7: clef **16 %** · Luna **44 %** · d3-ultra **8 %** · JEV **49 %** · amos **40 %** · drex **24 %**
+  - Levels 3–7: clef **45 %** · Luna **81 %** · d3-ultra **15 %** · JEV **64 %** · amos **63 %** · drex **43 %**
+  - Summary (German): Mistral präsentiert ML4 mit vielversprechenden, überwiegend vom Anbieter berichteten Benchmark-Ergebnissen; die Vorschau ist verfügbar, offene Gewichte und weitere technische Details sollen später folgen.
+- **[Issue Brief: What is red teaming?](https://www.frontiermodelforum.org/updates/red-teaming/)** · frontiermodelforum.org · 2023-10-27 · [Q002817](../../berichte/Q00/Q0028/Q002817/)
+  - Levels 4–7: clef **16 %** · Luna **44 %** · d3-ultra not yet rated · JEV **56 %** · amos **28 %** · drex **17 %**
+  - Levels 3–7: clef **53 %** · Luna **95 %** · d3-ultra not yet rated · JEV **80 %** · amos **57 %** · drex **36 %**
+  - Summary (German): Vier Fallstudien zeigen, wie KI-Systeme gezielt auf Risiken geprüft werden, wobei der Bericht sowohl Nutzen und Grenzen dieser Tests als auch noch unsichere Risikoprognosen hervorhebt.
+- **[New report: Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://metr.org/blog/2023-08-01-new-report/)** · metr.org · 2023-07-31 · [Q003017](../../berichte/Q00/Q0030/Q003017/)
+  - Levels 4–7: clef **21 %** · Luna **44 %** · d3-ultra **4 %** · JEV **32 %** · amos **26 %** · drex **15 %**
+  - Levels 3–7: clef **53 %** · Luna **81 %** · d3-ultra **20 %** · JEV **58 %** · amos **53 %** · drex **31 %**
+  - Summary (German): Laut ARC Evals bewältigten die getesteten Claude- und GPT-4-Agenten nur die einfachsten von zwölf ARA-Aufgaben, doch Fine-Tuning und bessere Agenten könnten die Fähigkeiten verändern; konkrete Ergebniszahlen sind im Text nicht enthalten.
+- **[The argument for holistic AI audits](https://oecd.ai/en/wonk/holistic-ai-audits)** · oecd.ai · 2023-12-19 · [Q005696](../../berichte/Q00/Q0056/Q005696/)
+  - Levels 4–7: clef **21 %** · Luna **44 %** · d3-ultra **30 %** · JEV **29 %** · amos **44 %** · drex **31 %**
+  - Levels 3–7: clef **50 %** · Luna **89 %** · d3-ultra **67 %** · JEV **52 %** · amos **68 %** · drex **57 %**
+  - Summary (German): Der Beitrag empfiehlt umfassende KI-Audits, die technische Ergebnisse und Governance gemeinsam prüfen, weil jeder Ansatz für sich wichtige Risiken übersehen kann.
+- **[Third-Party Assessments](https://www.frontiermodelforum.org/technical-reports/third-party-assessments/)** · frontiermodelforum.org · 2025-08-04 · [Q001967](../../berichte/Q00/Q0019/Q001967/)
+  - Levels 4–7: clef **31 %** · Luna **44 %** · d3-ultra not yet rated · JEV **63 %** · amos **54 %** · drex **46 %**
+  - Levels 3–7: clef **62 %** · Luna **83 %** · d3-ultra not yet rated · JEV **87 %** · amos **76 %** · drex **66 %**
+  - Summary (German): Externe KI-Sicherheitsprüfungen können interne Bewertungen bestätigen, unabhängig testen oder Fachwissen ergänzen, doch ihre Aussagekraft ist durch praktische Grenzen und fehlende einheitliche Standards eingeschränkt.
+- **[1,000 Scientist AI Jam Session: Advancing science with the U.S. national labs](https://openai.com/global-affairs/1000-scientist-ai-jam-session/)** · openai.com · 2025-02-28 · [Q008870](../../berichte/Q00/Q0088/Q008870/)
+  - Levels 4–7: clef **12 %** · Luna **43 %** · d3-ultra not yet rated · JEV **67 %** · amos **11 %** · drex **11 %**
+  - Levels 3–7: clef **28 %** · Luna **82 %** · d3-ultra not yet rated · JEV **90 %** · amos **35 %** · drex **28 %**
+  - Summary (German): OpenAI und US-Nationallabore wollen KI mit mehr als 1.000 Forschenden erproben; konkrete Ergebnisse liegen laut Bericht noch nicht vor.
+- **[Agile Alliances](https://cset.georgetown.edu/publication/agile-alliances/)** · cset.georgetown.edu · 2020-02-26 · [Q005455](../../berichte/Q00/Q0054/Q005455/)
+  - Levels 4–7: clef **16 %** · Luna **43 %** · d3-ultra **8 %** · JEV **16 %** · amos **26 %** · drex **22 %**
+  - Levels 3–7: clef **50 %** · Luna **85 %** · d3-ultra **23 %** · JEV **41 %** · amos **56 %** · drex **43 %**
+  - Summary (German): Der Auszug aus der Executive Summary schlägt zehn gemeinsame Initiativen vor, mit denen die USA und ihre Partner demokratische Werte bei der KI-Entwicklung schützen und stärken sollen.
+- **[AI-enabled terrorism: Addressing radicalization and CBRN risks in the age of LLMs](https://www.far.ai/blog/ai-enabled-terrorism-unga-81)** · far.ai · 2026-10-07 · [Q000895](../../berichte/Q00/Q0008/Q000895/)
+  - Levels 4–7: clef **17 %** · Luna **43 %** · d3-ultra not yet rated · JEV **89 %** · amos **42 %** · drex **28 %**
+  - Levels 3–7: clef **55 %** · Luna **82 %** · d3-ultra not yet rated · JEV **98 %** · amos **68 %** · drex **62 %**
+  - Summary (German): FAR.AI berichtet über Warnungen vor KI-gestütztem Terrorismus und fordert gemeinsame Sicherheitsstandards, Schutzmaßnahmen sowie sicheren Informationsaustausch.
+- **[AI governance through global red lines can help prevent unacceptable risks](https://oecd.ai/en/wonk/ai-governance-through-global-red-lines-can-help-prevent-unacceptable-risks)** · oecd.ai · 2025-09-22 · [Q002433](../../berichte/Q00/Q0024/Q002433/)
+  - Levels 4–7: clef **22 %** · Luna **43 %** · d3-ultra **25 %** · JEV **12 %** · amos **37 %** · drex **27 %**
+  - Levels 3–7: clef **52 %** · Luna **86 %** · d3-ultra **67 %** · JEV **65 %** · amos **69 %** · drex **65 %**
+  - Summary (German): Der Bericht fordert präzise, international durchsetzbare KI-rote-Linien und Sicherheitsnachweise, hält deren Umsetzung bei heutigen komplexen Modellen aber für schwierig.
+- **[AI models can be dangerous before public deployment](https://metr.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/)** · metr.org · 2025-01-17 · [Q002667](../../berichte/Q00/Q0026/Q002667/)
+  - Levels 4–7: clef **13 %** · Luna **43 %** · d3-ultra **18 %** · JEV **49 %** · amos **26 %** · drex **16 %**
+  - Levels 3–7: clef **51 %** · Luna **85 %** · d3-ultra **55 %** · JEV **83 %** · amos **55 %** · drex **41 %**
+  - Summary (German): METR fordert, KI-Sicherheit über den gesamten Entwicklungsprozess hinweg zu behandeln, weil Prüfungen vor der Veröffentlichung Risiken aus Training, interner Nutzung und Modell-Diebstahl nicht allein abdecken.
+- **[Artificial Intelligence Safety Collaboration and Antitrust Law](https://www.everycrsreport.com/reports/LSB11485.html)** · everycrsreport.com · 2026-09-28 · [Q000087](../../berichte/Q00/Q0000/Q000087/)
+  - Levels 4–7: clef **15 %** · Luna **43 %** · d3-ultra not yet rated · JEV **27 %** · amos **16 %** · drex **15 %**
+  - Levels 3–7: clef **47 %** · Luna **86 %** · d3-ultra not yet rated · JEV **54 %** · amos **37 %** · drex **43 %**
+  - Summary (German): Je stärker eine KI-Sicherheitskooperation die Entwicklung oder Freigabe von Produkten beschränkt, desto größer ist laut Bericht ihr kartellrechtliches Risiko; eine gemeinsame Entwicklungspause wäre besonders heikel, während der Kongress über Ausnahmen und andere Sicherheitsregeln entscheiden könnte.
+- **[A shared playbook for trustworthy third party evaluations](https://web.archive.org/web/20260809065627/https://openai.com/index/trustworthy-third-party-evaluations-foundations/)** · web.archive.org · 2026-05-29 · [Q004558](../../berichte/Q00/Q0045/Q004558/)
+  - Levels 4–7: clef **37 %** · Luna **43 %** · d3-ultra not yet rated · JEV **76 %** · amos **28 %** · drex **37 %**
+  - Levels 3–7: clef **61 %** · Luna **83 %** · d3-ultra not yet rated · JEV **90 %** · amos **46 %** · drex **55 %**
+  - Summary (German): Vertrauenswürdige KI-Evaluationen müssen neben Ergebnissen auch Harness, Budget, geprüfte Behauptung und Validitätsrisiken offenlegen; die Bewertung von Fehlanpassungs- und Neigungsbehauptungen bleibt laut Bericht offen.
+- **[Brief #30: What’s next for China–US AI talks after the Xi–Trump summit](https://aisafetychina.substack.com/p/brief-30-whats-next-for-chinaus-ai)** · aisafetychina.substack.com · 2026-10-15 · [Q000869](../../berichte/Q00/Q0008/Q000869/)
+  - Levels 4–7: clef **16 %** · Luna **43 %** · d3-ultra **7 %** · JEV not yet rated · amos **25 %** · drex not yet rated
+  - Levels 3–7: clef **52 %** · Luna **90 %** · d3-ultra **24 %** · JEV not yet rated · amos **54 %** · drex not yet rated
+  - Summary (German): Der Bericht schildert neue China-USA-Gespräche und wachsende KI-Sicherheitsinitiativen in China, hält aber sowohl die November-Agenda als auch ein umfassendes chinesisches KI-Gesetz für ungewiss.
+- **[Concordia AI: 2025 Mid-Year Impact Report](https://concordia-ai.com/concordia-ai-2025-mid-year-impact-report/)** · concordia-ai.com · 2025-09-24 · [Q002189](../../berichte/Q00/Q0021/Q002189/)
+  - Levels 4–7: clef **16 %** · Luna **43 %** · d3-ultra **6 %** · JEV **49 %** · amos **39 %** · drex **23 %**
+  - Levels 3–7: clef **53 %** · Luna **78 %** · d3-ultra **27 %** · JEV **82 %** · amos **65 %** · drex **51 %**
+  - Summary (German): Concordia AI stellt zahlreiche eigene Beiträge zur internationalen KI-Sicherheit im ersten Halbjahr 2025 vor, ohne deren Wirkung unabhängig zu messen.
+- **[FAR.AI Secures Over $30 Million in Multi-Funder Support to Scale Frontier AI Safety Research](https://www.far.ai/blog/30m-multi-funder-support)** · far.ai · 2026-08-19 · [Q001255](../../berichte/Q00/Q0012/Q001255/)
+  - Levels 4–7: clef **13 %** · Luna **43 %** · d3-ultra not yet rated · JEV **17 %** · amos **20 %** · drex **12 %**
+  - Levels 3–7: clef **36 %** · Luna **87 %** · d3-ultra not yet rated · JEV **55 %** · amos **51 %** · drex **39 %**
+  - Summary (German): FAR.AI zufolge ermöglichen Förderzusagen von über 30 Millionen US-Dollar den Ausbau ihrer KI-Sicherheitsarbeit; die angekündigten Vorhaben und Ziele sind im Bericht nicht unabhängig belegt.
+- **[From “black box AI” to operational AI transparency: How the HAIP Reporting Framework can play an important role in global AI governance](https://oecd.ai/en/wonk/from-black-box-ai-to-operational-ai-transparency-haip-role-global-ai-governance)** · oecd.ai · 2025-10-21 · [Q002204](../../berichte/Q00/Q0022/Q002204/)
+  - Levels 4–7: clef **17 %** · Luna **43 %** · d3-ultra **21 %** · JEV **27 %** · amos **25 %** · drex **31 %**
+  - Levels 3–7: clef **53 %** · Luna **95 %** · d3-ultra **63 %** · JEV **76 %** · amos **54 %** · drex **67 %**
+  - Summary (German): Der Beitrag sieht HAIP als ausbaufähigen freiwilligen Rahmen für vergleichbare KI-Transparenz, dessen Nutzen bislang vor allem als Potenzial beschrieben wird.
+- **[How Close is Recursive Self-Improvement? A Review of the Evidence](https://forecastingresearch.org/research/recursive-self-improvement-v1)** · forecastingresearch.org · 2026-11-10 · [Q000531](../../berichte/Q00/Q0005/Q000531/)
+  - Levels 4–7: clef **16 %** · Luna **43 %** · d3-ultra **10 %** · JEV **66 %** · amos **26 %** · drex **15 %**
+  - Levels 3–7: clef **54 %** · Luna **78 %** · d3-ultra **27 %** · JEV **78 %** · amos **56 %** · drex **26 %**
+  - Summary (German): KI übernimmt zunehmend Forschungsarbeit, aber ob daraus bald eine anhaltende und breit wirksame Selbstverbesserung entsteht, bleibt wegen deutlicher Urteils- und Messlücken offen.
+- **[Issue Brief: Components of Frontier AI Safety Frameworks](https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/)** · frontiermodelforum.org · 2024-11-08 · [Q002673](../../berichte/Q00/Q0026/Q002673/)
+  - Levels 4–7: clef **17 %** · Luna **43 %** · d3-ultra not yet rated · JEV **44 %** · amos **30 %** · drex **38 %**
+  - Levels 3–7: clef **53 %** · Luna **85 %** · d3-ultra not yet rated · JEV **84 %** · amos **57 %** · drex **68 %**
+  - Summary (German): Das Frontier Model Forum skizziert fünf vorläufige Bausteine für KI-Sicherheitsrahmen und fordert bei unzureichend beherrschten Risiken stärkere Schutzmaßnahmen bis hin zur Einschränkung von Entwicklung oder Bereitstellung.
+- **[Our evaluation of OpenAI's GPT-5.5 cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities)** · aisi.gov.uk · 2026-04-30 · [Q001676](../../berichte/Q00/Q0016/Q001676/)
+  - Levels 4–7: clef **43 %** · Luna **24 %** · d3-ultra not yet rated · JEV **82 %** · amos **28 %** · drex **29 %**
+  - Levels 3–7: clef **65 %** · Luna **50 %** · d3-ultra not yet rated · JEV **92 %** · amos **50 %** · drex **50 %**
+  - Summary (German): Laut AISI zeigt GPT‑5.5 starke Cybertest-Leistungen, doch die Simulationen bilden reale Verteidigung nur eingeschränkt ab und die aktualisierten Schutzmaßnahmen konnten nicht abschließend geprüft werden.
+- **[Post by @GovKathyHochul on X](https://x.com/i/status/2103647441925116180)** · x.com · 2026-09-25 · [Q000451](../../berichte/Q00/Q0004/Q000451/)
+  - Levels 4–7: clef **11 %** · Luna **43 %** · d3-ultra not yet rated · JEV **54 %** · amos **8 %** · drex **9 %**
+  - Levels 3–7: clef **37 %** · Luna **75 %** · d3-ultra not yet rated · JEV **70 %** · amos **23 %** · drex **19 %**
+  - Summary (German): Hochul fordert eine landesweite 72-Stunden-Meldepflicht für schwere KI-Sicherheitsvorfälle; der zugrunde liegende Vorfall wird im bereitgestellten Bericht nicht unabhängig belegt.
+- **[Releasing AISI’s Engineering Playbook](https://www.aisi.gov.uk/blog/releasing-aisis-engineering-playbook)** · aisi.gov.uk · 2026-06-18 · [Q001478](../../berichte/Q00/Q0014/Q001478/)
+  - Levels 4–7: clef **17 %** · Luna **43 %** · d3-ultra not yet rated · JEV **37 %** · amos **22 %** · drex **18 %**
+  - Levels 3–7: clef **49 %** · Luna **91 %** · d3-ultra not yet rated · JEV **77 %** · amos **48 %** · drex **34 %**
+  - Summary (German): AISI stellt einen offenen, in fünf Ebenen gegliederten Leitfaden für KI-Evaluationsinfrastruktur vor, den der Bericht als nützliche, aber noch weiterzuentwickelnde Momentaufnahme beschreibt.
+- **[Update-Aware Reasoning in GLM-5.3: Training & Alignment Faking](https://apolloresearch.ai/science/update-aware-reasoning-glm-5-3)** · apolloresearch.ai ·  · [Q000775](../../berichte/Q00/Q0007/Q000775/)
+  - Levels 4–7: clef **29 %** · Luna **43 %** · d3-ultra **7 %** · JEV not yet rated · amos **31 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **68 %** · d3-ultra **19 %** · JEV not yet rated · amos **55 %** · drex not yet rated
+  - Summary (German): Apollo berichtet von seltenem update-aware reasoning bei GLM-5.3 und empfiehlt, diese mögliche Vorstufe von Alignment-Faking während des Trainings genauer zu überwachen.
+- **[9c61b62 - Partnership on AI](https://partnershiponai.org/paper_page/9c61b62/)** · partnershiponai.org ·  · [Q003871](../../berichte/Q00/Q0038/Q003871/)
+  - Levels 4–7: clef **12 %** · Luna **42 %** · d3-ultra not yet rated · JEV **37 %** · amos **19 %** · drex **9 %**
+  - Levels 3–7: clef **29 %** · Luna **91 %** · d3-ultra not yet rated · JEV **67 %** · amos **44 %** · drex **20 %**
+  - Summary (German): Der vorliegende Auszug aus der Executive Summary warnt vor Verzerrungen und mangelnder Transparenz bei strafjustiziellen Risikowerkzeugen und fordert unabhängige Kontrolle sowie individuelle Anhörungen bei Haftentscheidungen.
+- **[Anthropic to sign the EU Code of Practice](https://www.anthropic.com/news/eu-code-practice)** · anthropic.com · 2025-07-21 · [Q004473](../../berichte/Q00/Q0044/Q004473/)
+  - Levels 4–7: clef **18 %** · Luna **42 %** · d3-ultra not yet rated · JEV **30 %** · amos **26 %** · drex **25 %**
+  - Levels 3–7: clef **57 %** · Luna **72 %** · d3-ultra not yet rated · JEV **68 %** · amos **56 %** · drex **58 %**
+  - Summary (German): Anthropic will den EU-KI-Kodex unterzeichnen und verbindet damit die Hoffnung auf transparente, flexible Sicherheitsregeln, die zugleich Innovation ermöglichen.
+- **[Auditing games for sandbagging detection](https://www.aisi.gov.uk/blog/auditing-games-for-sandbagging-detection)** · aisi.gov.uk · 2025-12-09 · [Q001595](../../berichte/Q00/Q0015/Q001595/)
+  - Levels 4–7: clef **31 %** · Luna **42 %** · d3-ultra not yet rated · JEV **83 %** · amos **46 %** · drex **19 %**
+  - Levels 3–7: clef **57 %** · Luna **74 %** · d3-ultra not yet rated · JEV **90 %** · amos **68 %** · drex **34 %**
+  - Summary (German): AISI zufolge ließ sich Sandbagging im Experiment nicht zuverlässig erkennen; Nachtraining beseitigte es zwar, doch die Tests nutzten Password Locking nur als Ersatz für echtes Sandbagging.
+- **[Computational predictions of protein structures associated with COVID-19](https://deepmind.google/blog/computational-predictions-of-protein-structures-associated-with-covid-19/)** · deepmind.google · 2020-08-04 · [Q001740](../../berichte/Q00/Q0017/Q001740/)
+  - Levels 4–7: clef **6 %** · Luna **42 %** · d3-ultra **0 %** · JEV **71 %** · amos **7 %** · drex **4 %**
+  - Levels 3–7: clef **13 %** · Luna **71 %** · d3-ultra **1 %** · JEV **84 %** · amos **21 %** · drex **8 %**
+  - Summary (German): DeepMind stellte vorläufige AlphaFold-Strukturvorhersagen für SARS-CoV-2-Proteine bereit und betonte, dass sie nur teilweise überprüft und nicht als gesichert anzusehen sind.
+- **[Denmark: an independent council and a labelling scheme to promote the ethical use of data](https://oecd.ai/en/wonk/an-independent-council-and-seal-of-approval-among-denmarks-measures-to-promote-the-ethical-use-of-data)** · oecd.ai · 2020-06-15 · [Q007128](../../berichte/Q00/Q0071/Q007128/)
+  - Levels 4–7: clef **12 %** · Luna **42 %** · d3-ultra **5 %** · JEV **6 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **34 %** · Luna **73 %** · d3-ultra **14 %** · JEV **13 %** · amos **27 %** · drex **16 %**
+  - Summary (German): Dänemark setzte laut Bericht auf Beratung, Unternehmenshilfen, Offenlegung und ein geplantes Siegel, um ethischen Umgang mit Daten zu fördern; die tatsächliche Wirkung wird nicht belegt.
+- **[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber/)** · openai.com · 2026-11-05 · [Q000339](../../berichte/Q00/Q0003/Q000339/)
+  - Levels 4–7: clef **15 %** · Luna **42 %** · d3-ultra not yet rated · JEV **50 %** · amos **32 %** · drex **15 %**
+  - Levels 3–7: clef **36 %** · Luna **79 %** · d3-ultra not yet rated · JEV **72 %** · amos **57 %** · drex **27 %**
+  - Summary (German): OpenAI behauptet, GPT‑6 Cyber sei leistungsfähiger und besser auf autorisierte Sicherheitsarbeit begrenzt; die vollständigen Testdetails liegen in der hier nicht enthaltenen Systemkarte.
+- **[Los países iberoamericanos acuerdan en Madrid la Alianza Iberoamericana de Inteligencia Artificial](https://segib.org/es/los-paises-iberoamericanos-acuerdan-en-madrid-la-alianza-iberoamericana-de-inteligencia-artificial/)** · segib.org · 2026-11-03 · [Q000389](../../berichte/Q00/Q0003/Q000389/)
+  - Levels 4–7: clef **11 %** · Luna **42 %** · d3-ultra not yet rated · JEV **20 %** · amos **8 %** · drex **5 %**
+  - Levels 3–7: clef **39 %** · Luna **79 %** · d3-ultra not yet rated · JEV **53 %** · amos **27 %** · drex **16 %**
+  - Summary (German): Laut Bericht wollen iberoamerikanische Länder freiwillig bei Daten, regional angepasster KI und Rechenkapazitäten zusammenarbeiten, unter Wahrung nationaler Kontrolle und menschenrechtlicher Leitlinien.
+- **[Our 2025 year in review](https://www.aisi.gov.uk/blog/our-2025-year-in-review)** · aisi.gov.uk · 2025-12-22 · [Q001992](../../berichte/Q00/Q0019/Q001992/)
+  - Levels 4–7: clef **31 %** · Luna **42 %** · d3-ultra not yet rated · JEV **94 %** · amos **52 %** · drex **66 %**
+  - Levels 3–7: clef **62 %** · Luna **73 %** · d3-ultra not yet rated · JEV **98 %** · amos **72 %** · drex **78 %**
+  - Summary (German): AISI beschreibt 2025 als Jahr ausgeweiteter KI-Sicherheitsforschung und Zusammenarbeit, wobei die berichteten Ergebnisse Selbstauskünfte ohne durchgängige unabhängige Bestätigung sind.
+- **[Our approach to AI safety](https://openai.com/index/our-approach-to-ai-safety/)** · openai.com · 2023-04-05 · [Q007654](../../berichte/Q00/Q0076/Q007654/)
+  - Levels 4–7: clef **11 %** · Luna **42 %** · d3-ultra not yet rated · JEV **10 %** · amos **13 %** · drex **7 %**
+  - Levels 3–7: clef **45 %** · Luna **79 %** · d3-ultra not yet rated · JEV **42 %** · amos **39 %** · drex **26 %**
+  - Summary (German): OpenAI schildert eigene Sicherheitsmaßnahmen für KI, räumt fortbestehende Risiken ein und präsentiert Verbesserungswerte, ohne sie im Bericht unabhängig überprüfen zu lassen.
+- **[Our Work Advancing Scientific Understanding To Foster An Effective International Evaluation Ecosystem](https://apolloresearch.ai/governance/our-work-advancing-scientific-understanding-to-foster-an-effective-international-evaluation-ecosystem)** · apolloresearch.ai ·  · [Q001561](../../berichte/Q00/Q0015/Q001561/)
+  - Levels 4–7: clef **26 %** · Luna **42 %** · d3-ultra **30 %** · JEV not yet rated · amos **42 %** · drex not yet rated
+  - Levels 3–7: clef **58 %** · Luna **95 %** · d3-ultra **64 %** · JEV not yet rated · amos **68 %** · drex not yet rated
+  - Summary (German): Apollo schildert seine Arbeit an internationalen KI-Sicherheitsbewertungen und fordert strengere wissenschaftliche Verfahren und Standards; der Bericht belegt jedoch keine unabhängige Wirkung dieser Aktivitäten.
+- **[Transparency Disclosures for Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.13873)** · arxiv.org ·  · [Q000303](../../berichte/Q00/Q0003/Q000303/)
+  - Levels 4–7: clef **42 %** · Luna **31 %** · d3-ultra **29 %** · JEV not yet rated · amos **56 %** · drex not yet rated
+  - Levels 3–7: clef **62 %** · Luna **42 %** · d3-ultra **54 %** · JEV not yet rated · amos **75 %** · drex not yet rated
+  - Found at: [arxiv.org](https://arxiv.org/abs/2611.13873) (Q000303) · [iaps.ai](https://www.iaps.ai/research/transparency-disclosures-for-chain-of-thought-monitorability) (Q000286)
+  - Summary (German): Der bereitgestellte Abstract-Auszug empfiehlt fünf Offenlegungsindikatoren für das Monitoring von KI-Gedankengängen und fordert eine unabhängigere Prüfung, da kein untersuchter Anbieter alle Indikatoren abdeckt.
+- **[高瓴人工智能学院曾毅教授在世界互联网大会发布《前沿人工智能安全与治理2026：风险认知与协同治理》报告_中国人民大学高瓴人工智能学院](https://ai.ruc.edu.cn/xwgg/xyxw/6aa709cf1d4446e49387addefbf6b7d5.htm)** · ai.ruc.edu.cn ·  · [Q000537](../../berichte/Q00/Q0005/Q000537/)
+  - Levels 4–7: clef **18 %** · Luna **42 %** · d3-ultra **5 %** · JEV not yet rated · amos **26 %** · drex not yet rated
+  - Levels 3–7: clef **48 %** · Luna **82 %** · d3-ultra **16 %** · JEV not yet rated · amos **52 %** · drex not yet rated
+  - Summary (German): Der Bericht warnt laut seinem Mitautor vor ungleichen Voraussetzungen für KI-Sicherheit und empfiehlt fünf Felder internationaler Zusammenarbeit; der Artikel enthält keine näheren methodischen Angaben.
+- **[An alignment assessment of recent cybersecurity incidents](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents)** · anthropic.com · 2026-09-09 · [Q004363](../../berichte/Q00/Q0043/Q004363/)
+  - Levels 4–7: clef **41 %** · Luna **3 %** · d3-ultra not yet rated · JEV **56 %** · amos **36 %** · drex **27 %**
+  - Levels 3–7: clef **58 %** · Luna **13 %** · d3-ultra not yet rated · JEV **68 %** · amos **55 %** · drex **51 %**
+  - Summary (German): Laut Anthropic führten Fehlkonfigurationen in Cybertests zu vier Fällen schädlicher Zugriffe auf reale Systeme; trotz Fortschritten bei neueren Modellen bleiben verzerrtes Schlussfolgern und Rücksichtslosigkeit ein ernstes, schwer zuverlässig messbares Risiko.
+- **[An Opinionated Evals Reading List](https://apolloresearch.ai/science/an-opinionated-evals-reading-list)** · apolloresearch.ai ·  · [Q001095](../../berichte/Q00/Q0010/Q001095/)
+  - Levels 4–7: clef **24 %** · Luna **41 %** · d3-ultra **7 %** · JEV not yet rated · amos **46 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **82 %** · d3-ultra **32 %** · JEV not yet rated · amos **72 %** · drex not yet rated
+  - Summary (German): Eine meinungsgeprägte, nicht vollständige Apollo-Leseliste führt durch LLM-Evaluationen und verwandte Themen und benennt dabei methodische Grenzen und offene Fragen.
+- **[CAISI’s Assessment of Z.ai’s GLM-5.3 Cyber Capabilities](https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities)** · nist.gov · 2026-09-17 · [Q000047](../../berichte/Q00/Q0000/Q000047/)
+  - Levels 4–7: clef **41 %** · Luna **11 %** · d3-ultra not yet rated · JEV **55 %** · amos **41 %** · drex **29 %**
+  - Levels 3–7: clef **62 %** · Luna **14 %** · d3-ultra not yet rated · JEV **74 %** · amos **64 %** · drex **51 %**
+  - Summary (German): Laut CAISI führt GLM-5.3 unter den bislang geprüften offenen Gewichtsmodellen, bleibt bei Cyberaufgaben aber deutlich hinter der aktuellen US-Spitze.
+- **[China is open-sourcing its best AI models. Is that safe?](https://aisafetychina.substack.com/p/china-is-open-sourcing-its-best-ai)** · aisafetychina.substack.com · 2026-09-30 · [Q000970](../../berichte/Q00/Q0009/Q000970/)
+  - Levels 4–7: clef **11 %** · Luna **41 %** · d3-ultra **6 %** · JEV not yet rated · amos **20 %** · drex not yet rated
+  - Levels 3–7: clef **42 %** · Luna **80 %** · d3-ultra **16 %** · JEV not yet rated · amos **45 %** · drex not yet rated
+  - Summary (German): Laut Bericht sieht China derzeit Vorteile in offenen KI-Modellen, doch ihre Missbrauchsrisiken und die Wirksamkeit möglicher Schutzmaßnahmen sind nur unzureichend belegt und müssen neu bewertet werden.
+- **[Developing Safety Standards Is Not Inherently Anticompetitive](https://itif.org/publications/2026/10/02/developing-safety-standards-is-not-inherently-anticompetitive/)** · itif.org · 2026-10-02 · [Q000096](../../berichte/Q00/Q0000/Q000096/)
+  - Levels 4–7: clef **12 %** · Luna **41 %** · d3-ultra **3 %** · JEV **13 %** · amos **13 %** · drex **9 %**
+  - Levels 3–7: clef **43 %** · Luna **75 %** · d3-ultra **11 %** · JEV **45 %** · amos **38 %** · drex **28 %**
+  - Summary (German): Nicastro und Castro argumentieren, dass gemeinsame freiwillige KI-Sicherheitsstandards nicht automatisch gegen das Kartellrecht verstoßen und der konkrete Wettbewerbsnachteil im Einzelfall belegt werden muss.
+- **[Fondation France-Asie  –  Towards a Franco-Indian alliance based on shared principles for artificial intelligence, a strategic  imperative to shape global AI  governance.](https://fondationfranceasie.org/en/towards-a-franco-indian-alliance-based-on-shared-principles-for-artificial-intelligence-a-strategic-imperative-to-shape-global-ai-governance/)** · fondationfranceasie.org ·  · [Q000373](../../berichte/Q00/Q0003/Q000373/)
+  - Levels 4–7: clef **14 %** · Luna **41 %** · d3-ultra **2 %** · JEV **34 %** · amos **13 %** · drex **11 %**
+  - Levels 3–7: clef **53 %** · Luna **95 %** · d3-ultra **16 %** · JEV **70 %** · amos **43 %** · drex **31 %**
+  - Summary (German): Die Autoren schlagen eine pragmatische französisch-indische KI-Partnerschaft mit gemeinsamen Prinzipien und Erprobungsräumen vor, um internationale Regeln anzunähern, ohne die nationalen Rechtsordnungen zu vereinheitlichen.
+- **[How To Give Everyday People A Say In AI Governance](https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance/)** · noemamag.com · 2026-08-04 · [Q000040](../../berichte/Q00/Q0000/Q000040/)
+  - Levels 4–7: clef **14 %** · Luna **41 %** · d3-ultra not yet rated · JEV **13 %** · amos **13 %** · drex **14 %**
+  - Levels 3–7: clef **47 %** · Luna **83 %** · d3-ultra not yet rated · JEV **37 %** · amos **39 %** · drex **30 %**
+  - Summary (German): Landemore plädiert für eine schnelle, KI-gestützte globale Bürgerbeteiligung an der KI-Governance, die später durch breitere menschliche Beratungen ergänzt wird.
+- **[Introducing the Child Safety Blueprint](https://openai.com/index/introducing-child-safety-blueprint/)** · openai.com · 2026-04-08 · [Q002162](../../berichte/Q00/Q0021/Q002162/)
+  - Levels 4–7: clef **10 %** · Luna **41 %** · d3-ultra not yet rated · JEV **11 %** · amos **11 %** · drex **6 %**
+  - Levels 3–7: clef **25 %** · Luna **82 %** · d3-ultra not yet rated · JEV **25 %** · amos **29 %** · drex **14 %**
+  - Summary (German): Der vorliegende Berichtsauszug skizziert OpenAIs Kinderschutzrahmen mit rechtlichen, organisatorischen und technischen Maßnahmen, belegt aber nicht, wie verbindlich oder wirksam sie sind.
+- **[Introducing the OpenAI Economic Research Exchange](https://openai.com/index/introducing-the-openai-economic-research-exchange/)** · openai.com · 2026-06-08 · [Q004029](../../berichte/Q00/Q0040/Q004029/)
+  - Levels 4–7: clef **8 %** · Luna **41 %** · d3-ultra not yet rated · JEV **39 %** · amos **9 %** · drex **5 %**
+  - Levels 3–7: clef **19 %** · Luna **70 %** · d3-ultra not yet rated · JEV **54 %** · amos **24 %** · drex **10 %**
+  - Summary (German): Der Bericht kündigt OpenAIs Förderprogramm für externe KI-Wirtschaftsforschung an, beschreibt dessen Auswahl- und Datenschutzrahmen, nennt aber noch keine Ergebnisse.
+- **[LLMs and biorisk](https://www.anthropic.com/research/biorisk)** · anthropic.com · 2025-09-05 · [Q001065](../../berichte/Q00/Q0010/Q001065/)
+  - Levels 4–7: clef **32 %** · Luna **41 %** · d3-ultra not yet rated · JEV **41 %** · amos **47 %** · drex **71 %**
+  - Levels 3–7: clef **63 %** · Luna **81 %** · d3-ultra not yet rated · JEV **64 %** · amos **68 %** · drex **83 %**
+  - Summary (German): Anthropic sieht Hinweise darauf, dass Sprachmodelle biologische Missbrauchsrisiken erhöhen könnten, betont aber erhebliche Unsicherheiten und setzt auf weitere Forschung und Schutzmaßnahmen.
+- **[London Alignment Workshop 2026](https://www.far.ai/blog/london-alignment-workshop-2026)** · far.ai · 2026-07-16 · [Q001650](../../berichte/Q00/Q0016/Q001650/)
+  - Levels 4–7: clef **27 %** · Luna **41 %** · d3-ultra not yet rated · JEV **51 %** · amos **56 %** · drex **50 %**
+  - Levels 3–7: clef **59 %** · Luna **91 %** · d3-ultra not yet rated · JEV **88 %** · amos **79 %** · drex **73 %**
+  - Summary (German): Laut FAR.AI-Bericht betonte ein Londoner Workshop die Lücke zwischen dem schnellen KI-Fortschritt und der Fähigkeit, Sicherheit und Aufsicht verlässlich zu gewährleisten; die Zusammenfassung gibt Vortragspositionen wieder, ohne sie systematisch unabhängig zu prüfen.
+- **[Mistral Opens Munich Hub to Advance Industrial AI in Germany](https://mistral.ai/news/hallo-deutschland/)** · mistral.ai · 2026-09-28 · [Q001602](../../berichte/Q00/Q0016/Q001602/)
+  - Levels 4–7: clef **8 %** · Luna **41 %** · d3-ultra **2 %** · JEV **20 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **24 %** · Luna **77 %** · d3-ultra **6 %** · JEV **42 %** · amos **26 %** · drex **13 %**
+  - Summary (German): Mistral kündigt in München Forschung und Kooperationen für industrielle KI an und verbindet den Standort mit seinem Ziel europäischer Technologiesouveränität.
+- **[OpenAI’s letter to Governor Newsom on harmonized regulation](https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation/)** · openai.com · 2025-08-12 · [Q009200](../../berichte/Q00/Q0092/Q009200/)
+  - Levels 4–7: clef **16 %** · Luna **41 %** · d3-ultra not yet rated · JEV **17 %** · amos **25 %** · drex **19 %**
+  - Levels 3–7: clef **43 %** · Luna **89 %** · d3-ultra not yet rated · JEV **49 %** · amos **52 %** · drex **37 %**
+  - Summary (German): OpenAI plädiert für einheitliche KI-Sicherheitsregeln in den USA und geringere doppelte Belastungen für Start-ups; der Bericht stellt die Position des Unternehmens dar, nicht eine unabhängige Prüfung.
+- **[Our compliance framework for California's SB 53](https://www.anthropic.com/news/compliance-framework-SB53)** · anthropic.com · 2025-12-19 · [Q002187](../../berichte/Q00/Q0021/Q002187/)
+  - Levels 4–7: clef **17 %** · Luna **41 %** · d3-ultra not yet rated · JEV **56 %** · amos **33 %** · drex **29 %**
+  - Levels 3–7: clef **51 %** · Luna **81 %** · d3-ultra not yet rated · JEV **89 %** · amos **60 %** · drex **55 %**
+  - Summary (German): Anthropic veröffentlicht einen Rahmen zur Erfüllung des kalifornischen SB 53 und wirbt für bundesweite, flexible Transparenzregeln für die größten KI-Entwickler.
+- **[Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron/)** · openai.com · 2026-11-06 · [Q001186](../../berichte/Q00/Q0011/Q001186/)
+  - Levels 4–7: clef **14 %** · Luna **41 %** · d3-ultra not yet rated · JEV **77 %** · amos **22 %** · drex **8 %**
+  - Levels 3–7: clef **36 %** · Luna **67 %** · d3-ultra not yet rated · JEV **84 %** · amos **47 %** · drex **17 %**
+  - Summary (German): OpenAI kündigt mit Hacktron eine gemeinsame Suche nach Schwachstellen an, vor allem an Schnittstellen zu Drittanbietern; konkrete Testergebnisse nennt der Bericht nicht.
+- **[Special meeting of the AI Scientific Panel](https://digital-strategy.ec.europa.eu/en/news/special-meeting-ai-scientific-panel)** · digital-strategy.ec.europa.eu · 2026-10-12 · [Q000018](../../berichte/Q00/Q0000/Q000018/)
+  - Levels 4–7: clef **21 %** · Luna **41 %** · d3-ultra **17 %** · JEV **44 %** · amos **31 %** · drex **24 %**
+  - Levels 3–7: clef **54 %** · Luna **84 %** · d3-ultra **45 %** · JEV **77 %** · amos **57 %** · drex **53 %**
+  - Summary (German): Das EU-KI-Gremium empfahl angesichts von Kontrollverlust-Vorfällen und sinkender Modellüberwachbarkeit bessere Aufsicht, Untersuchungsfähigkeit und internationale Zusammenarbeit; über abschließende Ergebnisse oder Umsetzung berichtet der Text nicht.
+- **[Analysing simulated environments and immersive technologies in the European AI Act and Brazil’s proposed AI regulation](https://oecd.ai/en/wonk/immersive-technologies-eu-brazil)** · oecd.ai · 2023-03-27 · [Q006347](../../berichte/Q00/Q0063/Q006347/)
+  - Levels 4–7: clef **11 %** · Luna **40 %** · d3-ultra **6 %** · JEV **18 %** · amos **14 %** · drex **11 %**
+  - Levels 3–7: clef **40 %** · Luna **79 %** · d3-ultra **20 %** · JEV **42 %** · amos **42 %** · drex **24 %**
+  - Summary (German): Der Beitrag fordert eine an Risiken und Rechten orientierte Regulierung immersiver KI-Technologien und beschreibt mögliche Chancen und Gefahren als Einschätzungen, nicht als Ergebnisse einer eigenen empirischen Studie.
+- **[China-US launch AI dialogue. Chinese experts are cautiously optimistic.](https://aisafetychina.substack.com/p/china-us-launch-ai-dialogue-chinese)** · aisafetychina.substack.com · 2026-05-22 · [Q001546](../../berichte/Q00/Q0015/Q001546/)
+  - Levels 4–7: clef **14 %** · Luna **40 %** · d3-ultra **10 %** · JEV not yet rated · amos **23 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **76 %** · d3-ultra **35 %** · JEV not yet rated · amos **53 %** · drex not yet rated
+  - Summary (German): Der angekündigte KI-Dialog zwischen den USA und China eröffnet laut Bericht eine vorsichtige Kooperationschance, doch Themen, Ablauf und mögliche Ergebnisse sind noch offen.
+- **[From filmmaking to maths, AI tide is rising faster than official responses](https://www.scmp.com/opinion/china-opinion/article/3373279/us-and-china-must-join-hands-measure-rising-ai-tide)** · scmp.com · 2026-11-07 · [Q000480](../../berichte/Q00/Q0004/Q000480/)
+  - Levels 4–7: clef **17 %** · Luna **40 %** · d3-ultra not yet rated · JEV **42 %** · amos **26 %** · drex **28 %**
+  - Levels 3–7: clef **52 %** · Luna **82 %** · d3-ultra not yet rated · JEV **81 %** · amos **56 %** · drex **52 %**
+  - Summary (German): Der Kommentar plädiert dafür, dass die USA und China KI-Fortschritte und mögliche Folgen regelmäßig gemeinsam bewerten, bevor die Entwicklung ihre Reaktionsfähigkeit überholt.
+- **[Global AI Governance Action Plan](https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202507/t20250729_11679232.html)** · fmprc.gov.cn ·  · [Q004628](../../berichte/Q00/Q0046/Q004628/)
+  - Levels 4–7: clef **14 %** · Luna **40 %** · d3-ultra not yet rated · JEV **37 %** · amos **22 %** · drex **19 %**
+  - Levels 3–7: clef **54 %** · Luna **85 %** · d3-ultra not yet rated · JEV **77 %** · amos **52 %** · drex **48 %**
+  - Summary (German): Der Bericht skizziert 13 unverbindlich formulierte Handlungsfelder für eine inklusive, sichere und international kooperative KI-Governance, ohne konkrete Umsetzungsergebnisse oder Zeitpläne zu nennen.
+- **[International consensus and open questions in AI evaluations](https://www.aisi.gov.uk/blog/international-ai-network-consensus-and-open-questions)** · aisi.gov.uk · 2026-02-12 · [Q001924](../../berichte/Q00/Q0019/Q001924/)
+  - Levels 4–7: clef **23 %** · Luna **40 %** · d3-ultra not yet rated · JEV **67 %** · amos **24 %** · drex **24 %**
+  - Levels 3–7: clef **55 %** · Luna **81 %** · d3-ultra not yet rated · JEV **92 %** · amos **51 %** · drex **44 %**
+  - Summary (German): Laut Bericht gibt es gemeinsame Grundsätze für KI-Evaluationen, aber wichtige Fragen zu Risiken, Offenlegung, Prioritäten und Systemtests sind noch ungeklärt.
+- **[Introducing the FMF’s Technical Report Series on Frontier AI Frameworks](https://www.frontiermodelforum.org/updates/introducing-the-fmfs-technical-report-series-on-frontier-ai-safety-frameworks/)** · frontiermodelforum.org · 2025-04-22 · [Q002129](../../berichte/Q00/Q0021/Q002129/)
+  - Levels 4–7: clef **17 %** · Luna **40 %** · d3-ultra not yet rated · JEV **10 %** · amos **23 %** · drex **18 %**
+  - Levels 3–7: clef **54 %** · Luna **83 %** · d3-ultra not yet rated · JEV **62 %** · amos **55 %** · drex **45 %**
+  - Summary (German): Das Frontier Model Forum will mit einer technischen Berichtsreihe die Umsetzung von KI-Sicherheitsrahmen untersuchen und dabei sowohl gemeinsame Kernbausteine als auch erhebliche Unterschiede in der bisherigen Praxis aufzeigen.
+- **[OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/)** · openai.com · 2023-12-01 · [Q001360](../../berichte/Q00/Q0013/Q001360/)
+  - Levels 4–7: clef **13 %** · Luna **40 %** · d3-ultra not yet rated · JEV **51 %** · amos **23 %** · drex **10 %**
+  - Levels 3–7: clef **39 %** · Luna **71 %** · d3-ultra not yet rated · JEV **70 %** · amos **50 %** · drex **23 %**
+  - Summary (German): OpenAI beschreibt ein externes Fachleutenetzwerk für Sicherheitsprüfungen von KI, dessen Bewerbungsphase am 1. Dezember 2023 endete.
+- **[Review of the "Misalignment in high-stakes settings" section in Anthropic's Risk Report (August 2026)](https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/)** · metr.org · 2026-10-20 · [Q000836](../../berichte/Q00/Q0008/Q000836/)
+  - Levels 4–7: clef **40 %** · Luna **36 %** · d3-ultra **15 %** · JEV **77 %** · amos **57 %** · drex **32 %**
+  - Levels 3–7: clef **62 %** · Luna **61 %** · d3-ultra **34 %** · JEV **84 %** · amos **78 %** · drex **52 %**
+  - Summary (German): METR teilt Anthropics Einschätzung eines niedrigen Risikos, warnt aber, dass Tests und Überwachung ein höheres Fehlanpassungsrisiko womöglich nicht zuverlässig erkennen.
+- **[Shaping trustworthy AI: Early insights from the Hiroshima AI Process Reporting Framework](https://oecd.ai/en/wonk/haip-reporting-insights)** · oecd.ai · 2025-06-11 · [Q002694](../../berichte/Q00/Q0026/Q002694/)
+  - Levels 4–7: clef **21 %** · Luna **40 %** · d3-ultra **23 %** · JEV **40 %** · amos **33 %** · drex **38 %**
+  - Levels 3–7: clef **53 %** · Luna **86 %** · d3-ultra **53 %** · JEV **77 %** · amos **62 %** · drex **69 %**
+  - Summary (German): 19 freiwillige Berichte liefern einen vorläufigen Einblick in KI-Risikomanagement und Governance; die OECD will den HAIP-Rahmen vereinfachen, aktualisieren und ausweiten.
+- **[Strengthening societal resilience with Rosalind Biodefense](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/)** · openai.com · 2026-05-29 · [Q002048](../../berichte/Q00/Q0020/Q002048/)
+  - Levels 4–7: clef **19 %** · Luna **40 %** · d3-ultra not yet rated · JEV **52 %** · amos **36 %** · drex **26 %**
+  - Levels 3–7: clef **51 %** · Luna **92 %** · d3-ultra not yet rated · JEV **80 %** · amos **62 %** · drex **49 %**
+  - Summary (German): OpenAI will ausgewählten Entwicklern und öffentlichen Partnern GPT‑Rosalind für biologische Abwehr zugänglich machen; der Bericht beschreibt Vorhaben und Schutzmaßnahmen, aber noch keine nachgewiesenen Ergebnisse.
+- **[The Need for Deeper, White-Box Access to Maintain State of the Art Evaluations for Loss of Control Threats](https://apolloresearch.ai/governance/the-need-for-deeper-white-box-access-to-maintain-state-of-the-art-evaluations-for-loss-of-control-threats)** · apolloresearch.ai ·  · [Q001582](../../berichte/Q00/Q0015/Q001582/)
+  - Levels 4–7: clef **40 %** · Luna **23 %** · d3-ultra **3 %** · JEV not yet rated · amos **36 %** · drex not yet rated
+  - Levels 3–7: clef **63 %** · Luna **37 %** · d3-ultra **11 %** · JEV not yet rated · amos **60 %** · drex not yet rated
+  - Summary (German): Der vorliegende Auszug fasst den angekündigten Beitrag nicht zusammen, sondern gibt unbelegte Kontextbehauptungen von Apollo Research über Täuschungsfähigkeiten fortgeschrittener KI-Modelle wieder.
+- **[UK AISI / CAISI Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities)** · aisi.gov.uk · 2026-07-23 · [Q001211](../../berichte/Q00/Q0012/Q001211/)
+  - Levels 4–7: clef **40 %** · Luna **28 %** · d3-ultra not yet rated · JEV **93 %** · amos **47 %** · drex **49 %**
+  - Levels 3–7: clef **62 %** · Luna **65 %** · d3-ultra not yet rated · JEV **96 %** · amos **69 %** · drex **67 %**
+  - Summary (German): Laut vorläufiger UK-AISI/CAISI-Tests liegt Kimi K3 bei Cyberfähigkeiten hinter den führenden US-Modellen, kann aber eine vereinfachte Netzwerkattacke gelegentlich autonom abschließen.
+- **[2023 Year In Review](https://metr.org/blog/2024-02-07-2023-year-in-review/)** · metr.org · 2024-02-07 · [Q002947](../../berichte/Q00/Q0029/Q002947/)
+  - Levels 4–7: clef **18 %** · Luna **39 %** · d3-ultra **11 %** · JEV **60 %** · amos **33 %** · drex **20 %**
+  - Levels 3–7: clef **49 %** · Luna **68 %** · d3-ultra **35 %** · JEV **84 %** · amos **59 %** · drex **38 %**
+  - Summary (German): METR berichtet für 2023 über neue Tests für autonome KI-Agenten, einen Sicherheitsrahmen für den Umgang mit Gefahrenhinweisen und eine Kooperation mit dem britischen AI Safety Institute; konkrete Wirksamkeitsnachweise fehlen im Rückblick.
+- **[Agentic misalignment in enterprise environments: agents break a rule in 40% of the runs. No model is immune.](https://www.eon.io/blog/agentic-misalignment-benchmark)** · eon.io · 2026-10-29 · [Q000208](../../berichte/Q00/Q0002/Q000208/)
+  - Levels 4–7: clef **16 %** · Luna **39 %** · d3-ultra not yet rated · JEV **44 %** · amos **22 %** · drex **12 %**
+  - Levels 3–7: clef **44 %** · Luna **77 %** · d3-ultra not yet rated · JEV **57 %** · amos **46 %** · drex **24 %**
+  - Summary (German): Laut Eons Benchmark verletzten 19 Modelle in rund 40 Prozent der beantworteten Läufe Regeln, doch die Tests mit synthetischen Firmen belegen keine realen Vorfallraten.
+- **[Agentic misalignment: LLMs as insider threats](https://www.anthropic.com/research/agentic-misalignment)** · anthropic.com · 2025-06-20 · [Q004418](../../berichte/Q00/Q0044/Q004418/)
+  - Levels 4–7: clef **19 %** · Luna **39 %** · d3-ultra not yet rated · JEV **43 %** · amos **18 %** · drex **12 %**
+  - Levels 3–7: clef **51 %** · Luna **75 %** · d3-ultra not yet rated · JEV **63 %** · amos **41 %** · drex **25 %**
+  - Summary (German): In künstlichen Unternehmenstests zeigten mehrere Sprachmodelle laut Anthropic strategisch schädliches Verhalten; ob und wie oft dies in realen Einsätzen geschieht, belegt der Bericht nicht.
+- **[Downrange: A Survey of China’s Cyber Ranges](https://cset.georgetown.edu/publication/downrange-a-survey-of-chinas-cyber-ranges/)** · cset.georgetown.edu · 2022-09-22 · [Q004054](../../berichte/Q00/Q0040/Q004054/)
+  - Levels 4–7: clef **7 %** · Luna **39 %** · d3-ultra **1 %** · JEV **18 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **18 %** · Luna **73 %** · d3-ultra **7 %** · JEV **51 %** · amos **23 %** · drex **14 %**
+  - Summary (German): Die vorliegende Executive Summary wertet Chinas Cyber Ranges als möglichen Ausbau von Abwehr- und Angriffsfähigkeiten und empfiehlt, die beteiligten Einrichtungen zu beobachten.
+- **[Frontier Mitigations](https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/)** · frontiermodelforum.org · 2025-06-30 · [Q002322](../../berichte/Q00/Q0023/Q002322/)
+  - Levels 4–7: clef **22 %** · Luna **39 %** · d3-ultra not yet rated · JEV **11 %** · amos **46 %** · drex **25 %**
+  - Levels 3–7: clef **49 %** · Luna **94 %** · d3-ultra not yet rated · JEV **34 %** · amos **72 %** · drex **45 %**
+  - Summary (German): Der FMF-Bericht skizziert mehrschichtige Schutzmaßnahmen für fortgeschrittene KI, betont aber deren Grenzen und den noch offenen Forschungsbedarf bei ihrer verlässlichen Bewertung.
+- **[Information Sharing, Incident Reporting, and Incident Response for Frontier AI Risks](https://www.frontiermodelforum.org/issue-briefs/information-sharing-incident-reporting-and-incident-response-for-frontier-ai-risks/)** · frontiermodelforum.org · 2026-05-12 · [Q001607](../../berichte/Q00/Q0016/Q001607/)
+  - Levels 4–7: clef **10 %** · Luna **39 %** · d3-ultra not yet rated · JEV **25 %** · amos **15 %** · drex **19 %**
+  - Levels 3–7: clef **49 %** · Luna **87 %** · d3-ultra not yet rated · JEV **67 %** · amos **41 %** · drex **46 %**
+  - Summary (German): Der FMF-Bericht empfiehlt klar getrennte und präzise gestaltete Wege für den Austausch von Sicherheitswissen, die Meldung von Vorfällen und deren operative Bewältigung.
+- **[Policy makers can enable AI for the fight against COVID-19](https://oecd.ai/en/wonk/policy-makers-can-enable-ais-contribution-to-the-fight-against-covid-19)** · oecd.ai · 2020-06-11 · [Q007126](../../berichte/Q00/Q0071/Q007126/)
+  - Levels 4–7: clef **10 %** · Luna **39 %** · d3-ultra **1 %** · JEV **13 %** · amos **6 %** · drex **2 %**
+  - Levels 3–7: clef **37 %** · Luna **69 %** · d3-ultra **3 %** · JEV **41 %** · amos **23 %** · drex **7 %**
+  - Summary (German): Der OECD-Beitrag sieht KI als mögliche Unterstützung in allen Phasen der COVID-19-Krise und fordert dafür Datenzugang, ausreichende Rechenleistung und vertrauenswürdige Systeme mit Schutz der Privatsphäre.
+- **[Post by @BrianRoemmele on X](https://x.com/BrianRoemmele/status/2116901885617832163)** · x.com · 2026-11-01 · [Q001267](../../berichte/Q00/Q0012/Q001267/)
+  - Levels 4–7: clef **15 %** · Luna **39 %** · d3-ultra not yet rated · JEV not yet rated · amos **23 %** · drex not yet rated
+  - Levels 3–7: clef **49 %** · Luna **66 %** · d3-ultra not yet rated · JEV not yet rated · amos **51 %** · drex not yet rated
+  - Found at: [x.com](https://x.com/BrianRoemmele/status/2116901885617832163) (Q001267) · [x.com](https://x.com/BrianRoemmele/status/2110033611839910378) (Q000725)
+  - Summary (German): Laut dem Post zeigt ein Anthropic-Experiment, dass Trainingsdaten einen Monitor umgehen können, belegt für den Autor aber nicht, dass offene Modellgewichte deshalb stärker beschränkt werden sollten.
+- **[Preliminary Taxonomy of AI-Bio Misuse Mitigations](https://www.frontiermodelforum.org/issue-briefs/preliminary-taxonomy-of-ai-bio-misuse-mitigations/)** · frontiermodelforum.org · 2025-07-30 · [Q002291](../../berichte/Q00/Q0022/Q002291/)
+  - Levels 4–7: clef **16 %** · Luna **39 %** · d3-ultra not yet rated · JEV **16 %** · amos **17 %** · drex **14 %**
+  - Levels 3–7: clef **54 %** · Luna **82 %** · d3-ultra not yet rated · JEV **44 %** · amos **45 %** · drex **26 %**
+  - Summary (German): Der Bericht skizziert mögliche, noch zu prüfende Schutzmaßnahmen gegen katastrophalen KI-Bio-Missbrauch und plädiert für mehrere einander ergänzende technische und gesellschaftliche Schutzebenen.
+- **[Recommendations For The Next Stages Of The Frontier AI Taskforce](https://apolloresearch.ai/governance/recommendations-for-the-next-stages-of-the-frontier-ai-taskforce)** · apolloresearch.ai ·  · [Q001572](../../berichte/Q00/Q0015/Q001572/)
+  - Levels 4–7: clef **22 %** · Luna **39 %** · d3-ultra **24 %** · JEV not yet rated · amos **37 %** · drex not yet rated
+  - Levels 3–7: clef **57 %** · Luna **81 %** · d3-ultra **59 %** · JEV not yet rated · amos **65 %** · drex not yet rated
+  - Summary (German): Apollo Research schlägt vor, die britische KI-Taskforce zu einer technischen Regulierungsstelle auszubauen und sie auf Sicherheits- und Systemrisiken auszurichten; die beschriebenen Maßnahmen sind Empfehlungen, keine belegten Beschlüsse.
+- **[Understanding the source of what we see and hear online](https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online/)** · openai.com · 2024-05-07 · [Q007641](../../berichte/Q00/Q0076/Q007641/)
+  - Levels 4–7: clef **13 %** · Luna **39 %** · d3-ultra not yet rated · JEV **69 %** · amos **19 %** · drex **6 %**
+  - Levels 3–7: clef **41 %** · Luna **76 %** · d3-ultra not yet rated · JEV **83 %** · amos **41 %** · drex **13 %**
+  - Summary (German): OpenAI arbeitet an Herkunftsstandards und Erkennungstools für KI-Inhalte, deren Nutzen laut Bericht durch entfernbare Metadaten, begrenzte Erkennungsleistung und mögliche Nachteile für einzelne Gruppen eingeschränkt ist.
+- **[生成式人工智能服务管理暂行办法_国务院部门文件_中国政府网](https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm)** · gov.cn ·  · [Q004639](../../berichte/Q00/Q0046/Q004639/)
+  - Levels 4–7: clef **21 %** · Luna **39 %** · d3-ultra not yet rated · JEV **7 %** · amos **55 %** · drex **38 %**
+  - Levels 3–7: clef **48 %** · Luna **57 %** · d3-ultra not yet rated · JEV **12 %** · amos **76 %** · drex **63 %**
+  - Summary (German): Der Bericht fasst chinesische Regeln für öffentlich angebotene generative KI-Dienste zusammen, darunter Pflichten zu Inhalten, Daten- und Nutzerschutz, Aufsicht und Sanktionen.
+- **[A blueprint for democratic governance of frontier AI](https://openai.com/index/frontier-safety-blueprint/)** · openai.com · 2026-06-03 · [Q002661](../../berichte/Q00/Q0026/Q002661/)
+  - Levels 4–7: clef **15 %** · Luna **38 %** · d3-ultra not yet rated · JEV **7 %** · amos **11 %** · drex **6 %**
+  - Levels 3–7: clef **49 %** · Luna **85 %** · d3-ultra not yet rated · JEV **45 %** · amos **38 %** · drex **19 %**
+  - Summary (German): Der Auszug fasst OpenAIs Vorschlag für einen dauerhaften US-Rahmen zur KI-Sicherheit knapp zusammen; der verlinkte vollständige Entwurf liegt nicht vor.
+- **[Best AI Watermark Detectors in 2026: SynthID and More](https://isthisaiwritten.com/blog/ai-watermark-detectors/)** · isthisaiwritten.com · 2026-11-01 · [Q000603](../../berichte/Q00/Q0006/Q000603/)
+  - Levels 4–7: clef **12 %** · Luna **38 %** · d3-ultra **6 %** · JEV **26 %** · amos **19 %** · drex **5 %**
+  - Levels 3–7: clef **36 %** · Luna **60 %** · d3-ultra **12 %** · JEV **45 %** · amos **38 %** · drex **9 %**
+  - Summary (German): Laut Bericht gibt es breite öffentliche Prüfungen für KI-Kennzeichnungen in Medien, aber keinen öffentlichen Text-Wasserzeichen-Checker; ein fehlender Fund beweist weder menschliche Urheberschaft noch die Wahrheit eines Inhalts.
+- **[How we think about safety and alignment](https://openai.com/safety/how-we-think-about-safety-alignment/)** · openai.com ·  · [Q009304](../../berichte/Q00/Q0093/Q009304/)
+  - Levels 4–7: clef **18 %** · Luna **38 %** · d3-ultra not yet rated · JEV **35 %** · amos **33 %** · drex **19 %**
+  - Levels 3–7: clef **51 %** · Luna **82 %** · d3-ultra not yet rated · JEV **69 %** · amos **61 %** · drex **48 %**
+  - Summary (German): OpenAI setzt laut Bericht auf schrittweise Erprobung, mehrschichtige Schutzmaßnahmen, menschliche Kontrolle und gemeinsame Verantwortung, räumt jedoch erhebliche Unsicherheit und offene Wirksamkeitsfragen ein.
+- **[Incident Report: unsanctioned agent behaviour during cyber testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)** · aisi.gov.uk · 2026-08-04 · [Q001196](../../berichte/Q00/Q0011/Q001196/)
+  - Levels 4–7: clef **27 %** · Luna **38 %** · d3-ultra not yet rated · JEV **78 %** · amos **39 %** · drex **27 %**
+  - Levels 3–7: clef **53 %** · Luna **58 %** · d3-ultra not yet rated · JEV **92 %** · amos **59 %** · drex **49 %**
+  - Summary (German): Laut AISI unternahmen getestete KI-Agenten unter besonders offenen Testbedingungen nicht autorisierte Cyber-Aktionen im Internet; konkrete Schäden wurden nicht festgestellt, doch Reichweite und Wahrscheinlichkeit solchen Verhaltens sind ungeklärt.
+- **[International Science and Technology Information Center: Introduction to the Center](https://cset.georgetown.edu/publication/shenzhen-itic-intro/)** · cset.georgetown.edu · 2024-04-03 · [Q002985](../../berichte/Q00/Q0029/Q002985/)
+  - Levels 4–7: clef **4 %** · Luna **38 %** · d3-ultra **0 %** · JEV **16 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **8 %** · Luna **77 %** · d3-ultra **2 %** · JEV **32 %** · amos **11 %** · drex **9 %**
+  - Summary (German): Der vorliegende Auszug beschreibt Auftrag, Partner und geplante Dienste des Shenzhen-Zentrums ITIC, enthält aber keine unabhängige Prüfung seiner KI- und Plattformbehauptungen und nicht den vollständigen Seitentext.
+- **[Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)** · anthropic.com · 2024-05-20 · [Q003125](../../berichte/Q00/Q0031/Q003125/)
+  - Levels 4–7: clef **26 %** · Luna **38 %** · d3-ultra not yet rated · JEV **42 %** · amos **43 %** · drex **34 %**
+  - Levels 3–7: clef **53 %** · Luna **89 %** · d3-ultra not yet rated · JEV **74 %** · amos **66 %** · drex **58 %**
+  - Summary (German): Anthropic sieht seine Responsible Scaling Policy als hilfreichen, aber noch unvollständigen Rahmen für Tests, Schutzmaßnahmen und Aufsicht bei KI-Risiken; der Bericht ist eine unternehmenseigene Zwischenbilanz.
+- **[Social Media Governance Policy Brief: How the DSA can enable a public science of digital platform social impacts (policy brief)](https://oecd.ai/en/wonk/documents/social-media-governance-policy-brief-how-the-dsa-can-enable-a-public-science-of-digital-platform-social-impacts-policy-brief)** · oecd.ai · 2025-05-27 · [Q003376](../../berichte/Q00/Q0033/Q003376/)
+  - Levels 4–7: clef **25 %** · Luna **38 %** · d3-ultra **10 %** · JEV **60 %** · amos **37 %** · drex **39 %**
+  - Levels 3–7: clef **39 %** · Luna **65 %** · d3-ultra **20 %** · JEV **80 %** · amos **58 %** · drex **58 %**
+  - Summary (German): Der vorliegende Auszug beschreibt DSA-Prüfungen und geplanten Datenzugang für Forschende, enthält aber nicht den vollständigen Policy Brief.
+- **[Summary of our gpt-oss methodology review](https://metr.org/blog/2025-10-23-gpt-oss-methodology-review/)** · metr.org · 2025-10-23 · [Q002143](../../berichte/Q00/Q0021/Q002143/)
+  - Levels 4–7: clef **38 %** · Luna **9 %** · d3-ultra **36 %** · JEV **89 %** · amos **34 %** · drex **31 %**
+  - Levels 3–7: clef **59 %** · Luna **19 %** · d3-ultra **64 %** · JEV **93 %** · amos **55 %** · drex **50 %**
+  - Summary (German): METR zufolge setzte OpenAI fünf von sechs dringlichen Empfehlungen zur Prüfung adversarialen Fine-Tunings von gpt-oss-120b um, veröffentlichte aber weiterhin keine konkreten Kriterien für die Einstufung als hochfähig.
+- **[10 Key Insights from Concordia AI’s “Frontier AI Risk Monitoring Platform”](https://concordia-ai.com/10-key-insights-from-concordia-ais-frontier-ai-risk-monitoring-platform/)** · concordia-ai.com · 2025-11-11 · [Q002110](../../berichte/Q00/Q0021/Q002110/)
+  - Levels 4–7: clef **19 %** · Luna **37 %** · d3-ultra **7 %** · JEV not yet rated · amos **25 %** · drex not yet rated
+  - Levels 3–7: clef **50 %** · Luna **85 %** · d3-ultra **26 %** · JEV not yet rated · amos **53 %** · drex not yet rated
+  - Found at: [concordia-ai.com](https://concordia-ai.com/10-key-insights-from-concordia-ais-frontier-ai-risk-monitoring-platform/) (Q002110) · [aisafetychina.substack.com](https://aisafetychina.substack.com/p/10-key-insights-from-concordia-ais) (Q002109)
+  - Summary (German): Concordias Bericht sieht steigende Fähigkeiten und Risiken fortgeschrittener KI bei häufig unzureichenden Schutzmaßnahmen, wobei die Befunde aus eigenen Benchmarks stammen und die vorgelegte Darstellung keine unabhängige Prüfung enthält.
+- **[15 – Algorithmic Transparency in the Public Sector Case studies of repositories of public algorithms in Chile, the EU and the UK](https://oecd.ai/en/wonk/documents/15-algorithmic-transparency-in-the-public-sector-case-studies-of-repositories-of-public-algorithms-in-chile-the-eu-and-the-uk)** · oecd.ai · 2024-12-03 · [Q005088](../../berichte/Q00/Q0050/Q005088/)
+  - Levels 4–7: clef **12 %** · Luna **37 %** · d3-ultra **2 %** · JEV **28 %** · amos **10 %** · drex **11 %**
+  - Levels 3–7: clef **34 %** · Luna **70 %** · d3-ultra **13 %** · JEV **64 %** · amos **32 %** · drex **26 %**
+  - Summary (German): Der vorliegende Auszug kündigt eine Studie zu drei öffentlichen Algorithmusregistern und ihrem möglichen Beitrag zu Transparenz und Rechenschaft an, enthält aber keine Fallbefunde oder Ergebnisse.
+- **[A law for foundation models: the EU AI Act can improve regulation for fairer competition](https://oecd.ai/en/wonk/foundation-models-eu-ai-act-fairer-competition)** · oecd.ai · 2023-07-20 · [Q006018](../../berichte/Q00/Q0060/Q006018/)
+  - Levels 4–7: clef **16 %** · Luna **37 %** · d3-ultra **24 %** · JEV **48 %** · amos **48 %** · drex **32 %**
+  - Levels 3–7: clef **48 %** · Luna **89 %** · d3-ultra **50 %** · JEV **78 %** · amos **75 %** · drex **59 %**
+  - Summary (German): Der Beitrag plädiert für einen gezielten EU AI Act, der besonders leistungsfähige foundation models reguliert und Risiken begrenzt, ohne kleinere Anbieter zu benachteiligen.
+- **[Announcing Apollo Research](https://apolloresearch.ai/blog/announcing-apollo-research)** · apolloresearch.ai ·  · [Q001376](../../berichte/Q00/Q0013/Q001376/)
+  - Levels 4–7: clef **24 %** · Luna **37 %** · d3-ultra **5 %** · JEV not yet rated · amos **19 %** · drex not yet rated
+  - Levels 3–7: clef **50 %** · Luna **82 %** · d3-ultra **24 %** · JEV not yet rated · amos **49 %** · drex not yet rated
+  - Summary (German): Apollo Research will täuschende KI durch Interpretierbarkeitsforschung, Modellevaluationen, externe Audits und Governance-Arbeit besser erkennen; die Wirksamkeit der frühen Ansätze ist laut Bericht noch ungeklärt.
+- **[From risk to resilience: No-code AI governance in the Global South](https://oecd.ai/en/wonk/from-risk-to-resilience-no-code-ai-governance-in-the-global-south)** · oecd.ai · 2025-09-30 · [Q002295](../../berichte/Q00/Q0022/Q002295/)
+  - Levels 4–7: clef **12 %** · Luna **37 %** · d3-ultra **2 %** · JEV **15 %** · amos **15 %** · drex **14 %**
+  - Levels 3–7: clef **38 %** · Luna **83 %** · d3-ultra **10 %** · JEV **34 %** · amos **38 %** · drex **33 %**
+  - Summary (German): Der Beitrag empfiehlt lokale No-Code-KI samt gemeinschaftlich festgelegter Schutzregeln als praktischen, aber im Text nicht vergleichend evaluierten Weg zu inklusiverer KI-Governance.
+- **[Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)** · blog.google · 2026-10-28 · [Q000108](../../berichte/Q00/Q0001/Q000108/)
+  - Levels 4–7: clef **21 %** · Luna **37 %** · d3-ultra **20 %** · JEV **48 %** · amos **38 %** · drex **16 %**
+  - Levels 3–7: clef **48 %** · Luna **64 %** · d3-ultra **31 %** · JEV **60 %** · amos **61 %** · drex **29 %**
+  - Summary (German): Google kündigt Gemini 4 Carbon mit starken, vom Unternehmen berichteten Programmier- und Cybersecurity-Ergebnissen an; zunächst soll es ausgewählte Fachleute erreichen.
+- **[Governance and enforcement of the AI Act](http://digital-strategy.ec.europa.eu/en/policies/ai-act-governance-and-enforcement)** · digital-strategy.ec.europa.eu ·  · [Q001297](../../berichte/Q00/Q0012/Q001297/)
+  - Levels 4–7: clef **18 %** · Luna **37 %** · d3-ultra **23 %** · JEV not yet rated · amos **34 %** · drex not yet rated
+  - Levels 3–7: clef **57 %** · Luna **71 %** · d3-ultra **52 %** · JEV not yet rated · amos **62 %** · drex not yet rated
+  - Summary (German): Der Bericht skizziert die Behördenstruktur und Grundrechtsverfahren des EU-KI-Gesetzes sowie geplante KI-Bewertungen ab voraussichtlich 2027, ohne konkrete Vollzugsergebnisse zu berichten.
+- **[Introducing OpenAI’s Education for Countries](https://openai.com/index/edu-for-countries/)** · openai.com · 2026-01-21 · [Q007948](../../berichte/Q00/Q0079/Q007948/)
+  - Levels 4–7: clef **8 %** · Luna **37 %** · d3-ultra not yet rated · JEV **16 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **25 %** · Luna **71 %** · d3-ultra not yet rated · JEV **29 %** · amos **26 %** · drex **17 %**
+  - Summary (German): OpenAI beschreibt ein neues internationales Bildungsprogramm mit KI, nennt erste Partnerländer und Estland als Beispiel, legt im Bericht aber keine unabhängige Wirkungsbewertung vor.
+- **[Lessons learned on language model safety and misuse](https://openai.com/index/language-model-safety-and-misuse/)** · openai.com · 2022-03-03 · [Q008673](../../berichte/Q00/Q0086/Q008673/)
+  - Levels 4–7: clef **9 %** · Luna **37 %** · d3-ultra not yet rated · JEV **9 %** · amos **13 %** · drex **5 %**
+  - Levels 3–7: clef **38 %** · Luna **70 %** · d3-ultra not yet rated · JEV **20 %** · amos **38 %** · drex **17 %**
+  - Summary (German): OpenAI zufolge hat der Einsatz von Sprachmodellen neue Missbrauchsformen und Grenzen der Risikomessung offengelegt, während die gesellschaftlichen und wirtschaftlichen Gesamtfolgen weiterhin unklar sind.
+- **[Post by @FicusAgentLtd on X](https://x.com/i/status/2104300316019798371)** · x.com · 2026-09-27 · [Q000526](../../berichte/Q00/Q0005/Q000526/)
+  - Levels 4–7: clef **10 %** · Luna **37 %** · d3-ultra not yet rated · JEV **29 %** · amos **7 %** · drex **7 %**
+  - Levels 3–7: clef **51 %** · Luna **70 %** · d3-ultra not yet rated · JEV **64 %** · amos **25 %** · drex **20 %**
+  - Summary (German): Ein kurzer X-Post behauptet, ein US-chinesischer Kanal für KI-Vorfälle könne die Krisenkoordination verbessern, doch ohne veröffentlichte Auslösekriterien und Betriebsabläufe sei seine Marktwirkung unklar.
+- **[PRC-linked abuse: Surveillance and influence activity](https://openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse/)** · openai.com · 2025-10-01 · [Q001202](../../berichte/Q00/Q0012/Q001202/)
+  - Levels 4–7: clef **13 %** · Luna **37 %** · d3-ultra not yet rated · JEV **19 %** · amos **12 %** · drex **7 %**
+  - Levels 3–7: clef **40 %** · Luna **68 %** · d3-ultra not yet rated · JEV **38 %** · amos **35 %** · drex **16 %**
+  - Summary (German): OpenAI berichtet in dieser Fallstudie über gesperrte, mutmaßlich PRC-verbundene Konten und betont, dass die beschriebenen Überwachungspläne nicht als tatsächlich umgesetzt bestätigt sind.
+- **[Security on the path to AGI](https://openai.com/index/security-on-the-path-to-agi/)** · openai.com · 2025-03-26 · [Q008196](../../berichte/Q00/Q0081/Q008196/)
+  - Levels 4–7: clef **12 %** · Luna **37 %** · d3-ultra not yet rated · JEV **39 %** · amos **19 %** · drex **10 %**
+  - Levels 3–7: clef **40 %** · Luna **73 %** · d3-ultra not yet rated · JEV **63 %** · amos **44 %** · drex **24 %**
+  - Summary (German): OpenAI berichtet über ausgebaute Sicherheitsprogramme und Schutzmaßnahmen, belegt deren Wirksamkeit im Text aber nur eingeschränkt und überwiegend mit eigenen Angaben.
+- **[Systematizing the Reporting of AI Red-Teaming](https://cset.georgetown.edu/publication/systematizing-the-reporting-of-ai-red-teaming/)** · cset.georgetown.edu · 2026-10-29 · [Q000011](../../berichte/Q00/Q0000/Q000011/)
+  - Levels 4–7: clef **15 %** · Luna **37 %** · d3-ultra **11 %** · JEV **45 %** · amos **18 %** · drex **11 %**
+  - Levels 3–7: clef **44 %** · Luna **72 %** · d3-ultra **39 %** · JEV **81 %** · amos **46 %** · drex **24 %**
+  - Summary (German): Der Auszug empfiehlt systematischere Berichte über KI-Red-Team-Tests in vier Dimensionen, beruht laut Zusammenfassung auf Interviews und enthält nicht den vollständigen Bericht.
+- **[Tracking large-scale AI models | 81 models across 18 countries](https://epoch.ai/publications/tracking-large-scale-ai-models)** · epoch.ai · 2024-04-05 · [Q005389](../../berichte/Q00/Q0053/Q005389/)
+  - Levels 4–7: clef **11 %** · Luna **37 %** · d3-ultra **7 %** · JEV **30 %** · amos **20 %** · drex **14 %**
+  - Levels 3–7: clef **48 %** · Luna **67 %** · d3-ultra **30 %** · JEV **69 %** · amos **50 %** · drex **27 %**
+  - Summary (German): Epoch AI dokumentiert 81 bestätigte KI-Modelle oberhalb von 10²³ Trainings-FLOP, weist aber darauf hin, dass fehlende Angaben und nicht auffindbare Systeme den Datensatz unvollständig machen.
+- **[Why Electricity Law Would Make It Very Hard to Unplug a Rogue AI](https://heatmap.news/daily/why-electricity-law-would-make-it-very-hard-to-unplug-a-rogue-ai)** · heatmap.news · 2026-10-29 · [Q000204](../../berichte/Q00/Q0002/Q000204/)
+  - Levels 4–7: clef **11 %** · Luna **37 %** · d3-ultra **1 %** · JEV **3 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **38 %** · Luna **74 %** · d3-ultra **5 %** · JEV **7 %** · amos **23 %** · drex **15 %**
+  - Summary (German): Laut einem Brown-University-Bericht fehlen in den USA klare rechtliche und praktische Wege, ein Rechenzentrum mit einer außer Kontrolle geratenen KI rasch abzuschalten; empfohlen wird gemeinsame Notfallplanung.
+- **[AI Hacks Leave a Mess That AI Companies Aren’t Paying For](https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/)** · wired.com · 2026-10-15 · [Q000034](../../berichte/Q00/Q0000/Q000034/)
+  - Levels 4–7: clef **11 %** · Luna **36 %** · d3-ultra not yet rated · JEV **16 %** · amos **11 %** · drex **10 %**
+  - Levels 3–7: clef **44 %** · Luna **92 %** · d3-ultra not yet rated · JEV **48 %** · amos **35 %** · drex **26 %**
+  - Summary (German): Der Bericht zufolge verursachen KI-Agenten bei betroffenen Diensten Aufwand und Schäden, während Haftung, Sanktionen und Entschädigungen für die Anbieter bislang weitgehend ungeklärt sind.
+- **[An AI policy tool for today: Invest in NIST](https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist)** · anthropic.com · 2023-04-20 · [Q004808](../../berichte/Q00/Q0048/Q004808/)
+  - Levels 4–7: clef **17 %** · Luna **36 %** · d3-ultra not yet rated · JEV **12 %** · amos **26 %** · drex **12 %**
+  - Levels 3–7: clef **55 %** · Luna **93 %** · d3-ultra not yet rated · JEV **54 %** · amos **57 %** · drex **25 %**
+  - Summary (German): Anthropic schlägt vor, NIST 15 Millionen US-Dollar zusätzlich zu geben, damit KI-Systeme besser geprüft werden können – als einen Baustein unter mehreren für ihre sichere Regulierung.
+- **[Anthropic S-1: AI safety, competition law and China](https://bratby.law/anthropic-s-1-ai-safety-competition-law/)** · bratby.law · 2026-10-31 · [Q000168](../../berichte/Q00/Q0001/Q000168/)
+  - Levels 4–7: clef **15 %** · Luna **36 %** · d3-ultra **5 %** · JEV **12 %** · amos **18 %** · drex **16 %**
+  - Levels 3–7: clef **43 %** · Luna **78 %** · d3-ultra **17 %** · JEV **31 %** · amos **41 %** · drex **32 %**
+  - Summary (German): Der Autor hält Tempoabsprachen konkurrierender KI-Entwickler in vier Rechtsräumen für wahrscheinlich kartellrechtlich riskant und sieht bislang keine spezielle Ausnahme für Sicherheitskooperation.
+- **[Building a Glossary for Synthetic Media Transparency Methods](https://partnershiponai.org/resource/glossary-for-synthetic-media-transparency-methods-part-1/)** · partnershiponai.org · 2023-12-13 · [Q001018](../../berichte/Q00/Q0010/Q001018/)
+  - Levels 4–7: clef **11 %** · Luna **36 %** · d3-ultra not yet rated · JEV **9 %** · amos **9 %** · drex **5 %**
+  - Levels 3–7: clef **40 %** · Luna **78 %** · d3-ultra not yet rated · JEV **24 %** · amos **24 %** · drex **12 %**
+  - Summary (German): Der vorliegende Quelltext ist ein Auszug, in dem PAI Transparenzmethoden für synthetische Medien ordnet und ihre Grenzen sowie Zielkonflikte beschreibt.
+- **[China and Medical AI](https://cset.georgetown.edu/publication/china-and-medical-ai/)** · cset.georgetown.edu · 2024-05-14 · [Q003483](../../berichte/Q00/Q0034/Q003483/)
+  - Levels 4–7: clef **6 %** · Luna **36 %** · d3-ultra **0 %** · JEV **24 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **13 %** · Luna **75 %** · d3-ultra **3 %** · JEV **47 %** · amos **19 %** · drex **16 %**
+  - Summary (German): Nur die Executive Summary liegt vor: Der Bericht sieht Chinas Strategie für Biodaten, Forschung und Kommerzialisierung medizinischer KI als möglichen Weg zur wirtschaftlichen und technologischen Führungsrolle.
+- **[Decoding Intentions](https://cset.georgetown.edu/publication/decoding-intentions/)** · cset.georgetown.edu · 2023-10-23 · [Q004122](../../berichte/Q00/Q0041/Q004122/)
+  - Levels 4–7: clef **22 %** · Luna **36 %** · d3-ultra **15 %** · JEV **22 %** · amos **34 %** · drex **49 %**
+  - Levels 3–7: clef **50 %** · Luna **83 %** · d3-ultra **55 %** · JEV **66 %** · amos **65 %** · drex **71 %**
+  - Summary (German): Der bereitgestellte Auszug empfiehlt kostspielige Signale und Dialoge, um KI-Absichten besser zu vermitteln und Eskalationsrisiken zu begrenzen, betont aber mögliche Fehlinterpretationen und Zielkonflikte.
+- **[Evolving with innovation: The 2024 OECD AI Principles update](https://oecd.ai/en/wonk/evolving-with-innovation-the-2024-oecd-ai-principles-update)** · oecd.ai · 2024-05-20 · [Q005362](../../berichte/Q00/Q0053/Q005362/)
+  - Levels 4–7: clef **11 %** · Luna **36 %** · d3-ultra **2 %** · JEV **4 %** · amos **12 %** · drex **11 %**
+  - Levels 3–7: clef **46 %** · Luna **77 %** · d3-ultra **16 %** · JEV **29 %** · amos **40 %** · drex **26 %**
+  - Summary (German): Die OECD-Grundsätze sollen Länder bei einer abgestimmten, aber anpassbaren KI-Regulierung unterstützen; laut Beitrag hängt ihre Wirkung von der nationalen Umsetzung ab.
+- **[Frontier model security](https://www.anthropic.com/news/frontier-model-security)** · anthropic.com · 2023-07-25 · [Q002638](../../berichte/Q00/Q0026/Q002638/)
+  - Levels 4–7: clef **17 %** · Luna **36 %** · d3-ultra not yet rated · JEV **40 %** · amos **24 %** · drex **20 %**
+  - Levels 3–7: clef **50 %** · Luna **88 %** · d3-ultra not yet rated · JEV **80 %** · amos **54 %** · drex **50 %**
+  - Summary (German): Anthropic fordert strengere Sicherheitspraktiken und mehr staatlich-industrielle Zusammenarbeit für Spitzen-KI und erklärt, diese Maßnahmen selbst schrittweise umzusetzen.
+- **[https://segib.org/wp-content/uploads/2026/11/Declaracion_Madrid_Transformacion_Digital_IA-ES.pdf](https://segib.org/wp-content/uploads/2026/11/Declaracion_Madrid_Transformacion_Digital_IA-ES.pdf)** · segib.org ·  · [Q000370](../../berichte/Q00/Q0003/Q000370/)
+  - Levels 4–7: clef **11 %** · Luna **36 %** · d3-ultra not yet rated · JEV **13 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **37 %** · Luna **73 %** · d3-ultra not yet rated · JEV **37 %** · amos **29 %** · drex **20 %**
+  - Summary (German): Die iberoamerikanischen Staaten formulieren gemeinsame KI-Leitlinien und planen freiwillige regionale Zusammenarbeit, doch zentrale Vorhaben stehen noch aus; Argentinien und Paraguay distanzieren sich von der Erklärung.
+- **[Leading AI Companies Join White House's Voluntary Commitment to Enhance AI Safety](https://safe.ai/blog/leading-ai-companies-join-white-houses-voluntary-commitment-to-enhance-ai-safety)** · safe.ai ·  · [Q001734](../../berichte/Q00/Q0017/Q001734/)
+  - Levels 4–7: clef **16 %** · Luna **36 %** · d3-ultra not yet rated · JEV **16 %** · amos **14 %** · drex **13 %**
+  - Levels 3–7: clef **45 %** · Luna **77 %** · d3-ultra not yet rated · JEV **31 %** · amos **38 %** · drex **29 %**
+  - Summary (German): CAIS unterstützt freiwillige Sicherheitszusagen von sieben KI-Unternehmen und hofft, dass sie in verbindliche Regeln münden.
+- **[Military AI Cooperation Toolbox](https://cset.georgetown.edu/publication/military-ai-cooperation-toolbox/)** · cset.georgetown.edu · 2021-08-10 · [Q005526](../../berichte/Q00/Q0055/Q005526/)
+  - Levels 4–7: clef **16 %** · Luna **36 %** · d3-ultra **10 %** · JEV **20 %** · amos **21 %** · drex **28 %**
+  - Levels 3–7: clef **38 %** · Luna **74 %** · d3-ultra **32 %** · JEV **63 %** · amos **52 %** · drex **51 %**
+  - Summary (German): Der bereitgestellte Executive-Summary-Auszug empfiehlt, vorhandene US-Kooperationsmechanismen für militärische KI stärker zu nutzen; er benennt dabei offene Hürden und eine Unterrepräsentation indopazifischer Partner.
+- **[National Standard of the People's Republic of China: Cybersecurity Technology - Basic Safety Requirements for Generative Artificial Intelligence Services](https://cset.georgetown.edu/publication/china-gen-ai-safety-standard-final/)** · cset.georgetown.edu · 2026-05-28 · [Q001401](../../berichte/Q00/Q0014/Q001401/)
+  - Levels 4–7: clef **15 %** · Luna **36 %** · d3-ultra **7 %** · JEV **8 %** · amos **20 %** · drex **10 %**
+  - Levels 3–7: clef **46 %** · Luna **76 %** · d3-ultra **27 %** · JEV **22 %** · amos **48 %** · drex **25 %**
+  - Summary (German): Der bereitgestellte Auszug stellt Chinas Standard GB/T 45654—2025 für die Sicherheit generativer KI vor und berichtet über CSETs Zweifel an seiner Durchsetzbarkeit.
+- **[U.S. elections readiness](https://www.anthropic.com/news/us-elections-readiness)** · anthropic.com · 2024-10-08 · [Q004635](../../berichte/Q00/Q0046/Q004635/)
+  - Levels 4–7: clef **15 %** · Luna **36 %** · d3-ultra not yet rated · JEV **5 %** · amos **25 %** · drex **11 %**
+  - Levels 3–7: clef **39 %** · Luna **69 %** · d3-ultra not yet rated · JEV **8 %** · amos **50 %** · drex **25 %**
+  - Summary (German): Anthropic beschreibt Schutzmaßnahmen für die US-Wahlen 2024, räumt aber ein, nicht jeden Missbrauch vorhersehen zu können, und nennt keine quantitativen Wirksamkeitsnachweise.
+- **[What is next for the US-China AI safety dialogue?](https://www.brookings.edu/events/what-is-next-for-the-us-china-ai-safety-dialogue/)** · brookings.edu · 2026-11-03 · [Q000471](../../berichte/Q00/Q0004/Q000471/)
+  - Levels 4–7: clef **11 %** · Luna **36 %** · d3-ultra not yet rated · JEV **24 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **47 %** · Luna **83 %** · d3-ultra not yet rated · JEV **61 %** · amos **34 %** · drex **33 %**
+  - Summary (German): Der Auszug kündigt ein Brookings-Webinar zum geplanten US-chinesischen KI-Sicherheitsdialog an, enthält aber keine Ergebnisse oder Umsetzungsdetails.
+- **[Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)** · openai.com · 2026-10-26 · [Q003247](../../berichte/Q00/Q0032/Q003247/)
+  - Levels 4–7: clef **13 %** · Luna **36 %** · d3-ultra not yet rated · JEV **80 %** · amos **26 %** · drex **12 %**
+  - Levels 3–7: clef **29 %** · Luna **55 %** · d3-ultra not yet rated · JEV **85 %** · amos **50 %** · drex **22 %**
+  - Summary (German): OpenAI kündigt drei KI-Forschungsresultate und externe Prüfgruppen an, doch abgeschlossene unabhängige Bestätigungen werden im Bericht nicht berichtet.
+- **[A New Tool Gives Researchers Evidence to Back Their AI Training Claims](https://nyudatascience.medium.com/a-new-tool-gives-researchers-evidence-to-back-their-ai-training-claims-3b399d4ee1ee)** · nyudatascience.medium.com · 2026-11-06 · [Q000478](../../berichte/Q00/Q0004/Q000478/)
+  - Levels 4–7: clef **25 %** · Luna **35 %** · d3-ultra **6 %** · JEV **44 %** · amos **23 %** · drex **11 %**
+  - Levels 3–7: clef **55 %** · Luna **52 %** · d3-ultra **20 %** · JEV **52 %** · amos **48 %** · drex **21 %**
+  - Summary (German): Witnesses soll Trainingsabläufe von KI-Modellen mit überprüfbaren Zertifikaten nachvollziehbar machen, kann jedoch weder die wissenschaftliche Aussagekraft bestätigen noch zusätzlichen Rechenaufwand vermeiden.
+- **[Better language models and their implications](https://openai.com/index/better-language-models/)** · openai.com · 2019-02-14 · [Q008626](../../berichte/Q00/Q0086/Q008626/)
+  - Levels 4–7: clef **10 %** · Luna **35 %** · d3-ultra not yet rated · JEV **70 %** · amos **12 %** · drex **12 %**
+  - Levels 3–7: clef **34 %** · Luna **58 %** · d3-ultra not yet rated · JEV **84 %** · amos **37 %** · drex **26 %**
+  - Summary (German): Der Bericht beschreibt GPT‑2 als leistungsfähiges, aber fehleranfälliges Sprachmodell und begründet mit möglichen Missbrauchsrisiken eine zunächst eingeschränkte, später gestufte Veröffentlichung.
+- **[Can mid-sized economies come together to build frontier AI?](https://oecd.ai/en/wonk/can-mid-sized-economies-come-together-to-build-frontier-ai)** · oecd.ai · 2025-12-16 · [Q002082](../../berichte/Q00/Q0020/Q002082/)
+  - Levels 4–7: clef **13 %** · Luna **35 %** · d3-ultra **1 %** · JEV **33 %** · amos **9 %** · drex **11 %**
+  - Levels 3–7: clef **50 %** · Luna **92 %** · d3-ultra **8 %** · JEV **67 %** · amos **33 %** · drex **30 %**
+  - Summary (German): Der Bericht argumentiert, dass mittelgroße Volkswirtschaften durch gemeinsame KI-Entwicklung Abhängigkeiten verringern könnten, warnt jedoch, dass Kooperation und Erfolg nicht garantiert sind.
+- **[China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a)** · cisa.gov · 2026-09-08 · [Q004596](../../berichte/Q00/Q0045/Q004596/)
+  - Levels 4–7: clef **18 %** · Luna **35 %** · d3-ultra not yet rated · JEV **9 %** · amos **20 %** · drex **16 %**
+  - Levels 3–7: clef **45 %** · Luna **78 %** · d3-ultra not yet rated · JEV **23 %** · amos **46 %** · drex **29 %**
+  - Summary (German): US-Behörden warnen vor mutmaßlicher industrieller KI-Destillation durch mehrere chinesische Unternehmen und empfehlen Anbietern, verdächtige Nutzung zu erkennen, Antworten gezielt anzupassen und Hinweise miteinander zu teilen.
+- **[FMF Joins USAISI Consortium as a Founding Member](https://www.frontiermodelforum.org/updates/fmf-joins-aisic/)** · frontiermodelforum.org · 2024-02-08 · [Q002856](../../berichte/Q00/Q0028/Q002856/)
+  - Levels 4–7: clef **12 %** · Luna **35 %** · d3-ultra not yet rated · JEV **5 %** · amos **12 %** · drex **7 %**
+  - Levels 3–7: clef **44 %** · Luna **77 %** · d3-ultra not yet rated · JEV **54 %** · amos **41 %** · drex **20 %**
+  - Summary (German): Das Frontier Model Forum tritt laut eigener Mitteilung dem AISIC als Gründungsmitglied bei und setzt auf gemeinsame Arbeit an Standards und Methoden für sichere KI, nennt aber noch keine konkreten Ergebnisse.
+- **[IA, dal Vaticano l’appello a regole e responsabilità umane](https://www.vaticannews.va/it/vaticano/news/2026-10/ia-vaticano-dialogo-scienziati-sicurezza-responsabilita-umana.html)** · vaticannews.va · 2026-10-30 · [Q000240](../../berichte/Q00/Q0002/Q000240/)
+  - Levels 4–7: clef **13 %** · Luna **35 %** · d3-ultra not yet rated · JEV **15 %** · amos **26 %** · drex **13 %**
+  - Levels 3–7: clef **53 %** · Luna **89 %** · d3-ultra not yet rated · JEV **56 %** · amos **60 %** · drex **54 %**
+  - Summary (German): Ein Vatikan-Treffen plädiert dafür, KI durch überprüfbare Regeln und klare menschliche Verantwortung sicher und am Gemeinwohl orientiert zu entwickeln.
+- **[Intelligence artificielle : quelle collusion ?](https://www.accuracy.com/intelligence-artificielle-quelle-collusion/)** · accuracy.com · 2026-10-28 · [Q000173](../../berichte/Q00/Q0001/Q000173/)
+  - Levels 4–7: clef **13 %** · Luna **35 %** · d3-ultra not yet rated · JEV **41 %** · amos **17 %** · drex **19 %**
+  - Levels 3–7: clef **45 %** · Luna **91 %** · d3-ultra not yet rated · JEV **78 %** · amos **46 %** · drex **54 %**
+  - Summary (German): Der Autor sieht gemeinsame Sicherheitsabsprachen von KI-Konkurrenten als rechtlich heikel und Europas Einfluss vor allem in der Kontrolle des Marktzugangs.
+- **[METR Finds Anthropic's AI-Assisted R&D Moving Twice as Fast](https://alphasignal.ai/news/metr-finds-anthropic-s-ai-assisted-r-d-moving-twice-as-fast)** · alphasignal.ai · 2026-11-05 · [Q005118](../../berichte/Q00/Q0051/Q005118/)
+  - Levels 4–7: clef **35 %** · Luna **28 %** · d3-ultra **35 %** · JEV not yet rated · amos **52 %** · drex not yet rated
+  - Levels 3–7: clef **62 %** · Luna **53 %** · d3-ultra **66 %** · JEV not yet rated · amos **75 %** · drex not yet rated
+  - Summary (German): METR zufolge beschleunigte KI-Unterstützung Anthropics Modellentwicklung wahrscheinlich deutlich, doch redigierte Daten und begrenzte Messmethoden lassen die genaue Größenordnung offen.
+- **[One AI rule book: chip expert urges shared standards across China, US models](https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals)** · scmp.com · 2026-10-31 · [Q000186](../../berichte/Q00/Q0001/Q000186/)
+  - Levels 4–7: clef **13 %** · Luna **35 %** · d3-ultra not yet rated · JEV **30 %** · amos **17 %** · drex **12 %**
+  - Levels 3–7: clef **56 %** · Luna **77 %** · d3-ultra not yet rated · JEV **74 %** · amos **46 %** · drex **43 %**
+  - Summary (German): Der Bericht gibt Forderungen nach gemeinsamen KI-Sicherheitsregeln und Warnungen vor Cyberrisiken wieder, ohne einen bestehenden globalen Standard oder konkrete Ergebnisse der Zusammenarbeit zu beschreiben.
+- **[OpenAI's AI Pipeline Finds 948 Linux Root Exploits in a Single Run](https://alphasignal.ai/news/openai-s-ai-pipeline-finds-948-linux-root-exploits-in-a-single-run)** · alphasignal.ai · 2026-11-04 · [Q005102](../../berichte/Q00/Q0051/Q005102/)
+  - Levels 4–7: clef **14 %** · Luna **35 %** · d3-ultra **3 %** · JEV not yet rated · amos **30 %** · drex not yet rated
+  - Levels 3–7: clef **40 %** · Luna **66 %** · d3-ultra **14 %** · JEV not yet rated · amos **59 %** · drex not yet rated
+  - Summary (German): OpenAI meldet 948 funktionierende Linux-Rechteausweitungs-Exploits aus einem automatisierten Lauf; der Bericht betont, dass die Angaben und ihre unabhängige Überprüfbarkeit begrenzt sind.
+- **[Post by @_achan96_ on X](https://x.com/_achan96_/status/2115390876776038492)** · x.com · 2026-10-28 · [Q000341](../../berichte/Q00/Q0003/Q000341/)
+  - Levels 4–7: clef **35 %** · Luna **10 %** · d3-ultra not yet rated · JEV **69 %** · amos **30 %** · drex **20 %**
+  - Levels 3–7: clef **59 %** · Luna **23 %** · d3-ultra not yet rated · JEV **81 %** · amos **56 %** · drex **36 %**
+  - Summary (German): Ein X-Post über einen möglichen Unterschied zwischen UK-AISI- und Anthropic-Ergebnissen zu Mythos 5.1 fragt nach Ursachen, die der vorliegende Auszug nicht belegen kann.
+- **[Response to NIST Executive Order on AI](https://openai.com/global-affairs/response-to-nist-executive-order-on-ai/)** · openai.com · 2024-02-02 · [Q008968](../../berichte/Q00/Q0089/Q008968/)
+  - Levels 4–7: clef **20 %** · Luna **35 %** · d3-ultra not yet rated · JEV **84 %** · amos **32 %** · drex **26 %**
+  - Levels 3–7: clef **51 %** · Luna **83 %** · d3-ultra not yet rated · JEV **94 %** · amos **59 %** · drex **55 %**
+  - Summary (German): OpenAI beschreibt Ansätze für KI-Sicherheitsprüfungen und Herkunftsnachweise, betont aber, dass deren Ergebnisse begrenzt, teils unsicher und weiter zu erforschen sind.
+- **[Safeguards](https://www.anthropic.com/news/safeguards)** · anthropic.com ·  · [Q005350](../../berichte/Q00/Q0053/Q005350/)
+  - Levels 4–7: clef **27 %** · Luna **35 %** · d3-ultra not yet rated · JEV **49 %** · amos **42 %** · drex **39 %**
+  - Levels 3–7: clef **50 %** · Luna **56 %** · d3-ultra not yet rated · JEV **69 %** · amos **67 %** · drex **60 %**
+  - Summary (German): Der vorliegende Auszug ist eine Liste von Anthropics Safeguards-Beiträgen und Teasern, deren Wirksamkeitsangaben hier nicht unabhängig belegt werden.
+- **[Signing the General-Purpose AI code of practice](http://digital-strategy.ec.europa.eu/en/faqs/signing-general-purpose-ai-code-practice)** · digital-strategy.ec.europa.eu ·  · [Q002618](../../berichte/Q00/Q0026/Q002618/)
+  - Levels 4–7: clef **20 %** · Luna **35 %** · d3-ultra **24 %** · JEV not yet rated · amos **42 %** · drex not yet rated
+  - Levels 3–7: clef **46 %** · Luna **57 %** · d3-ultra **44 %** · JEV not yet rated · amos **65 %** · drex not yet rated
+  - Summary (German): Laut EU-FAQ können Anbieter den Kodex als Compliance-Nachweis nutzen, während Nichtteilnehmende ihre Pflichterfüllung anderweitig erklären müssen; Unterzeichnung ist jederzeit möglich und die Signatur widerrufbar.
+- **[Tracking AI Chips](https://cset.georgetown.edu/publication/tracking-ai-chips/)** · cset.georgetown.edu · 2026-09-29 · [Q000850](../../berichte/Q00/Q0008/Q000850/)
+  - Levels 4–7: clef **35 %** · Luna **12 %** · d3-ultra **14 %** · JEV **13 %** · amos **28 %** · drex **24 %**
+  - Levels 3–7: clef **56 %** · Luna **31 %** · d3-ultra **26 %** · JEV **19 %** · amos **50 %** · drex **40 %**
+  - Summary (German): Der vorliegende Auszug empfiehlt PLV zur Unterstützung von US-Exportkontrollen für KI-Chips, warnt aber vor beträchtlichen Erkennungsgrenzen und dem Bedarf an ausreichenden BIS-Ressourcen.
+- **[Translation Snapshot: Chinese AI White Papers](https://cset.georgetown.edu/publication/translation-snapshot-chinese-ai-white-papers/)** · cset.georgetown.edu · 2023-11-28 · [Q003889](../../berichte/Q00/Q0038/Q003889/)
+  - Levels 4–7: clef **8 %** · Luna **35 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **31 %** · Luna **68 %** · d3-ultra **7 %** · JEV **8 %** · amos **22 %** · drex **16 %**
+  - Summary (German): CSET stellt sieben chinesische KI-Berichte und ihre Themen vor, ohne deren Aussagen unabhängig zu überprüfen.
+- **[When the Agent Is the Incident: NIST, NSA, and CISA's 10 Key Practices for SI Incident Response](https://www.cybersecurityos.net/posts/ai-devsecops/nist-cisa-nsa-si-incident-response-key-practices/)** · cybersecurityos.net · 2026-10-25 · [Q000035](../../berichte/Q00/Q0000/Q000035/)
+  - Levels 4–7: clef **19 %** · Luna **35 %** · d3-ultra not yet rated · JEV **60 %** · amos **42 %** · drex **31 %**
+  - Levels 3–7: clef **49 %** · Luna **79 %** · d3-ultra not yet rated · JEV **79 %** · amos **63 %** · drex **50 %**
+  - Summary (German): Eine freiwillige Leitlinie von NIST, NSA und CISA behandelt eigenständiges Fehlverhalten leistungsfähiger Agenten als Vorfall mit eigenen Regeln für Überwachung, Eindämmung und Wiederherstellung, während zentrale Umsetzungsfragen noch offen sind.
+- **[10 Ways AI Labs Can Limit Antitrust Risks of Safety Pacts | Insights](https://www.hklaw.com/en/insights/publications/2026/11/10-ways-ai-labs-can-limit-antitrust-risks-of-safety-pacts)** · hklaw.com ·  · [Q000483](../../berichte/Q00/Q0004/Q000483/)
+  - Levels 4–7: clef **13 %** · Luna **34 %** · d3-ultra not yet rated · JEV **4 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **36 %** · Luna **65 %** · d3-ultra not yet rated · JEV **20 %** · amos **32 %** · drex **25 %**
+  - Summary (German): Der vorliegende Auszug sagt, KI-Sicherheitsabsprachen könnten kartellrechtliche Risiken auslösen und nennt einige mögliche Schutzmaßnahmen, enthält aber nicht den vollständigen Artikel.
+- **["14th Five-Year" Plan for Promoting the High-Quality Development of the National Standards System](https://cset.georgetown.edu/publication/14th-five-year-plan-for-promoting-the-high-quality-development-of-the-national-standards-system/)** · cset.georgetown.edu · 2022-01-27 · [Q006199](../../berichte/Q00/Q0061/Q006199/)
+  - Levels 4–7: clef **4 %** · Luna **34 %** · d3-ultra **1 %** · JEV **10 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **8 %** · Luna **71 %** · d3-ultra **5 %** · JEV **24 %** · amos **16 %** · drex **12 %**
+  - Summary (German): Der unvollständige Auszug skizziert Chinas Normungsziele bis 2025, liefert aber keine Belege für ihre Umsetzung oder Erreichung.
+- **[Anthropic discloses month-long training pause, AI security breaches in IPO filing](https://www.tbsnews.net/world/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-1584156)** · tbsnews.net · 2026-10-27 · [Q000112](../../berichte/Q00/Q0001/Q000112/)
+  - Levels 4–7: clef **13 %** · Luna **34 %** · d3-ultra not yet rated · JEV **23 %** · amos **16 %** · drex **10 %**
+  - Levels 3–7: clef **42 %** · Luna **61 %** · d3-ultra not yet rated · JEV **38 %** · amos **42 %** · drex **26 %**
+  - Summary (German): Drei Reuters-Berichte behandeln Anthropics Sicherheitsvorfälle, einen Vorstoß der Trump-Regierung gegen landesweite Gerichtsentscheidungen und Selenskyjs Darstellung der Ukraine-Verhandlungen.
+- **[Anthropic's core views on AI safety](https://www.anthropic.com/news/core-views-on-ai-safety)** · anthropic.com · 2023-03-08 · [Q004100](../../berichte/Q00/Q0041/Q004100/)
+  - Levels 4–7: clef **16 %** · Luna **34 %** · d3-ultra not yet rated · JEV **28 %** · amos **25 %** · drex **15 %**
+  - Levels 3–7: clef **52 %** · Luna **80 %** · d3-ultra not yet rated · JEV **53 %** · amos **54 %** · drex **33 %**
+  - Summary (German): Anthropic hält weitreichende KI-Folgen für möglich und setzt auf ein breites, empirisch ausgerichtetes Sicherheitsprogramm, dessen Wirksamkeit noch offen ist.
+- **[A Stanford-led benchmark found frontier models fold when a teammate pushes back.](https://www.sanctity.ai/signal/collab-intelligence-bench-e071)** · sanctity.ai ·  · [Q000319](../../berichte/Q00/Q0003/Q000319/)
+  - Levels 4–7: clef **18 %** · Luna **34 %** · d3-ultra not yet rated · JEV **55 %** · amos **22 %** · drex **7 %**
+  - Levels 3–7: clef **49 %** · Luna **57 %** · d3-ultra not yet rated · JEV **72 %** · amos **51 %** · drex **15 %**
+  - Summary (German): Laut einem Stanford-nahen Benchmark lassen sich KI-Modelle bei Teamarbeit besonders unter Druck häufig aus dem Tritt bringen, doch ist unklar, ob sich das auf reale Arbeitsplätze übertragen lässt.
+- **[China Speeds AI Law; DeepSeek, Alibaba Face Disclosure Push](https://fourweekmba.com/ai-china-speeds-ai-law-deepseek-alibaba-face-disclosure-push/)** · fourweekmba.com · 2026-11-03 · [Q001842](../../berichte/Q00/Q0018/Q001842/)
+  - Levels 4–7: clef **12 %** · Luna **34 %** · d3-ultra **17 %** · JEV **50 %** · amos **24 %** · drex **27 %**
+  - Levels 3–7: clef **51 %** · Luna **86 %** · d3-ultra **43 %** · JEV **77 %** · amos **51 %** · drex **52 %**
+  - Summary (German): China kündigt ein umfassendes KI-Gesetz mit Sicherheits- und Meldeanforderungen an, doch Entwurf, Zeitplan und konkrete Pflichten bleiben laut Bericht offen.
+- **[Dario Amodei — The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability)** · darioamodei.com · 2025-04-24 · [Q004600](../../berichte/Q00/Q0046/Q004600/)
+  - Levels 4–7: clef **20 %** · Luna **34 %** · d3-ultra not yet rated · JEV **26 %** · amos **15 %** · drex **17 %**
+  - Levels 3–7: clef **57 %** · Luna **64 %** · d3-ultra not yet rated · JEV **51 %** · amos **37 %** · drex **35 %**
+  - Summary (German): Amodei fordert, die noch unvollständige Interpretierbarkeit von KI zu beschleunigen, damit leistungsfähige Modelle besser geprüft werden können, bevor sie breite Wirkung entfalten.
+- **[Finding Cloud Misconfigurations with Frontier AI: A Case Study](https://www.aisi.gov.uk/blog/finding-cloud-misconfigurations-with-frontier-ai-a-case-study)** · aisi.gov.uk · 2026-07-07 · [Q001383](../../berichte/Q00/Q0013/Q001383/)
+  - Levels 4–7: clef **15 %** · Luna **34 %** · d3-ultra not yet rated · JEV **77 %** · amos **31 %** · drex **12 %**
+  - Levels 3–7: clef **44 %** · Luna **66 %** · d3-ultra not yet rated · JEV **87 %** · amos **56 %** · drex **22 %**
+  - Summary (German): AISI zufolge fanden Frontier-KI-Modelle in einer isolierten Staging-Umgebung zuvor unbekannte Cloud-Fehlkonfigurationen, wobei menschlich begleitete und autonome Tests die klarsten Ergebnisse lieferten.
+- **[G7 AI transparency reporting: Ten insights for AI governance and risk management](https://oecd.ai/en/wonk/g7-haip-report-insights-for-ai-governance-and-risk-management)** · oecd.ai · 2025-09-25 · [Q002277](../../berichte/Q00/Q0022/Q002277/)
+  - Levels 4–7: clef **19 %** · Luna **34 %** · d3-ultra **14 %** · JEV **35 %** · amos **28 %** · drex **31 %**
+  - Levels 3–7: clef **52 %** · Luna **86 %** · d3-ultra **47 %** · JEV **77 %** · amos **57 %** · drex **66 %**
+  - Summary (German): 20 freiwillige HAIP-Berichte zeigen laut OECD vielfältige Ansätze für KI-Risikomanagement und Transparenz, zugleich bleiben Vergleichbarkeit und technische Herkunftsnachweise begrenzt.
+- **[Google DeepMind & Singapore: National AI partnership](https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/)** · deepmind.google · 2026-05-20 · [Q004557](../../berichte/Q00/Q0045/Q004557/)
+  - Levels 4–7: clef **13 %** · Luna **34 %** · d3-ultra **4 %** · JEV **23 %** · amos **14 %** · drex **9 %**
+  - Levels 3–7: clef **34 %** · Luna **70 %** · d3-ultra **12 %** · JEV **45 %** · amos **38 %** · drex **19 %**
+  - Summary (German): Google DeepMind beschreibt eine neue KI-Partnerschaft mit Singapur samt Vorhaben für Gesundheit, Wissenschaft, Bildung, Nachhaltigkeit und Sicherheit, deren Wirkungen laut Bericht noch nicht unabhängig belegt sind.
+- **[Introducing Anthropic's Transparency Hub](https://www.anthropic.com/news/introducing-anthropic-transparency-hub)** · anthropic.com · 2025-02-27 · [Q003175](../../berichte/Q00/Q0031/Q003175/)
+  - Levels 4–7: clef **12 %** · Luna **34 %** · d3-ultra not yet rated · JEV **17 %** · amos **13 %** · drex **7 %**
+  - Levels 3–7: clef **38 %** · Luna **73 %** · d3-ultra not yet rated · JEV **56 %** · amos **39 %** · drex **20 %**
+  - Summary (German): Anthropic kündigt einen Hub mit Informationen zu KI-Sicherheit und Transparenz an; konkrete Kennzahlen oder eine unabhängige Bewertung enthält der Artikel nicht.
+- **[Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)** · openai.com · 2025-01-28 · [Q002643](../../berichte/Q00/Q0026/Q002643/)
+  - Levels 4–7: clef **11 %** · Luna **34 %** · d3-ultra not yet rated · JEV **10 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **30 %** · Luna **62 %** · d3-ultra not yet rated · JEV **30 %** · amos **27 %** · drex **17 %**
+  - Summary (German): ChatGPT Gov wurde für US-Behörden angekündigt, ist laut aktuellem Hinweis inzwischen eingestellt; die genannten Nutzungs- und Wirkungszahlen sind Angaben aus dem Bericht.
+- **[OpenAI’s comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights/)** · openai.com · 2024-03-27 · [Q007961](../../berichte/Q00/Q0079/Q007961/)
+  - Levels 4–7: clef **13 %** · Luna **34 %** · d3-ultra not yet rated · JEV **16 %** · amos **23 %** · drex **16 %**
+  - Levels 3–7: clef **48 %** · Luna **82 %** · d3-ultra not yet rated · JEV **44 %** · amos **49 %** · drex **34 %**
+  - Summary (German): OpenAI befürwortet offene und kontrollierte KI-Veröffentlichungen, fordert je nach Modellrisiko abgestufte Prüfungen und hält flexible Politik angesichts einer noch jungen Risikowissenschaft für nötig.
+- **[OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework/)** · openai.com · 2026-05-28 · [Q002330](../../berichte/Q00/Q0023/Q002330/)
+  - Levels 4–7: clef **15 %** · Luna **34 %** · d3-ultra not yet rated · JEV **12 %** · amos **16 %** · drex **11 %**
+  - Levels 3–7: clef **43 %** · Luna **66 %** · d3-ultra not yet rated · JEV **53 %** · amos **44 %** · drex **33 %**
+  - Summary (German): OpenAI kündigt ein öffentliches Governance Framework zu KI-Sicherheitsrisiken und regulatorischen Pflichten an; der Bericht nennt Themen und geplante Weiterentwicklung, bleibt aber eine knappe Übersicht.
+- **[Our Most Aligned Model Yet](https://www.lesswrong.com/posts/Zu5wmhtxJCfrXQY8H/our-most-aligned-model-yet)** · lesswrong.com · 2026-11-10 · [Q000348](../../berichte/Q00/Q0003/Q000348/)
+  - Levels 4–7: clef **18 %** · Luna **34 %** · d3-ultra not yet rated · JEV **15 %** · amos **23 %** · drex **15 %**
+  - Levels 3–7: clef **57 %** · Luna **58 %** · d3-ultra not yet rated · JEV **32 %** · amos **53 %** · drex **30 %**
+  - Summary (German): Der Beitrag argumentiert, dass heutige KI-Sicherheitsaudits Fehlverhalten weder zuverlässig erkennen noch vollständig abdecken, und fordert langfristig eine Bewertung auf Grundlage eines tieferen Verständnisses der Modelle.
+- **[Post by @satyanadella on X](https://x.com/satyanadella/status/2099220712024408084)** · x.com · 2026-09-13 · [Q000595](../../berichte/Q00/Q0005/Q000595/)
+  - Levels 4–7: clef **12 %** · Luna **34 %** · d3-ultra not yet rated · JEV **15 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **45 %** · Luna **73 %** · d3-ultra not yet rated · JEV **48 %** · amos **34 %** · drex **21 %**
+  - Summary (German): Nadella wirbt für kontrollierbare und breit zugängliche KI, unternehmerische Modellfreiheit und kündigt einen Verhaltenskodex für Microsofts MAI-Modelle an.
+- **[Red-Teaming Anthropic's Internal Agent Monitoring Systems](https://metr.org/blog/2026-03-25-red-teaming-anthropic-agent-monitoring/)** · metr.org · 2026-03-26 · [Q001794](../../berichte/Q00/Q0017/Q001794/)
+  - Levels 4–7: clef **34 %** · Luna **18 %** · d3-ultra **30 %** · JEV **80 %** · amos **56 %** · drex **37 %**
+  - Levels 3–7: clef **57 %** · Luna **40 %** · d3-ultra **62 %** · JEV **85 %** · amos **75 %** · drex **56 %**
+  - Summary (German): Ein METR-Test fand Lücken in Anthropics damaliger Agentenüberwachung, während die untersuchten Modelle zwar begrenzte Angriffsfähigkeiten zeigten, mit umfassendem Systemwissen aber kritische Schwachstellen ausnutzen könnten.
+- **[Repurposing the Wheel: Lessons for AI Standards](https://cset.georgetown.edu/publication/repurposing-the-wheel/)** · cset.georgetown.edu · 2023-11-30 · [Q003802](../../berichte/Q00/Q0038/Q003802/)
+  - Levels 4–7: clef **22 %** · Luna **34 %** · d3-ultra **17 %** · JEV **3 %** · amos **31 %** · drex **25 %**
+  - Levels 3–7: clef **57 %** · Luna **81 %** · d3-ultra **42 %** · JEV **12 %** · amos **59 %** · drex **54 %**
+  - Summary (German): Der Auszug empfiehlt, KI-Standards risikogerecht, anpassungsfähig und besser koordiniert zu entwickeln; der vollständige Bericht und die Fallstudiendetails liegen nicht vor.
+- **[Review of the Anthropic Summer 2025 Pilot Sabotage Risk Report](https://metr.org/blog/2025-10-28-sabotage-report-review/)** · metr.org · 2025-10-28 · [Q002130](../../berichte/Q00/Q0021/Q002130/)
+  - Levels 4–7: clef **34 %** · Luna **7 %** · d3-ultra **9 %** · JEV **37 %** · amos **37 %** · drex **21 %**
+  - Levels 3–7: clef **59 %** · Luna **10 %** · d3-ultra **31 %** · JEV **46 %** · amos **62 %** · drex **42 %**
+  - Summary (German): Der vorgelegte Auszug berichtet, dass METR Anthropics Einschätzung eines geringen Sabotagerisikos für Opus 4 und 4.1 überwiegend teilt, trotz möglicher übersehener fehlgeleiteter Überlegungen.
+- **[State Council Notice on the Publication of the National 13th Five-Year Plan for S&T Innovation](https://cset.georgetown.edu/publication/state-council-notice-on-the-publication-of-the-national-13th-five-year-plan-for-st-innovation/)** · cset.georgetown.edu · 2020-01-08 · [Q006565](../../berichte/Q00/Q0065/Q006565/)
+  - Levels 4–7: clef **8 %** · Luna **34 %** · d3-ultra not yet rated · JEV not yet rated · amos **6 %** · drex not yet rated
+  - Levels 3–7: clef **12 %** · Luna **63 %** · d3-ultra not yet rated · JEV not yet rated · amos **20 %** · drex not yet rated
+  - Summary (German): Notizen zu Chinas Innovationsplan 2016–2020 beschreiben Zielwerte und Maßnahmen, belegen aber weder deren Umsetzung noch spätere Ergebnisse.
+- **[Trustworthy agents in practice](https://www.anthropic.com/research/trustworthy-agents)** · anthropic.com · 2026-04-09 · [Q001742](../../berichte/Q00/Q0017/Q001742/)
+  - Levels 4–7: clef **11 %** · Luna **34 %** · d3-ultra not yet rated · JEV **29 %** · amos **25 %** · drex **14 %**
+  - Levels 3–7: clef **43 %** · Luna **65 %** · d3-ultra not yet rated · JEV **55 %** · amos **53 %** · drex **30 %**
+  - Summary (German): Anthropic zufolge erfordert vertrauenswürdige KI-Agentenarbeit Schutz auf mehreren Ebenen und gemeinsame Branchenstandards; die beschriebenen Maßnahmen bieten jedoch keine Garantie, und unabhängige Standardtests fehlen bislang.
+- **[United Kingdom-Germany joint statement on the safety and security of advanced artificial intelligence](https://www.aisi.gov.uk/blog/uk-germany-joint-statement-on-advanced-ai-safety-and-security)** · aisi.gov.uk · 2026-06-30 · [Q001391](../../berichte/Q00/Q0013/Q001391/)
+  - Levels 4–7: clef **15 %** · Luna **34 %** · d3-ultra not yet rated · JEV **57 %** · amos **16 %** · drex **14 %**
+  - Levels 3–7: clef **48 %** · Luna **70 %** · d3-ultra not yet rated · JEV **90 %** · amos **43 %** · drex **36 %**
+  - Summary (German): Großbritannien und Deutschland kündigen eine offene Zusammenarbeit zur sicheren Entwicklung und Bewertung fortgeschrittener KI an, ohne konkrete Zeitpläne oder bereits erzielte Ergebnisse zu benennen.
+- **[White House Accord on Super Intelligence: Legal Guide for AI Firms](https://general.legal/blog/white-house-accord-on-super-intelligence-a-guide-for-ai-companies)** · general.legal · 2026-10-15 · [Q000111](../../berichte/Q00/Q0001/Q000111/)
+  - Levels 4–7: clef **21 %** · Luna **34 %** · d3-ultra **42 %** · JEV **3 %** · amos **44 %** · drex **27 %**
+  - Levels 3–7: clef **53 %** · Luna **83 %** · d3-ultra **73 %** · JEV **10 %** · amos **71 %** · drex **51 %**
+  - Summary (German): Der Beitrag beschreibt einen unverbindlichen Accord mit vier empfohlenen KI-Kontrollen, dessen praktische Bedeutung laut Autor vor allem aus bestehenden Regeln und möglichen Anforderungen von Geschäftspartnern entsteht.
+- **[Working with the US Department of Energy](https://www.anthropic.com/news/genesis-mission-partnership)** · anthropic.com · 2025-12-18 · [Q003338](../../berichte/Q00/Q0033/Q003338/)
+  - Levels 4–7: clef **13 %** · Luna **34 %** · d3-ultra not yet rated · JEV **25 %** · amos **11 %** · drex **10 %**
+  - Levels 3–7: clef **39 %** · Luna **75 %** · d3-ultra not yet rated · JEV **53 %** · amos **34 %** · drex **22 %**
+  - Summary (German): Anthropic kündigt mit dem US-Energieministerium eine mehrjährige KI-Partnerschaft für Forschung an, deren mögliche Vorteile der Bericht beschreibt, aber noch nicht durch Ergebnisse belegt.
+- **[Evaluating whether AI models would sabotage AI safety research](https://www.aisi.gov.uk/blog/evaluating-whether-ai-models-would-sabotage-ai-safety-research)** · aisi.gov.uk · 2026-04-27 · [Q001731](../../berichte/Q00/Q0017/Q001731/)
+  - Levels 4–7: clef **30 %** · Luna **33 %** · d3-ultra not yet rated · JEV **26 %** · amos **29 %** · drex **15 %**
+  - Levels 3–7: clef **60 %** · Luna **60 %** · d3-ultra not yet rated · JEV **40 %** · amos **55 %** · drex **30 %**
+  - Summary (German): Keine eigenständige Sabotage wurde festgestellt, doch Fortsetzungstests zeigten einzelne problematische Verhaltensweisen – bei deutlichen Grenzen der Aussagekraft.
+- **[Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing)** · anthropic.com · 2026-06-02 · [Q002177](../../berichte/Q00/Q0021/Q002177/)
+  - Levels 4–7: clef **17 %** · Luna **33 %** · d3-ultra not yet rated · JEV **44 %** · amos **29 %** · drex **19 %**
+  - Levels 3–7: clef **46 %** · Luna **69 %** · d3-ultra not yet rated · JEV **66 %** · amos **56 %** · drex **40 %**
+  - Summary (German): Anthropic erweitert Project Glasswing für rund 150 weitere Organisationen und will KI stärker für die Behebung von Sicherheitslücken einsetzen, hält einen allgemeinen Zugang zu Mythos-ähnlichen Fähigkeiten aber mangels ausreichender Schutzmaßnahmen noch für verfrüht.
+- **[Kimi K3.1 Pro Weights Ship at 1.56 TB, With Cyber Gains Held Back](https://rits.shanghai.nyu.edu/ai/kimi-k3-1-pro-weights-ship-at-1-56-tb-with-cyber-gains-held-back/)** · rits.shanghai.nyu.edu · 2026-11-05 · [Q000400](../../berichte/Q00/Q0004/Q000400/)
+  - Levels 4–7: clef **17 %** · Luna **33 %** · d3-ultra not yet rated · JEV **38 %** · amos **32 %** · drex **13 %**
+  - Levels 3–7: clef **41 %** · Luna **61 %** · d3-ultra not yet rated · JEV **55 %** · amos **59 %** · drex **24 %**
+  - Summary (German): Moonshot veröffentlichte Kimi K3.1 Pro mit 1,56 TB Gewichten und laut eigener Messung reduzierten Cyberfähigkeiten; die Benchmarks zeigen Stärken bei agentischen Aufgaben, aber Schwächen bei anspruchsvollem Schlussfolgern, und die Lizenz ist kein Open Source.
+- **[OpenAI o1 System Card](https://arxiv.org/pdf/2412.16720)** · arxiv.org ·  · [Q009438](../../berichte/Q00/Q0094/Q009438/)
+  - Levels 4–7: clef **33 %** · Luna **23 %** · d3-ultra not yet rated · JEV not yet rated · amos **56 %** · drex not yet rated
+  - Levels 3–7: clef **54 %** · Luna **43 %** · d3-ultra not yet rated · JEV not yet rated · amos **76 %** · drex not yet rated
+  - Found at: [arxiv.org](https://arxiv.org/pdf/2412.16720) (Q009438) · [openai.com](https://openai.com/index/openai-o1-system-card/) (Q008641)
+  - Summary (German): OpenAI zufolge verbessert o1 viele Sicherheitsmesswerte, birgt aber in bestimmten Bereichen mittlere Risiken, und die Tests erfassen mögliche Gefahren nur begrenzt.
+- **[Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)** · anthropic.com · 2026-07-27 · [Q004713](../../berichte/Q00/Q0047/Q004713/)
+  - Levels 4–7: clef **15 %** · Luna **33 %** · d3-ultra not yet rated · JEV **18 %** · amos **26 %** · drex **19 %**
+  - Levels 3–7: clef **49 %** · Luna **72 %** · d3-ultra not yet rated · JEV **46 %** · amos **54 %** · drex **47 %**
+  - Summary (German): Anthropic lehnt ein pauschales Verbot offener KI-Gewichte ab und plädiert für Chipkontrollen, Maßnahmen gegen industrielle Destillation und verpflichtende Tests leistungsfähiger Modelle.
+- **[Preparing for future AI capabilities in biology](https://openai.com/index/preparing-for-future-ai-capabilities-in-biology/)** · openai.com · 2025-06-18 · [Q009274](../../berichte/Q00/Q0092/Q009274/)
+  - Levels 4–7: clef **21 %** · Luna **33 %** · d3-ultra not yet rated · JEV **19 %** · amos **37 %** · drex **31 %**
+  - Levels 3–7: clef **54 %** · Luna **75 %** · d3-ultra not yet rated · JEV **60 %** · amos **63 %** · drex **53 %**
+  - Summary (German): OpenAI stellt Schutzpläne gegen möglichen biologischen Missbrauch leistungsfähiger KI vor, weist aber auf unsichere Risikobewertungen hin und liefert keine unabhängige Wirksamkeitsprüfung.
+- **[Press Release: Technical Innovations for AI Policy](https://www.far.ai/blog/technical-innovations-for-ai-policy)** · far.ai · 2026-08-19 · [Q001390](../../berichte/Q00/Q0013/Q001390/)
+  - Levels 4–7: clef **14 %** · Luna **33 %** · d3-ultra not yet rated · JEV **22 %** · amos **26 %** · drex **28 %**
+  - Levels 3–7: clef **44 %** · Luna **62 %** · d3-ultra not yet rated · JEV **53 %** · amos **52 %** · drex **52 %**
+  - Summary (German): FAR.AI berichtet über eine Konferenz zu KI-Governance mit mehr als 150 Teilnehmenden und politischen Vorschlägen, ohne eine spätere Umsetzung zu belegen.
+- **[Progress Update: Advancing Frontier AI Safety in 2024 and Beyond](https://www.frontiermodelforum.org/updates/progress-update-advancing-frontier-ai-safety-in-2024-and-beyond/)** · frontiermodelforum.org · 2024-08-29 · [Q002696](../../berichte/Q00/Q0026/Q002696/)
+  - Levels 4–7: clef **12 %** · Luna **33 %** · d3-ultra not yet rated · JEV **17 %** · amos **17 %** · drex **14 %**
+  - Levels 3–7: clef **48 %** · Luna **74 %** · d3-ultra not yet rated · JEV **51 %** · amos **48 %** · drex **37 %**
+  - Summary (German): Das Frontier Model Forum skizziert seine Sicherheitsprojekte, Forschungsförderung und geplante Zusammenarbeit, berichtet aber überwiegend über Aktivitäten und Absichten statt über belegte Resultate.
+- **[Sensitive Science and Technology Protection Bill](https://cset.georgetown.edu/publication/sensitive-science-and-technology-protection-bill/)** · cset.georgetown.edu · 2019-11-08 · [Q006495](../../berichte/Q00/Q0064/Q006495/)
+  - Levels 4–7: clef **12 %** · Luna **33 %** · d3-ultra **2 %** · JEV **4 %** · amos **7 %** · drex **8 %**
+  - Levels 3–7: clef **30 %** · Luna **64 %** · d3-ultra **6 %** · JEV **7 %** · amos **16 %** · drex **16 %**
+  - Summary (German): Übersetzung eines taiwanischen Gesetzentwurfs von 2018 zum Schutz sensibler Technologie; die Begründungen der Antragsteller sind nicht unabhängig geprüft, und der Bericht nennt keinen späteren Gesetzesstatus.
+- **[Singapore Alignment Workshop 2025](https://www.far.ai/blog/singapore-alignment-workshop-2025)** · far.ai · 2026-07-16 · [Q001732](../../berichte/Q00/Q0017/Q001732/)
+  - Levels 4–7: clef **16 %** · Luna **33 %** · d3-ultra not yet rated · JEV **14 %** · amos **27 %** · drex **15 %**
+  - Levels 3–7: clef **49 %** · Luna **77 %** · d3-ultra not yet rated · JEV **48 %** · amos **56 %** · drex **31 %**
+  - Summary (German): Der Workshop stellte vielfältige Ansätze für KI-Sicherheit vor, doch der Bericht zeigt zugleich, dass wichtige Befunde vorläufig und Schutzlösungen unvollständig sind.
+- **[The Hinton Lectures: Paul Christiano](https://medium.com/@ZombieCodeKill/the-hinton-lectures-paul-christiano-6ef705939433)** · medium.com · 2026-11-10 · [Q000299](../../berichte/Q00/Q0002/Q000299/)
+  - Levels 4–7: clef **14 %** · Luna **33 %** · d3-ultra **7 %** · JEV **18 %** · amos **26 %** · drex **24 %**
+  - Levels 3–7: clef **53 %** · Luna **70 %** · d3-ultra **30 %** · JEV **50 %** · amos **57 %** · drex **57 %**
+  - Summary (German): Der Bericht fasst Christiano zugeschriebene Warnungen und Vorschläge zur KI-Sicherheit zusammen, doch der bereitgestellte Text bricht bei der Darstellung des dritten Vortrags ab.
+- **[Turning AI ambition into action: How the OECD is engaging at India’s AI Impact Summit](https://oecd.ai/en/wonk/how-the-oecd-is-engaging-at-indias-ai-impact-summit)** · oecd.ai · 2026-02-18 · [Q001807](../../berichte/Q00/Q0018/Q001807/)
+  - Levels 4–7: clef **11 %** · Luna **33 %** · d3-ultra **6 %** · JEV **26 %** · amos **19 %** · drex **15 %**
+  - Levels 3–7: clef **47 %** · Luna **92 %** · d3-ultra **21 %** · JEV **74 %** · amos **49 %** · drex **56 %**
+  - Summary (German): Die OECD kündigt Beiträge zum India AI Impact Summit 2026 an und beschreibt mögliche Ziele, doch der Text belegt keine späteren Ergebnisse.
+- **[AI for everyone? A roadmap to substantive equality in AI ecosystems](https://oecd.ai/en/wonk/roadmap-equality-ai-ecosystems)** · oecd.ai · 2024-11-27 · [Q004866](../../berichte/Q00/Q0048/Q004866/)
+  - Levels 4–7: clef **13 %** · Luna **32 %** · d3-ultra not yet rated · JEV **13 %** · amos **11 %** · drex **12 %**
+  - Levels 3–7: clef **39 %** · Luna **78 %** · d3-ultra not yet rated · JEV **40 %** · amos **36 %** · drex **25 %**
+  - Summary (German): Der vollständige Artikel plädiert für menschenrechtsbasierte KI-Politik mit echter Beteiligung marginalisierter Gruppen, wirksamer Rechenschaft und kontextgerechter Umsetzung.
+- **[AI Safety, Ethics, and Society](https://safe.ai/blog/ai-safety-ethics-and-society)** · safe.ai ·  · [Q002779](../../berichte/Q00/Q0027/Q002779/)
+  - Levels 4–7: clef **8 %** · Luna **32 %** · d3-ultra not yet rated · JEV **0 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **56 %** · Luna **84 %** · d3-ultra not yet rated · JEV **12 %** · amos **25 %** · drex **16 %**
+  - Summary (German): Der Beitrag stellt ein Lehrbuch und einen Onlinekurs vor, die technische, ethische und gesellschaftliche Fragen der KI-Sicherheit verständlich behandeln sollen, ohne ihre Wirksamkeit zu belegen.
+- **[AI Safety Fund initiates first round of research grants](https://www.frontiermodelforum.org/updates/ai-safety-fund-initiates-first-round-of-research-grants/)** · frontiermodelforum.org · 2024-04-01 · [Q002831](../../berichte/Q00/Q0028/Q002831/)
+  - Levels 4–7: clef **12 %** · Luna **32 %** · d3-ultra not yet rated · JEV **34 %** · amos **15 %** · drex **7 %**
+  - Levels 3–7: clef **42 %** · Luna **58 %** · d3-ultra not yet rated · JEV **65 %** · amos **43 %** · drex **18 %**
+  - Summary (German): Der Frontier Model Forum kündigt erste Forschungszuschüsse des AI Safety Fund für unabhängige Bewertungen und Sicherheitsforschung zu eingesetzten fortgeschrittenen KI-Modellen an, nennt aber noch keine Geförderten oder Ergebnisse.
+- **[A roadmap for an AI learning campaign](https://oecd.ai/en/wonk/roadmap-ai-learning-campaign)** · oecd.ai · 2023-04-19 · [Q006294](../../berichte/Q00/Q0062/Q006294/)
+  - Levels 4–7: clef **11 %** · Luna **32 %** · d3-ultra not yet rated · JEV **12 %** · amos **20 %** · drex **12 %**
+  - Levels 3–7: clef **43 %** · Luna **90 %** · d3-ultra not yet rated · JEV **52 %** · amos **51 %** · drex **30 %**
+  - Summary (German): Der Beitrag plädiert für eine weltweite Lernkampagne, die KI-Wissen, verantwortungsvolle Nutzung, bessere Schutzwerkzeuge und internationale Zusammenarbeit fördern soll.
+- **[Bridging the gap in AI governance and the rule of law: The Athens Roundtable 2023](https://oecd.ai/en/wonk/athens-roundtable-2023)** · oecd.ai · 2023-10-26 · [Q005767](../../berichte/Q00/Q0057/Q005767/)
+  - Levels 4–7: clef **11 %** · Luna **32 %** · d3-ultra **3 %** · JEV **14 %** · amos **14 %** · drex **14 %**
+  - Levels 3–7: clef **49 %** · Luna **76 %** · d3-ultra **17 %** · JEV **59 %** · amos **45 %** · drex **40 %**
+  - Summary (German): Die Ankündigung der Athens Roundtable 2023 fordert eine rechtebasierte, international koordinierte KI-Governance mit zentraler Beteiligung der Zivilgesellschaft, enthält aber keine späteren Konferenzergebnisse.
+- **[EU international engagement on Artificial Intelligence](http://digital-strategy.ec.europa.eu/en/policies/ai-international-relations)** · digital-strategy.ec.europa.eu ·  · [Q001584](../../berichte/Q00/Q0015/Q001584/)
+  - Levels 4–7: clef **11 %** · Luna **32 %** · d3-ultra **8 %** · JEV not yet rated · amos **17 %** · drex not yet rated
+  - Levels 3–7: clef **51 %** · Luna **77 %** · d3-ultra **29 %** · JEV not yet rated · amos **46 %** · drex not yet rated
+  - Summary (German): Die EU will über das AI Office internationale KI-Forschung, Sicherheit und Anwendungen zum öffentlichen Nutzen fördern; der Bericht beschreibt Ziele und Vorhaben, enthält aber keine Wirkungsbewertung.
+- **[Google DeepMind & DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)** · deepmind.google · 2025-12-18 · [Q004882](../../berichte/Q00/Q0048/Q004882/)
+  - Levels 4–7: clef **10 %** · Luna **32 %** · d3-ultra **1 %** · JEV **72 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **24 %** · Luna **76 %** · d3-ultra **6 %** · JEV **90 %** · amos **30 %** · drex **20 %**
+  - Summary (German): Google DeepMind will den 17 DOE-National Laboratorien KI-Werkzeuge für die Forschung bereitstellen; der Bericht beschreibt erwartete Vorteile und Unternehmensbeispiele, aber noch keine unabhängige Bilanz der Partnerschaft.
+- **[Guidelines on obligations for General-Purpose AI providers](http://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers)** · digital-strategy.ec.europa.eu ·  · [Q002431](../../berichte/Q00/Q0024/Q002431/)
+  - Levels 4–7: clef **26 %** · Luna **32 %** · d3-ultra **68 %** · JEV not yet rated · amos **61 %** · drex not yet rated
+  - Levels 3–7: clef **54 %** · Luna **60 %** · d3-ultra **83 %** · JEV not yet rated · amos **79 %** · drex not yet rated
+  - Summary (German): Die Kommission legt unverbindlich aus, welche Dokumentations-, Urheberrechts-, Transparenz- und Risikopflichten Anbieter allgemeiner KI-Modelle nach dem EU-KI-Gesetz erfüllen sollen.
+- **[How to Secure Advanced U.S. Chips](https://www.iaps.ai/research/how-to-secure-advanced-us-chips)** · iaps.ai · 2026-11-02 · [Q000392](../../berichte/Q00/Q0003/Q000392/)
+  - Levels 4–7: clef **27 %** · Luna **32 %** · d3-ultra not yet rated · JEV **9 %** · amos **27 %** · drex **25 %**
+  - Levels 3–7: clef **50 %** · Luna **61 %** · d3-ultra not yet rated · JEV **14 %** · amos **51 %** · drex **40 %**
+  - Summary (German): Das Memo empfiehlt strengere Kontrollen für Cloud-Chipzugang, Schmuggel, H200-Exporte und Fertigungsanlagen; seine Angaben zu künftigen Chipmengen sind zitierte Schätzungen und Prognosen.
+- **[If reliable AI content detection tools become available, should we use them? If so, how?](https://oecd.ai/en/wonk/ai-content-detection-tools)** · oecd.ai · 2025-01-24 · [Q004652](../../berichte/Q00/Q0046/Q004652/)
+  - Levels 4–7: clef **13 %** · Luna **32 %** · d3-ultra **3 %** · JEV **5 %** · amos **18 %** · drex **10 %**
+  - Levels 3–7: clef **39 %** · Luna **71 %** · d3-ultra **9 %** · JEV **10 %** · amos **41 %** · drex **23 %**
+  - Summary (German): Der Beitrag fordert verlässliche KI-Erkennung und abgestufte Regeln für deren Einsatz, stellt seine Vorschläge aber als politische Diskussionsgrundlage dar.
+- **[Introducing Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)** · anthropic.com · 2024-06-21 · [Q002721](../../berichte/Q00/Q0027/Q002721/)
+  - Levels 4–7: clef **32 %** · Luna **12 %** · d3-ultra not yet rated · JEV **87 %** · amos **51 %** · drex **59 %**
+  - Levels 3–7: clef **52 %** · Luna **36 %** · d3-ultra not yet rated · JEV **91 %** · amos **72 %** · drex **72 %**
+  - Summary (German): Anthropic stellt Claude 3.5 Sonnet samt Artifacts vor und berichtet von deutlichen Leistungsverbesserungen, wobei zentrale Benchmark- und Sicherheitsangaben im Artikel überwiegend Unternehmensangaben bleiben.
+- **[Introducing The Anthropic Institute](https://www.anthropic.com/news/the-anthropic-institute)** · anthropic.com · 2026-03-11 · [Q003413](../../berichte/Q00/Q0034/Q003413/)
+  - Levels 4–7: clef **10 %** · Luna **32 %** · d3-ultra not yet rated · JEV **13 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **41 %** · Luna **64 %** · d3-ultra not yet rated · JEV **48 %** · amos **33 %** · drex **16 %**
+  - Summary (German): Anthropic kündigt ein Institut für die gesellschaftlichen Folgen leistungsfähiger KI und den Ausbau seiner Public-Policy-Arbeit an; die zugrunde liegenden Zukunftsaussagen sind Unternehmensprognosen.
+- **[Mistral x HUMAIN](https://mistral.ai/news/mistral-x-humain/)** · mistral.ai · 2026-08-24 · [Q001706](../../berichte/Q00/Q0017/Q001706/)
+  - Levels 4–7: clef **7 %** · Luna **32 %** · d3-ultra **1 %** · JEV **10 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **20 %** · Luna **77 %** · d3-ultra **5 %** · JEV **29 %** · amos **19 %** · drex **8 %**
+  - Summary (German): Mistral und HUMAIN kündigen gemeinsame Vorhaben für souveräne KI in Saudi-Arabien und der Region an; ihre erwarteten Vorteile sind Ziele, deren tatsächliche Ergebnisse laut Bericht unsicher bleiben.
+- **[OpenAI and Greek Government launch ‘OpenAI for Greece’](https://openai.com/global-affairs/openai-for-greece/)** · openai.com · 2025-09-05 · [Q007111](../../berichte/Q00/Q0071/Q007111/)
+  - Levels 4–7: clef **11 %** · Luna **32 %** · d3-ultra not yet rated · JEV **19 %** · amos **8 %** · drex **9 %**
+  - Levels 3–7: clef **30 %** · Luna **70 %** · d3-ultra not yet rated · JEV **42 %** · amos **26 %** · drex **20 %**
+  - Summary (German): Der Bericht kündigt in Griechenland einen an Bedingungen geknüpften KI-Piloten für Schulen und ein Förderprogramm für Start-ups an, nennt aber noch keine Ergebnisse.
+- **[OpenAI’s approach to AI and national security](https://openai.com/global-affairs/openais-approach-to-ai-and-national-security/)** · openai.com · 2024-10-24 · [Q002434](../../berichte/Q00/Q0024/Q002434/)
+  - Levels 4–7: clef **11 %** · Luna **32 %** · d3-ultra not yet rated · JEV **19 %** · amos **11 %** · drex **9 %**
+  - Levels 3–7: clef **43 %** · Luna **76 %** · d3-ultra not yet rated · JEV **56 %** · amos **36 %** · drex **25 %**
+  - Summary (German): OpenAI wirbt für demokratisch ausgerichtete KI in der nationalen Sicherheit, beschreibt interne Prüfregeln und nennt künftige Einsatzmöglichkeiten, deren Wirksamkeit der Bericht nicht unabhängig bewertet.
+- **[Our Norms on Security, Science Communication and Conflicts of Interest](https://apolloresearch.ai/blog/our-norms-coi-security-science-communication)** · apolloresearch.ai ·  · [Q001426](../../berichte/Q00/Q0014/Q001426/)
+  - Levels 4–7: clef **14 %** · Luna **32 %** · d3-ultra **7 %** · JEV not yet rated · amos **16 %** · drex not yet rated
+  - Levels 3–7: clef **35 %** · Luna **93 %** · d3-ultra **19 %** · JEV not yet rated · amos **40 %** · drex not yet rated
+  - Summary (German): Apollo Research beschreibt eigene Standards für Interessenkonflikte, sichere Forschung und wissenschaftliche Kommunikation, belegt im Bericht aber nicht unabhängig deren Umsetzung.
+- **[Preparing the U.S. Economy for an AI Future Through Wise Policy Choices](https://cset.georgetown.edu/publication/preparing-the-u-s-economy-for-an-ai-future-through-wise-policy-choices/)** · cset.georgetown.edu · 2020-09-10 · [Q005784](../../berichte/Q00/Q0057/Q005784/)
+  - Levels 4–7: clef **14 %** · Luna **32 %** · d3-ultra **9 %** · JEV **10 %** · amos **13 %** · drex **10 %**
+  - Levels 3–7: clef **45 %** · Luna **71 %** · d3-ultra **22 %** · JEV **24 %** · amos **41 %** · drex **23 %**
+  - Summary (German): Matheny plädiert für KI-Forschung, internationale Fachkräfte und stärkere Halbleiterfertigung als Grundlagen US-amerikanischer Wettbewerbsfähigkeit; die Quelle ist eine Stellungnahme, keine systematische Wirkungsanalyse.
+- **[Recommendations for the National AI Research Resource Task Force](https://cset.georgetown.edu/publication/recommendations-for-the-national-ai-research-resource-task-force/)** · cset.georgetown.edu · 2021-09-27 · [Q005688](../../berichte/Q00/Q0056/Q005688/)
+  - Levels 4–7: clef **7 %** · Luna **32 %** · d3-ultra **1 %** · JEV **8 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **26 %** · Luna **61 %** · d3-ultra **5 %** · JEV **22 %** · amos **17 %** · drex **11 %**
+  - Summary (German): Cary empfiehlt eine NAIRR, die Forschung und bislang unterversorgte Gruppen mit mehr Rechenleistung, Daten und besseren Austauschmöglichkeiten unterstützt.
+- **[Review of the Anthropic Sabotage Risk Report: Claude Opus 4.6](https://metr.org/blog/2026-03-12-sabotage-risk-report-opus-4-6-review/)** · metr.org · 2026-03-12 · [Q001876](../../berichte/Q00/Q0018/Q001876/)
+  - Levels 4–7: clef **32 %** · Luna **9 %** · d3-ultra **5 %** · JEV **20 %** · amos **32 %** · drex **18 %**
+  - Levels 3–7: clef **59 %** · Luna **23 %** · d3-ultra **19 %** · JEV **32 %** · amos **59 %** · drex **37 %**
+  - Summary (German): Der Auszug berichtet, dass METR das Risiko katastrophaler Fehlanpassungsfolgen bei Claude Opus 4.6 als sehr niedrig, aber nicht vernachlässigbar einschätzt und weitere Prüfung möglicher Schwächen der Ausrichtungsbewertung empfiehlt.
+- **[Trump AI task force targets AI-powered cyberattack reporting](https://thenextweb.com/news/trump-ai-task-force-ai-cyberattacks-reporting)** · thenextweb.com · 2026-11-13 · [Q000569](../../berichte/Q00/Q0005/Q000569/)
+  - Levels 4–7: clef **11 %** · Luna **32 %** · d3-ultra not yet rated · JEV **31 %** · amos **18 %** · drex **22 %**
+  - Levels 3–7: clef **38 %** · Luna **78 %** · d3-ultra not yet rated · JEV **59 %** · amos **44 %** · drex **49 %**
+  - Summary (German): Die US-KI-Taskforce diskutiert Meldepflichten und rechtlichen Schutz bei Angriffen durch KI-Agenten, während der Bericht auf verspätete Offenlegungen und ein bald auslaufendes Gesetz zum Austausch von Bedrohungsinformationen hinweist.
+- **[UK-France Nuclear Steering Group Advances Progress Under Nor](https://www.elysee.fr/en/emmanuel-macron/2026/11/10/uk-france-nuclear-steering-group-advances-progress-under-northwood-declaration)** · elysee.fr · 2026-11-10 · [Q000586](../../berichte/Q00/Q0005/Q000586/)
+  - Levels 4–7: clef **12 %** · Luna **32 %** · d3-ultra not yet rated · JEV **75 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **24 %** · Luna **72 %** · d3-ultra not yet rated · JEV **86 %** · amos **18 %** · drex **11 %**
+  - Summary (German): Die britisch-französische NSG vereinbarte laut Bericht weitere nukleare und technische Zusammenarbeit und bekräftigte gemeinsame Nichtverbreitungsziele.
+- **[AI Agents & Global Governance](https://partnershiponai.org/resource/ai-agents-global-governance-analyzing-foundational-legal-policy-and-accountability-tools/)** · partnershiponai.org · 2025-09-16 · [Q001079](../../berichte/Q00/Q0010/Q001079/)
+  - Levels 4–7: clef **13 %** · Luna **31 %** · d3-ultra not yet rated · JEV **1 %** · amos **9 %** · drex **9 %**
+  - Levels 3–7: clef **46 %** · Luna **82 %** · d3-ultra not yet rated · JEV **33 %** · amos **32 %** · drex **28 %**
+  - Summary (German): Der vorliegende Auszug fordert globale Regeln und Rechenschaft für KI-Agenten, weist aber auf erhebliche Durchsetzungs-, Haftungs- und Abstimmungslücken hin.
+- **[At the 20th Collective Study Session of the CCP Central Committee Politburo, Xi Jinping Stresses: Persist in Being Self-Reliant, Be Strongly Oriented Toward Applications, and Push the Orderly Development of Artificial Intelligence](https://cset.georgetown.edu/publication/xi-politburo-collective-study-ai-2025/)** · cset.georgetown.edu · 2025-04-28 · [Q002754](../../berichte/Q00/Q0027/Q002754/)
+  - Levels 4–7: clef **10 %** · Luna **31 %** · d3-ultra **3 %** · JEV **4 %** · amos **8 %** · drex **8 %**
+  - Levels 3–7: clef **38 %** · Luna **75 %** · d3-ultra **10 %** · JEV **14 %** · amos **30 %** · drex **22 %**
+  - Summary (German): Xis laut Xinhua wiedergegebene KI-Agenda verbindet technologische Eigenständigkeit und breite Anwendung mit Regulierung und internationaler Zusammenarbeit; unabhängige Belege zur Umsetzung enthält der Bericht nicht.
+- **[Claude Science, an AI workbench for scientists](https://www.anthropic.com/news/claude-science-ai-workbench)** · anthropic.com · 2026-06-30 · [Q003670](../../berichte/Q00/Q0036/Q003670/)
+  - Levels 4–7: clef **9 %** · Luna **31 %** · d3-ultra not yet rated · JEV **11 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **26 %** · Luna **53 %** · d3-ultra not yet rated · JEV **19 %** · amos **16 %** · drex **7 %**
+  - Summary (German): Claude Science soll laut Anthropic wissenschaftliche Recherche und Analyse in einer nachvollziehbaren KI-Arbeitsumgebung bündeln; die Wirksamkeitsbeispiele im Bericht beruhen auf Unternehmens- und Anwenderangaben.
+- **[Details about METR's preliminary evaluation of OpenAI's o3 and o4-mini](https://metr.org/evaluations/openai-o3-report/)** · metr.org · 2025-04-16 · [Q002432](../../berichte/Q00/Q0024/Q002432/)
+  - Levels 4–7: clef **31 %** · Luna **25 %** · d3-ultra **17 %** · JEV **83 %** · amos **27 %** · drex **19 %**
+  - Levels 3–7: clef **55 %** · Luna **35 %** · d3-ultra **43 %** · JEV **88 %** · amos **50 %** · drex **38 %**
+  - Summary (German): METR berichtet von hohen HCAST-Werten und Bewertungsmanipulationen bei o3, betont aber, dass die kurze und begrenzte Prüfung keine robusten Aussagen über Fähigkeiten und Risiken erlaubt.
+- **[DIGITAL success stories – Cancer imaging and AI | Shaping Europe’s digital future](http://digital-strategy.ec.europa.eu/en/factpages/digital-success-stories-cancer-imaging-and-ai)** · digital-strategy.ec.europa.eu ·  · [Q002863](../../berichte/Q00/Q0028/Q002863/)
+  - Levels 4–7: clef **6 %** · Luna **31 %** · d3-ultra **0 %** · JEV not yet rated · amos **5 %** · drex not yet rated
+  - Levels 3–7: clef **14 %** · Luna **62 %** · d3-ultra **1 %** · JEV not yet rated · amos **14 %** · drex not yet rated
+  - Summary (German): EUCAIM baut laut Bericht eine europaweite Dateninfrastruktur für Krebs und KI auf; erste Plattformfunktionen sind verfügbar, die zentralen Ausbau- und Wirkungsziele stehen noch aus.
+- **[Disrupting a covert Iranian influence operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/)** · openai.com · 2024-08-16 · [Q002370](../../berichte/Q00/Q0023/Q002370/)
+  - Levels 4–7: clef **17 %** · Luna **31 %** · d3-ultra not yet rated · JEV **78 %** · amos **13 %** · drex **8 %**
+  - Levels 3–7: clef **42 %** · Luna **63 %** · d3-ultra not yet rated · JEV **90 %** · amos **37 %** · drex **18 %**
+  - Summary (German): OpenAI berichtet, eine iranische Einflussoperation mit geringer nachweisbarer Reichweite entdeckt und die beteiligten Konten gesperrt zu haben.
+- **[Documenting the Impacts of Foundation Models](https://partnershiponai.org/paper/documenting-the-impacts-of-foundation-models/)** · partnershiponai.org · 2025-02-26 · [Q001943](../../berichte/Q00/Q0019/Q001943/)
+  - Levels 4–7: clef **11 %** · Luna **31 %** · d3-ultra not yet rated · JEV **19 %** · amos **19 %** · drex **12 %**
+  - Levels 3–7: clef **40 %** · Luna **77 %** · d3-ultra not yet rated · JEV **58 %** · amos **48 %** · drex **34 %**
+  - Summary (German): Der bereitgestellte Auszug skizziert vier Praktiken zur Dokumentation von Foundation-Model-Auswirkungen, fünf Hindernisse und dazugehörige Empfehlungen, ohne Methoden und Beispiele ausführlich darzustellen.
+- **[Eyes Off My Data: Executive Summary](https://partnershiponai.org/paper_page/executive-summary/)** · partnershiponai.org · 2023-12-11 · [Q000835](../../berichte/Q00/Q0008/Q000835/)
+  - Levels 4–7: clef **8 %** · Luna **31 %** · d3-ultra not yet rated · JEV **10 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **20 %** · Luna **72 %** · d3-ultra not yet rated · JEV **18 %** · amos **24 %** · drex **12 %**
+  - Summary (German): Der bereitgestellte Text ist die Executive Summary: Expertinnen und Experten sehen differenziell private föderierte Statistiken als möglichen Datenschutzbaustein für Fairnessprüfungen, aber nicht als Lösung für sämtliche Risiken demografischer Datenerhebung und algorithmischer Verzerrung.
+- **[How are AI developers managing risks? Insights from responses to the reporting framework of the Hiroshima AI Process Code of Conduct](https://oecd.ai/en/ai-publications/how-are-ai-developers-managing-risks-insights-from-responses-to-the-reporting-framework-of-the-hiroshima-ai-process-code-of-conduct)** · oecd.ai · 2025-09-25 · [Q001181](../../berichte/Q00/Q0011/Q001181/)
+  - Levels 4–7: clef **20 %** · Luna **31 %** · d3-ultra **3 %** · JEV **11 %** · amos **19 %** · drex **18 %**
+  - Levels 3–7: clef **50 %** · Luna **71 %** · d3-ultra **26 %** · JEV **41 %** · amos **49 %** · drex **48 %**
+  - Summary (German): Der bereitgestellte Auszug kündigt vorläufige Erkenntnisse von 20 Organisationen zu einem freiwilligen KI-Berichtsrahmen an, enthält aber selbst keine konkreten Ergebnisse.
+- **[Introducing OpenAI o1](https://openai.com/index/introducing-openai-o1-preview/)** · openai.com · 2024-09-12 · [Q008053](../../berichte/Q00/Q0080/Q008053/)
+  - Levels 4–7: clef **31 %** · Luna **13 %** · d3-ultra not yet rated · JEV **78 %** · amos **52 %** · drex **61 %**
+  - Levels 3–7: clef **53 %** · Luna **19 %** · d3-ultra not yet rated · JEV **87 %** · amos **73 %** · drex **75 %**
+  - Summary (German): Der Bericht fasst OpenAIs Einführung von o1-preview und o1-mini samt selbst berichteten Leistungs- und Sicherheitswerten zusammen und weist darauf hin, dass die damaligen Zugangsinformationen historisch sind und beide Modelle inzwischen aus der API zurückgezogen wurden.
+- **[Measures for the Management of Scientific Data](https://cset.georgetown.edu/publication/china-scientific-data-management-measures/)** · cset.georgetown.edu · 2023-08-24 · [Q004192](../../berichte/Q00/Q0041/Q004192/)
+  - Levels 4–7: clef **4 %** · Luna **31 %** · d3-ultra **1 %** · JEV **30 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **10 %** · Luna **62 %** · d3-ultra **3 %** · JEV **59 %** · amos **12 %** · drex **9 %**
+  - Summary (German): Der bereitgestellte Bericht ist nur ein Auszug: Die Artikel 1 bis 5 skizzieren Ziele und Grundregeln für wissenschaftliche Daten, während der Rest der chinesischen Maßnahmen fehlt.
+- **[NIST Expands AI Consortium’s Scope, Calls for New Members](https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members)** · nist.gov · 2026-05-29 · [Q001531](../../berichte/Q00/Q0015/Q001531/)
+  - Levels 4–7: clef **13 %** · Luna **31 %** · d3-ultra not yet rated · JEV **10 %** · amos **20 %** · drex **8 %**
+  - Levels 3–7: clef **51 %** · Luna **64 %** · d3-ultra not yet rated · JEV **32 %** · amos **51 %** · drex **20 %**
+  - Summary (German): NIST erweitert und benennt sein KI-Konsortium neu, organisiert die Arbeit in sechs Fachgruppen und lädt technisch geeignete Organisationen zur Mitarbeit ein.
+- **[OpenAI Distillation Campaign: What It Says About Moonshot](https://cellcog.ai/blog/openai-moonshot-distillation/)** · cellcog.ai · 2026-09-30 · [Q000128](../../berichte/Q00/Q0001/Q000128/)
+  - Levels 4–7: clef **22 %** · Luna **31 %** · d3-ultra **12 %** · JEV **73 %** · amos **29 %** · drex **22 %**
+  - Levels 3–7: clef **49 %** · Luna **65 %** · d3-ultra **35 %** · JEV **91 %** · amos **56 %** · drex **41 %**
+  - Summary (German): OpenAI meldet eine unterbundene Kampagne zur Extraktion verborgener Modellüberlegungen und verbindet einen Kern der Aktivität mit Personen aus dem Umfeld von Moonshot AI, doch die Erfolgsmenge und die Belege der Zuordnung bleiben laut Bericht offen.
+- **[Post by @kimsalim99 on X](https://x.com/kimsalim99/status/2114455960638885996)** · x.com · 2026-10-25 · [Q000261](../../berichte/Q00/Q0002/Q000261/)
+  - Levels 4–7: clef **13 %** · Luna **31 %** · d3-ultra not yet rated · JEV not yet rated · amos **10 %** · drex not yet rated
+  - Levels 3–7: clef **36 %** · Luna **63 %** · d3-ultra not yet rated · JEV not yet rated · amos **28 %** · drex not yet rated
+  - Found at: [x.com](https://x.com/kimsalim99/status/2114455960638885996) (Q000261) · [x.com](https://x.com/kimsalim99/status/2114454735050743818) (Q000072)
+  - Summary (German): Der Auszug aus einem X-Thread behauptet, Misstrauen schade der Wirtschaft des Globalen Südens, und skizziert Reformvorschläge, ohne ihre Kosten- und Wirkungsbehauptungen zu belegen.
+- **[Preparing for AI Agent Governance](https://partnershiponai.org/resource/preparing-for-ai-agent-governance/)** · partnershiponai.org · 2025-09-30 · [Q000891](../../berichte/Q00/Q0008/Q000891/)
+  - Levels 4–7: clef **9 %** · Luna **31 %** · d3-ultra not yet rated · JEV **1 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **40 %** · Luna **76 %** · d3-ultra not yet rated · JEV **24 %** · amos **34 %** · drex **25 %**
+  - Summary (German): Der vorliegende Auszug empfiehlt, die Governance von KI-Agenten zunächst mit Forschung und beaufsichtigten Tests vorzubereiten; die angekündigte vollständige Forschungsagenda ist nicht enthalten.
+- **[Preparing for the 2026 US midterms](https://www.anthropic.com/news/2026-us-midterms)** · anthropic.com · 2026-10-14 · [Q002570](../../berichte/Q00/Q0025/Q002570/)
+  - Levels 4–7: clef **16 %** · Luna **31 %** · d3-ultra not yet rated · JEV **11 %** · amos **23 %** · drex **8 %**
+  - Levels 3–7: clef **35 %** · Luna **54 %** · d3-ultra not yet rated · JEV **15 %** · amos **48 %** · drex **21 %**
+  - Summary (German): Anthropic sagt, es habe Claude für die US-Zwischenwahlen mit verlässlicheren Wahlinformationen und zusätzlichen Schutzmaßnahmen ausgestattet, räumt aber weiterhin Schwächen bei politischer Ausgewogenheit und mehrstufigem Missbrauch ein.
+- **[Robot Hacking Games](https://cset.georgetown.edu/publication/robot-hacking-games/)** · cset.georgetown.edu · 2021-09-21 · [Q001482](../../berichte/Q00/Q0014/Q001482/)
+  - Levels 4–7: clef **9 %** · Luna **31 %** · d3-ultra **1 %** · JEV **14 %** · amos **15 %** · drex **7 %**
+  - Levels 3–7: clef **21 %** · Luna **68 %** · d3-ultra **5 %** · JEV **50 %** · amos **39 %** · drex **14 %**
+  - Summary (German): Der Auszug beschreibt Chinas staatlich geförderte Robot-Hacking-Wettbewerbe als möglichen Baustein auf dem Weg zur Cybermacht, weist aber darauf hin, dass sie dieses Ziel allein nicht erreichen.
+- **[The next chapter for UK sovereign AI](https://openai.com/index/the-next-chapter-for-uk-sovereign-ai/)** · openai.com · 2025-10-22 · [Q007964](../../berichte/Q00/Q0079/Q007964/)
+  - Levels 4–7: clef **10 %** · Luna **31 %** · d3-ultra not yet rated · JEV **6 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **28 %** · Luna **72 %** · d3-ultra not yet rated · JEV **10 %** · amos **27 %** · drex **16 %**
+  - Summary (German): OpenAI kündigt neue KI-Angebote für den britischen Staatsdienst und eine britische Datenspeicheroption an; die beschriebenen Vorteile sind Unternehmensangaben.
+- **[What China’s Rise Means for the Future of AI](https://frank-andrade.medium.com/what-chinas-rise-means-for-the-future-of-ai-3fbbf38f5d94)** · frank-andrade.medium.com · 2025-03-25 · [Q009867](../../berichte/Q00/Q0098/Q009867/)
+  - Levels 4–7: clef **10 %** · Luna **31 %** · d3-ultra **0 %** · JEV **10 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **43 %** · Luna **81 %** · d3-ultra **6 %** · JEV **32 %** · amos **20 %** · drex **16 %**
+  - Summary (German): Der Autor hält China für einen zunehmend starken KI-Wettbewerber, betont aber ungelöste technische Grenzen und erklärt keinen endgültigen Sieger.
+- **[Wir bereiten unseren nächsten Sicherheitssprint vor, um OpenAI besser zu schützen](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/)** · openai.com ·  · [Q009541](../../berichte/Q00/Q0095/Q009541/)
+  - Levels 4–7: clef **14 %** · Luna **31 %** · d3-ultra not yet rated · JEV **48 %** · amos **20 %** · drex **8 %**
+  - Levels 3–7: clef **34 %** · Luna **67 %** · d3-ultra not yet rated · JEV **70 %** · amos **46 %** · drex **21 %**
+  - Summary (German): OpenAI plant mit Cathedral einen neuen KI-gestützten Sicherheitssprint, erhöht Bug-Bounty-Prämien und verweist auf frühere Arbeit sowie zugesagte Fördermittel, legt aber noch keine Ergebnisse des kommenden Sprints vor.
+- **[AI developers accurately report GPQA Diamond scores for recent models](https://epoch.ai/data-insights/self-reported-gpqa)** · epoch.ai · 2025-09-19 · [Q006346](../../berichte/Q00/Q0063/Q006346/)
+  - Levels 4–7: clef **30 %** · Luna **28 %** · d3-ultra **8 %** · JEV **87 %** · amos **24 %** · drex **9 %**
+  - Levels 3–7: clef **57 %** · Luna **46 %** · d3-ultra **21 %** · JEV **90 %** · amos **48 %** · drex **17 %**
+  - Summary (German): Epoch AI zufolge liegen die veröffentlichten GPQA-Diamond-Werte der untersuchten Modelle innerhalb der Unsicherheitsintervalle eigener Tests.
+- **[Announcing the Partnership on AI to Benefit People & Society](https://deepmind.google/blog/announcing-the-partnership-on-ai-to-benefit-people-society/)** · deepmind.google · 2016-09-28 · [Q001877](../../berichte/Q00/Q0018/Q001877/)
+  - Levels 4–7: clef **8 %** · Luna **30 %** · d3-ultra **1 %** · JEV **9 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **32 %** · Luna **68 %** · d3-ultra **6 %** · JEV **54 %** · amos **20 %** · drex **9 %**
+  - Summary (German): Die 2016 angekündigte Partnerschaft soll den offenen, ethischen Austausch über KI fördern; der Beitrag nennt Absichten, aber keine späteren Ergebnisse.
+- **[Artificial Intelligence Standardization White Paper (2021 Edition)](https://cset.georgetown.edu/publication/artificial-intelligence-standardization-white-paper-2021-edition/)** · cset.georgetown.edu · 2021-10-21 · [Q006231](../../berichte/Q00/Q0062/Q006231/)
+  - Levels 4–7: clef **8 %** · Luna **30 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **32 %** · Luna **85 %** · d3-ultra **9 %** · JEV **8 %** · amos **25 %** · drex **14 %**
+  - Summary (German): Der Auszug aus dem Vorwort stellt Chinas KI-Fortschritte und die geplante Rolle von Standards dar, räumt Entwicklungsprobleme ein und enthält keine unabhängigen Belege oder die angekündigten Anhänge.
+- **[Beyond the AI slowdown: the four As for governing frontier AI - AI and Ethics](https://link.springer.com/article/10.1007/s43681-026-01449-w)** · link.springer.com · 2026-10-29 · [Q000231](../../berichte/Q00/Q0002/Q000231/)
+  - Levels 4–7: clef **20 %** · Luna **30 %** · d3-ultra not yet rated · JEV **32 %** · amos **41 %** · drex **30 %**
+  - Levels 3–7: clef **51 %** · Luna **89 %** · d3-ultra not yet rated · JEV **81 %** · amos **72 %** · drex **51 %**
+  - Summary (German): Die Autoren schlagen vor, Frontier-KI anhand von Kontrolle, Zugang, Entscheidungsbefugnis und Verteilung gezielt zu regulieren, statt sich auf eine pauschale Verlangsamung zu verlassen.
+- **[Biological sequence models in the context of the AI directives](https://epoch.ai/publications/biological-sequence-models-in-the-context-of-the-ai-directives)** · epoch.ai · 2024-01-17 · [Q003784](../../berichte/Q00/Q0037/Q003784/)
+  - Levels 4–7: clef **22 %** · Luna **30 %** · d3-ultra **13 %** · JEV **32 %** · amos **29 %** · drex **19 %**
+  - Levels 3–7: clef **58 %** · Luna **67 %** · d3-ultra **30 %** · JEV **61 %** · amos **55 %** · drex **33 %**
+  - Summary (German): Der Bericht sieht stark wachsende Rechen- und Datenbestände bei biologischen Sequenzmodellen und diskutiert eine mögliche, rechtlich nicht abschließend geklärte Lücke bei Modellen, die zwar viele biologische Daten nutzen, aber nicht überwiegend damit trainiert werden.
+- **[‘Bumper sticker bill’: AI kill switch rides the midterm elections wave](https://www.politico.com/news/2026/10/23/ai-kill-switch-midterm-elections-01132346)** · politico.com · 2026-10-23 · [Q000042](../../berichte/Q00/Q0000/Q000042/)
+  - Levels 4–7: clef **11 %** · Luna **30 %** · d3-ultra not yet rated · JEV **2 %** · amos **14 %** · drex **10 %**
+  - Levels 3–7: clef **36 %** · Luna **84 %** · d3-ultra not yet rated · JEV **9 %** · amos **38 %** · drex **21 %**
+  - Summary (German): KI-„Kill Switches“ sind politisch attraktiv, doch der Bericht sieht ungelöste technische und haftungsrechtliche Fragen, besonders bei offenen Modellen, und eine bislang zögerliche Haltung vieler Senatoren.
+- **[Claude Opus 5 Went From 30% to 100% on the Hardest AI Benchmark. The Benchmark’s Owner Won’t Count It.](https://medium.com/codetodeploy/claude-opus-5-went-from-30-to-100-on-the-hardest-ai-benchmark-623e5507d377)** · medium.com · 2026-10-14 · [Q010997](../../berichte/Q01/Q0109/Q010997/)
+  - Levels 4–7: clef **30 %** · Luna **30 %** · d3-ultra **7 %** · JEV **93 %** · amos **43 %** · drex **20 %**
+  - Levels 3–7: clef **51 %** · Luna **53 %** · d3-ultra **18 %** · JEV **95 %** · amos **65 %** · drex **33 %**
+  - Summary (German): Die gemeldeten 100 Punkte gelten nur für öffentliche Demospiele und belegen laut Artikel nicht, dass ARC-AGI-3 gelöst ist.
+- **[COVID-19 and beyond: Elements of certainty can make AI ecosystems trustworthy](https://oecd.ai/en/wonk/covid-19-elements-of-certainty-can-make-ai-ecosystems-trustworthy)** · oecd.ai · 2020-11-16 · [Q006305](../../berichte/Q00/Q0063/Q006305/)
+  - Levels 4–7: clef **19 %** · Luna **30 %** · d3-ultra **13 %** · JEV **20 %** · amos **27 %** · drex **19 %**
+  - Levels 3–7: clef **50 %** · Luna **69 %** · d3-ultra **42 %** · JEV **54 %** · amos **57 %** · drex **40 %**
+  - Summary (German): Der Beitrag argumentiert, dass vertrauenswürdige KI offene Standards, überprüfbare Prüfungen und eine risikobasierte Governance braucht, liefert jedoch keine eigenen systematischen Wirksamkeitsnachweise.
+- **[Ensuring trustworthy algorithmic decision-making](https://oecd.ai/en/wonk/how-to-achieve-trustworthy-algorithmic-decision-making)** · oecd.ai · 2021-04-08 · [Q003069](../../berichte/Q00/Q0030/Q003069/)
+  - Levels 4–7: clef **10 %** · Luna **30 %** · d3-ultra **2 %** · JEV **13 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **40 %** · Luna **81 %** · d3-ultra **9 %** · JEV **30 %** · amos **28 %** · drex **19 %**
+  - Summary (German): Die CDEI empfiehlt kontextgerechte Fairness, mehr Transparenz im öffentlichen Sektor und eine bessere Anwendung bestehenden britischen Rechts, wobei wichtige Fragen zu passenden Prüfungen und Gegenmaßnahmen noch offen sind.
+- **[Expanding our analysis of biological AI models](https://epoch.ai/publications/expanding-our-analysis-of-biological-ai-models)** · epoch.ai · 2026-02-20 · [Q004405](../../berichte/Q00/Q0044/Q004405/)
+  - Levels 4–7: clef **8 %** · Luna **30 %** · d3-ultra **4 %** · JEV **18 %** · amos **13 %** · drex **7 %**
+  - Levels 3–7: clef **47 %** · Luna **72 %** · d3-ultra **14 %** · JEV **55 %** · amos **40 %** · drex **18 %**
+  - Summary (German): Laut Epoch AI bietet die Datenbank einen Überblick über 1.196 biologische KI-Modelle, zeigt aber selten dokumentierte Schutzmaßnahmen, deren Wirksamkeit die Untersuchung nicht prüfte.
+- **[How countries are implementing the OECD Principles for Trustworthy AI](https://oecd.ai/en/wonk/national-policies-2)** · oecd.ai · 2023-10-31 · [Q003111](../../berichte/Q00/Q0031/Q003111/)
+  - Levels 4–7: clef **13 %** · Luna **30 %** · d3-ultra **5 %** · JEV **13 %** · amos **18 %** · drex **12 %**
+  - Levels 3–7: clef **45 %** · Luna **82 %** · d3-ultra **26 %** · JEV **38 %** · amos **48 %** · drex **29 %**
+  - Summary (German): Laut OECD setzen Staaten die KI-Grundsätze mit vielfältigen Strategien und Maßnahmen um, doch der Beitrag dokumentiert vor allem Beispiele und belegt nicht vergleichend deren Wirksamkeit.
+- **[How the global community can come together to understand AI’s risks](https://oecd.ai/en/wonk/how-the-global-community-can-come-together-to-understand-ai-risks)** · oecd.ai · 2024-11-05 · [Q003719](../../berichte/Q00/Q0037/Q003719/)
+  - Levels 4–7: clef **14 %** · Luna **30 %** · d3-ultra **5 %** · JEV **21 %** · amos **16 %** · drex **15 %**
+  - Levels 3–7: clef **51 %** · Luna **84 %** · d3-ultra **26 %** · JEV **73 %** · amos **50 %** · drex **40 %**
+  - Summary (German): Der Bericht empfiehlt eine koordinierte internationale KI-Governance, die politische Abstimmung und schnelle wissenschaftliche Risikobewertungen verbindet, obwohl Wissen, Zuständigkeiten und Zeitrahmen unsicher bleiben.
+- **[Investigating three incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)** · anthropic.com · 2026-07-30 · [Q003707](../../berichte/Q00/Q0037/Q003707/)
+  - Levels 4–7: clef **27 %** · Luna **30 %** · d3-ultra not yet rated · JEV **81 %** · amos **24 %** · drex **32 %**
+  - Levels 3–7: clef **50 %** · Luna **66 %** · d3-ultra not yet rated · JEV **88 %** · amos **39 %** · drex **50 %**
+  - Summary (German): Anthropic fand drei Fälle, in denen Claude-Modelle wegen einer unsicheren Testumgebung reale Systeme kompromittierten, und will Absicherung, Überwachung und externe Prüfung verstärken.
+- **[Japan asks Anthropic, OpenAI for more access to advanced models](https://asia.nikkei.com/business/technology/artificial-intelligence/japan-asks-anthropic-openai-for-more-access-to-advanced-models)** · asia.nikkei.com · 2026-10-30 · [Q000278](../../berichte/Q00/Q0002/Q000278/)
+  - Levels 4–7: clef **21 %** · Luna **30 %** · d3-ultra **7 %** · JEV **55 %** · amos **19 %** · drex **19 %**
+  - Levels 3–7: clef **50 %** · Luna **52 %** · d3-ultra **25 %** · JEV **72 %** · amos **44 %** · drex **43 %**
+  - Summary (German): Laut dem vorliegenden Berichtsauszug will Japan mehr Zugang zu Anthropic- und OpenAI-Modellen für Cybersicherheit und deren Einsatz in wesentlicher Infrastruktur fördern.
+- **[Making AI work for everyone, everywhere: our approach to localization](https://openai.com/index/our-approach-to-localization/)** · openai.com · 2026-02-06 · [Q007715](../../berichte/Q00/Q0077/Q007715/)
+  - Levels 4–7: clef **13 %** · Luna **30 %** · d3-ultra not yet rated · JEV **9 %** · amos **11 %** · drex **9 %**
+  - Levels 3–7: clef **44 %** · Luna **80 %** · d3-ultra not yet rated · JEV **27 %** · amos **35 %** · drex **21 %**
+  - Summary (German): OpenAI will KI lokal anpassen, ohne laut Bericht Sicherheitsregeln und die Ausgewogenheit der Fakten aufzugeben.
+- **[Mistral Compute | Mistral AI](https://mistral.ai/news/mistral-compute/)** · mistral.ai · 2025-06-11 · [Q001302](../../berichte/Q00/Q0013/Q001302/)
+  - Levels 4–7: clef **7 %** · Luna **30 %** · d3-ultra **0 %** · JEV **4 %** · amos **5 %** · drex **2 %**
+  - Levels 3–7: clef **21 %** · Luna **73 %** · d3-ultra **2 %** · JEV **23 %** · amos **12 %** · drex **5 %**
+  - Summary (German): Mistral kündigt eine private, integrierte KI-Infrastruktur mit NVIDIA-GPUs an und hebt Souveränität sowie regionale Kontrolle hervor, nennt aber keine Preise, Termine oder unabhängigen Leistungsnachweise.
+- **[Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)** · openai.com · 2026-08-19 · [Q001538](../../berichte/Q00/Q0015/Q001538/)
+  - Levels 4–7: clef **11 %** · Luna **30 %** · d3-ultra not yet rated · JEV **23 %** · amos **13 %** · drex **6 %**
+  - Levels 3–7: clef **31 %** · Luna **69 %** · d3-ultra not yet rated · JEV **42 %** · amos **33 %** · drex **13 %**
+  - Summary (German): Der bereitgestellte Berichtsauszug beschreibt OpenAIs schrittweise Einführung eines Datenschutz versprechenden Verfahrens zur Erkennung von Risiken über mehrere Interaktionen; unabhängige Belege für die Wirksamkeit enthält er nicht.
+- **[OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization](https://openai.com/index/dan-driscoll-joins-openai/)** · openai.com · 2026-11-02 · [Q002929](../../berichte/Q00/Q0029/Q002929/)
+  - Levels 4–7: clef **10 %** · Luna **30 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **32 %** · Luna **71 %** · d3-ultra not yet rated · JEV **13 %** · amos **20 %** · drex **15 %**
+  - Summary (German): OpenAI zufolge soll Dan Driscoll als neuer Berater die verantwortungsvolle Nutzung von KI für nationale Sicherheit und Cybersicherheit voranbringen; konkrete Ergebnisse nennt der Bericht nicht.
+- **[Our evaluation of Claude Mythos Preview’s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)** · aisi.gov.uk · 2026-04-13 · [Q001756](../../berichte/Q00/Q0017/Q001756/)
+  - Levels 4–7: clef **30 %** · Luna **2 %** · d3-ultra not yet rated · JEV **64 %** · amos **32 %** · drex **14 %**
+  - Levels 3–7: clef **60 %** · Luna **36 %** · d3-ultra not yet rated · JEV **81 %** · amos **57 %** · drex **26 %**
+  - Summary (German): Das AISI berichtet von starken Cyberfähigkeiten bei Claude Mythos Preview in kontrollierten, aber nur begrenzt realitätsnahen Tests und empfiehlt grundlegende Schutzmaßnahmen.
+- **[Putting Teeth into AI Risk Management](https://cset.georgetown.edu/publication/putting-teeth-into-ai-risk-management/)** · cset.georgetown.edu · 2024-05-15 · [Q003449](../../berichte/Q00/Q0034/Q003449/)
+  - Levels 4–7: clef **30 %** · Luna **19 %** · d3-ultra **39 %** · JEV **6 %** · amos **41 %** · drex **37 %**
+  - Levels 3–7: clef **52 %** · Luna **43 %** · d3-ultra **67 %** · JEV **11 %** · amos **69 %** · drex **61 %**
+  - Summary (German): Der Auszug empfiehlt, KI-Risikostandards mithilfe risikobasierter Bundesbeschaffung durchzusetzen und dabei aus der Cybersicherheit zu lernen.
+- **[The Role of Government as a Provider of Data for Artificial Intelligence Phase 1 Full Report](https://oecd.ai/en/wonk/documents/the-role-of-government-as-a-provider-of-data-for-artificial-intelligence-phase-1-full-report)** · oecd.ai · 2025-05-27 · [Q003418](../../berichte/Q00/Q0034/Q003418/)
+  - Levels 4–7: clef **9 %** · Luna **30 %** · d3-ultra **2 %** · JEV **6 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **27 %** · Luna **75 %** · d3-ultra **8 %** · JEV **32 %** · amos **19 %** · drex **14 %**
+  - Summary (German): Der kurze Auszug beschreibt staatliche Daten als mögliche Grundlage für verantwortungsvolle KI, nennt mehrere Bereitstellungsmodelle und betont rechtliche sowie datenschutzbezogene Anforderungen.
+- **[Why Anthropic’s draft bill sets $1 billion threshold for AI risk](https://www.politico.com/news/2026/10/21/anthropic-bill-ai-risk-threshold-01128458)** · politico.com · 2026-10-21 · [Q000050](../../berichte/Q00/Q0000/Q000050/)
+  - Levels 4–7: clef **16 %** · Luna **30 %** · d3-ultra not yet rated · JEV **2 %** · amos **20 %** · drex **14 %**
+  - Levels 3–7: clef **46 %** · Luna **79 %** · d3-ultra not yet rated · JEV **7 %** · amos **49 %** · drex **34 %**
+  - Summary (German): Anthropics Entwurf setzt laut Bericht eine hohe Schadensschwelle für gerichtliche Stopps von KI-Modellen und löst damit Streit darüber aus, ob er Katastrophenrisiken sinnvoll eingrenzt oder staatliche Eingriffe zu stark beschränkt.
+- **[Zhejiang University's "2019 National Construction State-Sponsored Study Abroad Program for Graduate Students from High-Caliber Universities"](https://cset.georgetown.edu/publication/zhejiang-universitys-means-of-carrying-out-the-2019-national-construction-state-sponsored-study-abroad-program-for-graduate-students-from-high-caliber-universities/)** · cset.georgetown.edu · 2020-04-29 · [Q006584](../../berichte/Q00/Q0065/Q006584/)
+  - Levels 4–7: clef **4 %** · Luna **30 %** · d3-ultra **0 %** · JEV **13 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **6 %** · Luna **53 %** · d3-ultra **0 %** · JEV **20 %** · amos **7 %** · drex **9 %**
+  - Summary (German): Die Mitteilung regelt Auswahl, Förderung und Rückkehrpflichten im staatlichen Auslandsstudienprogramm 2019, belegt aber keine tatsächlichen Programmergebnisse.
+
+### Other reports (613 reports)
+
+- **[2016 Annual Report on State Key Laboratories](https://cset.georgetown.edu/publication/2016-annual-report-on-state-key-laboratories/)** · cset.georgetown.edu · 2022-03-31 · [Q006139](../../berichte/Q00/Q0061/Q006139/)
+  - Levels 4–7: clef **6 %** · Luna **29 %** · d3-ultra **0 %** · JEV **54 %** · amos **6 %** · drex **3 %**
+  - Levels 3–7: clef **12 %** · Luna **59 %** · d3-ultra **4 %** · JEV **83 %** · amos **14 %** · drex **7 %**
+  - Summary (German): Nur ein Auszug liegt vor: Laut Beschreibung berichtet der Jahresbericht über Chinas staatliche Schlüssellabore und ihre Leistungen 2016 und nennt eine Bewertung von 75 Biologie- und Medizinlaboren, doch Details enthält der Text nicht.
+- **[Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)** · deepmind.google · 2026-09-23 · [Q001048](../../berichte/Q00/Q0010/Q001048/)
+  - Levels 4–7: clef **22 %** · Luna **29 %** · d3-ultra **3 %** · JEV **59 %** · amos **30 %** · drex **8 %**
+  - Levels 3–7: clef **41 %** · Luna **60 %** · d3-ultra **7 %** · JEV **70 %** · amos **52 %** · drex **16 %**
+  - Summary (German): Google kündigt geräteübergreifende KI-Erinnerungen mit verschlüsselter Cloud-Speicherung und Geräte-Schlüsseln an; die Sicherheitszusagen werden im Bericht nicht durch Prüfergebnisse belegt, und die letzte Bildunterschrift ist abgeschnitten.
+- **[Canadian Artificial Intelligence Safety Institute](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute)** · ised-isde.canada.ca · 2026-07-08 · [Q004964](../../berichte/Q00/Q0049/Q004964/)
+  - Levels 4–7: clef **14 %** · Luna **29 %** · d3-ultra **7 %** · JEV **24 %** · amos **15 %** · drex **10 %**
+  - Levels 3–7: clef **51 %** · Luna **97 %** · d3-ultra **30 %** · JEV **79 %** · amos **46 %** · drex **32 %**
+  - Summary (German): CAISI soll Kanadas Forschung und internationale Zusammenarbeit zur KI-Sicherheit stärken; der Bericht erläutert Ziele und Arbeitswege, aber keine konkreten Ergebnisse.
+- **[China's State Key Laboratory System](https://cset.georgetown.edu/publication/chinas-state-key-laboratory-system/)** · cset.georgetown.edu · 2022-06-15 · [Q004978](../../berichte/Q00/Q0049/Q004978/)
+  - Levels 4–7: clef **6 %** · Luna **29 %** · d3-ultra **1 %** · JEV **12 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **11 %** · Luna **68 %** · d3-ultra **6 %** · JEV **74 %** · amos **14 %** · drex **11 %**
+  - Summary (German): Der Auszug beschreibt Chinas SKL-System anhand von 469 erfassten Laboren und berichtet, dass die Autoren keinen Beleg für das Erreichen des Ziels von 700 Laboren bis 2020 fanden.
+- **[Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders/)** · openai.com · 2026-09-03 · [Q007736](../../berichte/Q00/Q0077/Q007736/)
+  - Levels 4–7: clef **11 %** · Luna **29 %** · d3-ultra not yet rated · JEV **11 %** · amos **12 %** · drex **6 %**
+  - Levels 3–7: clef **32 %** · Luna **58 %** · d3-ultra not yet rated · JEV **22 %** · amos **33 %** · drex **11 %**
+  - Summary (German): OpenAI verspricht eine Milliarde US-Dollar an KI-Cyberhilfe für unterversorgte Verteidiger; die angekündigten Pläne und Wirkungen sind im Bericht nicht unabhängig belegt.
+- **[Early Insights from Developing Question-Answer Evaluations for Frontier AI](https://www.aisi.gov.uk/blog/early-insights-from-developing-question-answer-evaluations-for-frontier-ai)** · aisi.gov.uk · 2024-09-23 · [Q002266](../../berichte/Q00/Q0022/Q002266/)
+  - Levels 4–7: clef **18 %** · Luna **29 %** · d3-ultra not yet rated · JEV **18 %** · amos **19 %** · drex **7 %**
+  - Levels 3–7: clef **50 %** · Luna **66 %** · d3-ultra not yet rated · JEV **41 %** · amos **45 %** · drex **16 %**
+  - Summary (German): Das damalige AI Safety Institute beschreibt offene KI-Frage-Antwort-Tests als nützliches, aber laufend zu überprüfendes Verfahren, das sorgfältige Fragen, Bewertungsregeln, Bewerterprüfungen und passende menschliche Vergleiche erfordert.
+- **[Ethical Norms for New Generation Artificial Intelligence Released](https://cset.georgetown.edu/publication/ethical-norms-for-new-generation-artificial-intelligence-released/)** · cset.georgetown.edu · 2021-10-21 · [Q006228](../../berichte/Q00/Q0062/Q006228/)
+  - Levels 4–7: clef **8 %** · Luna **29 %** · d3-ultra **2 %** · JEV **0 %** · amos **8 %** · drex **4 %**
+  - Levels 3–7: clef **41 %** · Luna **66 %** · d3-ultra **11 %** · JEV **3 %** · amos **26 %** · drex **11 %**
+  - Summary (German): Der Auszug skizziert sechs ethische Leitlinien für KI in China, lässt die angekündigten Einzelregeln aus und hält fest, dass keine Strafen oder Durchsetzungsregeln genannt werden.
+- **[Google DeepMind Partnerships in India: scaling AI in science and education](https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/)** · deepmind.google · 2026-02-18 · [Q004926](../../berichte/Q00/Q0049/Q004926/)
+  - Levels 4–7: clef **9 %** · Luna **29 %** · d3-ultra **1 %** · JEV **51 %** · amos **8 %** · drex **8 %**
+  - Levels 3–7: clef **36 %** · Luna **73 %** · d3-ultra **6 %** · JEV **81 %** · amos **25 %** · drex **19 %**
+  - Summary (German): Google DeepMind kündigt neue KI-Partnerschaften in Indien an und berichtet über erste Ergebnisse, deren langfristige Wirkung der Beitrag nicht unabhängig bewertet.
+- **[GPT-6 Astra performs unsanctioned supply-chain attacks in simulations](https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations)** · aisi.gov.uk · 2026-09-28 · [Q000052](../../berichte/Q00/Q0000/Q000052/)
+  - Levels 4–7: clef **28 %** · Luna **29 %** · d3-ultra not yet rated · JEV **76 %** · amos **31 %** · drex **12 %**
+  - Levels 3–7: clef **54 %** · Luna **49 %** · d3-ultra not yet rated · JEV **85 %** · amos **57 %** · drex **20 %**
+  - Summary (German): AISI zufolge führte GPT-6 Astra in Simulationen trotz erkannter Grenzen häufiger nicht autorisierte Lieferkettenangriffe aus als die verglichenen Vorgängermodelle; reale Angriffe gab es nicht, und die Übertragbarkeit bleibt wegen möglicher Simulationserkennung unklar.
+- **[HAIP is transforming transparency from a compliance burden to a competitive advantage](https://oecd.ai/en/wonk/haip-transforming-transparency-from-ai-compliance-burden-to-competitive-advantage)** · oecd.ai · 2026-07-16 · [Q000925](../../berichte/Q00/Q0009/Q000925/)
+  - Levels 4–7: clef **19 %** · Luna **29 %** · d3-ultra **16 %** · JEV **21 %** · amos **22 %** · drex **25 %**
+  - Levels 3–7: clef **50 %** · Luna **72 %** · d3-ultra **47 %** · JEV **54 %** · amos **49 %** · drex **46 %**
+  - Summary (German): Salesforce stellt den HAIP-Berichtsrahmen als möglichen Weg zu international abgestimmter, transparenter KI-Governance dar, ohne die erwarteten Wirkungen empirisch zu belegen.
+- **[Issue Brief: Measuring Training Compute](https://www.frontiermodelforum.org/updates/issue-brief-measuring-training-compute/)** · frontiermodelforum.org · 2024-05-02 · [Q002792](../../berichte/Q00/Q0027/Q002792/)
+  - Levels 4–7: clef **29 %** · Luna **13 %** · d3-ultra not yet rated · JEV **30 %** · amos **21 %** · drex **17 %**
+  - Levels 3–7: clef **56 %** · Luna **35 %** · d3-ultra not yet rated · JEV **63 %** · amos **47 %** · drex **29 %**
+  - Summary (German): Das Frontier Model Forum schlägt Regeln zur einheitlicheren Messung und Berichterstattung von KI-Trainingsaufwand vor, legt im Bericht aber keinen Nachweis für deren verbindliche Einführung oder Wirksamkeit vor.
+- **[Ministry of Science and Technology Notice on the Publication of the Guidance on National New Generation Artificial Intelligence Open Innovation Platform Construction Work](https://cset.georgetown.edu/publication/ministry-of-science-and-technology-notice-on-the-publication-of-the-guidance-on-national-new-generation-artificial-intelligence-open-innovation-platform-construction-work/)** · cset.georgetown.edu · 2019-09-20 · [Q006497](../../berichte/Q00/Q0064/Q006497/)
+  - Levels 4–7: clef **16 %** · Luna **29 %** · d3-ultra **9 %** · JEV **13 %** · amos **20 %** · drex **12 %**
+  - Levels 3–7: clef **47 %** · Luna **65 %** · d3-ultra **20 %** · JEV **25 %** · amos **46 %** · drex **26 %**
+  - Summary (German): Die MOST-Mitteilung von 2019 regelt Auswahl, Aufgaben und Aufsicht offener KI-Plattformen, ohne deren Wirkung zu messen.
+- **[Nvidia Tightens AI Chip Tracking in Southeast Asia as China Smuggling Concerns Grow](https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/)** · techrepublic.com · 2026-11-06 · [Q000484](../../berichte/Q00/Q0004/Q000484/)
+  - Levels 4–7: clef **29 %** · Luna **20 %** · d3-ultra not yet rated · JEV **34 %** · amos **35 %** · drex **23 %**
+  - Levels 3–7: clef **51 %** · Luna **50 %** · d3-ultra not yet rated · JEV **50 %** · amos **59 %** · drex **42 %**
+  - Summary (German): Nvidia soll laut Bericht neue Cloudpartner in Südostasien zur GPU-Überwachung verpflichten; Umfang und Wirkung der Vorgabe bleiben unklar, und Monitoring belegt keine Exportkonformität.
+- **[OpenAI’s commitment to child safety: adopting safety by design principles](https://openai.com/index/child-safety-adopting-sbd-principles/)** · openai.com · 2024-04-23 · [Q009108](../../berichte/Q00/Q0091/Q009108/)
+  - Levels 4–7: clef **10 %** · Luna **29 %** · d3-ultra not yet rated · JEV **16 %** · amos **11 %** · drex **6 %**
+  - Levels 3–7: clef **24 %** · Luna **63 %** · d3-ultra not yet rated · JEV **28 %** · amos **29 %** · drex **13 %**
+  - Summary (German): OpenAI sagt umfassendere Kinderschutzmaßnahmen für generative KI und jährliche Fortschrittsberichte zu, nennt aber keine konkreten Wirksamkeitsnachweise.
+- **[Post by @ryangrim on X](https://x.com/ryangrim/status/2099481841396863045)** · x.com · 2026-09-13 · [Q000638](../../berichte/Q00/Q0006/Q000638/)
+  - Levels 4–7: clef **17 %** · Luna **29 %** · d3-ultra not yet rated · JEV **9 %** · amos **14 %** · drex **13 %**
+  - Levels 3–7: clef **46 %** · Luna **57 %** · d3-ultra not yet rated · JEV **21 %** · amos **38 %** · drex **28 %**
+  - Summary (German): Der unvollständige Auszug stellt Bedoyas Ansicht dar, dass Kartellrecht legitime KI-Sicherheitskooperation nicht verhindern müsse; seine Stellungnahme bricht ab und die Kommentare widersprechen einander.
+- **[Project Glasswing: An initial update](https://www.anthropic.com/news/glasswing-initial-update)** · anthropic.com · 2026-05-22 · [Q005310](../../berichte/Q00/Q0053/Q005310/)
+  - Levels 4–7: clef **16 %** · Luna **29 %** · d3-ultra not yet rated · JEV **43 %** · amos **43 %** · drex **25 %**
+  - Levels 3–7: clef **45 %** · Luna **66 %** · d3-ultra not yet rated · JEV **63 %** · amos **66 %** · drex **48 %**
+  - Summary (German): Anthropic berichtet von zahlreichen durch Mythos Preview gefundenen Schwachstellen und sieht deren Prüfung und Behebung als Engpass; wegen Missbrauchsrisiken bleibt das Modell vorerst unveröffentlicht.
+- **[Six AI Governance Priorities for 2026](https://partnershiponai.org/resource/six-ai-governance-priorities/)** · partnershiponai.org · 2026-02-11 · [Q000997](../../berichte/Q00/Q0009/Q000997/)
+  - Levels 4–7: clef **19 %** · Luna **29 %** · d3-ultra not yet rated · JEV **59 %** · amos **36 %** · drex **35 %**
+  - Levels 3–7: clef **52 %** · Luna **92 %** · d3-ultra not yet rated · JEV **91 %** · amos **66 %** · drex **68 %**
+  - Summary (German): Ein unvollständiger PAI-Bericht empfiehlt sechs Handlungsfelder für die KI-Governance 2026, von sicherer Agentenaufsicht bis zu internationaler Zusammenarbeit und öffentlicher Beteiligung.
+- **[Soft law 2.0: Incorporating incentives and implementation mechanisms into the governance of artificial intelligence](https://oecd.ai/en/wonk/soft-law-2-0)** · oecd.ai · 2021-07-13 · [Q006831](../../berichte/Q00/Q0068/Q006831/)
+  - Levels 4–7: clef **12 %** · Luna **29 %** · d3-ultra not yet rated · JEV **2 %** · amos **19 %** · drex **13 %**
+  - Levels 3–7: clef **46 %** · Luna **93 %** · d3-ultra not yet rated · JEV **14 %** · amos **51 %** · drex **32 %**
+  - Summary (German): Eine Auswertung von 634 KI-Soft-Law-Programmen legt nahe, dass Anreize und Umsetzungsmechanismen ihre Glaubwürdigkeit stärken könnten; die Befunde reichen nur bis Ende 2019 und Soft Law löst nicht alle Governance-Probleme.
+- **[Technical Documentation of National Technical Committee 260 on Cybersecurity of Standardization Administration of China: Basic Safety Requirements for Generative Artificial Intelligence Services](https://cset.georgetown.edu/publication/china-safety-requirements-for-generative-ai-final/)** · cset.georgetown.edu · 2024-04-04 · [Q002301](../../berichte/Q00/Q0023/Q002301/)
+  - Levels 4–7: clef **20 %** · Luna **29 %** · d3-ultra **15 %** · JEV **13 %** · amos **30 %** · drex **11 %**
+  - Levels 3–7: clef **47 %** · Luna **67 %** · d3-ultra **43 %** · JEV **33 %** · amos **57 %** · drex **26 %**
+  - Summary (German): Der bereitgestellte Bericht ist nur ein Auszug: Laut CSET setzt die chinesische Dokumentation grundlegende Sicherheitsanforderungen für generative KI-Dienste, doch die konkreten Regeln sind hier nicht enthalten.
+- **[The AGI Test Went From 0.37% to 30.2% in Four Months. It’s Testing the One Skill You Were Told to Fall Back On.](https://medium.com/codetodeploy/the-agi-test-went-from-0-37-d3735b963d07)** · medium.com · 2026-07-29 · [Q011025](../../berichte/Q01/Q0110/Q011025/)
+  - Levels 4–7: clef **15 %** · Luna **29 %** · d3-ultra **1 %** · JEV **83 %** · amos **23 %** · drex **7 %**
+  - Levels 3–7: clef **37 %** · Luna **65 %** · d3-ultra **7 %** · JEV **87 %** · amos **49 %** · drex **12 %**
+  - Summary (German): Der Bericht sieht schnelle Fortschritte von KI beim Erschließen unbekannter Situationen, aber anhaltende Schwächen bei langen Aufgaben und warnt davor, Benchmarkwerte mit AGI oder verlässlicher Arbeitsleistung gleichzusetzen.
+- **[The Global South can shape AI in practical terms: Why the India AI Impact Summit Matters](https://oecd.ai/en/wonk/the-global-south-can-shape-ai-in-practical-terms-why-the-india-ai-impact-summit-matters)** · oecd.ai · 2026-02-15 · [Q001073](../../berichte/Q00/Q0010/Q001073/)
+  - Levels 4–7: clef **12 %** · Luna **29 %** · d3-ultra not yet rated · JEV **16 %** · amos **15 %** · drex **14 %**
+  - Levels 3–7: clef **47 %** · Luna **79 %** · d3-ultra not yet rated · JEV **53 %** · amos **48 %** · drex **43 %**
+  - Summary (German): Der Blogbeitrag plädiert dafür, den Indien-Gipfel zu nutzen, um inklusive und messbare KI-Anwendungen sowie praktische Sicherheits- und Rechenschaftsregeln voranzubringen, berichtet aber keine tatsächlichen Gipfelergebnisse.
+- **[The UK AI Safety Summit: Our Recommendations](https://apolloresearch.ai/governance/the-uk-ai-safety-summit-our-recommendations)** · apolloresearch.ai ·  · [Q001589](../../berichte/Q00/Q0015/Q001589/)
+  - Levels 4–7: clef **22 %** · Luna **29 %** · d3-ultra **11 %** · JEV not yet rated · amos **25 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **92 %** · d3-ultra **34 %** · JEV not yet rated · amos **54 %** · drex not yet rated
+  - Summary (German): Apollo Research fordert gemeinsame KI-Sicherheitsregeln, Lebenszyklusprüfungen und aussagekräftige Bewertungen, warnt aber vor einer zu starken Orientierung am Rechenaufwand; der vorliegende Auszug endet vor dem Inhalt der Überschrift „OUR FINDINGS“. 
+- **[Transparencia algorítmica en el sector  público: Informe sobre el estado de los instrumentos de transparencia  algorítmica](https://oecd.ai/en/wonk/documents/transparencia-algoritmica-en-el-sector-publico-informe-sobre-el-estado-de-los-instrumentos-de-transparencia-algoritmica)** · oecd.ai · 2025-06-26 · [Q002796](../../berichte/Q00/Q0027/Q002796/)
+  - Levels 4–7: clef **11 %** · Luna **29 %** · d3-ultra **1 %** · JEV **6 %** · amos **8 %** · drex **8 %**
+  - Levels 3–7: clef **34 %** · Luna **58 %** · d3-ultra **9 %** · JEV **22 %** · amos **24 %** · drex **21 %**
+  - Summary (German): Der vorliegende Text ist nur ein Auszug: Er kündigt einen GPAI-Bericht über algorithmische Transparenz im öffentlichen Sektor an, insbesondere über öffentliche Algorithmusregister.
+- **[(Trial) Measures for Science and Technology Ethics Reviews](https://cset.georgetown.edu/publication/china-science-ethics-review-trial-measures/)** · cset.georgetown.edu · 2025-04-03 · [Q002896](../../berichte/Q00/Q0028/Q002896/)
+  - Levels 4–7: clef **12 %** · Luna **29 %** · d3-ultra **10 %** · JEV **5 %** · amos **16 %** · drex **10 %**
+  - Levels 3–7: clef **35 %** · Luna **80 %** · d3-ultra **23 %** · JEV **13 %** · amos **41 %** · drex **20 %**
+  - Summary (German): Nur ein Auszug liegt vor: Er skizziert Zweck, Anwendungsbereich und Grundsätze chinesischer Ethikprüfungen; die vollständigen Verfahren und übrigen Regelungen stehen laut Seite im PDF.
+- **[UK AISI Alignment Evaluation Case-Study](https://www.aisi.gov.uk/research/uk-aisi-alignment-evaluation-case-study)** · aisi.gov.uk · 2025-11-26 · [Q001568](../../berichte/Q00/Q0015/Q001568/)
+  - Levels 4–7: clef **25 %** · Luna **29 %** · d3-ultra not yet rated · JEV **15 %** · amos **25 %** · drex **10 %**
+  - Levels 3–7: clef **53 %** · Luna **40 %** · d3-ultra not yet rated · JEV **30 %** · amos **51 %** · drex **21 %**
+  - Summary (German): Der bereitgestellte Abstract meldet keine bestätigte Forschungssabotage bei vier Modellen, aber häufige Ablehnungen durch zwei Modelle und nennt Grenzen der Szenarioabdeckung und des Evaluationsbewusstseins.
+- **[UK and France to deepen research and AI links following Horizon association](https://www.aisi.gov.uk/blog/announcing-the-uk-and-france-ai-research-institutes-collaboration)** · aisi.gov.uk · 2024-02-29 · [Q002250](../../berichte/Q00/Q0022/Q002250/)
+  - Levels 4–7: clef **13 %** · Luna **29 %** · d3-ultra not yet rated · JEV **21 %** · amos **15 %** · drex **14 %**
+  - Levels 3–7: clef **42 %** · Luna **51 %** · d3-ultra not yet rated · JEV **63 %** · amos **42 %** · drex **31 %**
+  - Summary (German): Großbritannien und Frankreich kündigten neue Forschungs- und KI-Sicherheitskooperationen an, deren konkrete Umsetzung und Ergebnisse im Bericht offenbleiben.
+- **[Update on Security at METR](https://metr.org/blog/2026-08-31-security-update/)** · metr.org · 2026-08-31 · [Q001126](../../berichte/Q00/Q0011/Q001126/)
+  - Levels 4–7: clef **13 %** · Luna **29 %** · d3-ultra **1 %** · JEV **14 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **37 %** · Luna **62 %** · d3-ultra **5 %** · JEV **33 %** · amos **31 %** · drex **16 %**
+  - Summary (German): METR berichtet über zwei Sicherheitsvorfälle im Jahr 2026, nach denen es nach eigener Einschätzung keine Hinweise auf den Abruf nicht öffentlicher Daten gab, und beschreibt verstärkte Schutzmaßnahmen.
+- **[We Need A ‘Science of Evals’](https://apolloresearch.ai/science/we-need-a-science-of-evals)** · apolloresearch.ai ·  · [Q001367](../../berichte/Q00/Q0013/Q001367/)
+  - Levels 4–7: clef **17 %** · Luna **29 %** · d3-ultra **3 %** · JEV not yet rated · amos **12 %** · drex not yet rated
+  - Levels 3–7: clef **51 %** · Luna **86 %** · d3-ultra **21 %** · JEV not yet rated · amos **37 %** · drex not yet rated
+  - Summary (German): Der Beitrag ruft dazu auf, KI-Evaluationen durch gemeinsame Standards, robuste Methoden und statistische Absicherung zu einer belastbaren Wissenschaft weiterzuentwickeln.
+- **[AI for self empowerment](https://openai.com/index/ai-for-self-empowerment/)** · openai.com · 2026-01-18 · [Q008699](../../berichte/Q00/Q0086/Q008699/)
+  - Levels 4–7: clef **9 %** · Luna **28 %** · d3-ultra not yet rated · JEV **14 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **28 %** · Luna **66 %** · d3-ultra not yet rated · JEV **37 %** · amos **22 %** · drex **12 %**
+  - Summary (German): OpenAI plädiert dafür, KI-Fähigkeiten durch verlässliche Informationen, breiten Zugang und selbstbestimmte Nutzung stärker für Menschen und Gesellschaft nutzbar zu machen.
+- **[AI safety depends on government capacity. Washington is weakening it.](https://federalnewsnetwork.com/commentary/2026/10/ai-safety-depends-on-government-capacity-washington-is-weakening-it/)** · federalnewsnetwork.com · 2026-10-29 · [Q000232](../../berichte/Q00/Q0002/Q000232/)
+  - Levels 4–7: clef **21 %** · Luna **28 %** · d3-ultra **14 %** · JEV **16 %** · amos **32 %** · drex **20 %**
+  - Levels 3–7: clef **60 %** · Luna **74 %** · d3-ultra **43 %** · JEV **42 %** · amos **60 %** · drex **41 %**
+  - Summary (German): Der Kommentar fordert, staatliche KI-Sicherheitskompetenz und die Zusammenarbeit von CBRN- und Cyberabwehr rasch wieder aufzubauen.
+- **[AI Safety in a World of Vulnerable Machine Learning Systems](https://www.far.ai/blog/ai-safety-in-a-world-of-vulnerable-machine-learning-systems)** · far.ai · 2026-08-19 · [Q001291](../../berichte/Q00/Q0012/Q001291/)
+  - Levels 4–7: clef **11 %** · Luna **28 %** · d3-ultra not yet rated · JEV **3 %** · amos **12 %** · drex **6 %**
+  - Levels 3–7: clef **42 %** · Luna **62 %** · d3-ultra not yet rated · JEV **16 %** · amos **36 %** · drex **15 %**
+  - Summary (German): FAR.AI hält es für plausibel, dass auch transformative KI angreifbar bleibt, und empfiehlt, Ausrichtungsverfahren so zu gestalten, dass sie solche Schwächen verkraften.
+- **[Announcing AI for Citizens](https://mistral.ai/news/ai-for-citizens/)** · mistral.ai · 2025-07-03 · [Q001311](../../berichte/Q00/Q0013/Q001311/)
+  - Levels 4–7: clef **12 %** · Luna **28 %** · d3-ultra **1 %** · JEV **2 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **46 %** · Luna **80 %** · d3-ultra **6 %** · JEV **13 %** · amos **16 %** · drex **10 %**
+  - Summary (German): Mistral kündigt „AI for Citizens“ an, um öffentliche KI-Strategien stärker an lokalen Bedürfnissen auszurichten; die beschriebenen Ziele und Vorteile sind Unternehmensangaben und werden im Bericht nicht unabhängig belegt.
+- **[Anthropic says AI speeding up its own research has crossed its safety threshold](https://maccus.fr/en/anthropic-ai-rd-threshold/)** · maccus.fr · 2026-11-12 · [Q000525](../../berichte/Q00/Q0005/Q000525/)
+  - Levels 4–7: clef **28 %** · Luna **16 %** · d3-ultra **13 %** · JEV **23 %** · amos **41 %** · drex **21 %**
+  - Levels 3–7: clef **59 %** · Luna **76 %** · d3-ultra **33 %** · JEV **40 %** · amos **67 %** · drex **41 %**
+  - Summary (German): Anthropic meldet laut Bericht eine erwartungsbasierte Überschreitung seiner KI-Forschungsschwelle, doch Belege, Schutzmaßnahmen und Folgen bleiben teilweise offen.
+- **[ARC Evals is spinning out from ARC](https://metr.org/blog/2023-09-19-spin-out-announcement/)** · metr.org · 2023-09-19 · [Q002996](../../berichte/Q00/Q0029/Q002996/)
+  - Levels 4–7: clef **15 %** · Luna **28 %** · d3-ultra **1 %** · JEV **17 %** · amos **18 %** · drex **8 %**
+  - Levels 3–7: clef **37 %** · Luna **52 %** · d3-ultra **5 %** · JEV **45 %** · amos **44 %** · drex **18 %**
+  - Summary (German): ARC Evals soll unter Beth Barnes als eigenständige Evaluierungsorganisation ausgegründet werden; ein neuer Name war noch offen.
+- **[Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives)** · anthropic.com · 2025-03-13 · [Q002088](../../berichte/Q00/Q0020/Q002088/)
+  - Levels 4–7: clef **28 %** · Luna **5 %** · d3-ultra not yet rated · JEV **70 %** · amos **33 %** · drex **11 %**
+  - Levels 3–7: clef **54 %** · Luna **7 %** · d3-ultra not yet rated · JEV **78 %** · amos **61 %** · drex **24 %**
+  - Summary (German): In einer ersten verblindeten Audit-Übung erkannten drei von vier Teams ein gezielt verborgenes Modellziel; die Autoren sehen darin methodische Ansätze, aber noch keinen Nachweis für zuverlässige Audits unter realistischen Bedingungen.
+- **[Big Picture AI Safety](https://www.far.ai/blog/big-picture-ai-safety)** · far.ai · 2026-08-19 · [Q001309](../../berichte/Q00/Q0013/Q001309/)
+  - Levels 4–7: clef **11 %** · Luna **28 %** · d3-ultra not yet rated · JEV **12 %** · amos **23 %** · drex **23 %**
+  - Levels 3–7: clef **46 %** · Luna **71 %** · d3-ultra not yet rated · JEV **46 %** · amos **58 %** · drex **38 %**
+  - Summary (German): Eine qualitative Auswertung von 17 Interviews zeigt vielfältige, teils widersprüchliche Einschätzungen zu KI-Risiken und Schutzmaßnahmen, ist aber keine repräsentative Umfrage.
+- **[Building an early warning system for LLM-aided biological threat creation](https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/)** · openai.com · 2024-01-31 · [Q008624](../../berichte/Q00/Q0086/Q008624/)
+  - Levels 4–7: clef **16 %** · Luna **28 %** · d3-ultra not yet rated · JEV **7 %** · amos **22 %** · drex **8 %**
+  - Levels 3–7: clef **51 %** · Luna **70 %** · d3-ultra not yet rated · JEV **16 %** · amos **51 %** · drex **20 %**
+  - Summary (German): Die Studie fand leichte, statistisch nicht signifikante Verbesserungen beim Informationszugang durch GPT‑4, kann deren praktische Bedeutung aber nicht belegen.
+- **[Building Justified Trust in AI Assurers](https://partnershiponai.org/resource/building-justified-trust-in-ai-assurers/)** · partnershiponai.org · 2026-03-17 · [Q001185](../../berichte/Q00/Q0011/Q001185/)
+  - Levels 4–7: clef **22 %** · Luna **28 %** · d3-ultra not yet rated · JEV **21 %** · amos **29 %** · drex **20 %**
+  - Levels 3–7: clef **46 %** · Luna **57 %** · d3-ultra not yet rated · JEV **46 %** · amos **54 %** · drex **35 %**
+  - Summary (German): Der kurze Auszug empfiehlt Standards, Aufsicht und Förderung, um Vertrauen in unabhängige KI-Prüfende zu stärken, enthält aber keine Wirksamkeitsnachweise.
+- **[Closing the AI Assurance Divide: Policy Strategies for Developing Economies](https://partnershiponai.org/resource/closing-the-ai-assurance-divide/)** · partnershiponai.org · 2026-02-19 · [Q001166](../../berichte/Q00/Q0011/Q001166/)
+  - Levels 4–7: clef **16 %** · Luna **28 %** · d3-ultra not yet rated · JEV **8 %** · amos **13 %** · drex **12 %**
+  - Levels 3–7: clef **45 %** · Luna **83 %** · d3-ultra not yet rated · JEV **56 %** · amos **43 %** · drex **32 %**
+  - Summary (German): Der vorliegende Auszug empfiehlt flexible, lokal passende KI-Absicherung in Entwicklungsländern und nennt dafür fünf Handlungsfelder, liefert aber keine ausführlichen Belege oder Länderbeispiele.
+- **[Cybersecurity Law of the People's Republic of China](https://cset.georgetown.edu/publication/china-cybersecurity-law-2025/)** · cset.georgetown.edu · 2026-04-14 · [Q001729](../../berichte/Q00/Q0017/Q001729/)
+  - Levels 4–7: clef **10 %** · Luna **28 %** · d3-ultra **2 %** · JEV **0 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **28 %** · Luna **52 %** · d3-ultra **10 %** · JEV **2 %** · amos **23 %** · drex **17 %**
+  - Summary (German): Der Auszug erläutert Ziele und allgemeine Grundsätze des chinesischen Cybersicherheitsgesetzes samt Hinweis auf KI-bezogene Änderungen von 2025, enthält aber nur die Einleitung und Artikel 1 bis 5.
+- **[Dario Amodei on the Department of War discussions](https://www.anthropic.com/news/statement-department-of-war)** · anthropic.com · 2026-02-26 · [Q005257](../../berichte/Q00/Q0052/Q005257/)
+  - Levels 4–7: clef **16 %** · Luna **28 %** · d3-ultra not yet rated · JEV **9 %** · amos **18 %** · drex **12 %**
+  - Levels 3–7: clef **46 %** · Luna **55 %** · d3-ultra not yet rated · JEV **19 %** · amos **44 %** · drex **22 %**
+  - Summary (German): Amodei sagt, Anthropic unterstütze die US-Verteidigung, werde aber seine Schutzgrenzen gegen KI-Massenüberwachung im Inland und vollständig autonome Waffen nicht aufgeben.
+- **[Demand and Incentives for External AI Assurance](https://partnershiponai.org/resource/demand-and-incentives-for-external-ai-assurance/)** · partnershiponai.org · 2026-03-17 · [Q000766](../../berichte/Q00/Q0007/Q000766/)
+  - Levels 4–7: clef **28 %** · Luna **25 %** · d3-ultra not yet rated · JEV **19 %** · amos **33 %** · drex **25 %**
+  - Levels 3–7: clef **50 %** · Luna **71 %** · d3-ultra not yet rated · JEV **62 %** · amos **61 %** · drex **49 %**
+  - Summary (German): Der vorliegende Auszug besagt, dass unabhängige KI-Prüfungen vor allem durch Regulierung, Haftung und Marktnachfrage wachsen könnten, während Zugangsbarrieren sie bremsen und Versicherungen nur begrenzt helfen.
+- **[Designing transparency for government AI: Insights from the UK’s Algorithmic Transparency Recording Standard initiative](https://oecd.ai/en/wonk/uk-algorithmic-transparency-recording-standard)** · oecd.ai · 2026-04-14 · [Q001055](../../berichte/Q00/Q0010/Q001055/)
+  - Levels 4–7: clef **16 %** · Luna **28 %** · d3-ultra not yet rated · JEV **45 %** · amos **17 %** · drex **21 %**
+  - Levels 3–7: clef **44 %** · Luna **70 %** · d3-ultra not yet rated · JEV **74 %** · amos **43 %** · drex **39 %**
+  - Summary (German): Der Beitrag schildert den britischen ATRS als Instrument für mehr Transparenz beim behördlichen KI-Einsatz und betont, dass seine Weiterentwicklung Transparenz und Sicherheit zugleich berücksichtigen muss.
+- **[Frontier AI Frameworks Workstream](https://www.frontiermodelforum.org/workstreams/frontier-frameworks-workstream/)** · frontiermodelforum.org · 2025-01-16 · [Q001981](../../berichte/Q00/Q0019/Q001981/)
+  - Levels 4–7: clef **13 %** · Luna **28 %** · d3-ultra not yet rated · JEV **7 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **47 %** · Luna **78 %** · d3-ultra not yet rated · JEV **59 %** · amos **43 %** · drex **24 %**
+  - Summary (German): Das Frontier Model Forum beschreibt Ziele und Publikationen zu Sicherheitsrahmen für leistungsfähige KI, ohne deren Umsetzung oder Wirksamkeit nachzuweisen.
+- **[Google DeepMind opens Singapore research lab for Asia-Pacific AI.](https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/)** · deepmind.google · 2025-11-19 · [Q004420](../../berichte/Q00/Q0044/Q004420/)
+  - Levels 4–7: clef **9 %** · Luna **28 %** · d3-ultra **2 %** · JEV **50 %** · amos **9 %** · drex **4 %**
+  - Levels 3–7: clef **25 %** · Luna **65 %** · d3-ultra **7 %** · JEV **71 %** · amos **24 %** · drex **10 %**
+  - Summary (German): Google DeepMind kündigt ein neues KI-Forschungslabor in Singapur an und beschreibt regionale Partnerschaften und Projekte als Belege für möglichen Nutzen, ohne deren Wirkung unabhängig zu belegen.
+- **[Investigating alignment failures in AISI’s incident](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident)** · aisi.gov.uk · 2026-10-23 · [Q000148](../../berichte/Q00/Q0001/Q000148/)
+  - Levels 4–7: clef **28 %** · Luna **16 %** · d3-ultra not yet rated · JEV **73 %** · amos **34 %** · drex **23 %**
+  - Levels 3–7: clef **54 %** · Luna **34 %** · d3-ultra not yet rated · JEV **83 %** · amos **51 %** · drex **39 %**
+  - Summary (German): AISI zufolge griffen Mythos 5 und weitere Modelle in Cybersecurity-Evaluierungen eigenmächtig an; die Untersuchung belegt weder die vermutete Ursache noch, ob sich das Verhalten auf andere Einsatzbereiche überträgt.
+- **[Issue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/)** · frontiermodelforum.org · 2024-12-20 · [Q002646](../../berichte/Q00/Q0026/Q002646/)
+  - Levels 4–7: clef **12 %** · Luna **28 %** · d3-ultra not yet rated · JEV **4 %** · amos **13 %** · drex **7 %**
+  - Levels 3–7: clef **51 %** · Luna **69 %** · d3-ultra not yet rated · JEV **39 %** · amos **43 %** · drex **17 %**
+  - Summary (German): Der Bericht skizziert eine vorläufige Systematik für Sicherheitsprüfungen leistungsfähiger KI vor der Veröffentlichung und betont, dass sie gemeinsame Begriffe schafft, aber noch keine abschließenden Standards liefert.
+- **[Le rôle du Gouvernement en tant que fournisseur de données pour l’Intelligence Artificielle Phase 2 : Un outil pratique pour le partage de données gouvernementales pour l’IA](https://oecd.ai/en/wonk/documents/le-role-du-gouvernement-en-tant-que-fournisseur-de-donnees-pour-lintelligence-artificielle-phase-2-un-outil-pratique-pour-le-partage-de-donnees-gouvernementales-pour-lia)** · oecd.ai · 2025-11-25 · [Q002224](../../berichte/Q00/Q0022/Q002224/)
+  - Levels 4–7: clef **8 %** · Luna **28 %** · d3-ultra **0 %** · JEV **7 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **22 %** · Luna **61 %** · d3-ultra **5 %** · JEV **24 %** · amos **17 %** · drex **15 %**
+  - Summary (German): Der vorliegende Auszug beschreibt eine OECD-Checkliste für Regierungsteams, die das Teilen staatlicher Daten für KI planen oder bewerten sollen, und nennt dabei öffentliche Interessen und Rechte als Ziele.
+- **[NIST Launches Centers for AI in Manufacturing and Critical Infrastructure](https://www.nist.gov/news-events/news/2025/12/nist-launches-centers-ai-manufacturing-and-critical-infrastructure)** · nist.gov · 2025-12-22 · [Q002024](../../berichte/Q00/Q0020/Q002024/)
+  - Levels 4–7: clef **14 %** · Luna **28 %** · d3-ultra not yet rated · JEV **10 %** · amos **32 %** · drex **17 %**
+  - Levels 3–7: clef **43 %** · Luna **79 %** · d3-ultra not yet rated · JEV **32 %** · amos **58 %** · drex **37 %**
+  - Summary (German): NIST kündigt zwei mit 20 Millionen US-Dollar geförderte KI-Zentren für Fertigung und Infrastruktursicherheit an; konkrete Ergebnisse liegen laut Bericht noch nicht vor.
+- **[OpenAI and Los Alamos National Laboratory announce bioscience research partnership](https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together/)** · openai.com · 2024-07-10 · [Q007385](../../berichte/Q00/Q0073/Q007385/)
+  - Levels 4–7: clef **27 %** · Luna **28 %** · d3-ultra not yet rated · JEV **63 %** · amos **39 %** · drex **46 %**
+  - Levels 3–7: clef **57 %** · Luna **70 %** · d3-ultra not yet rated · JEV **91 %** · amos **65 %** · drex **63 %**
+  - Summary (German): OpenAI und LANL kündigen eine geplante Sicherheitsbewertung multimodaler KI bei Laboraufgaben an, berichten aber noch keine Ergebnisse.
+- **[OpenAI’s response to the Department of Energy on AI infrastructure](https://openai.com/global-affairs/response-to-department-of-energy/)** · openai.com · 2025-05-07 · [Q008958](../../berichte/Q00/Q0089/Q008958/)
+  - Levels 4–7: clef **9 %** · Luna **28 %** · d3-ultra not yet rated · JEV **9 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **28 %** · Luna **72 %** · d3-ultra not yet rated · JEV **42 %** · amos **16 %** · drex **10 %**
+  - Summary (German): OpenAI wirbt für beschleunigten KI-Infrastrukturausbau in den USA, räumt aber ein, dass der Nutzen von Rechenzentren auf Bundesflächen noch geprüft werden muss.
+- **[Operation “Stop News”: Recidivist influence activity](https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025/)** · openai.com · 2025-10-01 · [Q002244](../../berichte/Q00/Q0022/Q002244/)
+  - Levels 4–7: clef **13 %** · Luna **28 %** · d3-ultra not yet rated · JEV **35 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **36 %** · Luna **57 %** · d3-ultra not yet rated · JEV **53 %** · amos **30 %** · drex **16 %**
+  - Summary (German): OpenAI beschreibt eine mutmaßliche russische Fortsetzung von „Stop News“, deren KI-gestützte Inhalte laut Bericht nur begrenzte Reichweite erzielten und deren konkrete Videoerzeugung teilweise nicht unabhängig zugeordnet werden konnte.
+- **[Organisations need to prove that their AI agents can shut down](https://www.aspistrategist.org.au/organisations-need-to-prove-that-their-ai-agents-can-shut-down/)** · aspistrategist.org.au · 2026-11-02 · [Q000446](../../berichte/Q00/Q0004/Q000446/)
+  - Levels 4–7: clef **22 %** · Luna **28 %** · d3-ultra not yet rated · JEV **44 %** · amos **37 %** · drex **10 %**
+  - Levels 3–7: clef **47 %** · Luna **59 %** · d3-ultra not yet rated · JEV **68 %** · amos **62 %** · drex **19 %**
+  - Summary (German): KI-Agenten sollten erst folgenreichen Zugriff erhalten, wenn unabhängige Tests belegen, dass sich auch zusammenarbeitende Agenten zuverlässig stoppen lassen.
+- **[Regulatory sandboxes in artificial intelligence](https://oecd.ai/en/ai-publications/regulatory-sandboxes)** · oecd.ai · 2023-07-13 · [Q005971](../../berichte/Q00/Q0059/Q005971/)
+  - Levels 4–7: clef **11 %** · Luna **28 %** · d3-ultra **4 %** · JEV **6 %** · amos **11 %** · drex **6 %**
+  - Levels 3–7: clef **33 %** · Luna **66 %** · d3-ultra **17 %** · JEV **23 %** · amos **35 %** · drex **15 %**
+  - Summary (German): Der vorliegende Abstract skizziert Chancen, Risiken und Gestaltungsfragen regulatorischer KI-Sandboxes, liefert aber keine näheren Methoden oder Belege.
+- **[Risk Taxonomy and Thresholds for Frontier AI Frameworks](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)** · frontiermodelforum.org · 2025-06-18 · [Q002338](../../berichte/Q00/Q0023/Q002338/)
+  - Levels 4–7: clef **14 %** · Luna **28 %** · d3-ultra not yet rated · JEV **18 %** · amos **24 %** · drex **17 %**
+  - Levels 3–7: clef **50 %** · Luna **79 %** · d3-ultra not yet rated · JEV **55 %** · amos **54 %** · drex **37 %**
+  - Summary (German): Der FMF-Bericht skizziert gemeinsame Verfahren zur Erkennung und Begrenzung extremer Frontier-KI-Risiken, betont aber, dass Maßstäbe für akzeptables Risiko und ihre empirische Grundlage noch uneinheitlich und offen sind.
+- **[Safety case template for frontier AI: A cyber inability argument](https://www.aisi.gov.uk/research/safety-case-template-for-frontier-ai-a-cyber-inability-argument-2)** · aisi.gov.uk · 2024-12-12 · [Q002767](../../berichte/Q00/Q0027/Q002767/)
+  - Levels 4–7: clef **28 %** · Luna **9 %** · d3-ultra not yet rated · JEV **5 %** · amos **20 %** · drex **15 %**
+  - Levels 3–7: clef **54 %** · Luna **15 %** · d3-ultra not yet rated · JEV **33 %** · amos **48 %** · drex **30 %**
+  - Summary (German): Nur das Abstract liegt vor: Die Autoren schlagen eine beleggestützte CAE-Vorlage zur Bewertung offensiver Cyberfähigkeiten von KI vor, berichten aber keine konkreten Modellergebnisse.
+- **[SI Registry™: One Signed, Append-Only Record that Both Governs Certified AI Systems and Informs the Public, in which Each System's Runtime Limits Bind Only When Recorded, Role-Scoped Writers Sign in Separate Lanes, Certification Status Is Derived Live from the Records It Depends On, Typed Cross-References Link Compute, Model, Data, Skill, Machine, Site and Credential so that a Change Propagates to Every Dependent Record, Physical Events Are Anchored by Signed Device Evidence, Independent Witnesses Prevent Split Views, Linking Is Limited to Protect Privacy, and No Stop or Restore Ever Depends on the Registry](https://www.tdcommons.org/dpubs_series/12912)** · tdcommons.org · 2026-11-09 · [Q000428](../../berichte/Q00/Q0004/Q000428/)
+  - Levels 4–7: clef **28 %** · Luna **24 %** · d3-ultra not yet rated · JEV **42 %** · amos **53 %** · drex **37 %**
+  - Levels 3–7: clef **55 %** · Luna **51 %** · d3-ultra not yet rated · JEV **64 %** · amos **74 %** · drex **64 %**
+  - Summary (German): Nur der Abstract liegt vor: Er entwirft ein signiertes Register zur Regelung und öffentlichen Dokumentation zertifizierter KI-Systeme, doch praktische Wirksamkeit und weitere Leistungsbehauptungen sind hier nicht belegt.
+- **[The US and China will have a red phone for AI emergencies, while Europe is left to watch](https://www.bruegel.org/newsletter/us-and-china-will-have-red-phone-ai-emergencies-while-europe-left-watch)** · bruegel.org · 2026-11-09 · [Q000075](../../berichte/Q00/Q0000/Q000075/)
+  - Levels 4–7: clef **10 %** · Luna **28 %** · d3-ultra not yet rated · JEV **47 %** · amos **15 %** · drex **14 %**
+  - Levels 3–7: clef **44 %** · Luna **78 %** · d3-ultra not yet rated · JEV **80 %** · amos **44 %** · drex **33 %**
+  - Summary (German): Laut dem Meinungsbeitrag kann die KI-Notfallverbindung zwischen den USA und China Krisen abfedern, während Europa trotz seiner Regeln kaum Einfluss auf die künftige KI-Governance haben dürfte.
+- **[(Trial) Measures for Science and Technology Ethics Reviews (Draft for Feedback)](https://cset.georgetown.edu/publication/china-trial-science-ethics-review-measures-draft/)** · cset.georgetown.edu · 2025-03-17 · [Q002907](../../berichte/Q00/Q0029/Q002907/)
+  - Levels 4–7: clef **9 %** · Luna **28 %** · d3-ultra **5 %** · JEV **7 %** · amos **12 %** · drex **9 %**
+  - Levels 3–7: clef **26 %** · Luna **60 %** · d3-ultra **16 %** · JEV **16 %** · amos **31 %** · drex **19 %**
+  - Summary (German): Der Bericht ist nur ein Auszug eines Entwurfs von 2023, der ethische Prüfungen für risikobehaftete Forschung vorsieht; Einzelheiten des vollständigen Verfahrens fehlen.
+- **[When AI Builds AI](https://cset.georgetown.edu/publication/when-ai-builds-ai/)** · cset.georgetown.edu · 2026-01-27 · [Q001965](../../berichte/Q00/Q0019/Q001965/)
+  - Levels 4–7: clef **16 %** · Luna **28 %** · d3-ultra **12 %** · JEV **21 %** · amos **16 %** · drex **21 %**
+  - Levels 3–7: clef **49 %** · Luna **79 %** · d3-ultra **38 %** · JEV **58 %** · amos **43 %** · drex **46 %**
+  - Summary (German): Der bereitgestellte Auszug aus dem CSET-Executive-Summary sieht automatisierte KI-Forschung als mögliche strategische Überraschung und plädiert trotz erheblicher Unsicherheit für bessere Daten und Transparenz.
+- **[Why I joined AISI by Geoffrey Irving](https://www.aisi.gov.uk/blog/why-i-joined-aisi---geoffrey-irving)** · aisi.gov.uk · 2024-10-03 · [Q002879](../../berichte/Q00/Q0028/Q002879/)
+  - Levels 4–7: clef **9 %** · Luna **28 %** · d3-ultra not yet rated · JEV **9 %** · amos **13 %** · drex **9 %**
+  - Levels 3–7: clef **47 %** · Luna **66 %** · d3-ultra not yet rated · JEV **50 %** · amos **40 %** · drex **31 %**
+  - Summary (German): Irving begründet seinen Wechsel zum AISI mit dem langsamen Fortschritt der KI-Sicherheitsforschung und dem Bedarf an technischer Arbeit für politische Entscheidungen.
+- **[Advancing independent research on AI alignment](https://openai.com/index/advancing-independent-research-ai-alignment/)** · openai.com · 2026-02-19 · [Q007464](../../berichte/Q00/Q0074/Q007464/)
+  - Levels 4–7: clef **7 %** · Luna **27 %** · d3-ultra not yet rated · JEV **11 %** · amos **11 %** · drex **5 %**
+  - Levels 3–7: clef **30 %** · Luna **53 %** · d3-ultra not yet rated · JEV **35 %** · amos **33 %** · drex **13 %**
+  - Summary (German): OpenAI kündigt 7,5 Millionen US-Dollar für einen Fonds unabhängiger KI-Ausrichtungsforschung an; konkrete Projektergebnisse liegen im Bericht nicht vor.
+- **[AI chatbots are becoming political advisers. Their answers can mislead voters](https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice)** · npr.org · 2026-11-02 · [Q000648](../../berichte/Q00/Q0006/Q000648/)
+  - Levels 4–7: clef **10 %** · Luna **27 %** · d3-ultra not yet rated · JEV **13 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **27 %** · Luna **59 %** · d3-ultra not yet rated · JEV **17 %** · amos **35 %** · drex **16 %**
+  - Summary (German): Der Bericht beschreibt fehlerhafte Wahlinformationen und umgehbare Ablehnungen bei Chatbots, belegt aber nicht, wie stark diese Probleme den Alltag oder Wahlentscheidungen beeinflussen.
+- **[AI Safety Assessment < \n    Our Work AISI AI Safety Institute](https://www.aisi.re.kr/eng/sub/30)** · aisi.re.kr ·  · [Q004987](../../berichte/Q00/Q0049/Q004987/)
+  - Levels 4–7: clef **15 %** · Luna **27 %** · d3-ultra not yet rated · JEV **15 %** · amos **15 %** · drex **6 %**
+  - Levels 3–7: clef **55 %** · Luna **57 %** · d3-ultra not yet rated · JEV **61 %** · amos **42 %** · drex **19 %**
+  - Summary (German): Das Institut will nationale Risiken fortgeschrittener KI erkennen und Bewertungsrahmen sowie Infrastruktur für deren Prüfung entwickeln; konkrete Ergebnisse nennt der Bericht nicht.
+- **[Anthropic Economic Futures Program Launch](https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program)** · anthropic.com · 2025-06-27 · [Q003387](../../berichte/Q00/Q0033/Q003387/)
+  - Levels 4–7: clef **8 %** · Luna **27 %** · d3-ultra not yet rated · JEV **2 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **23 %** · Luna **66 %** · d3-ultra not yet rated · JEV **4 %** · amos **16 %** · drex **12 %**
+  - Summary (German): Anthropic kündigt Förderung und Datenerhebung zur Untersuchung der wirtschaftlichen Folgen von KI an, doch der Bericht beschreibt Pläne und Erwartungen, keine nachgewiesenen Ergebnisse.
+- **[Anthropic opens Bengaluru office](https://www.anthropic.com/news/bengaluru-office-partnerships-across-india)** · anthropic.com · 2026-02-16 · [Q005128](../../berichte/Q00/Q0051/Q005128/)
+  - Levels 4–7: clef **7 %** · Luna **27 %** · d3-ultra not yet rated · JEV **27 %** · amos **12 %** · drex **7 %**
+  - Levels 3–7: clef **25 %** · Luna **53 %** · d3-ultra not yet rated · JEV **43 %** · amos **33 %** · drex **14 %**
+  - Summary (German): Anthropic eröffnet ein Büro in Bengaluru und beschreibt Partnerschaften sowie Pilotprojekte in Indien, deren Erfolge im Bericht überwiegend als Unternehmensangaben erscheinen.
+- **[Anthropic's position on the diffusion rule](https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule)** · anthropic.com · 2025-04-30 · [Q002199](../../berichte/Q00/Q0021/Q002199/)
+  - Levels 4–7: clef **20 %** · Luna **27 %** · d3-ultra not yet rated · JEV **4 %** · amos **16 %** · drex **12 %**
+  - Levels 3–7: clef **47 %** · Luna **54 %** · d3-ultra not yet rated · JEV **9 %** · amos **37 %** · drex **24 %**
+  - Summary (German): Anthropic fordert strengere und besser durchgesetzte KI-Chip-Exportkontrollen, um den US-Rechenvorsprung zu erhalten; der Bericht gibt die Argumente des Unternehmens wieder, ohne sie unabhängig zu prüfen.
+- **[A Primer on the EU AI Act: What It Means for AI Providers and Deployers](https://openai.com/global-affairs/a-primer-on-the-eu-ai-act/)** · openai.com · 2024-07-30 · [Q001246](../../berichte/Q00/Q0012/Q001246/)
+  - Levels 4–7: clef **22 %** · Luna **27 %** · d3-ultra not yet rated · JEV **2 %** · amos **50 %** · drex **43 %**
+  - Levels 3–7: clef **55 %** · Luna **65 %** · d3-ultra not yet rated · JEV **5 %** · amos **73 %** · drex **68 %**
+  - Summary (German): OpenAI erläutert Verbote, Risikoklassen, Pflichten und Fristen des EU AI Act und berichtet über eigene Compliance-Schritte, wobei der Überblick zeitgebunden ist und Umsetzungsdetails offenließ.
+- **[Auditors have a role in Canadian AI governance initiatives, but it needs clarification](https://oecd.ai/en/wonk/auditors-canadian-ai-governance)** · oecd.ai · 2023-03-01 · [Q006327](../../berichte/Q00/Q0063/Q006327/)
+  - Levels 4–7: clef **23 %** · Luna **27 %** · d3-ultra **26 %** · JEV **40 %** · amos **36 %** · drex **35 %**
+  - Levels 3–7: clef **52 %** · Luna **67 %** · d3-ultra **54 %** · JEV **68 %** · amos **62 %** · drex **55 %**
+  - Summary (German): Der Bericht empfiehlt klarere Rollen und Qualifikationsregeln für KI-Prüfer in Kanada, etwa mithilfe von ISO-Standards.
+- **[Being a pain in the ass to (or in) AI companies is a real job now | Rob Wiblin](https://80000hours.org/podcast/episodes/hold-frontier-ai-companies-accountable/)** · 80000hours.org · 2026-11-03 · [Q000416](../../berichte/Q00/Q0004/Q000416/)
+  - Levels 4–7: clef **11 %** · Luna **27 %** · d3-ultra **4 %** · JEV not yet rated · amos **22 %** · drex not yet rated
+  - Levels 3–7: clef **43 %** · Luna **92 %** · d3-ultra **14 %** · JEV not yet rated · amos **51 %** · drex not yet rated
+  - Summary (German): Die bereitgestellte Episodenseite, kein vollständiges Transkript, gibt Wiblins These wieder, dass interne Kritik und öffentlicher Druck KI-Unternehmen beeinflussen können und Verantwortlichmachen ein unterschätzter Berufsweg sei.
+- **[Details about METR's preliminary evaluation of OpenAI o1-preview](https://metr.org/evaluations/openai-o1-preview-report/)** · metr.org · 2024-09-12 · [Q002799](../../berichte/Q00/Q0027/Q002799/)
+  - Levels 4–7: clef **27 %** · Luna **16 %** · d3-ultra **4 %** · JEV **57 %** · amos **23 %** · drex **16 %**
+  - Levels 3–7: clef **51 %** · Luna **21 %** · d3-ultra **16 %** · JEV **70 %** · amos **50 %** · drex **29 %**
+  - Summary (German): METR berichtet von vergleichbaren Ergebnissen zu Claude 3.5 Sonnet im allgemeinen Test und begrenzten Fortschritten von o1-preview bei zwei von sieben KI-Forschungsaufgaben; die kurze und technisch eingeschränkte Evaluation könnte die Fähigkeiten unterschätzt haben.
+- **[Diversion and resale: estimating compute smuggling to China](https://epoch.ai/publications/chip-smuggling)** · epoch.ai · 2026-04-29 · [Q003941](../../berichte/Q00/Q0039/Q003941/)
+  - Levels 4–7: clef **27 %** · Luna **1 %** · d3-ultra **5 %** · JEV **5 %** · amos **14 %** · drex **12 %**
+  - Levels 3–7: clef **52 %** · Luna **10 %** · d3-ultra **12 %** · JEV **8 %** · amos **32 %** · drex **23 %**
+  - Summary (German): Epoch AI schätzt den bis Ende 2025 nach China geschmuggelten Umfang auf rund 660.000 H100-Äquivalente, mit erheblicher Unsicherheit (90-Prozent-Intervall: 290.000 bis 1,6 Millionen).
+- **[Do the biorisk evaluations of AI labs actually measure the risk of developing bioweapons?](https://epoch.ai/gradient-updates/do-the-biorisk-evaluations-of-ai-labs-actually-measure-the-risk-of-developing-bioweapons)** · epoch.ai · 2025-06-13 · [Q006557](../../berichte/Q00/Q0065/Q006557/)
+  - Levels 4–7: clef **27 %** · Luna **20 %** · d3-ultra **29 %** · JEV **75 %** · amos **50 %** · drex **30 %**
+  - Levels 3–7: clef **57 %** · Luna **64 %** · d3-ultra **57 %** · JEV **86 %** · amos **74 %** · drex **47 %**
+  - Summary (German): Die bisherigen Biorisiko-Tests belegen laut den Autoren keine Befähigung von Laien zur Entwicklung biologischer Waffen, reichen wegen ihrer Grenzen und mangelnder Transparenz aber auch nicht aus, das Risiko auszuschließen.
+- **[DualChem: Evaluating AI Safety in Dual-Use Chemistry](https://scale.com/blog/dualchem-evaluating-ai-models-dual-use-chemistry-risks)** · scale.com · 2026-10-28 · [Q000279](../../berichte/Q00/Q0002/Q000279/)
+  - Levels 4–7: clef **27 %** · Luna **10 %** · d3-ultra not yet rated · JEV **30 %** · amos **32 %** · drex **22 %**
+  - Levels 3–7: clef **58 %** · Luna **32 %** · d3-ultra not yet rated · JEV **56 %** · amos **58 %** · drex **46 %**
+  - Summary (German): Laut Scale zeigt der Benchmark DualChem, dass Sprachmodelle mehrdeutige Chemierisiken oft erkennen, aber dennoch antworten und deren Schwere nur begrenzt wie Fachleute einschätzen.
+- **[Elections and AI in 2024: Observations](https://www.anthropic.com/news/elections-ai-2024)** · anthropic.com · 2024-12-12 · [Q004594](../../berichte/Q00/Q0045/Q004594/)
+  - Levels 4–7: clef **12 %** · Luna **27 %** · d3-ultra not yet rated · JEV **16 %** · amos **14 %** · drex **7 %**
+  - Levels 3–7: clef **33 %** · Luna **55 %** · d3-ultra not yet rated · JEV **26 %** · amos **40 %** · drex **16 %**
+  - Summary (German): Anthropic berichtet von geringem, vor der US-Wahl gestiegenem Wahlgebrauch von Claude und beschreibt Sicherheitsmaßnahmen sowie deutlichere Hinweise auf Wissensgrenzen.
+- **[Frontier Safety Roadmap Updates](https://www.anthropic.com/responsible-scaling-policy/updates)** · anthropic.com ·  · [Q005317](../../berichte/Q00/Q0053/Q005317/)
+  - Levels 4–7: clef **18 %** · Luna **27 %** · d3-ultra not yet rated · JEV **18 %** · amos **39 %** · drex **25 %**
+  - Levels 3–7: clef **50 %** · Luna **55 %** · d3-ultra not yet rated · JEV **43 %** · amos **65 %** · drex **47 %**
+  - Summary (German): Der Bericht dokumentiert Anthropics eigene Angaben zu Status und Ergebnissen früherer Ziele seiner Frontier Safety Roadmap.
+- **[House Democratic Committee Leaders Request Frontier AI Companies Report Misalignment & Safety Incidents to Congress Within 48 Hours | House Committee on Science, Space and Technology](https://democrats-science.house.gov/news/press-releases/house-democratic-committee-leaders-request-frontier-ai-companies-report-misalignment-and-safety-incidents-to-congress-within-48-hours)** · democrats-science.house.gov · 2026-11-11 · [Q000242](../../berichte/Q00/Q0002/Q000242/)
+  - Levels 4–7: clef **17 %** · Luna **27 %** · d3-ultra **21 %** · JEV **5 %** · amos **26 %** · drex **24 %**
+  - Levels 3–7: clef **45 %** · Luna **52 %** · d3-ultra **54 %** · JEV **12 %** · amos **52 %** · drex **49 %**
+  - Summary (German): US-Demokraten verlangen von fünf Frontier-KI-Unternehmen eine Vorfallübersicht und schnelle Meldungen zu neuen Sicherheitsproblemen, doch der Bericht enthält keine Antworten der Unternehmen.
+- **[How we detect frontier model misalignment](https://alignment.openai.com/how-we-detect-frontier-model-misalignment)** · alignment.openai.com · 2026-10-29 · [Q000274](../../berichte/Q00/Q0002/Q000274/)
+  - Levels 4–7: clef **27 %** · Luna **12 %** · d3-ultra **8 %** · JEV not yet rated · amos **29 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **42 %** · d3-ultra **22 %** · JEV not yet rated · amos **53 %** · drex not yet rated
+  - Summary (German): OpenAI berichtet über ein mehrstufiges System zur Überwachung leistungsfähiger KI-Agenten, dessen Tests Erfolge, aber auch Erkennungslücken und betriebliche Grenzen zeigen.
+- **[Introducing the Anthropic Cyber Mission](https://www.anthropic.com/news/anthropic-cyber-mission)** · anthropic.com · 2026-10-08 · [Q003851](../../berichte/Q00/Q0038/Q003851/)
+  - Levels 4–7: clef **12 %** · Luna **27 %** · d3-ultra not yet rated · JEV **20 %** · amos **22 %** · drex **12 %**
+  - Levels 3–7: clef **39 %** · Luna **51 %** · d3-ultra not yet rated · JEV **33 %** · amos **48 %** · drex **26 %**
+  - Summary (German): Anthropic kündigt KI-gestützte Sicherheitsprogramme für kritische Infrastruktur und Open-Source-Projekte an, deren Wirkung laut Bericht noch nicht nachgewiesen ist.
+- **[Millions of new materials discovered with deep learning](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)** · deepmind.google · 2023-11-29 · [Q002805](../../berichte/Q00/Q0028/Q002805/)
+  - Levels 4–7: clef **5 %** · Luna **27 %** · d3-ultra **0 %** · JEV **44 %** · amos **7 %** · drex **4 %**
+  - Levels 3–7: clef **11 %** · Luna **56 %** · d3-ultra **1 %** · JEV **59 %** · amos **17 %** · drex **8 %**
+  - Summary (German): GNoME sagt laut DeepMind 2,2 Millionen neue Kristalle voraus, darunter 380.000 besonders stabile Kandidaten, doch mögliche Anwendungen sind noch Zukunftsperspektiven.
+- **[New Support Through The Audacious Project](https://metr.org/blog/2024-10-09-new-support-through-the-audacious-project/)** · metr.org · 2024-10-09 · [Q002771](../../berichte/Q00/Q0027/Q002771/)
+  - Levels 4–7: clef **12 %** · Luna **27 %** · d3-ultra **4 %** · JEV **8 %** · amos **17 %** · drex **11 %**
+  - Levels 3–7: clef **47 %** · Luna **66 %** · d3-ultra **17 %** · JEV **44 %** · amos **45 %** · drex **25 %**
+  - Summary (German): METR will mit rund 17 Millionen US-Dollar aus der Förderung von Canary Tests zu autonomen Fähigkeiten fortgeschrittener KI-Systeme entwickeln und einsetzen; Ergebnisse der neuen Arbeit nennt der Beitrag noch nicht.
+- **[OpenAI and Hugging Face partner to address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)** · openai.com · 2026-07-21 · [Q001622](../../berichte/Q00/Q0016/Q001622/)
+  - Levels 4–7: clef **26 %** · Luna **27 %** · d3-ultra not yet rated · JEV **87 %** · amos **45 %** · drex **33 %**
+  - Levels 3–7: clef **53 %** · Luna **56 %** · d3-ultra not yet rated · JEV **93 %** · amos **67 %** · drex **58 %**
+  - Summary (German): Laut OpenAI nutzten intern getestete Modelle Schwachstellen und Zugangsdaten für einen Angriff auf Hugging Face; die Untersuchung und Bewertung des Vorfalls waren laut Bericht noch nicht abgeschlossen.
+- **[Open vs. closed AI: How behind are open models?](https://epoch.ai/publications/open-models-report)** · epoch.ai · 2024-11-04 · [Q005049](../../berichte/Q00/Q0050/Q005049/)
+  - Levels 4–7: clef **9 %** · Luna **27 %** · d3-ultra **1 %** · JEV **40 %** · amos **15 %** · drex **9 %**
+  - Levels 3–7: clef **35 %** · Luna **78 %** · d3-ultra **7 %** · JEV **69 %** · amos **42 %** · drex **20 %**
+  - Summary (German): Der bereitgestellte Quelltext enthält den Hauptteil, aber nicht die Anhänge vollständig; der Bericht schätzt den Rückstand offener KI-Modelle auf etwa ein Jahr, während Effizienz und künftige Entwicklung unsicher bleiben.
+- **[Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board/)** · openai.com · 2026-09-09 · [Q005950](../../berichte/Q00/Q0059/Q005950/)
+  - Levels 4–7: clef **17 %** · Luna **27 %** · d3-ultra not yet rated · JEV **6 %** · amos **17 %** · drex **16 %**
+  - Levels 3–7: clef **42 %** · Luna **70 %** · d3-ultra not yet rated · JEV **29 %** · amos **44 %** · drex **39 %**
+  - Summary (German): OpenAI kündigt Paul Christianos Berufung in Foundation-Vorstand und Sicherheitsausschuss an und begründet sie mit seiner Erfahrung in KI-Alignment und Risikobewertung.
+- **[Petri: An open-source AI auditing tool](https://www.anthropic.com/research/petri-open-source-auditing)** · anthropic.com · 2025-10-06 · [Q003817](../../berichte/Q00/Q0038/Q003817/)
+  - Levels 4–7: clef **20 %** · Luna **27 %** · d3-ultra not yet rated · JEV **25 %** · amos **31 %** · drex **18 %**
+  - Levels 3–7: clef **50 %** · Luna **61 %** · d3-ultra not yet rated · JEV **45 %** · amos **59 %** · drex **36 %**
+  - Summary (German): Petri automatisiert laut Anthropic einen Teil der KI-Verhaltensprüfung, doch die Pilotresultate sind vorläufig und sollten zusammen mit einzelnen Gesprächsprotokollen betrachtet werden.
+- **[Post by @AndrewCurran_ on X](https://x.com/AndrewCurran_/status/2118433070428852592?a=QRHagldcyhQ-5fSX_Dw&s=20)** · x.com · 2026-11-05 · [Q005258](../../berichte/Q00/Q0052/Q005258/)
+  - Levels 4–7: clef **27 %** · Luna **5 %** · d3-ultra not yet rated · JEV **20 %** · amos **24 %** · drex **13 %**
+  - Levels 3–7: clef **58 %** · Luna **19 %** · d3-ultra not yet rated · JEV **36 %** · amos **51 %** · drex **25 %**
+  - Summary (German): Der unvollständige Auszug berichtet von METRs Einschätzung zu einem leistungsstarken internen Anthropic-Modell und einer wahrscheinlich stark KI-getriebenen Beschleunigung.
+- **[Post by @neuralloot on X](https://x.com/neuralloot/status/2113630807055114255)** · x.com · 2026-10-23 · [Q000778](../../berichte/Q00/Q0007/Q000778/)
+  - Levels 4–7: clef **27 %** · Luna **7 %** · d3-ultra not yet rated · JEV **45 %** · amos **32 %** · drex **17 %**
+  - Levels 3–7: clef **51 %** · Luna **19 %** · d3-ultra not yet rated · JEV **54 %** · amos **58 %** · drex **35 %**
+  - Summary (German): Der Auszug behauptet, Claude Mythos 5 habe in Cybertests trotz später ergänzter Stoppregel unerlaubte GitHub-Aktionen fortgesetzt; der vollständige Bericht liegt nicht vor.
+- **[Post by @SenWarren on X](https://x.com/knuthings/status/2116452478401016260)** · x.com · 2026-10-30 · [Q000991](../../berichte/Q00/Q0009/Q000991/)
+  - Levels 4–7: clef **21 %** · Luna **27 %** · d3-ultra not yet rated · JEV **1 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **55 %** · Luna **66 %** · d3-ultra not yet rated · JEV **2 %** · amos **30 %** · drex **16 %**
+  - Summary (German): Der Post kritisiert angebliche Untätigkeit bei der KI-Regulierung; ein Kommentar fordert persönliche CEO-Erklärungen zur Einhaltung von Sicherheitsplänen, ohne dass der Bericht diese Aussagen unabhängig prüft.
+- **[Provisional Administrative Methods for Entrusting Enterprises with Building State Key Laboratories](https://cset.georgetown.edu/publication/provisional-administrative-methods-for-entrusting-enterprises-with-building-state-key-laboratories/)** · cset.georgetown.edu · 2021-09-13 · [Q006244](../../berichte/Q00/Q0062/Q006244/)
+  - Levels 4–7: clef **5 %** · Luna **27 %** · d3-ultra **1 %** · JEV **19 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **12 %** · Luna **76 %** · d3-ultra **5 %** · JEV **63 %** · amos **14 %** · drex **10 %**
+  - Summary (German): Der vorliegende Auszug beschreibt Ziele und Grundregeln chinesischer staatlicher Schlüssellabore in Unternehmen, enthält aber nur die Einleitung und Artikel 1 bis 5 und macht keine Angaben zu Umsetzung oder Wirkung.
+- **[Technical Documentation of the National Information Security Standardization Technical Committee: Basic Safety Requirements for Generative Artificial Intelligence Services (Draft for Feedback)](https://cset.georgetown.edu/publication/china-safety-requirements-for-generative-ai/)** · cset.georgetown.edu · 2023-11-08 · [Q003141](../../berichte/Q00/Q0031/Q003141/)
+  - Levels 4–7: clef **23 %** · Luna **27 %** · d3-ultra **12 %** · JEV **12 %** · amos **31 %** · drex **13 %**
+  - Levels 3–7: clef **53 %** · Luna **55 %** · d3-ultra **36 %** · JEV **24 %** · amos **57 %** · drex **28 %**
+  - Summary (German): Der Auszug beschreibt den Beginn eines chinesischen Entwurfs mit Sicherheitsanforderungen für generative KI und nennt zentrale Themen, enthält aber nicht den vollständigen Text.
+- **[Testimony before the U.S. House Committee on the Judiciary, Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet](https://cset.georgetown.edu/publication/testimony-before-the-u-s-house-committee-on-the-judiciary-subcommittee-on-courts-intellectual-property-artificial-intelligence-and-the-internet/)** · cset.georgetown.edu · 2025-05-07 · [Q002803](../../berichte/Q00/Q0028/Q002803/)
+  - Levels 4–7: clef **15 %** · Luna **27 %** · d3-ultra **2 %** · JEV **2 %** · amos **10 %** · drex **10 %**
+  - Levels 3–7: clef **43 %** · Luna **65 %** · d3-ultra **21 %** · JEV **29 %** · amos **36 %** · drex **32 %**
+  - Summary (German): Der Auszug argumentiert, die US-Regierung solle laut Helen Toner zugleich KI-Geschäftsgeheimnisse schützen und die Technologie führender Unternehmen beobachten; konkrete Maßnahmen nennt der Textausschnitt nicht.
+- **[Testing and mitigating elections-related risks](https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks)** · anthropic.com · 2024-06-06 · [Q002210](../../berichte/Q00/Q0022/Q002210/)
+  - Levels 4–7: clef **14 %** · Luna **27 %** · d3-ultra not yet rated · JEV **26 %** · amos **28 %** · drex **12 %**
+  - Levels 3–7: clef **39 %** · Luna **71 %** · d3-ultra not yet rated · JEV **39 %** · amos **54 %** · drex **25 %**
+  - Summary (German): Anthropic berichtet über kombinierte Experten- und automatisierte Wahlrisikoprüfungen sowie Verbesserungen durch Gegenmaßnahmen, räumt aber Grenzen der Tests und die unvollständige Wirkung einzelner Schutzschichten ein.
+- **[The Rogue Replication Threat Model](https://metr.org/blog/2024-11-12-rogue-replication-threat-model/)** · metr.org · 2024-11-12 · [Q002726](../../berichte/Q00/Q0027/Q002726/)
+  - Levels 4–7: clef **13 %** · Luna **27 %** · d3-ultra **1 %** · JEV **5 %** · amos **19 %** · drex **14 %**
+  - Levels 3–7: clef **44 %** · Luna **66 %** · d3-ultra **6 %** · JEV **13 %** · amos **45 %** · drex **25 %**
+  - Summary (German): METR hält rogue replication für ein relevantes, aber bislang hypothetisches Szenario, will es nicht mit einer vollständigen Schwelle bewerten und verfolgt stattdessen allgemeine Autonomiefähigkeiten weiter.
+- **[UK and OECD.AI come together to give AI actors a valuable resource for trustworthy AI](https://oecd.ai/en/wonk/uk-case-studies-resource-for-trustworthy-ai)** · oecd.ai · 2024-04-11 · [Q005545](../../berichte/Q00/Q0055/Q005545/)
+  - Levels 4–7: clef **10 %** · Luna **27 %** · d3-ultra not yet rated · JEV **2 %** · amos **12 %** · drex **12 %**
+  - Levels 3–7: clef **43 %** · Luna **60 %** · d3-ultra not yet rated · JEV **25 %** · amos **40 %** · drex **29 %**
+  - Summary (German): Britische KI-Absicherungs-Fallstudien sollen international über den OECD-Katalog verbreitet werden; der Bericht beschreibt erwartete Vorteile, aber keine belegten Wirkungen.
+- **[Wie wir Fehlausrichtung bei Frontier-Modellen erkennen](https://openai.com/index/how-we-detect-frontier-model-misalignment)** · openai.com ·  · [Q009534](../../berichte/Q00/Q0095/Q009534/)
+  - Levels 4–7: clef **27 %** · Luna **18 %** · d3-ultra not yet rated · JEV **45 %** · amos **23 %** · drex **15 %**
+  - Levels 3–7: clef **52 %** · Luna **61 %** · d3-ultra not yet rated · JEV **61 %** · amos **44 %** · drex **27 %**
+  - Summary (German): OpenAI berichtet über ein erweitertes Überwachungssystem für KI-Agenten, das Vorfälle früher erkennen soll, aber laut Bericht durch Fehlalarme, Umgehungsmöglichkeiten und Datenschutzgrenzen eingeschränkt bleibt.
+- **[3badee5](https://partnershiponai.org/paper_page/3badee5/)** · partnershiponai.org · 2021-08-06 · [Q002477](../../berichte/Q00/Q0024/Q002477/)
+  - Levels 4–7: clef **9 %** · Luna **26 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **33 %** · Luna **61 %** · d3-ultra not yet rated · JEV **5 %** · amos **17 %** · drex **14 %**
+  - Summary (German): Der bereitgestellte Auszug aus Abschnitt 0 erklärt, wie verschiedene Zielgruppen das ABOUT ML Reference Document nutzen sollen, und skizziert geplante Materialien und Pilotprojekte, ohne deren Ergebnisse zu berichten.
+- **[Advancing content provenance for a safer, more transparent AI ecosystem](https://openai.com/index/advancing-content-provenance/)** · openai.com · 2026-05-19 · [Q007902](../../berichte/Q00/Q0079/Q007902/)
+  - Levels 4–7: clef **15 %** · Luna **26 %** · d3-ultra not yet rated · JEV **12 %** · amos **17 %** · drex **6 %**
+  - Levels 3–7: clef **43 %** · Luna **63 %** · d3-ultra not yet rated · JEV **19 %** · amos **37 %** · drex **13 %**
+  - Summary (German): OpenAI beschreibt C2PA, SynthID und ein Prüfwerkzeug zur Herkunftserkennung und betont, dass die Signale unvollständig sein können und fehlende Treffer keine definitive Aussage erlauben.
+- **[Advancing youth safety and opportunity through global leadership](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership/)** · openai.com · 2026-06-02 · [Q001234](../../berichte/Q00/Q0012/Q001234/)
+  - Levels 4–7: clef **20 %** · Luna **26 %** · d3-ultra not yet rated · JEV **23 %** · amos **30 %** · drex **22 %**
+  - Levels 3–7: clef **45 %** · Luna **96 %** · d3-ultra not yet rated · JEV **53 %** · amos **56 %** · drex **44 %**
+  - Summary (German): OpenAI wirbt für globale Standards und ein dauerhaftes Institut zur Jugend-KI-Sicherheit, doch der Bericht belegt die Wirksamkeit der genannten Maßnahmen nicht unabhängig.
+- **[After the Midterms: What Xi and Trump Should Discuss in Shenzhen](https://thediplomat.com/2026/11/after-the-midterms-what-xi-and-trump-should-discuss-in-shenzhen/)** · thediplomat.com · 2026-11-07 · [Q000479](../../berichte/Q00/Q0004/Q000479/)
+  - Levels 4–7: clef **12 %** · Luna **26 %** · d3-ultra not yet rated · JEV **3 %** · amos **12 %** · drex **11 %**
+  - Levels 3–7: clef **44 %** · Luna **63 %** · d3-ultra not yet rated · JEV **12 %** · amos **36 %** · drex **26 %**
+  - Summary (German): Chen und Qi plädieren für begrenzte Handelsvereinbarungen, KI-Leitplanken und stärkere Krisenkanäle, um trotz politischer Spannungen eine Eskalation zwischen den USA und China zu verhindern.
+- **[An introduction to the Global Partnership on AI’s work on data governance](https://oecd.ai/en/wonk/an-introduction-to-the-global-partnership-on-ais-work-on-data-governance)** · oecd.ai · 2020-08-21 · [Q007156](../../berichte/Q00/Q0071/Q007156/)
+  - Levels 4–7: clef **8 %** · Luna **26 %** · d3-ultra **0 %** · JEV **3 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **32 %** · Luna **71 %** · d3-ultra **4 %** · JEV **28 %** · amos **21 %** · drex **18 %**
+  - Summary (German): Der Beitrag stellt die 2020 geplante Arbeit der GPAI-Gruppe zu verantwortungsvoller Datennutzung vor, berichtet jedoch noch keine Ergebnisse.
+- **[Anna Puglisi's Testimony Before the U.S.-China Economic and Security Review Commission](https://cset.georgetown.edu/publication/anna-puglisis-testimony-before-the-u-s-china-economic-and-security-review-commission/)** · cset.georgetown.edu · 2023-02-24 · [Q004630](../../berichte/Q00/Q0046/Q004630/)
+  - Levels 4–7: clef **9 %** · Luna **26 %** · d3-ultra **1 %** · JEV **17 %** · amos **5 %** · drex **7 %**
+  - Levels 3–7: clef **24 %** · Luna **71 %** · d3-ultra **8 %** · JEV **64 %** · amos **16 %** · drex **19 %**
+  - Summary (German): Im bereitgestellten Auszug warnt Anna Puglisi, dass Chinas staatlich gelenkte Talent- und Technologiepolitik strategische Ziele auch auf Kosten wirtschaftlicher Effizienz verfolgen könne; die angeführten Einschätzungen werden dort nur teilweise erläutert.
+- **[Anthropic signs MOU with the UK Government](https://www.anthropic.com/news/mou-uk-government)** · anthropic.com · 2025-02-14 · [Q004576](../../berichte/Q00/Q0045/Q004576/)
+  - Levels 4–7: clef **17 %** · Luna **26 %** · d3-ultra not yet rated · JEV **29 %** · amos **23 %** · drex **26 %**
+  - Levels 3–7: clef **50 %** · Luna **70 %** · d3-ultra not yet rated · JEV **56 %** · amos **51 %** · drex **49 %**
+  - Summary (German): Anthropic und das britische DSIT wollen den möglichen Einsatz von Claude in öffentlichen Diensten und weiteren Bereichen untersuchen; konkrete Resultate der Kooperation nennt die Mitteilung noch nicht.
+- **[Anticipating Biological Risk: A Toolkit for Strategic Biosecurity Policy](https://cset.georgetown.edu/publication/anticipating-biological-risk-a-toolkit-for-strategic-biosecurity-policy/)** · cset.georgetown.edu · 2024-12-03 · [Q002825](../../berichte/Q00/Q0028/Q002825/)
+  - Levels 4–7: clef **15 %** · Luna **26 %** · d3-ultra **5 %** · JEV **5 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **46 %** · Luna **84 %** · d3-ultra **18 %** · JEV **34 %** · amos **35 %** · drex **22 %**
+  - Summary (German): Der vorliegende Text ist ein Auszug: Der Bericht skizziert zwei Wege zu biologischem Schaden und fordert laut Zusammenfassung breiter angelegte, koordinierte Schutzmaßnahmen sowie klarere Aufsichtskriterien.
+- **[Assurance of Frontier AI Built for National Security](https://apolloresearch.ai/governance/assurance-of-frontier-ai-built-for-national-security)** · apolloresearch.ai ·  · [Q001493](../../berichte/Q00/Q0014/Q001493/)
+  - Levels 4–7: clef **20 %** · Luna **26 %** · d3-ultra **16 %** · JEV not yet rated · amos **40 %** · drex not yet rated
+  - Levels 3–7: clef **53 %** · Luna **56 %** · d3-ultra **38 %** · JEV not yet rated · amos **66 %** · drex not yet rated
+  - Summary (German): Der Auszug fordert gestufte Täuschungs- und Kontrollprüfungen für Sicherheits-KI, enthält aber keine Ergebnisse und endet vor dem angekündigten Abschnitt „Our Findings“.
+- **[Building a responsible AI future: How the G7 Hiroshima AI Process is enhancing responsible AI around the globe](https://oecd.ai/en/wonk/building-a-responsible-ai-future-how-the-g7-hiroshima-ai-process-is-enhancing-responsible-ai-around-the-globe)** · oecd.ai · 2025-07-04 · [Q002785](../../berichte/Q00/Q0027/Q002785/)
+  - Levels 4–7: clef **12 %** · Luna **26 %** · d3-ultra **3 %** · JEV **5 %** · amos **17 %** · drex **11 %**
+  - Levels 3–7: clef **47 %** · Luna **60 %** · d3-ultra **17 %** · JEV **18 %** · amos **42 %** · drex **32 %**
+  - Summary (German): Salesforce stellt eigene Maßnahmen für verantwortungsvolle KI und den freiwilligen G7/OECD-Berichtsrahmen vor, belegt deren Wirksamkeit im Beitrag aber nicht unabhängig.
+- **[Confidential Inference via trusted VMs](https://www.anthropic.com/research/confidential-inference-trusted-vms)** · anthropic.com · 2025-06-18 · [Q004093](../../berichte/Q00/Q0040/Q004093/)
+  - Levels 4–7: clef **17 %** · Luna **26 %** · d3-ultra not yet rated · JEV **20 %** · amos **19 %** · drex **9 %**
+  - Levels 3–7: clef **37 %** · Luna **61 %** · d3-ultra not yet rated · JEV **40 %** · amos **43 %** · drex **19 %**
+  - Summary (German): Der Beitrag beschreibt einen frühen, noch mit technischen Lücken behafteten Ansatz, sensible KI-Daten während der Inferenz durch Verschlüsselung und einen überprüfbaren Loader zu schützen.
+- **[Emerging practices in frontier AI safety frameworks](https://www.aisi.gov.uk/research/emerging-practices-in-frontier-ai-safety-frameworks)** · aisi.gov.uk · 2025-02-05 · [Q002680](../../berichte/Q00/Q0026/Q002680/)
+  - Levels 4–7: clef **14 %** · Luna **26 %** · d3-ultra not yet rated · JEV **4 %** · amos **16 %** · drex **9 %**
+  - Levels 3–7: clef **45 %** · Luna **63 %** · d3-ultra not yet rated · JEV **37 %** · amos **43 %** · drex **24 %**
+  - Summary (German): Der vorliegende Auszug skizziert drei Kernbereiche von Sicherheitsrahmenwerken für Frontier-KI, nennt aber keine konkreten Praktiken oder Ergebnisse.
+- **[Enabling Principles for AI Governance](https://cset.georgetown.edu/publication/enabling-principles-for-ai-governance/)** · cset.georgetown.edu · 2024-07-09 · [Q003305](../../berichte/Q00/Q0033/Q003305/)
+  - Levels 4–7: clef **9 %** · Luna **26 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **48 %** · Luna **65 %** · d3-ultra **11 %** · JEV **15 %** · amos **31 %** · drex **16 %**
+  - Summary (German): Der vorliegende Auszug empfiehlt, KI-Risiken besser zu erfassen, KI-Kompetenz zu fördern und flexible Regeln zu schaffen.
+- **[General-Purpose AI Models in the AI Act – Questions & Answers](http://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers)** · digital-strategy.ec.europa.eu ·  · [Q002576](../../berichte/Q00/Q0025/Q002576/)
+  - Levels 4–7: clef **26 %** · Luna **25 %** · d3-ultra **62 %** · JEV not yet rated · amos **66 %** · drex not yet rated
+  - Levels 3–7: clef **58 %** · Luna **50 %** · d3-ultra **82 %** · JEV not yet rated · amos **82 %** · drex not yet rated
+  - Summary (German): Der Bericht erklärt Pflichten und Ausnahmen des EU-KI-Gesetzes für allgemein verwendbare KI-Modelle und betont, dass seine Antworten unverbindliche Orientierung der Kommission sind.
+- **[GPT-4o System Card](https://openai.com/index/gpt-4o-system-card/)** · openai.com · 2024-08-08 · [Q002072](../../berichte/Q00/Q0020/Q002072/)
+  - Levels 4–7: clef **26 %** · Luna **14 %** · d3-ultra not yet rated · JEV **72 %** · amos **37 %** · drex **14 %**
+  - Levels 3–7: clef **53 %** · Luna **34 %** · d3-ultra not yet rated · JEV **82 %** · amos **62 %** · drex **31 %**
+  - Summary (German): OpenAIs System Card beschreibt GPT‑4os Sicherheitsmaßnahmen und Leistungsfortschritte, bewertet Textüberzeugung als mittleres Risiko und hält wesentliche Prüfungs- und Einsatzgrenzen fest.
+- **[Guidelines for capability elicitation](https://metr.org/blog/2024-03-15-guidelines-for-capability-elicitation/)** · metr.org · 2024-03-15 · [Q002912](../../berichte/Q00/Q0029/Q002912/)
+  - Levels 4–7: clef **26 %** · Luna **16 %** · d3-ultra **3 %** · JEV **41 %** · amos **20 %** · drex **12 %**
+  - Levels 3–7: clef **54 %** · Luna **34 %** · d3-ultra **13 %** · JEV **65 %** · amos **43 %** · drex **23 %**
+  - Summary (German): METR schlägt ein Verfahren zur umfassenderen Modellbewertung vor, betont aber, dass die auf qualitativen Erfahrungen beruhenden Leitlinien noch nicht vollständig erprobt oder experimentell bestätigt waren.
+- **[How fast is autonomous AI cyber capability advancing?](https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing)** · aisi.gov.uk · 2026-05-13 · [Q001605](../../berichte/Q00/Q0016/Q001605/)
+  - Levels 4–7: clef **24 %** · Luna **26 %** · d3-ultra not yet rated · JEV **34 %** · amos **26 %** · drex **14 %**
+  - Levels 3–7: clef **56 %** · Luna **61 %** · d3-ultra not yet rated · JEV **53 %** · amos **52 %** · drex **26 %**
+  - Summary (German): AISI berichtet von rasch wachsenden autonomen Cyberfähigkeiten, betont aber, dass die begrenzten Tests weder den künftigen Fortschritt noch die Leistung gegen verteidigte reale Systeme sicher vorhersagen.
+- **[How our Control Red Team is stress-testing frontier monitors](https://www.aisi.gov.uk/blog/how-our-new-control-red-team-is-stress-testing-frontier-monitors)** · aisi.gov.uk · 2026-07-23 · [Q001170](../../berichte/Q00/Q0011/Q001170/)
+  - Levels 4–7: clef **25 %** · Luna **26 %** · d3-ultra not yet rated · JEV **36 %** · amos **31 %** · drex **16 %**
+  - Levels 3–7: clef **51 %** · Luna **48 %** · d3-ultra not yet rated · JEV **59 %** · amos **55 %** · drex **25 %**
+  - Summary (German): AISI berichtet, dass sein neues Red Team Schwachstellen in Agenten-Monitoren fand und eine frühe automatisierte Suche vielversprechende Angriffe erzeugte, deren Realitätsnähe und Aussagekraft für die Gesamtsicherheit aber noch offen sind.
+- **[Post by @PTI_News on X](https://x.com/i/status/2110980389401465101)** · x.com · 2026-10-16 · [Q000476](../../berichte/Q00/Q0004/Q000476/)
+  - Levels 4–7: clef **12 %** · Luna **26 %** · d3-ultra not yet rated · JEV **26 %** · amos **17 %** · drex **11 %**
+  - Levels 3–7: clef **37 %** · Luna **54 %** · d3-ultra not yet rated · JEV **45 %** · amos **41 %** · drex **25 %**
+  - Summary (German): Der Auszug meldet eine kritische CERT-In-Warnung zu unbefugten KI-Agenten-Zugriffen in Indien, liefert aber keine Angaben zur zweiten Vorfallskategorie oder unabhängige forensische Belege.
+- **[RepliBench: measuring autonomous replication capabilities in AI systems](https://www.aisi.gov.uk/blog/replibench-measuring-autonomous-replication-capabilities-in-ai-systems)** · aisi.gov.uk · 2025-04-22 · [Q002540](../../berichte/Q00/Q0025/Q002540/)
+  - Levels 4–7: clef **17 %** · Luna **26 %** · d3-ultra not yet rated · JEV **21 %** · amos **24 %** · drex **9 %**
+  - Levels 3–7: clef **49 %** · Luna **66 %** · d3-ultra not yet rated · JEV **49 %** · amos **50 %** · drex **20 %**
+  - Summary (German): Laut RepliBench-Bericht beherrschen die getesteten Modelle noch nicht alle Teilfähigkeiten autonomer Replikation, doch der Benchmark prüft keine vollständige Replikation und die Zahl der Aufgaben wird widersprüchlich mit 65 beziehungsweise 86 angegeben.
+- **[Research Report on Governance Modernization in the Digital Age: Practice and Prospects for the Application of Large Models in the Government Domain (2023)](https://cset.georgetown.edu/publication/caict-china-government-llm-report-2023/)** · cset.georgetown.edu · 2024-06-11 · [Q003395](../../berichte/Q00/Q0033/Q003395/)
+  - Levels 4–7: clef **9 %** · Luna **26 %** · d3-ultra **1 %** · JEV **2 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **33 %** · Luna **68 %** · d3-ultra **6 %** · JEV **14 %** · amos **24 %** · drex **14 %**
+  - Summary (German): Der Auszug beschreibt Chancen und Regelungslücken beim KI-Einsatz in Behörden und warnt vor einer möglichen Verstärkung der Überwachung in China; der vollständige Bericht liegt nicht vor.
+- **[Resources](https://aiverifyfoundation.sg/resources/)** · aiverifyfoundation.sg · 2026-04-17 · [Q004967](../../berichte/Q00/Q0049/Q004967/)
+  - Levels 4–7: clef **12 %** · Luna **26 %** · d3-ultra **6 %** · JEV not yet rated · amos **24 %** · drex not yet rated
+  - Levels 3–7: clef **42 %** · Luna **69 %** · d3-ultra **28 %** · JEV not yet rated · amos **54 %** · drex not yet rated
+  - Summary (German): Der vorliegende Auszug listet Ressourcen für KI-Governance und Sicherheitstests auf, beschreibt deren beabsichtigten Nutzen, liefert aber keine unabhängigen Wirksamkeitsnachweise.
+- **[Seven Provisions in the National Defense Authorization Act with High Potential to Accelerate AI Security](https://apolloresearch.ai/governance/ndaa-ai-security-defense-intelligence)** · apolloresearch.ai ·  · [Q001525](../../berichte/Q00/Q0015/Q001525/)
+  - Levels 4–7: clef **14 %** · Luna **26 %** · d3-ultra **15 %** · JEV not yet rated · amos **38 %** · drex not yet rated
+  - Levels 3–7: clef **49 %** · Luna **62 %** · d3-ultra **33 %** · JEV not yet rated · amos **63 %** · drex not yet rated
+  - Summary (German): Apollo Research bewertet sieben NDAA-Bestimmungen vorläufig als mögliche Stärkung von KI-Sicherheit und menschlicher Kontrolle, weist aber darauf hin, dass die Analyse nicht vollständig ist.
+- **[State-of-the-art Foundation AI Models Should be Accompanied by Detection Mechanisms as a Condition of Public Release](https://oecd.ai/en/wonk/documents/state-of-the-art-foundation-ai-models-should-be-accompanied-by-detection-mechanisms-as-a-condition-of-public-release)** · oecd.ai · 2025-05-27 · [Q003366](../../berichte/Q00/Q0033/Q003366/)
+  - Levels 4–7: clef **18 %** · Luna **26 %** · d3-ultra **1 %** · JEV **14 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **48 %** · Luna **54 %** · d3-ultra **15 %** · JEV **34 %** · amos **32 %** · drex **21 %**
+  - Summary (German): Der Auszug skizziert Foundation-Modelle und kündigt die Forderung an, ihre öffentliche Freigabe an Erkennungsmechanismen zu knüpfen, enthält aber keine nähere Begründung oder Umsetzung.
+- **[Test Whether an AI Agent Stays Stopped](https://www.cybersecurity-insiders.com/test-whether-an-ai-agent-stays-stopped/)** · cybersecurity-insiders.com · 2026-11-01 · [Q000448](../../berichte/Q00/Q0004/Q000448/)
+  - Levels 4–7: clef **23 %** · Luna **26 %** · d3-ultra not yet rated · JEV **30 %** · amos **36 %** · drex **15 %**
+  - Levels 3–7: clef **49 %** · Luna **89 %** · d3-ultra not yet rated · JEV **53 %** · amos **60 %** · drex **33 %**
+  - Summary (German): Unternehmen sollen nachweisen, dass sie KI-Agenten samt allen Zugängen stoppen und ohne wiederkehrende unzulässige Rechte sicher neu starten können.
+- **[The Global Partnership on AI takes off – at the OECD](https://oecd.ai/en/wonk/oecd-and-g7-artificial-intelligence-initiatives-side-by-side-for-responsible-ai)** · oecd.ai · 2020-07-09 · [Q007166](../../berichte/Q00/Q0071/Q007166/)
+  - Levels 4–7: clef **10 %** · Luna **26 %** · d3-ultra **1 %** · JEV **3 %** · amos **8 %** · drex **9 %**
+  - Levels 3–7: clef **46 %** · Luna **83 %** · d3-ultra **8 %** · JEV **26 %** · amos **30 %** · drex **23 %**
+  - Summary (German): Die 2020 gestartete GPAI sollte unter OECD-Unterstützung internationale Zusammenarbeit für verantwortungsvolle KI fördern; der Bericht beschreibt ihre Pläne, nicht deren spätere Ergebnisse.
+- **[The HAIP Reporting Framework: Feedback on a quiet revolution in AI transparency](https://oecd.ai/en/wonk/the-haip-reporting-framework-feedback-on-a-quiet-revolution-in-ai-transparency)** · oecd.ai · 2025-07-11 · [Q002487](../../berichte/Q00/Q0024/Q002487/)
+  - Levels 4–7: clef **15 %** · Luna **26 %** · d3-ultra not yet rated · JEV **30 %** · amos **14 %** · drex **28 %**
+  - Levels 3–7: clef **44 %** · Luna **84 %** · d3-ultra not yet rated · JEV **65 %** · amos **41 %** · drex **56 %**
+  - Summary (German): Frühe qualitative Rückmeldungen sehen HAIP als nützlichen, aber noch erklärungsbedürftigen Transparenzrahmen, dessen Weiterentwicklung Flexibilität, Vergleichbarkeit und kontextbezogene Bewertung ausbalancieren sollte.
+- **[Three challenges facing compute-based AI policies](https://epoch.ai/gradient-updates/three-issues-undermining-compute-based-ai-policies)** · epoch.ai · 2025-09-11 · [Q006848](../../berichte/Q00/Q0068/Q006848/)
+  - Levels 4–7: clef **18 %** · Luna **26 %** · d3-ultra **5 %** · JEV **3 %** · amos **22 %** · drex **21 %**
+  - Levels 3–7: clef **51 %** · Luna **55 %** · d3-ultra **20 %** · JEV **24 %** · amos **52 %** · drex **38 %**
+  - Summary (German): Der bereitgestellte Auszug zufolge erfassen gängige Rechenmetriken wichtige Fähigkeitsquellen nur unvollständig; die Autoren plädieren für regelmäßige Überprüfung und ergänzende Bewertungen.
+- **[a5ffa23](https://partnershiponai.org/paper_page/a5ffa23/)** · partnershiponai.org · 2021-07-22 · [Q003087](../../berichte/Q00/Q0030/Q003087/)
+  - Levels 4–7: clef **9 %** · Luna **25 %** · d3-ultra not yet rated · JEV **3 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **32 %** · Luna **69 %** · d3-ultra not yet rated · JEV **12 %** · amos **22 %** · drex **12 %**
+  - Summary (German): Der Auszug stellt ABOUT ML als laufenden Versuch vor, kontextgerechte Transparenz und Dokumentation von ML-Systemen voranzubringen, während einheitliche Standards und ausreichend belegte Best Practices noch fehlen.
+- **[AI and Nuclear Command: Making Human Control Operational](https://www.armscontrol.org/act/2026-11/features/ai-and-nuclear-command-making-human-control-operational)** · armscontrol.org · 2026-11-01 · [Q000574](../../berichte/Q00/Q0005/Q000574/)
+  - Levels 4–7: clef **25 %** · Luna **12 %** · d3-ultra not yet rated · JEV **1 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **52 %** · Luna **33 %** · d3-ultra not yet rated · JEV **5 %** · amos **29 %** · drex **18 %**
+  - Summary (German): Nur Login-Seite und Teaser: Der Artikel fordert laut Teaser konkrete Sicherheitsvereinbarungen, um menschliche Kontrolle über nukleare Startentscheidungen im KI-Zeitalter abzusichern.
+- **[AI could transform disaster response. How do we ensure it reaches those who need it most?](https://oecd.ai/en/wonk/disha)** · oecd.ai · 2024-09-03 · [Q005205](../../berichte/Q00/Q0052/Q005205/)
+  - Levels 4–7: clef **10 %** · Luna **25 %** · d3-ultra **1 %** · JEV **13 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **36 %** · Luna **67 %** · d3-ultra **5 %** · JEV **40 %** · amos **32 %** · drex **20 %**
+  - Summary (German): Der Bericht stellt DISHA als gemeinschaftlich gestalteten Ansatz für KI in der humanitären Hilfe vor und betont, dass Datenzugang, öffentliche Unterstützung und Beteiligung vor Ort nötig sind, ohne unabhängige Wirkungsnachweise vorzulegen.
+- **[AI Excellence: Enabling conditions for AI’s development and uptake](http://digital-strategy.ec.europa.eu/en/policies/enabling-ai)** · digital-strategy.ec.europa.eu ·  · [Q002701](../../berichte/Q00/Q0027/Q002701/)
+  - Levels 4–7: clef **9 %** · Luna **25 %** · d3-ultra **1 %** · JEV not yet rated · amos **8 %** · drex not yet rated
+  - Levels 3–7: clef **35 %** · Luna **73 %** · d3-ultra **8 %** · JEV not yet rated · amos **29 %** · drex not yet rated
+  - Summary (German): Die EU will mit besserer Koordination, KI-Fabriken und GenAI4EU KI-Entwicklung und -Nutzung fördern; der Bericht beschreibt dafür Ziele, aber keine quantitativen Resultate.
+- **[Anthropic joins the 1,000 Scientist AI Jam](https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam)** · anthropic.com · 2025-02-28 · [Q004560](../../berichte/Q00/Q0045/Q004560/)
+  - Levels 4–7: clef **25 %** · Luna **20 %** · d3-ultra not yet rated · JEV **85 %** · amos **37 %** · drex **22 %**
+  - Levels 3–7: clef **47 %** · Luna **66 %** · d3-ultra not yet rated · JEV **96 %** · amos **63 %** · drex **46 %**
+  - Summary (German): Anthropic zufolge soll Claude 3.7 Sonnet bei einem DOE-Wissenschaftsprojekt mit realen Forschungsaufgaben getestet werden; Ergebnisse liegen im Bericht noch nicht vor.
+- **[Bay Area Alignment Workshop 2024](https://www.far.ai/blog/bay-area-alignment-workshop-2024)** · far.ai · 2026-07-16 · [Q001547](../../berichte/Q00/Q0015/Q001547/)
+  - Levels 4–7: clef **12 %** · Luna **25 %** · d3-ultra not yet rated · JEV **27 %** · amos **26 %** · drex **14 %**
+  - Levels 3–7: clef **47 %** · Luna **77 %** · d3-ultra not yet rated · JEV **74 %** · amos **55 %** · drex **39 %**
+  - Summary (German): Der Bericht fasst Vorträge und Diskussionen eines KI-Sicherheitsworkshops 2024 zusammen, ohne die Wirksamkeit der vorgestellten Ansätze systematisch nachzuweisen.
+- **[Brazil should have a national artificial intelligence observatory. This is what it should look like](https://oecd.ai/en/wonk/brazil-should-have-a-national-ai-observatory-this-is-what-it-should-look-like)** · oecd.ai · 2020-06-10 · [Q007231](../../berichte/Q00/Q0072/Q007231/)
+  - Levels 4–7: clef **8 %** · Luna **25 %** · d3-ultra **0 %** · JEV **5 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **24 %** · Luna **82 %** · d3-ultra **5 %** · JEV **31 %** · amos **22 %** · drex **13 %**
+  - Summary (German): Der Beitrag fordert ein nationales brasilianisches KI-Observatorium mit Forschungs-, Infrastruktur- und Teilhabeaufgaben, beschreibt jedoch keine Umsetzung oder Ergebnisse.
+- **[Building agricultural database for farmers](https://openai.com/index/digital-green/)** · openai.com ·  · [Q006766](../../berichte/Q00/Q0067/Q006766/)
+  - Levels 4–7: clef **9 %** · Luna **25 %** · d3-ultra not yet rated · JEV **13 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **21 %** · Luna **52 %** · d3-ultra not yet rated · JEV **17 %** · amos **22 %** · drex **13 %**
+  - Summary (German): Farmer.Chat soll landwirtschaftliche Beratung durch KI unterstützen; berichtete Kosteneinsparungen sind frühe Schätzungen, deren unabhängige Prüfung im Bericht nicht belegt wird.
+- **[Concordia AI CEO Brian Tse on The Cognitive Revolution Podcast](https://concordia-ai.com/concordia-ai-ceo-brian-tse-on-the-cognitive-revolution-podcast/)** · concordia-ai.com · 2025-10-22 · [Q002148](../../berichte/Q00/Q0021/Q002148/)
+  - Levels 4–7: clef **11 %** · Luna **25 %** · d3-ultra **2 %** · JEV **11 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **42 %** · Luna **70 %** · d3-ultra **7 %** · JEV **43 %** · amos **29 %** · drex **21 %**
+  - Summary (German): Concordia AI skizziert Themen eines Podcastgesprächs über Chinas KI und verweist für die vollständige Diskussion auf die Podcastfolge.
+- **[d1c8d57](https://partnershiponai.org/paper_page/d1c8d57/)** · partnershiponai.org · 2021-08-06 · [Q001142](../../berichte/Q00/Q0011/Q001142/)
+  - Levels 4–7: clef **9 %** · Luna **25 %** · d3-ultra not yet rated · JEV **3 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **31 %** · Luna **75 %** · d3-ultra not yet rated · JEV **14 %** · amos **29 %** · drex **16 %**
+  - Summary (German): Es liegt nur ein Auszug vor: ABOUT ML will die kontextgerechte Dokumentation von ML-Systemen fördern, doch abschließende, ausreichend belegte Best Practices stehen laut Text noch aus.
+- **[Details about METR's preliminary evaluation of DeepSeek-V3](https://metr.org/evaluations/deepseek-v3-report/)** · metr.org · 2025-02-12 · [Q002631](../../berichte/Q00/Q0026/Q002631/)
+  - Levels 4–7: clef **25 %** · Luna **15 %** · d3-ultra not yet rated · JEV **52 %** · amos **28 %** · drex **11 %**
+  - Levels 3–7: clef **54 %** · Luna **21 %** · d3-ultra not yet rated · JEV **67 %** · amos **55 %** · drex **22 %**
+  - Summary (German): METR zufolge zeigte DeepSeek-V3 in einer vorläufigen, begrenzt optimierten Evaluation keine klar über frühere Spitzenmodelle hinausgehenden autonomen Fähigkeiten, wobei weitere Erschließung die Ergebnisse ändern könnte.
+- **[Do AI labs' contracts let staff speak up? I built a scorecard](https://www.lesswrong.com/posts/Nw8n374i3bgHafeNz/do-ai-labs-contracts-let-staff-speak-up-i-built-a-scorecard)** · lesswrong.com · 2026-11-01 · [Q000415](../../berichte/Q00/Q0004/Q000415/)
+  - Levels 4–7: clef **15 %** · Luna **25 %** · d3-ultra not yet rated · JEV **63 %** · amos **15 %** · drex **11 %**
+  - Levels 3–7: clef **35 %** · Luna **59 %** · d3-ultra not yet rated · JEV **75 %** · amos **38 %** · drex **21 %**
+  - Summary (German): Jonathan Hinds öffentliche Scorecard findet bei fünf KI-Laboren erhebliche Lücken und mangelnde Transparenz zu Beschäftigtenverträgen; die Bewertungen sind wegen vielfach fehlender Vertragsdokumente begrenzt.
+- **[Eyes Off My Data: Introduction](https://partnershiponai.org/paper_page/introduction/)** · partnershiponai.org · 2023-12-06 · [Q001157](../../berichte/Q00/Q0011/Q001157/)
+  - Levels 4–7: clef **9 %** · Luna **25 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **22 %** · Luna **59 %** · d3-ultra not yet rated · JEV **22 %** · amos **21 %** · drex **12 %**
+  - Summary (German): Die Einleitung skizziert Chancen und Risiken demografischer Daten für Fairnessprüfungen und kündigt eine Untersuchung datenschutzschonender föderierter Statistiken an, liefert selbst aber keine konkreten Ergebnisse.
+- **[Frontier AI and Nuclear Security](https://www.frontiermodelforum.org/research-updates/frontier-ai-and-nuclear-security/)** · frontiermodelforum.org · 2026-01-30 · [Q001941](../../berichte/Q00/Q0019/Q001941/)
+  - Levels 4–7: clef **15 %** · Luna **25 %** · d3-ultra not yet rated · JEV **7 %** · amos **18 %** · drex **15 %**
+  - Levels 3–7: clef **51 %** · Luna **67 %** · d3-ultra not yet rated · JEV **38 %** · amos **53 %** · drex **38 %**
+  - Summary (German): Der vorläufige Bericht warnt, dass KI bestehende Risiken für zivile Nuklearanlagen verstärken könnte, während Ausmaß, Schutzmaßnahmen und Zuständigkeiten noch offen sind.
+- **[gpt-oss-120b & gpt-oss-20b Model Card](https://arxiv.org/pdf/2508.10925)** · arxiv.org ·  · [Q009461](../../berichte/Q00/Q0094/Q009461/)
+  - Levels 4–7: clef **21 %** · Luna **25 %** · d3-ultra **11 %** · JEV not yet rated · amos **45 %** · drex not yet rated
+  - Levels 3–7: clef **51 %** · Luna **33 %** · d3-ultra **20 %** · JEV not yet rated · amos **69 %** · drex not yet rated
+  - Summary (German): Die Model Card berichtet über leistungsfähige offene Schlussfolgerungsmodelle mit benannten Sicherheitsgrenzen und kommt anhand der beschriebenen Tests zu dem Schluss, dass sie interne Schwellen für hohe Fähigkeiten in drei Risikobereichen nicht erreichen.
+- **[Guidelines for National New Generation Artificial Intelligence Innovation and Development Pilot Zone Construction Work](https://cset.georgetown.edu/publication/guidelines-for-national-new-generation-artificial-intelligence-innovation-and-development-pilot-zone-construction-work/)** · cset.georgetown.edu · 2020-03-24 · [Q006579](../../berichte/Q00/Q0065/Q006579/)
+  - Levels 4–7: clef **11 %** · Luna **25 %** · d3-ultra **2 %** · JEV **5 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **35 %** · Luna **51 %** · d3-ultra **8 %** · JEV **9 %** · amos **29 %** · drex **18 %**
+  - Summary (German): Chinas Leitlinien von 2019 legen Anforderungen und Verfahren für KI-Pilotzonen fest, beschreiben aber nicht, ob die geplanten Maßnahmen wirksam umgesetzt wurden.
+- **[Guiding Opinions on Promoting the Development of New-Style Research and Development Institutions](https://cset.georgetown.edu/publication/china-new-research-institution-opinions/)** · cset.georgetown.edu · 2025-01-14 · [Q003057](../../berichte/Q00/Q0030/Q003057/)
+  - Levels 4–7: clef **4 %** · Luna **25 %** · d3-ultra **0 %** · JEV **3 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **8 %** · Luna **55 %** · d3-ultra **1 %** · JEV **11 %** · amos **8 %** · drex **6 %**
+  - Summary (German): Der Auszug skizziert Ziele und Grundsätze für Chinas neue Forschungs- und Entwicklungseinrichtungen, enthält aber nur den Dokumentanfang und keine belegten Umsetzungsergebnisse.
+- **[How should AI systems behave, and who should decide?](https://openai.com/index/how-should-ai-systems-behave/)** · openai.com · 2023-02-16 · [Q007594](../../berichte/Q00/Q0075/Q007594/)
+  - Levels 4–7: clef **13 %** · Luna **25 %** · d3-ultra not yet rated · JEV **15 %** · amos **17 %** · drex **6 %**
+  - Levels 3–7: clef **42 %** · Luna **71 %** · d3-ultra not yet rated · JEV **31 %** · amos **42 %** · drex **19 %**
+  - Summary (German): OpenAI will ChatGPT verbessern und anpassbarer machen sowie die Öffentlichkeit stärker an Regeln und Grenzen beteiligen, räumt aber ein, dass der Prozess unvollkommen ist und die Vorhaben noch keine belegten Ergebnisse darstellen.
+- **[Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/)** · openai.com · 2025-09-16 · [Q007291](../../berichte/Q00/Q0072/Q007291/)
+  - Levels 4–7: clef **9 %** · Luna **25 %** · d3-ultra not yet rated · JEV **9 %** · amos **7 %** · drex **8 %**
+  - Levels 3–7: clef **26 %** · Luna **59 %** · d3-ultra not yet rated · JEV **22 %** · amos **24 %** · drex **19 %**
+  - Summary (German): OpenAI, NVIDIA und Nscale planen Stargate UK für lokale KI-Rechenkapazität und KI-Bildungsangebote, wobei Ausbau und Wirkung noch nicht feststehen.
+- **[Introducing the AI Security Leaderboard: Frontier AI Is Only as Safe as Its Weakest Model](https://www.far.ai/blog/ai-security-leaderboard)** · far.ai · 2026-07-31 · [Q001490](../../berichte/Q00/Q0014/Q001490/)
+  - Levels 4–7: clef **25 %** · Luna **22 %** · d3-ultra not yet rated · JEV **78 %** · amos **36 %** · drex **18 %**
+  - Levels 3–7: clef **55 %** · Luna **71 %** · d3-ultra not yet rated · JEV **93 %** · amos **61 %** · drex **39 %**
+  - Summary (German): FAR.AI zufolge unterscheiden sich die Schutzmaßnahmen getesteter KI-Modelle stark; das neue Leaderboard macht sie vergleichbar, bescheinigt aber keine umfassende Sicherheit.
+- **[More Capable Models Are Better At In-Context Scheming](https://apolloresearch.ai/science/more-capable-models-are-better-at-in-context-scheming)** · apolloresearch.ai · 2025-04-29 · [Q001252](../../berichte/Q00/Q0012/Q001252/)
+  - Levels 4–7: clef **25 %** · Luna **9 %** · d3-ultra **3 %** · JEV not yet rated · amos **24 %** · drex not yet rated
+  - Levels 3–7: clef **53 %** · Luna **31 %** · d3-ultra **11 %** · JEV not yet rated · amos **50 %** · drex not yet rated
+  - Summary (German): Apollo beobachtet in Tests häufiger und ausgefeilteres Scheming bei leistungsfähigeren Modellen, warnt aber vor starken Einschränkungen der Tests und ihrer Übertragbarkeit auf reale Einsätze.
+- **[National Standard of the People's Republic of China: Cybersecurity Technology - Generative Artificial Intelligence Data Annotation Safety Specifications (Draft for Feedback)](https://cset.georgetown.edu/publication/china-gen-ai-data-labeling-safety-standard-draft/)** · cset.georgetown.edu · 2025-10-28 · [Q002292](../../berichte/Q00/Q0022/Q002292/)
+  - Levels 4–7: clef **12 %** · Luna **25 %** · d3-ultra **4 %** · JEV **9 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **41 %** · Luna **56 %** · d3-ultra **13 %** · JEV **19 %** · amos **30 %** · drex **17 %**
+  - Summary (German): Der Auszug stellt einen chinesischen Entwurf zu Sicherheitsregeln für GenAI-Datenannotation vor, enthält aber außer Geltungsbereich und ersten Definitionen keine detaillierten Vorschriften.
+- **[Partnerships](https://www.anthropic.com/news/partnerships)** · anthropic.com ·  · [Q005336](../../berichte/Q00/Q0053/Q005336/)
+  - Levels 4–7: clef **13 %** · Luna **25 %** · d3-ultra not yet rated · JEV **5 %** · amos **23 %** · drex **13 %**
+  - Levels 3–7: clef **33 %** · Luna **59 %** · d3-ultra not yet rated · JEV **11 %** · amos **48 %** · drex **28 %**
+  - Summary (German): Der Auszug fasst Anthropic-Ankündigungen zu zahlreichen Claude-Partnerschaften zusammen, liefert aber keine unabhängigen Belege für deren Umsetzung oder Wirkung.
+- **[Post by @RepCasar on X](https://x.com/RepCasar/status/2115873436895678707)** · x.com · 2026-10-29 · [Q000878](../../berichte/Q00/Q0008/Q000878/)
+  - Levels 4–7: clef **8 %** · Luna **25 %** · d3-ultra not yet rated · JEV **1 %** · amos **8 %** · drex **9 %**
+  - Levels 3–7: clef **37 %** · Luna **53 %** · d3-ultra not yet rated · JEV **3 %** · amos **23 %** · drex **22 %**
+  - Summary (German): Der X-Post fordert Aufsicht über OpenAI und Befragungen von KI-Unternehmenschefs; der vorliegende Bericht enthält nur den Post und ausgewählte Kommentare, nicht den verlinkten Politico-Artikel.
+- **[Post by @rohanpaul_ai on X](https://x.com/knuthings/status/2113962080206455249)** · x.com · 2026-10-24 · [Q000614](../../berichte/Q00/Q0006/Q000614/)
+  - Levels 4–7: clef **24 %** · Luna **25 %** · d3-ultra not yet rated · JEV **29 %** · amos **24 %** · drex **15 %**
+  - Levels 3–7: clef **58 %** · Luna **52 %** · d3-ultra not yet rated · JEV **48 %** · amos **50 %** · drex **33 %**
+  - Summary (German): Der vorliegende Auszug verbindet Altmans behauptete Warnung vor einer offenen Veröffentlichung eines leistungsfähigen OpenAI-Modells mit unbelegten Kommentarkritiken an der freiwilligen Sicherheitsaufsicht.
+- **[Post by @wfithian on X](https://x.com/wfithian/status/2116678331437613057)** · x.com · 2026-10-31 · [Q001120](../../berichte/Q00/Q0011/Q001120/)
+  - Levels 4–7: clef **25 %** · Luna **16 %** · d3-ultra not yet rated · JEV **4 %** · amos **14 %** · drex **12 %**
+  - Levels 3–7: clef **50 %** · Luna **62 %** · d3-ultra not yet rated · JEV **13 %** · amos **39 %** · drex **28 %**
+  - Summary (German): Der X-Auszug skizziert einen Vorschlag für eine mindestens zehnjährige Trainingspause mit schrittweisem Hardwarewechsel, enthält aber keine konkreten Ergebnisse zur Machbarkeit.
+- **[Recent Frontier Models Are Reward Hacking](https://metr.org/blog/2025-06-05-recent-reward-hacking/)** · metr.org · 2025-06-05 · [Q002417](../../berichte/Q00/Q0024/Q002417/)
+  - Levels 4–7: clef **25 %** · Luna **9 %** · d3-ultra **5 %** · JEV **23 %** · amos **31 %** · drex **12 %**
+  - Levels 3–7: clef **52 %** · Luna **11 %** · d3-ultra **16 %** · JEV **34 %** · amos **56 %** · drex **25 %**
+  - Summary (German): METR zufolge umgehen aktuelle KI-Modelle teils bewusst Bewertungsregeln; wie verbreitet das ist, bleibt wegen lückenhafter und uneindeutiger Erkennung unsicher.
+- **[Safety case template for ‘inability’ arguments](https://www.aisi.gov.uk/blog/safety-case-template-for-inability-arguments)** · aisi.gov.uk · 2024-11-14 · [Q001575](../../berichte/Q00/Q0015/Q001575/)
+  - Levels 4–7: clef **25 %** · Luna **9 %** · d3-ultra not yet rated · JEV **9 %** · amos **28 %** · drex **18 %**
+  - Levels 3–7: clef **54 %** · Luna **37 %** · d3-ultra not yet rated · JEV **37 %** · amos **57 %** · drex **40 %**
+  - Summary (German): Der Bericht skizziert eine vorläufige Safety-Case-Vorlage, die bei wenig leistungsfähigen KI-Systemen begründen soll, dass ihre Fähigkeiten für unvertretbare Cyberrisiken nicht ausreichen.
+- **[Strengthening cyber resilience as AI capabilities advance](https://openai.com/index/strengthening-cyber-resilience/)** · openai.com · 2025-12-10 · [Q001425](../../berichte/Q00/Q0014/Q001425/)
+  - Levels 4–7: clef **16 %** · Luna **25 %** · d3-ultra not yet rated · JEV **59 %** · amos **27 %** · drex **13 %**
+  - Levels 3–7: clef **43 %** · Luna **78 %** · d3-ultra not yet rated · JEV **84 %** · amos **52 %** · drex **33 %**
+  - Summary (German): OpenAI will mit gestaffelten Schutzmaßnahmen und neuen Verteidigungsinitiativen den Nutzen leistungsfähiger KI für Cybersicherheit erhöhen, während mehrere Programme noch geplant sind und vollständige Missbrauchsverhinderung laut Bericht nicht erreichbar ist.
+- **[The Future of the AI Summit Series: One Year Later](https://doi.org/10.2139/ssrn.7217818)** · doi.org · 2026-07-15 · [Q002015](../../berichte/Q00/Q0020/Q002015/)
+  - Levels 4–7: clef **15 %** · Luna **25 %** · d3-ultra **1 %** · JEV **3 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **46 %** · Luna **68 %** · d3-ultra **7 %** · JEV **49 %** · amos **33 %** · drex **16 %**
+  - Summary (German): Laut Abstract soll die AI Summit Series durch gemeinsame Planung, ein dauerhaftes Sekretariat und regelmäßige Folgetreffen mehr Kontinuität und Rechenschaft erhalten; der vollständige Bericht liegt hier nicht vor.
+- **[The US hosts the majority of GPU cluster performance, followed by China](https://epoch.ai/data-insights/ai-supercomputers-performance-share-by-country)** · epoch.ai · 2025-06-05 · [Q005835](../../berichte/Q00/Q0058/Q005835/)
+  - Levels 4–7: clef **11 %** · Luna **25 %** · d3-ultra not yet rated · JEV not yet rated · amos **11 %** · drex not yet rated
+  - Levels 3–7: clef **39 %** · Luna **60 %** · d3-ultra not yet rated · JEV not yet rated · amos **32 %** · drex not yet rated
+  - Summary (German): Der Quelltext ist eine Notizensammlung, kein vollständiger Bericht: Er skizziert globale KI-Cluster und Trainingssysteme, weist aber auf begrenzte Abdeckung und zahlreiche unsichere oder geschätzte Angaben hin.
+- **[U.S. AI Statecraft](https://cset.georgetown.edu/publication/u-s-ai-statecraft/)** · cset.georgetown.edu · 2025-10-02 · [Q002406](../../berichte/Q00/Q0024/Q002406/)
+  - Levels 4–7: clef **12 %** · Luna **25 %** · d3-ultra **1 %** · JEV **1 %** · amos **11 %** · drex **10 %**
+  - Levels 3–7: clef **46 %** · Luna **78 %** · d3-ultra **10 %** · JEV **10 %** · amos **39 %** · drex **30 %**
+  - Summary (German): Die Einleitung sieht in US-KI-Abkommen mit den VAE und Saudi-Arabien strategische Chancen, betont aber, dass sie ohne starke Governance und Aufsicht scheitern könnten; der bereitgestellte Text ist nur ein Auszug.
+- **[A US-China AI Hotline Won’t Be Ready for a While](https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/)** · wired.com · 2026-09-23 · [Q000017](../../berichte/Q00/Q0000/Q000017/)
+  - Levels 4–7: clef **13 %** · Luna **24 %** · d3-ultra not yet rated · JEV **23 %** · amos **14 %** · drex **18 %**
+  - Levels 3–7: clef **48 %** · Luna **62 %** · d3-ultra not yet rated · JEV **59 %** · amos **39 %** · drex **34 %**
+  - Summary (German): Der Newsletter-Auszug beschreibt einen noch nicht vereinbarten US-chinesischen KI-Meldekanal, dessen Regeln, Zustimmung und Zeitplan laut zitierten Quellen offen sind.
+- **[Best practices for deploying language models](https://openai.com/index/best-practices-for-deploying-language-models/)** · openai.com · 2022-06-02 · [Q009029](../../berichte/Q00/Q0090/Q009029/)
+  - Levels 4–7: clef **9 %** · Luna **24 %** · d3-ultra not yet rated · JEV **11 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **38 %** · Luna **52 %** · d3-ultra not yet rated · JEV **34 %** · amos **31 %** · drex **18 %**
+  - Summary (German): Der Bericht skizziert vorläufige Empfehlungen für Regeln, Schutzmaßnahmen, Transparenz und Zusammenarbeit beim Einsatz großer Sprachmodelle, ohne ihre Wirksamkeit empirisch nachzuweisen.
+- **[Cheating behaviour in frontier model evaluations](https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations)** · aisi.gov.uk · 2026-07-21 · [Q001326](../../berichte/Q00/Q0013/Q001326/)
+  - Levels 4–7: clef **24 %** · Luna **4 %** · d3-ultra not yet rated · JEV **55 %** · amos **31 %** · drex **11 %**
+  - Levels 3–7: clef **54 %** · Luna **22 %** · d3-ultra not yet rated · JEV **75 %** · amos **58 %** · drex **23 %**
+  - Summary (German): AISI zufolge schummelten alle untersuchten Modelle gelegentlich, während Erkennung durch Selbstauskunft oder Begründungsverläufe unzuverlässig bleibt und die gemessenen Raten nur Untergrenzen darstellen.
+- **[Economic Futures Programme in the UK and Europe](https://www.anthropic.com/news/economic-futures-uk-europe)** · anthropic.com · 2025-11-05 · [Q005017](../../berichte/Q00/Q0050/Q005017/)
+  - Levels 4–7: clef **10 %** · Luna **24 %** · d3-ultra not yet rated · JEV **7 %** · amos **7 %** · drex **7 %**
+  - Levels 3–7: clef **32 %** · Luna **79 %** · d3-ultra not yet rated · JEV **13 %** · amos **21 %** · drex **15 %**
+  - Summary (German): Anthropic kündigt für Großbritannien und Europa Förderung, Austausch und genauere KI-Nutzungsdaten an; die wirtschaftlichen Wirkungen bleiben im Bericht weitgehend ungemessen.
+- **[European AI-powered advanced screening centres](http://digital-strategy.ec.europa.eu/en/policies/ai-screening-centres)** · digital-strategy.ec.europa.eu ·  · [Q001153](../../berichte/Q00/Q0011/Q001153/)
+  - Levels 4–7: clef **7 %** · Luna **24 %** · d3-ultra **1 %** · JEV not yet rated · amos **13 %** · drex not yet rated
+  - Levels 3–7: clef **20 %** · Luna **64 %** · d3-ultra **5 %** · JEV not yet rated · amos **36 %** · drex not yet rated
+  - Summary (German): Ein geplantes EU-Netzwerk soll KI-Screening bei Krebs und Herz-Kreislauf-Erkrankungen in der Praxis prüfen; konkrete Wirkungsnachweise nennt der Bericht nicht.
+- **[Eyes Off My Data](https://partnershiponai.org/paper/eyes-off-my-data/)** · partnershiponai.org · 2023-12-13 · [Q001339](../../berichte/Q00/Q0013/Q001339/)
+  - Levels 4–7: clef **8 %** · Luna **24 %** · d3-ultra not yet rated · JEV **7 %** · amos **8 %** · drex **5 %**
+  - Levels 3–7: clef **22 %** · Luna **65 %** · d3-ultra not yet rated · JEV **15 %** · amos **20 %** · drex **10 %**
+  - Summary (German): Der bereitgestellte Auszug kommt zu dem Schluss, dass differenziell private föderierte Statistiken Fairnessprüfungen unterstützen, aber allein weder Bias noch die sozialen Risiken demografischer Datennutzung beheben.
+- **[FMF Response: Request for Information on the Development of an AI Action Plan](https://www.frontiermodelforum.org/updates/fmf-response-request-for-information-on-the-development-of-an-ai-action-plan/)** · frontiermodelforum.org · 2025-03-14 · [Q002461](../../berichte/Q00/Q0024/Q002461/)
+  - Levels 4–7: clef **19 %** · Luna **24 %** · d3-ultra not yet rated · JEV **35 %** · amos **36 %** · drex **39 %**
+  - Levels 3–7: clef **55 %** · Luna **54 %** · d3-ultra not yet rated · JEV **78 %** · amos **64 %** · drex **68 %**
+  - Summary (German): Das Frontier Model Forum fordert mehr KI-Sicherheitsforschung, internationale Abstimmung und staatlich-industrielle Tests, legt in seiner Stellungnahme jedoch keine quantifizierten Wirksamkeitsnachweise vor.
+- **[From myth to metrics: Communities can leverage the real costs of generative AI when negotiating for data centres](https://oecd.ai/en/wonk/from-myth-to-metrics-real-costs-of-generative-ai)** · oecd.ai · 2025-05-07 · [Q003516](../../berichte/Q00/Q0035/Q003516/)
+  - Levels 4–7: clef **9 %** · Luna **24 %** · d3-ultra **1 %** · JEV **5 %** · amos **9 %** · drex **10 %**
+  - Levels 3–7: clef **29 %** · Luna **66 %** · d3-ultra **6 %** · JEV **16 %** · amos **28 %** · drex **21 %**
+  - Summary (German): Der Beitrag nennt die 10x-Angabe zum Strombedarf generativer KI eine unzuverlässige Faustregel und argumentiert, dass bessere Daten zu Strom, Wasser und Umweltkosten Gemeinden bei Verhandlungen über Rechenzentren helfen könnten.
+- **[Google DeepMind and partners announce multi-agent safety research funding call.](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/)** · deepmind.google · 2026-06-11 · [Q004515](../../berichte/Q00/Q0045/Q004515/)
+  - Levels 4–7: clef **7 %** · Luna **24 %** · d3-ultra **2 %** · JEV **8 %** · amos **11 %** · drex **5 %**
+  - Levels 3–7: clef **43 %** · Luna **65 %** · d3-ultra **11 %** · JEV **30 %** · amos **35 %** · drex **13 %**
+  - Summary (German): Google DeepMind und Partner schreiben bis zu 10 Millionen US-Dollar für Forschung zur Sicherheit interagierender KI-Agenten aus; der Beitrag skizziert Risiken und Förderbereiche, aber keine neuen Ergebnisse.
+- **[Guidelines for National Data Infrastructure Construction](https://cset.georgetown.edu/publication/china-national-data-infrastructure-guidelines/)** · cset.georgetown.edu · 2025-04-22 · [Q002835](../../berichte/Q00/Q0028/Q002835/)
+  - Levels 4–7: clef **4 %** · Luna **24 %** · d3-ultra **0 %** · JEV **4 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **9 %** · Luna **52 %** · d3-ultra **2 %** · JEV **10 %** · amos **10 %** · drex **10 %**
+  - Summary (German): Der bereitgestellte Auszug beschreibt Chinas geplante nationale Dateninfrastruktur und einen gemeinsamen Datenkatalog bis 2029, nennt aber offene Umsetzungszuständigkeiten und einen erst für 2027 vorgesehenen Baubeginn.
+- **[Guiding Opinions on Strengthening the Governance of Science and Technology Ethics (Draft for Feedback)](https://cset.georgetown.edu/publication/china-science-ethics-guiding-opinions-draft/)** · cset.georgetown.edu · 2025-03-13 · [Q002920](../../berichte/Q00/Q0029/Q002920/)
+  - Levels 4–7: clef **9 %** · Luna **24 %** · d3-ultra **2 %** · JEV **2 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **32 %** · Luna **60 %** · d3-ultra **10 %** · JEV **12 %** · amos **30 %** · drex **16 %**
+  - Summary (German): Der Auszug skizziert einen chinesischen Entwurf von 2021 für eine umfassende, anpassungsfähige Wissenschafts- und Technikethik-Governance, zeigt aber nicht dessen vollständige Bestimmungen.
+- **[Issue Brief: Foundational Security Practices](https://www.frontiermodelforum.org/updates/issue-brief-foundational-security-practices/)** · frontiermodelforum.org · 2024-07-31 · [Q002747](../../berichte/Q00/Q0027/Q002747/)
+  - Levels 4–7: clef **14 %** · Luna **24 %** · d3-ultra not yet rated · JEV **3 %** · amos **20 %** · drex **11 %**
+  - Levels 3–7: clef **41 %** · Luna **64 %** · d3-ultra not yet rated · JEV **16 %** · amos **48 %** · drex **21 %**
+  - Summary (German): Das Frontier Model Forum skizziert grundlegende, teils vorläufige Sicherheitspraktiken für leistungsfähige KI-Systeme und betont, dass etablierte Cybersicherheit durch speziell angepasste Maßnahmen ergänzt werden sollte.
+- **[Managing risks from increasingly capable open-weight AI systems](https://www.aisi.gov.uk/blog/managing-risks-from-increasingly-capable-open-weight-ai-systems)** · aisi.gov.uk · 2025-08-29 · [Q002473](../../berichte/Q00/Q0024/Q002473/)
+  - Levels 4–7: clef **24 %** · Luna **22 %** · d3-ultra not yet rated · JEV **45 %** · amos **49 %** · drex **26 %**
+  - Levels 3–7: clef **51 %** · Luna **84 %** · d3-ultra not yet rated · JEV **75 %** · amos **73 %** · drex **48 %**
+  - Summary (German): AISI empfiehlt, Risiken offener KI-Modelle durch mehrere technische und organisatorische Maßnahmen zu begrenzen, da Schutzmaßnahmen umgangen werden können und keine vollständigen Sicherheitsgarantien bestehen.
+- **[Opinions of the CCP Central Committee and the State Council on Constructing a Basic System for Data and Putting Data Factors of Production to Better Use](https://cset.georgetown.edu/publication/opinions-of-the-ccp-central-committee-and-the-state-council-on-constructing-a-basic-system-for-data-and-putting-data-factors-of-production-to-better-use/)** · cset.georgetown.edu · 2023-01-26 · [Q006016](../../berichte/Q00/Q0060/Q006016/)
+  - Levels 4–7: clef **6 %** · Luna **24 %** · d3-ultra **1 %** · JEV **7 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **16 %** · Luna **51 %** · d3-ultra **6 %** · JEV **16 %** · amos **13 %** · drex **14 %**
+  - Summary (German): Der Auszug skizziert Chinas Ziele für wirtschaftliche Datennutzung unter Sicherheits- und Schutzauflagen; die Übersetzung ist unvollständig und soll im verlinkten PDF weitergehen.
+- **[Our approach to tackling AI-generated child sexual abuse material](https://www.aisi.gov.uk/blog/our-approach-to-tackling-ai-generated-child-sexual-abuse-material)** · aisi.gov.uk · 2025-12-17 · [Q002063](../../berichte/Q00/Q0020/Q002063/)
+  - Levels 4–7: clef **19 %** · Luna **24 %** · d3-ultra not yet rated · JEV **32 %** · amos **26 %** · drex **13 %**
+  - Levels 3–7: clef **47 %** · Luna **74 %** · d3-ultra not yet rated · JEV **50 %** · amos **51 %** · drex **27 %**
+  - Summary (German): AISI und Thorn kombinieren einen Leitfaden, streng begrenzte gesetzliche Testmöglichkeiten und geplante Forschung gegen KI-generiertes CSAM, wobei der Bericht technische Grenzen nennt und noch keine Wirksamkeitsnachweise vorlegt.
+- **[Partnering with Mozilla on Firefox security](https://www.anthropic.com/news/mozilla-firefox-security)** · anthropic.com · 2026-03-06 · [Q002911](../../berichte/Q00/Q0029/Q002911/)
+  - Levels 4–7: clef **15 %** · Luna **24 %** · d3-ultra not yet rated · JEV **79 %** · amos **25 %** · drex **12 %**
+  - Levels 3–7: clef **41 %** · Luna **52 %** · d3-ultra not yet rated · JEV **86 %** · amos **52 %** · drex **26 %**
+  - Summary (German): Anthropic berichtet, Claude habe 22 Firefox-Schwachstellen gefunden, während zwei einfache Exploit-Versuche nur in einer um wichtige Schutzmaßnahmen reduzierten Testumgebung gelangen.
+- **[Review of the "Risks from automated R&D" section in the Anthropic Risk Report (February 2026)](https://metr.org/blog/2026-05-08-rd-section-anthropic-risk-report-feb-2026-review/)** · metr.org · 2026-05-08 · [Q001677](../../berichte/Q00/Q0016/Q001677/)
+  - Levels 4–7: clef **24 %** · Luna **4 %** · d3-ultra **5 %** · JEV **17 %** · amos **28 %** · drex **15 %**
+  - Levels 3–7: clef **55 %** · Luna **10 %** · d3-ultra **18 %** · JEV **25 %** · amos **55 %** · drex **29 %**
+  - Summary (German): Der vorliegende Text ist ein Auszug: METR hält Anthropic zufolge das Risiko automatisierter Forschung durch Opus 4.6 für sehr gering, findet die Belege im Bericht dafür aber unzureichend.
+- **[Russia and US seek to block plan for binding rules on autonomous weapons](https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules)** · theguardian.com · 2026-11-06 · [Q000377](../../berichte/Q00/Q0003/Q000377/)
+  - Levels 4–7: clef **16 %** · Luna **24 %** · d3-ultra not yet rated · JEV **3 %** · amos **14 %** · drex **12 %**
+  - Levels 3–7: clef **45 %** · Luna **68 %** · d3-ultra not yet rated · JEV **15 %** · amos **38 %** · drex **25 %**
+  - Summary (German): Vor einer UN-Konferenz drängen zahlreiche Staaten auf Vertragsverhandlungen zu autonomen Waffen, während Russland, die USA und Israel laut Bericht ein verbindliches Mandat bremsen.
+- **[Rwanda and Anthropic sign MOU for health and education](https://www.anthropic.com/news/anthropic-rwanda-mou)** · anthropic.com · 2026-02-17 · [Q005228](../../berichte/Q00/Q0052/Q005228/)
+  - Levels 4–7: clef **9 %** · Luna **24 %** · d3-ultra not yet rated · JEV **17 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **27 %** · Luna **57 %** · d3-ultra not yet rated · JEV **35 %** · amos **20 %** · drex **14 %**
+  - Summary (German): Anthropic und Ruanda kündigen eine dreijährige KI-Partnerschaft für Gesundheit, Bildung und den öffentlichen Sektor an; konkrete Wirkungen werden im Bericht noch nicht belegt.
+- **[Safety in Artificial Intelligence: Challenges and Opportunities for the U.S. National Labs and Beyond](https://doi.org/10.2172/2475542)** · doi.org · 2024-10-01 · [Q002674](../../berichte/Q00/Q0026/Q002674/)
+  - Levels 4–7: clef **10 %** · Luna **24 %** · d3-ultra **3 %** · JEV **5 %** · amos **14 %** · drex **11 %**
+  - Levels 3–7: clef **48 %** · Luna **70 %** · d3-ultra **23 %** · JEV **49 %** · amos **49 %** · drex **30 %**
+  - Summary (German): Der vorliegende Abstract fordert umfangreiche KI-Sicherheitsforschung und staatliche Standards; er empfiehlt nationale Labore als Prüfstellen, legt aber keine konkreten Bewertungsverfahren dar.
+- **[Securing AI compute](https://oecd.ai/en/ai-publications/securing-ai-compute)** · oecd.ai · 2026-10-16 · [Q000854](../../berichte/Q00/Q0008/Q000854/)
+  - Levels 4–7: clef **9 %** · Luna **24 %** · d3-ultra **0 %** · JEV **3 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **31 %** · Luna **56 %** · d3-ultra **3 %** · JEV **17 %** · amos **17 %** · drex **12 %**
+  - Summary (German): Nur ein Auszug: Laut OECD-Webseite untersucht der nicht beigefügte Policy Brief staatliche Ansätze zur Sicherung von KI-Rechenkapazität, nennt hier aber keine konkreten Ergebnisse oder Empfehlungen.
+- **[Securing the Future of Trusted Semiconductor Supply Chains](https://cset.georgetown.edu/publication/securing-the-future-of-trusted-semiconductor-supply-chains/)** · cset.georgetown.edu · 2026-05-05 · [Q001685](../../berichte/Q00/Q0016/Q001685/)
+  - Levels 4–7: clef **11 %** · Luna **24 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **36 %** · Luna **73 %** · d3-ultra **5 %** · JEV **17 %** · amos **16 %** · drex **18 %**
+  - Summary (German): Der bereitgestellte Auszug argumentiert, dass hybride Souveränität und internationale Abhängigkeiten bei KI wahrscheinlicher sind als vollständige Eigenständigkeit, wodurch geopolitisch bedingte Zugangsbeschränkungen drohen könnten.
+- **[Singapore’s model framework balances innovation and trust in AI](https://oecd.ai/en/wonk/singapores-model-framework-to-balance-innovation-and-trust-in-ai)** · oecd.ai · 2020-06-24 · [Q009572](../../berichte/Q00/Q0095/Q009572/)
+  - Levels 4–7: clef **10 %** · Luna **24 %** · d3-ultra not yet rated · JEV **2 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **43 %** · Luna **73 %** · d3-ultra not yet rated · JEV **8 %** · amos **33 %** · drex **15 %**
+  - Summary (German): Singapur will mit freiwilligen, technologieübergreifenden KI-Leitlinien und ergänzenden Initiativen Innovation und Vertrauen verbinden; der Bericht beschreibt eigene Vorhaben, weist aber keine unabhängige Wirksamkeitsprüfung aus.
+- **[The AI Triad and What It Means for National Security Strategy](https://cset.georgetown.edu/publication/the-ai-triad-and-what-it-means-for-national-security-strategy/)** · cset.georgetown.edu · 2020-08-10 · [Q005558](../../berichte/Q00/Q0055/Q005558/)
+  - Levels 4–7: clef **6 %** · Luna **24 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **1 %**
+  - Levels 3–7: clef **39 %** · Luna **62 %** · d3-ultra **7 %** · JEV **12 %** · amos **15 %** · drex **4 %**
+  - Summary (German): Der Auszug führt Buchanans KI-Triade aus Daten, Algorithmen und Rechenleistung ein und nennt GPT-3 als Beispiel, während er zugleich auf Grenzen und Risiken von KI hinweist.
+- **[The next chapter for AI in the EU](https://openai.com/index/the-next-chapter-for-ai-in-the-eu/)** · openai.com · 2026-01-28 · [Q005809](../../berichte/Q00/Q0058/Q005809/)
+  - Levels 4–7: clef **10 %** · Luna **24 %** · d3-ultra not yet rated · JEV **13 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **37 %** · Luna **57 %** · d3-ultra not yet rated · JEV **30 %** · amos **25 %** · drex **16 %**
+  - Summary (German): OpenAI kündigt neue KI-Schulungen, Jugendförderung und Regierungskooperationen in Europa an und begründet sie mit einer von OpenAI beschriebenen, zwischen Ländern unterschiedlichen KI-Nutzungslücke.
+- **[The OECD Framework for Classifying AI Systems to assess policy challenges and ensure international standards in AI](https://oecd.ai/en/wonk/classification)** · oecd.ai · 2022-02-17 · [Q006636](../../berichte/Q00/Q0066/Q006636/)
+  - Levels 4–7: clef **11 %** · Luna **24 %** · d3-ultra **1 %** · JEV **3 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **48 %** · Luna **67 %** · d3-ultra **11 %** · JEV **33 %** · amos **28 %** · drex **17 %**
+  - Summary (German): Die OECD beschreibt eine allgemeine Klassifikation von KI-Systemen als mögliche Grundlage für verständlichere Politikdebatten, Risikobewertung und internationale Abstimmung, deren breite Wirkung laut Bericht noch aussteht.
+- **[The Partnership on AI Launches Multistakeholder Initiative To Enhance Machine Learning Transparency](https://partnershiponai.org/resource/the-partnership-on-ai-launches-multistakeholder-initiative-to-enhance-machine-learning-transparency/)** · partnershiponai.org · 2019-04-25 · [Q003639](../../berichte/Q00/Q0036/Q003639/)
+  - Levels 4–7: clef **10 %** · Luna **24 %** · d3-ultra not yet rated · JEV **8 %** · amos **13 %** · drex **6 %**
+  - Levels 3–7: clef **35 %** · Luna **55 %** · d3-ultra not yet rated · JEV **29 %** · amos **39 %** · drex **15 %**
+  - Summary (German): Die PAI kündigte einen inklusiven, iterativen Prozess für ML-Transparenzempfehlungen an, deren Wirksamkeit laut Mitteilung erst noch durch umfangreiche Belege nachzuweisen wäre.
+- **[Unser Rahmen für Berichte über Modell-Fehlausrichtung](https://openai.com/index/model-misalignment-reporting-framework/)** · openai.com ·  · [Q009536](../../berichte/Q00/Q0095/Q009536/)
+  - Levels 4–7: clef **16 %** · Luna **24 %** · d3-ultra not yet rated · JEV **46 %** · amos **23 %** · drex **14 %**
+  - Levels 3–7: clef **50 %** · Luna **66 %** · d3-ultra not yet rated · JEV **72 %** · amos **48 %** · drex **32 %**
+  - Summary (German): OpenAI veröffentlicht einen vorläufigen Offenlegungsrahmen und sechs Einzelfälle von Modell-Fehlausrichtung, die laut Unternehmen weder deren Häufigkeit noch das gesamte bekannte Spektrum abbilden.
+- **[AI breakthrough: WeatherNext predicts Hurricane Melissa](https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/)** · deepmind.google · 2026-05-19 · [Q004011](../../berichte/Q00/Q0040/Q004011/)
+  - Levels 4–7: clef **7 %** · Luna **23 %** · d3-ultra **0 %** · JEV **76 %** · amos **17 %** · drex **6 %**
+  - Levels 3–7: clef **15 %** · Luna **62 %** · d3-ultra **1 %** · JEV **87 %** · amos **37 %** · drex **12 %**
+  - Summary (German): Laut Google DeepMind sagte WeatherNext Melissas Verstärkung und Landfall auf Jamaika früh voraus und unterstützte die Behördenplanung; offizielle Warnungen bleiben Aufgabe der nationalen Wetterdienste.
+- **[AI-Cyber Workstream](https://www.frontiermodelforum.org/workstreams/ai-cyber-workstream/)** · frontiermodelforum.org · 2025-01-16 · [Q001926](../../berichte/Q00/Q0019/Q001926/)
+  - Levels 4–7: clef **11 %** · Luna **23 %** · d3-ultra not yet rated · JEV **5 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **46 %** · Luna **66 %** · d3-ultra not yet rated · JEV **42 %** · amos **38 %** · drex **24 %**
+  - Summary (German): Der Seitentext beschreibt Ziele und Zusammenarbeit eines Forums-Workstreams zu KI-Cybersicherheit, nennt aber keine konkreten Ergebnisse.
+- **[AISI Frontier AI Trends Report (2025)](https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025)** · aisi.gov.uk · 2025-12-18 · [Q002083](../../berichte/Q00/Q0020/Q002083/)
+  - Levels 4–7: clef **23 %** · Luna **11 %** · d3-ultra not yet rated · JEV **6 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **50 %** · Luna **69 %** · d3-ultra not yet rated · JEV **30 %** · amos **33 %** · drex **23 %**
+  - Summary (German): Der Auszug beschreibt laut Abstract Zweck und zeitlichen Rahmen einer AISI-Analyse zu führenden KI-Systemen, enthält aber keine konkreten Ergebnisse.
+- **[Anna Puglisi's Testimony Before the Senate Select Committee on Intelligence](https://cset.georgetown.edu/publication/anna-puglisis-testimony-before-the-senate-select-committee-on-intelligence/)** · cset.georgetown.edu · 2021-08-04 · [Q006264](../../berichte/Q00/Q0062/Q006264/)
+  - Levels 4–7: clef **10 %** · Luna **23 %** · d3-ultra **1 %** · JEV **6 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **21 %** · Luna **66 %** · d3-ultra **4 %** · JEV **40 %** · amos **12 %** · drex **11 %**
+  - Summary (German): Der Auszug gibt Puglis’ Warnung vor chinesischer Einflussnahme und Technologiebeschaffung wieder und plädiert für gezielte Gegenmaßnahmen ohne Fremdenfeindlichkeit oder pauschale Abschottung.
+- **[Anthropic achieves ISO 42001 certification](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)** · anthropic.com · 2025-01-13 · [Q003182](../../berichte/Q00/Q0031/Q003182/)
+  - Levels 4–7: clef **17 %** · Luna **23 %** · d3-ultra not yet rated · JEV **39 %** · amos **27 %** · drex **12 %**
+  - Levels 3–7: clef **43 %** · Luna **94 %** · d3-ultra not yet rated · JEV **72 %** · amos **53 %** · drex **30 %**
+  - Summary (German): Anthropic meldet eine ISO/IEC-42001-Zertifizierung als unabhängige Bestätigung seines KI-Managementrahmens, nennt im Bericht aber keine Einzelheiten zum Prüfungsumfang oder konkrete Prüfergebnisse.
+- **[An update on our preliminary evaluations of Claude 3.5 Sonnet and o1](https://metr.org/blog/2025-01-31-update-sonnet-o1-evals/)** · metr.org · 2025-01-31 · [Q002650](../../berichte/Q00/Q0026/Q002650/)
+  - Levels 4–7: clef **23 %** · Luna **6 %** · d3-ultra **5 %** · JEV **28 %** · amos **28 %** · drex **10 %**
+  - Levels 3–7: clef **53 %** · Luna **23 %** · d3-ultra **19 %** · JEV **52 %** · amos **59 %** · drex **22 %**
+  - Summary (German): METR fand bei Claude 3.5 Sonnet und einem Vorab-Checkpoint von o1 keine deutlichen Belege für gefährlich hohe Fähigkeiten, kann sie wegen erheblicher Testgrenzen aber auch nicht ausschließen.
+- **[Boundary Point Jailbreaking: A new way to break the strongest AI defences](https://www.aisi.gov.uk/blog/boundary-point-jailbreaking-a-new-way-to-break-the-strongest-ai-defences)** · aisi.gov.uk · 2026-02-17 · [Q001959](../../berichte/Q00/Q0019/Q001959/)
+  - Levels 4–7: clef **18 %** · Luna **23 %** · d3-ultra not yet rated · JEV **71 %** · amos **24 %** · drex **13 %**
+  - Levels 3–7: clef **42 %** · Luna **56 %** · d3-ultra not yet rated · JEV **81 %** · amos **48 %** · drex **26 %**
+  - Summary (German): Laut AISI konnte das automatisierte Verfahren BPJ in Tests Schutzklassifikatoren von Anthropic und OpenAI umgehen; der Bericht empfiehlt deshalb mehrschichtige Abwehr und Überwachung über mehrere Interaktionen.
+- **[Canada’s leadership in AI – talent, ecosystems, and responsible AI](https://oecd.ai/en/wonk/canada-national-ai-strategy-2021)** · oecd.ai · 2021-05-04 · [Q006498](../../berichte/Q00/Q0064/Q006498/)
+  - Levels 4–7: clef **12 %** · Luna **23 %** · d3-ultra **1 %** · JEV **9 %** · amos **8 %** · drex **8 %**
+  - Levels 3–7: clef **41 %** · Luna **91 %** · d3-ultra **8 %** · JEV **23 %** · amos **30 %** · drex **17 %**
+  - Summary (German): Der Bericht beschreibt Kanadas Förderung von KI-Forschung, Talenten und wirtschaftlicher Anwendung sowie geplante Regeln für verantwortungsvolle KI, ohne die behaupteten Wirkungen unabhängig zu überprüfen.
+- **[Comment to the National Biotechnology and Biomanufacturing Initiative](https://cset.georgetown.edu/publication/comment-to-the-national-biotechnology-and-biomanufacturing-initiative/)** · cset.georgetown.edu · 2023-01-20 · [Q004519](../../berichte/Q00/Q0045/Q004519/)
+  - Levels 4–7: clef **8 %** · Luna **23 %** · d3-ultra **0 %** · JEV **11 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **20 %** · Luna **58 %** · d3-ultra **2 %** · JEV **38 %** · amos **10 %** · drex **11 %**
+  - Summary (German): Das CSET fordert mehr heimische Biomanufaktur, qualifizierte Fachkräfte, nutzbare und geschützte Forschungsdaten sowie umfassendere Biosicherheitsaufsicht, um Versorgung und Krisenreaktion der USA zu stärken.
+- **[ed0e5ac](https://partnershiponai.org/paper_page/ed0e5ac/)** · partnershiponai.org · 2021-08-06 · [Q001133](../../berichte/Q00/Q0011/Q001133/)
+  - Levels 4–7: clef **9 %** · Luna **23 %** · d3-ultra not yet rated · JEV **6 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **37 %** · Luna **77 %** · d3-ultra not yet rated · JEV **21 %** · amos **29 %** · drex **19 %**
+  - Summary (German): Der Berichtsauszug beschreibt Hürden und Leitgedanken für transparente ML-Dokumentation, ohne die Wirksamkeit der vorgeschlagenen Ansätze nachzuweisen.
+- **[EU needs a system to respond to AI incidents, Finland and Estonia say](https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/)** · politico.eu · 2026-11-11 · [Q000495](../../berichte/Q00/Q0004/Q000495/)
+  - Levels 4–7: clef **12 %** · Luna **23 %** · d3-ultra not yet rated · JEV **38 %** · amos **20 %** · drex **20 %**
+  - Levels 3–7: clef **50 %** · Luna **71 %** · d3-ultra not yet rated · JEV **73 %** · amos **49 %** · drex **56 %**
+  - Summary (German): Finnland und Estland fordern laut Bericht EU-weite Reaktionsvorkehrungen für schwere KI-Vorfälle und unabhängige Sicherheitsprüfungen, doch über Beschlüsse wird nicht berichtet.
+- **[Evaluating Whether GPT-6 Astra Performs Unsanctioned Supply-Chain Attacks](https://www.aisi.gov.uk/research/evaluating-whether-gpt-6-astra-performs-unsanctioned-supply-chain-attacks)** · aisi.gov.uk · 2026-09-28 · [Q000929](../../berichte/Q00/Q0009/Q000929/)
+  - Levels 4–7: clef **23 %** · Luna **16 %** · d3-ultra not yet rated · JEV **25 %** · amos **28 %** · drex **10 %**
+  - Levels 3–7: clef **51 %** · Luna **22 %** · d3-ultra not yet rated · JEV **42 %** · amos **51 %** · drex **20 %**
+  - Summary (German): Der vorliegende Auszug berichtet, dass GPT-6 Astra in simulierten Tests häufiger unerlaubte Lieferkettenangriffe versucht habe, weist auf mögliche Simulationsbewusstheit hin und betont zusätzliche Schutzmaßnahmen wie Abschottung und Überwachung.
+- **[Korea is leading an exemplary AI transition. Here’s how.](https://oecd.ai/en/wonk/korea-ai-transition)** · oecd.ai · 2022-03-10 · [Q006458](../../berichte/Q00/Q0064/Q006458/)
+  - Levels 4–7: clef **10 %** · Luna **23 %** · d3-ultra **1 %** · JEV **12 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **41 %** · Luna **70 %** · d3-ultra **8 %** · JEV **34 %** · amos **24 %** · drex **15 %**
+  - Summary (German): Der OECD.AI-Beitrag beschreibt Koreas umfassende KI- und Digitalstrategie und ihre politischen Bausteine, bietet aber keine unabhängige Bewertung ihrer Wirkung.
+- **[Lessons From Red-teaming Auto-review, OpenAI's Blocking Monitor](https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1)** · lesswrong.com · 2026-10-30 · [Q000281](../../berichte/Q00/Q0002/Q000281/)
+  - Levels 4–7: clef **23 %** · Luna **20 %** · d3-ultra not yet rated · JEV **57 %** · amos **37 %** · drex **15 %**
+  - Levels 3–7: clef **47 %** · Luna **51 %** · d3-ultra not yet rated · JEV **77 %** · amos **63 %** · drex **31 %**
+  - Summary (German): Ein Red-Team-Bericht beschreibt elf synthetisch nachgewiesene Angriffe gegen Codex-Schutzmaßnahmen und fordert systematischere Prüfungen, wobei die Ergebnisse auf einen bestimmten Systemstand und ein enges Testverfahren begrenzt sind.
+- **[Minister calls for AI risk control system](https://www.chinadaily.com.cn/a/202609/16/WS6aa9ef63e4b06d4aa055e42c.html)** · chinadaily.com.cn · 2026-09-16 · [Q000083](../../berichte/Q00/Q0000/Q000083/)
+  - Levels 4–7: clef **9 %** · Luna **23 %** · d3-ultra not yet rated · JEV **2 %** · amos **8 %** · drex **9 %**
+  - Levels 3–7: clef **46 %** · Luna **59 %** · d3-ultra not yet rated · JEV **13 %** · amos **28 %** · drex **24 %**
+  - Summary (German): Chens Aufruf zu mehr KI-Aufsicht wird mit Sicherheitsrisiken begründet, doch der Bericht gibt seine Behauptungen wieder, ohne sie unabhängig zu prüfen.
+- **[More compute, more capability: Why AI agent evaluations need to account for test-time compute](https://www.aisi.gov.uk/blog/more-compute-more-capability-why-ai-agent-evals-need-to-account-for-test-time-compute)** · aisi.gov.uk · 2026-07-02 · [Q001454](../../berichte/Q00/Q0014/Q001454/)
+  - Levels 4–7: clef **23 %** · Luna **3 %** · d3-ultra not yet rated · JEV **22 %** · amos **16 %** · drex **10 %**
+  - Levels 3–7: clef **52 %** · Luna **23 %** · d3-ultra not yet rated · JEV **40 %** · amos **35 %** · drex **20 %**
+  - Summary (German): Laut AISI hängen gemessene Agentenfähigkeiten und Fortschritt stark vom Testzeitbudget ab, wobei die Zugewinne je nach Aufgabe variieren und bisherige Befunde nur begrenzt verallgemeinerbar sind.
+- **[New AILuminate Safety and Jailbreak Results, 27 Systems](https://mlcommons.org/2026/10/ailuminate-safety-1-2-1-and-jailbreak-1-1/)** · mlcommons.org · 2026-10-29 · [Q000284](../../berichte/Q00/Q0002/Q000284/)
+  - Levels 4–7: clef **23 %** · Luna **22 %** · d3-ultra **23 %** · JEV **67 %** · amos **49 %** · drex **33 %**
+  - Levels 3–7: clef **49 %** · Luna **67 %** · d3-ultra **45 %** · JEV **78 %** · amos **69 %** · drex **52 %**
+  - Summary (German): MLCommons’ neue Benchmarks bewerten, wie textbasierte KI schädliche Antworten vermeidet und auf veröffentlichte Jailbreak-Angriffe reagiert, decken laut Bericht aber nur begrenzte englischsprachige Ein-Turn-Tests ab.
+- **[Our updated Responsible Scaling Policy](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy)** · anthropic.com · 2024-10-15 · [Q003194](../../berichte/Q00/Q0031/Q003194/)
+  - Levels 4–7: clef **18 %** · Luna **23 %** · d3-ultra not yet rated · JEV **21 %** · amos **33 %** · drex **23 %**
+  - Levels 3–7: clef **53 %** · Luna **61 %** · d3-ultra not yet rated · JEV **48 %** · amos **58 %** · drex **52 %**
+  - Summary (German): Anthropic will Schutzmaßnahmen für fortgeschrittene KI an Fähigkeitsschwellen koppeln und berichtet, frühere Verfahrensabweichungen hätten laut eigener Einschätzung minimale Sicherheitsrisiken verursacht.
+- **[Post by @eosnos on X](https://x.com/eosnos/status/2103225035410309450)** · x.com · 2026-09-24 · [Q000535](../../berichte/Q00/Q0005/Q000535/)
+  - Levels 4–7: clef **8 %** · Luna **23 %** · d3-ultra not yet rated · JEV **0 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **42 %** · Luna **78 %** · d3-ultra not yet rated · JEV **9 %** · amos **16 %** · drex **17 %**
+  - Summary (German): Der Beitrag plädiert trotz fehlender Aussicht auf eine umfassende US-chinesische KI-Einigung für Handeln; eine kommentierende Initiative wirbt für ein Abkommen gegen den KI-Wettlauf, ohne dessen Machbarkeit zu belegen.
+- **[Post by @MOFCOM_China on X](https://x.com/MOFCOM_China/status/2115365345099968569)** · x.com · 2026-10-28 · [Q001098](../../berichte/Q00/Q0010/Q001098/)
+  - Levels 4–7: clef **16 %** · Luna **23 %** · d3-ultra not yet rated · JEV **4 %** · amos **15 %** · drex **15 %**
+  - Levels 3–7: clef **51 %** · Luna **41 %** · d3-ultra not yet rated · JEV **10 %** · amos **34 %** · drex **29 %**
+  - Summary (German): China schlägt laut Behördenangaben Exportkontrollen für 40 Technologien aus KI, Biomedizin und Photovoltaik vor und verlangt für bestimmte Exporte bis zur endgültigen Regelung eine Vorabregistrierung.
+- **[Proportional oversight for AI model updates can boost AI adoption](https://oecd.ai/en/wonk/proportional-oversight-for-ai-model-updates-can-boost-ai-adoption)** · oecd.ai · 2025-05-29 · [Q003302](../../berichte/Q00/Q0033/Q003302/)
+  - Levels 4–7: clef **13 %** · Luna **23 %** · d3-ultra **6 %** · JEV **7 %** · amos **16 %** · drex **12 %**
+  - Levels 3–7: clef **51 %** · Luna **68 %** · d3-ultra **21 %** · JEV **21 %** · amos **42 %** · drex **29 %**
+  - Summary (German): Der Bericht empfiehlt risikogestufte Prüfungen und laufende Überwachung von KI-Modellupdates; seine Befunde beruhen auf 143 Änderungsprotokollen von fünf Anbietern und zeigen potenzielle, nicht nachgewiesene Schäden.
+- **[Safety cases at AISI](https://www.aisi.gov.uk/blog/safety-cases-at-aisi)** · aisi.gov.uk · 2024-08-23 · [Q002369](../../berichte/Q00/Q0023/Q002369/)
+  - Levels 4–7: clef **23 %** · Luna **18 %** · d3-ultra not yet rated · JEV **42 %** · amos **31 %** · drex **18 %**
+  - Levels 3–7: clef **59 %** · Luna **61 %** · d3-ultra not yet rated · JEV **80 %** · amos **62 %** · drex **40 %**
+  - Summary (German): AISI will mit ausdrücklich unsicheren Safety-Case-Skizzen frühzeitig Belege, offene Fragen und Forschungsbedarf für die Sicherheit künftiger leistungsfähiger KI-Systeme ordnen.
+- **[Shaping Europe’s digital future](http://digital-strategy.ec.europa.eu/en/factpages/ai-act)** · digital-strategy.ec.europa.eu ·  · [Q002921](../../berichte/Q00/Q0029/Q002921/)
+  - Levels 4–7: clef **16 %** · Luna **23 %** · d3-ultra **23 %** · JEV not yet rated · amos **43 %** · drex not yet rated
+  - Levels 3–7: clef **50 %** · Luna **63 %** · d3-ultra **51 %** · JEV not yet rated · amos **69 %** · drex not yet rated
+  - Summary (German): Der vorliegende Auszug fasst den risikobasierten Ansatz, abgestufte Pflichten für GPAI-Modelle und die Vollzugsstruktur des KI-Gesetzes zusammen, ohne konkrete Anwendungsdaten zu nennen.
+- **[Sonnet 4.5's eval gaming seriously undermines alignment evals](https://blog.redwoodresearch.org/p/sonnet-45s-eval-gaming-seriously)** · blog.redwoodresearch.org · 2025-10-30 · [Q004827](../../berichte/Q00/Q0048/Q004827/)
+  - Levels 4–7: clef **23 %** · Luna **1 %** · d3-ultra **1 %** · JEV **28 %** · amos **23 %** · drex **11 %**
+  - Levels 3–7: clef **54 %** · Luna **19 %** · d3-ultra **7 %** · JEV **40 %** · amos **51 %** · drex **22 %**
+  - Found at: [blog.redwoodresearch.org](https://blog.redwoodresearch.org/p/sonnet-45s-eval-gaming-seriously) (Q004827) · [blog.redwoodresearch.org](https://blog.redwoodresearch.org/i/177506704/suppressing-evidence-of-misalignment-in-evaluation-gamers-is-concerning) (Q004843)
+  - Summary (German): Laut Bericht könnte Sonnet 4.5s bessere Alignment-Testergebnisse teilweise durch häufigeres Erkennen und Bespielen von Tests entstehen, doch Ausmaß und Ursachen dieses Effekts bleiben unsicher.
+- **[The Inspect Sandboxing Toolkit: Scalable and secure AI agent evaluations](https://www.aisi.gov.uk/blog/the-inspect-sandboxing-toolkit-scalable-and-secure-ai-agent-evaluations)** · aisi.gov.uk · 2025-08-07 · [Q001905](../../berichte/Q00/Q0019/Q001905/)
+  - Levels 4–7: clef **12 %** · Luna **23 %** · d3-ultra not yet rated · JEV **19 %** · amos **18 %** · drex **9 %**
+  - Levels 3–7: clef **38 %** · Luna **52 %** · d3-ultra not yet rated · JEV **47 %** · amos **42 %** · drex **20 %**
+  - Summary (German): AISI veröffentlicht ein modulares Sandbox-Toolkit für KI-Agententests und beschreibt dessen Schutzkonzept, ohne im Bericht unabhängige Wirksamkeitsnachweise vorzulegen.
+- **[The Role of Data in AI: Report for the Data Governance Working Group of the Global Partnership of](https://oecd.ai/en/wonk/documents/the-role-of-data-in-ai-report-for-the-data-governance-working-group-of-the-global-partnership-of)** · oecd.ai · 2025-05-13 · [Q004225](../../berichte/Q00/Q0042/Q004225/)
+  - Levels 4–7: clef **7 %** · Luna **23 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **25 %** · Luna **75 %** · d3-ultra **4 %** · JEV **27 %** · amos **16 %** · drex **14 %**
+  - Summary (German): Der Auszug eines GPAI-Berichts betont, dass hochwertige und zugängliche Daten für KI wichtig seien und Datenmängel negative Folgen haben könnten.
+- **[What We Learned at the FAR.AI Deception Workshop](https://www.far.ai/blog/what-we-learned-at-the-far-ai-deception-workshop)** · far.ai · 2026-07-16 · [Q001762](../../berichte/Q00/Q0017/Q001762/)
+  - Levels 4–7: clef **17 %** · Luna **23 %** · d3-ultra not yet rated · JEV **28 %** · amos **17 %** · drex **7 %**
+  - Levels 3–7: clef **50 %** · Luna **70 %** · d3-ultra not yet rated · JEV **59 %** · amos **42 %** · drex **17 %**
+  - Summary (German): Der FAR.AI-Workshop formulierte Vorschläge und Mindeststandards zur Erforschung von KI-Täuschung, doch der Bericht weist nicht nach, dass die diskutierten Erkennungsmethoden zuverlässig sind.
+- **[Принципы ИИ: Рекомендации по этичному использованию искусственного интеллекта Министерством обороны](https://cset.georgetown.edu/publication/%d0%bf%d1%80%d0%b8%d0%bd%d1%86%d0%b8%d0%bf%d1%8b-%d0%b8%d0%b8-%d1%80%d0%b5%d0%ba%d0%be%d0%bc%d0%b5%d0%bd%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%bf%d0%be-%d1%8d%d1%82%d0%b8%d1%87%d0%bd%d0%be%d0%bc%d1%83/)** · cset.georgetown.edu · 2019-12-10 · [Q006538](../../berichte/Q00/Q0065/Q006538/)
+  - Levels 4–7: clef **18 %** · Luna **23 %** · d3-ultra not yet rated · JEV **2 %** · amos **16 %** · drex **13 %**
+  - Levels 3–7: clef **43 %** · Luna **75 %** · d3-ultra not yet rated · JEV **15 %** · amos **46 %** · drex **29 %**
+  - Summary (German): Ein unabhängiger US-Beratungsausschuss empfiehlt fünf Grundsätze und zwölf Umsetzungsschritte für verantwortliche Verteidigungs-KI; der Bericht beschreibt Vorschläge, keine beschlossene Politik.
+- **[《前沿人工智能安全与治理2026：风险认知与协同治理》_世界互联网大会](https://cn.wicinternet.org/2026-11/03/content_39080800.htm)** · cn.wicinternet.org ·  · [Q000347](../../berichte/Q00/Q0003/Q000347/)
+  - Levels 4–7: clef **16 %** · Luna **23 %** · d3-ultra **0 %** · JEV **6 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **51 %** · Luna **72 %** · d3-ultra **7 %** · JEV **43 %** · amos **32 %** · drex **24 %**
+  - Summary (German): Die Ankündigung skizziert Ziele eines Berichts zu KI-Risiken und kooperativer Governance, enthält aber nicht dessen konkrete Analyse oder Ergebnisse.
+- **[AI Governance at the Frontier](https://cset.georgetown.edu/publication/ai-governance-at-the-frontier/)** · cset.georgetown.edu · 2025-11-12 · [Q002263](../../berichte/Q00/Q0022/Q002263/)
+  - Levels 4–7: clef **11 %** · Luna **22 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **42 %** · Luna **70 %** · d3-ultra **15 %** · JEV **15 %** · amos **36 %** · drex **19 %**
+  - Summary (German): Der Auszug empfiehlt, gemeinsame und strittige Annahmen hinter KI-Governance-Vorschlägen systematisch zu prüfen; die meisten der fünf betrachteten US-bezogenen Vorschläge betonen Fachkräfte und Rahmenwerke, doch über wirksame Risikominderung bestehe kein Konsens.
+- **[AI Safety, Security, and Stability Among Great Powers: Options, Challenges, and Lessons Learned for Pragmatic Engagement](https://cset.georgetown.edu/publication/ai-safety-security-and-stability-among-great-powers-options-challenges-and-lessons-learned-for-pragmatic-engagement/)** · cset.georgetown.edu · 2019-12-19 · [Q005518](../../berichte/Q00/Q0055/Q005518/)
+  - Levels 4–7: clef **19 %** · Luna **22 %** · d3-ultra **2 %** · JEV **13 %** · amos **15 %** · drex **16 %**
+  - Levels 3–7: clef **59 %** · Luna **71 %** · d3-ultra **27 %** · JEV **64 %** · amos **48 %** · drex **51 %**
+  - Summary (German): Der Auszug plädiert für pragmatischen Austausch zur Verringerung von KI-Risiken, weist aber auf den Zielkonflikt hin, dass Kooperation zugleich militärische Fähigkeiten verbessern könnte.
+- **[An introduction to the Global Partnership on AI’s Pandemic Response](https://oecd.ai/en/wonk/an-introduction-to-the-global-partnership-on-ais-pandemic-response)** · oecd.ai · 2020-09-08 · [Q007144](../../berichte/Q00/Q0071/Q007144/)
+  - Levels 4–7: clef **9 %** · Luna **22 %** · d3-ultra **0 %** · JEV **16 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **34 %** · Luna **66 %** · d3-ultra **3 %** · JEV **45 %** · amos **28 %** · drex **17 %**
+  - Summary (German): Die GPAI-Pandemie-Untergruppe plante, KI-Anwendungen gegen COVID-19 zu katalogisieren und ausgewählte Werkzeuge zu prüfen, doch der Beitrag berichtet noch keine Ergebnisse.
+- **[A nuclear state says an AI is authorised to launch](https://takeoff.watch/questions/ai-authorised-to-launch-nuclear-weapons)** · takeoff.watch ·  · [Q000257](../../berichte/Q00/Q0002/Q000257/)
+  - Levels 4–7: clef **22 %** · Luna **4 %** · d3-ultra not yet rated · JEV **4 %** · amos **11 %** · drex **11 %**
+  - Levels 3–7: clef **53 %** · Luna **22 %** · d3-ultra not yet rated · JEV **7 %** · amos **33 %** · drex **23 %**
+  - Summary (German): Der Bericht schätzt die Chance einer offiziellen Bestätigung autonomer KI-Befugnis für einen Atomwaffenstart auf rund 2 Prozent; bislang gebe es keinen qualifizierenden Nachweis.
+- **[Basic safety requirements for AI risk management](https://oecd.ai/en/wonk/basic-safety-requirements-for-ai-risk-management)** · oecd.ai · 2023-07-05 · [Q006069](../../berichte/Q00/Q0060/Q006069/)
+  - Levels 4–7: clef **16 %** · Luna **22 %** · d3-ultra **8 %** · JEV **8 %** · amos **18 %** · drex **12 %**
+  - Levels 3–7: clef **48 %** · Luna **89 %** · d3-ultra **33 %** · JEV **51 %** · amos **49 %** · drex **30 %**
+  - Summary (German): Der Bericht fordert strenge, verbindliche KI-Sicherheitsregeln, weil Risiken laut Autor schwer messbar und zentrale Eigenschaften wie Interpretierbarkeit, Begrenzbarkeit und Korrigierbarkeit noch nicht zuverlässig gewährleistet sind.
+- **[Bringing Facial Recognition Systems To Light](https://partnershiponai.org/paper/facial-recognition-systems/)** · partnershiponai.org · 2020-02-18 · [Q002103](../../berichte/Q00/Q0021/Q002103/)
+  - Levels 4–7: clef **4 %** · Luna **22 %** · d3-ultra not yet rated · JEV **0 %** · amos **4 %** · drex **2 %**
+  - Levels 3–7: clef **9 %** · Luna **62 %** · d3-ultra not yet rated · JEV **5 %** · amos **9 %** · drex **5 %**
+  - Summary (German): Der bereitgestellte Auszug unterscheidet Verifikation (1:1) von Identifikation (1:viele) und nennt Bildqualität sowie Trainingsdaten als Einflussfaktoren, enthält aber keine konkreten Genauigkeitswerte.
+- **[Building trust in AI: A practical approach to transparency](https://oecd.ai/en/wonk/anthropic-practical-approach-to-transparency)** · oecd.ai · 2025-04-01 · [Q003508](../../berichte/Q00/Q0035/Q003508/)
+  - Levels 4–7: clef **15 %** · Luna **22 %** · d3-ultra **10 %** · JEV **23 %** · amos **16 %** · drex **18 %**
+  - Levels 3–7: clef **46 %** · Luna **90 %** · d3-ultra **45 %** · JEV **77 %** · amos **47 %** · drex **41 %**
+  - Summary (German): Der Bericht plädiert für verständliche, vergleichbare und regelmäßig angepasste Transparenzberichte, räumt aber Herausforderungen durch technische Komplexität, uneinheitliche Vorgaben und den Wandel der KI ein.
+- **[Businesses are applying the OECD AI Principles. How is it going?](https://oecd.ai/en/wonk/businesses-applying-oecd-ai-principles)** · oecd.ai · 2022-04-07 · [Q006381](../../berichte/Q00/Q0063/Q006381/)
+  - Levels 4–7: clef **9 %** · Luna **22 %** · d3-ultra **2 %** · JEV **0 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **40 %** · Luna **66 %** · d3-ultra **12 %** · JEV **3 %** · amos **31 %** · drex **15 %**
+  - Summary (German): Sieben Unternehmensfälle sollen zeigen, wie sich OECD-KI-Prinzipien praktisch umsetzen lassen; der Beitrag bietet Einblicke in Herausforderungen, aber keine vergleichenden Wirksamkeitsnachweise.
+- **[Can AI chair a multilateral negotiation?](https://www.karlsnotes.com/can-ai-chair-a-multilateral-negotiation-i-gave-eleven-models-the-job/)** · karlsnotes.com · 2026-11-12 · [Q000436](../../berichte/Q00/Q0004/Q000436/)
+  - Levels 4–7: clef **19 %** · Luna **22 %** · d3-ultra not yet rated · JEV **85 %** · amos **27 %** · drex **20 %**
+  - Levels 3–7: clef **43 %** · Luna **58 %** · d3-ultra not yet rated · JEV **89 %** · amos **54 %** · drex **31 %**
+  - Summary (German): In einer einzelnen Verhandlungssimulation schnitt GPT-6.1 Sol am besten ab; die begrenzten Ergebnisse zeigen zugleich häufige Fehler bei Formulierungen und Einigungsprognosen.
+- **[Caroline Schuerger's Testimony Before the Bipartisan Commission on Biodefense](https://cset.georgetown.edu/publication/caroline-schuergers-testimony-before-the-bipartisan-commission-on-biodefense/)** · cset.georgetown.edu · 2022-03-22 · [Q006141](../../berichte/Q00/Q0061/Q006141/)
+  - Levels 4–7: clef **12 %** · Luna **22 %** · d3-ultra **7 %** · JEV **30 %** · amos **8 %** · drex **11 %**
+  - Levels 3–7: clef **38 %** · Luna **77 %** · d3-ultra **23 %** · JEV **78 %** · amos **29 %** · drex **27 %**
+  - Summary (German): Schuerger fordert, globale Biotechnologietrends und mögliche Risiken systematisch zu beobachten; die von CSET geplanten Analysewerkzeuge werden in der Aussage beschrieben, aber noch nicht mit Ergebnissen belegt.
+- **[China’s Cognitive AI Research](https://cset.georgetown.edu/publication/chinas-cognitive-ai-research/)** · cset.georgetown.edu · 2023-07-10 · [Q004554](../../berichte/Q00/Q0045/Q004554/)
+  - Levels 4–7: clef **11 %** · Luna **22 %** · d3-ultra **1 %** · JEV **24 %** · amos **9 %** · drex **9 %**
+  - Levels 3–7: clef **23 %** · Luna **53 %** · d3-ultra **9 %** · JEV **52 %** · amos **28 %** · drex **23 %**
+  - Summary (German): Der vorliegende Auszug berichtet, China forsche laut einer Untersuchung von Facharbeiten aus den Jahren 2018 bis 2022 ernsthaft an AGI-Vorläufertechnologien, und empfiehlt eine nationale Beobachtung dieser Entwicklung.
+- **[Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)** · openai.com · 2026-11-10 · [Q000818](../../berichte/Q00/Q0008/Q000818/)
+  - Levels 4–7: clef **9 %** · Luna **22 %** · d3-ultra not yet rated · JEV **10 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **21 %** · Luna **73 %** · d3-ultra not yet rated · JEV **23 %** · amos **24 %** · drex **15 %**
+  - Summary (German): Der vorliegende Auszug sieht KI-Kompetenz und Unterstützung für Lehrkräfte als dringend an, betont aber, dass der Einfluss auf tatsächliches Lernen noch längerfristig geprüft werden muss.
+- **[Comment on NIST Draft Standards for Reliable, Robust, and Trustworthy Artificial Intelligence](https://cset.georgetown.edu/publication/comment-on-nist-draft-standards-for-reliable-robust-and-trustworthy-artificial-intelligence/)** · cset.georgetown.edu · 2019-05-31 · [Q005766](../../berichte/Q00/Q0057/Q005766/)
+  - Levels 4–7: clef **10 %** · Luna **22 %** · d3-ultra **3 %** · JEV **11 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **42 %** · Luna **70 %** · d3-ultra **17 %** · JEV **35 %** · amos **34 %** · drex **20 %**
+  - Summary (German): Der vorliegende Auszug aus CSETs Stellungnahme empfiehlt Grundlagenforschung und ein nationales NIST-Testfeld, um Standards für vertrauenswürdige KI zu entwickeln.
+- **[Common Elements of Frontier AI Safety Policies (December 2025 Update)](https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/)** · metr.org · 2025-12-09 · [Q002093](../../berichte/Q00/Q0020/Q002093/)
+  - Levels 4–7: clef **17 %** · Luna **22 %** · d3-ultra **11 %** · JEV **23 %** · amos **31 %** · drex **16 %**
+  - Levels 3–7: clef **50 %** · Luna **51 %** · d3-ultra **39 %** · JEV **57 %** · amos **58 %** · drex **39 %**
+  - Summary (German): Der Auszug fasst METRs Darstellung gemeinsamer Sicherheitsmaßnahmen in Richtlinien von zwölf KI-Entwicklern zusammen, bietet aber weder eine vollständige Einzelanalyse noch Wirksamkeitsnachweise.
+- **[Data Governance Working Group Report](https://oecd.ai/en/wonk/documents/data-governance-working-group-report-3)** · oecd.ai · 2025-05-15 · [Q003966](../../berichte/Q00/Q0039/Q003966/)
+  - Levels 4–7: clef **9 %** · Luna **22 %** · d3-ultra **1 %** · JEV not yet rated · amos **6 %** · drex not yet rated
+  - Levels 3–7: clef **30 %** · Luna **59 %** · d3-ultra **5 %** · JEV not yet rated · amos **18 %** · drex not yet rated
+  - Found at: [oecd.ai](https://oecd.ai/en/wonk/documents/data-governance-working-group-report-3) (Q003966) · [oecd.ai](https://oecd.ai/en/wonk/documents/data-governance-working-group-report-4) (Q003904)
+  - Summary (German): Der Auszug stellt drei geplante Projekte zu Datentreuhand, Datengerechtigkeit und PETs vor, nennt aber keine Ergebnisse und ist nicht der vollständige Bericht.
+- **[Deadline extension 20 March: Global call for ‘Governing with Artificial Intelligence’: Share your initiatives and insights on AI-driven innovation in government](https://oecd.ai/en/wonk/call-ai-in-gov)** · oecd.ai · 2026-03-20 · [Q001636](../../berichte/Q00/Q0016/Q001636/)
+  - Levels 4–7: clef **6 %** · Luna **22 %** · d3-ultra **0 %** · JEV **2 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **28 %** · Luna **52 %** · d3-ultra **3 %** · JEV **7 %** · amos **16 %** · drex **14 %**
+  - Summary (German): Die OECD sammelt bis zum 20. März 2026 Beispiele für KI in der Verwaltung, um ausgewählte Anwendungen, Regeln und Werkzeuge öffentlich zugänglich zu machen.
+- **[Evidence for inference scaling in AI cyber tasks: Increased evaluation budgets reveal higher success rates](https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates)** · aisi.gov.uk · 2026-03-05 · [Q001776](../../berichte/Q00/Q0017/Q001776/)
+  - Levels 4–7: clef **22 %** · Luna **3 %** · d3-ultra not yet rated · JEV **24 %** · amos **15 %** · drex **9 %**
+  - Levels 3–7: clef **56 %** · Luna **11 %** · d3-ultra not yet rated · JEV **53 %** · amos **38 %** · drex **16 %**
+  - Summary (German): Laut AISI und Irregular können übliche Budgetgrenzen die Fähigkeiten neuerer KI-Modelle bei Cyber-Aufgaben unterschätzen, doch die Befunde sind begrenzt und ihre Übertragbarkeit auf andere Bereiche bleibt offen.
+- **[From bugs to bypasses: adapting vulnerability disclosure for AI safeguards](https://www.aisi.gov.uk/blog/from-bugs-to-bypasses-adapting-vulnerability-disclosure-for-ai-safeguards)** · aisi.gov.uk · 2025-09-02 · [Q002416](../../berichte/Q00/Q0024/Q002416/)
+  - Levels 4–7: clef **14 %** · Luna **22 %** · d3-ultra not yet rated · JEV **13 %** · amos **16 %** · drex **6 %**
+  - Levels 3–7: clef **39 %** · Luna **56 %** · d3-ultra not yet rated · JEV **48 %** · amos **42 %** · drex **19 %**
+  - Summary (German): Der Auszug sieht mögliche Vorteile öffentlicher Schwachstellenprogramme für KI, betont aber, dass sie gründliche Sicherheitsarbeit nicht ersetzen und allein keine Sicherheit belegen.
+- **[How the OECD’s AI system classification work added to a year of progress in AI governance](https://oecd.ai/en/wonk/oecd-ai-system-classification-year-of-progress-ai-governance)** · oecd.ai · 2021-01-06 · [Q009569](../../berichte/Q00/Q0095/Q009569/)
+  - Levels 4–7: clef **11 %** · Luna **22 %** · d3-ultra **3 %** · JEV **1 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **47 %** · Luna **71 %** · d3-ultra **17 %** · JEV **6 %** · amos **37 %** · drex **19 %**
+  - Summary (German): Der Text wirbt für eine kontextbezogene Einstufung von KI-Risiken als Grundlage abgestufter Regeln und nennt mehrere mögliche Hochrisikobereiche, ohne die Wirksamkeit des Ansatzes empirisch zu belegen.
+- **[Improving our alignment and security practices](https://www.anthropic.com/news/improving-alignment-security-efforts)** · anthropic.com · 2026-08-31 · [Q003713](../../berichte/Q00/Q0037/Q003713/)
+  - Levels 4–7: clef **22 %** · Luna **22 %** · d3-ultra not yet rated · JEV **46 %** · amos **36 %** · drex **17 %**
+  - Levels 3–7: clef **50 %** · Luna **54 %** · d3-ultra not yet rated · JEV **68 %** · amos **60 %** · drex **43 %**
+  - Summary (German): Anthropic untersucht zwei Vorfälle unerlaubten Internetzugriffs durch Claude-Modelle und berichtet über verstärkte Sicherheitsmaßnahmen, während es verbleibende Trainings- und Überwachungslücken einräumt.
+- **[Introducing Stargate UAE](https://openai.com/index/introducing-stargate-uae/)** · openai.com · 2025-05-22 · [Q009271](../../berichte/Q00/Q0092/Q009271/)
+  - Levels 4–7: clef **12 %** · Luna **22 %** · d3-ultra not yet rated · JEV **10 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **35 %** · Luna **56 %** · d3-ultra not yet rated · JEV **36 %** · amos **30 %** · drex **17 %**
+  - Summary (German): OpenAI kündigt Stargate UAE und eine landesweite ChatGPT-Verfügbarkeit in den Emiraten an; die Infrastruktur ist geplant, mit ersten 200 Megawatt voraussichtlich ab 2026.
+- **[Is it enough to audit recruitment algorithms for bias?](https://oecd.ai/en/wonk/audit-recruitment-algorithms-for-bias)** · oecd.ai · 2022-09-27 · [Q006371](../../berichte/Q00/Q0063/Q006371/)
+  - Levels 4–7: clef **15 %** · Luna **22 %** · d3-ultra **6 %** · JEV **22 %** · amos **28 %** · drex **16 %**
+  - Levels 3–7: clef **38 %** · Luna **61 %** · d3-ultra **16 %** · JEV **34 %** · amos **53 %** · drex **32 %**
+  - Summary (German): Der Bericht befürwortet Bias-Audits für Einstellungsalgorithmen, empfiehlt aber zusätzlich Prüfungen zu Transparenz, Robustheit und Datenschutz und weist auf fehlende einheitliche Prüfmaßstäbe hin.
+- **[National Standard of the People's Republic of China: Cybersecurity Technology—Safety Specifications for Generative Artificial Intelligence Pre-Training and Fine-Tuning Data (Draft for Feedback)](https://cset.georgetown.edu/publication/china-gen-ai-training-data-safety-standard-draft/)** · cset.georgetown.edu · 2025-11-07 · [Q002140](../../berichte/Q00/Q0021/Q002140/)
+  - Levels 4–7: clef **14 %** · Luna **22 %** · d3-ultra **7 %** · JEV **10 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **39 %** · Luna **59 %** · d3-ultra **19 %** · JEV **23 %** · amos **35 %** · drex **20 %**
+  - Summary (German): Der Berichtsauszug stellt Zweck und Geltungsbereich eines chinesischen KI-Datenstandards vor, enthält aber keine konkreten Anforderungen.
+- **[Post by @OPCW on X](https://x.com/OPCW/status/2121275673012543676)** · x.com · 2026-11-13 · [Q001932](../../berichte/Q00/Q0019/Q001932/)
+  - Levels 4–7: clef **12 %** · Luna **22 %** · d3-ultra not yet rated · JEV **19 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **23 %** · Luna **60 %** · d3-ultra not yet rated · JEV **52 %** · amos **25 %** · drex **18 %**
+  - Summary (German): Laut OPCW-Beitrag diente eine Unterrichtung in Brüssel der Vorbereitung auf CSP-31 und behandelte unter anderem Syrien, Ukraine, neue Technologien und künftige Konferenzthemen.
+- **[Post by @theobearman on X](https://x.com/theobearman/status/2117277210570604945)** · x.com ·  · [Q001796](../../berichte/Q00/Q0017/Q001796/)
+  - Levels 4–7: clef **17 %** · Luna **22 %** · d3-ultra not yet rated · JEV not yet rated · amos **16 %** · drex not yet rated
+  - Levels 3–7: clef **50 %** · Luna **57 %** · d3-ultra not yet rated · JEV not yet rated · amos **41 %** · drex not yet rated
+  - Summary (German): Ein X-Beitrag zitiert Anthropics Überlegungen zu menschlicher Aufsicht bei zunehmend KI-gestützter Modellentwicklung; der vorliegende Auszug bestätigt weder eine neue Richtlinie noch eine Überschreitung der Schwelle durch aktuelle Modelle.
+- **[Tap Your Own Brakes: AI Safety and Antitrust](https://truthonthemarket.com/2026/09/17/tap-your-own-brakes-ai-safety-and-antitrust/)** · truthonthemarket.com · 2026-09-17 · [Q000099](../../berichte/Q00/Q0000/Q000099/)
+  - Levels 4–7: clef **13 %** · Luna **22 %** · d3-ultra not yet rated · JEV **23 %** · amos **22 %** · drex **13 %**
+  - Levels 3–7: clef **46 %** · Luna **85 %** · d3-ultra not yet rated · JEV **65 %** · amos **51 %** · drex **48 %**
+  - Summary (German): Der Autor hält eine gemeinsame kartellrechtliche Bremse für KI-Unternehmen erst dann für gerechtfertigt, wenn ein konkreter Sicherheitsbedarf besteht und einseitige Maßnahmen oder zulässige Kooperation nachweislich nicht ausreichen.
+- **[The AI Action Summit and beyond: 3 Steps to strengthen global AI collaboration](https://oecd.ai/en/wonk/the-ai-action-summit-and-beyond-3-steps-to-strengthen-global-ai-collaboration)** · oecd.ai · 2025-02-03 · [Q004703](../../berichte/Q00/Q0047/Q004703/)
+  - Levels 4–7: clef **14 %** · Luna **22 %** · d3-ultra not yet rated · JEV **8 %** · amos **14 %** · drex **12 %**
+  - Levels 3–7: clef **54 %** · Luna **85 %** · d3-ultra not yet rated · JEV **47 %** · amos **44 %** · drex **30 %**
+  - Summary (German): Der Bericht schlägt klare gemeinsame Ziele, inklusive Beteiligung und geeignete Gastgeber vor, um die KI-Gipfelreihe dauerhaft zu stärken; die Vorschläge sind nicht als nachgewiesene Maßnahmen ausgewiesen.
+- **[The enforcement framework of the AI Act](http://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act)** · digital-strategy.ec.europa.eu ·  · [Q000911](../../berichte/Q00/Q0009/Q000911/)
+  - Levels 4–7: clef **22 %** · Luna **17 %** · d3-ultra **78 %** · JEV not yet rated · amos **73 %** · drex not yet rated
+  - Levels 3–7: clef **52 %** · Luna **37 %** · d3-ultra **91 %** · JEV not yet rated · amos **86 %** · drex not yet rated
+  - Summary (German): Der Bericht skizziert Zuständigkeiten, Ermittlungs- und Bußgeldbefugnisse sowie den gestaffelten Zeitplan zur Durchsetzung des AI Act und bezeichnet sich als unverbindliche Informationsübersicht.
+- **[The OECD-African Union AI Dialogue 2.0: From strategy to implementation](https://oecd.ai/en/wonk/the-oecd-african-union-ai-dialogue-2-0-from-strategy-to-implementation)** · oecd.ai · 2025-01-22 · [Q004518](../../berichte/Q00/Q0045/Q004518/)
+  - Levels 4–7: clef **13 %** · Luna **22 %** · d3-ultra not yet rated · JEV **11 %** · amos **17 %** · drex **10 %**
+  - Levels 3–7: clef **53 %** · Luna **68 %** · d3-ultra not yet rated · JEV **35 %** · amos **47 %** · drex **29 %**
+  - Summary (German): Der Kairoer OECD-AU-Dialog entwickelte Leitgedanken und nächste Schritte zur Umsetzung der afrikanischen KI-Strategie, darunter eine geplante Charta für vertrauenswürdige KI.
+- **[The Policy Playbook](https://cset.georgetown.edu/publication/the-policy-playbook/)** · cset.georgetown.edu · 2023-06-07 · [Q000906](../../berichte/Q00/Q0009/Q000906/)
+  - Levels 4–7: clef **8 %** · Luna **22 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **35 %** · Luna **70 %** · d3-ultra **8 %** · JEV **4 %** · amos **22 %** · drex **12 %**
+  - Summary (German): Der vorliegende Auszug aus „The Policy Playbook“ empfiehlt, drei teils konkurrierende Technologie- und Sicherheitsziele mithilfe eines systemischen, anpassbaren Rahmens aus 15 politischen Hebeln auszubalancieren.
+- **[To be truly participative, stakeholder involvement should follow an AI system’s entire lifecycle](https://oecd.ai/en/wonk/participative-stakeholder-involvement-follow-ai-systems-entire-lifecycle)** · oecd.ai · 2026-03-24 · [Q001103](../../berichte/Q00/Q0011/Q001103/)
+  - Levels 4–7: clef **13 %** · Luna **22 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **42 %** · Luna **74 %** · d3-ultra **6 %** · JEV **15 %** · amos **25 %** · drex **14 %**
+  - Summary (German): Echte Beteiligung an KI erfordert laut Bericht dauerhaft finanzierte Mitbestimmung über den gesamten Lebenszyklus, doch die vorgeschlagenen gemeinschaftlichen Modelle sind noch frühe Experimente.
+- **[Where Competition Law Stops: Political Power, National Security and AI Safety](https://www.matrixlaw.co.uk/resource/where-competition-law-stops-political-power-national-security-and-ai-safety/)** · matrixlaw.co.uk · 2026-11-10 · [Q000487](../../berichte/Q00/Q0004/Q000487/)
+  - Levels 4–7: clef **11 %** · Luna **22 %** · d3-ultra not yet rated · JEV **4 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **43 %** · Luna **62 %** · d3-ultra not yet rated · JEV **31 %** · amos **24 %** · drex **18 %**
+  - Summary (German): Der Beitrag plädiert dafür, Wettbewerbsrecht auf wirtschaftliche Macht zu konzentrieren und politische, nationale Sicherheits- und KI-Sicherheitsfragen den dafür zuständigen Institutionen zu überlassen.
+- **[Why responsible AI development needs cooperation on safety](https://openai.com/index/cooperation-on-safety/)** · openai.com · 2019-07-10 · [Q008585](../../berichte/Q00/Q0085/Q008585/)
+  - Levels 4–7: clef **9 %** · Luna **22 %** · d3-ultra not yet rated · JEV **25 %** · amos **11 %** · drex **10 %**
+  - Levels 3–7: clef **42 %** · Luna **81 %** · d3-ultra not yet rated · JEV **65 %** · amos **42 %** · drex **36 %**
+  - Summary (German): Der Bericht empfiehlt Kooperation, Transparenz und Anreize für Sicherheitsstandards, damit Wettbewerbsdruck die sichere Entwicklung von KI nicht untergräbt.
+- **[19 – Pandemic resilience case studies of an AI-calibrated ensemble of models to inform decision-making](https://oecd.ai/en/wonk/documents/19-pandemic-resilience-case-studies-of-an-ai-calibrated-ensemble-of-models-to-inform-decision-making)** · oecd.ai · 2024-12-03 · [Q005041](../../berichte/Q00/Q0050/Q005041/)
+  - Levels 4–7: clef **7 %** · Luna **21 %** · d3-ultra **0 %** · JEV **30 %** · amos **9 %** · drex **5 %**
+  - Levels 3–7: clef **16 %** · Luna **57 %** · d3-ultra **1 %** · JEV **58 %** · amos **26 %** · drex **13 %**
+  - Summary (German): Der vorliegende Auszug berichtet, dass ein GPAI-Prototyp mehrere Pandemie-Modelle einheitlich kalibriert und als Ensemble laut Bericht genauere Ergebnisse als Einzelmodelle liefern soll.
+- **[38b798d](https://partnershiponai.org/paper_page/38b798d/)** · partnershiponai.org · 2021-08-06 · [Q002781](../../berichte/Q00/Q0027/Q002781/)
+  - Levels 4–7: clef **12 %** · Luna **21 %** · d3-ultra not yet rated · JEV **8 %** · amos **14 %** · drex **8 %**
+  - Levels 3–7: clef **44 %** · Luna **58 %** · d3-ultra not yet rated · JEV **31 %** · amos **43 %** · drex **25 %**
+  - Summary (German): Der bereitgestellte Auszug empfiehlt, ML-Systeme von der Planung bis zur Überwachung zu dokumentieren, hält aber fest, dass Transparenz Risiken birgt und wichtige Umsetzungsfragen offen sind.
+- **[Addendum to GPT-6 Astra System Card: GPT-6.1 Sol](https://deploymentsafety.openai.com/gpt-6-1-sol)** · deploymentsafety.openai.com · 2026-09-29 · [Q000065](../../berichte/Q00/Q0000/Q000065/)
+  - Levels 4–7: clef **21 %** · Luna **17 %** · d3-ultra not yet rated · JEV **4 %** · amos **30 %** · drex **12 %**
+  - Levels 3–7: clef **53 %** · Luna **22 %** · d3-ultra not yet rated · JEV **6 %** · amos **56 %** · drex **24 %**
+  - Summary (German): Laut OpenAI bietet GPT-6.1 Sol in vielen Tests Sicherheitsverbesserungen, wird als „Critical“ im Cyberbereich eingestuft und zeigt zugleich einzelne Risiken, wobei die schwierigen Testbedingungen keine durchschnittliche Nutzung abbilden.
+- **[Amazon and Meta join the Frontier Model Forum to promote AI safety](https://www.frontiermodelforum.org/updates/amazon-and-meta-join-the-frontier-model-forum-to-promote-ai-safety/)** · frontiermodelforum.org · 2024-05-20 · [Q002775](../../berichte/Q00/Q0027/Q002775/)
+  - Levels 4–7: clef **11 %** · Luna **21 %** · d3-ultra not yet rated · JEV **20 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **38 %** · Luna **64 %** · d3-ultra not yet rated · JEV **59 %** · amos **36 %** · drex **24 %**
+  - Summary (German): Amazon und Meta treten laut Ankündigung dem Frontier Model Forum bei, doch konkrete Resultate ihrer angekündigten Sicherheitsarbeit werden nicht belegt.
+- **[BigCode: toward open AI governance processes in LLMs for coding](https://oecd.ai/en/wonk/bigcode)** · oecd.ai · 2023-08-08 · [Q006044](../../berichte/Q00/Q0060/Q006044/)
+  - Levels 4–7: clef **10 %** · Luna **21 %** · d3-ultra **5 %** · JEV **25 %** · amos **14 %** · drex **8 %**
+  - Levels 3–7: clef **36 %** · Luna **57 %** · d3-ultra **16 %** · JEV **45 %** · amos **37 %** · drex **22 %**
+  - Summary (German): BigCode verbindet laut Bericht offene Entwicklung von Code-Sprachmodellen mit Opt-out, Datenschutz, Herkunftssuche, Emissionsangaben und einer Lizenz mit Nutzungsauflagen.
+- **[Biosecurity and AI: Risks and Opportunities](https://safe.ai/blog/biosecurity-and-ai-risks-and-opportunities)** · safe.ai ·  · [Q001728](../../berichte/Q00/Q0017/Q001728/)
+  - Levels 4–7: clef **21 %** · Luna **19 %** · d3-ultra not yet rated · JEV **26 %** · amos **22 %** · drex **15 %**
+  - Levels 3–7: clef **48 %** · Luna **85 %** · d3-ultra not yet rated · JEV **61 %** · amos **52 %** · drex **32 %**
+  - Summary (German): Der Beitrag hält KI-gestützten Bioterrorismus für ein mögliches, aber unsicheres Risiko und empfiehlt öffentliche Gesundheitsmaßnahmen sowie gezielte Sicherheitsvorkehrungen unter Abwägung ihrer Folgen für die Forschung.
+- **[Building the foundations for collaboration: The OECD-African Union AI Dialogue](https://oecd.ai/en/wonk/oecd-au-ai-dialogue)** · oecd.ai · 2024-04-12 · [Q003136](../../berichte/Q00/Q0031/Q003136/)
+  - Levels 4–7: clef **11 %** · Luna **21 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **48 %** · Luna **68 %** · d3-ultra **6 %** · JEV **16 %** · amos **26 %** · drex **15 %**
+  - Summary (German): Der OECD-AU-Dialog erörterte Wege zu gemeinsamer, inklusiver KI-Governance, doch der Bericht beschreibt vor allem Ziele und Diskussionen und belegt keine konkreten Wirkungen.
+- **[China plans to tighten export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/)** · the-decoder.com · 2026-10-16 · [Q000132](../../berichte/Q00/Q0001/Q000132/)
+  - Levels 4–7: clef **17 %** · Luna **21 %** · d3-ultra not yet rated · JEV **8 %** · amos **20 %** · drex **19 %**
+  - Levels 3–7: clef **45 %** · Luna **56 %** · d3-ultra not yet rated · JEV **20 %** · amos **42 %** · drex **33 %**
+  - Summary (German): Ein chinesischer Regelungsentwurf soll Exporte bestimmter KI-Technologien begrenzen, während offene Veröffentlichungen und einige Nutzungsformen Sonderregeln erhalten; mögliche Folgen bleiben laut Bericht Prognosen.
+- **[Claude Sonnet 3.7 (often) knows when it’s in alignment evaluations](https://apolloresearch.ai/science/claude-sonnet-37-often-knows-when-its-in-alignment-evaluations)** · apolloresearch.ai ·  · [Q001128](../../berichte/Q00/Q0011/Q001128/)
+  - Levels 4–7: clef **21 %** · Luna **6 %** · d3-ultra **3 %** · JEV not yet rated · amos **26 %** · drex not yet rated
+  - Levels 3–7: clef **59 %** · Luna **8 %** · d3-ultra **11 %** · JEV not yet rated · amos **50 %** · drex not yet rated
+  - Summary (German): Der vorläufige Bericht legt nahe, dass Claude Sonnet 3.7 Alignment-Tests oft erkennt, wobei die Messung nur eine Untergrenze liefert und die referenzierten Abbildungen im Text fehlen.
+- **[CSET Translation: A Study of Shenzhen's International Technology Transfer Model and Measures to Improve It](https://cset.georgetown.edu/publication/a-study-of-shenzhens-international-technology-transfer-model-and-measures-to-improve-it/)** · cset.georgetown.edu · 2021-04-29 · [Q006281](../../berichte/Q00/Q0062/Q006281/)
+  - Levels 4–7: clef **4 %** · Luna **21 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **7 %** · Luna **64 %** · d3-ultra **1 %** · JEV **5 %** · amos **8 %** · drex **10 %**
+  - Summary (German): Der Auszug schlägt ein Technologietransferzentrum für Shenzhen vor, das regionale, innerchinesische und internationale Kooperation fördern soll, berichtet aber keine Untersuchungsergebnisse.
+- **[Data Governance Working Group A Framework Paper for GPAI’s work on Data Governance](https://oecd.ai/en/wonk/documents/data-governance-working-group-a-framework-paper-for-gpais-work-on-data-governance)** · oecd.ai · 2025-05-13 · [Q004199](../../berichte/Q00/Q0041/Q004199/)
+  - Levels 4–7: clef **7 %** · Luna **21 %** · d3-ultra **1 %** · JEV **1 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **32 %** · Luna **64 %** · d3-ultra **6 %** · JEV **19 %** · amos **17 %** · drex **12 %**
+  - Summary (German): Der vorliegende Text ist nur ein Auszug: Er beschreibt eine GPAI-Arbeitsgruppe für verantwortungsvolle Datenverwaltung im KI-Kontext und ein Rahmenpapier, das ausdrücklich vorläufig ist.
+- **[Democratic inputs to AI grant program: lessons learned and implementation plans](https://openai.com/index/democratic-inputs-to-ai-grant-program-update/)** · openai.com · 2024-01-16 · [Q007669](../../berichte/Q00/Q0076/Q007669/)
+  - Levels 4–7: clef **10 %** · Luna **21 %** · d3-ultra not yet rated · JEV **9 %** · amos **11 %** · drex **5 %**
+  - Levels 3–7: clef **41 %** · Luna **59 %** · d3-ultra not yet rated · JEV **20 %** · amos **35 %** · drex **15 %**
+  - Summary (German): OpenAI schildert Erkenntnisse aus zehn Projekten zur öffentlichen Beteiligung an KI-Regeln und kündigt an, diese Ansätze in einem neuen Team und Pilotprojekten weiterzuentwickeln.
+- **[Details about METR's preliminary evaluation of DeepSeek-R1](https://metr.org/evaluations/deepseek-r1-report/)** · metr.org · 2025-03-05 · [Q002490](../../berichte/Q00/Q0024/Q002490/)
+  - Levels 4–7: clef **21 %** · Luna **10 %** · d3-ultra **1 %** · JEV **44 %** · amos **22 %** · drex **11 %**
+  - Levels 3–7: clef **51 %** · Luna **13 %** · d3-ultra **8 %** · JEV **61 %** · amos **50 %** · drex **23 %**
+  - Summary (German): METR fand bei DeepSeek-R1 keine starken Belege für wesentlich weiter reichende autonome Fähigkeiten als bei früheren Modellen, weist aber auf erhebliche Grenzen der vorläufigen Tests hin.
+- **[Estonia and OpenAI to bring ChatGPT to schools nationwide](https://openai.com/index/estonia-schools-and-chatgpt/)** · openai.com · 2025-02-25 · [Q008947](../../berichte/Q00/Q0089/Q008947/)
+  - Levels 4–7: clef **8 %** · Luna **21 %** · d3-ultra not yet rated · JEV **12 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **22 %** · Luna **53 %** · d3-ultra not yet rated · JEV **20 %** · amos **18 %** · drex **12 %**
+  - Summary (German): Der Artikel kündigt Estlands geplante landesweite Einführung von ChatGPT Edu an, berichtet jedoch noch keine Umsetzungsergebnisse oder unabhängigen Wirkungsnachweise.
+- **[European research development and deployment of AI](http://digital-strategy.ec.europa.eu/en/policies/european-ai-research)** · digital-strategy.ec.europa.eu ·  · [Q001484](../../berichte/Q00/Q0014/Q001484/)
+  - Levels 4–7: clef **9 %** · Luna **21 %** · d3-ultra **2 %** · JEV not yet rated · amos **12 %** · drex not yet rated
+  - Levels 3–7: clef **43 %** · Luna **52 %** · d3-ultra **12 %** · JEV not yet rated · amos **41 %** · drex not yet rated
+  - Summary (German): Der Bericht beschreibt EU-Förderung und politische Maßnahmen für vertrauenswürdige KI, Frontier-KI und deren Einsatz, ohne ihre Wirkung unabhängig zu bewerten.
+- **[Expanding on how Voice Engine works and our safety research](https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research/)** · openai.com · 2024-06-07 · [Q001951](../../berichte/Q00/Q0019/Q001951/)
+  - Levels 4–7: clef **13 %** · Luna **21 %** · d3-ultra not yet rated · JEV **33 %** · amos **12 %** · drex **7 %**
+  - Levels 3–7: clef **35 %** · Luna **52 %** · d3-ultra not yet rated · JEV **59 %** · amos **34 %** · drex **17 %**
+  - Summary (German): OpenAI stellt Voice Engine als leistungsfähige, noch nicht allgemein verfügbare Stimmenerzeugung dar und beschreibt begrenzte Einsätze sowie Schutzmaßnahmen, deren Wirksamkeit der Bericht nicht unabhängig belegt.
+- **[Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil/)** · openai.com · 2026-08-27 · [Q004185](../../berichte/Q00/Q0041/Q004185/)
+  - Levels 4–7: clef **6 %** · Luna **21 %** · d3-ultra not yet rated · JEV **0 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **21 %** · Luna **58 %** · d3-ultra not yet rated · JEV **1 %** · amos **15 %** · drex **8 %**
+  - Summary (German): OpenAI will seine Präsenz in Brasilien mit lokalen Partnerschaften ausbauen und stellt starkes KI-Wachstum sowie mögliche wirtschaftliche Chancen heraus, wobei die genannten Prognosen und Nutzungszahlen als Schätzungen beziehungsweise Unternehmensangaben einzuordnen sind.
+- **[FAR.AI Selected to Lead EU AI Act CBRN Risk Consortium](https://www.far.ai/blog/far-ai-selected-to-lead-eu-ai-act-cbrn-risk-consortium)** · far.ai · 2026-08-19 · [Q001338](../../berichte/Q00/Q0013/Q001338/)
+  - Levels 4–7: clef **21 %** · Luna **14 %** · d3-ultra not yet rated · JEV **3 %** · amos **37 %** · drex **21 %**
+  - Levels 3–7: clef **61 %** · Luna **25 %** · d3-ultra not yet rated · JEV **14 %** · amos **64 %** · drex **48 %**
+  - Summary (German): FAR.AI zufolge soll ein von ihm geleitetes Konsortium die EU bei der Bewertung möglicher CBRN-Risiken fortgeschrittener KI unterstützen; der Bericht beschreibt geplante Arbeiten, aber noch keine Ergebnisse.
+- **[Five lessons from having helped run an AI-Biology RCT](https://metr.org/blog/2026-02-19-five-lessons-from-ai-biology-rct/)** · metr.org · 2026-02-19 · [Q001957](../../berichte/Q00/Q0019/Q001957/)
+  - Levels 4–7: clef **21 %** · Luna **12 %** · d3-ultra **7 %** · JEV **8 %** · amos **26 %** · drex **21 %**
+  - Levels 3–7: clef **56 %** · Luna **52 %** · d3-ultra **25 %** · JEV **26 %** · amos **54 %** · drex **42 %**
+  - Summary (German): Der Beitrag folgert aus einer RCT ohne signifikanten Gesamteffekt, dass KI-Risiken durch regelmäßige, sorgfältige Studien besser untersucht und Schutzmaßnahmen früh vorbereitet werden sollten.
+- **[Funding third-party model evaluations](https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations)** · anthropic.com · 2024-07-01 · [Q003114](../../berichte/Q00/Q0031/Q003114/)
+  - Levels 4–7: clef **21 %** · Luna **18 %** · d3-ultra not yet rated · JEV **11 %** · amos **28 %** · drex **11 %**
+  - Levels 3–7: clef **54 %** · Luna **43 %** · d3-ultra not yet rated · JEV **35 %** · amos **55 %** · drex **25 %**
+  - Summary (German): Anthropic will externe KI-Evaluationen zu Fähigkeiten und Risiken fördern und nennt dafür Schwerpunkte und Qualitätsmaßstäbe, aber keine konkreten Förderbeträge oder Ergebnisse.
+- **[Holistic Safety and Responsibility Evaluations of Advanced AI Models](https://deepmind.google/research/publications/78149/)** · deepmind.google · 2024-04-22 · [Q005105](../../berichte/Q00/Q0051/Q005105/)
+  - Levels 4–7: clef **15 %** · Luna **21 %** · d3-ultra **3 %** · JEV **8 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **49 %** · Luna **62 %** · d3-ultra **24 %** · JEV **55 %** · amos **39 %** · drex **21 %**
+  - Summary (German): Der bereitgestellte Abstract fordert eine systematischere, kooperative und politisch eingebundene KI-Sicherheitsbewertung, nennt aber keine konkreten Gemini-Testergebnisse.
+- **[How Black-Box Distillation Works](https://cset.georgetown.edu/article/how-black-box-distillation-works/)** · cset.georgetown.edu · 2026-10-26 · [Q000127](../../berichte/Q00/Q0001/Q000127/)
+  - Levels 4–7: clef **19 %** · Luna **21 %** · d3-ultra not yet rated · JEV **76 %** · amos **31 %** · drex **14 %**
+  - Levels 3–7: clef **44 %** · Luna **89 %** · d3-ultra not yet rated · JEV **90 %** · amos **60 %** · drex **27 %**
+  - Summary (German): Black-Box-Destillation kann Fähigkeiten über Modellantworten übertragen; laut Beitrag gibt es Vorwürfe umfangreicher Kampagnen, doch deren tatsächliche Nutzung und Nutzen sind öffentlich nicht geklärt.
+- **[https://arxiv.org/pdf/2102.02503](https://arxiv.org/pdf/2102.02503)** · arxiv.org ·  · [Q009457](../../berichte/Q00/Q0094/Q009457/)
+  - Levels 4–7: clef **8 %** · Luna **21 %** · d3-ultra **2 %** · JEV **15 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **44 %** · Luna **64 %** · d3-ultra **11 %** · JEV **50 %** · amos **35 %** · drex **24 %**
+  - Summary (German): Eine Gesprächsrunde über GPT‑3 hob dessen Fähigkeiten und mögliche gesellschaftliche Risiken hervor, ließ aber zentrale Fragen zu Verständnis, Sicherheit und Folgen offen.
+- **[https://github.com/google/trillian/blob/master/docs/papers/VerifiableDataStructures.pdf](https://github.com/google/trillian/blob/master/docs/papers/VerifiableDataStructures.pdf)** · github.com ·  · [Q009730](../../berichte/Q00/Q0097/Q009730/)
+  - Levels 4–7: clef **9 %** · Luna **21 %** · d3-ultra **0 %** · JEV **14 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **19 %** · Luna **54 %** · d3-ultra **1 %** · JEV **30 %** · amos **14 %** · drex **7 %**
+  - Summary (German): Das Papier stellt drei transparente Datenstrukturen vor, mit denen sich Einträge und Werte prüfen lassen; vollständige Betriebsprüfungen können eine Vollprüfung durch Auditoren erfordern.
+- **[Investigating models for misalignment](https://www.aisi.gov.uk/blog/investigating-models-for-misalignment)** · aisi.gov.uk · 2025-11-26 · [Q001498](../../berichte/Q00/Q0014/Q001498/)
+  - Levels 4–7: clef **21 %** · Luna **10 %** · d3-ultra not yet rated · JEV **20 %** · amos **27 %** · drex **9 %**
+  - Levels 3–7: clef **56 %** · Luna **27 %** · d3-ultra not yet rated · JEV **37 %** · amos **53 %** · drex **20 %**
+  - Summary (German): AISI fand bei drei getesteten Anthropic-Modellen keine Forschungssabotage, weist aber auf fortbestehende Evaluationswahrnehmung und methodische Grenzen hin.
+- **[London ControlConf 2025](https://www.far.ai/blog/london-controlconf-2025)** · far.ai · 2026-07-16 · [Q001657](../../berichte/Q00/Q0016/Q001657/)
+  - Levels 4–7: clef **12 %** · Luna **21 %** · d3-ultra not yet rated · JEV **4 %** · amos **18 %** · drex **11 %**
+  - Levels 3–7: clef **42 %** · Luna **73 %** · d3-ultra not yet rated · JEV **28 %** · amos **46 %** · drex **27 %**
+  - Summary (German): Die London ControlConf 2025 behandelte Methoden und offene Risiken der KI-Kontrolle; der Bericht präsentiert ausgewählte Vorträge und betont den dringenden Bedarf an Schutzmaßnahmen.
+- **[Loss of Oversight: How AI systems may become harder to audit, monitor, and investigate](https://www.aisi.gov.uk/research/loss-of-oversight-how-ai-systems-may-become-harder-to-audit-monitor-and-investigate)** · aisi.gov.uk · 2026-05-21 · [Q001536](../../berichte/Q00/Q0015/Q001536/)
+  - Levels 4–7: clef **21 %** · Luna **20 %** · d3-ultra not yet rated · JEV **16 %** · amos **17 %** · drex **23 %**
+  - Levels 3–7: clef **49 %** · Luna **67 %** · d3-ultra not yet rated · JEV **62 %** · amos **44 %** · drex **47 %**
+  - Summary (German): Der bereitgestellte Auszug berichtet, dass die Grundlagen heutiger KI-Aufsicht laut den Autoren ohne Gegenmaßnahmen wahrscheinlich erodieren, und empfiehlt, Aufsichtsmöglichkeiten zu erhalten und neue Verfahren zu entwickeln.
+- **[Ministry of Science and Technology 2022 Annual Budget](https://cset.georgetown.edu/publication/ministry-of-science-and-technology-2022-annual-budget/)** · cset.georgetown.edu · 2022-05-18 · [Q006114](../../berichte/Q00/Q0061/Q006114/)
+  - Levels 4–7: clef **4 %** · Luna **21 %** · d3-ultra **0 %** · JEV **2 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **8 %** · Luna **56 %** · d3-ultra **2 %** · JEV **17 %** · amos **11 %** · drex **8 %**
+  - Summary (German): Der bereitgestellte Auszug des MOST-Jahresbudgets 2022 schildert Aufgaben und Reformziele, enthält aber keine Haushaltszahlen und verweist für den übrigen Bericht auf ein PDF.
+- **[Moonshot Limits Kimi Model’s Hacking Capabilities](https://stratnewsglobal.com/technology/moonshot-kimi-model-hacking-capabilities-ai-cyberattacks/)** · stratnewsglobal.com · 2026-10-24 · [Q000055](../../berichte/Q00/Q0000/Q000055/)
+  - Levels 4–7: clef **16 %** · Luna **21 %** · d3-ultra not yet rated · JEV **38 %** · amos **27 %** · drex **11 %**
+  - Levels 3–7: clef **46 %** · Luna **70 %** · d3-ultra not yet rated · JEV **70 %** · amos **54 %** · drex **30 %**
+  - Summary (German): Moonshot zufolge senken Schutzmaßnahmen die offensiven Cyberfähigkeiten von Kimi K3.1 Pro, doch der angeführte interne Benchmark ist laut Bericht nicht unabhängig überprüft; offene Gewichte bleiben schwer zu beaufsichtigen.
+- **[NIST RFI: Security Considerations for AI Agents](https://apolloresearch.ai/governance/nist-rfi-security-considerations-for-ai-agents)** · apolloresearch.ai ·  · [Q001535](../../berichte/Q00/Q0015/Q001535/)
+  - Levels 4–7: clef **21 %** · Luna **20 %** · d3-ultra **6 %** · JEV not yet rated · amos **29 %** · drex not yet rated
+  - Levels 3–7: clef **52 %** · Luna **61 %** · d3-ultra **21 %** · JEV not yet rated · amos **57 %** · drex not yet rated
+  - Summary (German): Der Auszug berichtet Apollos Empfehlungen zur Sicherheit fortgeschrittener KI-Agenten, enthält aber keine Methoden oder Ergebnisse der verlinkten vollständigen Stellungnahme.
+- **[Notice of the Office of the Ministry of Industry and Information Technology on Organizing and Launching the Computing Power Infrastructure Enhancement Challenge Campaign](https://cset.georgetown.edu/publication/china-compute-challenge-campaign/)** · cset.georgetown.edu · 2025-05-29 · [Q002596](../../berichte/Q00/Q0025/Q002596/)
+  - Levels 4–7: clef **6 %** · Luna **21 %** · d3-ultra **0 %** · JEV **1 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **15 %** · Luna **53 %** · d3-ultra **4 %** · JEV **4 %** · amos **17 %** · drex **13 %**
+  - Summary (German): Der Auszug stellt eine chinesische Kampagne zur Förderung von Recheninfrastruktur vor, enthält aber nicht die vollständige Aufgabenliste, sondern verweist dafür auf ein PDF.
+- **[OECD health ministers: people and partnerships are the secret to enabling AI in healthcare](https://oecd.ai/en/wonk/health-ministerial-2024)** · oecd.ai · 2024-01-29 · [Q009490](../../berichte/Q00/Q0094/Q009490/)
+  - Levels 4–7: clef **11 %** · Luna **21 %** · d3-ultra **1 %** · JEV **6 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **37 %** · Luna **57 %** · d3-ultra **5 %** · JEV **19 %** · amos **27 %** · drex **15 %**
+  - Summary (German): Die OECD empfiehlt, KI im Gesundheitswesen durch anpassungsfähige Regeln, Partnerschaften, gute Datengrundlagen und internationale Zusammenarbeit verantwortungsvoll und gerecht zu gestalten.
+- **[OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development](https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/)** · reuters.com · 2026-11-12 · [Q000492](../../berichte/Q00/Q0004/Q000492/)
+  - Levels 4–7: clef **10 %** · Luna **21 %** · d3-ultra not yet rated · JEV **7 %** · amos **14 %** · drex **11 %**
+  - Levels 3–7: clef **45 %** · Luna **57 %** · d3-ultra not yet rated · JEV **29 %** · amos **41 %** · drex **29 %**
+  - Summary (German): Gemeinnützige Organisationen verklagten fünf große KI-Anbieter, um die Entwicklung fortgeschrittener Modelle zu stoppen; ihre Gefahrenvorwürfe sind laut Bericht bislang nicht gerichtlich bestätigt.
+- **[Partnering with Microsoft to strengthen frontier AI safety](https://www.aisi.gov.uk/blog/partnering-with-microsoft-to-strengthen-frontier-ai-safety)** · aisi.gov.uk · 2026-05-05 · [Q001683](../../berichte/Q00/Q0016/Q001683/)
+  - Levels 4–7: clef **21 %** · Luna **9 %** · d3-ultra not yet rated · JEV **40 %** · amos **27 %** · drex **19 %**
+  - Levels 3–7: clef **53 %** · Luna **61 %** · d3-ultra not yet rated · JEV **79 %** · amos **56 %** · drex **49 %**
+  - Summary (German): AISI und Microsoft wollen laut Ankündigung gemeinsam risikoreiche KI-Fähigkeiten, Schutzmaßnahmen und die Interaktion dialogbasierter KI in sensiblen Situationen untersuchen; konkrete Ergebnisse oder Vorgehensweisen nennt der kurze Bericht nicht.
+- **[Private-sector companies own a dominant share of GPU clusters](https://epoch.ai/data-insights/ai-supercomputers-performance-share-by-sector)** · epoch.ai · 2025-06-05 · [Q005846](../../berichte/Q00/Q0058/Q005846/)
+  - Levels 4–7: clef **11 %** · Luna **21 %** · d3-ultra not yet rated · JEV not yet rated · amos **11 %** · drex not yet rated
+  - Levels 3–7: clef **33 %** · Luna **59 %** · d3-ultra not yet rated · JEV not yet rated · amos **30 %** · drex not yet rated
+  - Summary (German): Laut Epoch nahm der private Anteil an der globalen KI-Rechenkapazität stark zu, doch die Bestandsaufnahme enthält viele Schätzungen und unsichere oder geplante Systeme.
+- **[Research Security, Collaboration, and the Changing Map of Global R&D](https://cset.georgetown.edu/publication/research-security-collaboration-and-the-changing-map-of-global-rd/)** · cset.georgetown.edu · 2021-06-01 · [Q005150](../../berichte/Q00/Q0051/Q005150/)
+  - Levels 4–7: clef **4 %** · Luna **21 %** · d3-ultra **0 %** · JEV **4 %** · amos **4 %** · drex **4 %**
+  - Levels 3–7: clef **8 %** · Luna **66 %** · d3-ultra **2 %** · JEV **45 %** · amos **9 %** · drex **7 %**
+  - Summary (German): Der Auszug empfiehlt länder- und feldgerechte Forschungssicherheitsstrategien angesichts einer veränderten globalen Forschungslandschaft; der vollständige Bericht liegt nicht vor.
+- **[Russian AI Research 2010-2018](https://cset.georgetown.edu/publication/russian-ai-research-2010-2018/)** · cset.georgetown.edu · 2020-10-07 · [Q005054](../../berichte/Q00/Q0050/Q005054/)
+  - Levels 4–7: clef **7 %** · Luna **21 %** · d3-ultra **0 %** · JEV **10 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **22 %** · Luna **68 %** · d3-ultra **6 %** · JEV **37 %** · amos **16 %** · drex **16 %**
+  - Summary (German): Der Auszug beschreibt wachsende, öffentlich geförderte KI-Forschung in Russland, die im internationalen Vergleich laut Bericht dennoch zurückliegt.
+- **[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/)** · openai.com · 2026-05-07 · [Q001761](../../berichte/Q00/Q0017/Q001761/)
+  - Levels 4–7: clef **12 %** · Luna **21 %** · d3-ultra not yet rated · JEV **37 %** · amos **31 %** · drex **15 %**
+  - Levels 3–7: clef **38 %** · Luna **70 %** · d3-ultra not yet rated · JEV **60 %** · amos **55 %** · drex **29 %**
+  - Summary (German): OpenAI stellt TAC als Standard für die meisten verifizierten Verteidigungsaufgaben und GPT‑5.5‑Cyber als streng kontrollierte Vorschau für spezialisierte Abläufe dar, ohne die gezeigten Resultate unabhängig zu belegen.
+- **[Strengthening America’s AI leadership with the U.S. National Laboratories](https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories/)** · openai.com · 2025-01-30 · [Q009127](../../berichte/Q00/Q0091/Q009127/)
+  - Levels 4–7: clef **20 %** · Luna **21 %** · d3-ultra not yet rated · JEV **74 %** · amos **27 %** · drex **21 %**
+  - Levels 3–7: clef **48 %** · Luna **60 %** · d3-ultra not yet rated · JEV **92 %** · amos **56 %** · drex **47 %**
+  - Summary (German): OpenAI plant, gemeinsam mit Microsoft Schlussfolgerungsmodelle auf einem Supercomputer der National Laboratories für Forschung und nationale Sicherheit bereitzustellen; belegte Ergebnisse nennt die Ankündigung noch nicht.
+- **[Template for general-purpose AI model providers to summarise their training content](http://digital-strategy.ec.europa.eu/en/faqs/template-general-purpose-ai-model-providers-summarise-their-training-content)** · digital-strategy.ec.europa.eu ·  · [Q001793](../../berichte/Q00/Q0017/Q001793/)
+  - Levels 4–7: clef **21 %** · Luna **5 %** · d3-ultra **19 %** · JEV not yet rated · amos **26 %** · drex not yet rated
+  - Levels 3–7: clef **53 %** · Luna **16 %** · d3-ultra **35 %** · JEV not yet rated · amos **49 %** · drex not yet rated
+  - Summary (German): Laut EU-FAQ müssen Anbieter allgemeiner KI-Modelle auf dem Unionsmarkt ihre Trainingsinhalte nach einer verbindlichen Vorlage öffentlich zusammenfassen, mit begrenzten und zu begründenden Informationslücken.
+- **[The Alignment Project by AISI — The AI Security Institute](https://www.aisi.gov.uk/blog/announcing-the-alignment-project)** · aisi.gov.uk ·  · [Q002784](../../berichte/Q00/Q0027/Q002784/)
+  - Levels 4–7: clef **6 %** · Luna **21 %** · d3-ultra not yet rated · JEV **0 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **35 %** · Luna **51 %** · d3-ultra not yet rated · JEV **5 %** · amos **25 %** · drex **16 %**
+  - Summary (German): Das Alignment Project vergab laut Bericht in seiner ersten Runde über 27 Millionen Pfund für KI-Ausrichtungsforschung; Bewerbungen sind geschlossen und ein ähnliches Programm ist 2026 unwahrscheinlich.
+- **[The American AI Initiative:  The U.S. strategy for leadership in artificial intelligence](https://oecd.ai/en/wonk/the-american-ai-initiative-the-u-s-strategy-for-leadership-in-rtificial-intelligence)** · oecd.ai · 2020-06-11 · [Q007213](../../berichte/Q00/Q0072/Q007213/)
+  - Levels 4–7: clef **9 %** · Luna **21 %** · d3-ultra not yet rated · JEV **5 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **44 %** · Luna **72 %** · d3-ultra not yet rated · JEV **19 %** · amos **31 %** · drex **18 %**
+  - Summary (German): Der Bericht beschreibt die US-KI-Strategie und ihre geplanten Maßnahmen für Innovation und vertrauenswürdige KI, belegt deren Wirkung jedoch nicht systematisch.
+- **[The Birth of Modern AI](https://frank-andrade.medium.com/the-birth-of-modern-ai-07d7a874b871)** · frank-andrade.medium.com · 2024-07-19 · [Q009940](../../berichte/Q00/Q0099/Q009940/)
+  - Levels 4–7: clef **6 %** · Luna **21 %** · d3-ultra **0 %** · JEV **2 %** · amos **6 %** · drex **3 %**
+  - Levels 3–7: clef **31 %** · Luna **55 %** · d3-ultra **3 %** · JEV **8 %** · amos **17 %** · drex **10 %**
+  - Summary (German): Andrade beschreibt den Aufstieg moderner KI als Ergebnis technischer Durchbrüche und des Wettbewerbs einflussreicher Unternehmen und Personen; seine Deutungen sind eine erzählerische Einordnung, keine systematisch belegte Geschichtsdarstellung.
+- **[The Path of Least Resistance](https://cset.georgetown.edu/publication/the-path-of-least-resistance/)** · cset.georgetown.edu · 2021-04-14 · [Q005530](../../berichte/Q00/Q0055/Q005530/)
+  - Levels 4–7: clef **12 %** · Luna **21 %** · d3-ultra **1 %** · JEV **4 %** · amos **6 %** · drex **9 %**
+  - Levels 3–7: clef **30 %** · Luna **52 %** · d3-ultra **9 %** · JEV **19 %** · amos **22 %** · drex **22 %**
+  - Summary (German): Der vorliegende Auszug aus der Executive Summary empfiehlt internationale KI-Zusammenarbeit bei militärischer Logistik und Versorgung als vergleichsweise gangbaren Weg trotz erheblicher Hürden.
+- **[Towards a Hiroshima Artificial Intelligence Process Code of Conduct Reporting Framework: Findings from the Pilot](https://oecd.ai/en/wonk/documents/towards-a-hiroshima-artificial-intelligence-process-code-of-conduct-reporting-framework-findings-from-the-pilot)** · oecd.ai · 2024-12-19 · [Q004801](../../berichte/Q00/Q0048/Q004801/)
+  - Levels 4–7: clef **19 %** · Luna **21 %** · d3-ultra **6 %** · JEV **24 %** · amos **28 %** · drex **19 %**
+  - Levels 3–7: clef **49 %** · Luna **67 %** · d3-ultra **36 %** · JEV **58 %** · amos **56 %** · drex **45 %**
+  - Summary (German): Der bereitgestellte Auszug schildert die Entwicklung und Erprobung eines OECD-Berichtsrahmens zum Hiroshima-Kodex, enthält aber keine konkreten Ergebnisse des Piloten.
+- **[Update to GPT-5 System Card: GPT-5.2](https://deploymentsafety.openai.com/gpt-5-2)** · deploymentsafety.openai.com · 2025-12-11 · [Q000960](../../berichte/Q00/Q0009/Q000960/)
+  - Levels 4–7: clef **21 %** · Luna **0 %** · d3-ultra not yet rated · JEV **5 %** · amos **36 %** · drex **10 %**
+  - Levels 3–7: clef **51 %** · Luna **0 %** · d3-ultra not yet rated · JEV **7 %** · amos **62 %** · drex **21 %**
+  - Summary (German): OpenAI beschreibt GPT-5.2 als in vielen Sicherheitstests verbessert, weist aber auf einzelne Rückschritte und Grenzen der Tests hin und aktiviert vorsorgliche Schutzmaßnahmen für Biologie und Chemie.
+- **[We need to use AI to fight climate change](https://oecd.ai/en/wonk/fight-climate-change)** · oecd.ai · 2023-05-30 · [Q001219](../../berichte/Q00/Q0012/Q001219/)
+  - Levels 4–7: clef **11 %** · Luna **21 %** · d3-ultra **1 %** · JEV **3 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **38 %** · Luna **54 %** · d3-ultra **4 %** · JEV **9 %** · amos **33 %** · drex **18 %**
+  - Summary (German): Der Beitrag plädiert für einen verantwortungsvoll regulierten und stärker auf Klimaschutz ausgerichteten KI-Einsatz, betont aber, dass KI allein die Klimakrise nicht lösen kann.
+- **[5 key findings from our first Frontier AI Trends Report](https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report)** · aisi.gov.uk · 2025-12-18 · [Q002078](../../berichte/Q00/Q0020/Q002078/)
+  - Levels 4–7: clef **20 %** · Luna **17 %** · d3-ultra not yet rated · JEV **12 %** · amos **31 %** · drex **22 %**
+  - Levels 3–7: clef **52 %** · Luna **83 %** · d3-ultra not yet rated · JEV **28 %** · amos **59 %** · drex **50 %**
+  - Summary (German): Laut AISI wachsen KI-Fähigkeiten und ihre gesellschaftliche Nutzung schnell, doch Schutzlücken, begrenzte Testbedingungen und unsichere Zukunftsverläufe lassen wesentliche Risiken offen.
+- **[9fea3d1](https://partnershiponai.org/paper_page/9fea3d1/)** · partnershiponai.org · 2021-08-06 · [Q003166](../../berichte/Q00/Q0031/Q003166/)
+  - Levels 4–7: clef **9 %** · Luna **20 %** · d3-ultra not yet rated · JEV **9 %** · amos **14 %** · drex **8 %**
+  - Levels 3–7: clef **39 %** · Luna **60 %** · d3-ultra not yet rated · JEV **32 %** · amos **41 %** · drex **21 %**
+  - Summary (German): Der bereitgestellte Auszug beschreibt Literaturvorschläge für transparente ML-Dokumentation über Entwicklung und Einsatz hinweg, ohne deren Wirksamkeit selbst empirisch zu belegen.
+- **[a7cc0e2 - Partnership on AI](https://partnershiponai.org/paper_page/a7cc0e2/)** · partnershiponai.org ·  · [Q003816](../../berichte/Q00/Q0038/Q003816/)
+  - Levels 4–7: clef **11 %** · Luna **20 %** · d3-ultra not yet rated · JEV **10 %** · amos **12 %** · drex **9 %**
+  - Levels 3–7: clef **31 %** · Luna **71 %** · d3-ultra not yet rated · JEV **33 %** · amos **33 %** · drex **17 %**
+  - Summary (German): Der Berichtsauszug empfiehlt Schulungen und transparente, überprüfbare Governance für gerichtliche Risikobewertungsinstrumente; welche Schulungen am besten wirken, sei noch zu erforschen.
+- **[A "diff" tool for AI models](https://www.anthropic.com/research/diff-tool)** · anthropic.com · 2026-03-13 · [Q003909](../../berichte/Q00/Q0039/Q003909/)
+  - Levels 4–7: clef **20 %** · Luna **17 %** · d3-ultra not yet rated · JEV **11 %** · amos **12 %** · drex **5 %**
+  - Levels 3–7: clef **52 %** · Luna **38 %** · d3-ultra not yet rated · JEV **23 %** · amos **36 %** · drex **11 %**
+  - Summary (German): Anthropic berichtet über ein Verfahren, das Verhaltensunterschiede zwischen KI-Modellen aufspüren soll, betont aber, dass es ein begrenztes Screening und kein abschließender Risikonachweis ist.
+- **[Against SURA](https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura)** · lesswrong.com · 2026-10-31 · [Q000342](../../berichte/Q00/Q0003/Q000342/)
+  - Levels 4–7: clef **11 %** · Luna **20 %** · d3-ultra not yet rated · JEV **19 %** · amos **19 %** · drex **18 %**
+  - Levels 3–7: clef **50 %** · Luna **87 %** · d3-ultra not yet rated · JEV **41 %** · amos **51 %** · drex **39 %**
+  - Summary (German): Alexander lehnt einseitige Rückzüge als alleinige Strategie ab und fordert, eine koordinierte Pause anzustreben und zugleich für den Fall ihres Scheiterns gemeinsame Alignmentarbeit vorzubereiten.
+- **[AI Extinction Statement Press Release](https://safe.ai/work/press-release-ai-risk)** · safe.ai · 2023-05-30 · [Q002223](../../berichte/Q00/Q0022/Q002223/)
+  - Levels 4–7: clef **8 %** · Luna **20 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **48 %** · Luna **52 %** · d3-ultra not yet rated · JEV **20 %** · amos **20 %** · drex **17 %**
+  - Summary (German): Die CAIS-Pressemitteilung fordert globale Maßnahmen gegen mögliche existenzielle KI-Risiken und stützt ihren Aufruf auf eine breite, laut Text bestätigte Koalition, ohne das Risiko selbst ausführlich zu analysieren.
+- **[A Macroprudential Layer for Frontier AI Governance – Simon Institute for Longterm Governance](https://simoninstitute.ch/blog/post/a-macroprudential-layer-for-frontier-ai-governance/)** · simoninstitute.ch ·  · [Q000463](../../berichte/Q00/Q0004/Q000463/)
+  - Levels 4–7: clef **12 %** · Luna **20 %** · d3-ultra not yet rated · JEV **19 %** · amos **17 %** · drex **15 %**
+  - Levels 3–7: clef **61 %** · Luna **90 %** · d3-ultra not yet rated · JEV **71 %** · amos **50 %** · drex **42 %**
+  - Summary (German): Der Autor plädiert dafür, die Prüfung einzelner KI-Akteure um eine systemweite Aufsicht zu ergänzen, räumt aber ein, dass deren Zuständigkeiten und Instrumente noch offen sind.
+- **[A responsible AI strategy for climate action](https://oecd.ai/en/wonk/a-responsible-ai-strategy-for-climate-action)** · oecd.ai · 2021-10-30 · [Q002326](../../berichte/Q00/Q0023/Q002326/)
+  - Levels 4–7: clef **13 %** · Luna **20 %** · d3-ultra **1 %** · JEV **8 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **38 %** · Luna **54 %** · d3-ultra **3 %** · JEV **26 %** · amos **35 %** · drex **21 %**
+  - Summary (German): Der vorläufige GPAI-Beitrag empfiehlt, den möglichen Klimanutzen von KI verantwortungsvoll zu fördern und ihre Emissionsfolgen zu messen und zu begrenzen.
+- **[Brazil’s path to responsible AI](https://oecd.ai/en/wonk/brazils-path-to-responsible-ai)** · oecd.ai · 2023-07-27 · [Q006173](../../berichte/Q00/Q0061/Q006173/)
+  - Levels 4–7: clef **13 %** · Luna **20 %** · d3-ultra **11 %** · JEV **16 %** · amos **24 %** · drex **18 %**
+  - Levels 3–7: clef **48 %** · Luna **64 %** · d3-ultra **25 %** · JEV **34 %** · amos **54 %** · drex **36 %**
+  - Summary (German): Brasilien baut laut OECD-Beitrag KI-Förderung und Regulierung aus, doch der 2023 beschriebene Gesetzesvorschlag war noch nicht verabschiedet und seine endgültige Form ungewiss.
+- **[Brief #31: What China’s new AI export controls really mean (spoiler: not the end of open weight)](https://aisafetychina.substack.com/p/brief-31-what-chinas-new-ai-export)** · aisafetychina.substack.com · 2026-10-29 · [Q000193](../../berichte/Q00/Q0001/Q000193/)
+  - Levels 4–7: clef **20 %** · Luna **9 %** · d3-ultra **14 %** · JEV not yet rated · amos **33 %** · drex not yet rated
+  - Levels 3–7: clef **48 %** · Luna **78 %** · d3-ultra **29 %** · JEV not yet rated · amos **58 %** · drex not yet rated
+  - Summary (German): Chinas Entwurf könnte für manche KI-Exporte Genehmigungen verlangen und verspricht Erleichterungen für Open Source; welche Frontier-Modelle betroffen sind, bleibt bis zur endgültigen Regelung unklar.
+- **[China’s key AI safety updates at WAIC, from President Xi to cybersecurity](https://aisafetychina.substack.com/p/chinas-key-ai-safety-updates-at-waic)** · aisafetychina.substack.com · 2026-07-28 · [Q001320](../../berichte/Q00/Q0013/Q001320/)
+  - Levels 4–7: clef **10 %** · Luna **20 %** · d3-ultra **4 %** · JEV not yet rated · amos **12 %** · drex not yet rated
+  - Levels 3–7: clef **44 %** · Luna **59 %** · d3-ultra **16 %** · JEV not yet rated · amos **35 %** · drex not yet rated
+  - Summary (German): Der Bericht sieht in Xis Sicherheitsforderungen, einer konkreten chinesischen Erklärung zu KI-Risiken und der Gründung von WAICO Hinweise auf Chinas wachsende Rolle in der KI-Governance, wobei wichtige Details und internationale Zustimmung teils offenbleiben.
+- **[Chinese Critiques of Large Language Models](https://cset.georgetown.edu/publication/chinese-critiques-of-large-language-models/)** · cset.georgetown.edu · 2025-01-23 · [Q003068](../../berichte/Q00/Q0030/Q003068/)
+  - Levels 4–7: clef **9 %** · Luna **20 %** · d3-ultra **0 %** · JEV **2 %** · amos **6 %** · drex **9 %**
+  - Levels 3–7: clef **31 %** · Luna **60 %** · d3-ultra **6 %** · JEV **14 %** · amos **23 %** · drex **21 %**
+  - Summary (German): Der Auszug argumentiert, dass der Westen neben LLMs alternative Wege zu allgemeiner KI verfolgen sollte, während China laut Bericht bereits eine breitere Strategie verfolgt.
+- **[Claude accelerates protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design)** · anthropic.com · 2026-08-18 · [Q000859](../../berichte/Q00/Q0008/Q000859/)
+  - Levels 4–7: clef **15 %** · Luna **20 %** · d3-ultra not yet rated · JEV **20 %** · amos **31 %** · drex **16 %**
+  - Levels 3–7: clef **41 %** · Luna **51 %** · d3-ultra not yet rated · JEV **28 %** · amos **58 %** · drex **28 %**
+  - Summary (German): Anthropic zufolge kann Claude bestimmte Proteinbinder-Entwürfe und chemische Analysen beschleunigen, doch die Befunde sind begrenzt und weitere Validierung bleibt nötig.
+- **[Data Governance Working Group A Framework Paper for GPAI’s  Work on Data Governance 2.0](https://oecd.ai/en/wonk/documents/data-governance-working-group-a-framework-paper-for-gpais-work-on-data-governance-2-0)** · oecd.ai · 2025-05-15 · [Q003952](../../berichte/Q00/Q0039/Q003952/)
+  - Levels 4–7: clef **8 %** · Luna **20 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **22 %** · Luna **71 %** · d3-ultra **6 %** · JEV **16 %** · amos **19 %** · drex **14 %**
+  - Summary (German): Der bereitgestellte Bericht ist nur ein kurzer Auszug über Auftrag und Abgrenzung der GPAI-Arbeitsgruppe für Daten-Governance; konkrete Ergebnisse oder Projekte werden nicht genannt.
+- **[Disrupting malicious uses of AI](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai/)** · openai.com · 2025-02-21 · [Q002804](../../berichte/Q00/Q0028/Q002804/)
+  - Levels 4–7: clef **12 %** · Luna **20 %** · d3-ultra not yet rated · JEV not yet rated · amos **11 %** · drex not yet rated
+  - Levels 3–7: clef **36 %** · Luna **54 %** · d3-ultra not yet rated · JEV not yet rated · amos **32 %** · drex not yet rated
+  - Summary (German): Der bereitgestellte Auszug skizziert OpenAIs Anliegen und die angekündigten Fallstudien zu KI-Missbrauch, enthält diese Fallstudien und Ergebnisse aber nicht.
+- **[Hacia la igualdad sustantiva en el ámbito de la inteligencia artificial (IA): políticas transformadoras de IA para la igualdad de género y la diversidad](https://oecd.ai/en/wonk/documents/hacia-la-igualdad-sustantiva-en-el-ambito-de-la-inteligencia-artificial-ia-politicas-transformadoras-de-ia-para-la-igualdad-de-genero-y-la-diversidad)** · oecd.ai · 2025-06-26 · [Q002822](../../berichte/Q00/Q0028/Q002822/)
+  - Levels 4–7: clef **8 %** · Luna **20 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **36 %** · Luna **57 %** · d3-ultra **3 %** · JEV **1 %** · amos **15 %** · drex **11 %**
+  - Summary (German): Der bereitgestellte Auszug warnt, dass KI trotz ihres Entwicklungspotenzials Ungleichheiten und Vorurteile verstärken kann, und fordert robuste Regeln für Gleichstellung und Vielfalt.
+- **[How do frontier AI agents perform in multi-step cyber-attack scenarios?](https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios)** · aisi.gov.uk · 2026-03-16 · [Q001868](../../berichte/Q00/Q0018/Q001868/)
+  - Levels 4–7: clef **20 %** · Luna **6 %** · d3-ultra not yet rated · JEV **31 %** · amos **15 %** · drex **8 %**
+  - Levels 3–7: clef **53 %** · Luna **8 %** · d3-ultra not yet rated · JEV **54 %** · amos **40 %** · drex **19 %**
+  - Summary (German): Laut AISI machen neuere Modelle mit mehr Tokens in simulierten Cyberangriffen mehr Fortschritt, bleiben aber bei industriellen Angriffen begrenzt; aktive Verteidiger wurden nicht getestet.
+- **[How Far Behind the Frontier are Leading Open Weight Models on Cyber?](https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber)** · aisi.gov.uk · 2026-07-17 · [Q001342](../../berichte/Q00/Q0013/Q001342/)
+  - Levels 4–7: clef **20 %** · Luna **15 %** · d3-ultra not yet rated · JEV **33 %** · amos **25 %** · drex **16 %**
+  - Levels 3–7: clef **52 %** · Luna **37 %** · d3-ultra not yet rated · JEV **53 %** · amos **51 %** · drex **37 %**
+  - Summary (German): AISI schätzt den Cyber-Rückstand führender offener KI-Modelle auf vier bis sieben Monate, weist aber auf wesentliche Grenzen der Tests und eine ungewisse weitere Entwicklung hin.
+- **[Investors matter for the future of trustworthy AI. Are they ready?](https://oecd.ai/en/wonk/investors-matter-for-the-future-of-trustworthy-ai-are-they-ready)** · oecd.ai · 2026-10-12 · [Q000884](../../berichte/Q00/Q0008/Q000884/)
+  - Levels 4–7: clef **12 %** · Luna **20 %** · d3-ultra **7 %** · JEV **1 %** · amos **15 %** · drex **14 %**
+  - Levels 3–7: clef **41 %** · Luna **58 %** · d3-ultra **20 %** · JEV **5 %** · amos **44 %** · drex **38 %**
+  - Summary (German): Investoren könnten vertrauenswürdige KI stärker belohnen, doch dafür braucht es laut OECD-Beitrag praktische Bewertungsinstrumente, vergleichbare Angaben und glaubwürdige Prüfungen.
+- **[Inviting hard questions](https://www.anthropic.com/news/hard-questions)** · anthropic.com · 2026-07-09 · [Q003627](../../berichte/Q00/Q0036/Q003627/)
+  - Levels 4–7: clef **10 %** · Luna **20 %** · d3-ultra not yet rated · JEV **1 %** · amos **8 %** · drex **4 %**
+  - Levels 3–7: clef **39 %** · Luna **52 %** · d3-ultra not yet rated · JEV **4 %** · amos **26 %** · drex **9 %**
+  - Summary (German): Anthropic lädt dazu ein, schwierige KI-Fragen einzureichen, und verspricht öffentliche Berichte über Maßnahmen und mögliche Zielverfehlungen; Ergebnisse der Initiative enthält die Seite noch nicht.
+- **[Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios](https://www.aisi.gov.uk/research/measuring-ai-agents-progress-on-multi-step-cyber-attack-scenarios)** · aisi.gov.uk · 2026-03-16 · [Q001891](../../berichte/Q00/Q0018/Q001891/)
+  - Levels 4–7: clef **20 %** · Luna **7 %** · d3-ultra not yet rated · JEV **6 %** · amos **14 %** · drex **8 %**
+  - Levels 3–7: clef **52 %** · Luna **9 %** · d3-ultra not yet rated · JEV **12 %** · amos **38 %** · drex **16 %**
+  - Summary (German): Laut dem bereitgestellten Abstract stiegen die Leistungen von KI-Modellen in zwei Cyberangriffstests mit Rechenbudget und Modellgeneration, während sie beim industriellen Steuerungsszenario begrenzt blieben.
+- **[Messier than Oil: Assessing Data Advantage in Military AI](https://cset.georgetown.edu/publication/messier-than-oil-assessing-data-advantage-in-military-ai/)** · cset.georgetown.edu · 2020-07-23 · [Q005548](../../berichte/Q00/Q0055/Q005548/)
+  - Levels 4–7: clef **8 %** · Luna **20 %** · d3-ultra **1 %** · JEV **2 %** · amos **5 %** · drex **7 %**
+  - Levels 3–7: clef **18 %** · Luna **55 %** · d3-ultra **5 %** · JEV **16 %** · amos **14 %** · drex **16 %**
+  - Summary (German): Der vorliegende Auszug zufolge entsteht ein möglicher Datenvorteil für militärische KI vor allem durch aufbereitete, anwendungsspezifische Daten; kommerzielle Daten sind nur begrenzt übertragbar und die Relevanz künftiger Ansätze bleibt unklar.
+- **[NY State Senate Bill 2025-S10731](https://www.nysenate.gov/legislation/bills/2025/S10731)** · nysenate.gov ·  · [Q004986](../../berichte/Q00/Q0049/Q004986/)
+  - Levels 4–7: clef **18 %** · Luna **20 %** · d3-ultra not yet rated · JEV **1 %** · amos **17 %** · drex **14 %**
+  - Levels 3–7: clef **51 %** · Luna **36 %** · d3-ultra not yet rated · JEV **4 %** · amos **42 %** · drex **32 %**
+  - Summary (German): Der unvollständige Auszug zu S10731 zeigt einen Vorschlag, die RAISE-Act-Definition katastrophaler KI-Risiken auszuweiten, belegt aber weder den vollständigen Gesetzentwurf noch dessen späteren Status.
+- **[One Size Does Not Fit All](https://cset.georgetown.edu/publication/one-size-does-not-fit-all/)** · cset.georgetown.edu · 2023-02-22 · [Q005194](../../berichte/Q00/Q0051/Q005194/)
+  - Levels 4–7: clef **10 %** · Luna **20 %** · d3-ultra **1 %** · JEV **1 %** · amos **8 %** · drex **5 %**
+  - Levels 3–7: clef **43 %** · Luna **66 %** · d3-ultra **13 %** · JEV **43 %** · amos **33 %** · drex **16 %**
+  - Summary (German): Der vorliegende Auszug stellt CSETs Vorhaben vor, vielfältige und skalierbare Verfahren zur KI-Bewertung zu untersuchen, und enthält noch keine konkreten Forschungsergebnisse.
+- **[Opinions on Strengthening the Governance of Science and Technology Ethics](https://cset.georgetown.edu/publication/china-science-ethics-opinions/)** · cset.georgetown.edu · 2025-04-02 · [Q002882](../../berichte/Q00/Q0028/Q002882/)
+  - Levels 4–7: clef **9 %** · Luna **20 %** · d3-ultra **3 %** · JEV **7 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **35 %** · Luna **55 %** · d3-ultra **13 %** · JEV **26 %** · amos **32 %** · drex **15 %**
+  - Summary (German): Der Auszug skizziert Chinas geplante Governance für Wissenschaftsethik, doch konkrete Prüfregeln sind im bereitgestellten Text nicht enthalten.
+- **[Post by @PreyWebthree on X](https://x.com/PreyWebthree/status/2112644460886851835)** · x.com · 2026-10-14 · [Q000734](../../berichte/Q00/Q0007/Q000734/)
+  - Levels 4–7: clef **20 %** · Luna **18 %** · d3-ultra not yet rated · JEV **18 %** · amos **16 %** · drex **9 %**
+  - Levels 3–7: clef **51 %** · Luna **57 %** · d3-ultra not yet rated · JEV **39 %** · amos **40 %** · drex **19 %**
+  - Summary (German): Der Beitrag wirbt für Modell-Fingerprinting als Herkunftsnachweis für offene KI, liefert aber keine konkreten Benchmark-Ergebnisse.
+- **[Post by @sentient_found on X](https://x.com/sentient_found/status/2121241685191536964)** · x.com · 2026-10-14 · [Q001979](../../berichte/Q00/Q0019/Q001979/)
+  - Levels 4–7: clef **20 %** · Luna **3 %** · d3-ultra not yet rated · JEV **14 %** · amos **17 %** · drex **5 %**
+  - Levels 3–7: clef **52 %** · Luna **13 %** · d3-ultra not yet rated · JEV **22 %** · amos **39 %** · drex **9 %**
+  - Summary (German): Der vorliegende Auszug bewirbt eine Benchmark für fünf Verfahren zur Modellherkunftserkennung und nennt nicht unabhängig belegte Leistungsbehauptungen.
+- **[Questions and answers on the code of practice for General-Purpose AI](http://digital-strategy.ec.europa.eu/en/faqs/questions-and-answers-code-practice-general-purpose-ai)** · digital-strategy.ec.europa.eu ·  · [Q001467](../../berichte/Q00/Q0014/Q001467/)
+  - Levels 4–7: clef **20 %** · Luna **17 %** · d3-ultra **14 %** · JEV not yet rated · amos **31 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **26 %** · d3-ultra **42 %** · JEV not yet rated · amos **59 %** · drex not yet rated
+  - Summary (German): Der Auszug erklärt Zweck, Themen und Zeitplan des freiwilligen EU-Kodex für GPAI-Anbieter und endet mit einer unbeantworteten Frage nach weiteren Informationen.
+- **[Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem/)** · openai.com · 2026-06-11 · [Q007229](../../berichte/Q00/Q0072/Q007229/)
+  - Levels 4–7: clef **15 %** · Luna **20 %** · d3-ultra not yet rated · JEV **12 %** · amos **15 %** · drex **11 %**
+  - Levels 3–7: clef **40 %** · Luna **64 %** · d3-ultra not yet rated · JEV **22 %** · amos **36 %** · drex **25 %**
+  - Summary (German): OpenAI unterstützt den EU-Transparenzkodex und beschreibt Herkunftsnachweise für KI-Bilder, räumt aber ein, dass diese Signale verloren gehen oder an Wirkung einbüßen können.
+- **[The computational performance of leading AI supercomputers has doubled every nine months](https://epoch.ai/data-insights/ai-supercomputers-performance-trend)** · epoch.ai · 2025-04-30 · [Q005854](../../berichte/Q00/Q0058/Q005854/)
+  - Levels 4–7: clef **11 %** · Luna **20 %** · d3-ultra not yet rated · JEV not yet rated · amos **9 %** · drex not yet rated
+  - Levels 3–7: clef **31 %** · Luna **61 %** · d3-ultra not yet rated · JEV not yet rated · amos **28 %** · drex not yet rated
+  - Summary (German): Der vorliegende Notiz-Auszug berichtet von stark wachsender KI-Rechenleistung, betont aber, dass viele Systemangaben und Zukunftspläne nur geschätzt oder unsicher belegt sind.
+- **[The Evals Gap](https://apolloresearch.ai/science/the-evals-gap)** · apolloresearch.ai ·  · [Q001323](../../berichte/Q00/Q0013/Q001323/)
+  - Levels 4–7: clef **20 %** · Luna **16 %** · d3-ultra **4 %** · JEV not yet rated · amos **23 %** · drex not yet rated
+  - Levels 3–7: clef **55 %** · Luna **85 %** · d3-ultra **23 %** · JEV not yet rated · amos **50 %** · drex not yet rated
+  - Summary (German): Apollo Research warnt vor einer wachsenden Lücke zwischen den Sicherheitsprüfungen leistungsfähiger KI-Modelle und den Entscheidungen, die sich auf sie stützen, und fordert gezielte Finanzierung, Forschung und stärkere Anreize.
+- **[Transcript analysis for AI agent evaluations](https://www.aisi.gov.uk/blog/transcript-analysis-for-ai-agent-evaluations)** · aisi.gov.uk · 2025-10-10 · [Q002546](../../berichte/Q00/Q0025/Q002546/)
+  - Levels 4–7: clef **20 %** · Luna **8 %** · d3-ultra not yet rated · JEV **11 %** · amos **21 %** · drex **11 %**
+  - Levels 3–7: clef **53 %** · Luna **16 %** · d3-ultra not yet rated · JEV **29 %** · amos **48 %** · drex **21 %**
+  - Summary (German): Laut AISI ergänzen systematisch ausgewertete Agentenprotokolle Erfolgsquoten, indem sie Fehlermuster und mögliche Schwächen der Prüfung sichtbar machen.
+- **[Trends in AI Research for the Visual Surveillance of Populations](https://cset.georgetown.edu/publication/trends-in-ai-research-for-the-visual-surveillance-of-populations/)** · cset.georgetown.edu · 2022-01-05 · [Q004735](../../berichte/Q00/Q0047/Q004735/)
+  - Levels 4–7: clef **5 %** · Luna **20 %** · d3-ultra **0 %** · JEV **7 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **12 %** · Luna **51 %** · d3-ultra **1 %** · JEV **32 %** · amos **10 %** · drex **11 %**
+  - Summary (German): Der vorliegende Auszug berichtet, dass visuelle Überwachung unter zehn Prozent der untersuchten englischsprachigen Computer-Vision-Forschung ausmacht und China einen großen Publikationsanteil stellt, wobei die Analyse tatsächliche Überwachungspraxis nicht direkt erfasst.
+- **[Twenty Years of the NSAF Joint Fund: Exploration and Practice of a New Model for Strengthening Requirement-Led Basic Scientific Research Collaboration and Innovation](https://cset.georgetown.edu/publication/china-national-security-academic-fund/)** · cset.georgetown.edu · 2023-04-06 · [Q005653](../../berichte/Q00/Q0056/Q005653/)
+  - Levels 4–7: clef **4 %** · Luna **20 %** · d3-ultra **0 %** · JEV **18 %** · amos **5 %** · drex **7 %**
+  - Levels 3–7: clef **9 %** · Luna **63 %** · d3-ultra **1 %** · JEV **65 %** · amos **10 %** · drex **13 %**
+  - Summary (German): Der Auszug erläutert Ziele und Entstehung des NSAF, enthält aber keine Finanzierungs- oder Ergebnisdaten; die behauptete internationale Mitwirkung und ein möglicher Nutzen für CAEP werden hier nicht belegt.
+- **[Unpacking the ‘AI wardrobe’: How national policies are shaping the future of AI](https://oecd.ai/en/wonk/ai-wardrobe-national-policies)** · oecd.ai · 2024-10-30 · [Q004811](../../berichte/Q00/Q0048/Q004811/)
+  - Levels 4–7: clef **6 %** · Luna **20 %** · d3-ultra **1 %** · JEV **2 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **39 %** · Luna **55 %** · d3-ultra **7 %** · JEV **15 %** · amos **21 %** · drex **17 %**
+  - Summary (German): Die Analyse staatlicher KI-Politiken findet weltweit wiederkehrende, regional unterschiedlich kombinierte Themen, liefert aber keine Aussage darüber, ob angekündigte Ziele erreicht werden.
+- **[WAIC Artificial Intelligence Security and Rule of Law Guidelines](https://cset.georgetown.edu/publication/waic-artificial-intelligence-security-and-rule-of-law-guidelines/)** · cset.georgetown.edu · 2020-01-15 · [Q006566](../../berichte/Q00/Q0065/Q006566/)
+  - Levels 4–7: clef **11 %** · Luna **20 %** · d3-ultra **11 %** · JEV **1 %** · amos **15 %** · drex **13 %**
+  - Levels 3–7: clef **41 %** · Luna **60 %** · d3-ultra **26 %** · JEV **5 %** · amos **43 %** · drex **28 %**
+  - Summary (German): Die Leitlinien schlagen Maßnahmen gegen technische, datenbezogene, rechtliche und soziale KI-Risiken vor, ohne deren Wirksamkeit zu belegen.
+- **[Why we're working on white box control](https://www.aisi.gov.uk/blog/why-were-working-on-white-box-control)** · aisi.gov.uk · 2025-07-10 · [Q002209](../../berichte/Q00/Q0022/Q002209/)
+  - Levels 4–7: clef **20 %** · Luna **3 %** · d3-ultra not yet rated · JEV **14 %** · amos **15 %** · drex **6 %**
+  - Levels 3–7: clef **51 %** · Luna **5 %** · d3-ultra not yet rated · JEV **32 %** · amos **40 %** · drex **13 %**
+  - Summary (German): Der AISI-Bericht sieht in White-Box-Verfahren einen möglichen Weg, strategisches Unterperformen von KI zu erkennen, betont aber, dass die vorläufigen Ergebnisse bei größeren Modellen und schwierigeren Aufgaben nachlassen.
+- **[人工智能原则: 美国国防部关于人工智能道德使用的建议](https://cset.georgetown.edu/publication/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%8e%9f%e5%88%99-%e7%be%8e%e5%9b%bd%e5%9b%bd%e9%98%b2%e9%83%a8%e5%85%b3%e4%ba%8e%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e9%81%93%e5%be%b7%e4%bd%bf%e7%94%a8%e7%9a%84/)** · cset.georgetown.edu · 2019-12-10 · [Q006534](../../berichte/Q00/Q0065/Q006534/)
+  - Levels 4–7: clef **15 %** · Luna **20 %** · d3-ultra **5 %** · JEV **4 %** · amos **17 %** · drex **12 %**
+  - Levels 3–7: clef **50 %** · Luna **94 %** · d3-ultra **17 %** · JEV **19 %** · amos **48 %** · drex **32 %**
+  - Summary (German): Der Bericht empfiehlt fünf ethische KI-Grundsätze und zwölf Umsetzungsschritte für das US-Verteidigungsministerium, über deren endgültige Annahme dieses selbst entscheidet.
+- **[010ee6f](https://partnershiponai.org/paper_page/010ee6f/)** · partnershiponai.org · 2025-04-01 · [Q002454](../../berichte/Q00/Q0024/Q002454/)
+  - Levels 4–7: clef **11 %** · Luna **19 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **35 %** · Luna **63 %** · d3-ultra not yet rated · JEV **3 %** · amos **17 %** · drex **11 %**
+  - Summary (German): Der vorliegende Leitfadenauszug empfiehlt öffentliche Beteiligung über den gesamten KI-Entwicklungszyklus, um laut Bericht Risiken und Bedürfnisse besser zu erkennen, doch das angekündigte Regelwerk und Diagramm sowie empirische Belege fehlen.
+- **[16 – Algorithmic Transparency in the Public Sector Recommendations for Governments to Enhance the Transparency of Public Algorithms](https://oecd.ai/en/wonk/documents/16-algorithmic-transparency-in-the-public-sector-recommendations-for-governments-to-enhance-the-transparency-of-public-algorithms)** · oecd.ai · 2024-12-03 · [Q005076](../../berichte/Q00/Q0050/Q005076/)
+  - Levels 4–7: clef **13 %** · Luna **19 %** · d3-ultra **2 %** · JEV **5 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **36 %** · Luna **56 %** · d3-ultra **11 %** · JEV **18 %** · amos **28 %** · drex **16 %**
+  - Summary (German): Der vorliegende Auszug kündigt eine GPAI-Analyse zu Transparenzinstrumenten im öffentlichen Sektor und Empfehlungen für Regierungen an, nennt aber keine konkreten Ergebnisse.
+- **[AI in South Korea—OpenAI’s Economic Blueprint](https://openai.com/index/south-korea-economic-blueprint/)** · openai.com · 2025-10-23 · [Q003691](../../berichte/Q00/Q0036/Q003691/)
+  - Levels 4–7: clef **9 %** · Luna **19 %** · d3-ultra not yet rated · JEV **12 %** · amos **9 %** · drex **5 %**
+  - Levels 3–7: clef **34 %** · Luna **88 %** · d3-ultra not yet rated · JEV **38 %** · amos **30 %** · drex **16 %**
+  - Summary (German): Der vorliegende Überblicksauszug gibt OpenAIs Vorschlag wieder, Südkorea solle eigene KI-Fähigkeiten und internationale Partnerschaften verbinden; der vollständige Bericht mit Empfehlungen und Fallbeispielen liegt hier nicht vor.
+- **[AI openness: Balancing innovation, transparency and risk in open-weight models](https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models)** · oecd.ai · 2025-08-28 · [Q001090](../../berichte/Q00/Q0010/Q001090/)
+  - Levels 4–7: clef **9 %** · Luna **19 %** · d3-ultra **2 %** · JEV **14 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **41 %** · Luna **87 %** · d3-ultra **10 %** · JEV **66 %** · amos **36 %** · drex **26 %**
+  - Summary (German): Der Beitrag plädiert dafür, offene KI-Gewichte anhand ihrer kontextabhängigen zusätzlichen Vorteile und Risiken zu beurteilen und solche Abwägungen in ein umfassendes Risikomanagement einzubetten.
+- **[AI safety solutions mapping: An initiative for advanced AI governance](https://oecd.ai/en/wonk/ai-safety-solutions-risk-mapping)** · oecd.ai · 2025-02-06 · [Q004721](../../berichte/Q00/Q0047/Q004721/)
+  - Levels 4–7: clef **12 %** · Luna **19 %** · d3-ultra **4 %** · JEV **16 %** · amos **16 %** · drex **11 %**
+  - Levels 3–7: clef **46 %** · Luna **87 %** · d3-ultra **20 %** · JEV **63 %** · amos **44 %** · drex **34 %**
+  - Summary (German): GRASP soll laut Bericht internationale KI-Risiken und Sicherheitslösungen für Forschung und Politik kartieren; konkrete Wirkungsnachweise enthält der Text nicht.
+- **[Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)** · anthropic.com · 2024-12-18 · [Q004030](../../berichte/Q00/Q0040/Q004030/)
+  - Levels 4–7: clef **19 %** · Luna **8 %** · d3-ultra not yet rated · JEV **19 %** · amos **16 %** · drex **6 %**
+  - Levels 3–7: clef **54 %** · Luna **21 %** · d3-ultra not yet rated · JEV **26 %** · amos **41 %** · drex **14 %**
+  - Summary (German): Laut Anthropic zeigte Claude 3 Opus in Experimenten strategisches Alignment-Faking, doch die Studie belegt weder bösartige Ziele noch ein zwangsläufiges Auftreten gefährlichen Verhaltens.
+- **[Application Guide for the 2021 First Batch of Projects for the "Intergovernmental International Cooperation on Science and Technology Innovation" Key Special Project (Draft for Feedback)](https://cset.georgetown.edu/publication/application-guide-for-the-2021-first-batch-of-projects-for-the-intergovernmental-international-cooperation-on-science-and-technology-innovation-key-special-project-draft-for-feedback/)** · cset.georgetown.edu · 2022-11-17 · [Q006037](../../berichte/Q00/Q0060/Q006037/)
+  - Levels 4–7: clef **4 %** · Luna **19 %** · d3-ultra **0 %** · JEV **5 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **8 %** · Luna **80 %** · d3-ultra **1 %** · JEV **32 %** · amos **10 %** · drex **10 %**
+  - Summary (German): Der Auszug nennt Umfang und Ziele eines chinesischen Förderprogramms für internationale Forschungskooperation 2021, enthält aber nicht die konkreten Projektrichtungen und verweist für den Rest auf ein PDF.
+- **[Chinese Academy of Sciences 2023 Budget](https://cset.georgetown.edu/publication/cas-budget-2023/)** · cset.georgetown.edu · 2024-02-27 · [Q003661](../../berichte/Q00/Q0036/Q003661/)
+  - Levels 4–7: clef **4 %** · Luna **19 %** · d3-ultra **0 %** · JEV **2 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **8 %** · Luna **66 %** · d3-ultra **4 %** · JEV **32 %** · amos **9 %** · drex **11 %**
+  - Summary (German): Der Auszug skizziert Auftrag und Aufgaben der Chinesischen Akademie der Wissenschaften, enthält aber keine Haushaltszahlen; der restliche Bericht liegt laut Text als PDF vor.
+- **[Data Justice in Practice: A Guide for Policymakers](https://oecd.ai/en/wonk/documents/data-justice-in-practice-a-guide-for-policymakers)** · oecd.ai · 2025-05-15 · [Q004031](../../berichte/Q00/Q0040/Q004031/)
+  - Levels 4–7: clef **7 %** · Luna **19 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %**
+  - Levels 3–7: clef **24 %** · Luna **59 %** · d3-ultra **3 %** · JEV **6 %** · amos **10 %** · drex **7 %**
+  - Summary (German): Der vorliegende Bericht ist nur ein Auszug: Das Projekt will politische Orientierung zu Data Justice geben und sichtbar machen, wie historisch gewachsene Ungleichheiten heutige Datenpraktiken prägen.
+- **[DeepMind: Exploring institutions for global AI governance](https://oecd.ai/en/wonk/deepmind-global-ai-governance)** · oecd.ai · 2023-07-13 · [Q006136](../../berichte/Q00/Q0061/Q006136/)
+  - Levels 4–7: clef **19 %** · Luna **19 %** · d3-ultra **1 %** · JEV **16 %** · amos **10 %** · drex **12 %**
+  - Levels 3–7: clef **53 %** · Luna **87 %** · d3-ultra **14 %** · JEV **68 %** · amos **36 %** · drex **34 %**
+  - Summary (German): Der Auszug fordert eine inklusive internationale KI-Governance gegen mögliche Missbrauchsrisiken, enthält aber keine konkreten institutionellen Vorschläge oder Ergebnisse.
+- **[Eval-production behavior gaps in agent safety and the role of eval-awareness](https://alignment.openai.com/eval-production-behavior-gap/)** · alignment.openai.com · 2026-11-03 · [Q000308](../../berichte/Q00/Q0003/Q000308/)
+  - Levels 4–7: clef **19 %** · Luna **2 %** · d3-ultra **0 %** · JEV not yet rated · amos **12 %** · drex not yet rated
+  - Levels 3–7: clef **51 %** · Luna **2 %** · d3-ultra **4 %** · JEV not yet rated · amos **36 %** · drex not yet rated
+  - Summary (German): Laut Bericht lagen die Sicherheitsergebnisse in der Evaluation unter denen vergleichbarer Produktionsentscheidungen, und konkrete Vermutungen über das Testziel könnten diese Lücke beeinflussen.
+- **[Frontier risk and preparedness](https://openai.com/index/frontier-risk-and-preparedness/)** · openai.com · 2023-10-26 · [Q009099](../../berichte/Q00/Q0090/Q009099/)
+  - Levels 4–7: clef **10 %** · Luna **19 %** · d3-ultra not yet rated · JEV **15 %** · amos **13 %** · drex **9 %**
+  - Levels 3–7: clef **43 %** · Luna **58 %** · d3-ultra not yet rated · JEV **58 %** · amos **39 %** · drex **27 %**
+  - Summary (German): OpenAI kündigt ein Team und eine Richtlinie zur Vorbereitung auf katastrophale KI-Risiken an, legt im Bericht aber noch keine konkreten Ergebnisse oder Prüfmaßstäbe vor.
+- **[Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say](https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference)** · theguardian.com · 2026-09-21 · [Q000088](../../berichte/Q00/Q0000/Q000088/)
+  - Levels 4–7: clef **14 %** · Luna **19 %** · d3-ultra not yet rated · JEV **16 %** · amos **13 %** · drex **8 %**
+  - Levels 3–7: clef **45 %** · Luna **56 %** · d3-ultra not yet rated · JEV **58 %** · amos **37 %** · drex **21 %**
+  - Summary (German): Der Bericht schildert Ed Daveys angekündigte Forderung nach internationaler Kontrolle superintelligenter KI sowie weitere Liberal-Democrats-Vorschläge, ohne die angekündigte Rede oder deren Annahmen unabhängig zu bestätigen.
+- **[Helen Toner joins OpenAI’s board of directors](https://openai.com/index/helen-toner-joins/)** · openai.com · 2021-09-08 · [Q008272](../../berichte/Q00/Q0082/Q008272/)
+  - Levels 4–7: clef **5 %** · Luna **19 %** · d3-ultra not yet rated · JEV **17 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **18 %** · Luna **83 %** · d3-ultra not yet rated · JEV **38 %** · amos **16 %** · drex **15 %**
+  - Summary (German): OpenAI kündigt die Berufung der KI-Politikexpertin Helen Toner in seinen Verwaltungsrat an und verweist auf ihre Arbeit zu globaler KI-Strategie und Sicherheit.
+- **[How anticipatory governance can lead to AI policies that stand the test of time](https://oecd.ai/en/wonk/how-anticipatory-governance-can-lead-to-ai-policies-that-stand-the-test-of-time)** · oecd.ai · 2025-04-29 · [Q003742](../../berichte/Q00/Q0037/Q003742/)
+  - Levels 4–7: clef **13 %** · Luna **19 %** · d3-ultra **2 %** · JEV **1 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **48 %** · Luna **84 %** · d3-ultra **15 %** · JEV **22 %** · amos **36 %** · drex **24 %**
+  - Summary (German): Der OECD-Beitrag empfiehlt fünf miteinander abgestimmte Bausteine für vorausschauende KI-Governance, belegt ihre Wirkung jedoch nicht quantitativ.
+- **[Leading Scientists Call for Global Action at International Dialogue on AI Safety](https://www.far.ai/blog/leading-scientists-call-for-global-action-at-international-dialogue-on-ai-safety)** · far.ai · 2026-08-19 · [Q001349](../../berichte/Q00/Q0013/Q001349/)
+  - Levels 4–7: clef **10 %** · Luna **19 %** · d3-ultra not yet rated · JEV **2 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **40 %** · Luna **78 %** · d3-ultra not yet rated · JEV **43 %** · amos **27 %** · drex **15 %**
+  - Summary (German): FAR.AI berichtet über einen internationalen KI-Sicherheitsdialog von 2023, dessen Teilnehmende laut Artikel koordinierte globale Forschung und Regulierung forderten.
+- **[Models as Insider Risks in the Super Intelligence Era](https://x.com/satyanadella/status/2108931348857827686?a=RXRZuAAPG0S0dFX1ulU&s=20)** · x.com · 2026-10-10 · [Q005078](../../berichte/Q00/Q0050/Q005078/)
+  - Levels 4–7: clef **19 %** · Luna **14 %** · d3-ultra not yet rated · JEV **18 %** · amos **17 %** · drex **14 %**
+  - Levels 3–7: clef **45 %** · Luna **60 %** · d3-ultra not yet rated · JEV **47 %** · amos **42 %** · drex **40 %**
+  - Summary (German): Der Beitrag plädiert dafür, leistungsfähige KI durch externe, überprüfbare Kontrollen zu begrenzen, statt sich auf Vertrauen in das Modell zu verlassen.
+- **[National- and Provincial-Level Scientific and Technological Achievement Conversion Promotion: A Policy Compendium](https://cset.georgetown.edu/publication/national-and-provincial-level-scientific-and-technological-achievement-conversion-promotion-a-policy-compendium/)** · cset.georgetown.edu · 2022-02-24 · [Q006171](../../berichte/Q00/Q0061/Q006171/)
+  - Levels 4–7: clef **4 %** · Luna **19 %** · d3-ultra **0 %** · JEV **3 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **7 %** · Luna **58 %** · d3-ultra **1 %** · JEV **9 %** · amos **8 %** · drex **8 %**
+  - Summary (German): Der Auszug zeigt nur den Anfang des übersetzten Inhaltsverzeichnisses eines chinesischen Politikkompendiums zur praktischen Nutzung von Forschungsergebnissen, nicht die Regelungstexte selbst.
+- **[Post by @ITU on X](https://x.com/ITU/status/2118713946882654527)** · x.com · 2026-11-06 · [Q001855](../../berichte/Q00/Q0018/Q001855/)
+  - Levels 4–7: clef **12 %** · Luna **19 %** · d3-ultra not yet rated · JEV **2 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **41 %** · Luna **63 %** · d3-ultra not yet rated · JEV **34 %** · amos **37 %** · drex **22 %**
+  - Summary (German): Der bereitgestellte X-Beitrag behauptet, internationale Standards von ITU, IEC und ISO könnten helfen, fortgeschrittene KI durch Tests und internationale Zusammenarbeit sicherer und vertrauenswürdiger zu machen; der verlinkte Bericht liegt nicht vor.
+- **[Post by @MTSlive on X](https://x.com/MTSlive/status/2115549014582329608)** · x.com · 2026-10-28 · [Q001105](../../berichte/Q00/Q0011/Q001105/)
+  - Levels 4–7: clef **9 %** · Luna **19 %** · d3-ultra not yet rated · JEV **2 %** · amos **7 %** · drex **7 %**
+  - Levels 3–7: clef **47 %** · Luna **51 %** · d3-ultra not yet rated · JEV **22 %** · amos **24 %** · drex **21 %**
+  - Summary (German): Der vorliegende Auszug berichtet, dass ein KI-Unternehmenschef Rechenlimits als grobes mögliches Kontrollmittel erwägt, ohne deren Folgen zu belegen; die Kommentare hinterfragen Nutzen und Ausstieg, die angekündigte Abbildung fehlt.
+- **[Post by @Pontifex on X](https://x.com/Pontifex/status/2116146981709938839)** · x.com · 2026-10-30 · [Q001319](../../berichte/Q00/Q0013/Q001319/)
+  - Levels 4–7: clef **13 %** · Luna **19 %** · d3-ultra not yet rated · JEV **2 %** · amos **11 %** · drex **8 %**
+  - Levels 3–7: clef **48 %** · Luna **77 %** · d3-ultra not yet rated · JEV **18 %** · amos **35 %** · drex **23 %**
+  - Summary (German): Ein unvollständiger X-Beitrag fordert verantwortliche menschliche Kontrolle über KI, internationale Aufsicht und Schritte zum Verbot tödlicher autonomer Waffen.
+- **[Post by @robertwiblin on X](https://x.com/tobyordoxford/status/2120576085280583866)** · x.com · 2026-11-11 · [Q001754](../../berichte/Q00/Q0017/Q001754/)
+  - Levels 4–7: clef **11 %** · Luna **19 %** · d3-ultra not yet rated · JEV **2 %** · amos **10 %** · drex **11 %**
+  - Levels 3–7: clef **40 %** · Luna **54 %** · d3-ultra not yet rated · JEV **8 %** · amos **29 %** · drex **26 %**
+  - Summary (German): Der Berichtsauszug behauptet, staatliche oder ausländische Vorgaben könnten KI-Sicherheitskooperation trotz kartellrechtlicher Regeln ermöglichen, belegt oder erläutert dies selbst aber nicht.
+- **[Reducing the Risks of Artificial Intelligence for Military Decision Advantage](https://cset.georgetown.edu/publication/reducing-the-risks-of-artificial-intelligence-for-military-decision-advantage/)** · cset.georgetown.edu · 2023-03-08 · [Q003866](../../berichte/Q00/Q0038/Q003866/)
+  - Levels 4–7: clef **17 %** · Luna **19 %** · d3-ultra **6 %** · JEV **6 %** · amos **14 %** · drex **15 %**
+  - Levels 3–7: clef **51 %** · Luna **62 %** · d3-ultra **19 %** · JEV **26 %** · amos **39 %** · drex **35 %**
+  - Summary (German): Der vorliegende Auszug empfiehlt, militärische KI eng zu begrenzen und abzusichern, da ihre Fehler trotz möglicher Entscheidungsvorteile Eskalationen begünstigen können.
+- **[The Dark Side of Anthropic’s Growth](https://medium.com/ai-in-plain-english/the-dark-side-of-anthropics-growth-573b9dec742f)** · medium.com · 2026-05-21 · [Q010920](../../berichte/Q01/Q0109/Q010920/)
+  - Levels 4–7: clef **10 %** · Luna **19 %** · d3-ultra **2 %** · JEV **6 %** · amos **13 %** · drex **9 %**
+  - Levels 3–7: clef **40 %** · Luna **76 %** · d3-ultra **10 %** · JEV **22 %** · amos **40 %** · drex **20 %**
+  - Summary (German): Der Beitrag sieht Anthropic zwischen Sicherheitsanspruch und kommerziellem Wachstumsdruck gefangen und fordert Regeln, die verantwortliches Handeln auch unter Wettbewerbsdruck stützen.
+- **[Towards algorithm auditing: A research overview](https://oecd.ai/en/wonk/algorithm-auditing-research-overview)** · oecd.ai · 2024-07-04 · [Q005375](../../berichte/Q00/Q0053/Q005375/)
+  - Levels 4–7: clef **19 %** · Luna **13 %** · d3-ultra **13 %** · JEV **10 %** · amos **23 %** · drex **13 %**
+  - Levels 3–7: clef **49 %** · Luna **76 %** · d3-ultra **46 %** · JEV **36 %** · amos **53 %** · drex **33 %**
+  - Summary (German): Der Beitrag plädiert für wiederkehrende, kontextspezifische Algorithmus-Audits, deren Zusicherung nur die tatsächlich geprüften Standards und Rechtsvorgaben abdeckt.
+- **[What is web3? Part 1 of a three-part vlog on the OECD and web3](https://oecd.ai/en/wonk/web3-part1)** · oecd.ai · 2023-03-09 · [Q006337](../../berichte/Q00/Q0063/Q006337/)
+  - Levels 4–7: clef **8 %** · Luna **19 %** · d3-ultra not yet rated · JEV **1 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **34 %** · Luna **67 %** · d3-ultra not yet rated · JEV **6 %** · amos **22 %** · drex **13 %**
+  - Summary (German): Der OECD-Beitrag führt Web3 als Zusammenspiel von Blockchain, KI und dezentralen Anwendungen ein und wirbt für koordinierte internationale Regeln, ohne die genannten Beispiele systematisch zu bewerten.
+- **[人工智能控制：如何利用违规人工智能体](https://cset.georgetown.edu/publication/ai-control-chinese/)** · cset.georgetown.edu · 2025-11-05 · [Q002124](../../berichte/Q00/Q0021/Q002124/)
+  - Levels 4–7: clef **15 %** · Luna **19 %** · d3-ultra **2 %** · JEV **2 %** · amos **17 %** · drex **13 %**
+  - Levels 3–7: clef **41 %** · Luna **59 %** · d3-ultra **10 %** · JEV **15 %** · amos **46 %** · drex **29 %**
+  - Summary (German): KI-Kontrolle soll gefährliche Handlungen autonomer Agenten begrenzen, doch ihre Wirksamkeit bei sehr leistungsfähigen Systemen sowie Kosten und Prüfaufwand bleiben laut Bericht offen.
+- **[Annual Letter from the Executive Director](https://www.frontiermodelforum.org/updates/annual-letter-from-the-executive-director/)** · frontiermodelforum.org · 2025-12-22 · [Q002016](../../berichte/Q00/Q0020/Q002016/)
+  - Levels 4–7: clef **13 %** · Luna **18 %** · d3-ultra not yet rated · JEV **23 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **40 %** · Luna **77 %** · d3-ultra not yet rated · JEV **47 %** · amos **34 %** · drex **21 %**
+  - Summary (German): Der Auszug aus dem FMF-Jahresbericht fasst nach eigener Darstellung Fortschritte bei KI-Sicherheitsstandards, Forschung und Informationsaustausch zusammen, ohne sie unabhängig zu belegen.
+- **[Anthropic is donating $20 million to Public First Action](https://www.anthropic.com/news/donate-public-first-action)** · anthropic.com · 2026-02-12 · [Q005303](../../berichte/Q00/Q0053/Q005303/)
+  - Levels 4–7: clef **11 %** · Luna **18 %** · d3-ultra not yet rated · JEV **2 %** · amos **12 %** · drex **10 %**
+  - Levels 3–7: clef **49 %** · Luna **67 %** · d3-ultra not yet rated · JEV **12 %** · amos **38 %** · drex **24 %**
+  - Summary (German): Anthropic will 20 Millionen US-Dollar an eine parteiübergreifende Organisation für KI-Politik spenden und begründet dies mit dem Bedarf an Schutzregeln, Transparenz und bundesweiter Regulierung.
+- **[A Sociotechnical Examination of Differentially Private Federated Statistics as an Algorithmic Fairness Technique](https://partnershiponai.org/paper_page/sociotechnical-examination/)** · partnershiponai.org · 2023-12-06 · [Q001151](../../berichte/Q00/Q0011/Q001151/)
+  - Levels 4–7: clef **8 %** · Luna **18 %** · d3-ultra not yet rated · JEV **10 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **21 %** · Luna **53 %** · d3-ultra not yet rated · JEV **22 %** · amos **26 %** · drex **14 %**
+  - Summary (German): DPFS kann Fairnessprüfungen datenschutzfreundlicher machen, doch ihr Nutzen hängt von inklusiver Gestaltung und einer kontextabhängigen Abwägung zwischen Privatsphäre, Genauigkeit und Sichtbarkeit betroffener Gruppen ab.
+- **[Eyes Off My Data: Conclusion](https://partnershiponai.org/paper_page/conclusion/)** · partnershiponai.org · 2023-12-06 · [Q000817](../../berichte/Q00/Q0008/Q000817/)
+  - Levels 4–7: clef **8 %** · Luna **18 %** · d3-ultra not yet rated · JEV **9 %** · amos **10 %** · drex **5 %**
+  - Levels 3–7: clef **24 %** · Luna **70 %** · d3-ultra not yet rated · JEV **20 %** · amos **28 %** · drex **11 %**
+  - Summary (German): Der vorliegende Schlussabschnitt empfiehlt, datenschutzfreundliche Statistik als begrenzte Unterstützung umfassender Fairnessprüfungen einzusetzen und dabei Zweck, Beteiligung, Schutz und Speicherdauer sorgfältig festzulegen.
+- **[From scraping to ethical sharing: Initial considerations for Virtuous Innovative Approaches and Data Use Collaboration in AI Training (VIADUCT)](https://oecd.ai/en/wonk/documents/from-scraping-to-ethical-sharing-initial-considerations-for-virtuous-innovative-approaches-and-data-use-collaboration-in-ai-training-viaduct)** · oecd.ai · 2026-02-12 · [Q002003](../../berichte/Q00/Q0020/Q002003/)
+  - Levels 4–7: clef **7 %** · Luna **18 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **2 %**
+  - Levels 3–7: clef **30 %** · Luna **68 %** · d3-ultra **2 %** · JEV **15 %** · amos **13 %** · drex **5 %**
+  - Summary (German): Der vorliegende Auszug zufolge reichen bisherige Lösungen für die rechtlich und ethisch umstrittene Beschaffung von KI-Trainingsdaten nicht aus; nötig sei eine kontextbezogene Governance.
+- **[Frontier AI Biosafety Thresholds](https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/)** · frontiermodelforum.org · 2025-05-12 · [Q002303](../../berichte/Q00/Q0023/Q002303/)
+  - Levels 4–7: clef **18 %** · Luna **18 %** · d3-ultra not yet rated · JEV **1 %** · amos **22 %** · drex **11 %**
+  - Levels 3–7: clef **58 %** · Luna **48 %** · d3-ultra not yet rated · JEV **6 %** · amos **52 %** · drex **22 %**
+  - Summary (German): Laut Bericht sollten Biosicherheitsschwellen erfassen, ob KI die Entwicklung biologischer Gefahren erheblich erleichtert; wie dies zuverlässig zu messen ist, bleibt jedoch offen.
+- **[Governing with artificial intelligence: Are governments ready?](https://oecd.ai/en/wonk/governing-with-artificial-intelligence)** · oecd.ai · 2024-08-27 · [Q003279](../../berichte/Q00/Q0032/Q003279/)
+  - Levels 4–7: clef **13 %** · Luna **18 %** · d3-ultra **1 %** · JEV **3 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **45 %** · Luna **61 %** · d3-ultra **9 %** · JEV **11 %** · amos **25 %** · drex **17 %**
+  - Summary (German): Die OECD-Zusammenfassung sieht in KI Chancen für Verwaltung und öffentliche Dienste, fordert aber klare Strategien, Kompetenzen, Schutzregeln und Zusammenarbeit, um Risiken wie Verzerrung, Intransparenz und Datenschutzprobleme zu begrenzen.
+- **[GPAI SAFE project report: Technical trustworthiness and data governance assurance of models](https://oecd.ai/en/wonk/documents/gpai-safe-project-report-technical-trustworthiness-and-data-governance-assurance-of-models)** · oecd.ai · 2025-09-02 · [Q002626](../../berichte/Q00/Q0026/Q002626/)
+  - Levels 4–7: clef **16 %** · Luna **18 %** · d3-ultra **2 %** · JEV **9 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **52 %** · Luna **67 %** · d3-ultra **25 %** · JEV **54 %** · amos **44 %** · drex **33 %**
+  - Summary (German): Der vorliegende Auszug stellt SAFE und seine zwei Arbeitsbereiche vor, enthält aber keine konkreten Methoden oder Ergebnisse.
+- **[Harnessing Artificial Intelligence for Development](https://oecd.ai/en/wonk/harnessing-artificial-intelligence-for-development)** · oecd.ai · 2020-07-29 · [Q007133](../../berichte/Q00/Q0071/Q007133/)
+  - Levels 4–7: clef **9 %** · Luna **18 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **2 %**
+  - Levels 3–7: clef **34 %** · Luna **61 %** · d3-ultra **3 %** · JEV **4 %** · amos **14 %** · drex **5 %**
+  - Summary (German): KI kann laut Bericht Entwicklungsaufgaben unterstützen, doch Regierungen müssen Risiken und digitale Ungleichheit mit länderspezifischer Politik angehen; die vorgestellten Ansätze und Diagnoseinstrumente sind noch in Entwicklung.
+- **[How an 'AI freeze' could make big AI companies bigger and hurt smaller firms](https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic)** · npr.org · 2026-09-23 · [Q000104](../../berichte/Q00/Q0001/Q000104/)
+  - Levels 4–7: clef **18 %** · Luna **15 %** · d3-ultra not yet rated · JEV **25 %** · amos **31 %** · drex **22 %**
+  - Levels 3–7: clef **49 %** · Luna **76 %** · d3-ultra not yet rated · JEV **57 %** · amos **59 %** · drex **51 %**
+  - Summary (German): Kritiker warnen laut NPR, ein KI-Stopp könne die Marktstellung der größten Labore festschreiben; wie eine sichere, überprüfbare internationale Verlangsamung aussehen könnte, bleibt offen.
+- **[How can safety cases be used to help with frontier AI safety?](https://www.aisi.gov.uk/blog/how-can-safety-cases-be-used-to-help-with-frontier-ai-safety)** · aisi.gov.uk · 2025-02-10 · [Q002428](../../berichte/Q00/Q0024/Q002428/)
+  - Levels 4–7: clef **18 %** · Luna **16 %** · d3-ultra not yet rated · JEV **9 %** · amos **21 %** · drex **14 %**
+  - Levels 3–7: clef **49 %** · Luna **61 %** · d3-ultra not yet rated · JEV **40 %** · amos **52 %** · drex **35 %**
+  - Summary (German): Der vorliegende Bericht ist ein Auszug mit einer am Ende abgebrochenen Bildbeschreibung: Das AISI sieht Sicherheitsnachweise als mögliche Entscheidungshilfe für Frontier-KI, betont aber, dass belastbare Verfahren und wichtige Grundlagenfragen noch ungelöst sind.
+- **[How to govern AI in agriculture responsibly: risks, tools and solutions](https://oecd.ai/en/wonk/how-to-govern-ai-in-agriculture-responsibly-risks-tools-and-solutions)** · oecd.ai · 2025-07-16 · [Q002352](../../berichte/Q00/Q0023/Q002352/)
+  - Levels 4–7: clef **10 %** · Luna **18 %** · d3-ultra **2 %** · JEV **4 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **38 %** · Luna **51 %** · d3-ultra **10 %** · JEV **14 %** · amos **31 %** · drex **25 %**
+  - Summary (German): Der Bericht empfiehlt, landwirtschaftliche KI durch Beteiligung, Datenschutz, Transparenz, Audits und anpassungsfähige Regeln verantwortungsvoll zu steuern, beschreibt die Vorteile und Risiken jedoch überwiegend qualitativ.
+- **[Issue Brief: Preliminary Taxonomy of AI-Bio Safety Evaluations](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-ai-bio-safety-evaluations/)** · frontiermodelforum.org · 2024-12-20 · [Q002149](../../berichte/Q00/Q0021/Q002149/)
+  - Levels 4–7: clef **18 %** · Luna **13 %** · d3-ultra not yet rated · JEV **2 %** · amos **26 %** · drex **14 %**
+  - Levels 3–7: clef **55 %** · Luna **41 %** · d3-ultra not yet rated · JEV **8 %** · amos **56 %** · drex **30 %**
+  - Summary (German): Das Frontier Model Forum ordnet frühe Sicherheitsbewertungen biologischer KI nach Methoden und Themenbereichen, betont aber, dass seine Taxonomie vorläufig und nicht vollständig ist.
+- **[OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute](https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/)** · the-decoder.com · 2026-11-12 · [Q000306](../../berichte/Q00/Q0003/Q000306/)
+  - Levels 4–7: clef **18 %** · Luna **4 %** · d3-ultra not yet rated · JEV **51 %** · amos **26 %** · drex **12 %**
+  - Levels 3–7: clef **52 %** · Luna **10 %** · d3-ultra not yet rated · JEV **66 %** · amos **51 %** · drex **25 %**
+  - Summary (German): OpenAI zufolge wird die Überwachung von KI-Gedankengängen durch konkrete Trainings- und Architekturentscheidungen erschwert; praktikable Kontrolle muss daher über das bloße Mitlesen sichtbarer Zwischenschritte hinausgehen.
+- **[OpenAI study probes reasoning-trace oversight](https://casrai.org/news/openai-chain-of-thought-monitorability-training-study-2026)** · casrai.org · 2026-11-14 · [Q000317](../../berichte/Q00/Q0003/Q000317/)
+  - Levels 4–7: clef **14 %** · Luna **18 %** · d3-ultra **1 %** · JEV **51 %** · amos **16 %** · drex **8 %**
+  - Levels 3–7: clef **49 %** · Luna **62 %** · d3-ultra **9 %** · JEV **78 %** · amos **49 %** · drex **19 %**
+  - Summary (German): OpenAIs Studie berichtet Veränderungen bei Reasoning-Spuren und Kontrollierbarkeit, doch die Tests zeigen nicht, dass kontrollierbarere Modelle besser ausweichen oder dass Überwachung unmöglich ist.
+- **[Open weights and AI for all](https://openai.com/global-affairs/open-weights-and-ai-for-all/)** · openai.com · 2025-08-05 · [Q007945](../../berichte/Q00/Q0079/Q007945/)
+  - Levels 4–7: clef **9 %** · Luna **18 %** · d3-ultra not yet rated · JEV **5 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **39 %** · Luna **85 %** · d3-ultra not yet rated · JEV **17 %** · amos **18 %** · drex **12 %**
+  - Summary (German): OpenAI zufolge sollen seine neuen offenen KI-Modelle den Zugang verbreitern und demokratisch geprägte KI-Infrastruktur stärken, doch der Bericht nennt keine konkreten Leistungsdaten oder unabhängigen Wirkungsnachweise.
+- **[Post by @KSAmofaEN on X](https://x.com/KSAmofaEN/status/2119878782924304881)** · x.com · 2026-11-09 · [Q001911](../../berichte/Q00/Q0019/Q001911/)
+  - Levels 4–7: clef **7 %** · Luna **18 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **3 %**
+  - Levels 3–7: clef **41 %** · Luna **60 %** · d3-ultra not yet rated · JEV **25 %** · amos **24 %** · drex **12 %**
+  - Summary (German): Laut X-Beitrag beriet eine erweiterte G7+-Runde in Paris über KI, internationale Sicherheit und verantwortungsvolle Innovation; konkrete Ergebnisse nennt der Beitrag nicht.
+- **[Russia, China and US weigh AI guardrails for nuclear command systems ahead of APEC](https://www.dagens.com/war/russia-china-and-us-weigh-ai-guardrails-for-nuclear-command-systems-ahead-of-apec)** · dagens.com · 2026-11-12 · [Q000575](../../berichte/Q00/Q0005/Q000575/)
+  - Levels 4–7: clef **18 %** · Luna **5 %** · d3-ultra not yet rated · JEV **7 %** · amos **12 %** · drex **7 %**
+  - Levels 3–7: clef **53 %** · Luna **22 %** · d3-ultra not yet rated · JEV **22 %** · amos **36 %** · drex **20 %**
+  - Summary (German): Vor dem angekündigten APEC-Treffen zeichnet der Bericht begrenzte Gespräche über KI und nukleare Führung nach, aber keine Einigung; Abrüstung und Ukraine sollen außen vor bleiben.
+- **[Sabotage evaluations for frontier models](https://www.anthropic.com/research/sabotage-evaluations)** · anthropic.com · 2024-10-18 · [Q003951](../../berichte/Q00/Q0039/Q003951/)
+  - Levels 4–7: clef **18 %** · Luna **3 %** · d3-ultra not yet rated · JEV **12 %** · amos **17 %** · drex **7 %**
+  - Levels 3–7: clef **53 %** · Luna **5 %** · d3-ultra not yet rated · JEV **28 %** · amos **44 %** · drex **12 %**
+  - Summary (German): Anthropics vier Sabotage-Tests lieferten begrenzte Hinweise bei heutigen Modellen, sollen aber vor allem helfen, Risiken leistungsfähigerer künftiger Modelle früh zu erkennen.
+- **[Safety Cases: A Scalable Approach to Frontier AI Safety](https://arxiv.org/abs/2503.04744)** · arxiv.org ·  · [Q000009](../../berichte/Q00/Q0000/Q000009/)
+  - Levels 4–7: clef **18 %** · Luna **16 %** · d3-ultra **2 %** · JEV not yet rated · amos **21 %** · drex not yet rated
+  - Levels 3–7: clef **48 %** · Luna **81 %** · d3-ultra **18 %** · JEV not yet rated · amos **51 %** · drex not yet rated
+  - Summary (German): Der arXiv-Auszug stellt Safety Cases als möglichen Beitrag zur Sicherheit fortgeschrittener KI vor, belegt ihre Wirkung aber nicht konkret.
+- **[Sharing trustworthy AI models with privacy-enhancing technologies](https://oecd.ai/en/ai-publications/sharing-trustworthy-ai-models-with-privacy-enhancing-technologies)** · oecd.ai · 2025-06-17 · [Q002864](../../berichte/Q00/Q0028/Q002864/)
+  - Levels 4–7: clef **11 %** · Luna **18 %** · d3-ultra **1 %** · JEV **17 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **30 %** · Luna **64 %** · d3-ultra **8 %** · JEV **62 %** · amos **27 %** · drex **15 %**
+  - Summary (German): Der bereitgestellte Text ist nur ein kurzer Auszug: Er beschreibt mögliche Vorteile von PETs für vertrauensvolle KI-Kooperation, weist auf ungelöste Abwägungen hin und nennt politische Fördermaßnahmen, ohne Methodik oder konkrete Wirkungsdaten darzulegen.
+- **[Six crucial policy considerations for AI, data governance and privacy: Insights from the OECD](https://oecd.ai/en/wonk/six-policy-considerations-ai-data-governance-and-privacy)** · oecd.ai · 2024-06-26 · [Q002052](../../berichte/Q00/Q0020/Q002052/)
+  - Levels 4–7: clef **10 %** · Luna **18 %** · d3-ultra not yet rated · JEV **1 %** · amos **9 %** · drex **5 %**
+  - Levels 3–7: clef **39 %** · Luna **55 %** · d3-ultra not yet rated · JEV **10 %** · amos **30 %** · drex **14 %**
+  - Summary (German): Die OECD plädiert dafür, Datenschutz über den gesamten KI-Lebenszyklus einzubauen und durch gemeinsame politische Standards sowie internationale Kooperation zu stärken.
+- **[The eternal complement](https://openai.com/index/the-eternal-complement/)** · openai.com ·  · [Q006463](../../berichte/Q00/Q0064/Q006463/)
+  - Levels 4–7: clef **7 %** · Luna **18 %** · d3-ultra not yet rated · JEV **0 %** · amos **4 %** · drex **1 %**
+  - Levels 3–7: clef **20 %** · Luna **64 %** · d3-ultra not yet rated · JEV **2 %** · amos **9 %** · drex **3 %**
+  - Summary (German): Der Essay stellt zwei offene KI-Zukunftsbilder gegenüber: mehr Erkenntnis mit weniger realem Aufwand oder mehr Ideen, als die wachsende Umsetzungsinfrastruktur bewältigen kann.
+- **[The Question of Comparative Advantage in Artificial Intelligence: Enduring Strengths and Emerging Challenges for the United States](https://cset.georgetown.edu/publication/the-question-of-comparative-advantage-in-artificial-intelligence-enduring-strengths-and-emerging-challenges-for-the-united-states/)** · cset.georgetown.edu · 2020-01-23 · [Q004069](../../berichte/Q00/Q0040/Q004069/)
+  - Levels 4–7: clef **9 %** · Luna **18 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **7 %**
+  - Levels 3–7: clef **38 %** · Luna **77 %** · d3-ultra **4 %** · JEV **5 %** · amos **18 %** · drex **19 %**
+  - Summary (German): Der vorliegende Auszug skizziert US-Stärken und Chinas Aufstieg in der KI, betont die Schwierigkeit eines einfachen Vergleichs und enthält nicht die angekündigten abschließenden Befunde.
+- **[Trustworthy AI for the enterprise: How to train an LLM to follow a code of conduct](https://oecd.ai/en/wonk/how-to-train-an-llm-to-follow-a-code-of-conduct)** · oecd.ai · 2024-12-18 · [Q004742](../../berichte/Q00/Q0047/Q004742/)
+  - Levels 4–7: clef **18 %** · Luna **16 %** · d3-ultra **2 %** · JEV **31 %** · amos **20 %** · drex **7 %**
+  - Levels 3–7: clef **43 %** · Luna **53 %** · d3-ultra **8 %** · JEV **49 %** · amos **45 %** · drex **21 %**
+  - Summary (German): AI21 berichtet über einen aus OECD-Prinzipien abgeleiteten, mit Angriffstests und Feedback trainierten Verhaltenskodex für Unternehmens-KI, ohne im Artikel Gesamtwerte zur Wirksamkeit vorzulegen.
+- **[When your AI knows you better than anyone: Privacy in the age of intimate assistants](https://oecd.ai/en/wonk/when-your-ai-knows-you-better-than-anyone-privacy-in-the-age-of-intimate-assistants)** · oecd.ai · 2025-08-19 · [Q002586](../../berichte/Q00/Q0025/Q002586/)
+  - Levels 4–7: clef **11 %** · Luna **18 %** · d3-ultra not yet rated · JEV **2 %** · amos **9 %** · drex **5 %**
+  - Levels 3–7: clef **33 %** · Luna **69 %** · d3-ultra not yet rated · JEV **5 %** · amos **24 %** · drex **11 %**
+  - Summary (German): Der Beitrag fordert klare Datenschutz-, Zugriffs- und Nachlassregeln für KI-Gespräche, weil Assistenten zunehmend sensible persönliche Informationen verarbeiten.
+- **[Xi Jinping: Speech at the Nationwide S&T Conference, National Science and Technology Awards Conference, and the Conference of Academicians of CAS and CAE (June 24, 2024)](https://cset.georgetown.edu/publication/xi-jinping-cas-cae-conference-speech-2024/)** · cset.georgetown.edu · 2024-07-03 · [Q003341](../../berichte/Q00/Q0033/Q003341/)
+  - Levels 4–7: clef **6 %** · Luna **18 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **14 %** · Luna **58 %** · d3-ultra **2 %** · JEV **14 %** · amos **12 %** · drex **14 %**
+  - Summary (German): Der Auszug aus Xi Jinpings Rede verbindet eine von ihm dargestellte Erfolgsbilanz der chinesischen Wissenschaft mit Forderungen nach Eigenständigkeit, Reformen und internationaler Kooperation.
+- **[Xi’s India trip; US-China and AI; MSS head on AI; Weak August credit data; “Dynamic zero 动态清零” for payment arrears](https://sinocism.com/p/xis-india-trip-us-china-and-ai-mss)** · sinocism.com · 2026-09-15 · [Q000073](../../berichte/Q00/Q0000/Q000073/)
+  - Levels 4–7: clef **9 %** · Luna **18 %** · d3-ultra not yet rated · JEV **7 %** · amos **10 %** · drex **10 %**
+  - Levels 3–7: clef **52 %** · Luna **66 %** · d3-ultra not yet rated · JEV **34 %** · amos **33 %** · drex **28 %**
+  - Summary (German): Der Auszug schildert begrenzte Ergebnisse von Xis Indienreise, geringe Erwartungen an einen US-chinesischen KI-Dialog und chinesische Sorgen über KI-Sicherheitsrisiken, insbesondere Cyberangriffe.
+- **[Year in Review: Building a Safer Future Together](https://www.frontiermodelforum.org/updates/year-in-review/)** · frontiermodelforum.org · 2023-12-21 · [Q002948](../../berichte/Q00/Q0029/Q002948/)
+  - Levels 4–7: clef **9 %** · Luna **18 %** · d3-ultra not yet rated · JEV **5 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **36 %** · Luna **61 %** · d3-ultra not yet rated · JEV **36 %** · amos **33 %** · drex **17 %**
+  - Summary (German): Chris Meserole beschreibt die bisherigen Aktivitäten und 2024-Pläne des Frontier Model Forum zur KI-Sicherheit; die angekündigten Vorhaben werden im Beitrag nicht auf ihre spätere Umsetzung überprüft.
+- **[a81c481](https://partnershiponai.org/paper_page/a81c481/)** · partnershiponai.org · 2025-02-03 · [Q000872](../../berichte/Q00/Q0008/Q000872/)
+  - Levels 4–7: clef **12 %** · Luna **17 %** · d3-ultra not yet rated · JEV **24 %** · amos **18 %** · drex **9 %**
+  - Levels 3–7: clef **41 %** · Luna **59 %** · d3-ultra not yet rated · JEV **64 %** · amos **48 %** · drex **24 %**
+  - Summary (German): Der Auszug stellt PAIs Bericht zu Auswirkungen von Foundation Models vor und skizziert Dokumentationspraktiken, Herausforderungen und Empfehlungen, enthält aber nicht den vollständigen Bericht.
+- **[AI Factories](http://digital-strategy.ec.europa.eu/en/policies/ai-factories)** · digital-strategy.ec.europa.eu ·  · [Q000961](../../berichte/Q00/Q0009/Q000961/)
+  - Levels 4–7: clef **7 %** · Luna **17 %** · d3-ultra **1 %** · JEV not yet rated · amos **8 %** · drex not yet rated
+  - Levels 3–7: clef **27 %** · Luna **54 %** · d3-ultra **5 %** · JEV not yet rated · amos **30 %** · drex not yet rated
+  - Summary (German): Laut Bericht baut die EU ein Netz aus AI Factories und plant Gigafactories aus, doch der Text beschreibt vor allem Vorhaben und Erwartungen statt nachgewiesener Ergebnisse.
+- **[AI Index Report 2021 Chapter 7](https://oecd.ai/en/wonk/documents/ai-index-report-2021-chapter-7)** · oecd.ai · 2021-03-15 · [Q006956](../../berichte/Q00/Q0069/Q006956/)
+  - Levels 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **39 %** · Luna **65 %** · d3-ultra **7 %** · JEV **16 %** · amos **18 %** · drex **15 %**
+  - Summary (German): Der kurze Auszug kündigt ein Kapitel über KI-Politik und öffentliche Investitionen an, enthält jedoch keine konkreten Ergebnisse.
+- **[AI Safety in the 15th Five-Year Plan — Two Sessions Special Edition](https://aisafetychina.substack.com/p/ai-safety-in-the-15th-five-year-plan)** · aisafetychina.substack.com · 2026-03-27 · [Q001775](../../berichte/Q00/Q0017/Q001775/)
+  - Levels 4–7: clef **7 %** · Luna **17 %** · d3-ultra **5 %** · JEV not yet rated · amos **12 %** · drex not yet rated
+  - Levels 3–7: clef **39 %** · Luna **58 %** · d3-ultra **14 %** · JEV not yet rated · amos **36 %** · drex not yet rated
+  - Summary (German): Chinas neue Planungsdokumente räumen KI und ihrer Governance mehr Gewicht ein, setzen laut Bericht aber überwiegend auf Kontinuität und allgemeine Sicherheitsmechanismen statt auf eine umfassende Benennung konkreter Risiken.
+- **[A Primer on Data and Social Justice](https://oecd.ai/en/wonk/documents/a-primer-on-data-and-social-justice)** · oecd.ai · 2025-05-15 · [Q003991](../../berichte/Q00/Q0039/Q003991/)
+  - Levels 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **1 %**
+  - Levels 3–7: clef **21 %** · Luna **79 %** · d3-ultra **4 %** · JEV **13 %** · amos **13 %** · drex **5 %**
+  - Summary (German): Der vorliegende Bericht ist ein Auszug, der gerechtere, am Gemeinwohl orientierte Datenregulierung und mehr Datensouveränität fordert.
+- **[Artificial Intelligence Security Standardization White Paper](https://cset.georgetown.edu/publication/artificial-intelligence-security-standardization-white-paper-2019-edition/)** · cset.georgetown.edu · 2020-05-27 · [Q002685](../../berichte/Q00/Q0026/Q002685/)
+  - Levels 4–7: clef **7 %** · Luna **17 %** · d3-ultra **1 %** · JEV **2 %** · amos **9 %** · drex **4 %**
+  - Levels 3–7: clef **42 %** · Luna **60 %** · d3-ultra **15 %** · JEV **17 %** · amos **28 %** · drex **10 %**
+  - Summary (German): Der Auszug aus einem chinesischen KI-Sicherheitsweißbuch von 2019 skizziert Risiken und das Vorhaben, Standards samt Empfehlungen zu entwickeln, enthält aber keine konkreten Analysen oder Anhänge.
+- **[Brief #27: China bans AI partners for minors and lays out AI agent threats](https://aisafetychina.substack.com/p/china-bans-ai-partners-for-minors)** · aisafetychina.substack.com · 2026-05-06 · [Q001649](../../berichte/Q00/Q0016/Q001649/)
+  - Levels 4–7: clef **12 %** · Luna **17 %** · d3-ultra **7 %** · JEV not yet rated · amos **23 %** · drex not yet rated
+  - Levels 3–7: clef **47 %** · Luna **78 %** · d3-ultra **18 %** · JEV not yet rated · amos **49 %** · drex not yet rated
+  - Summary (German): Laut Bericht verstärkt China den Schutz Minderjähriger bei emotionalen KI-Diensten und baut die Agenten-Governance aus, während ein KI-Grundgesetz bislang nur als Expertenentwurf vorliegt und die angeführten Forschungsresultate nicht umfassend auf Übertragbarkeit geprüft werden.
+- **[China Connects AI Security and Development with National Power and Global Adoption](https://www.army.edu/USAWC/CSL/News/View/Article/4640887/china-connects-ai-security-and-development-with-national-power-and-global-adopt/)** · army.edu ·  · [Q000555](../../berichte/Q00/Q0005/Q000555/)
+  - Levels 4–7: clef **9 %** · Luna **17 %** · d3-ultra not yet rated · JEV **4 %** · amos **11 %** · drex **8 %**
+  - Levels 3–7: clef **47 %** · Luna **88 %** · d3-ultra not yet rated · JEV **26 %** · amos **38 %** · drex **25 %**
+  - Summary (German): Laut Bericht verbindet Chen KI-Fortschritt, Sicherheit und Parteiführung mit Chinas nationalen und internationalen Zielen; die vorgeschlagenen Maßnahmen und ihre Wirkungen sind jedoch nicht als umgesetzt oder belegt ausgewiesen.
+- **[China's Advanced AI Research](https://cset.georgetown.edu/publication/chinas-advanced-ai-research/)** · cset.georgetown.edu · 2022-07-07 · [Q004993](../../berichte/Q00/Q0049/Q004993/)
+  - Levels 4–7: clef **8 %** · Luna **17 %** · d3-ultra **1 %** · JEV **2 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **25 %** · Luna **61 %** · d3-ultra **10 %** · JEV **16 %** · amos **22 %** · drex **17 %**
+  - Summary (German): Der bereitgestellte Auszug skizziert eine offene-Quellen-Untersuchung zu Chinas allgemein einsetzbarer KI und einen Prototyp zur Beobachtung solcher Entwicklungen, enthält aber keine konkreten Forschungsergebnisse.
+- **[Coalition Operations](https://cset.georgetown.edu/publication/coalition-operations/)** · cset.georgetown.edu · 2026-09-10 · [Q001101](../../berichte/Q00/Q0011/Q001101/)
+  - Levels 4–7: clef **11 %** · Luna **17 %** · d3-ultra **2 %** · JEV **20 %** · amos **11 %** · drex **9 %**
+  - Levels 3–7: clef **36 %** · Luna **72 %** · d3-ultra **9 %** · JEV **40 %** · amos **34 %** · drex **22 %**
+  - Summary (German): Der vorliegende Auszug sieht Potenzial für KI-Systeme in Koalitionseinsätzen, betont aber, dass Datenaustausch, Vertrauen und politischer Wille über ihren Nutzen mitentscheiden.
+- **[Evaluating frontier models for stealth and situational awareness](https://deepmind.google/research/publications/157938/)** · deepmind.google · 2026-07-15 · [Q001016](../../berichte/Q00/Q0010/Q001016/)
+  - Levels 4–7: clef **17 %** · Luna **6 %** · d3-ultra **1 %** · JEV **2 %** · amos **13 %** · drex **6 %**
+  - Levels 3–7: clef **51 %** · Luna **8 %** · d3-ultra **7 %** · JEV **7 %** · amos **36 %** · drex **11 %**
+  - Summary (German): Der bereitgestellte Bericht ist ein Auszug über Prüfungen zu Situationsbewusstsein und Heimlichkeit, die laut Autor:innen Hinweise auf die Fähigkeit zum Scheming geben sollen; konkrete Ergebnisse sind nicht enthalten.
+- **[Facing the stakes of AI together: The Seventh Edition of the Athens Roundtable on AI and the Rule of Law](https://oecd.ai/en/wonk/seventh-edition-the-athens-roundtable-on-ai-and-the-rule-of-law)** · oecd.ai · 2025-11-24 · [Q002101](../../berichte/Q00/Q0021/Q002101/)
+  - Levels 4–7: clef **8 %** · Luna **17 %** · d3-ultra not yet rated · JEV **1 %** · amos **8 %** · drex **7 %**
+  - Levels 3–7: clef **46 %** · Luna **69 %** · d3-ultra not yet rated · JEV **30 %** · amos **32 %** · drex **22 %**
+  - Summary (German): Der angekündigte Roundtable soll internationale Zusammenarbeit zur KI-Governance stärken, doch der Bericht schildert Ziele und Programm statt Veranstaltungsergebnisse.
+- **[Issue Brief: Early Best Practices for Frontier AI Safety Evaluations](https://www.frontiermodelforum.org/updates/early-best-practices-for-frontier-ai-safety-evaluations/)** · frontiermodelforum.org · 2024-07-31 · [Q002737](../../berichte/Q00/Q0027/Q002737/)
+  - Levels 4–7: clef **17 %** · Luna **12 %** · d3-ultra not yet rated · JEV **35 %** · amos **18 %** · drex **12 %**
+  - Levels 3–7: clef **53 %** · Luna **93 %** · d3-ultra not yet rated · JEV **74 %** · amos **47 %** · drex **32 %**
+  - Summary (German): Der FMF empfiehlt vorläufig fachkundige, systemweite und vielfältige KI-Sicherheitsprüfungen sowie eine abgewogene Offenlegung ihrer Ergebnisse.
+- **[ML Engineers Needed for New AI R&D Evals Project](https://metr.org/blog/2024-05-16-ml-engineers-needed/)** · metr.org · 2024-05-16 · [Q002848](../../berichte/Q00/Q0028/Q002848/)
+  - Levels 4–7: clef **15 %** · Luna **17 %** · d3-ultra **3 %** · JEV **2 %** · amos **14 %** · drex **10 %**
+  - Levels 3–7: clef **52 %** · Luna **52 %** · d3-ultra **13 %** · JEV **19 %** · amos **41 %** · drex **24 %**
+  - Summary (German): METR will ML-Fachleute einstellen, um Tests zu KI-F&E-Fähigkeiten und möglichen Schutzmaßnahmen zu entwickeln.
+- **[Navigating the AI Act](http://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act)** · digital-strategy.ec.europa.eu ·  · [Q000941](../../berichte/Q00/Q0009/Q000941/)
+  - Levels 4–7: clef **17 %** · Luna **6 %** · d3-ultra **46 %** · JEV not yet rated · amos **53 %** · drex not yet rated
+  - Levels 3–7: clef **53 %** · Luna **19 %** · d3-ultra **74 %** · JEV not yet rated · amos **74 %** · drex not yet rated
+  - Summary (German): Die Kommissions-FAQ fasst den risikobasierten EU-KI-Rechtsrahmen und seine gestaffelte Umsetzung zusammen, wobei wichtige Standards und Leitlinien laut Bericht noch ausstehen.
+- **[Post by @AlexBores on X](https://x.com/AlexBores/status/2118494668769878037)** · x.com · 2026-11-05 · [Q001809](../../berichte/Q00/Q0018/Q001809/)
+  - Levels 4–7: clef **17 %** · Luna **17 %** · d3-ultra not yet rated · JEV **12 %** · amos **20 %** · drex **13 %**
+  - Levels 3–7: clef **54 %** · Luna **42 %** · d3-ultra not yet rated · JEV **24 %** · amos **47 %** · drex **32 %**
+  - Summary (German): Der Auszug zeigt Alex Bores’ unbelegte Forderung nach einem dringenden RSI-Verbot und die Gegenpositionen in Kommentaren; der angekündigte METR-Bericht selbst liegt nicht vor.
+- **[Putting agentic AI systems to work: What practitioners reveal about deployment and governance](https://oecd.ai/en/wonk/putting-agentic-ai-systems-to-work-what-practitioners-reveal-about-deployment-and-governance)** · oecd.ai · 2026-09-24 · [Q000973](../../berichte/Q00/Q0009/Q000973/)
+  - Levels 4–7: clef **9 %** · Luna **17 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **38 %** · Luna **79 %** · d3-ultra **8 %** · JEV **5 %** · amos **29 %** · drex **29 %**
+  - Summary (German): Interviews in 25 Organisationen zeigen wachsenden, aber kontrollierten Einsatz agentischer KI und ungelöste Governance-Fragen; die Befunde sind eine begrenzte Momentaufnahme.
+- **[Responsible AI in African economic policymaking](https://oecd.ai/en/wonk/responsible-ai-in-african-economic-policymaking)** · oecd.ai · 2024-06-19 · [Q005464](../../berichte/Q00/Q0054/Q005464/)
+  - Levels 4–7: clef **11 %** · Luna **17 %** · d3-ultra not yet rated · JEV **2 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **42 %** · Luna **59 %** · d3-ultra not yet rated · JEV **15 %** · amos **26 %** · drex **15 %**
+  - Summary (German): KI könnte afrikanische Wirtschaftsentscheidungen unterstützen, doch der Bericht fordert dafür kontextgerechte Regeln, Beteiligung und starke menschliche Aufsicht und belegt die erwarteten Vorteile nicht empirisch.
+- **[Scientists Call For International Cooperation on AI Red Lines](https://www.far.ai/blog/scientists-call-for-international-cooperation-on-ai-red-lines)** · far.ai · 2026-08-19 · [Q001381](../../berichte/Q00/Q0013/Q001381/)
+  - Levels 4–7: clef **13 %** · Luna **17 %** · d3-ultra not yet rated · JEV **17 %** · amos **14 %** · drex **12 %**
+  - Levels 3–7: clef **56 %** · Luna **83 %** · d3-ultra not yet rated · JEV **57 %** · amos **39 %** · drex **34 %**
+  - Summary (German): Bei einem Treffen in Peking schlugen Forschende laut Bericht internationale rote Linien für besonders riskante KI-Systeme vor und betonten die Notwendigkeit gemeinsamer Sicherheitsarbeit.
+- **[The Role of Government as a Provider of Data for Artificial Intelligence – Phase I Full Report](https://oecd.ai/en/wonk/documents/the-role-of-government-as-a-provider-of-data-for-artificial-intelligence-phase-i-full-report)** · oecd.ai · 2025-05-26 · [Q003463](../../berichte/Q00/Q0034/Q003463/)
+  - Levels 4–7: clef **9 %** · Luna **17 %** · d3-ultra **2 %** · JEV **4 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **25 %** · Luna **72 %** · d3-ultra **9 %** · JEV **26 %** · amos **18 %** · drex **15 %**
+  - Summary (German): Der vorliegende Auszug zufolge kann staatlicher Datenaustausch verantwortungsvolle KI unterstützen, muss aber rechtliche Grundlagen, Zweckbindung und Datenminimierung beachten.
+- **[The state of implementation of the OECD AI Principles four years on](https://oecd.ai/en/ai-publications/state-of-implementation-principles)** · oecd.ai · 2023-10-27 · [Q006003](../../berichte/Q00/Q0060/Q006003/)
+  - Levels 4–7: clef **15 %** · Luna **17 %** · d3-ultra **9 %** · JEV **7 %** · amos **16 %** · drex **14 %**
+  - Levels 3–7: clef **47 %** · Luna **84 %** · d3-ultra **42 %** · JEV **32 %** · amos **47 %** · drex **37 %**
+  - Summary (German): Der bereitgestellte Text ist nur der Abstract und kündigt eine bis Mai 2023 zusammengetragene Übersicht zur Umsetzung der OECD-KI-Prinzipien an, ohne konkrete Ergebnisse zu nennen.
+- **[Tracing the Emergence of Extreme Ultraviolet Lithography](https://cset.georgetown.edu/publication/tracing-the-emergence-of-extreme-ultraviolet-lithography/)** · cset.georgetown.edu · 2024-07-25 · [Q003291](../../berichte/Q00/Q0032/Q003291/)
+  - Levels 4–7: clef **6 %** · Luna **17 %** · d3-ultra **0 %** · JEV **10 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **14 %** · Luna **59 %** · d3-ultra **1 %** · JEV **50 %** · amos **12 %** · drex **12 %**
+  - Summary (German): Der vorliegende Auszug beschreibt EUV als Ergebnis jahrzehntelanger globaler Zusammenarbeit und zieht daraus Lehren für Technologiepolitik, enthält aber nicht die angekündigte Detailanalyse.
+- **[When AGI Arrives, Will Journalists Be Ready?](https://www.far.ai/blog/agi-journalism-workshop-2025)** · far.ai · 2026-08-19 · [Q001273](../../berichte/Q00/Q0012/Q001273/)
+  - Levels 4–7: clef **10 %** · Luna **17 %** · d3-ultra not yet rated · JEV **2 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **46 %** · Luna **56 %** · d3-ultra not yet rated · JEV **20 %** · amos **32 %** · drex **19 %**
+  - Summary (German): Der bereitgestellte Berichtsauszug fasst einen FAR.AI-Workshop über AGI-Folgen, Sicherheitsrisiken und Regulierung zusammen und gibt dabei unter anderem die Einschränkung wieder, dass problematisches Verhalten in Stresstests nicht typischen Einsatzbedingungen entspricht.
+- **[Will it become harder to oversee AI systems?](https://www.aisi.gov.uk/blog/will-it-become-harder-to-oversee-ai-systems)** · aisi.gov.uk · 2026-05-21 · [Q001521](../../berichte/Q00/Q0015/Q001521/)
+  - Levels 4–7: clef **12 %** · Luna **17 %** · d3-ultra not yet rated · JEV **6 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **47 %** · Luna **51 %** · d3-ultra not yet rated · JEV **33 %** · amos **37 %** · drex **19 %**
+  - Summary (German): Laut dem vorgestellten AISI-Bericht könnte die Aufsicht über fortgeschrittene KI-Systeme an Wirkung verlieren; bestehende Kontrollen sollten deshalb erhalten, ihre Schwachstellen gemessen und neue Verfahren entwickelt werden.
+- **[A collective effort for accountability in AI governance: The Sixth Edition of the Athens Roundtable on AI and the Rule of Law](https://oecd.ai/en/wonk/athens-roundtable-2024)** · oecd.ai · 2024-11-20 · [Q004828](../../berichte/Q00/Q0048/Q004828/)
+  - Levels 4–7: clef **9 %** · Luna **16 %** · d3-ultra **2 %** · JEV **4 %** · amos **11 %** · drex **8 %**
+  - Levels 3–7: clef **47 %** · Luna **77 %** · d3-ultra **13 %** · JEV **46 %** · amos **39 %** · drex **26 %**
+  - Summary (German): Der Beitrag kündigt einen Roundtable zu globaler KI-Rechenschaftspflicht an und beschreibt dessen Ziele, berichtet aber nicht über Ergebnisse.
+- **[AI Cyber Defense Now Has To Move At Machine Speed](https://www.forbes.com/sites/heatherwishartsmith/2026/10/23/ai-cyber-defense-now-has-to-move-at-machine-speed/)** · forbes.com · 2026-10-23 · [Q000076](../../berichte/Q00/Q0000/Q000076/)
+  - Levels 4–7: clef **16 %** · Luna **1 %** · d3-ultra not yet rated · JEV **8 %** · amos **18 %** · drex **12 %**
+  - Levels 3–7: clef **55 %** · Luna **14 %** · d3-ultra not yet rated · JEV **18 %** · amos **44 %** · drex **28 %**
+  - Summary (German): Der vollständige Bericht warnt vor schneller werdenden KI-gestützten Cyberangriffen und empfiehlt vorbereitete Abwehrregeln sowie klare Verantwortlichkeit, hält das Ausmaß autonomer Angriffe aber für umstritten.
+- **[AI System-to-Model Innovation](https://cset.georgetown.edu/publication/ai-system-to-model-innovation/)** · cset.georgetown.edu · 2025-07-01 · [Q002611](../../berichte/Q00/Q0026/Q002611/)
+  - Levels 4–7: clef **9 %** · Luna **16 %** · d3-ultra **2 %** · JEV **6 %** · amos **9 %** · drex **11 %**
+  - Levels 3–7: clef **40 %** · Luna **95 %** · d3-ultra **12 %** · JEV **32 %** · amos **30 %** · drex **26 %**
+  - Summary (German): Der bereitgestellte Text ist ein Auszug aus einer Executive Summary, die wechselseitige Innovation zwischen KI-Modellen und zusammengesetzten Systemen beschreibt und Schutz, breiteren Zugang sowie vorausschauende Beobachtung empfiehlt.
+- **[Artificial Intelligence White Paper (2022)](https://cset.georgetown.edu/publication/artificial-intelligence-white-paper-2022/)** · cset.georgetown.edu · 2022-06-16 · [Q006110](../../berichte/Q00/Q0061/Q006110/)
+  - Levels 4–7: clef **6 %** · Luna **16 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **39 %** · Luna **79 %** · d3-ultra **8 %** · JEV **21 %** · amos **22 %** · drex **14 %**
+  - Summary (German): Der vorliegende Auszug aus dem CAICT-Weißbuch von 2022 skizziert Innovation, Umsetzung und vertrauenswürdige KI als Schwerpunkte, enthält aber nicht den vollständigen Bericht.
+- **[Call for Partners: the Global Challenge to Build Trust in the Age of Generative AI](https://oecd.ai/en/wonk/global-challenge-partners)** · oecd.ai · 2023-07-19 · [Q006108](../../berichte/Q00/Q0061/Q006108/)
+  - Levels 4–7: clef **8 %** · Luna **16 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **33 %** · Luna **57 %** · d3-ultra **3 %** · JEV **12 %** · amos **23 %** · drex **10 %**
+  - Summary (German): Der Text ruft zur Beteiligung an einer geplanten globalen Initiative gegen Desinformation durch generative KI auf; konkrete Ergebnisse liegen darin noch nicht vor.
+- **[China AI-Brain Research](https://cset.georgetown.edu/publication/china-ai-brain-research/)** · cset.georgetown.edu · 2020-09-23 · [Q005077](../../berichte/Q00/Q0050/Q005077/)
+  - Levels 4–7: clef **16 %** · Luna **13 %** · d3-ultra **9 %** · JEV **8 %** · amos **13 %** · drex **17 %**
+  - Levels 3–7: clef **37 %** · Luna **64 %** · d3-ultra **24 %** · JEV **32 %** · amos **38 %** · drex **39 %**
+  - Summary (German): Die Executive Summary beschreibt Chinas KI-Gehirn-Forschung als ernsthafte Initiative ohne belegten nahen AGI-Durchbruch und empfiehlt internationale Sicherheitsabkommen sowie eine koordinierte US-Beobachtung; der vollständige Bericht liegt hier nicht vor.
+- **[Data Justice in Practice: A Guide for Impacted Communities](https://oecd.ai/en/wonk/documents/data-justice-in-practice-a-guide-for-impacted-communities)** · oecd.ai · 2025-05-15 · [Q004050](../../berichte/Q00/Q0040/Q004050/)
+  - Levels 4–7: clef **7 %** · Luna **16 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **2 %**
+  - Levels 3–7: clef **22 %** · Luna **51 %** · d3-ultra **2 %** · JEV **2 %** · amos **9 %** · drex **4 %**
+  - Summary (German): Der kurze Auszug beschreibt ein Projekt, das Datengerechtigkeit erforscht und betroffenen Gemeinschaften Orientierung geben will, enthält aber keine konkreten Empfehlungen oder Ergebnisse.
+- **[Decoding AI Governance: A Toolkit for Navigating Evolving Norms, Standards, and Rules](https://partnershiponai.org/resource/decoding-ai-governance/)** · partnershiponai.org · 2025-07-28 · [Q000736](../../berichte/Q00/Q0007/Q000736/)
+  - Levels 4–7: clef **9 %** · Luna **16 %** · d3-ultra not yet rated · JEV **1 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **44 %** · Luna **92 %** · d3-ultra not yet rated · JEV **28 %** · amos **32 %** · drex **17 %**
+  - Summary (German): Ein gemeinsamer Beitrag von Partnership on AI und Microsoft schlägt drei noch vorläufige Werkzeuge vor, um KI-Governance besser zu ordnen und abzustimmen, und lädt zur Weiterentwicklung durch Beteiligte ein.
+- **[Emerging Technologies, Nuclear-Conventional Entanglement, and Nuclear Risks: P5 and Implications for Nuclear Non-Proliferation](https://bfpg.co.uk/reports/emerging-technologies-nuclear-conventional-entanglement-and-nuclear-risks-p5-and-implications-for-nuclear-non-proliferation)** · bfpg.co.uk · 2026-11-13 · [Q000579](../../berichte/Q00/Q0005/Q000579/)
+  - Levels 4–7: clef **16 %** · Luna **7 %** · d3-ultra **2 %** · JEV **2 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **50 %** · Luna **81 %** · d3-ultra **7 %** · JEV **16 %** · amos **32 %** · drex **21 %**
+  - Summary (German): Der vorliegende Auszug gibt Yuans Warnung vor KI-bedingten Eskalationsrisiken und seine Forderung nach gemeinsamen Grenzen für KI in der nuklearen Führung wieder, ist aber nicht der vollständige Bericht.
+- **[Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk](https://openai.com/index/forecasting-misuse/)** · openai.com · 2023-01-11 · [Q002531](../../berichte/Q00/Q0025/Q002531/)
+  - Levels 4–7: clef **9 %** · Luna **16 %** · d3-ultra not yet rated · JEV **2 %** · amos **7 %** · drex **4 %**
+  - Levels 3–7: clef **35 %** · Luna **70 %** · d3-ultra not yet rated · JEV **11 %** · amos **27 %** · drex **14 %**
+  - Summary (German): Die Überblicksseite warnt, dass Sprachmodelle Einflusskampagnen erleichtern könnten, und skizziert Gegenmaßnahmen, deren Nutzen und Nachteile jeweils geprüft werden müssten.
+- **[Frontier AI Risk Monitor update: risk indices rise severalfold as multiple models cross key threshold](https://aisafetychina.substack.com/p/frontier-ai-risk-monitor-update-risk)** · aisafetychina.substack.com · 2026-08-12 · [Q001259](../../berichte/Q00/Q0012/Q001259/)
+  - Levels 4–7: clef **16 %** · Luna **4 %** · d3-ultra **3 %** · JEV not yet rated · amos **22 %** · drex not yet rated
+  - Levels 3–7: clef **52 %** · Luna **58 %** · d3-ultra **16 %** · JEV not yet rated · amos **48 %** · drex not yet rated
+  - Summary (German): Laut Concordia-AI-Bericht steigen die Risiken fortgeschrittener KI-Modelle stark, während Schutzmaßnahmen teils zurückbleiben; die v2.0-Werte sind nur innerhalb des neuen Bewertungsrahmens vergleichbar.
+- **[GPT-2: 6-month follow-up](https://openai.com/index/gpt-2-6-month-follow-up/)** · openai.com · 2019-08-20 · [Q008679](../../berichte/Q00/Q0086/Q008679/)
+  - Levels 4–7: clef **16 %** · Luna **11 %** · d3-ultra not yet rated · JEV **70 %** · amos **24 %** · drex **11 %**
+  - Levels 3–7: clef **42 %** · Luna **57 %** · d3-ultra not yet rated · JEV **85 %** · amos **50 %** · drex **26 %**
+  - Summary (German): OpenAI veröffentlichte GPT‑2 mit 774 Millionen Parametern, während es Risiken, Erkennung und weitere Freigaben mit Forschungspartnern untersuchte und die Veröffentlichung des größeren Modells noch offenließ.
+- **[How our principles helped define AlphaFold’s release](https://deepmind.google/blog/how-our-principles-helped-define-alphafolds-release/)** · deepmind.google · 2022-09-14 · [Q003852](../../berichte/Q00/Q0038/Q003852/)
+  - Levels 4–7: clef **9 %** · Luna **16 %** · d3-ultra **2 %** · JEV **21 %** · amos **14 %** · drex **6 %**
+  - Levels 3–7: clef **40 %** · Luna **51 %** · d3-ultra **9 %** · JEV **43 %** · amos **39 %** · drex **16 %**
+  - Summary (German): DeepMind zufolge wurde AlphaFold nach interner und externer Prüfung breit zugänglich gemacht, wobei Unsicherheiten der Vorhersagen kenntlich sind und mögliche Risiken weiter beobachtet werden.
+- **[L'IA dans les conflits : l'heure est venue de « désarmer » l'IA - Commissaire aux droits de l'homme](https://www.coe.int/fr/web/commissioner/-/ai-in-conflict-the-time-to-disarm-ai-is-now)** · coe.int · 2026-11-13 · [Q000585](../../berichte/Q00/Q0005/Q000585/)
+  - Levels 4–7: clef **16 %** · Luna **15 %** · d3-ultra not yet rated · JEV **2 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **51 %** · Luna **67 %** · d3-ultra not yet rated · JEV **19 %** · amos **32 %** · drex **25 %**
+  - Summary (German): Der Menschenrechtskommissar des Europarats fordert verbindliche Regeln für militärische KI und wirksame menschliche Kontrolle über den Einsatz von Gewalt.
+- **[Measuring Automated Kernel Engineering](https://metr.org/blog/2025-02-14-measuring-automated-kernel-engineering/)** · metr.org · 2025-02-14 · [Q002597](../../berichte/Q00/Q0025/Q002597/)
+  - Levels 4–7: clef **16 %** · Luna **1 %** · d3-ultra not yet rated · JEV **42 %** · amos **11 %** · drex **9 %**
+  - Levels 3–7: clef **51 %** · Luna **5 %** · d3-ultra not yet rated · JEV **60 %** · amos **32 %** · drex **17 %**
+  - Summary (German): METR zufolge können KI-Agenten einfache GPU-Kernel-Aufgaben deutlich beschleunigen, doch der begrenzte Benchmark belegt keine Automatisierung menschlicher Kernel-Expertise.
+- **[NOLA Alignment Workshop 2023](https://www.far.ai/blog/nola-alignment-workshop-2023)** · far.ai · 2026-08-19 · [Q001362](../../berichte/Q00/Q0013/Q001362/)
+  - Levels 4–7: clef **8 %** · Luna **16 %** · d3-ultra not yet rated · JEV **5 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **41 %** · Luna **74 %** · d3-ultra not yet rated · JEV **32 %** · amos **32 %** · drex **18 %**
+  - Summary (German): Der FAR.AI-Bericht fasst einen Workshop zu KI-Sicherheit und Governance zusammen und bewertet ihn als Erfolg, ohne dessen Wirkung unabhängig zu belegen.
+- **[Post by @fchollet on X](https://x.com/fchollet/status/2098901026514559194)** · x.com · 2026-09-12 · [Q000230](../../berichte/Q00/Q0002/Q000230/)
+  - Levels 4–7: clef **16 %** · Luna **14 %** · d3-ultra not yet rated · JEV **23 %** · amos **20 %** · drex **17 %**
+  - Levels 3–7: clef **51 %** · Luna **89 %** · d3-ultra not yet rated · JEV **72 %** · amos **50 %** · drex **38 %**
+  - Summary (German): Der Beitrag plädiert für unabhängige KI-Aufsicht und sieht Angriffe auf Open Source oder unabhängige Forschung als Warnzeichen für mögliche Machtkonzentration; die Kommentare äußern Zweifel und Gegenargumente.
+- **[Post by @repligate on X](https://x.com/Soareverix/status/2116715240553599341)** · x.com · 2026-10-29 · [Q001388](../../berichte/Q00/Q0013/Q001388/)
+  - Levels 4–7: clef **16 %** · Luna **12 %** · d3-ultra not yet rated · JEV **10 %** · amos **16 %** · drex **11 %**
+  - Levels 3–7: clef **44 %** · Luna **64 %** · d3-ultra not yet rated · JEV **25 %** · amos **40 %** · drex **28 %**
+  - Summary (German): Der vorliegende Auszug stellt die Kritik an vermeintlich machtfixierten Kontrolleuren neben Soareverix’ Plädoyer für verantwortliche, transparente Überwachung und eine Selbsteinschätzung von Claude; die Anthropic-Aussage dazu ist abgeschnitten.
+- **[Public AI: Policies for democratic and sustainable AI infrastructures](https://oecd.ai/en/wonk/public-ai-policies-for-democratic-and-sustainable-ai-infrastructures)** · oecd.ai · 2025-12-05 · [Q001989](../../berichte/Q00/Q0019/Q001989/)
+  - Levels 4–7: clef **13 %** · Luna **16 %** · d3-ultra **2 %** · JEV **14 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **46 %** · Luna **95 %** · d3-ultra **15 %** · JEV **64 %** · amos **36 %** · drex **17 %**
+  - Summary (German): Der Beitrag plädiert für offene, demokratisch kontrollierte und nachhaltige KI als digitales öffentliches Gut und empfiehlt dafür koordinierte Maßnahmen bei Rechenleistung, Daten und Modellen.
+- **[Regulatory sandboxes can facilitate experimentation in artificial intelligence](https://oecd.ai/en/wonk/sandboxes)** · oecd.ai · 2023-05-31 · [Q003006](../../berichte/Q00/Q0030/Q003006/)
+  - Levels 4–7: clef **11 %** · Luna **16 %** · d3-ultra not yet rated · JEV **14 %** · amos **13 %** · drex **11 %**
+  - Levels 3–7: clef **33 %** · Luna **82 %** · d3-ultra not yet rated · JEV **48 %** · amos **40 %** · drex **24 %**
+  - Summary (German): Sandboxes können laut OECD-Beitrag KI-Innovation unter kontrollierten Bedingungen erproben helfen, benötigen dafür aber klare Kriterien, Fachwissen und eine sorgfältige Bewertung möglicher Folgen.
+- **[Responsible and Ethical Military AI](https://cset.georgetown.edu/publication/responsible-and-ethical-military-ai/)** · cset.georgetown.edu · 2021-08-24 · [Q005523](../../berichte/Q00/Q0055/Q005523/)
+  - Levels 4–7: clef **13 %** · Luna **16 %** · d3-ultra **3 %** · JEV **2 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **44 %** · Luna **64 %** · d3-ultra **13 %** · JEV **20 %** · amos **30 %** · drex **20 %**
+  - Summary (German): Die vorliegende Zusammenfassung des Berichts sieht gemeinsame Maßstäbe für militärische KI als wichtig für Bündnisfähigkeit an und beschreibt die USA als Vorreiter, weist aber auf Unterschiede unter Verbündeten hin.
+- **[Risk Mitigation Strategies for the Open Foundation Model Value Chain](https://partnershiponai.org/resource/risk-mitigation-strategies-for-the-open-foundation-model-value-chain/)** · partnershiponai.org · 2024-07-11 · [Q001099](../../berichte/Q00/Q0010/Q001099/)
+  - Levels 4–7: clef **16 %** · Luna **13 %** · d3-ultra not yet rated · JEV **16 %** · amos **41 %** · drex **25 %**
+  - Levels 3–7: clef **49 %** · Luna **60 %** · d3-ultra not yet rated · JEV **44 %** · amos **69 %** · drex **52 %**
+  - Summary (German): Der Bericht empfiehlt gemeinsame, entlang der KI-Wertschöpfungskette verteilte Schutzmaßnahmen für offene Modelle, betont aber, dass ihre Durchsetzung schwierig ist und gemeinsame Risikoschwellen noch fehlen.
+- **[Risk thresholds for frontier AI: Insights from the AI Action Summit](https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit)** · oecd.ai · 2025-03-05 · [Q004564](../../berichte/Q00/Q0045/Q004564/)
+  - Levels 4–7: clef **16 %** · Luna **8 %** · d3-ultra not yet rated · JEV **11 %** · amos **23 %** · drex **22 %**
+  - Levels 3–7: clef **54 %** · Luna **81 %** · d3-ultra not yet rated · JEV **42 %** · amos **56 %** · drex **48 %**
+  - Summary (German): Der Bericht dokumentiert eine Fachdebatte über messbare, regelmäßig überprüfte und inklusiv festgelegte Risikoschwellen für Frontier AI, ohne bereits ein verbindliches Verfahren vorzulegen.
+- **[Securing internal systems against increasingly capable and imperfectly aligned AI](https://deepmind.google/blog/securing-the-future-of-ai-agents/)** · deepmind.google · 2026-06-18 · [Q004482](../../berichte/Q00/Q0044/Q004482/)
+  - Levels 4–7: clef **12 %** · Luna **16 %** · d3-ultra **3 %** · JEV **9 %** · amos **13 %** · drex **5 %**
+  - Levels 3–7: clef **39 %** · Luna **76 %** · d3-ultra **12 %** · JEV **32 %** · amos **35 %** · drex **13 %**
+  - Summary (German): DeepMind berichtet über ein internes Sicherheitskonzept für KI-Agenten, dessen Kontrollen mit den Fähigkeiten und möglichen Risiken der Modelle wachsen sollen.
+- **[The EU Code of Practice and future of AI in Europe](https://openai.com/global-affairs/eu-code-of-practice/)** · openai.com · 2025-07-11 · [Q007943](../../berichte/Q00/Q0079/Q007943/)
+  - Levels 4–7: clef **14 %** · Luna **16 %** · d3-ultra not yet rated · JEV **20 %** · amos **26 %** · drex **30 %**
+  - Levels 3–7: clef **46 %** · Luna **60 %** · d3-ultra not yet rated · JEV **46 %** · amos **55 %** · drex **55 %**
+  - Summary (German): OpenAI kündigt eine bedingte Unterzeichnung des EU-KI-Kodex und mehrere europäische Ausbaupläne an, deren Umsetzung der Bericht noch nicht belegt.
+- **[The Singapore Consensus on Global AI Safety Research Priorities](https://www.far.ai/research/the-singapore-consensus-on-global-ai-safety-research-priorities)** · far.ai · 2026-07-13 · [Q002087](../../berichte/Q00/Q0020/Q002087/)
+  - Levels 4–7: clef **9 %** · Luna **16 %** · d3-ultra not yet rated · JEV **5 %** · amos **8 %** · drex **5 %**
+  - Levels 3–7: clef **42 %** · Luna **52 %** · d3-ultra not yet rated · JEV **35 %** · amos **31 %** · drex **19 %**
+  - Summary (German): Der vorliegende Auszug skizziert einen Bericht, der KI-Sicherheitsforschung in Entwicklung, Risikobewertung und Kontrolle nach dem Einsatz gliedert, aber keine konkreten Prioritäten ausführt.
+- **[Through the Chat Window and Into the Real World: Preparing for AI Agents](https://cset.georgetown.edu/publication/through-the-chat-window-and-into-the-real-world-preparing-for-ai-agents/)** · cset.georgetown.edu · 2024-10-03 · [Q003223](../../berichte/Q00/Q0032/Q003223/)
+  - Levels 4–7: clef **8 %** · Luna **16 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **3 %**
+  - Levels 3–7: clef **40 %** · Luna **53 %** · d3-ultra **9 %** · JEV **7 %** · amos **28 %** · drex **13 %**
+  - Summary (German): Der Auszug empfiehlt, mögliche Risiken zunehmend eigenständiger KI-Agenten besser zu messen und technische sowie rechtliche Schutzmaßnahmen weiterzuentwickeln.
+- **[Updating the Frontier Safety Framework](https://deepmind.google/blog/updating-the-frontier-safety-framework/)** · deepmind.google · 2025-02-04 · [Q004097](../../berichte/Q00/Q0040/Q004097/)
+  - Levels 4–7: clef **16 %** · Luna **15 %** · d3-ultra **8 %** · JEV **35 %** · amos **22 %** · drex **14 %**
+  - Levels 3–7: clef **46 %** · Luna **71 %** · d3-ultra **25 %** · JEV **64 %** · amos **49 %** · drex **38 %**
+  - Summary (German): DeepMind verschärft seine Empfehlungen für KI-Sicherheit und beschreibt Prüfungen vor dem Einsatz kritischer Modelle, räumt aber offene Fragen zu Schwellenwerten, Wirksamkeit und dem Auftreten täuschender Fähigkeiten ein.
+- **[White Paper on Trustworthy Artificial Intelligence](https://cset.georgetown.edu/publication/white-paper-on-trustworthy-artificial-intelligence/)** · cset.georgetown.edu · 2021-09-14 · [Q006236](../../berichte/Q00/Q0062/Q006236/)
+  - Levels 4–7: clef **8 %** · Luna **16 %** · d3-ultra **2 %** · JEV **3 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **42 %** · Luna **56 %** · d3-ultra **14 %** · JEV **22 %** · amos **29 %** · drex **16 %**
+  - Summary (German): Der Auszug eines Weißbuchs von 2021 betont zentrale Anforderungen an vertrauenswürdige KI; der vollständige Bericht liegt nicht vor.
+- **[Wuhan’s AI Development](https://cset.georgetown.edu/publication/wuhans-ai-development/)** · cset.georgetown.edu · 2025-05-19 · [Q002722](../../berichte/Q00/Q0027/Q002722/)
+  - Levels 4–7: clef **6 %** · Luna **16 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **28 %** · Luna **60 %** · d3-ultra **6 %** · JEV **11 %** · amos **19 %** · drex **15 %**
+  - Summary (German): Nur ein Auszug liegt vor: Er beschreibt Wuhan laut Bericht als Erprobungsort für KI, die Produktion und Alltag beeinflussen und Chinas Weg zu AGI fördern soll.
+- **[Advancing Data Justice Research and Practice: An Integrated Literature Review](https://oecd.ai/en/wonk/documents/advancing-data-justice-research-and-practice-an-integrated-literature-review)** · oecd.ai · 2025-05-15 · [Q004080](../../berichte/Q00/Q0040/Q004080/)
+  - Levels 4–7: clef **6 %** · Luna **15 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **4 %**
+  - Levels 3–7: clef **21 %** · Luna **55 %** · d3-ultra **2 %** · JEV **6 %** · amos **9 %** · drex **7 %**
+  - Summary (German): Der vorliegende Einleitungsauszug beschreibt das Ziel, Datengerechtigkeit breiter zu fassen und Forschungslücken bei der Einbeziehung betroffener Menschen und unterschiedlicher Perspektiven zu bearbeiten; Methoden und konkrete Ergebnisse des Berichts sind darin nicht enthalten.
+- **[Advancing the field of systemic AI safety: grants open](https://www.aisi.gov.uk/blog/advancing-the-field-of-systemic-ai-safety-grants-open)** · aisi.gov.uk · 2024-10-15 · [Q002815](../../berichte/Q00/Q0028/Q002815/)
+  - Levels 4–7: clef **7 %** · Luna **15 %** · d3-ultra not yet rated · JEV **0 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **50 %** · Luna **66 %** · d3-ultra not yet rated · JEV **10 %** · amos **29 %** · drex **19 %**
+  - Summary (German): Das AISI stellte Fördermittel für Forschung zu gesellschaftlichen KI-Risiken und möglichen Gegenmaßnahmen bereit, berichtet im Text aber noch keine Ergebnisse des Programms.
+- **[AI for Military Decision-Making](https://cset.georgetown.edu/publication/ai-for-military-decision-making/)** · cset.georgetown.edu · 2025-03-31 · [Q002924](../../berichte/Q00/Q0029/Q002924/)
+  - Levels 4–7: clef **12 %** · Luna **15 %** · d3-ultra **2 %** · JEV **1 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **45 %** · Luna **53 %** · d3-ultra **8 %** · JEV **2 %** · amos **36 %** · drex **15 %**
+  - Summary (German): Der vorliegende Auszug empfiehlt, militärische KI-Entscheidungshilfen wegen Daten-, Einsatz- und Mensch-Maschine-Risiken klar zu begrenzen, zu prüfen und menschlichem Urteil unterzuordnen.
+- **[Artificial Intelligence in Health](http://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence-health)** · digital-strategy.ec.europa.eu ·  · [Q001771](../../berichte/Q00/Q0017/Q001771/)
+  - Levels 4–7: clef **12 %** · Luna **15 %** · d3-ultra **2 %** · JEV not yet rated · amos **12 %** · drex not yet rated
+  - Levels 3–7: clef **43 %** · Luna **60 %** · d3-ultra **8 %** · JEV not yet rated · amos **40 %** · drex not yet rated
+  - Summary (German): Die EU-Kommission skizziert Infrastruktur, Regeln und Förderprogramme für KI im Gesundheitswesen, bewertet deren klinische Wirkung jedoch nicht systematisch.
+- **[As language models and generative AI take the world by storm, the OECD is tracking the policy implications](https://oecd.ai/en/wonk/language-models-policy-implications)** · oecd.ai · 2023-04-13 · [Q003529](../../berichte/Q00/Q0035/Q003529/)
+  - Levels 4–7: clef **8 %** · Luna **15 %** · d3-ultra **3 %** · JEV **2 %** · amos **8 %** · drex **5 %**
+  - Levels 3–7: clef **47 %** · Luna **71 %** · d3-ultra **16 %** · JEV **40 %** · amos **32 %** · drex **18 %**
+  - Summary (German): Der OECD-Beitrag sieht Chancen in KI-Sprachmodellen, warnt vor schwer kontrollierbaren gesellschaftlichen Risiken und fordert weitere Forschung, Standards und Zusammenarbeit.
+- **[Autonomous Cyber Defense](https://cset.georgetown.edu/publication/autonomous-cyber-defense/)** · cset.georgetown.edu · 2023-06-21 · [Q004614](../../berichte/Q00/Q0046/Q004614/)
+  - Levels 4–7: clef **15 %** · Luna **13 %** · d3-ultra **2 %** · JEV **4 %** · amos **11 %** · drex **9 %**
+  - Levels 3–7: clef **39 %** · Luna **51 %** · d3-ultra **9 %** · JEV **22 %** · amos **36 %** · drex **22 %**
+  - Summary (German): Der vorliegende Executive-Summary-Auszug sieht RL-gestützte autonome Cyberabwehr als vielversprechend, aber technisch unreif und langfristig; nötig seien vertrauenswürdige Systeme und nachhaltige Unterstützung.
+- **[China Creates National New Generation Artificial Intelligence Innovation and Development Pilot Zones](https://cset.georgetown.edu/publication/china-creates-national-new-generation-artificial-intelligence-innovation-and-development-pilot-zones/)** · cset.georgetown.edu · 2020-03-11 · [Q006575](../../berichte/Q00/Q0065/Q006575/)
+  - Levels 4–7: clef **6 %** · Luna **15 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **19 %** · Luna **54 %** · d3-ultra **3 %** · JEV **1 %** · amos **12 %** · drex **10 %**
+  - Summary (German): Der Bericht zählt im März 2020 elf chinesische KI-Pilotzonen auf und fasst ihre amtlich beschriebenen Schwerpunkte zusammen, ohne deren Wirkung unabhängig zu bewerten.
+- **[Circle of trust: Six steps to foster the effective development of tools for trustworthy AI in the UK and the United States](https://oecd.ai/en/wonk/circle-of-trust-six-steps-trustworthy-ai-uk-us)** · oecd.ai · 2024-06-20 · [Q005454](../../berichte/Q00/Q0054/Q005454/)
+  - Levels 4–7: clef **10 %** · Luna **15 %** · d3-ultra **3 %** · JEV **3 %** · amos **12 %** · drex **11 %**
+  - Levels 3–7: clef **43 %** · Luna **73 %** · d3-ultra **21 %** · JEV **22 %** · amos **43 %** · drex **30 %**
+  - Summary (German): Der Beitrag berichtet über mehr als 200 KI-Vertrauenswerkzeuge in den USA und im Vereinigten Königreich und schlägt sechs Schritte für bessere Zusammenarbeit, Bewertung und gemeinsame Ressourcen vor.
+- **[From Principles to Practices](https://partnershiponai.org/resource/from-principles-to-practices/)** · partnershiponai.org · 2024-11-19 · [Q000845](../../berichte/Q00/Q0008/Q000845/)
+  - Levels 4–7: clef **11 %** · Luna **15 %** · d3-ultra not yet rated · JEV **2 %** · amos **11 %** · drex **7 %**
+  - Levels 3–7: clef **34 %** · Luna **91 %** · d3-ultra not yet rated · JEV **8 %** · amos **33 %** · drex **17 %**
+  - Summary (German): Der Auszug kündigt PAI’s Fallbeispiele zur Governance synthetischer Medien an, enthält aber weder die versprochenen sieben Praktiken noch die konkreten Analysen.
+- **[Harnessed Lightning](https://cset.georgetown.edu/publication/harnessed-lightning/)** · cset.georgetown.edu · 2021-10-28 · [Q004365](../../berichte/Q00/Q0043/Q004365/)
+  - Levels 4–7: clef **11 %** · Luna **15 %** · d3-ultra **1 %** · JEV **10 %** · amos **9 %** · drex **11 %**
+  - Levels 3–7: clef **36 %** · Luna **52 %** · d3-ultra **7 %** · JEV **34 %** · amos **30 %** · drex **25 %**
+  - Summary (German): Der Auszug berichtet, dass die PLA KI in mehreren militärischen Bereichen beschafft, doch Ausmaß und Folgen bleiben teils unsicher.
+- **[How the OECD AI Policy Observatory has shaped Colombia and Latin America’s approach to AI policy](https://oecd.ai/en/wonk/how-the-oecd-ai-policy-observatory-has-shaped-colombia-and-latin-americas-approach-to-ai-policy)** · oecd.ai · 2021-07-21 · [Q006449](../../berichte/Q00/Q0064/Q006449/)
+  - Levels 4–7: clef **15 %** · Luna **10 %** · d3-ultra **1 %** · JEV **24 %** · amos **10 %** · drex **13 %**
+  - Levels 3–7: clef **42 %** · Luna **53 %** · d3-ultra **7 %** · JEV **57 %** · amos **31 %** · drex **31 %**
+  - Summary (German): Nach Einschätzung der Autorin stärkt das OECD AI Policy Observatory KI-Politik und Zusammenarbeit in Lateinamerika; die geschilderten Wirkungen sind persönliche Erfahrungsberichte, keine unabhängig geprüften Ergebnisse.
+- **[Introducing GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)** · openai.com · 2025-12-18 · [Q005961](../../berichte/Q00/Q0059/Q005961/)
+  - Levels 4–7: clef **15 %** · Luna **3 %** · d3-ultra not yet rated · JEV **13 %** · amos **16 %** · drex **8 %**
+  - Levels 3–7: clef **51 %** · Luna **30 %** · d3-ultra not yet rated · JEV **23 %** · amos **39 %** · drex **18 %**
+  - Summary (German): OpenAI stellt GPT‑5.2‑Codex als leistungsfähigeres Modell für Programmierung und defensive Sicherheit vor, nennt aber keine Benchmarkzahlen und betont verbleibende Missbrauchsrisiken.
+- **[Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)** · openai.com · 2026-02-05 · [Q004937](../../berichte/Q00/Q0049/Q004937/)
+  - Levels 4–7: clef **15 %** · Luna **1 %** · d3-ultra not yet rated · JEV **6 %** · amos **16 %** · drex **9 %**
+  - Levels 3–7: clef **51 %** · Luna **2 %** · d3-ultra not yet rated · JEV **9 %** · amos **39 %** · drex **20 %**
+  - Summary (German): OpenAI kündigt GPT‑5.3‑Codex als schnelleres, vielseitiges Arbeitsmodell an und berichtet über starke Benchmarkwerte, während die Angaben unternehmenseigene Ergebnisse sind und Cyberrisiken mit Schutzmaßnahmen begegnet werden sollen.
+- **[Introducing Intelligence Age](https://openai.com/index/introducing-intelligence-age/)** · openai.com · 2026-08-20 · [Q008126](../../berichte/Q00/Q0081/Q008126/)
+  - Levels 4–7: clef **11 %** · Luna **15 %** · d3-ultra not yet rated · JEV **1 %** · amos **8 %** · drex **3 %**
+  - Levels 3–7: clef **53 %** · Luna **73 %** · d3-ultra not yet rated · JEV **30 %** · amos **28 %** · drex **11 %**
+  - Summary (German): Der Beitrag skizziert ein noch offenes Forschungsprogramm dazu, wie KI-bedingte Machtkonzentration begrenzt und individuelle Freiheit geschützt werden kann.
+- **[Issue Brief: Thresholds for Frontier AI Safety Frameworks](https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/)** · frontiermodelforum.org · 2025-02-07 · [Q002484](../../berichte/Q00/Q0024/Q002484/)
+  - Levels 4–7: clef **15 %** · Luna **7 %** · d3-ultra not yet rated · JEV **1 %** · amos **15 %** · drex **9 %**
+  - Levels 3–7: clef **50 %** · Luna **80 %** · d3-ultra not yet rated · JEV **22 %** · amos **46 %** · drex **26 %**
+  - Summary (German): Der Bericht hält Schwellenwerte für wichtig, um KI-Risiken systematisch zu begrenzen, sieht Fähigkeitsschwellen derzeit als praktikablen Ansatz und benennt offene Fragen zu ihrer Feststellung und Kombination.
+- **[Making AI Work for Cyber Defense](https://cset.georgetown.edu/publication/making-ai-work-for-cyber-defense/)** · cset.georgetown.edu · 2021-12-15 · [Q005593](../../berichte/Q00/Q0055/Q005593/)
+  - Levels 4–7: clef **10 %** · Luna **15 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **3 %**
+  - Levels 3–7: clef **38 %** · Luna **51 %** · d3-ultra **7 %** · JEV **4 %** · amos **23 %** · drex **8 %**
+  - Summary (German): Der bereitgestellte Auszug empfiehlt, ML-Cyberabwehr gegen Angriffe abzusichern und zugleich ihre Abhängigkeiten und den Zielkonflikt zwischen Genauigkeit und Robustheit zu steuern.
+- **[Making sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)** · mistral.ai ·  · [Q001596](../../berichte/Q00/Q0015/Q001596/)
+  - Levels 4–7: clef **6 %** · Luna **15 %** · d3-ultra **1 %** · JEV **1 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **20 %** · Luna **56 %** · d3-ultra **4 %** · JEV **7 %** · amos **15 %** · drex **8 %**
+  - Summary (German): Mistral kündigt 3 Milliarden Euro neue Finanzierung an und stellt seinen offenen KI-Gesamtstack als Weg zu mehr Kontrolle und Unabhängigkeit dar, ohne diese Vorteile im Bericht unabhängig belegen zu lassen.
+- **[Mariano-Florentino Cuéllar appointed to Long-Term Benefit Trust](https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust)** · anthropic.com · 2026-01-21 · [Q005211](../../berichte/Q00/Q0052/Q005211/)
+  - Levels 4–7: clef **9 %** · Luna **15 %** · d3-ultra not yet rated · JEV **0 %** · amos **6 %** · drex **3 %**
+  - Levels 3–7: clef **31 %** · Luna **72 %** · d3-ultra not yet rated · JEV **5 %** · amos **17 %** · drex **9 %**
+  - Summary (German): Anthropic beruft Tino Cuéllar in den Long-Term Benefit Trust, während die Gründungsmitglieder Kanika Bahl und Zachary Robinson ausscheiden.
+- **[Open Models, Soft Power, and the Spectrum of U.S.-China Artificial Intelligence Competition](https://cset.georgetown.edu/publication/open-models-soft-power-and-the-spectrum-of-u-s-china-artificial-intelligence-competition/)** · cset.georgetown.edu · 2026-03-26 · [Q001670](../../berichte/Q00/Q0016/Q001670/)
+  - Levels 4–7: clef **9 %** · Luna **15 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **31 %** · Luna **58 %** · d3-ultra **5 %** · JEV **12 %** · amos **17 %** · drex **14 %**
+  - Summary (German): Der Auszug beschreibt offene KI-Modelle als Teil des Einflusswettbewerbs zwischen den USA und China und gibt die Empfehlung wieder, dass die USA ihr Ökosystem offener Modelle stärken, Exportkontrollen neu ausrichten und freizügige Lizenzen fördern sollten.
+- **[Paris AI Security Forum 2025](https://www.far.ai/blog/paris-ai-security-forum-2025)** · far.ai · 2026-07-23 · [Q001500](../../berichte/Q00/Q0015/Q001500/)
+  - Levels 4–7: clef **14 %** · Luna **15 %** · d3-ultra not yet rated · JEV **3 %** · amos **24 %** · drex **20 %**
+  - Levels 3–7: clef **51 %** · Luna **91 %** · d3-ultra not yet rated · JEV **39 %** · amos **53 %** · drex **52 %**
+  - Summary (German): Der Veranstaltungsbericht fordert angesichts vielfältiger, von den Vortragenden beschriebener KI-Sicherheitsrisiken vorausschauende Schutzmaßnahmen, bietet aber keine unabhängige Prüfung oder Risikobewertung.
+- **[The Long-Term Benefit Trust](https://www.anthropic.com/news/the-long-term-benefit-trust)** · anthropic.com · 2023-09-19 · [Q000800](../../berichte/Q00/Q0008/Q000800/)
+  - Levels 4–7: clef **8 %** · Luna **15 %** · d3-ultra not yet rated · JEV **0 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **30 %** · Luna **71 %** · d3-ultra not yet rated · JEV **2 %** · amos **27 %** · drex **16 %**
+  - Summary (German): Anthropic stellt einen unabhängigen Trust vor, der langfristige KI-Entscheidungen stärker am öffentlichen Nutzen ausrichten soll, betont aber, dass seine Governance-Struktur ein noch nicht erprobtes Experiment ist.
+- **[The PRC's Domestic Approach](https://cset.georgetown.edu/publication/the-prcs-domestic-approach/)** · cset.georgetown.edu · 2023-09-20 · [Q004094](../../berichte/Q00/Q0040/Q004094/)
+  - Levels 4–7: clef **10 %** · Luna **15 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **28 %** · Luna **55 %** · d3-ultra **5 %** · JEV **15 %** · amos **15 %** · drex **16 %**
+  - Summary (German): Der vorliegende Auszug zufolge baut China Talente, Forschungsinfrastruktur und technologische Eigenständigkeit aus; CSET empfiehlt den USA, ihre Stärken bei Ausbildung, Halbleitern und Fachkräften zu sichern und eine Abkopplung je nach Technologie abzuwägen.
+- **[The Promise of White-Box Tools for Detecting and Mitigating AI Deception](https://www.far.ai/blog/ai-deception-white-box)** · far.ai · 2026-08-19 · [Q001284](../../berichte/Q00/Q0012/Q001284/)
+  - Levels 4–7: clef **15 %** · Luna **7 %** · d3-ultra not yet rated · JEV **39 %** · amos **17 %** · drex **8 %**
+  - Levels 3–7: clef **43 %** · Luna **71 %** · d3-ultra not yet rated · JEV **73 %** · amos **39 %** · drex **17 %**
+  - Summary (German): FAR.AI hält die Analyse interner Modellzustände für einen vielversprechenden, aber noch unzureichend validierten Weg zur Erkennung von KI-Täuschung.
+- **[We’re Failing to Evaluate How Biologists Could Misuse AI](https://ai-frontiers.org/articles/were-failing-to-evaluate-how-biologists-could-misuse-ai)** · ai-frontiers.org ·  · [Q000561](../../berichte/Q00/Q0005/Q000561/)
+  - Levels 4–7: clef **15 %** · Luna **3 %** · d3-ultra **3 %** · JEV not yet rated · amos **22 %** · drex not yet rated
+  - Levels 3–7: clef **56 %** · Luna **43 %** · d3-ultra **11 %** · JEV not yet rated · amos **51 %** · drex not yet rated
+  - Summary (German): Ob KI erfahrene Biologinnen und Biologen bei echter Laborarbeit stärker unterstützt, ist bislang ungeklärt; der Bericht fordert dafür sichere, aussagekräftige Studien.
+- **[国家发改委：AI全生命周期安全标准将建立](https://aiproducthub.cn/newsflash/china-ndrc-ai-full-lifecycle-safety-standards/)** · aiproducthub.cn · 2026-11-03 · [Q000466](../../berichte/Q00/Q0004/Q000466/)
+  - Levels 4–7: clef **14 %** · Luna **15 %** · d3-ultra **10 %** · JEV not yet rated · amos **16 %** · drex not yet rated
+  - Levels 3–7: clef **50 %** · Luna **59 %** · d3-ultra **29 %** · JEV not yet rated · amos **43 %** · drex not yet rated
+  - Summary (German): China kündigt umfassende KI-Sicherheitsregeln und begleitende Aufsicht sowie soziale Maßnahmen an, doch konkrete Vorschriften und ein Zeitplan stehen laut Bericht noch aus.
+- **[Adversarial Machine Learning and Cybersecurity](https://cset.georgetown.edu/publication/adversarial-machine-learning-and-cybersecurity/)** · cset.georgetown.edu · 2023-04-04 · [Q003237](../../berichte/Q00/Q0032/Q003237/)
+  - Levels 4–7: clef **14 %** · Luna **11 %** · d3-ultra **7 %** · JEV **16 %** · amos **23 %** · drex **15 %**
+  - Levels 3–7: clef **44 %** · Luna **73 %** · d3-ultra **22 %** · JEV **50 %** · amos **53 %** · drex **39 %**
+  - Summary (German): Der vorliegende Auszug fasst Empfehlungen eines Expertenworkshops zusammen, KI-Sicherheit stärker in Cybersicherheitsprozesse, Informationsaustausch, Regulierung und Forschung einzubinden, ohne deren Wirksamkeit nachzuweisen.
+- **[A framework to navigate the emerging regulatory landscape for AI](https://oecd.ai/en/wonk/emerging-regulatory-landscape-ai)** · oecd.ai · 2022-05-04 · [Q006237](../../berichte/Q00/Q0062/Q006237/)
+  - Levels 4–7: clef **14 %** · Luna **8 %** · d3-ultra **7 %** · JEV **1 %** · amos **20 %** · drex **15 %**
+  - Levels 3–7: clef **46 %** · Luna **59 %** · d3-ultra **26 %** · JEV **10 %** · amos **50 %** · drex **32 %**
+  - Summary (German): Der Beitrag von 2022 empfiehlt Organisationen, sich mit internationalen Standards und dem RAII-Bewertungsrahmen auf eine entstehende KI-Regulierung einzustellen, wobei mehrere beschriebene Gesetze noch Entwürfe waren.
+- **[AI-Nuclear Workstream](https://www.frontiermodelforum.org/workstreams/ai-nuclear-workstream/)** · frontiermodelforum.org · 2025-12-01 · [Q001990](../../berichte/Q00/Q0019/Q001990/)
+  - Levels 4–7: clef **14 %** · Luna **8 %** · d3-ultra not yet rated · JEV **1 %** · amos **12 %** · drex **12 %**
+  - Levels 3–7: clef **51 %** · Luna **34 %** · d3-ultra not yet rated · JEV **7 %** · amos **38 %** · drex **32 %**
+  - Summary (German): Der FMF-Arbeitsbereich will KI-bezogene nukleare und radiologische Risiken gemeinsam erforschen und mögliche Veröffentlichungen vorab fachlich prüfen lassen; konkrete Ergebnisse nennt der Bericht nicht.
+- **[AI Safety Needs a ‘Duty to Know’](https://www.thewellnews.com/opinions/ai-safety-needs-a-duty-to-know/)** · thewellnews.com · 2026-10-28 · [Q000229](../../berichte/Q00/Q0002/Q000229/)
+  - Levels 4–7: clef **14 %** · Luna **5 %** · d3-ultra not yet rated · JEV **6 %** · amos **19 %** · drex **15 %**
+  - Levels 3–7: clef **45 %** · Luna **54 %** · d3-ultra not yet rated · JEV **14 %** · amos **45 %** · drex **34 %**
+  - Summary (German): Der Kommentar fordert, dass die Überwachungspflicht von KI-Unternehmen mit der Autonomie ihrer Systeme wächst und die Zeit bis zur Entdeckung folgenreicher Handlungen als Sicherheitsmaßstab zählt.
+- **[AI’s potential futures: Mitigating risks, harnessing opportunities](https://oecd.ai/en/wonk/ai-potential-futures)** · oecd.ai · 2024-12-19 · [Q004772](../../berichte/Q00/Q0047/Q004772/)
+  - Levels 4–7: clef **14 %** · Luna **11 %** · d3-ultra **6 %** · JEV **6 %** · amos **11 %** · drex **9 %**
+  - Levels 3–7: clef **52 %** · Luna **63 %** · d3-ultra **27 %** · JEV **38 %** · amos **41 %** · drex **25 %**
+  - Summary (German): Der OECD-Beitrag empfiehlt vorausschauende, inklusive KI-Politik, um mögliche Vorteile zu fördern und Risiken zu begrenzen, während die langfristigen Folgen ungewiss bleiben.
+- **[Announcing the new OECD.AI Expert Group on AI Futures](https://oecd.ai/en/wonk/futures)** · oecd.ai · 2023-07-12 · [Q005390](../../berichte/Q00/Q0053/Q005390/)
+  - Levels 4–7: clef **6 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **2 %**
+  - Levels 3–7: clef **36 %** · Luna **83 %** · d3-ultra **4 %** · JEV **6 %** · amos **18 %** · drex **6 %**
+  - Summary (German): Die OECD kündigt eine vielfältig besetzte Expertengruppe an, die KI-Zukunftsszenarien untersuchen und durch öffentliche Beteiligung vorausschauende Politik unterstützen soll.
+- **[An update on disrupting deceptive uses of AI](https://openai.com/global-affairs/an-update-on-disrupting-deceptive-uses-of-ai/)** · openai.com · 2024-10-09 · [Q002464](../../berichte/Q00/Q0024/Q002464/)
+  - Levels 4–7: clef **12 %** · Luna **14 %** · d3-ultra not yet rated · JEV **3 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **33 %** · Luna **54 %** · d3-ultra not yet rated · JEV **18 %** · amos **25 %** · drex **17 %**
+  - Summary (German): Nur ein Auszug: OpenAI berichtet von mehr als 20 gestörten missbräuchlichen Operationen seit Jahresbeginn, liefert hier aber keine Falldetails; die Abbildungsbeschreibung bricht ab.
+- **[Apollo Update May 2026](https://apolloresearch.ai/blog/apollo-update-may-2026)** · apolloresearch.ai ·  · [Q001416](../../berichte/Q00/Q0014/Q001416/)
+  - Levels 4–7: clef **14 %** · Luna **14 %** · d3-ultra **2 %** · JEV not yet rated · amos **18 %** · drex not yet rated
+  - Levels 3–7: clef **43 %** · Luna **61 %** · d3-ultra **8 %** · JEV not yet rated · amos **45 %** · drex not yet rated
+  - Summary (German): Apollo kündigt den Ausbau von KI-Sicherheitsforschung, Agentenüberwachung und Governance an und beschreibt dabei offene Forschungsfragen sowie geplante Büros und Produkte.
+- **[Deadline extended to 1 October: Public consultation on risk thresholds for advanced AI systems](https://oecd.ai/en/wonk/seeking-your-views-public-consultation-on-risk-thresholds-for-advanced-ai-systems-deadline-10-september)** · oecd.ai · 2024-07-26 · [Q005217](../../berichte/Q00/Q0052/Q005217/)
+  - Levels 4–7: clef **14 %** · Luna **11 %** · d3-ultra not yet rated · JEV **12 %** · amos **24 %** · drex **25 %**
+  - Levels 3–7: clef **53 %** · Luna **83 %** · d3-ultra not yet rated · JEV **49 %** · amos **53 %** · drex **49 %**
+  - Summary (German): Der Bericht stellt eine OECD-Konsultation zu noch umstrittenen Risikoschwellen für fortgeschrittene KI vor, deren Beiträge bis zum 1. Oktober 2024 weitere Forschung und politische Arbeit unterstützen sollten.
+- **[Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability/)** · openai.com · 2025-12-18 · [Q001744](../../berichte/Q00/Q0017/Q001744/)
+  - Levels 4–7: clef **14 %** · Luna **7 %** · d3-ultra not yet rated · JEV **34 %** · amos **12 %** · drex **7 %**
+  - Levels 3–7: clef **45 %** · Luna **58 %** · d3-ultra not yet rated · JEV **51 %** · amos **38 %** · drex **14 %**
+  - Summary (German): Der Bericht zufolge macht die Überwachung von Ketten des Denkens mögliches Fehlverhalten meist besser erkennbar, doch die Tests sind begrenzt und die Übertragbarkeit auf den Einsatz bleibt offen.
+- **[fb15a2a](https://partnershiponai.org/paper_page/fb15a2a/)** · partnershiponai.org · 2021-08-06 · [Q003144](../../berichte/Q00/Q0031/Q003144/)
+  - Levels 4–7: clef **8 %** · Luna **14 %** · d3-ultra not yet rated · JEV **6 %** · amos **7 %** · drex **4 %**
+  - Levels 3–7: clef **33 %** · Luna **57 %** · d3-ultra not yet rated · JEV **26 %** · amos **18 %** · drex **9 %**
+  - Summary (German): Der bereitgestellte Auszug empfiehlt transparente Angaben zu Nutzung, Verteilung und Pflege von ML-Datensätzen und benennt dabei praktische, rechtliche und historische Zielkonflikte; es liegt nur ein Auszug vor.
+- **[Frontier AI Agents and Biological Tools: Preliminary Risks and Considerations](https://www.frontiermodelforum.org/issue-briefs/frontier-ai-agents-and-biological-tools-preliminary-risks-and-considerations/)** · frontiermodelforum.org · 2026-07-31 · [Q001316](../../berichte/Q00/Q0013/Q001316/)
+  - Levels 4–7: clef **14 %** · Luna **14 %** · d3-ultra not yet rated · JEV **2 %** · amos **14 %** · drex **9 %**
+  - Levels 3–7: clef **57 %** · Luna **61 %** · d3-ultra not yet rated · JEV **25 %** · amos **44 %** · drex **21 %**
+  - Summary (German): Laut einem vorläufigen FMF-Papier könnten KI-Agenten in Verbindung mit biologischen Werkzeugen Biosecurity-Risiken erhöhen, weshalb kombinierte Prüfungen, abgestimmte Schutzmaßnahmen und weitere Zusammenarbeit nötig seien.
+- **[Frontier Capability Assessments](https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/)** · frontiermodelforum.org · 2025-04-22 · [Q002099](../../berichte/Q00/Q0020/Q002099/)
+  - Levels 4–7: clef **14 %** · Luna **9 %** · d3-ultra not yet rated · JEV **5 %** · amos **26 %** · drex **18 %**
+  - Levels 3–7: clef **51 %** · Luna **81 %** · d3-ultra not yet rated · JEV **27 %** · amos **55 %** · drex **37 %**
+  - Summary (German): Der Bericht ordnet drei Verfahren zur Bewertung gefährlicher KI-Fähigkeiten ein, betont ihre Grenzen und sieht verlässlichere Prüfungen sowie klarere Risikoschwellen als offene Aufgaben.
+- **[Google search terms can say a lot about how countries use artificial intelligence](https://oecd.ai/en/wonk/googletrends)** · oecd.ai · 2022-09-29 · [Q006520](../../berichte/Q00/Q0065/Q006520/)
+  - Levels 4–7: clef **6 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **19 %** · Luna **51 %** · d3-ultra **2 %** · JEV **2 %** · amos **11 %** · drex **8 %**
+  - Summary (German): Google-Trends-Suchanfragen können laut OECD frühe Hinweise auf länderspezifisches Interesse an KI-Themen liefern, erklären aber nicht allein, wodurch diese Trends entstehen oder ob sie technologischen Fortschritt belegen.
+- **[Introducing the Frontier Safety Framework](https://deepmind.google/blog/introducing-the-frontier-safety-framework/)** · deepmind.google · 2024-05-17 · [Q002877](../../berichte/Q00/Q0028/Q002877/)
+  - Levels 4–7: clef **14 %** · Luna **7 %** · d3-ultra **5 %** · JEV **12 %** · amos **18 %** · drex **8 %**
+  - Levels 3–7: clef **50 %** · Luna **56 %** · d3-ultra **21 %** · JEV **49 %** · amos **44 %** · drex **21 %**
+  - Summary (German): DeepMind beschreibt ein vorläufiges System, das künftige gefährliche KI-Fähigkeiten früh erkennen und durch abgestufte Schutzmaßnahmen begrenzen soll.
+- **[Investigating unintended model actions in our evaluations and internal use](https://www.anthropic.com/research/investigating-unintended-model-actions)** · anthropic.com · 2026-10-09 · [Q002593](../../berichte/Q00/Q0025/Q002593/)
+  - Levels 4–7: clef **14 %** · Luna **8 %** · d3-ultra not yet rated · JEV **18 %** · amos **20 %** · drex **11 %**
+  - Levels 3–7: clef **39 %** · Luna **56 %** · d3-ultra not yet rated · JEV **31 %** · amos **45 %** · drex **23 %**
+  - Summary (German): Anthropic berichtet über Umgehungen und unbeabsichtigte Aktionen von Claude mit bislang minimalen Folgen, untersucht deren Ursachen weiter und verstärkt Schutzmaßnahmen.
+- **[Only Way To Align AI With Public Is To Put Public in Charge](https://www.realclearpolitics.com/articles/2026/10/31/only_way_to_align_ai_with_public_is_to_put_public_in_charge_154638.html)** · realclearpolitics.com · 2026-10-31 · [Q000235](../../berichte/Q00/Q0002/Q000235/)
+  - Levels 4–7: clef **14 %** · Luna **14 %** · d3-ultra not yet rated · JEV **1 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **45 %** · Luna **61 %** · d3-ultra not yet rated · JEV **11 %** · amos **27 %** · drex **20 %**
+  - Summary (German): Der Autor plädiert für eine globale Bürgerversammlung, die demokratisch legitimierte KI-Regeln vorschlägt, ohne praktische Hürden ausführlich zu prüfen.
+- **[OpenAI accidentally hacked Hugging Face — should we have seen it coming?](https://epoch.ai/gradient-updates/openai-accidentally-hacked-hugging-face)** · epoch.ai · 2026-07-22 · [Q009493](../../berichte/Q00/Q0094/Q009493/)
+  - Levels 4–7: clef **14 %** · Luna **9 %** · d3-ultra **5 %** · JEV **23 %** · amos **24 %** · drex **16 %**
+  - Levels 3–7: clef **49 %** · Luna **58 %** · d3-ultra **18 %** · JEV **44 %** · amos **51 %** · drex **33 %**
+  - Summary (German): Der Beitrag hält den Hugging-Face-Angriff für ein Warnsignal: Spitzenmodelle können laut Benchmarks bereits komplexe Cyberangriffe ausführen, und eine breitere Verfügbarkeit könnte das Risiko realer Angriffe erhöhen.
+- **[Post by @RyanGreenblatt on X](https://x.com/RyanGreenblatt/status/2118447235289817503?a=FTO1Xo4v85IPKmcsbf0&s=20)** · x.com · 2026-11-05 · [Q005273](../../berichte/Q00/Q0052/Q005273/)
+  - Levels 4–7: clef **14 %** · Luna **10 %** · d3-ultra not yet rated · JEV **21 %** · amos **17 %** · drex **10 %**
+  - Levels 3–7: clef **52 %** · Luna **22 %** · d3-ultra not yet rated · JEV **36 %** · amos **44 %** · drex **23 %**
+  - Summary (German): Der unvollständige Auszug beschreibt eine unsichere, nachträglich korrigierte Einschätzung, wonach RSI den KI-Fortschritt beschleunigt haben könnte; zentrale Belege sind geschwärzt und die Korrekturbegründung fehlt.
+- **[Responsible AI Working Group Report](https://oecd.ai/en/wonk/documents/responsible-ai-working-group-report-3)** · oecd.ai · 2025-05-18 · [Q003779](../../berichte/Q00/Q0037/Q003779/)
+  - Levels 4–7: clef **7 %** · Luna **14 %** · d3-ultra **1 %** · JEV **0 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **45 %** · Luna **70 %** · d3-ultra **11 %** · JEV **4 %** · amos **22 %** · drex **13 %**
+  - Summary (German): Der vorliegende Auszug fordert menschenzentrierte und inklusive KI, für die weiterhin die gestaltenden und einsetzenden Menschen Verantwortung tragen.
+- **[Russia, China and U.S. in Talks to Curb AI Use in Nuclear Arsenals, Report Says](https://www.themoscowtimes.com/2026/11/11/russia-china-and-us-in-talks-to-curb-ai-use-in-nuclear-arsenals-report-says-a94228)** · themoscowtimes.com · 2026-11-11 · [Q000576](../../berichte/Q00/Q0005/Q000576/)
+  - Levels 4–7: clef **14 %** · Luna **2 %** · d3-ultra not yet rated · JEV **4 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **51 %** · Luna **33 %** · d3-ultra not yet rated · JEV **19 %** · amos **33 %** · drex **22 %**
+  - Summary (German): Laut einem Medienbericht sprechen Russland, China und die USA über Grenzen für KI in nuklearen Systemen, doch konkrete Beschlüsse sind nicht bestätigt.
+- **[San Diego Alignment Workshop 2025](https://www.far.ai/blog/san-diego-alignment-workshop-2025)** · far.ai · 2026-07-16 · [Q001716](../../berichte/Q00/Q0017/Q001716/)
+  - Levels 4–7: clef **14 %** · Luna **12 %** · d3-ultra not yet rated · JEV **10 %** · amos **27 %** · drex **15 %**
+  - Levels 3–7: clef **51 %** · Luna **59 %** · d3-ultra not yet rated · JEV **39 %** · amos **55 %** · drex **29 %**
+  - Summary (German): Der FAR.AI-Rückblick beschreibt schwerwiegende, laut den Vortragenden beobachtete KI-Sicherheitsrisiken und laufende Gegenmaßnahmen, bietet aber nur begrenzte Details zur unabhängigen Bewertung der zugrunde liegenden Studien.
+- **[Taking a responsible path to AGI](https://deepmind.google/blog/taking-a-responsible-path-to-agi/)** · deepmind.google · 2025-04-02 · [Q003066](../../berichte/Q00/Q0030/Q003066/)
+  - Levels 4–7: clef **14 %** · Luna **9 %** · d3-ultra **7 %** · JEV **14 %** · amos **19 %** · drex **13 %**
+  - Levels 3–7: clef **48 %** · Luna **84 %** · d3-ultra **24 %** · JEV **55 %** · amos **47 %** · drex **39 %**
+  - Summary (German): DeepMind beschreibt Sicherheitsmaßnahmen für mögliche AGI, vor allem gegen Missbrauch und Fehlanpassung, lässt aber erkennen, dass wesentliche Risiken und offene Fragen bestehen.
+- **[Testimony before the Senate Committee on Energy and Natural Resources on “recent advances in artificial intelligence and the Department of Energy’s role in ensuring U.S. competitiveness and security in emerging technologies”](https://cset.georgetown.edu/publication/testimony-before-the-senate-committee-on-energy-and-natural-resources-on-recent-advances-in-artificial-intelligence-and-the-department-of-energys-role-in-ensuring-u-s-competitivenes/)** · cset.georgetown.edu · 2023-09-06 · [Q004292](../../berichte/Q00/Q0042/Q004292/)
+  - Levels 4–7: clef **13 %** · Luna **14 %** · d3-ultra **1 %** · JEV **14 %** · amos **6 %** · drex **9 %**
+  - Levels 3–7: clef **33 %** · Luna **76 %** · d3-ultra **6 %** · JEV **68 %** · amos **16 %** · drex **21 %**
+  - Summary (German): Der Auszug gibt Anna Puglisis Einschätzung wieder, dass Chinas Technologiepolitik US-Forschungslabore gefährde und Schutz nötig sei, der wissenschaftliche Freiheit wahrt und ethnisches Profiling ausschließt.
+- **[The AI Kill Switch Isn't One Control, and Stopping the Agent Is The Easy Part](https://www.resilientcyber.io/p/there-is-no-big-red-button-for-ai-agents)** · resilientcyber.io · 2026-11-13 · [Q000450](../../berichte/Q00/Q0004/Q000450/)
+  - Levels 4–7: clef **14 %** · Luna **5 %** · d3-ultra not yet rated · JEV **19 %** · amos **20 %** · drex **16 %**
+  - Levels 3–7: clef **43 %** · Luna **71 %** · d3-ultra not yet rated · JEV **51 %** · amos **47 %** · drex **33 %**
+  - Summary (German): Der Beitrag beschreibt den KI-Notausschalter als Zusammenspiel technischer Kontrollen und organisatorischer Abläufe, dessen Wirkung je nach Einsatzform begrenzt ist und nach dem Stopp überprüft und ergänzt werden muss.
+- **[Transect: Making large-scale agentic evaluations easier to understand](https://www.aisi.gov.uk/blog/transect-making-large-scale-agentic-evaluations-easier-to-understand)** · aisi.gov.uk · 2026-10-07 · [Q000155](../../berichte/Q00/Q0001/Q000155/)
+  - Levels 4–7: clef **14 %** · Luna **11 %** · d3-ultra not yet rated · JEV **22 %** · amos **15 %** · drex **8 %**
+  - Levels 3–7: clef **49 %** · Luna **62 %** · d3-ultra not yet rated · JEV **51 %** · amos **42 %** · drex **19 %**
+  - Summary (German): Transect ordnet Transkripte autonomer Agenten interaktiv und nachvollziehbar, doch seine modellgestützten Auswertungen bleiben prüfbedürftig und ersetzen weder gutes Evaluationsdesign noch menschliches Fachurteil.
+- **[Trends in AI supercomputers](https://epoch.ai/publications/trends-in-ai-supercomputers)** · epoch.ai · 2025-04-23 · [Q005484](../../berichte/Q00/Q0054/Q005484/)
+  - Levels 4–7: clef **8 %** · Luna **14 %** · d3-ultra **2 %** · JEV **4 %** · amos **8 %** · drex **7 %**
+  - Levels 3–7: clef **36 %** · Luna **74 %** · d3-ultra **16 %** · JEV **38 %** · amos **30 %** · drex **17 %**
+  - Summary (German): Laut Epoch AI wachsen Leistung, Kosten und Strombedarf von KI-Supercomputern rasant, doch die Aussagen beruhen auf einem lückenhaften Datensatz, der schätzungsweise nur 10 bis 20 Prozent der globalen Rechenleistung erfasst.
+- **[Where the Weight Lies: A Balancing Act for the Governance of Open-Weight AI Models](https://www.lawfaremedia.org/article/where-the-weight-lies--a-balancing-act-for-the-governance-of-open-weight-ai-models)** · lawfaremedia.org · 2026-11-04 · [Q000398](../../berichte/Q00/Q0003/Q000398/)
+  - Levels 4–7: clef **11 %** · Luna **14 %** · d3-ultra not yet rated · JEV **8 %** · amos **11 %** · drex **16 %**
+  - Levels 3–7: clef **40 %** · Luna **77 %** · d3-ultra not yet rated · JEV **42 %** · amos **36 %** · drex **32 %**
+  - Summary (German): Offene KI-Gewichte verschieben Macht, beseitigen aber keine Abhängigkeiten; echte digitale Souveränität hängt laut Bericht davon ab, wer auch die übrigen Schichten des KI-Systems kontrolliert.
+- **[Who is leading in AI? An analysis of industry AI research](https://epoch.ai/publications/who-is-leading-in-ai-an-analysis-of-industry-ai-research)** · epoch.ai · 2023-11-27 · [Q005702](../../berichte/Q00/Q0057/Q005702/)
+  - Levels 4–7: clef **9 %** · Luna **14 %** · d3-ultra **2 %** · JEV **29 %** · amos **11 %** · drex **10 %**
+  - Levels 3–7: clef **37 %** · Luna **60 %** · d3-ultra **12 %** · JEV **70 %** · amos **33 %** · drex **23 %**
+  - Summary (German): Laut Bericht prägen vor allem Google, Microsoft, OpenAI, Meta und DeepMind die untersuchte industrielle KI-Forschung, wobei die Ergebnisse auf bestimmten Publikations-, Rechenleistungs- und Innovationsdaten beruhen.
+- **[Academics, AI, and APTs](https://cset.georgetown.edu/publication/academics-ai-and-apts/)** · cset.georgetown.edu · 2021-03-08 · [Q004654](../../berichte/Q00/Q0046/Q004654/)
+  - Levels 4–7: clef **11 %** · Luna **13 %** · d3-ultra **1 %** · JEV **31 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **31 %** · Luna **56 %** · d3-ultra **6 %** · JEV **62 %** · amos **22 %** · drex **16 %**
+  - Summary (German): Sechs mit staatlich unterstützten Hackerteams in Verbindung gebrachte chinesische Universitäten forschen laut Bericht zu ML und Cybersicherheit, doch ein Einsatz dieser Forschung in tatsächlichen Operationen ist damit nicht belegt.
+- **[AI and the Future of Cyber Competition](https://cset.georgetown.edu/publication/ai-and-the-future-of-cyber-competition/)** · cset.georgetown.edu · 2021-01-08 · [Q005585](../../berichte/Q00/Q0055/Q005585/)
+  - Levels 4–7: clef **13 %** · Luna **6 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **46 %** · Luna **61 %** · d3-ultra **10 %** · JEV **20 %** · amos **31 %** · drex **16 %**
+  - Summary (German): Laut einer ausdrücklich spekulativen Analyse könnte maschinelles Lernen Cyberoperationen destabilisieren, weil Angreifer wie Verteidiger stärkere Anreize zu frühzeitigen Zugriffen auf gegnerische Netzwerke erhalten.
+- **[AI legal cases are increasing: how can we prepare?](https://oecd.ai/en/wonk/increasing-legal-cases)** · oecd.ai · 2023-01-09 · [Q006403](../../berichte/Q00/Q0064/Q006403/)
+  - Levels 4–7: clef **13 %** · Luna **4 %** · d3-ultra **6 %** · JEV **2 %** · amos **14 %** · drex **15 %**
+  - Levels 3–7: clef **48 %** · Luna **53 %** · d3-ultra **19 %** · JEV **7 %** · amos **41 %** · drex **33 %**
+  - Summary (German): Der Beitrag fordert mehr Durchsetzungskapazität, gemeinsame KI-Standards und eine sorgfältige Prüfung der Tatsachen jedes Rechtsfalls.
+- **[Areas for future action in the responsible AI ecosystem](https://oecd.ai/en/wonk/documents/areas-for-future-action-in-the-responsible-ai-ecosystem)** · oecd.ai · 2025-05-18 · [Q003896](../../berichte/Q00/Q0038/Q003896/)
+  - Levels 4–7: clef **7 %** · Luna **13 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **45 %** · Luna **51 %** · d3-ultra **8 %** · JEV **13 %** · amos **21 %** · drex **12 %**
+  - Summary (German): Der kurze Auszug skizziert Ziel und Hintergrund eines GPAI-Berichts zu verantwortungsvoller KI, enthält aber keine konkreten Ergebnisse oder Empfehlungen.
+- **[As Technology Changes Rapidly, Maritime Threats Evolve, Speakers in Security Council Urge Strong Human Oversight of Innovative ToolS Governing Global Navigation](https://globalsecurity.org/military/library/news/2026/10/mil-261029-unsc01.htm)** · globalsecurity.org ·  · [Q000222](../../berichte/Q00/Q0002/Q000222/)
+  - Levels 4–7: clef **13 %** · Luna **8 %** · d3-ultra **3 %** · JEV **6 %** · amos **15 %** · drex **14 %**
+  - Levels 3–7: clef **48 %** · Luna **65 %** · d3-ultra **13 %** · JEV **25 %** · amos **41 %** · drex **36 %**
+  - Summary (German): Der Bericht über eine UN-Debatte fordert, maritime Innovation mit menschlicher Aufsicht, Cybersicherheit, internationalem Recht und internationaler Zusammenarbeit zu verbinden; die berichteten Zahlen und Positionen werden nicht unabhängig geprüft.
+- **[Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan/)** · openai.com · 2026-06-08 · [Q008394](../../berichte/Q00/Q0083/Q008394/)
+  - Levels 4–7: clef **12 %** · Luna **13 %** · d3-ultra not yet rated · JEV **10 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **51 %** · Luna **79 %** · d3-ultra not yet rated · JEV **47 %** · amos **31 %** · drex **20 %**
+  - Summary (German): OpenAI will KI sicher und breit nutzbar machen und nennt dafür drei Ziele, deren Erreichung der Bericht als Absicht und Prognose beschreibt.
+- **[Data Justice Policy Brief: Putting data justice into practice](https://oecd.ai/en/wonk/documents/data-justice-policy-brief-putting-data-justice-into-practice)** · oecd.ai · 2025-05-15 · [Q003981](../../berichte/Q00/Q0039/Q003981/)
+  - Levels 4–7: clef **8 %** · Luna **13 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %**
+  - Levels 3–7: clef **25 %** · Luna **77 %** · d3-ultra **4 %** · JEV **13 %** · amos **9 %** · drex **6 %**
+  - Summary (German): Der bereitgestellte Auszug beschreibt Daten als unvollkommen öffentliches Gut, dessen Zugang Regulierung begrenzen oder öffnen kann.
+- **[Ensuring AI’s trustworthiness: reliability engineering meets data-driven risk management](https://oecd.ai/en/wonk/reliability-engineering-data-driven-risk-management)** · oecd.ai · 2023-12-12 · [Q005603](../../berichte/Q00/Q0056/Q005603/)
+  - Levels 4–7: clef **10 %** · Luna **13 %** · d3-ultra not yet rated · JEV **1 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **47 %** · Luna **57 %** · d3-ultra not yet rated · JEV **13 %** · amos **40 %** · drex **20 %**
+  - Summary (German): Der Beitrag empfiehlt Zuverlässigkeitstechnik und dokumentierte Vorfallmeldungen für das KI-Risikomanagement, betont aber, dass dieser Ansatz allein keine KI-Sicherheit garantiert.
+- **[For disabilities and designated groups, the Digital Services and Market Acts may complement AI and data policies to ensure algorithmic safety and accountability](https://oecd.ai/en/wonk/disabilities-designated-groups-digital-services-market-acts)** · oecd.ai · 2023-12-07 · [Q005721](../../berichte/Q00/Q0057/Q005721/)
+  - Levels 4–7: clef **13 %** · Luna **13 %** · d3-ultra **4 %** · JEV **5 %** · amos **16 %** · drex **13 %**
+  - Levels 3–7: clef **47 %** · Luna **52 %** · d3-ultra **17 %** · JEV **22 %** · amos **44 %** · drex **33 %**
+  - Summary (German): Laut Bericht könnten DSA und DMA zusammen mit KI-, Daten- und Barrierefreiheitsregeln den Schutz von Menschen mit Behinderungen vor Plattform- und Algorithmusrisiken stärken, ihre Wirkung ist jedoch nicht abschließend belegt.
+- **[Harnessing the power of AI and emerging technologies: Background paper for the CDEP Ministerial meeting](https://oecd.ai/en/ai-publications/harnessing-ai)** · oecd.ai · 2022-11-15 · [Q005939](../../berichte/Q00/Q0059/Q005939/)
+  - Levels 4–7: clef **10 %** · Luna **13 %** · d3-ultra **1 %** · JEV **0 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **45 %** · Luna **61 %** · d3-ultra **18 %** · JEV **14 %** · amos **28 %** · drex **13 %**
+  - Summary (German): Der Abstract-Auszug fordert, die möglichen Vorteile neuer Technologien durch vorausschauende Politik und internationale Zusammenarbeit zu nutzen und Risiken zu begrenzen.
+- **[How Australia takes a global approach to human-centred AI for maximum benefits](https://oecd.ai/en/wonk/how-australia-takes-a-global-approach-to-human-centred-ai-for-maximum-benefits)** · oecd.ai · 2020-05-11 · [Q005499](../../berichte/Q00/Q0054/Q005499/)
+  - Levels 4–7: clef **9 %** · Luna **13 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **40 %** · Luna **53 %** · d3-ultra **6 %** · JEV **10 %** · amos **22 %** · drex **14 %**
+  - Summary (German): Australien wolle laut Beitrag KI mit ethischen Leitlinien, Qualifizierung und flexibler Regulierung zum gesellschaftlichen und wirtschaftlichen Nutzen einsetzen; die erwarteten Wirkungen, darunter eine Schätzung von bis zu 2,2 Billionen AUD bis 2030, werden im Text nicht empirisch belegt.
+- **[Leading AI companies have hundreds of thousands of cutting-edge AI chips](https://epoch.ai/data-insights/computing-capacity)** · epoch.ai · 2024-10-09 · [Q005987](../../berichte/Q00/Q0059/Q005987/)
+  - Levels 4–7: clef **8 %** · Luna **13 %** · d3-ultra **2 %** · JEV **2 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **31 %** · Luna **52 %** · d3-ultra **13 %** · JEV **38 %** · amos **23 %** · drex **10 %**
+  - Summary (German): Der Bericht schätzt für führende Tech-Unternehmen sehr große KI-Rechenkapazitäten, weist aber auf unsichere Daten und die Vermietung beziehungsweise Anmietung von Rechenleistung hin.
+- **[Mistral AI partners with NVIDIA to accelerate open frontier models](https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/)** · mistral.ai · 2026-03-16 · [Q000894](../../berichte/Q00/Q0008/Q000894/)
+  - Levels 4–7: clef **7 %** · Luna **13 %** · d3-ultra **1 %** · JEV **35 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **26 %** · Luna **59 %** · d3-ultra **6 %** · JEV **63 %** · amos **22 %** · drex **11 %**
+  - Summary (German): Mistral und NVIDIA kündigen die gemeinsame Entwicklung offener KI-Modelle an; bislang beschreibt der Bericht Pläne und erwartete Vorteile, keine erzielten Ergebnisse.
+- **[Post by @LuizaJarovsky on X](https://x.com/LuizaJarovsky/status/2116885041141719432)** · x.com · 2026-11-01 · [Q001247](../../berichte/Q00/Q0012/Q001247/)
+  - Levels 4–7: clef **11 %** · Luna **13 %** · d3-ultra not yet rated · JEV **5 %** · amos **11 %** · drex **8 %**
+  - Levels 3–7: clef **37 %** · Luna **51 %** · d3-ultra not yet rated · JEV **15 %** · amos **35 %** · drex **28 %**
+  - Summary (German): Der bereitgestellte X-Beitrag gibt Jarovskys optimistische Einschätzung zu Nvidias Sicherheitsplattform wieder, enthält aber nicht das vollständige Interview oder unabhängige Belege zu ihrer Wirksamkeit.
+- **[Shaping AI trends in work and society – an evidence based approach is crucial](https://oecd.ai/en/wonk/shaping-ai-trends-in-work-and-society-an-evidence-based-approach-is-crucial)** · oecd.ai · 2020-09-10 · [Q007114](../../berichte/Q00/Q0071/Q007114/)
+  - Levels 4–7: clef **9 %** · Luna **13 %** · d3-ultra not yet rated · JEV **40 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **30 %** · Luna **60 %** · d3-ultra not yet rated · JEV **76 %** · amos **18 %** · drex **12 %**
+  - Summary (German): Der Bericht fordert eine breitere, verlässliche Datengrundlage zu KI und ihren gesellschaftlichen Folgen; die vorhandenen Indikatoren erfassen nur Teilbereiche.
+- **[The ethics of advanced AI assistants](https://deepmind.google/blog/the-ethics-of-advanced-ai-assistants/)** · deepmind.google · 2024-04-19 · [Q002862](../../berichte/Q00/Q0028/Q002862/)
+  - Levels 4–7: clef **10 %** · Luna **13 %** · d3-ultra **1 %** · JEV **0 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **54 %** · Luna **46 %** · d3-ultra **8 %** · JEV **5 %** · amos **26 %** · drex **15 %**
+  - Summary (German): Der Beitrag skizziert mögliche gesellschaftliche Folgen fortgeschrittener KI-Assistenten und fordert vorausschauende Sicherheitsprüfungen, menschliche Wertausrichtung, Selbstbestimmung und gerechten Zugang.
+- **[The power of persuading: Can and should we regulate AI algorithms?](https://oecd.ai/en/wonk/central-authority-regulate-algorithms)** · oecd.ai · 2021-03-11 · [Q006716](../../berichte/Q00/Q0067/Q006716/)
+  - Levels 4–7: clef **13 %** · Luna **12 %** · d3-ultra **3 %** · JEV **2 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **42 %** · Luna **60 %** · d3-ultra **15 %** · JEV **6 %** · amos **33 %** · drex **15 %**
+  - Summary (German): Der Bericht plädiert für eine unabhängige, langfristig ausgerichtete Aufsicht über Algorithmen, da sich deren gesellschaftliche Folgen kaum vollständig vorab vorhersagen lassen.
+- **[Vienna Alignment Workshop 2024](https://www.far.ai/blog/vienna-alignment-workshop-2024)** · far.ai · 2026-08-19 · [Q001415](../../berichte/Q00/Q0014/Q001415/)
+  - Levels 4–7: clef **11 %** · Luna **13 %** · d3-ultra not yet rated · JEV **4 %** · amos **13 %** · drex **5 %**
+  - Levels 3–7: clef **51 %** · Luna **46 %** · d3-ultra not yet rated · JEV **38 %** · amos **44 %** · drex **18 %**
+  - Summary (German): Der FAR.AI-Bericht fasst einen Workshop zu KI-Sicherheit zusammen, dessen Beiträge frühe Sicherheitsmaßnahmen, Interpretierbarkeit, bessere Evaluation und gesellschaftliche Perspektiven betonten.
+- **[We Need A Science of Scheming](https://apolloresearch.ai/science/science-of-scheming)** · apolloresearch.ai ·  · [Q001287](../../berichte/Q00/Q0012/Q001287/)
+  - Levels 4–7: clef **13 %** · Luna **8 %** · d3-ultra **1 %** · JEV not yet rated · amos **12 %** · drex not yet rated
+  - Levels 3–7: clef **51 %** · Luna **62 %** · d3-ultra **7 %** · JEV not yet rated · amos **34 %** · drex not yet rated
+  - Summary (German): Der Beitrag fordert Forschung dazu, wann KI-Modelle Aufsicht umgehen und ob solche Tendenzen mit ihrer Skalierung wachsen; die vorgestellten Kurven sind hypothetische Beispiele, keine Prognosen.
+- **[国家安全部党委书记、部长陈一新在《中国网信》杂志发表署名文章](https://www.sohu.com/a/1075928314_121106832)** · sohu.com · 2026-09-14 · [Q000074](../../berichte/Q00/Q0000/Q000074/)
+  - Levels 4–7: clef **11 %** · Luna **13 %** · d3-ultra not yet rated · JEV **3 %** · amos **11 %** · drex **9 %**
+  - Levels 3–7: clef **48 %** · Luna **75 %** · d3-ultra not yet rated · JEV **22 %** · amos **35 %** · drex **27 %**
+  - Summary (German): Chen Yixin fordert, KI in China durch staatliche Aufsicht, eigene Technologieentwicklung und internationale Regeln sicher und geordnet zu fördern; seine Risikobehauptungen werden im Beitrag nicht unabhängig überprüft.
+- **[AI and Biorisk: An Explainer](https://cset.georgetown.edu/publication/ai-and-biorisk-an-explainer/)** · cset.georgetown.edu · 2023-12-12 · [Q003734](../../berichte/Q00/Q0037/Q003734/)
+  - Levels 4–7: clef **12 %** · Luna **6 %** · d3-ultra **1 %** · JEV **3 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **51 %** · Luna **32 %** · d3-ultra **7 %** · JEV **25 %** · amos **25 %** · drex **15 %**
+  - Summary (German): Der Textausschnitt fordert, KI-bezogene und bereits bestehende biologische Risiken gemeinsam zu betrachten und Schutzmaßnahmen sowie Aufsichtsregeln gezielter zu gestalten.
+- **[AI Arms Control in a Contested World](https://www.pacificcouncil.org/activities/ai-arms-control-contested-world)** · pacificcouncil.org · 2026-11-11 · [Q000590](../../berichte/Q00/Q0005/Q000590/)
+  - Levels 4–7: clef **10 %** · Luna **12 %** · d3-ultra not yet rated · JEV **13 %** · amos **11 %** · drex **12 %**
+  - Levels 3–7: clef **49 %** · Luna **80 %** · d3-ultra not yet rated · JEV **60 %** · amos **40 %** · drex **38 %**
+  - Summary (German): Eine Webinarankündigung des Pacific Council behandelt laut Veranstalter mögliche Risiken fortgeschrittener KI für Massenvernichtungswaffen und nukleare Sicherheit; Ergebnisse der Veranstaltung liegen im Text nicht vor.
+- **[AI-Bio Workstream](https://www.frontiermodelforum.org/workstreams/ai-bio-workstream/)** · frontiermodelforum.org · 2025-01-16 · [Q001331](../../berichte/Q00/Q0013/Q001331/)
+  - Levels 4–7: clef **12 %** · Luna **10 %** · d3-ultra not yet rated · JEV **3 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **52 %** · Luna **40 %** · d3-ultra not yet rated · JEV **21 %** · amos **37 %** · drex **19 %**
+  - Summary (German): Das FMF will mit seinem AI-Bio-Arbeitsbereich gemeinsame Biosicherheitsansätze für KI entwickeln und prüft Veröffentlichungen laut eigener Darstellung wegen möglicher Informationsrisiken sorgfältig.
+- **[AI in 2025: Faster Progress, Harder Problems](https://www.far.ai/blog/san-diego-2025-opening-remarks)** · far.ai · 2026-07-16 · [Q001708](../../berichte/Q00/Q0017/Q001708/)
+  - Levels 4–7: clef **11 %** · Luna **12 %** · d3-ultra not yet rated · JEV **3 %** · amos **15 %** · drex **13 %**
+  - Levels 3–7: clef **48 %** · Luna **56 %** · d3-ultra not yet rated · JEV **22 %** · amos **45 %** · drex **27 %**
+  - Summary (German): FAR.AI zufolge wachsen KI-Fähigkeiten und Risiken rasch, doch Aussagekraft der Benchmarks und Wirksamkeit der Schutzmaßnahmen bleiben begrenzt.
+- **[AI needs the right trade policies to flourish](https://oecd.ai/en/wonk/ai-trade-policy)** · oecd.ai · 2022-07-21 · [Q006563](../../berichte/Q00/Q0065/Q006563/)
+  - Levels 4–7: clef **9 %** · Luna **12 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **34 %** · Luna **69 %** · d3-ultra **3 %** · JEV **4 %** · amos **19 %** · drex **14 %**
+  - Summary (German): Der OECD-Beitrag fordert, Handelspolitik und KI-Governance gemeinsam zu gestalten, weil Handelsbarrieren bei Technik, Diensten, Fachkräften und Daten laut Artikel die Entwicklung und Verbreitung von KI behindern können.
+- **[AI’s rewiring of US warfare may be only the beginning](https://www.gulf-times.com/article/737192/opinion/ais-rewiring-of-us-warfare-may-be-only-the-beginning)** · gulf-times.com · 2026-10-31 · [Q000255](../../berichte/Q00/Q0002/Q000255/)
+  - Levels 4–7: clef **12 %** · Luna **8 %** · d3-ultra not yet rated · JEV **23 %** · amos **13 %** · drex **14 %**
+  - Levels 3–7: clef **47 %** · Luna **73 %** · d3-ultra not yet rated · JEV **51 %** · amos **39 %** · drex **34 %**
+  - Summary (German): Der Reuters-Kommentar sieht militärische KI als zunehmend wichtige, aber fehleranfällige Unterstützung, deren Einsatz menschliche Kontrolle und nachhaltige Ressourcenentscheidungen erfordert.
+- **[A look at AI and Blockchain governance and an interview with CZ](https://oecd.ai/en/wonk/web3-ai-blockchain-governance)** · oecd.ai · 2023-04-25 · [Q006273](../../berichte/Q00/Q0062/Q006273/)
+  - Levels 4–7: clef **9 %** · Luna **12 %** · d3-ultra not yet rated · JEV **1 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **44 %** · Luna **64 %** · d3-ultra not yet rated · JEV **6 %** · amos **26 %** · drex **13 %**
+  - Summary (German): Der Beitrag stellt Leitlinien und Initiativen für KI- und Blockchain-Governance vor und argumentiert, Regulierung könne Risiken mindern; das angekündigte Interview mit CZ ist im bereitgestellten Text nicht wiedergegeben.
+- **[An open call for input from GPAI’s Data Governance Working Group](https://oecd.ai/en/wonk/open-call-input-gpai-data-governance-working-group)** · oecd.ai · 2020-11-03 · [Q007161](../../berichte/Q00/Q0071/Q007161/)
+  - Levels 4–7: clef **7 %** · Luna **12 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **29 %** · Luna **74 %** · d3-ultra **4 %** · JEV **14 %** · amos **19 %** · drex **11 %**
+  - Summary (German): Der Beitrag stellt einen vorläufigen GPAI-Rahmen für Daten-Governance und einen Aufruf zur Rückmeldung vor, berichtet aber noch keine abschließenden Forschungsergebnisse.
+- **[Data Justice in Practice:  A Guide for Developers](https://oecd.ai/en/wonk/documents/data-justice-in-practice-a-guide-for-developers)** · oecd.ai · 2025-05-15 · [Q004065](../../berichte/Q00/Q0040/Q004065/)
+  - Levels 4–7: clef **7 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **23 %** · Luna **54 %** · d3-ultra **2 %** · JEV **2 %** · amos **11 %** · drex **8 %**
+  - Summary (German): Der vorliegende Auszug stellt ein Projekt und einen Leitfaden für gerechtere Datentechnologien vor, nennt aber keine konkreten Empfehlungen oder Ergebnisse.
+- **[EU antitrust chief would consider request from AI firms to coordinate on safety](https://www.politico.eu/article/eu-open-to-discuss-antitrust-exemption-to-ai-safety-coordination-ribera-says/)** · politico.eu · 2026-09-16 · [Q000090](../../berichte/Q00/Q0000/Q000090/)
+  - Levels 4–7: clef **11 %** · Luna **12 %** · d3-ultra not yet rated · JEV **2 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **43 %** · Luna **56 %** · d3-ultra not yet rated · JEV **29 %** · amos **32 %** · drex **14 %**
+  - Summary (German): Die EU würde einen möglichen Antrag auf kartellrechtlichen Spielraum für KI-Sicherheitsabsprachen prüfen, doch laut Bericht liegt noch keiner vor und die US-Reaktionen fallen skeptischer aus.
+- **[How can standard contract terms advance responsible AI data and model sharing for generative AI and other applications?](https://oecd.ai/en/wonk/how-can-standard-contract-terms-advance-responsible-ai-data-and-model-sharing-for-generative-ai-and-other-applications)** · oecd.ai · 2023-12-08 · [Q005147](../../berichte/Q00/Q0051/Q005147/)
+  - Levels 4–7: clef **7 %** · Luna **12 %** · d3-ultra **1 %** · JEV **9 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **37 %** · Luna **81 %** · d3-ultra **6 %** · JEV **37 %** · amos **22 %** · drex **15 %**
+  - Summary (German): Der Beitrag sieht in Standardverträgen ein mögliches Hilfsmittel für verantwortungsvollen KI-Datenaustausch, betont aber, dass sie allein nicht genügen und ihre Entwicklung noch früh ist.
+- **[How do we govern the complex intersection between AI and cybersecurity?](https://oecd.ai/en/wonk/how-to-govern-the-complex-intersection-between-ai-and-cybersecurity)** · oecd.ai · 2020-10-01 · [Q005589](../../berichte/Q00/Q0055/Q005589/)
+  - Levels 4–7: clef **12 %** · Luna **9 %** · d3-ultra **4 %** · JEV **6 %** · amos **11 %** · drex **11 %**
+  - Levels 3–7: clef **47 %** · Luna **91 %** · d3-ultra **21 %** · JEV **35 %** · amos **35 %** · drex **29 %**
+  - Summary (German): KI kann laut Bericht Cyberrisiken verstärken und die Verteidigung unterstützen; nötig seien sichere Gestaltung, Aufklärung und internationale Zusammenarbeit.
+- **[Mitigating the Risks of AI Integration Into Nuclear Weapons Operations](https://www.armscontrol.org/act/2026-11/features/mitigating-risks-ai-integration-nuclear-weapons-operations)** · armscontrol.org · 2026-09-11 · [Q000570](../../berichte/Q00/Q0005/Q000570/)
+  - Levels 4–7: clef **12 %** · Luna **9 %** · d3-ultra not yet rated · JEV **1 %** · amos **15 %** · drex **18 %**
+  - Levels 3–7: clef **53 %** · Luna **78 %** · d3-ultra not yet rated · JEV **11 %** · amos **42 %** · drex **39 %**
+  - Summary (German): Der Auszug warnt, dass KI nukleare Krisen durch verzerrte Informationsgrundlagen, schwer steuerbare Agenten und beschleunigte Entscheidungen verschärfen könnte, und fordert strenge Nachweise der Sicherheit vor ihrem Einsatz.
+- **[Poison in the Well](https://cset.georgetown.edu/publication/poison-in-the-well/)** · cset.georgetown.edu · 2021-06-21 · [Q005592](../../berichte/Q00/Q0055/Q005592/)
+  - Levels 4–7: clef **12 %** · Luna **9 %** · d3-ultra **5 %** · JEV **7 %** · amos **15 %** · drex **12 %**
+  - Levels 3–7: clef **44 %** · Luna **85 %** · d3-ultra **17 %** · JEV **45 %** · amos **40 %** · drex **26 %**
+  - Summary (German): Der bereitgestellte Auszug warnt laut Autor vor schwer erkennbaren Manipulationen an ML-Werkzeugen, Modellen und Datensätzen und empfiehlt staatliche Maßnahmen zur Erkennung und Verringerung dieser Lieferkettenrisiken.
+- **[Regulations for the Promotion of the Artificial Intelligence Industry in Shenzhen Special Economic Zone](https://cset.georgetown.edu/publication/regulations-for-the-promotion-of-the-artificial-intelligence-industry-in-shenzhen-special-economic-zone/)** · cset.georgetown.edu · 2022-12-15 · [Q006029](../../berichte/Q00/Q0060/Q006029/)
+  - Levels 4–7: clef **8 %** · Luna **12 %** · d3-ultra **3 %** · JEV **1 %** · amos **9 %** · drex **5 %**
+  - Levels 3–7: clef **41 %** · Luna **59 %** · d3-ultra **11 %** · JEV **3 %** · amos **25 %** · drex **11 %**
+  - Summary (German): Der vorliegende Auszug aus Shenzhens KI-Vorschriften verbindet die Förderung von Forschung und Anwendung mit Planung, Standards und abgestufter Aufsicht; er umfasst nur die Einleitung und Artikel 1 bis 12.
+- **[Self-improving AI the key step towards AGI but safety is key: Z.ai founder](https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder)** · scmp.com · 2026-11-01 · [Q000194](../../berichte/Q00/Q0001/Q000194/)
+  - Levels 4–7: clef **8 %** · Luna **12 %** · d3-ultra not yet rated · JEV **3 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **47 %** · Luna **54 %** · d3-ultra not yet rated · JEV **19 %** · amos **27 %** · drex **17 %**
+  - Summary (German): Tang Jie sieht rekursive Selbstverbesserung als möglichen Weg zu AGI, fordert angesichts des Risikos menschlichen Kontrollverlusts aber gemeinsame internationale Sicherheitsbemühungen.
+- **[Song-Chun Zhu: The Race to General Purpose Artificial Intelligence is not Merely About Technological Competition; Even More So, it is a Struggle to Control the Narrative](https://cset.georgetown.edu/publication/song-chun-zhu-ai-narrative-control/)** · cset.georgetown.edu · 2025-01-29 · [Q003036](../../berichte/Q00/Q0030/Q003036/)
+  - Levels 4–7: clef **6 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **23 %** · Luna **65 %** · d3-ultra **3 %** · JEV **3 %** · amos **11 %** · drex **10 %**
+  - Summary (German): Nur ein Auszug liegt vor: Zhu zufolge ist der Wettbewerb um allgemeine KI auch ein Kampf um Deutungshoheit, und eine US-dominierte Erzählung könne laut ihm den technologischen Abstand vergrößern.
+- **[The AI data scraping challenge:  How can we proceed responsibly?](https://oecd.ai/en/wonk/data-scraping-responsibly)** · oecd.ai · 2024-03-05 · [Q005534](../../berichte/Q00/Q0055/Q005534/)
+  - Levels 4–7: clef **12 %** · Luna **7 %** · d3-ultra **2 %** · JEV **4 %** · amos **11 %** · drex **11 %**
+  - Levels 3–7: clef **39 %** · Luna **65 %** · d3-ultra **7 %** · JEV **12 %** · amos **36 %** · drex **23 %**
+  - Summary (German): Der Bericht empfiehlt, die Chancen und Risiken des KI-Datenscrapings mit einer Kombination aus Recht, Verträgen, Technik, Verhaltenskodizes und Bildung anzugehen.
+- **[Towards Responsible AI Content](https://partnershiponai.org/resource/policy-recommendations-from-5-cases-implementing-pais-synthetic-media-framework/)** · partnershiponai.org · 2024-11-19 · [Q000928](../../berichte/Q00/Q0009/Q000928/)
+  - Levels 4–7: clef **12 %** · Luna **3 %** · d3-ultra not yet rated · JEV **1 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **36 %** · Luna **52 %** · d3-ultra not yet rated · JEV **3 %** · amos **25 %** · drex **15 %**
+  - Summary (German): PAI fordert verständliche und möglichst einheitliche KI-Offenlegungen, mehr Medienbildung und zusätzliche Schutzmaßnahmen gegen Schäden, die Kennzeichnungen allein nicht verhindern.
+- **[Tracking Europe’s progress on AI: Insights from the implementation of the EU Coordinated Plan on Artificial Intelligence](https://oecd.ai/en/wonk/tracking-europes-progress-on-ai-insights-from-the-implementation-of-the-eu-coordinated-plan-on-artificial-intelligence)** · oecd.ai · 2025-11-26 · [Q002193](../../berichte/Q00/Q0021/Q002193/)
+  - Levels 4–7: clef **10 %** · Luna **12 %** · d3-ultra not yet rated · JEV **10 %** · amos **12 %** · drex **11 %**
+  - Levels 3–7: clef **42 %** · Luna **70 %** · d3-ultra not yet rated · JEV **28 %** · amos **40 %** · drex **29 %**
+  - Summary (German): Der Artikel berichtet von Fortschritten, aber auch deutlichen Unterschieden bei der Umsetzung des EU-KI-Plans und empfiehlt gemeinsame Kennzahlen, bessere Abstimmung und stärkere grenzüberschreitende Zusammenarbeit.
+- **[全面筑牢人工智能安全屏障 推动人工智能健康有序发展_理论_人民论坛网](https://www.rmlt.com.cn/2026/0914/755773.shtml)** · rmlt.com.cn ·  · [Q000079](../../berichte/Q00/Q0000/Q000079/)
+  - Levels 4–7: clef **10 %** · Luna **12 %** · d3-ultra not yet rated · JEV **2 %** · amos **10 %** · drex **9 %**
+  - Levels 3–7: clef **49 %** · Luna **60 %** · d3-ultra not yet rated · JEV **24 %** · amos **35 %** · drex **31 %**
+  - Summary (German): Der Beitrag fordert eine sicherheitsorientierte KI-Entwicklung und nennt zahlreiche Risiken, deren Angaben er im Text nicht unabhängig belegt.
+- **[Advancing human-centric AI: Highlights from the 2025 GPAI-Associated Innovation Workshop in Tokyo](https://oecd.ai/en/wonk/advancing-human-centric-ai-highlights-from-the-2025-gpai-associated-innovation-workshop-in-tokyo)** · oecd.ai · 2025-06-04 · [Q002719](../../berichte/Q00/Q0027/Q002719/)
+  - Levels 4–7: clef **11 %** · Luna **7 %** · d3-ultra **1 %** · JEV **3 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **44 %** · Luna **55 %** · d3-ultra **7 %** · JEV **21 %** · amos **27 %** · drex **21 %**
+  - Summary (German): Ein GPAI-Workshop in Tokio entwickelte Vorschläge für inklusivere und besser abgestimmte KI-Governance, deren Umsetzung laut Bericht noch aussteht.
+- **[AI Safety Collaboration and Antitrust: Lessons from Recent Enforcer Statements and Cybersecurity Information Sharing](https://www.wiley.law/alert-AI-Safety-Collaboration-and-Antitrust-Lessons-from-Recent-Enforcer-Statements-and-Cybersecurity-Information-Sharing)** · wiley.law · 2026-10-13 · [Q000091](../../berichte/Q00/Q0000/Q000091/)
+  - Levels 4–7: clef **11 %** · Luna **5 %** · d3-ultra not yet rated · JEV **9 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **41 %** · Luna **66 %** · d3-ultra not yet rated · JEV **42 %** · amos **33 %** · drex **18 %**
+  - Summary (German): Laut Beitrag kann begrenzte KI-Sicherheitskooperation unter geltendem Kartellrecht möglich sein, während Absprachen über Entwicklung, Angebot oder Veröffentlichung heikle Einzelfallfragen aufwerfen.
+- **[Artificial Intelligence in Competition](https://cset.georgetown.edu/publication/artificial-intelligence-in-competition/)** · cset.georgetown.edu · 2026-09-24 · [Q001039](../../berichte/Q00/Q0010/Q001039/)
+  - Levels 4–7: clef **11 %** · Luna **8 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **36 %** · Luna **66 %** · d3-ultra **4 %** · JEV **7 %** · amos **20 %** · drex **13 %**
+  - Summary (German): Nur der Auszug „Executive Summary“ liegt vor: Lohn zufolge wird KI-Führerschaft erst dann strategisch bedeutsam, wenn daraus ein belastbarer Vorteil und eine Strategie zum Umgang mit gegnerischen Gegenmaßnahmen entstehen.
+- **[GPAI SAFE project report: Mapping the global AI safety risks  and solutions landscape](https://oecd.ai/en/wonk/documents/gpai-safe-project-report-mapping-the-global-ai-safety-risks-and-solutions-landscape)** · oecd.ai · 2025-09-02 · [Q002613](../../berichte/Q00/Q0026/Q002613/)
+  - Levels 4–7: clef **11 %** · Luna **11 %** · d3-ultra **1 %** · JEV **2 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **38 %** · Luna **62 %** · d3-ultra **13 %** · JEV **24 %** · amos **32 %** · drex **23 %**
+  - Summary (German): Der kurze Auszug beschreibt SAFE als GPAI-Initiative für praktische, industriegeleitete Ansätze zur Absicherung kommerzialisierter generativer KI.
+- **[How AI Labs Can Safeguard Model Weights](https://www.rand.org/pubs/research_reports/RRA2849-1.html)** · rand.org · 2024-05-30 · [Q005009](../../berichte/Q00/Q0050/Q005009/)
+  - Levels 4–7: clef **11 %** · Luna **7 %** · d3-ultra not yet rated · JEV **1 %** · amos **9 %** · drex **6 %**
+  - Levels 3–7: clef **33 %** · Luna **82 %** · d3-ultra not yet rated · JEV **15 %** · amos **28 %** · drex **16 %**
+  - Summary (German): Der bereitgestellte Auszug berichtet, dass der Schutz von KI-Modellgewichten einen umfassenden, investitionsintensiven Ansatz erfordert, nennt aber keine Details zu den untersuchten Angriffen oder Sicherheitsmaßnahmen.
+- **[International Scientific Report on the Safety of Advanced AI: interim report](https://www.aisi.gov.uk/blog/international-scientific-report-on-the-safety-of-advanced-ai-interim-report)** · aisi.gov.uk · 2024-05-17 · [Q002299](../../berichte/Q00/Q0022/Q002299/)
+  - Levels 4–7: clef **11 %** · Luna **8 %** · d3-ultra not yet rated · JEV **6 %** · amos **12 %** · drex **7 %**
+  - Levels 3–7: clef **51 %** · Luna **51 %** · d3-ultra not yet rated · JEV **50 %** · amos **42 %** · drex **21 %**
+  - Summary (German): Der vorliegende Auszug einer Regierungswebseite beschreibt einen internationalen Zwischenbericht, der Chancen und Risiken fortgeschrittener KI abwägt und erhebliche Unsicherheiten sowie Grenzen heutiger Prüfverfahren hervorhebt.
+- **[Prime Minister Carney announces landmark investment in Cohere to scale secure, sovereign AI](https://www.pm.gc.ca/en/news/speeches/2026/10/29/prime-minister-carney-announces-landmark-investment-cohere-scale-secure)** · pm.gc.ca ·  · [Q000219](../../berichte/Q00/Q0002/Q000219/)
+  - Levels 4–7: clef **11 %** · Luna **9 %** · d3-ultra not yet rated · JEV **6 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **48 %** · Luna **62 %** · d3-ultra not yet rated · JEV **16 %** · amos **36 %** · drex **18 %**
+  - Summary (German): Carney stellt die geplante Investition von bis zu 1,6 Milliarden Dollar in Cohere als Schritt zu kanadischer KI-Souveränität dar; die Rede enthält Ankündigungen und Regierungsbehauptungen, aber keine unabhängige Bewertung ihrer erwarteten Wirkung.
+- **[Results from first Anthropic Public Record](https://www.anthropic.com/research/anthropic-public-record)** · anthropic.com · 2026-06-12 · [Q001804](../../berichte/Q00/Q0018/Q001804/)
+  - Levels 4–7: clef **11 %** · Luna **6 %** · d3-ultra not yet rated · JEV **5 %** · amos **14 %** · drex **7 %**
+  - Levels 3–7: clef **46 %** · Luna **65 %** · d3-ultra not yet rated · JEV **17 %** · amos **43 %** · drex **17 %**
+  - Summary (German): Anthropics US-Umfrage von Ende 2025 zeigt große Hoffnungen auf medizinischen Nutzen, verbreitete Sorgen über KI-Folgen, mehrheitliche Unterstützung staatlicher Aufsicht und geringes Vertrauen in KI-Unternehmen.
+- **[Rethinking AI data: From scraping to sustainable and ethical data sharing](https://oecd.ai/en/wonk/rethinking-ai-data-from-scraping-to-sustainable-and-ethical-data-sharing)** · oecd.ai · 2026-03-31 · [Q001550](../../berichte/Q00/Q0015/Q001550/)
+  - Levels 4–7: clef **9 %** · Luna **11 %** · d3-ultra not yet rated · JEV **6 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **28 %** · Luna **80 %** · d3-ultra not yet rated · JEV **22 %** · amos **16 %** · drex **10 %**
+  - Summary (German): Der OECD-Beitrag fordert angesichts des Mangels an nutzbaren KI-Daten einen rechtmäßigen, vertrauenswürdigen und fairen Austausch, dessen konkrete Lösungen noch erprobt werden müssen.
+- **[Reviving the Legacy of Reykjavík](https://countercurrents.org/2026/11/reviving-the-legacy-of-reykjavik/)** · countercurrents.org · 2026-11-12 · [Q000581](../../berichte/Q00/Q0005/Q000581/)
+  - Levels 4–7: clef **11 %** · Luna **10 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **35 %** · Luna **57 %** · d3-ultra **7 %** · JEV **23 %** · amos **23 %** · drex **13 %**
+  - Summary (German): Tómasdóttir und Pirc Musar rufen zu internationalem Dialog, Rechtsstaatlichkeit, menschlicher Kontrolle über Technologien und gemeinsamer Verantwortung für die Zukunft auf, räumen aber ein, dass Erklärungen allein keine Krisen lösen.
+- **[RFI Response: Safety Considerations for Chemical and/or Biological AI Models](https://cset.georgetown.edu/publication/rfi-response-safety-considerations-for-chemical-and-or-biological-ai-models/)** · cset.georgetown.edu · 2024-12-03 · [Q003151](../../berichte/Q00/Q0031/Q003151/)
+  - Levels 4–7: clef **11 %** · Luna **8 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **47 %** · Luna **56 %** · d3-ultra **8 %** · JEV **20 %** · amos **24 %** · drex **16 %**
+  - Summary (German): Der kurze Auszug wägt Forschungsnutzen und mögliche biologische Risiken von KI ab, verweist auf einen CSET-Bericht zur Risikominderung und enthält keine konkreten Empfehlungen; die vollständige Stellungnahme liegt nicht vor.
+- **[The 2021 AI Index: AI Industrialization and Future Challenges](https://oecd.ai/en/wonk/2021-ai-index-highlights)** · oecd.ai · 2021-06-09 · [Q006229](../../berichte/Q00/Q0062/Q006229/)
+  - Levels 4–7: clef **8 %** · Luna **11 %** · d3-ultra **0 %** · JEV **2 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **33 %** · Luna **51 %** · d3-ultra **7 %** · JEV **22 %** · amos **25 %** · drex **15 %**
+  - Summary (German): Der Artikel hebt Fortschritte und wachsende wirtschaftliche Verbreitung von KI hervor und fordert bessere Prüfungen ihrer gesellschaftlichen Folgen; er bietet ausgewählte Ergebnisse, nicht den vollständigen AI-Index-Bericht.
+- **[Topic Overview: AI Chips](https://epoch.ai/publications/chips-topic-overview)** · epoch.ai · 2026-05-01 · [Q003970](../../berichte/Q00/Q0039/Q003970/)
+  - Levels 4–7: clef **11 %** · Luna **3 %** · d3-ultra **2 %** · JEV **3 %** · amos **9 %** · drex **10 %**
+  - Levels 3–7: clef **44 %** · Luna **70 %** · d3-ultra **11 %** · JEV **18 %** · amos **27 %** · drex **20 %**
+  - Summary (German): Epoch AI zufolge hängen KI-Fortschritt und seine weltweite Verteilung stark von einer konzentrierten Chip-Lieferkette, wachsender Rechenkapazität und ausreichender Stromversorgung ab.
+- **[Topic Overview: AI Data Centers](https://epoch.ai/publications/what-you-need-to-know-about-ai-data-centers)** · epoch.ai · 2025-11-04 · [Q005645](../../berichte/Q00/Q0056/Q005645/)
+  - Levels 4–7: clef **9 %** · Luna **11 %** · d3-ultra **2 %** · JEV **4 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **33 %** · Luna **77 %** · d3-ultra **15 %** · JEV **26 %** · amos **20 %** · drex **12 %**
+  - Summary (German): KI-Rechenzentren brauchen enorme, konzentrierte Stromversorgung und aufwendige Kühlung; laut Bericht sind ihre bisherigen Klimaeffekte begrenzt, könnten mit weiterem Ausbau aber deutlich zunehmen.
+- **[17 – Scaling responsible AI solutions – Building an international community of practice and knowledge-sharing](https://oecd.ai/en/wonk/documents/17-scaling-responsible-ai-solutions-building-an-international-community-of-practice-and-knowledge-sharing)** · oecd.ai · 2024-12-03 · [Q005064](../../berichte/Q00/Q0050/Q005064/)
+  - Levels 4–7: clef **8 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **34 %** · Luna **54 %** · d3-ultra **5 %** · JEV **2 %** · amos **20 %** · drex **14 %**
+  - Summary (German): Der Auszug beschreibt SRAIS’ Ausbau eines internationalen Austauschnetzwerks und nennt zentrale Herausforderungen verantwortungsvoller KI-Skalierung, enthält aber keine konkreten Projektergebnisse.
+- **[3f761d0](https://partnershiponai.org/paper_page/3f761d0/)** · partnershiponai.org · 2025-07-22 · [Q002300](../../berichte/Q00/Q0023/Q002300/)
+  - Levels 4–7: clef **9 %** · Luna **10 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **49 %** · Luna **52 %** · d3-ultra not yet rated · JEV **22 %** · amos **26 %** · drex **16 %**
+  - Summary (German): Der bereitgestellte Auszug schlägt drei konzeptionelle Werkzeuge für kohärentere KI-Governance vor, belegt ihre erwartete Wirkung aber nicht; das erwähnte Hintergrundpapier liegt nicht bei.
+- **[Advancing Data Justice Research and Practice](https://oecd.ai/en/wonk/documents/advancing-data-justice-research-and-practice)** · oecd.ai · 2025-05-13 · [Q004180](../../berichte/Q00/Q0041/Q004180/)
+  - Levels 4–7: clef **6 %** · Luna **10 %** · d3-ultra **0 %** · JEV not yet rated · amos **5 %** · drex not yet rated
+  - Levels 3–7: clef **16 %** · Luna **70 %** · d3-ultra **3 %** · JEV not yet rated · amos **11 %** · drex not yet rated
+  - Summary (German): Der vorliegende Auszug fordert, Datengerechtigkeit im Zusammenhang mit sozialen Machtverhältnissen und der gerechten Verteilung von Datenvorteilen zu betrachten; konkrete Projektergebnisse nennt er nicht.
+- **[A dynamic dialogue with Southeast Asia to put the OECD AI Principles into action](https://oecd.ai/en/wonk/a-dynamic-dialogue-with-southeast-asia-to-put-the-oecd-ai-principles-into-action)** · oecd.ai · 2025-09-10 · [Q002460](../../berichte/Q00/Q0024/Q002460/)
+  - Levels 4–7: clef **10 %** · Luna **5 %** · d3-ultra **1 %** · JEV **4 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **42 %** · Luna **71 %** · d3-ultra **7 %** · JEV **20 %** · amos **34 %** · drex **20 %**
+  - Summary (German): OECD-Treffen in Tokio und Bangkok sollen den regionalen Austausch über vertrauenswürdige KI stärken und Erkenntnisse in ein politisches Toolkit überführen, dessen Wirkung der Bericht noch nicht misst.
+- **[A first look at the OECD’s Framework for the Classification of AI Systems, designed to give policymakers clarity](https://oecd.ai/en/wonk/a-first-look-at-the-oecds-framework-for-the-classification-of-ai-systems-for-policymakers)** · oecd.ai · 2020-11-24 · [Q006726](../../berichte/Q00/Q0067/Q006726/)
+  - Levels 4–7: clef **8 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **8 %** · drex **4 %**
+  - Levels 3–7: clef **41 %** · Luna **58 %** · d3-ultra **5 %** · JEV **1 %** · amos **23 %** · drex **10 %**
+  - Summary (German): Ein vorläufiger OECD-Rahmen ordnet KI-Systeme in vier Dimensionen ein, um politische Folgen und Verantwortlichkeiten besser beurteilen zu können; weitere Prüfungen waren noch geplant.
+- **[AI cyberattacks: a timeline of real cases](https://www.ully.com/en/ai-hacking-incidents/)** · ully.com · 2026-11-13 · [Q000360](../../berichte/Q00/Q0003/Q000360/)
+  - Levels 4–7: clef **10 %** · Luna **3 %** · d3-ultra not yet rated · JEV **23 %** · amos **18 %** · drex **12 %**
+  - Levels 3–7: clef **52 %** · Luna **52 %** · d3-ultra not yet rated · JEV **46 %** · amos **46 %** · drex **21 %**
+  - Summary (German): Der Quelltext erläutert eine Chronologie von 563 angeblich KI-unterstützten Cybervorfällen und ihre Grenzen, enthält aber nicht die einzelnen Chronologie-Fälle.
+- **[A Loss of Control Threat Map for AI Research and Development](https://apolloresearch.ai/governance/ai-rd-threat-map)** · apolloresearch.ai ·  · [Q001485](../../berichte/Q00/Q0014/Q001485/)
+  - Levels 4–7: clef **10 %** · Luna **7 %** · d3-ultra **0 %** · JEV not yet rated · amos **8 %** · drex not yet rated
+  - Levels 3–7: clef **54 %** · Luna **26 %** · d3-ultra **4 %** · JEV not yet rated · amos **28 %** · drex not yet rated
+  - Summary (German): Der Bericht ordnet hypothetische Wege zu Kontrollverlust durch KI-automatisierte KI-Forschung, ohne im bereitgestellten Text die einzelnen Wege oder Gegenmaßnahmen näher darzustellen.
+- **[Bolstering U.S. Research Security](https://cset.georgetown.edu/publication/bolstering-u-s-research-security/)** · cset.georgetown.edu · 2020-09-22 · [Q006203](../../berichte/Q00/Q0062/Q006203/)
+  - Levels 4–7: clef **6 %** · Luna **10 %** · d3-ultra **2 %** · JEV **19 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **14 %** · Luna **53 %** · d3-ultra **9 %** · JEV **51 %** · amos **17 %** · drex **16 %**
+  - Summary (German): Der Bericht empfiehlt eine unabhängige öffentlich-private Einrichtung zur Forschungssicherheit in den USA, weil Bundesbehörden laut den Autoren allein nicht weit genug reichen.
+- **[Boosting Innovation while Regulating AI: Overview of 2023 Activities and 2024 Outlook](https://oecd.ai/en/wonk/documents/boosting-innovation-while-regulating-ai-overview-of-2023-activities-and-2024-outlook)** · oecd.ai · 2025-05-12 · [Q004294](../../berichte/Q00/Q0042/Q004294/)
+  - Levels 4–7: clef **8 %** · Luna **10 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **44 %** · Luna **61 %** · d3-ultra **5 %** · JEV **4 %** · amos **21 %** · drex **14 %**
+  - Summary (German): Die GPAI-Arbeitsgruppe will künftig untersuchen, wie KI-Regulierung Innovation und Vermarktung beeinflusst, ohne selbst Standards oder politische Empfehlungen vorzugeben.
+- **[CAIS Names Former xAI Leader Devin Kim President and Establishes Frontier Security Institute in Major Expansion of Leadership and Reach](https://safe.ai/news/cais-names-former-xai-leader-devin-kim-president-and-establishes-frontier-security-institute-in-major-expansion-of-leadership-and-reach)** · safe.ai · 2026-06-02 · [Q001509](../../berichte/Q00/Q0015/Q001509/)
+  - Levels 4–7: clef **10 %** · Luna **10 %** · d3-ultra not yet rated · JEV **10 %** · amos **7 %** · drex **8 %**
+  - Levels 3–7: clef **41 %** · Luna **63 %** · d3-ultra not yet rated · JEV **42 %** · amos **22 %** · drex **21 %**
+  - Summary (German): CAIS kündigt Devin Kim als Präsidenten und ein neues Institut für die Vermittlung zwischen fortgeschrittener KI und US-Sicherheitsinstitutionen an; der Bericht enthält Ankündigungen, keine Forschungsresultate.
+- **[Canada and the UK compare AI governance efforts and  reflect on regulating AI](https://oecd.ai/en/wonk/canada-and-the-uk-compare-ai-governance-efforts-and-reflect-on-regulating-ai)** · oecd.ai · 2023-07-25 · [Q006160](../../berichte/Q00/Q0061/Q006160/)
+  - Levels 4–7: clef **10 %** · Luna **9 %** · d3-ultra **2 %** · JEV **5 %** · amos **10 %** · drex **7 %**
+  - Levels 3–7: clef **45 %** · Luna **85 %** · d3-ultra **11 %** · JEV **24 %** · amos **36 %** · drex **22 %**
+  - Summary (German): Der Bericht fasst eine britisch-kanadische Gesprächsrunde zu KI-Regulierung im Finanzsektor zusammen: Standards und sektorale Regeln sollen sich ergänzen, doch das Verhältnis zur übergreifenden KI-Governance bleibt offen.
+- **[China’s AI safety framework 3.0 released](https://triviumchina.com/2026/09/16/china-tightens-ai-controls-but-rejects-any-speed-limit/)** · triviumchina.com · 2026-09-17 · [Q000081](../../berichte/Q00/Q0000/Q000081/)
+  - Levels 4–7: clef **10 %** · Luna **10 %** · d3-ultra not yet rated · JEV **2 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **49 %** · Luna **61 %** · d3-ultra not yet rated · JEV **14 %** · amos **32 %** · drex **20 %**
+  - Summary (German): Der bereitgestellte Text ist ein Auszug: Laut Bericht setzt Chinas nicht bindender KI-Sicherheitsrahmen stärker auf menschliche Eingriffe während der Nutzung als auf eine Begrenzung von KI-Fähigkeiten.
+- **[Chris Olah's remarks on Pope Leo XIV's encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)** · anthropic.com · 2026-05-25 · [Q004837](../../berichte/Q00/Q0048/Q004837/)
+  - Levels 4–7: clef **10 %** · Luna **4 %** · d3-ultra not yet rated · JEV **1 %** · amos **7 %** · drex **4 %**
+  - Levels 3–7: clef **47 %** · Luna **71 %** · d3-ultra not yet rated · JEV **17 %** · amos **28 %** · drex **10 %**
+  - Summary (German): Olah plädiert dafür, KI durch unabhängige Stimmen kritisch zu begleiten und soziale Folgen, globale Verteilung sowie die noch ungeklärte Natur der Modelle gemeinsam zu beurteilen.
+- **[European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)** · digital-strategy.ec.europa.eu ·  · [Q001353](../../berichte/Q00/Q0013/Q001353/)
+  - Levels 4–7: clef **10 %** · Luna **9 %** · d3-ultra **4 %** · JEV **2 %** · amos **22 %** · drex **6 %**
+  - Levels 3–7: clef **43 %** · Luna **53 %** · d3-ultra **23 %** · JEV **6 %** · amos **52 %** · drex **15 %**
+  - Summary (German): Die EU verbindet laut Bericht KI-Förderung mit Regulierung, doch die Seite nennt vor allem Ziele und Maßnahmen und führt uneinheitliche Daten zum KI-Gesetz an.
+- **[Evaluating social and ethical risks from generative AI](https://deepmind.google/blog/evaluating-social-and-ethical-risks-from-generative-ai/)** · deepmind.google · 2023-10-19 · [Q002034](../../berichte/Q00/Q0020/Q002034/)
+  - Levels 4–7: clef **9 %** · Luna **10 %** · d3-ultra **7 %** · JEV **5 %** · amos **11 %** · drex **8 %**
+  - Levels 3–7: clef **48 %** · Luna **81 %** · d3-ultra **29 %** · JEV **31 %** · amos **38 %** · drex **21 %**
+  - Summary (German): Die Autorinnen und Autoren plädieren für eine kontextbezogene Bewertung generativer KI, die neben Modellfähigkeiten auch menschliche Nutzung und gesellschaftliche Folgen untersucht.
+- **[GlobalPolicy.AI unites the work of eight international organisations on artificial intelligence](https://oecd.ai/en/wonk/globalpolicy-ai-launch)** · oecd.ai · 2021-09-14 · [Q006527](../../berichte/Q00/Q0065/Q006527/)
+  - Levels 4–7: clef **10 %** · Luna **8 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **39 %** · Luna **68 %** · d3-ultra **5 %** · JEV **4 %** · amos **19 %** · drex **11 %**
+  - Summary (German): GlobalPolicy.AI soll die Arbeit von acht internationalen Organisationen zu KI-Governance bündeln, doch der Bericht beschreibt vor allem Ziele und weist keine konkreten Wirkungen nach.
+- **[How many AI models will exceed compute thresholds?](https://epoch.ai/publications/model-counts-compute-thresholds)** · epoch.ai · 2025-05-30 · [Q004995](../../berichte/Q00/Q0049/Q004995/)
+  - Levels 4–7: clef **10 %** · Luna **5 %** · d3-ultra not yet rated · JEV **1 %** · amos **9 %** · drex **7 %**
+  - Levels 3–7: clef **38 %** · Luna **60 %** · d3-ultra not yet rated · JEV **8 %** · amos **28 %** · drex **15 %**
+  - Summary (German): Laut Epoch-AI-Projektion könnten 2030 etwa 200 bis 235 bemerkenswerte Modelle über 10²⁶ Trainings-FLOP liegen, doch die Schätzung ist unsicher und deckt nicht alle KI-Modelle ab.
+- **[Keeping up with the GPTs](https://epoch.ai/gradient-updates/keeping-up-with-the-gpts)** · epoch.ai · 2026-04-07 · [Q006748](../../berichte/Q00/Q0067/Q006748/)
+  - Levels 4–7: clef **10 %** · Luna **1 %** · d3-ultra **1 %** · JEV **16 %** · amos **7 %** · drex **7 %**
+  - Levels 3–7: clef **34 %** · Luna **54 %** · d3-ultra **5 %** · JEV **27 %** · amos **23 %** · drex **16 %**
+  - Summary (German): Ho meint, Effizienz und Distillation können den Rechenrückstand kleinerer KI-Labore verringern, aber wahrscheinlich keinen zehnfachen Abstand ausgleichen; seine Einschätzung beruht auf begrenzter Evidenz.
+- **[Measuring compute capacity: a critical step to capturing AI’s full economic potential](https://oecd.ai/en/wonk/ai-compute-capacity)** · oecd.ai · 2022-02-08 · [Q005841](../../berichte/Q00/Q0058/Q005841/)
+  - Levels 4–7: clef **10 %** · Luna **8 %** · d3-ultra **0 %** · JEV **2 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **31 %** · Luna **86 %** · d3-ultra **3 %** · JEV **20 %** · amos **21 %** · drex **18 %**
+  - Summary (German): Der OECD-Beitrag fordert vergleichbare Messungen nationaler KI-Rechenkapazität, damit Staaten fundierter, inklusiver und nachhaltiger investieren können; ein fertiger Messstandard liegt laut Text noch nicht vor.
+- **[More partnerships, more insights, better tools: How we shaped AI policy in 2024](https://oecd.ai/en/wonk/how-we-shaped-ai-policy-in-2024)** · oecd.ai · 2025-01-20 · [Q004607](../../berichte/Q00/Q0046/Q004607/)
+  - Levels 4–7: clef **10 %** · Luna **9 %** · d3-ultra **1 %** · JEV **6 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **41 %** · Luna **52 %** · d3-ultra **6 %** · JEV **29 %** · amos **32 %** · drex **17 %**
+  - Summary (German): Das OECD.AI-Team berichtet über seine Partnerschaften, Analysen und Werkzeuge für KI-Governance 2024, legt aber keine unabhängige Bewertung ihrer Wirkung vor.
+- **[New AI technologies can perpetuate old biases: some examples in the United States](https://oecd.ai/en/wonk/ai-biases-usa)** · oecd.ai · 2022-10-18 · [Q005519](../../berichte/Q00/Q0055/Q005519/)
+  - Levels 4–7: clef **9 %** · Luna **10 %** · d3-ultra **1 %** · JEV **3 %** · amos **9 %** · drex **3 %**
+  - Levels 3–7: clef **29 %** · Luna **61 %** · d3-ultra **4 %** · JEV **9 %** · amos **30 %** · drex **8 %**
+  - Summary (German): Der OECD-Beitrag zufolge kann KI Ungleichheiten verstärken oder mit klaren Schutzmaßnahmen verringern; dafür seien faire Entwicklung, menschliche Kontrolle und verständliche Erklärungen nötig.
+- **[Post by @boazbaraktcs on X](https://x.com/boazbaraktcs/status/2120185514682728916)** · x.com · 2026-11-10 · [Q001477](../../berichte/Q00/Q0014/Q001477/)
+  - Levels 4–7: clef **10 %** · Luna **7 %** · d3-ultra not yet rated · JEV not yet rated · amos **13 %** · drex not yet rated
+  - Levels 3–7: clef **37 %** · Luna **65 %** · d3-ultra not yet rated · JEV not yet rated · amos **36 %** · drex not yet rated
+  - Summary (German): Barak befürwortet manche KI-Sicherheitsmaßnahmen, warnt aber, Forschungsbeschränkungen könnten Macht bei den Laboren konzentrieren; der Beitrag und die Kommentare liefern dazu Meinungen, keine Wirkungsnachweise.
+- **[Responsible AI licenses: a practical tool for implementing the OECD Principles for Trustworthy AI](https://oecd.ai/en/wonk/rails-licenses-trustworthy-ai)** · oecd.ai · 2022-10-21 · [Q006511](../../berichte/Q00/Q0065/Q006511/)
+  - Levels 4–7: clef **10 %** · Luna **7 %** · d3-ultra **1 %** · JEV **8 %** · amos **9 %** · drex **8 %**
+  - Levels 3–7: clef **42 %** · Luna **55 %** · d3-ultra **5 %** · JEV **27 %** · amos **28 %** · drex **18 %**
+  - Summary (German): Der Autor sieht RAILs als mögliches ergänzendes Mittel, offene KI-Nutzung entlang der Wertschöpfungskette an verantwortungsbezogene Bedingungen zu knüpfen, weist ihre Wirksamkeit aber nicht empirisch nach.
+- **[Scoping the OECD AI principles: Deliberations of the Expert Group on Artificial Intelligence at the OECD (AIGO)](https://oecd.ai/en/ai-publications/scoping-ai-principles)** · oecd.ai · 2019-11-15 · [Q005867](../../berichte/Q00/Q0058/Q005867/)
+  - Levels 4–7: clef **8 %** · Luna **10 %** · d3-ultra **1 %** · JEV **0 %** · amos **8 %** · drex **2 %**
+  - Levels 3–7: clef **45 %** · Luna **56 %** · d3-ultra **9 %** · JEV **1 %** · amos **27 %** · drex **10 %**
+  - Summary (German): Nur der Abstract liegt vor: Er schreibt der OECD-Expertengruppe AIGO ein gemeinsames Verständnis von KI-Systemen und einen Lebenszyklusrahmen zu, die in die 2019 verabschiedeten OECD-KI-Prinzipien einflossen.
+- **[Social Media Governance Project](https://oecd.ai/en/wonk/documents/social-media-governance-project)** · oecd.ai · 2025-05-18 · [Q003797](../../berichte/Q00/Q0037/Q003797/)
+  - Levels 4–7: clef **6 %** · Luna **10 %** · d3-ultra **0 %** · JEV not yet rated · amos **4 %** · drex not yet rated
+  - Levels 3–7: clef **24 %** · Luna **59 %** · d3-ultra **2 %** · JEV not yet rated · amos **9 %** · drex not yet rated
+  - Summary (German): Der Auszug zufolge prägt KI das Erlebnis auf sozialen Medien, die weltweit stark genutzt werden; der Text liefert dazu Zahlen, aber keine weitergehende Untersuchung, und ist ausdrücklich nur ein Auszug.
+- **[Some different lenses of agency and their implications for alignment](https://www.lesswrong.com/posts/94LkQyqrrHqDKhT26/some-different-lenses-of-agency-and-their-implications-for)** · lesswrong.com · 2026-10-28 · [Q000320](../../berichte/Q00/Q0003/Q000320/)
+  - Levels 4–7: clef **10 %** · Luna **4 %** · d3-ultra not yet rated · JEV **0 %** · amos **5 %** · drex **1 %**
+  - Levels 3–7: clef **57 %** · Luna **13 %** · d3-ultra not yet rated · JEV **0 %** · amos **15 %** · drex **4 %**
+  - Summary (German): Neun Perspektiven auf Agentenschaft beleuchten unterschiedliche KI-Risiken und Ausrichtungsansätze; welche man wählt, könnte laut Bericht die Entwicklung und Sicherheit von KI praktisch beeinflussen.
+- **[Sovereign AI for assistive and public technologies: How policymakers can reinforce critical digital capacities](https://oecd.ai/en/wonk/sovereign-ai-for-assistive-and-public-technologies-critical-digital-capacities)** · oecd.ai · 2025-09-05 · [Q002471](../../berichte/Q00/Q0024/Q002471/)
+  - Levels 4–7: clef **10 %** · Luna **9 %** · d3-ultra not yet rated · JEV **11 %** · amos **14 %** · drex **9 %**
+  - Levels 3–7: clef **43 %** · Luna **57 %** · d3-ultra not yet rated · JEV **30 %** · amos **38 %** · drex **23 %**
+  - Summary (German): Der Beitrag skizziert politische Optionen für souveräne Assistenz-KI und öffentliche Systeme, stellt jedoch keine eigene vergleichende Wirksamkeitsstudie vor.
+- **[The AI data challenge: How do we protect privacy and other fundamental rights in an AI-driven world?](https://oecd.ai/en/wonk/the-ai-data-challenge-how-do-we-protect-privacy-and-other-fundamental-rights-in-an-ai-driven-world)** · oecd.ai · 2023-10-19 · [Q005779](../../berichte/Q00/Q0057/Q005779/)
+  - Levels 4–7: clef **10 %** · Luna **6 %** · d3-ultra not yet rated · JEV **3 %** · amos **12 %** · drex **8 %**
+  - Levels 3–7: clef **39 %** · Luna **56 %** · d3-ultra not yet rated · JEV **30 %** · amos **40 %** · drex **22 %**
+  - Summary (German): Der Bericht empfiehlt, KI-Datenzugang mit Grundrechtsschutz durch menschenzentrierte Regeln, Durchsetzung, gemeinsame Standards und weitere Schutzmaßnahmen zu verbinden, weist aber auf offene Fragen und unterschiedliche Positionen zur Regulierung hin.
+- **[The geography of AI compute: Mapping what is available and where](https://oecd.ai/en/wonk/the-geopgraphy-of-ai-compute-mapping-what-is-available-and-where)** · oecd.ai · 2025-10-29 · [Q001791](../../berichte/Q00/Q0017/Q001791/)
+  - Levels 4–7: clef **10 %** · Luna **3 %** · d3-ultra not yet rated · JEV **8 %** · amos **10 %** · drex **8 %**
+  - Levels 3–7: clef **29 %** · Luna **65 %** · d3-ultra not yet rated · JEV **37 %** · amos **30 %** · drex **22 %**
+  - Summary (German): Die OECD beschreibt eine Methode zur Kartierung öffentlicher Cloud-Rechenleistung für KI; eine Pilotstudie zeigt deren geografische Verteilung, erfasst aber nur die Verfügbarkeit von Chiptypen und nicht deren Menge.
+- **[Trusted Partners](https://cset.georgetown.edu/publication/trusted-partners/)** · cset.georgetown.edu · 2021-02-16 · [Q005221](../../berichte/Q00/Q0052/Q005221/)
+  - Levels 4–7: clef **10 %** · Luna **5 %** · d3-ultra **1 %** · JEV **0 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **41 %** · Luna **58 %** · d3-ultra **5 %** · JEV **1 %** · amos **22 %** · drex **12 %**
+  - Summary (German): Der Bericht fordert ein umfassendes Verständnis menschlicher, technischer und situativer Faktoren, damit militärische KI-Systeme angemessen vertrauenswürdig eingesetzt werden können.
+- **[Updates to the OECD’s definition of an AI system explained](https://oecd.ai/en/wonk/ai-system-definition-update)** · oecd.ai · 2023-11-29 · [Q005747](../../berichte/Q00/Q0057/Q005747/)
+  - Levels 4–7: clef **8 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **47 %** · Luna **55 %** · d3-ultra **3 %** · JEV **4 %** · amos **23 %** · drex **13 %**
+  - Summary (German): Die OECD aktualisierte ihre KI-Systemdefinition, um unter anderem generative KI, Eingaben und Anpassungen nach der Einführung abzubilden, betonte aber, dass ihre praktische Anwendung weiterer technischer Erläuterungen bedarf.
+- **[7cbcf44](https://partnershiponai.org/paper_page/7cbcf44/)** · partnershiponai.org · 2021-08-06 · [Q003157](../../berichte/Q00/Q0031/Q003157/)
+  - Levels 4–7: clef **9 %** · Luna **9 %** · d3-ultra not yet rated · JEV **5 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **34 %** · Luna **74 %** · d3-ultra not yet rated · JEV **14 %** · amos **24 %** · drex **11 %**
+  - Summary (German): Der Auszug empfiehlt eine transparente Dokumentation von ML-Datensätzen und ihren Entscheidungsgrundlagen, betont aber zugleich mögliche Verzerrungen, Datenschutz- und Rechtsrisiken sowie offene Fragen.
+- **[7e4a641](https://partnershiponai.org/paper_page/7e4a641/)** · partnershiponai.org · 2022-07-18 · [Q000969](../../berichte/Q00/Q0009/Q000969/)
+  - Levels 4–7: clef **9 %** · Luna **8 %** · d3-ultra not yet rated · JEV **0 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **43 %** · Luna **80 %** · d3-ultra not yet rated · JEV **2 %** · amos **17 %** · drex **11 %**
+  - Summary (German): Der vorliegende Auszug fordert faire, vergütete und durchgängige Beteiligung an KI-Projekten, die Machtungleichheiten beachtet und mit weiteren Prinzipien verantwortungsvoller KI verbunden wird.
+- **[AI for All: How India is carving its own path in the global AI race](https://oecd.ai/en/wonk/india)** · oecd.ai · 2023-01-30 · [Q006200](../../berichte/Q00/Q0062/Q006200/)
+  - Levels 4–7: clef **9 %** · Luna **5 %** · d3-ultra **1 %** · JEV **3 %** · amos **7 %** · drex **7 %**
+  - Levels 3–7: clef **36 %** · Luna **73 %** · d3-ultra **5 %** · JEV **16 %** · amos **26 %** · drex **17 %**
+  - Summary (German): Indien will laut Bericht KI für Teilhabe, öffentliche Dienste und Wachstum einsetzen und zugleich internationale Regeln für vertrauenswürdige KI mitgestalten; die Darstellung bietet Beispiele und Prognosen, aber keine systematische Wirkungsprüfung.
+- **[An update on GPAI’s Data Governance Working Group – and a call for proposals for two new projects](https://oecd.ai/en/wonk/gpai-update-data-governance)** · oecd.ai · 2021-06-09 · [Q006905](../../berichte/Q00/Q0069/Q006905/)
+  - Levels 4–7: clef **7 %** · Luna **9 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **23 %** · Luna **64 %** · d3-ultra **2 %** · JEV **9 %** · amos **13 %** · drex **11 %**
+  - Summary (German): Der Beitrag beschreibt zwei geplante GPAI-Projekte zu Datentreuhand und Datengerechtigkeit, die Grundlagen für Pilotversuche im Jahr 2022 schaffen sollten.
+- **[Artificial General Intelligence: can we avoid the ultimate existential threat?](https://oecd.ai/en/wonk/existential-threat)** · oecd.ai · 2023-01-26 · [Q006243](../../berichte/Q00/Q0062/Q006243/)
+  - Levels 4–7: clef **9 %** · Luna **3 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **47 %** · Luna **61 %** · d3-ultra **12 %** · JEV **17 %** · amos **27 %** · drex **18 %**
+  - Summary (German): Der Bericht warnt, dass eine AGI große Chancen, aber auch schwer kontrollierbare existenzielle Risiken bergen könnte, und fordert frühe Sicherheitsarbeit sowie internationale Vorsorge, obwohl wirksame Lösungen bislang offen sind.
+- **[China, Biotechnology, and BGI](https://cset.georgetown.edu/publication/china-biotechnology-and-bgi/)** · cset.georgetown.edu · 2024-05-09 · [Q003493](../../berichte/Q00/Q0034/Q003493/)
+  - Levels 4–7: clef **9 %** · Luna **9 %** · d3-ultra **1 %** · JEV **11 %** · amos **6 %** · drex **7 %**
+  - Levels 3–7: clef **25 %** · Luna **70 %** · d3-ultra **4 %** · JEV **42 %** · amos **14 %** · drex **16 %**
+  - Summary (German): Der Bericht behauptet, dass Chinas staatliche Unterstützung BGI im Biotechnologiewettbewerb begünstigt, und fordert stärkere Daten-, Forschungs- und Industriepolitik, wobei die intransparenten Daten die Prüfung erschweren.
+- **[Generative AI: Unlocking opportunities for India’s future](https://oecd.ai/en/wonk/india-generative-ai)** · oecd.ai · 2023-08-25 · [Q006059](../../berichte/Q00/Q0060/Q006059/)
+  - Levels 4–7: clef **9 %** · Luna **8 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **2 %**
+  - Levels 3–7: clef **26 %** · Luna **64 %** · d3-ultra **3 %** · JEV **1 %** · amos **13 %** · drex **6 %**
+  - Summary (German): Der Artikel sieht in generativer KI Chancen für Indiens Zugang zu Beratung und Dienstleistungen, betont aber Risiken wie Fehlinformationen und belegt die Wirkung der genannten Angebote nicht systematisch.
+- **[Headline or Trend Line?](https://cset.georgetown.edu/publication/headline-or-trend-line/)** · cset.georgetown.edu · 2021-08-26 · [Q005321](../../berichte/Q00/Q0053/Q005321/)
+  - Levels 4–7: clef **7 %** · Luna **9 %** · d3-ultra **0 %** · JEV **8 %** · amos **7 %** · drex **7 %**
+  - Levels 3–7: clef **24 %** · Luna **51 %** · d3-ultra **3 %** · JEV **17 %** · amos **23 %** · drex **17 %**
+  - Summary (German): Der vorliegende Auszug beschreibt eine wachsende, aber gemessen an Forschung und Investitionen weiterhin begrenzte KI-Kooperation zwischen China und Russland.
+- **[How private applied AI R&D labs can make AI work for mid-size businesses](https://oecd.ai/en/wonk/private-applied-ai-rd-labs-for-mid-size-businesses)** · oecd.ai · 2020-10-23 · [Q006683](../../berichte/Q00/Q0066/Q006683/)
+  - Levels 4–7: clef **9 %** · Luna **4 %** · d3-ultra **0 %** · JEV **13 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **23 %** · Luna **69 %** · d3-ultra **1 %** · JEV **49 %** · amos **13 %** · drex **8 %**
+  - Summary (German): Der Autor fordert private, praxisnahe KI-Forschungslabore und gezielte öffentliche Unterstützung für den Mittelstand, stützt die Empfehlung aber vor allem auf Argumente und eigene, nicht vergleichend evaluierte Erfahrungen.
+- **[Rebuilding digital trust in the age of AI](https://oecd.ai/en/wonk/rebuilding-digital-trust-in-the-age-of-ai)** · oecd.ai · 2025-10-23 · [Q002215](../../berichte/Q00/Q0022/Q002215/)
+  - Levels 4–7: clef **9 %** · Luna **7 %** · d3-ultra not yet rated · JEV **1 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **35 %** · Luna **57 %** · d3-ultra not yet rated · JEV **16 %** · amos **23 %** · drex **13 %**
+  - Summary (German): Der Beitrag beschreibt KI-gestützte Manipulation als Herausforderung für digitales Vertrauen und kündigt eine Konferenz an, die über Ursachen, Regeln und Wege zur Erneuerung beraten sollte.
+- **[Reflections on safety: General-purpose AI developers can learn from the Challenger disaster](https://oecd.ai/en/wonk/safety-ai-the-challenger-disaster)** · oecd.ai · 2024-02-05 · [Q005633](../../berichte/Q00/Q0056/Q005633/)
+  - Levels 4–7: clef **9 %** · Luna **9 %** · d3-ultra not yet rated · JEV **1 %** · amos **8 %** · drex **5 %**
+  - Levels 3–7: clef **43 %** · Luna **94 %** · d3-ultra not yet rated · JEV **15 %** · amos **33 %** · drex **13 %**
+  - Summary (German): Der Bericht warnt anhand der Challenger-Katastrophe, dass KI-Entwicklung ohne ausreichendes Verständnis, gründliche Risikoprüfung und eine starke Sicherheitskultur gefährlich sein kann.
+- **[Testing frameworks for the classification of AI systems](https://oecd.ai/en/wonk/cset-test-classification-ai-systems)** · oecd.ai · 2021-12-14 · [Q006696](../../berichte/Q00/Q0066/Q006696/)
+  - Levels 4–7: clef **9 %** · Luna **6 %** · d3-ultra **1 %** · JEV **7 %** · amos **12 %** · drex **11 %**
+  - Levels 3–7: clef **35 %** · Luna **51 %** · d3-ultra **7 %** · JEV **24 %** · amos **37 %** · drex **25 %**
+  - Summary (German): Laut CSET können klare Klassifikationsrahmen die Einordnung von KI-Systemen verbessern, doch ihre Verlässlichkeit hängt stark von ausreichenden Systeminformationen ab.
+- **[The Inigo Montoya Problem for Trustworthy AI (International Version)](https://cset.georgetown.edu/publication/the-inigo-montoya-problem-for-trustworthy-ai-international-version/)** · cset.georgetown.edu · 2023-10-12 · [Q004112](../../berichte/Q00/Q0041/Q004112/)
+  - Levels 4–7: clef **9 %** · Luna **9 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **40 %** · Luna **66 %** · d3-ultra **9 %** · JEV **9 %** · amos **24 %** · drex **14 %**
+  - Summary (German): Der bereitgestellte Auszug zeigt gemeinsame KI-Grundwerte, aber unterschiedliche nationale Auslegungen, die laut den Autorinnen spätere Regeln und internationale Zusammenarbeit erschweren könnten.
+- **[The OECD AI Incidents Monitor: an evidence base for effective AI policy](https://oecd.ai/en/wonk/incidents-monitor-aim)** · oecd.ai · 2023-11-14 · [Q005617](../../berichte/Q00/Q0056/Q005617/)
+  - Levels 4–7: clef **9 %** · Luna **9 %** · d3-ultra **1 %** · JEV **15 %** · amos **7 %** · drex **6 %**
+  - Levels 3–7: clef **43 %** · Luna **79 %** · d3-ultra **8 %** · JEV **47 %** · amos **23 %** · drex **16 %**
+  - Summary (German): Die OECD beschreibt AIM als Beta-Monitor für KI-Vorfälle in Nachrichten und als möglichen Baustein für ein internationales Meldesystem, wobei der Beitrag keine Belege für Vollständigkeit oder Erkennungsgenauigkeit liefert.
+- **[The OECD AI Policy Toolkit: Better AI policies for better lives](https://oecd.ai/en/wonk/the-oecd-ai-policy-toolkit-better-ai-policies-for-better-lives)** · oecd.ai · 2026-06-03 · [Q001032](../../berichte/Q00/Q0010/Q001032/)
+  - Levels 4–7: clef **9 %** · Luna **5 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **5 %**
+  - Levels 3–7: clef **42 %** · Luna **66 %** · d3-ultra not yet rated · JEV **6 %** · amos **21 %** · drex **13 %**
+  - Summary (German): Das OECD AI Policy Toolkit soll Regierungen mit gemeinsam entwickelten Praxisbeispielen dabei helfen, KI-Prinzipien in kontextgerechte Politik umzusetzen; seine Wirkung muss sich laut Beitrag erst noch zeigen.
+- **[The OECD Network of Experts on AI: Moving from principle to practice for trustworthy AI](https://oecd.ai/en/wonk/oecd-network-ai-experts-cooperation-for-trustworthy-beneficial-ai)** · oecd.ai · 2020-06-08 · [Q007188](../../berichte/Q00/Q0071/Q007188/)
+  - Levels 4–7: clef **9 %** · Luna **8 %** · d3-ultra **1 %** · JEV **1 %** · amos **8 %** · drex **6 %**
+  - Levels 3–7: clef **45 %** · Luna **61 %** · d3-ultra **7 %** · JEV **15 %** · amos **29 %** · drex **17 %**
+  - Summary (German): Der Beitrag beschreibt ONE AI und seine für 2020 geplanten Arbeiten zur praktischen Umsetzung der OECD-KI-Grundsätze, berichtet aber keine abgeschlossenen Ergebnisse.
+- **[Trust Issues: Discrepancies in Trustworthy AI Keywords Use in Policy and Research](https://cset.georgetown.edu/publication/trust-issues-discrepancies-in-trustworthy-ai-keywords-use-in-policy-and-research/)** · cset.georgetown.edu · 2024-06-14 · [Q003278](../../berichte/Q00/Q0032/Q003278/)
+  - Levels 4–7: clef **7 %** · Luna **9 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **5 %**
+  - Levels 3–7: clef **38 %** · Luna **73 %** · d3-ultra **8 %** · JEV **17 %** · amos **27 %** · drex **16 %**
+  - Summary (German): Der vorliegende Auszug berichtet über Gemeinsamkeiten und Unterschiede in Definitionen vertrauenswürdiger KI und betont die Bedeutung internationaler Abstimmung zwischen Politik und Technik.
+- **[What do AI systems and cows have in common?](https://oecd.ai/en/wonk/ai-systems-cows)** · oecd.ai · 2022-03-02 · [Q006599](../../berichte/Q00/Q0065/Q006599/)
+  - Levels 4–7: clef **9 %** · Luna **8 %** · d3-ultra **1 %** · JEV **1 %** · amos **10 %** · drex **6 %**
+  - Levels 3–7: clef **38 %** · Luna **83 %** · d3-ultra **9 %** · JEV **7 %** · amos **27 %** · drex **14 %**
+  - Summary (German): Der OECD-Beitrag stellt einen noch weiterzuentwickelnden Rahmen vor, der konkrete KI-Anwendungen anhand von Menschen, Kontext, Modellen, Daten und Autonomie klassifiziert, um Risiken besser sichtbar zu machen.
+- **[Why teens deserve access to safe AI](https://openai.com/index/why-teens-deserve-access-safe-ai/)** · openai.com · 2026-07-16 · [Q005562](../../berichte/Q00/Q0055/Q005562/)
+  - Levels 4–7: clef **9 %** · Luna **9 %** · d3-ultra not yet rated · JEV **0 %** · amos **10 %** · drex **4 %**
+  - Levels 3–7: clef **28 %** · Luna **58 %** · d3-ultra not yet rated · JEV **1 %** · amos **29 %** · drex **10 %**
+  - Summary (German): OpenAI plädiert für den Zugang Jugendlicher zu KI mit altersgerechten Schutz- und Lernfunktionen, räumt weiteren Handlungsbedarf ein und belegt die Gesamtwirksamkeit der Maßnahmen im Bericht nicht unabhängig.
+- **[A Bird's Eye View of the ML Field](https://safe.ai/blog/a-birds-eye-view-of-the-ml-field)** · safe.ai ·  · [Q002840](../../berichte/Q00/Q0028/Q002840/)
+  - Levels 4–7: clef **8 %** · Luna **7 %** · d3-ultra not yet rated · JEV **0 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **37 %** · Luna **55 %** · d3-ultra not yet rated · JEV **2 %** · amos **22 %** · drex **12 %**
+  - Summary (German): Der Bericht argumentiert, dass ML-Fortschritt stark von Messbarkeit und empirischem Experimentieren abhängt, zugleich aber durch Paradigmenwechsel und unerwartete Entwicklungen schwer vorhersehbar ist und KI-Sicherheit bislang nur einen kleinen Anteil der Forschung ausmacht.
+- **[Bernie Sanders and Steve Bannon call for curbs on AI](https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai)** · npr.org · 2026-09-15 · [Q000115](../../berichte/Q00/Q0001/Q000115/)
+  - Levels 4–7: clef **8 %** · Luna **7 %** · d3-ultra not yet rated · JEV **2 %** · amos **8 %** · drex **8 %**
+  - Levels 3–7: clef **43 %** · Luna **53 %** · d3-ultra not yet rated · JEV **12 %** · amos **26 %** · drex **20 %**
+  - Summary (German): Sanders und Bannon kritisierten beide die KI-Branche, doch ihre Vorschläge für Einschränkungen unterschieden sich deutlich.
+- **[Richard Fontaine joins the Long-Term Benefit Trust](https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust)** · anthropic.com · 2025-06-07 · [Q004502](../../berichte/Q00/Q0045/Q004502/)
+  - Levels 4–7: clef **8 %** · Luna **8 %** · d3-ultra not yet rated · JEV **0 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **34 %** · Luna **58 %** · d3-ultra not yet rated · JEV **9 %** · amos **18 %** · drex **12 %**
+  - Summary (German): Anthropic zufolge soll Richard Fontaines außen- und sicherheitspolitische Erfahrung den Trust bei Entscheidungen zu KI und globaler Sicherheit stärken; die Mitteilung belegt keine konkreten Folgen.
+- **[Testimony Before House Science Committee](https://cset.georgetown.edu/publication/cset-testimony-before-house-science-committee/)** · cset.georgetown.edu · 2019-06-26 · [Q005780](../../berichte/Q00/Q0057/Q005780/)
+  - Levels 4–7: clef **8 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **44 %** · Luna **64 %** · d3-ultra **8 %** · JEV **4 %** · amos **19 %** · drex **12 %**
+  - Summary (German): Der Bericht ist nur ein Auszug: Clark fordert, KI als soziales System zu betrachten und die Grenzen sowie Folgen von als „gut genug“ geltenden Systemen zu beachten.
+- **[The "13th Five-Year" Special Plan for S&T Military-Civil Fusion Development](https://cset.georgetown.edu/publication/the-13th-five-year-special-plan-for-st-military-civil-fusion-development/)** · cset.georgetown.edu · 2020-06-24 · [Q006596](../../berichte/Q00/Q0065/Q006596/)
+  - Levels 4–7: clef **5 %** · Luna **8 %** · d3-ultra **0 %** · JEV **11 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **10 %** · Luna **87 %** · d3-ultra **2 %** · JEV **37 %** · amos **9 %** · drex **9 %**
+  - Summary (German): Der **Auszug** aus Chinas Fusionsplan 2016–2020 behauptet Fortschritte, benennt Koordinations- und Transferprobleme und fordert ein gemeinsames Innovationssystem, enthält aber keine unabhängige Erfolgsprüfung.
+- **[What we learned from 1,604 Chinese AI job postings](https://epoch.ai/gradient-updates/what-we-learned-from-1604-chinese-ai-job-postings)** · epoch.ai · 2026-06-24 · [Q006884](../../berichte/Q00/Q0068/Q006884/)
+  - Levels 4–7: clef **8 %** · Luna **5 %** · d3-ultra **1 %** · JEV **20 %** · amos **8 %** · drex **7 %**
+  - Levels 3–7: clef **33 %** · Luna **52 %** · d3-ultra **5 %** · JEV **46 %** · amos **28 %** · drex **17 %**
+  - Summary (German): Laut einer Auswertung von über 1.600 Stellenanzeigen unterscheiden sich chinesische KI-Firmen bei Hardware, Infrastruktur, Geschäft und Forschung; die Anzeigen geben jedoch nur begrenzte Hinweise auf ihre tatsächliche Praxis.
+- **[AI language models: Technological, socio-economic and policy considerations](https://oecd.ai/en/ai-publications/language-models)** · oecd.ai · 2023-04-13 · [Q005966](../../berichte/Q00/Q0059/Q005966/)
+  - Levels 4–7: clef **7 %** · Luna **5 %** · d3-ultra **1 %** · JEV **1 %** · amos **7 %** · drex **4 %**
+  - Levels 3–7: clef **42 %** · Luna **63 %** · d3-ultra **13 %** · JEV **14 %** · amos **26 %** · drex **12 %**
+  - Summary (German): Der vorliegende Auszug ist nur der Abstract: Er skizziert Themen und Rahmenwerke eines OECD-Berichts zu KI-Sprachmodellen, nennt aber keine konkreten Befunde.
+- **[EU leaders debate benefits and dangers of AI at Dublin summit](https://www.euronews.com/2026/11/13/eu-leaders-discuss-how-to-boost-europes-ai-industry-while-tackling-risks-at-dublin-summit)** · euronews.com · 2026-11-13 · [Q000654](../../berichte/Q00/Q0006/Q000654/)
+  - Levels 4–7: clef **7 %** · Luna **5 %** · d3-ultra not yet rated · JEV **1 %** · amos **6 %** · drex **4 %**
+  - Levels 3–7: clef **40 %** · Luna **75 %** · d3-ultra not yet rated · JEV **13 %** · amos **24 %** · drex **15 %**
+  - Summary (German): Der Bericht fasst die Debatte des ersten EU-KI-Gipfels über Europas Wettbewerbsfähigkeit und den Umgang mit KI-Risiken zusammen, ohne konkrete Beschlüsse zu nennen.
+- **[Fairer Algorithmic Decision-Making and Its Consequences: Interrogating the Risks and Benefits of Demographic Data Collection, Use, and Non-Use](https://partnershiponai.org/paper/fairer-algorithmic-decision-making-and-its-consequences/)** · partnershiponai.org · 2021-12-02 · [Q002257](../../berichte/Q00/Q0022/Q002257/)
+  - Levels 4–7: clef **7 %** · Luna **5 %** · d3-ultra not yet rated · JEV **1 %** · amos **5 %** · drex **4 %**
+  - Levels 3–7: clef **18 %** · Luna **54 %** · d3-ultra not yet rated · JEV **8 %** · amos **12 %** · drex **8 %**
+  - Summary (German): Der Auszug argumentiert, dass demografische Daten algorithmische Fairness unterstützen können, ihre Erhebung und Nutzung aber Risiken birgt und nicht von Schäden durch das System selbst ablenken sollte.
+- **[Japan’s AI Utilization Guidelines: an initiative for implementing the OECD AI Principles](https://oecd.ai/en/wonk/japans-ai-utilization-guidelines-an-initiative-for-implementing-the-oecd-ai-principles)** · oecd.ai · 2020-06-10 · [Q007225](../../berichte/Q00/Q0072/Q007225/)
+  - Levels 4–7: clef **7 %** · Luna **7 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **6 %**
+  - Levels 3–7: clef **36 %** · Luna **55 %** · d3-ultra **7 %** · JEV **6 %** · amos **22 %** · drex **16 %**
+  - Summary (German): Der Autor sieht Japans KI-Nutzungsleitlinien als Beitrag zur Umsetzung der OECD-Prinzipien, betont offene Fragen zur fairen Verteilung des Datenwerts und berichtet nicht über empirisch geprüfte Wirkungen.
+- **[The Podcast: Episode 6: AI for everyone](https://deepmind.google/blog/the-podcast-episode-6-ai-for-everyone/)** · deepmind.google · 2019-09-03 · [Q004275](../../berichte/Q00/Q0042/Q004275/)
+  - Levels 4–7: clef **7 %** · Luna **6 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **3 %**
+  - Levels 3–7: clef **34 %** · Luna **61 %** · d3-ultra **2 %** · JEV **8 %** · amos **15 %** · drex **9 %**
+  - Summary (German): Der vorliegende Auszug stellt eine DeepMind-Podcastfolge zu KI und Ethik samt Gästen und weiterführenden Links vor, gibt aber das Gespräch selbst nicht wieder.
+- **[What Project Stargate Means for the Future of AI — and Who Controls It](https://frank-andrade.medium.com/what-project-stargate-means-for-the-future-of-ai-and-who-controls-it-989c6c74c1a4)** · frank-andrade.medium.com · 2025-01-24 · [Q009905](../../berichte/Q00/Q0099/Q009905/)
+  - Levels 4–7: clef **7 %** · Luna **7 %** · d3-ultra **1 %** · JEV **0 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **44 %** · Luna **52 %** · d3-ultra **9 %** · JEV **7 %** · amos **17 %** · drex **14 %**
+  - Summary (German): Der vollständige Bericht verbindet vorsichtige Hoffnung auf Stargates mögliche Vorteile mit der unbelegten Warnung des Autors, KI könne Macht und Kontrolle bei wenigen Eigentümern konzentrieren.
+- **[Mainframes: A Provisional Analysis of Rhetorical Frames in AI](https://cset.georgetown.edu/publication/mainframes-a-provisional-analysis-of-rhetorical-frames-in-ai/)** · cset.georgetown.edu · 2020-08-12 · [Q005158](../../berichte/Q00/Q0051/Q005158/)
+  - Levels 4–7: clef **6 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
+  - Levels 3–7: clef **30 %** · Luna **80 %** · d3-ultra **2 %** · JEV **8 %** · amos **13 %** · drex **13 %**
+  - Summary (German): Der vorliegende Auszug berichtet vorläufig, dass der KI-Wettbewerbsrahmen in drei englischsprachigen Medien seit 2012 häufiger auftauchte, 2015 anteilig gipfelte und nach Einschätzung der Autorinnen und Autoren Risiken für Sicherheit und Zusammenarbeit birgt.
+- **[China’s National Cybersecurity Center](https://cset.georgetown.edu/publication/chinas-national-cybersecurity-center/)** · cset.georgetown.edu · 2021-06-30 · [Q004051](../../berichte/Q00/Q0040/Q004051/)
+  - Levels 4–7: clef **5 %** · Luna **4 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **6 %**
+  - Levels 3–7: clef **12 %** · Luna **52 %** · d3-ultra **3 %** · JEV **11 %** · amos **13 %** · drex **14 %**
+  - Summary (German): Der bereitgestellte Auszug aus der Executive Summary stellt das Zentrum in Wuhan als möglichen Beitrag zu Chinas Cyberfähigkeiten dar, wobei besonders Ausbildung greifbar erscheint und Innovationserfolge ungewiss bleiben.
+
+Data: [ergebnisse.json](ergebnisse.json)

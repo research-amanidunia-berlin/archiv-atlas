@@ -1,0 +1,30 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T04",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Welche Belege stoppen an einem Prüfpunkt für Fähigkeiten den nächsten Schritt, welches unabhängig geprüfte Ergebnis erlaubt ihn wieder, und welcher Mindestbeleg gibt ihn frei? Wer darf ihn unabhängig ablehnen, und welche gemeinsamen Regeln für Pause und Wiederaufnahme gelten über alle Labore hinweg?",
+    "en": "What evidence stops the next step at a capability checkpoint, which independently checked result allows it to resume, and what minimum evidence authorises it? Who may independently reject it, and which common pause-and-resume rules apply across labs?"
+  },
+  "herkunft": [
+    "alien-mind",
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "redlines-07",
+      "text": {
+        "de": "An die Labore: Welcher Beleg würde an den Fähigkeits-Kontrollpunkten aus P33 den nächsten Schritt stoppen, und welches unabhängig geprüfte Ergebnis würde erlauben, weiterzumachen?",
+        "en": "Labs: at the capability checkpoints in P33, what evidence would stop advancement, and what independently checked result would allow it to resume?"
+      }
+    },
+    {
+      "id": "redlines-08",
+      "text": {
+        "de": "Welches Mindestmaß an Belegen würde den nächsten Skalierungsschritt erlauben, wer könnte ihn unabhängig ablehnen, und welche gemeinsamen Regeln für Pause und Wiederaufnahme würden für alle Labore gelten (A41, A49)?",
+        "en": "What minimum evidence would authorize the next scaling step, who could independently reject it, and what common pause-and-resume rules would apply across labs (A41, A49)?"
+      }
+    }
+  ],
+  "bewertung": null
+}

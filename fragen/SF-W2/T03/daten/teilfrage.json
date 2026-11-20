@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-W2-T03",
+  "sammelfrage": "SF-W2",
+  "frage": {
+    "de": "Welche Mindestkriterien für Sicherheit, etwa Prüfkarten mit wiederholbaren Tests, die Freigabe durch im Labor eingebettete Prüfer oder Verzeichnisse, an denen jede Manipulation sichtbar wird, würden Staaten für jedes mit öffentlichen Mitteln beschaffte KI-System verbindlich machen, damit Sicherheitszusagen automatisch an diese Käufe gebunden sind, statt auf freiwilligen Versprechen der Labore zu beruhen?",
+    "en": "Which minimum safety criteria, such as re-runnable evaluation cards, sign-off by embedded evaluators or manifests that make any tampering visible, would states make mandatory for every AI system procured with public funds, so that safety commitments attach automatically to these purchases rather than relying on voluntary lab promises?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-86",
+      "text": {
+        "de": "An beide Regierungen und die öffentlichen Beschaffungsstellen: Welche Mindestsicherheitskriterien – erneut ausführbare Evaluierungsberichte, Freigabe durch eingebettete Prüfer oder manipulationssichere Manifeste – würden beide Seiten für jedes mit öffentlichen Mitteln beschaffte KI-System verbindlich machen, damit Sicherheitszusagen automatisch an steuerfinanzierte Beschaffungen geknüpft sind, statt sich auf freiwillige Versprechen der Labore zu verlassen?",
+        "en": "To both governments and public procurement agencies: What minimum safety criteria — re-runnable evaluation cards, embedded-evaluator sign-off, or tamper-evident manifests — would both sides make mandatory for every AI system procured with public funds, so that safety commitments attach automatically to taxpayer-funded acquisitions rather than relying on voluntary lab promises?"
+      }
+    }
+  ],
+  "bewertung": null
+}

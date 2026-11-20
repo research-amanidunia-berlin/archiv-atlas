@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T09",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Wem gehört eine gemeinsam gebaute Testsammlung, wer darf sie an wessen Modellen erneut laufen lassen, darf ein Beteiligter seine Aufgaben zurückziehen, nachdem Ergebnisse veröffentlicht sind, und was wird dann aus der Vergleichbarkeit?",
+    "en": "Who owns a jointly built test suite, who may rerun it on whose models, may any party withdraw its tasks after results are published, and what happens to comparability then?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-58",
+      "text": {
+        "de": "An beide Regierungen, Normungsgremien und die Labore, die gemeinsame Benchmarks entwickeln würden: Wenn eine Testreihe gemeinsam aufgebaut wird — wem gehört sie, wer darf sie an wessen Modellen erneut durchführen, und kann eine Seite ihre Aufgaben zurückziehen, nachdem Ergebnisse veröffentlicht wurden — und was geschieht dann mit der Vergleichbarkeit?",
+        "en": "To both governments, standards bodies, and the labs that would build shared benchmarks: when a test suite is jointly built, who owns it, who may rerun it on whose models, and can either side withdraw its tasks after results are published — and what happens to comparability if it does?"
+      }
+    }
+  ],
+  "bewertung": null
+}

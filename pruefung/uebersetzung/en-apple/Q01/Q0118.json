@@ -1,0 +1,151 @@
+{
+  "Q011876": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "eigene Medium-Geschichten",
+            "englisch": "their own medium stories",
+            "besser": "their own Medium stories"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "wo er zuletzt häufig passende Geschichten entdeckt habe",
+            "englisch": "where he most recently frequently discovered relevant stories",
+            "besser": "where he has recently often found relevant stories"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "Die Ausschnitte geben jeweils einen thematischen Eindruck",
+            "englisch": "The excerpts provide a thematic impression each",
+            "besser": "Each excerpt gives a sense of the topic"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "Kriegserinnerung",
+            "englisch": "war remembrance",
+            "besser": "memories of war"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "kulturelle Zwischenwelten",
+            "englisch": "cultural intermediate worlds",
+            "besser": "worlds between cultures"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "fakt",
+            "deutsch": "Medium-Leseempfehlung",
+            "englisch": "medium reading recommendation",
+            "besser": "Medium reading recommendation"
+          },
+          {
+            "art": "sinn",
+            "deutsch": "Beiträge zu großen Fragen",
+            "englisch": "contributions to big questions",
+            "besser": "stories about big questions"
+          }
+        ]
+      }
+    ],
+    "q": "Q011876",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:57:18"
+  },
+  "Q011893": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "einen Schriftwechsel",
+            "englisch": "a handwriting exchange",
+            "besser": "a change of font"
+          },
+          {
+            "art": "begriff",
+            "deutsch": "Der Kulturautor Clive Thompson",
+            "englisch": "The cultural author Clive Thompson",
+            "besser": "The cultural writer Clive Thompson"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q011893",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:57:26"
+  }
+}

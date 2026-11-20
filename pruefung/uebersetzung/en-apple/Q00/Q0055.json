@@ -1,0 +1,80 @@
+{
+  "Q005538": {
+    "fassungen": [
+      {
+        "fassung": "ausfuehrlich",
+        "treu": false,
+        "vollstaendig": true,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "kleinere und günstigere Ersatzmodelle",
+            "englisch": "smaller and cheaper replacement models",
+            "besser": "smaller and cheaper surrogate models"
+          },
+          {
+            "art": "sprache",
+            "deutsch": "die priorisiert trainierten Modelle",
+            "englisch": "the prioritized-trained models",
+            "besser": "the models trained with prioritized data"
+          }
+        ]
+      },
+      {
+        "fassung": "kurz",
+        "treu": false,
+        "vollstaendig": false,
+        "fakten": false,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "sinn",
+            "deutsch": "so hätten große visuelle und multimodale Modelle … benötigt",
+            "englisch": "for example, large visual and multimodal models … required",
+            "besser": "thus, large visual and multimodal models … required"
+          },
+          {
+            "art": "hinzugefuegt",
+            "deutsch": "bis zu 25 Prozent weniger Gesamtberechnung",
+            "englisch": "up to 25 percent less total computation time",
+            "besser": "up to 25 percent less total computation"
+          }
+        ]
+      },
+      {
+        "fassung": "mittel",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 2,
+        "fehler": [
+          {
+            "art": "begriff",
+            "deutsch": "zu einem neuen Spitzenstand",
+            "englisch": "to a new peak performance",
+            "besser": "to a new state of the art"
+          }
+        ]
+      },
+      {
+        "fassung": "tldr",
+        "treu": true,
+        "vollstaendig": true,
+        "fakten": true,
+        "verschiebung": false,
+        "sprache": 3,
+        "fehler": []
+      }
+    ],
+    "q": "Q005538",
+    "modell": "gpt-6-luna",
+    "denkstufe": "high",
+    "weg": "codex (ChatGPT-Abo)",
+    "zeit": "2026-11-19T18:54:15"
+  }
+}

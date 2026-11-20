@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H5-T01",
+  "sammelfrage": "SF-H5",
+  "frage": {
+    "de": "Werden Staaten für jede Beschränkung fortgeschrittener Chips oder Anlagen den Sicherheitsgrund, die Dauer und das Prüfverfahren veröffentlichen, nach dem sie aufgehoben werden kann?",
+    "en": "Will states publish, for each restriction on advanced chips or equipment, the security reason, the duration and the review under which it can be lifted?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-09",
+      "text": {
+        "de": "Wenn eine Regierung fortschrittliche Chips oder Ausrüstung aus Gründen der nationalen Sicherheit einschränkt, liest die andere Seite darin Monopol und Technologiebeschränkung; werden beide Seiten für jede Maßnahme den Sicherheitsgrund, die Dauer und die Überprüfung veröffentlichen, unter der sie aufgehoben werden kann, damit sich eine Sicherheitsmaßnahme von einem dauerhaften Vorteil unterscheiden lässt?",
+        "en": "When a government restricts advanced chips or equipment for national-security reasons, the other side reads monopoly and technology restriction; will both sides publish, per measure, the security reason, the duration, and the review under which it can be lifted, so that a security measure can be told apart from a permanent advantage?"
+      }
+    }
+  ],
+  "bewertung": null
+}

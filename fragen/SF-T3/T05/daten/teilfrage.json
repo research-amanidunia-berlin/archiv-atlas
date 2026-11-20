@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T3-T05",
+  "sammelfrage": "SF-T3",
+  "frage": {
+    "de": "Wenn Selbstverbesserung schneller voranschreitet als der Beobachtungstakt fortlaufender Prüfer: Wie kurz muss dieser Takt sein, und wer darf zwischen zwei Beobachtungen eine Pause durchsetzen: der Prüfer, das Labor oder eine Stelle von außen?",
+    "en": "If self-improvement accelerates faster than the observation cycle of continuous evaluators, how short must the observation interval be, and who may enforce a pause between observations: the evaluator, the lab or an outside body?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "redlines-28",
+      "text": {
+        "de": "Wenn rekursive Selbstverbesserung (P5) sich schneller beschleunigt als der Beobachtungszyklus fortlaufender Prüfer (v7), was ist dann das kürzeste noch akzeptable Beobachtungsintervall, und wer hat die Befugnis, eine Pause zwischen den Beobachtungen durchzusetzen — der Prüfer, das Labor oder eine externe Stelle (r1)?",
+        "en": "If recursive self-improvement (P5) accelerates faster than the observation cycle of continuous evaluators (v7), what is the shortest acceptable observation interval, and who has authority to enforce a pause between observations — the evaluator, the lab, or an outside body (r1)?"
+      }
+    }
+  ],
+  "bewertung": null
+}

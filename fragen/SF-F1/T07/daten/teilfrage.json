@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-F1-T07",
+  "sammelfrage": "SF-F1",
+  "frage": {
+    "de": "Wie sollten führende KI-Modelle über Sprachen und Kulturen hinweg geprüft und verbessert werden, damit ihr Sicherheitsverhalten nicht vom Englischen oder den Normen eines Landes abhängt?",
+    "en": "How should leading AI models be tested and improved across languages and cultural contexts so that safety behaviour does not depend on English or the norms of one country?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-46",
+      "text": {
+        "de": "Wie sollten Frontier-Modelle über Sprachen und kulturelle Kontexte hinweg getestet und verbessert werden, damit sicherheitsrelevantes Verhalten nicht von Englisch oder den Normen eines einzelnen Landes abhängt?",
+        "en": "How should frontier models be tested and improved across languages and cultural contexts so that safety behavior does not depend on English or the norms of one country?"
+      }
+    }
+  ],
+  "bewertung": null
+}

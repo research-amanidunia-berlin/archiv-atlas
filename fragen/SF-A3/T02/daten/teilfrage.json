@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A3-T02",
+  "sammelfrage": "SF-A3",
+  "frage": {
+    "de": "Welche Mindesttests prüfen viele Modellinstanzen, die über längere Zeit zusammenwirken, auf stille Abstimmung, angesammelte Ziele und gemeinsames Verhalten, das kein einzelnes Modell zeigt?",
+    "en": "Which minimum tests evaluate many model instances interacting over time for tacit coordination, accumulated goals and collective behaviour that no single model shows?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "verify-42",
+      "text": {
+        "de": "Welche Mindesttests sollten viele über die Zeit interagierende Modellinstanzen bewerten — einschließlich stillschweigender Koordination, angesammelter Ziele und kollektiven Verhaltens, das kein einzelnes Modell für sich allein zeigt?",
+        "en": "What minimum tests should evaluate many model instances interacting over time, including tacit coordination, accumulated goals, and collective behavior that no individual model exhibits alone?"
+      }
+    }
+  ],
+  "bewertung": null
+}

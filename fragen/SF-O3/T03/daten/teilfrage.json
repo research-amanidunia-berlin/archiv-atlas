@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O3-T03",
+  "sammelfrage": "SF-O3",
+  "frage": {
+    "de": "Wird das amtliche Wortprotokoll einer Sitzung veröffentlicht, und welchen Rang sollen Leser bis dahin der automatischen Mitschrift geben, die alle zitieren? Gefragt wurde das zur Sitzung des UN-Sicherheitsrats vom 23. September 2026 zu KI und internationaler Sicherheit (Protokoll S/PV.10228).",
+    "en": "Will the official verbatim record of a meeting be published, and until then what status should readers give the automatic transcript that everyone quotes? This was asked about the UN Security Council meeting of 23 September 2026 on artificial intelligence and international security (record S/PV.10228)."
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "facts-07",
+      "text": {
+        "de": "Werden Sie das offizielle Wortprotokoll S/PV.10228 der Sicherheitsratssitzung vom 23. September 2026 zu künstlicher Intelligenz und internationaler Sicherheit veröffentlichen — und welchen Status sollten Leser bis dahin dem automatischen Transkript zuschreiben, das überall zitiert wird?",
+        "en": "Will you publish the official verbatim record S/PV.10228 of the 23 September 2026 Security Council meeting on artificial intelligence and international security, and until then what status should readers give the automatic transcript everyone is quoting?"
+      }
+    }
+  ],
+  "bewertung": null
+}

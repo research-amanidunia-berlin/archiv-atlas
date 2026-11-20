@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-H2-T05",
+  "sammelfrage": "SF-H2",
+  "frage": {
+    "de": "Welche Melde- und Abhilfepflichten sollen Herkunftsland, das Land, das den Schaden feststellt, Herausgeber und Betreiber tragen, wenn weiterverbreitete Modellgewichte anderswo Schaden anrichten?",
+    "en": "Which reporting and mitigation duties should fall on the source country, the country observing the harm, the publisher and the deploying organisation when redistributed model weights cause harm elsewhere?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-10",
+      "text": {
+        "de": "Wenn die in einem Land veröffentlichten Gewichte eines Modells weiterverbreitet werden und in einem anderen Land Schaden anrichten, welche Melde- und Abhilfepflichten sollten dann dem Ursprungsland, dem Land, das den Schaden beobachtet, dem Herausgeber oder der einsetzenden Organisation zufallen?",
+        "en": "When a model's weights released in one country are redistributed and cause harm in another, what reporting and mitigation duties should fall on the source country, the country observing the harm, the publisher, or the deploying organization?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T1-T06",
+  "sammelfrage": "SF-T1",
+  "frage": {
+    "de": "Welcher öffentliche Beleg zeigt, ob vereinbarte Grenzen eingehalten werden?",
+    "en": "What public evidence shows whether agreed limits are being kept?"
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "redlines-09",
+      "text": {
+        "de": "An die Industrie: Welche öffentlichen Belege werden zeigen, ob vereinbarte Grenzen eingehalten werden?",
+        "en": "Industry, what public evidence will show whether agreed limits are being kept?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-A2-T02",
+  "sammelfrage": "SF-A2",
+  "frage": {
+    "de": "Welcher gemeinsame Notmechanismus könnte verteilte Agentennetze und kritische automatisierte Dienste anhalten, drosseln oder abschalten, ohne einem einzelnen Akteur die alleinige Kontrolle zu geben?",
+    "en": "Which shared emergency mechanism could pause, degrade or shut down distributed agent networks and critical automated services without giving any one actor unilateral control?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-27",
+      "text": {
+        "de": "Welcher gemeinsame Notfallmechanismus könnte verteilte Agentennetzwerke und kritische automatisierte Dienste pausieren, herabstufen oder abschalten, ohne einem einzelnen Akteur die einseitige Kontrolle zu geben?",
+        "en": "What shared emergency mechanism could pause, degrade, or shut down distributed agent networks and critical automated services without giving any one actor unilateral control?"
+      }
+    }
+  ],
+  "bewertung": null
+}

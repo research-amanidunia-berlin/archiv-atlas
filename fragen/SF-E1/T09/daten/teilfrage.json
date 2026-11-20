@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E1-T09",
+  "sammelfrage": "SF-E1",
+  "frage": {
+    "de": "Bekommen zivile Forschende an Hochschulen und unabhängige Organisationen der Zivilgesellschaft geregelten Zugang zu Modellen, Daten und Befunden der Prüfer, oder bleibt die Prüfung bei staatlich bestellten Stellen?",
+    "en": "Do civilian academic researchers and independent civil-society organisations get structured access to models, data and evaluator findings, or is verification limited to government-appointed bodies?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-45",
+      "text": {
+        "de": "Welche Rolle werden zivile Wissenschaftler und unabhängige Organisationen der Zivilgesellschaft im Verifikations-Ökosystem spielen — bekommen sie strukturierten Zugang zu Modellen, Daten und den Befunden der Prüfer, oder bleibt die Verifikation auf staatlich benannte Stellen beschränkt?",
+        "en": "What role will civilian academic researchers and independent civil-society organizations have in the verification ecosystem — will they get structured access to models, data, and evaluator findings, or is verification limited to government-appointed bodies?"
+      }
+    }
+  ],
+  "bewertung": null
+}

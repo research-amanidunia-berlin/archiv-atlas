@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P3-T11",
+  "sammelfrage": "SF-P3",
+  "frage": {
+    "de": "Welche Arten von Prüfungen (etwa Ausbruch aus der abgeschirmten Testumgebung, selbstständige Vervielfältigung eines Modells oder die Synthese biologischer Stoffe) sind zu gefährlich, als dass ein einzelnes Labor sie ohne vereinbarten Standard zur Abschirmung und ohne gemeinsamen Nachweis darüber, dass sie stattfanden, durchführen sollte, und wer führt diese Liste?",
+    "en": "Which classes of evaluation (such as escape from the sealed test environment, autonomous replication of a model or the synthesis of biological substances) are too dangerous for a single lab to run without an agreed containment standard and a shared record that the test was performed, and who maintains that list?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-57",
+      "text": {
+        "de": "Welche Klassen von Tests — etwa Tests auf Sandbox-Ausbruch, autonome Vervielfältigung oder Bio-Synthese — sind zu gefährlich, als dass ein einzelnes Labor sie ohne einen vereinbarten Eindämmungsstandard und eine gemeinsame Aufzeichnung der Durchführung durchführen dürfte, und wer führt diese Liste?",
+        "en": "Which classes of evaluation — for example tests of sandbox escape, autonomous replication, or bio-synthesis — are too dangerous for a single lab to run without an agreed containment standard and a shared record that the test was performed, and who maintains that list?"
+      }
+    }
+  ],
+  "bewertung": null
+}

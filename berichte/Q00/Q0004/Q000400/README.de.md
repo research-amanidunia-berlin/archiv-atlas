@@ -1,0 +1,58 @@
+[English](README.md) · [Deutsch](README.de.md)
+
+# Kimi K3.1 Pro Weights Ship at 1.56 TB, With Cyber Gains Held Back
+
+Bericht Q000400 · Quelle rits.shanghai.nyu.edu · Datum 2026-11-05 · [Original öffnen](https://rits.shanghai.nyu.edu/ai/kimi-k3-1-pro-weights-ship-at-1-56-tb-with-cyber-gains-held-back/)
+
+[Alle Berichte](../../../README.de.md) · Daten: [bericht.json](bericht.json)
+
+## Zusammenfassung (von Luna, ungeprüft)
+
+Moonshot AI veröffentlichte Kimi K3.1 Pro als 1,56 TB großes Gewichtspaket unter einer eigenen, kommerziell einschränkenden Lizenz; technisch blieb es eine nachtrainierte Fassung von Kimi K3. Laut den im Bericht zitierten Angaben senkten Cyber-Schutzmaßnahmen die Erfolgsquote auf einem internen Schwachstellentest von 90,5 auf 81,0 Prozent, während allgemeine Benchmark-Ergebnisse je nach Aufgabe stark schwanken. Die Vergleiche beruhen auf Anbieterangaben, und der Bericht beziffert nicht, wie viel der entfernten Cyberfähigkeit durch Feinabstimmung zurückgewonnen werden könnte.
+
+## Sammelfragen
+
+Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
+
+| Frage | clef | Luna | d3-ultra | JEV | amos | drex |
+|---|---|---|---|---|---|---|
+| [SF-T2](../../../../fragen/SF-T2/) Woran erkennen andere, dass ein Labor wirklich bremst? | 39 / 57 % | 47 / 73 % | – | 100 / 100 % | 59 / 78 % | 63 / 74 % |
+| [SF-H3](../../../../fragen/SF-H3/) Wie lässt sich nachverfolgen, woraus ein Modell entstanden ist und was in ihm steckt? | 0 / 0 % | 100 / 100 % | – | 100 / 100 % | 40 / 68 % | 55 / 75 % |
+| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 95 / 99 % | – | 100 / 100 % | 42 / 68 % | 41 / 59 % |
+| [SF-O2](../../../../fragen/SF-O2/) Was sollten Regierungen, Labore und Prüfer über ihre Gespräche, Zusagen, Prüfungen und Eingriffe offenlegen? | 27 / 46 % | 97 / 100 % | – | 100 / 100 % | 49 / 71 % | 41 / 58 % |
+| [SF-F1](../../../../fragen/SF-F1/) Wie misst man gefährliche Fähigkeiten eines Modells, vor allem im Cyberbereich, mit gemeinsam anerkannten, wiederholbaren Tests, die keine Sprache, Kultur oder Seite bevorzugen? | 55 / 69 % | 99 / 100 % | – | 99 / 100 % | 80 / 88 % | 78 / 87 % |
+| [SF-V1](../../../../fragen/SF-V1/) Was zählt als Beleg für die Werte eines Modells, wenn sein sichtbares Denken und seine Selbstauskünfte allein nicht genügen? | 0 / 0 % | 89 / 97 % | – | 99 / 100 % | 17 / 43 % | 12 / 22 % |
+| [SF-H2](../../../../fragen/SF-H2/) Was darf offen veröffentlicht werden, und wer ist verantwortlich, wenn ein offenes Modell anderswo Schaden anrichtet? | 63 / 79 % | 99 / 100 % | – | 99 / 100 % | 83 / 91 % | 76 / 85 % |
+| [SF-E4](../../../../fragen/SF-E4/) Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen? | 32 / 51 % | 99 / 100 % | – | 99 / 100 % | 27 / 55 % | 22 / 38 % |
+| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 32 / 52 % | 95 / 99 % | – | 98 / 99 % | 61 / 80 % | 71 / 83 % |
+| [SF-F2](../../../../fragen/SF-F2/) Wenn ein Staat ein Modell als Beleg für eine überschrittene Schwelle nennt oder ein Risiko an der Herkunft eines Modells festmacht: Wie wird das überprüfbar? | 0 / 0 % | 9 / 58 % | – | 88 / 93 % | 54 / 76 % | 12 / 25 % |
+| [SF-T1](../../../../fragen/SF-T1/) Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie? | 29 / 51 % | 87 / 98 % | – | 60 / 74 % | 41 / 68 % | 22 / 41 % |
+| [SF-E5](../../../../fragen/SF-E5/) Welche Mitsprache haben die Menschen, die mit KI leben, bei Tempo und Grenzen, und welche Entscheidungen müssen bei ihnen bleiben? | 0 / 0 % | 68 / 92 % | – | 87 / 93 % | 10 / 30 % | 6 / 12 % |
+| [SF-E2](../../../../fragen/SF-E2/) In welchem Rahmen sollen Staaten KI regeln, und wo liegt eine gemeinsame Untergrenze? | 0 / 0 % | 0 / 0 % | – | 84 / 91 % | 11 / 34 % | 6 / 11 % |
+| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 71 / 97 % | – | 77 / 85 % | 10 / 31 % | 5 / 13 % |
+| [SF-M4](../../../../fragen/SF-M4/) Wie kommen Meldungen von Laboren, Betreibern und Nutzern schnell und geschützt zu den Stellen, die handeln müssen, auch über Grenzen hinweg? | 0 / 0 % | 0 / 0 % | – | 61 / 77 % | 7 / 15 % | 2 / 4 % |
+| [SF-V4](../../../../fragen/SF-V4/) Was für ein Wesen ist ein Modell, und was folgt daraus für den Umgang mit ihm und für den Wert des Menschseins? | 0 / 0 % | 17 / 49 % | – | 58 / 77 % | 7 / 14 % | 4 / 6 % |
+| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 12 / 26 % | 56 / 93 % | – | 36 / 55 % | 10 / 26 % | 11 / 21 % |
+| [SF-O3](../../../../fragen/SF-O3/) Welcher Text gilt, und wie beweist man, dass ein Dokument nicht verändert wurde? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 53 / 73 % | 0 / 0 % |
+| [SF-H1](../../../../fragen/SF-H1/) Wo endet die erlaubte Nutzung fremder Modellausgaben, und wo beginnt unerlaubte Destillation, also das Trainieren eines eigenen Modells mit diesen Ausgaben? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 38 / 59 % | 21 / 34 % |
+| [SF-P1](../../../../fragen/SF-P1/) Unter welchen Bedingungen lassen Staaten und Labore sich gegenseitig prüfen: mit welchem Zugang, welchen Daten und welchen öffentlichen Ergebnissen? | 0 / 0 % | 33 / 61 % | – | 38 / 55 % | 32 / 59 % | 13 / 24 % |
+| [SF-F5](../../../../fragen/SF-F5/) Wie gehen Staaten gemeinsam gegen KI-gestützte Cyberangriffe vor und verhindern Eskalation zwischen autonomen Systemen, ohne die Verteidigung zu behindern? | 0 / 0 % | 36 / 79 % | – | 31 / 58 % | 12 / 29 % | 6 / 18 % |
+| [SF-A1](../../../../fragen/SF-A1/) Welche Befugnisse darf ein KI-Agent haben, also eine KI, die selbstständig mit Werkzeugen handelt? Wer entzieht sie ihm, und wie prüft man, dass er in seinem Auftrag bleibt? | 0 / 0 % | 23 / 60 % | – | 33 / 53 % | 19 / 38 % | 12 / 22 % |
+| [SF-A2](../../../../fragen/SF-A2/) Lassen sich KI-Systeme sicher anhalten, zurücksetzen, abschotten oder drosseln, und wer darf das anordnen? | 30 / 48 % | 14 / 53 % | – | 33 / 51 % | 26 / 49 % | 16 / 29 % |
+| [SF-F4](../../../../fragen/SF-F4/) Für welche Modelle, Entwickler und Einsätze gelten Prüfregeln, und wann muss neu geprüft werden? | 0 / 0 % | 0 / 0 % | – | 19 / 32 % | 24 / 48 % | 15 / 27 % |
+| [SF-P4](../../../../fragen/SF-P4/) Wie lässt sich die Größe von Trainingsläufen überprüfen, ohne Modelldetails offenzulegen? | 22 / 46 % | 0 / 0 % | – | 0 / 0 % | 18 / 49 % | 22 / 37 % |
+| [SF-E1](../../../../fragen/SF-E1/) Welche echte Stimme bekommen weitere Staaten, kleine Labore, Hochschulen und Zivilgesellschaft bei den Regeln für KI? | 0 / 0 % | 17 / 69 % | – | 0 / 0 % | 11 / 31 % | 5 / 10 % |
+| [SF-H4](../../../../fragen/SF-H4/) Was geschieht mit Modellen und Sicherheitspflichten, wenn ein Labor verkauft, aufgelöst oder ein Modell stillgelegt wird? | 0 / 0 % | 13 / 59 % | – | 0 / 0 % | 8 / 22 % | 7 / 12 % |
+| [SF-P2](../../../../fragen/SF-P2/) Wie bleiben Prüfer, die in einem Labor arbeiten, wirklich unabhängig? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 12 / 31 % | 8 / 18 % |
+| [SF-W2](../../../../fragen/SF-W2/) Wie wirken sich Wettbewerbsrecht und öffentliche Beschaffung auf die KI-Sicherheit aus? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 11 / 30 % | 6 / 11 % |
+| [SF-I1](../../../../fragen/SF-I1/) Wie erkennt man KI-erzeugte Inhalte und KI-erzeugte Einflussnahme, ohne die Meinungsfreiheit zu beschneiden? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 10 / 21 % |
+| [SF-P5](../../../../fragen/SF-P5/) Wie überprüft man, ob Zusagen zwischen Staaten eingehalten werden, auch über Jahre und Regierungswechsel hinweg? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 10 / 26 % | 6 / 14 % |
+| [SF-H5](../../../../fragen/SF-H5/) Wann sind Chip- und Exportkontrollen eine Sicherheitsmaßnahme, und wann ein dauerhafter Vorteil? | 0 / 0 % | 8 / 42 % | – | 0 / 0 % | 8 / 22 % | 9 / 15 % |
+| [SF-F3](../../../../fragen/SF-F3/) Welche Regeln gelten für gefährliche Fähigkeiten jenseits von Cyber, etwa in Biologie, Chemie, bei radioaktiven Stoffen oder in der Nukleartechnik? | 0 / 0 % | 4 / 40 % | – | 1 / 6 % | 8 / 17 % | 6 / 11 % |
+| [SF-M5](../../../../fragen/SF-M5/) Was muss vor und nach einem Vorfall geschehen, damit Verantwortliche einstehen, man daraus lernt, Beweise bleiben und Betroffene auch über Grenzen hinweg zu ihrem Recht kommen? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 8 / 18 % | 5 / 9 % |
+| [SF-O1](../../../../fragen/SF-O1/) Wie können Mitarbeitende Sicherheitsbedenken melden, ohne alles zu riskieren? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 7 / 14 % | 5 / 8 % |
+| [SF-M3](../../../../fragen/SF-M3/) Wie stellt man fest, ob ein Vorfall gewollt oder versehentlich war, und ob KI oder herkömmliche Mittel dahinterstecken? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 7 / 13 % | 4 / 8 % |
+| [SF-A3](../../../../fragen/SF-A3/) Welche Gefahren entstehen, wenn viele KI-Systeme zusammenwirken oder dieselbe Infrastruktur teilen? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 6 / 15 % | 4 / 10 % |
+| [SF-M1](../../../../fragen/SF-M1/) Ab wann ist ein KI-Vorfall so ernst, dass Staaten ihn einander melden müssen? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 0 / 0 % |
+| [SF-M2](../../../../fragen/SF-M2/) Wie muss ein Meldekanal zwischen Staaten gebaut sein, damit er verlässlich arbeitet, auch in einer Krise? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 5 / 10 % |
+| [SF-E3](../../../../fragen/SF-E3/) Welche Stellen sind in einem Staat für KI-Sicherheit und Prüfungen zuständig, und was davon gibt es schon? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 11 % | 0 / 0 % |

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-K2-T02",
+  "sammelfrage": "SF-K2",
+  "frage": {
+    "de": "Wenn ein verbündeter Geheimdienst oder ein Verteidigungsministerium ein KI-Spitzenmodell einsetzt, das im Ausland trainiert wurde (gekauft, durch Nachkonstruktion gewonnen oder über einen Drittpartner beschafft): Welches gemeinsame Verfahren verpflichtet die Herkunftsregierung, diesen Einsatz zu melden, und welcher Belegstandard macht die Meldung prüfbar, ohne nachrichtendienstliche Quellen zu gefährden?",
+    "en": "If an allied intelligence service or defence ministry deploys a frontier AI model trained in another country (purchased, reverse-engineered or obtained through a third partner), which joint protocol obliges the originating government to flag that deployment, and which evidence standard makes the flag checkable without compromising intelligence sources?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "origin-29",
+      "text": {
+        "de": "An beide Regierungen: Wenn ein verbündeter Nachrichtendienst oder ein Verteidigungsministerium ein im jeweils anderen Land trainiertes Frontier-KI-Modell einsetzt – sei es gekauft, nachgebaut oder über einen dritten Partner erlangt –, welches gemeinsame Protokoll verpflichtet die Herkunftsregierung, diesen Einsatz zu melden, und welcher Beweisstandard macht diese Meldung überprüfbar, ohne nachrichtendienstliche Quellen zu gefährden?",
+        "en": "To both governments: If an allied intelligence service or defense ministry deploys a frontier AI model trained in the other country — whether purchased, reverse-engineered, or obtained through a third partner — what joint protocol obliges the originating government to flag that deployment, and what evidence standard makes that flag checkable without compromising intelligence sources?"
+      }
+    }
+  ],
+  "bewertung": null
+}

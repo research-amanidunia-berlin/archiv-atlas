@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V3-T03",
+  "sammelfrage": "SF-V3",
+  "frage": {
+    "de": "Werden Labore und die übrige Branche gemeinsame Tests veröffentlichen, ob Werte bei unbekannten Aufgaben, widerstreitenden Anreizen, in gegnerischen Lagen und bei fehlender oder anders wahrgenommener Aufsicht halten, unabhängig wiederholt und mit Fehlschlägen und Unsicherheit?",
+    "en": "Will labs and the wider industry publish shared tests of whether values hold under unfamiliar tasks, conflicting incentives, adversarial settings and absent or differently perceived supervision, independently replicated and including failures and uncertainty?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-19",
+      "text": {
+        "de": "Welche gemeinsamen Bewertungen würden prüfen, ob ausgerichtetes Verhalten unbekannte Aufgaben, widersprüchliche Anreize und eine veränderte wahrgenommene Aufsicht übersteht, mit unabhängiger Wiederholung (A17)?",
+        "en": "What shared evaluations would test whether aligned behavior survives unfamiliar tasks, conflicting incentives and changes in perceived supervision, with independent replication (A17)?"
+      }
+    },
+    {
+      "id": "transparency-07",
+      "text": {
+        "de": "An die Labore und die ganze Branche: Veröffentlichen Sie eine gemeinsame Testsammlung dafür, wie Werte in unbekannten, feindlichen und unbeaufsichtigten Lagen übertragen werden, einschließlich Fehlschlägen und Unsicherheit?",
+        "en": "Labs and the wider industry: will you publish a shared test suite for value generalization in unfamiliar, adversarial, and unsupervised settings, including failures and uncertainty?"
+      }
+    }
+  ],
+  "bewertung": null
+}

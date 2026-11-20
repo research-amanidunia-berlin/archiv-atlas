@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P4-T01",
+  "sammelfrage": "SF-P4",
+  "frage": {
+    "de": "Würden Regierungen Messdaten aus der Lieferkette von Chips (Telemetrie), den Stromverbrauch, gemeldete Verzeichnisse von Trainingsläufen und eine unabhängig überwachte Abrechnung von Strom, Hardware und Rechenaufwand als vertragstauglichen Nachweis für die Größe der Trainingsläufe eines anderen Staates anerkennen, ohne Modellgewichte (die gelernten Parameter) oder Code anzurühren? Und wie sähe eine Prüfordnung für Rechenschwellen aus, die nichts über das Innere der Modelle verrät?",
+    "en": "Would governments accept chip supply-chain telemetry, electricity use, declared run registers and independently monitored accounting of electricity, hardware and compute as treaty-grade proof of the scale of another state's training runs, without touching model weights (the learned parameters) or code? And what would a verification regime for compute thresholds look like that reveals nothing about model internals?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "verify-36",
+      "text": {
+        "de": "Wie würde jede Regierung das Ausmaß der Frontier-Trainingsläufe der anderen überprüfen — über Telemetrie der Chip-Lieferkette, Stromverbrauch, gemeldete Register der Trainingsläufe — und wie würde ein Verifikationsregime für Rechenleistungs-Schwellenwerte aussehen, das keine internen Modelldetails preisgibt?",
+        "en": "How would either government verify the scale of the other's frontier training runs — through chip supply-chain telemetry, electricity usage, declared run registers — and what would a verification regime for compute thresholds look like that does not reveal model internals?"
+      }
+    },
+    {
+      "id": "verify-41",
+      "text": {
+        "de": "Würden beide Regierungen eine unabhängig überwachte Abrechnung von Strom, Hardware und Rechenleistung für Frontier-Trainingsläufe als vertragstaugliche Methode akzeptieren, um Umfangsangaben zu überprüfen, ohne Gewichte oder Code anzurühren?",
+        "en": "Would both governments accept independently monitored accounting of electricity, hardware and compute for frontier training runs as a treaty-grade way to verify scale claims without touching weights or code?"
+      }
+    }
+  ],
+  "bewertung": null
+}

@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T05",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Mit welchen empirischen Tests prüft man, ob Training mit synthetischen Daten und gegnerischen Denkspuren, auch von geopolitischen Rivalen, die Überwachbarkeit verschlechtert, und verpflichten sich Labore, alle synthetischen Trainingsdaten kryptografisch zu signieren?",
+    "en": "Which empirical tests check whether training on synthetic data and adversarial reasoning traces, including from geopolitical rivals, degrades monitorability, and will labs commit to cryptographically signing all synthetic training corpora?"
+  },
+  "herkunft": [
+    "allgemein"
+  ],
+  "originale": [
+    {
+      "id": "trust-33",
+      "text": {
+        "de": "Da Trainingspipelines zunehmend synthetische Daten und Modellausgaben aufnehmen, die per Destillation von geopolitischen Rivalen übernommen wurden (A20, P38, C15): Welche empirischen Tests weisen nach, dass Training auf gegnerischen Reasoning-Spuren interne Überwachbarkeits-Kennzahlen (etwa g-mean² oder die Treue unbeaufsichtigten Reasonings, A24) nicht verschlechtert, und werden sich Labore verpflichten, alle synthetischen Trainingskorpora kryptografisch zu signieren?",
+        "en": "As training pipelines increasingly ingest synthetic data and model outputs distilled from geopolitical rivals (A20, P38, C15), what empirical tests verify that training on adversarial reasoning traces does not degrade internal monitorability metrics (such as g-mean² or unsupervised reasoning faithfulness, A24), and will labs commit to cryptographically signing all synthetic training corpora?"
+      }
+    }
+  ],
+  "bewertung": null
+}

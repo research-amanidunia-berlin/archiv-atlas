@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-P2-T06",
+  "sammelfrage": "SF-P2",
+  "frage": {
+    "de": "Wenn ein Laborchef eine Vereinbarung zwischen Laboren andeutet: Welche Labore gehören dazu, und gehören unabhängige Prüfer mit mitarbeiterähnlichem Zugang dazu? Gefragt wurde das zu Sam Altman (OpenAI), der im Fortune-Interview vom 12. September 2026 ein Treffen mit Dario Amodei (Anthropic), Elon Musk (xAI) und Demis Hassabis (Google DeepMind) für wahrscheinlich hielt.",
+    "en": "When the head of a lab hints at an agreement between labs, which labs are part of it, and do independent evaluators with employee-like access belong to it? This was asked about Sam Altman (OpenAI), who in a Fortune interview of 12 September 2026 said a meeting with Dario Amodei (Anthropic), Elon Musk (xAI) and Demis Hassabis (Google DeepMind) was likely to happen."
+  },
+  "herkunft": [
+    "pace-the-frontier"
+  ],
+  "originale": [
+    {
+      "id": "verify-32",
+      "text": {
+        "de": "Welche Labore sind Teil der Vereinbarung, die Altman angedeutet hat, und gehören die Prüfer mit Zugang auf Mitarbeiterebene (P9) dazu?",
+        "en": "Which labs are part of the agreement Altman hinted at, and do evaluators with employee-level access (P9) belong to it?"
+      }
+    }
+  ],
+  "bewertung": null
+}

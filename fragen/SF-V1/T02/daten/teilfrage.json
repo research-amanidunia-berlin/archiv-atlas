@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-V1-T02",
+  "sammelfrage": "SF-V1",
+  "frage": {
+    "de": "Welche Belege würden Vertrauen in ein KI-System rechtfertigen, über seine flüssigen Erklärungen hinaus?",
+    "en": "What evidence would justify trusting an AI system beyond its fluent explanations?"
+  },
+  "herkunft": [
+    "alien-mind"
+  ],
+  "originale": [
+    {
+      "id": "trust-10",
+      "text": {
+        "de": "Welcher Beleg würde Sie einem KI-System über seine flüssigen Erklärungen hinaus vertrauen lassen?",
+        "en": "What evidence would make you trust an AI system beyond its fluent explanations?"
+      }
+    }
+  ],
+  "bewertung": null
+}

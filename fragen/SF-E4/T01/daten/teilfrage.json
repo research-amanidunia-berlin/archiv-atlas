@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-E4-T01",
+  "sammelfrage": "SF-E4",
+  "frage": {
+    "de": "Was hieße die Formel von KI als „gemeinsamem Gut der ganzen Menschheit“ praktisch (Zugang, Teilen des Nutzens, gestaffelte Preise, Technologietransfer), so dass jeder Staat sie tatsächlich unterschreiben und prüfen könnte?",
+    "en": "What would the phrase of AI as “a shared asset for all humanity” mean in practice (access, benefit-sharing, differential pricing, technology transfer), in terms any state could actually sign and verify?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "humans-18",
+      "text": {
+        "de": "China möchte, dass KI „ein gemeinsames Gut der gesamten Menschheit\" ist, während die USA raschen Fortschritt nicht als Grund für eine Pause ansehen und zentralisierte Kontrolle ablehnen. Was würde „gemeinsames Gut\" operativ bedeuten — Zugang, Nutzenteilung, differenzierte Preisgestaltung, Technologietransfer — in Begriffen, die die USA tatsächlich unterzeichnen könnten und die beide Seiten überprüfen könnten?",
+        "en": "China wants AI to be \"a shared asset for all humanity\", while the US sees rapid progress as not a reason to pause and rejects centralised control. What would \"shared asset\" mean operationally — access, benefit-sharing, differential pricing, technology transfer — in terms the US could actually sign and both sides could verify?"
+      }
+    }
+  ],
+  "bewertung": null
+}

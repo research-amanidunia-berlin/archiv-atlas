@@ -1,0 +1,22 @@
+{
+  "format": 2,
+  "teilfrage": "SF-O2-T03",
+  "sammelfrage": "SF-O2",
+  "frage": {
+    "de": "Wenn eine Regierung eine Sicherheitsprüfung oder einen Vorfallbericht erhält oder in Auftrag gibt und dann als geheim einstuft: Was dürfen das Labor, der Prüfer und die eigenen Beamten dieser Regierung noch über Existenz und Ergebnis veröffentlichen, und wer entscheidet den Streit, wenn der Prüfer der Einstufung widerspricht?",
+    "en": "When a government receives or commissions a safety evaluation or an incident report and then classifies it, what may the lab, the evaluator and that government's own officials still publish about its existence and conclusions, and who resolves the disagreement if the evaluator objects to the classification?"
+  },
+  "herkunft": [
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "transparency-21",
+      "text": {
+        "de": "Wenn Sie eine Sicherheitsbewertung oder einen Vorfallbericht erhalten oder in Auftrag geben und diesen anschließend einstufen — was dürfen das Labor, der Prüfer und Ihre eigenen Amtsträger dennoch über dessen Existenz und Schlussfolgerungen veröffentlichen, und wer entscheidet den Streit, wenn der Prüfer der Einstufung widerspricht?",
+        "en": "When you receive or commission a safety evaluation or an incident report and then classify it, what may the lab, the evaluator, and your own officials still publish about its existence and its conclusions, and who resolves the disagreement if the evaluator objects to the classification?"
+      }
+    }
+  ],
+  "bewertung": null
+}

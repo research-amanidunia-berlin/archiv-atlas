@@ -1,0 +1,37 @@
+{
+  "format": 2,
+  "teilfrage": "SF-T2-T01",
+  "sammelfrage": "SF-T2",
+  "frage": {
+    "de": "Welche öffentliche, nachprüfbare Handlung würde als Verzicht auf weitere Skalierung zählen, nicht nur eine Ankündigung? Was müsste ein Labor veröffentlichen, damit eine rivalisierende Regierung bestätigen kann, dass wirklich pausiert wurde, und welche nachträglichen Belege würden zeigen, dass keine Fähigkeitszuwächse zurückgehalten wurden, etwa durch nicht offengelegte Änderungen an Rechenleistung beim Einsatz oder Werkzeugzugang oder durch einen nicht offengelegten Austausch von Modellen?",
+    "en": "What public, checkable act would count as withholding further scaling, rather than a mere announcement? What would a lab have to publish so that a rival government can confirm that a pause actually happened, and what retrospective evidence would show that no capability gains were held in reserve, such as undisclosed changes in inference-time compute or tool access, or undisclosed model swaps?"
+  },
+  "herkunft": [
+    "alien-mind",
+    "gipfel"
+  ],
+  "originale": [
+    {
+      "id": "redlines-17",
+      "text": {
+        "de": "Sam Altman sagte dem Sicherheitsrat, OpenAI habe sich einseitig verlangsamt und werde dies wieder tun; Anthropic erklärt, es würde nur pausieren, wenn andere Frontier-Entwickler nachweislich dasselbe tun. Eine einseitige Pause beruhigt die andere Seite nur, wenn diese sie auch sehen kann. Was müsste ein Labor in einem der beiden Länder veröffentlichen, damit eine konkurrierende Regierung bestätigen könnte, dass eine Pause tatsächlich stattgefunden hat — statt sie als Fähigkeiten zu deuten, die nur dem Blick entzogen wurden?",
+        "en": "Sam Altman told the Security Council that OpenAI has slowed down unilaterally and will do so again; Anthropic says it would pause only if other frontier developers do so verifiably. A unilateral pause only reassures the other side if the other side can see it. What would a lab in either country publish so that a rival government could confirm that a pause actually happened — rather than read it as capabilities being held out of view?"
+      }
+    },
+    {
+      "id": "verify-84",
+      "text": {
+        "de": "Wenn ein Labor die Skalierung einseitig verlangsamt (z. B. die Angabe von OpenAI in UN13): Welche *rückblickenden* Belege würden es der anderen Seite erlauben zu überprüfen, dass die Verlangsamung keine Tarnung für in Reserve gehaltene Fähigkeitsverbesserungen war – etwa Änderungen bei der Rechenleistung zur Inferenzzeit, beim Werkzeugzugriff oder Modellwechsel, die nicht öffentlich bekannt gemacht wurden?",
+        "en": "If a lab unilaterally slows scaling (e.g., OpenAI’s claim in UN13), what *retrospective* evidence would let the other side verify that the slowdown was not a cover for capability improvements held in reserve—such as changes in inference-time compute, tool access, or model swaps that were not publicly disclosed?"
+      }
+    },
+    {
+      "id": "redlines-10",
+      "text": {
+        "de": "Welche öffentliche, überprüfbare Handlung würde als Zurückhalten weiterer Skalierung zählen – und nicht nur ein Satz in einem Essay?",
+        "en": "What public, checkable act would count as withholding further scaling — not a sentence in an essay?"
+      }
+    }
+  ],
+  "bewertung": null
+}
