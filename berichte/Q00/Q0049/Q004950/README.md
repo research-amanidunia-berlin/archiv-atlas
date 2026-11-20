@@ -14,7 +14,7 @@ Der bereitgestellte Text ist nur ein Auszug mit der Executive Summary und einem 
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex |
-|---|---|---|---|---|---|---|
-| [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 8 / 81 % | 14 / 49 % | 5 / 29 % | 34 / 60 % | 0 / 0 % |
-| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 1 / 28 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+|---|---|---|---|---|---|---|---|
+| [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 8 / 81 % | 14 / 49 % | 5 / 29 % | 34 / 60 % | 0 / 0 % | 0 / 0 % |
+| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 1 / 28 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

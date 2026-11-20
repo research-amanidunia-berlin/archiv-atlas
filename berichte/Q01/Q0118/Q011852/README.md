@@ -14,8 +14,8 @@ Der Beitrag sammelt Reaktionen auf *Barbie* und *Oppenheimer* sowie weitere Medi
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex |
-|---|---|---|---|---|---|---|
-| [SF-K1](../../../../fragen/SF-K1/) How do you ensure and show that decisions on the use of force, above all nuclear weapons, stay with humans? | 0 / 0 % | 18 / 55 % | 0 / 0 % | 0 / 5 % | 0 / 0 % | 0 / 0 % |
-| [SF-O1](../../../../fragen/SF-O1/) How can staff raise safety concerns without risking everything? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 15 / 21 % | 0 / 0 % | 0 / 0 % |
-| [SF-F3](../../../../fragen/SF-F3/) Which rules apply to dangerous capabilities beyond cyber, such as biology, chemistry, radiological materials or nuclear technology? | 0 / 0 % | 5 / 17 % | 0 / 0 % | 0 / 6 % | 0 / 0 % | 0 / 0 % |
+| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+|---|---|---|---|---|---|---|---|
+| [SF-K1](../../../../fragen/SF-K1/) How do you ensure and show that decisions on the use of force, above all nuclear weapons, stay with humans? | 0 / 0 % | 18 / 55 % | 0 / 0 % | 0 / 5 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| [SF-O1](../../../../fragen/SF-O1/) How can staff raise safety concerns without risking everything? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 15 / 21 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| [SF-F3](../../../../fragen/SF-F3/) Which rules apply to dangerous capabilities beyond cyber, such as biology, chemistry, radiological materials or nuclear technology? | 0 / 0 % | 5 / 17 % | 0 / 0 % | 0 / 6 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

@@ -14,6 +14,6 @@ Anthropic teilt mit, bei der SEC eine S-1-Registrierung für einen geplanten Bö
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex |
-|---|---|---|---|---|---|---|
-| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 0 / 0 % | – | – | 4 / 10 % | – |
+| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+|---|---|---|---|---|---|---|---|
+| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 0 / 0 % | – | – | 4 / 10 % | – | 0 / 0 % |

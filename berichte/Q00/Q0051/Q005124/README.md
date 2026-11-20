@@ -14,8 +14,8 @@ OpenAI gibt an, einen vertraulichen S-1-Entwurf bei der SEC eingereicht zu haben
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex |
-|---|---|---|---|---|---|---|
-| [SF-O3](../../../../fragen/SF-O3/) Which text governs, and how do you prove a document has not been altered? | 0 / 0 % | 0 / 0 % | – | – | 8 / 18 % | – |
-| [SF-O2](../../../../fragen/SF-O2/) What should governments, labs and evaluators disclose about their talks, commitments, evaluations and interventions? | 0 / 0 % | 0 / 0 % | – | – | 6 / 12 % | – |
-| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 0 / 0 % | – | – | 5 / 10 % | – |
+| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+|---|---|---|---|---|---|---|---|
+| [SF-O3](../../../../fragen/SF-O3/) Which text governs, and how do you prove a document has not been altered? | 0 / 0 % | 0 / 0 % | – | – | 8 / 18 % | – | 0 / 0 % |
+| [SF-O2](../../../../fragen/SF-O2/) What should governments, labs and evaluators disclose about their talks, commitments, evaluations and interventions? | 0 / 0 % | 0 / 0 % | – | – | 6 / 12 % | – | 0 / 0 % |
+| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 0 / 0 % | – | – | 5 / 10 % | – | 0 / 0 % |

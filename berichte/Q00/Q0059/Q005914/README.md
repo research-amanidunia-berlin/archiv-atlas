@@ -14,20 +14,20 @@ Der Autor beschreibt eine Windows-Sandbox für Codex, die Schreibrechte über ei
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex |
-|---|---|---|---|---|---|---|
-| [SF-A1](../../../../fragen/SF-A1/) Which powers may an AI agent hold, that is, an AI acting autonomously with tools? Who withdraws them, and how is it checked that it stays within its task? | 70 / 82 % | 98 / 99 % | – | 100 / 100 % | 85 / 91 % | 80 / 87 % |
-| [SF-A2](../../../../fragen/SF-A2/) Can AI systems be safely paused, rolled back, isolated or degraded, and who may order it? | 61 / 73 % | 96 / 100 % | – | 89 / 94 % | 69 / 83 % | 77 / 86 % |
-| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 42 / 55 % | 82 / 96 % | – | 95 / 98 % | 50 / 70 % | 48 / 66 % |
-| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 40 / 62 % | – | 79 / 88 % | 13 / 27 % | 9 / 20 % |
-| [SF-V3](../../../../fragen/SF-V3/) Do a model's values hold when no one is watching or the situation is new? | 0 / 0 % | 47 / 82 % | – | 0 / 0 % | 8 / 17 % | 6 / 15 % |
-| [SF-M3](../../../../fragen/SF-M3/) How do you establish whether an incident was deliberate or accidental, and whether AI or conventional means were behind it? | 0 / 0 % | 41 / 78 % | – | 0 / 0 % | 0 / 0 % | 6 / 11 % |
-| [SF-P3](../../../../fragen/SF-P3/) How can one tell that a lab monitors itself honestly and that its tests are valid? | 30 / 45 % | 0 / 0 % | – | 0 / 0 % | 7 / 16 % | 8 / 15 % |
-| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 20 / 50 % | – | 0 / 0 % | 7 / 17 % | 5 / 9 % |
-| [SF-F1](../../../../fragen/SF-F1/) How are a model's dangerous capabilities, cyber above all, measured with mutually recognised, repeatable tests that favour no language, culture or side? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 13 / 28 % | 0 / 0 % |
-| [SF-V4](../../../../fragen/SF-V4/) What kind of entity is a model, and what follows for how we treat it and for the value of being human? | 0 / 0 % | 0 / 0 % | – | 12 / 23 % | 5 / 9 % | 0 / 0 % |
-| [SF-A3](../../../../fragen/SF-A3/) Which dangers arise when many AI systems interact or share the same infrastructure? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 11 / 28 % | 0 / 0 % |
-| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 7 / 69 % | – | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-F4](../../../../fragen/SF-F4/) Which models, developers and deployments do testing rules apply to, and when must testing be repeated? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 6 / 13 % | 0 / 0 % |
-| [SF-F5](../../../../fragen/SF-F5/) How do states act together against AI-enabled cyberattacks and prevent escalation between autonomous systems, without hampering defence? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 6 / 15 % | 0 / 0 % |
-| [SF-M4](../../../../fragen/SF-M4/) How do reports from labs, deployers and users reach those who must act, quickly and securely, including across borders? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 6 / 11 % | 3 / 6 % |
+| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+|---|---|---|---|---|---|---|---|
+| [SF-A1](../../../../fragen/SF-A1/) Which powers may an AI agent hold, that is, an AI acting autonomously with tools? Who withdraws them, and how is it checked that it stays within its task? | 70 / 82 % | 98 / 99 % | – | 100 / 100 % | 85 / 91 % | 80 / 87 % | 65 / 82 % |
+| [SF-A2](../../../../fragen/SF-A2/) Can AI systems be safely paused, rolled back, isolated or degraded, and who may order it? | 61 / 73 % | 96 / 100 % | – | 89 / 94 % | 69 / 83 % | 77 / 86 % | 59 / 79 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 42 / 55 % | 82 / 96 % | – | 95 / 98 % | 50 / 70 % | 48 / 66 % | 28 / 51 % |
+| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 40 / 62 % | – | 79 / 88 % | 13 / 27 % | 9 / 20 % | 0 / 0 % |
+| [SF-V3](../../../../fragen/SF-V3/) Do a model's values hold when no one is watching or the situation is new? | 0 / 0 % | 47 / 82 % | – | 0 / 0 % | 8 / 17 % | 6 / 15 % | 0 / 0 % |
+| [SF-M3](../../../../fragen/SF-M3/) How do you establish whether an incident was deliberate or accidental, and whether AI or conventional means were behind it? | 0 / 0 % | 41 / 78 % | – | 0 / 0 % | 0 / 0 % | 6 / 11 % | 0 / 0 % |
+| [SF-P3](../../../../fragen/SF-P3/) How can one tell that a lab monitors itself honestly and that its tests are valid? | 30 / 45 % | 0 / 0 % | – | 0 / 0 % | 7 / 16 % | 8 / 15 % | 0 / 0 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 20 / 50 % | – | 0 / 0 % | 7 / 17 % | 5 / 9 % | 1 / 3 % |
+| [SF-F1](../../../../fragen/SF-F1/) How are a model's dangerous capabilities, cyber above all, measured with mutually recognised, repeatable tests that favour no language, culture or side? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 13 / 28 % | 0 / 0 % | 2 / 5 % |
+| [SF-V4](../../../../fragen/SF-V4/) What kind of entity is a model, and what follows for how we treat it and for the value of being human? | 0 / 0 % | 0 / 0 % | – | 12 / 23 % | 5 / 9 % | 0 / 0 % | 0 / 0 % |
+| [SF-A3](../../../../fragen/SF-A3/) Which dangers arise when many AI systems interact or share the same infrastructure? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 11 / 28 % | 0 / 0 % | 5 / 13 % |
+| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 7 / 69 % | – | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| [SF-F4](../../../../fragen/SF-F4/) Which models, developers and deployments do testing rules apply to, and when must testing be repeated? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 6 / 13 % | 0 / 0 % | 1 / 3 % |
+| [SF-F5](../../../../fragen/SF-F5/) How do states act together against AI-enabled cyberattacks and prevent escalation between autonomous systems, without hampering defence? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 6 / 15 % | 0 / 0 % | 1 / 2 % |
+| [SF-M4](../../../../fragen/SF-M4/) How do reports from labs, deployers and users reach those who must act, quickly and securely, including across borders? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 6 / 11 % | 3 / 6 % | 0 / 0 % |

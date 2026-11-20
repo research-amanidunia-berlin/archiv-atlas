@@ -14,10 +14,10 @@ Der Auszug beschreibt den chinesischen Exportkatalog vom Juli 2025, seine allgem
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex |
-|---|---|---|---|---|---|---|
-| [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 69 / 98 % | 50 / 74 % | 78 / 90 % | 47 / 68 % | 42 / 56 % |
-| [SF-O3](../../../../fragen/SF-O3/) Which text governs, and how do you prove a document has not been altered? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 58 / 69 % | 9 / 19 % | 0 / 0 % |
-| [SF-F3](../../../../fragen/SF-F3/) Which rules apply to dangerous capabilities beyond cyber, such as biology, chemistry, radiological materials or nuclear technology? | 0 / 0 % | 45 / 80 % | 0 / 0 % | 34 / 55 % | 15 / 29 % | 0 / 0 % |
-| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 13 / 47 % | 0 / 0 % | 6 / 28 % | 0 / 0 % | 0 / 0 % |
-| [SF-P5](../../../../fragen/SF-P5/) How do you verify that commitments between states are kept, including over years and changes of government? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 13 % | 0 / 0 % |
+| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+|---|---|---|---|---|---|---|---|
+| [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 69 / 98 % | 50 / 74 % | 78 / 90 % | 47 / 68 % | 42 / 56 % | 0 / 0 % |
+| [SF-O3](../../../../fragen/SF-O3/) Which text governs, and how do you prove a document has not been altered? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 58 / 69 % | 9 / 19 % | 0 / 0 % | 0 / 0 % |
+| [SF-F3](../../../../fragen/SF-F3/) Which rules apply to dangerous capabilities beyond cyber, such as biology, chemistry, radiological materials or nuclear technology? | 0 / 0 % | 45 / 80 % | 0 / 0 % | 34 / 55 % | 15 / 29 % | 0 / 0 % | 0 / 0 % |
+| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 13 / 47 % | 0 / 0 % | 6 / 28 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| [SF-P5](../../../../fragen/SF-P5/) How do you verify that commitments between states are kept, including over years and changes of government? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 13 % | 0 / 0 % | 0 / 0 % |

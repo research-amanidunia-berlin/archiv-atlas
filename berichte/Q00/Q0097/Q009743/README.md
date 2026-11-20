@@ -14,10 +14,10 @@ Der Bericht führt vor, wie man Bildklassen in IBM Watson Studio mit eigenen Bil
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex |
-|---|---|---|---|---|---|---|
-| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 80 / 97 % | 0 / 0 % | 71 / 87 % | 10 / 28 % | 4 / 11 % |
-| [SF-V4](../../../../fragen/SF-V4/) What kind of entity is a model, and what follows for how we treat it and for the value of being human? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 30 / 55 % | 0 / 0 % | 0 / 0 % |
-| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 2 / 35 % | 0 / 0 % | 16 / 31 % | 0 / 0 % | 0 / 0 % |
-| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 8 / 38 % | 0 / 0 % | 15 / 35 % | 6 / 14 % | 3 / 7 % |
-| [SF-H1](../../../../fragen/SF-H1/) Where does legitimate use of another model's outputs end and unauthorised distillation, training one's own model on those outputs, begin? | 0 / 0 % | 15 / 54 % | 0 / 0 % | 0 / 0 % | 5 / 9 % | 3 / 6 % |
+| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+|---|---|---|---|---|---|---|---|
+| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 80 / 97 % | 0 / 0 % | 71 / 87 % | 10 / 28 % | 4 / 11 % | 0 / 0 % |
+| [SF-V4](../../../../fragen/SF-V4/) What kind of entity is a model, and what follows for how we treat it and for the value of being human? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 30 / 55 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 2 / 35 % | 0 / 0 % | 16 / 31 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 8 / 38 % | 0 / 0 % | 15 / 35 % | 6 / 14 % | 3 / 7 % | 0 / 0 % |
+| [SF-H1](../../../../fragen/SF-H1/) Where does legitimate use of another model's outputs end and unauthorised distillation, training one's own model on those outputs, begin? | 0 / 0 % | 15 / 54 % | 0 / 0 % | 0 / 0 % | 5 / 9 % | 3 / 6 % | 0 / 0 % |

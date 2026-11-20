@@ -2,7 +2,7 @@
 
 # Archive data
 
-One source for the website [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/) and the collected-question repositories (e.g. [SF-M1](../fragen/SF-M1/)). Rated reports: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · drex 5685.
+One source for the website [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/) and the collected-question repositories (e.g. [SF-M1](../fragen/SF-M1/)). Rated reports: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · drex 5685 · SubQ 7924.
 
 - `daten/`: the website's input files (unchanged format)
 - `berichte/<Q>/`: one folder per report with README and `bericht.json`

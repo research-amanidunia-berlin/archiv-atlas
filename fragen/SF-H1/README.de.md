@@ -2,7 +2,7 @@
 
 # SF-H1: Wo endet die erlaubte Nutzung fremder Modellausgaben, und wo beginnt unerlaubte Destillation, also das Trainieren eines eigenen Modells mit diesen Ausgaben?
 
-Bereich H · Stand clef 7924 Berichte · Luna 7924 Berichte · d3-ultra 4771 Berichte · JEV 5667 Berichte · amos 7924 Berichte · drex 5685 Berichte
+Bereich H · Stand clef 7924 Berichte · Luna 7924 Berichte · d3-ultra 4771 Berichte · JEV 5667 Berichte · amos 7924 Berichte · drex 6984 Berichte · SubQ 7924 Berichte
 
 ## Teilfragen
 
@@ -19,1541 +19,1541 @@ Stufe 4–7 bzw. 3–7 = Wahrscheinlichkeit, die jedes Modell diesen Stufen gebe
 ### Stufe 4–7 ab 30 % (clef oder Luna) (130 Berichte)
 
 - **[DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](https://arxiv.org/pdf/2504.21801)** · arxiv.org ·  · [Q006833](../../berichte/Q00/Q0068/Q006833/)
-  - Stufe 4–7: clef **10 %** · Luna **98 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **28 %** · drex **11 %**
-  - Stufe 3–7: clef **16 %** · Luna **100 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **50 %** · drex **24 %**
+  - Stufe 4–7: clef **10 %** · Luna **98 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **28 %** · drex **11 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **100 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **50 %** · drex **24 %** · SubQ **4 %**
   - Kurzfassung: DeepSeek-Prover-V2 zerlegt mathematische Beweise in Lean-Teilziele und erzielt laut Bericht starke Benchmarkwerte, deren Aussagekraft durch Auswertungsfehler, Aufgabenfilter und unterschiedliche Testbedingungen begrenzt ist.
 - **[Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)** · anthropic.com · 2026-02-23 · [Q002154](../../berichte/Q00/Q0021/Q002154/)
-  - Stufe 4–7: clef **78 %** · Luna **98 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **92 %** · drex **96 %**
-  - Stufe 3–7: clef **89 %** · Luna **100 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **95 %** · drex **97 %**
+  - Stufe 4–7: clef **78 %** · Luna **98 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **92 %** · drex **96 %** · SubQ **93 %**
+  - Stufe 3–7: clef **89 %** · Luna **100 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **95 %** · drex **97 %** · SubQ **95 %**
   - Kurzfassung: Anthropic behauptet, drei KI-Labore hätten Claude massenhaft zur Destillation eigener Modelle genutzt, und warnt vor Sicherheitsrisiken, während es technische und organisatorische Gegenmaßnahmen ausbaut.
 - **[Countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)** · anthropic.com ·  · [Q000159](../../berichte/Q00/Q0001/Q000159/)
-  - Stufe 4–7: clef **83 %** · Luna **95 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **94 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **90 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **96 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **83 %** · Luna **95 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **94 %** · drex noch nicht bewertet · SubQ **91 %**
+  - Stufe 3–7: clef **90 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **96 %** · drex noch nicht bewertet · SubQ **94 %**
   - Kurzfassung: Anthropic beschreibt zahlreiche missbräuchliche KI-Anwendungen und Gegenmaßnahmen, betont jedoch, dass die Fälle nicht repräsentativ sind und mehrere Reichweiten, Zuschreibungen oder Schadenspotenziale unbestätigt bleiben.
 - **[https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)** · github.com ·  · [Q009729](../../berichte/Q00/Q0097/Q009729/)
-  - Stufe 4–7: clef **26 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **39 %** · amos **50 %** · drex **30 %**
-  - Stufe 3–7: clef **42 %** · Luna **97 %** · d3-ultra noch nicht bewertet · JEV **58 %** · amos **71 %** · drex **47 %**
+  - Stufe 4–7: clef **26 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **39 %** · amos **50 %** · drex **30 %** · SubQ **4 %**
+  - Stufe 3–7: clef **42 %** · Luna **97 %** · d3-ultra noch nicht bewertet · JEV **58 %** · amos **71 %** · drex **47 %** · SubQ **14 %**
   - Kurzfassung: Der Bericht beschreibt RL- und Destillationsverfahren, mit denen DeepSeek laut den Autoren starke Schlussfolgerungs-Benchmarkwerte erreicht, nennt aber weiterhin Grenzen bei Lesbarkeit, Sprachen, Prompting und einigen praktischen Aufgaben.
 - **[DeepSeek Distillation Claims Explained and Analyzed](https://abclive.in/2026/11/03/deepseek-distillation-claims-openai-anthropic)** · abclive.in · 2026-11-03 · [Q000390](../../berichte/Q00/Q0003/Q000390/)
-  - Stufe 4–7: clef **68 %** · Luna **92 %** · d3-ultra **96 %** · JEV noch nicht bewertet · amos **91 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **81 %** · Luna **98 %** · d3-ultra **99 %** · JEV noch nicht bewertet · amos **95 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **68 %** · Luna **92 %** · d3-ultra **96 %** · JEV noch nicht bewertet · amos **91 %** · drex **90 %** · SubQ **88 %**
+  - Stufe 3–7: clef **81 %** · Luna **98 %** · d3-ultra **99 %** · JEV noch nicht bewertet · amos **95 %** · drex **92 %** · SubQ **92 %**
   - Kurzfassung: Laut Bericht sprechen öffentliche Angaben dafür, dass DeepSeek wahrscheinlich einige Antworten amerikanischer KI-Modelle nutzte, doch Umfang und Wirkung bleiben ungeklärt und ein Zugriff auf Code oder Gewichte ist nicht belegt.
 - **[How Black-Box Distillation Works](https://cset.georgetown.edu/article/how-black-box-distillation-works/)** · cset.georgetown.edu · 2026-10-26 · [Q000127](../../berichte/Q00/Q0001/Q000127/)
-  - Stufe 4–7: clef **69 %** · Luna **91 %** · d3-ultra noch nicht bewertet · JEV **93 %** · amos **92 %** · drex **93 %**
-  - Stufe 3–7: clef **83 %** · Luna **97 %** · d3-ultra noch nicht bewertet · JEV **99 %** · amos **95 %** · drex **95 %**
+  - Stufe 4–7: clef **69 %** · Luna **91 %** · d3-ultra noch nicht bewertet · JEV **93 %** · amos **92 %** · drex **93 %** · SubQ **84 %**
+  - Stufe 3–7: clef **83 %** · Luna **97 %** · d3-ultra noch nicht bewertet · JEV **99 %** · amos **95 %** · drex **95 %** · SubQ **88 %**
   - Kurzfassung: Black-Box-Destillation kann Fähigkeiten über Modellantworten übertragen; laut Beitrag gibt es Vorwürfe umfangreicher Kampagnen, doch deren tatsächliche Nutzung und Nutzen sind öffentlich nicht geklärt.
 - **[Usage policies](https://openai.com/policies/usage-policies/)** · openai.com · 2026-11-20 · [Q009306](../../berichte/Q00/Q0093/Q009306/)
-  - Stufe 4–7: clef **85 %** · Luna **91 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **95 %** · drex **93 %**
-  - Stufe 3–7: clef **91 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **96 %** · drex **95 %**
+  - Stufe 4–7: clef **85 %** · Luna **91 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **95 %** · drex **93 %** · SubQ **93 %**
+  - Stufe 3–7: clef **91 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **96 %** · drex **95 %** · SubQ **96 %**
   - Kurzfassung: OpenAI beschreibt Regeln gegen schädliche, übergriffige und manipulative Nutzungen, mit besonderen Schutzvorgaben für Minderjährige, sensible Entscheidungen und die Weiterverwendung von Modellausgaben.
 - **[Strengthening our defenses against distillation attacks](https://www.anthropic.com/news/distillation-defenses)** · anthropic.com · 2026-10-12 · [Q000122](../../berichte/Q00/Q0001/Q000122/)
-  - Stufe 4–7: clef **70 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **82 %** · amos **92 %** · drex **93 %**
-  - Stufe 3–7: clef **85 %** · Luna **95 %** · d3-ultra noch nicht bewertet · JEV **92 %** · amos **95 %** · drex **95 %**
+  - Stufe 4–7: clef **70 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **82 %** · amos **92 %** · drex **93 %** · SubQ **78 %**
+  - Stufe 3–7: clef **85 %** · Luna **95 %** · d3-ultra noch nicht bewertet · JEV **92 %** · amos **95 %** · drex **95 %** · SubQ **86 %**
   - Kurzfassung: Anthropic zufolge senken neue Schutzmaßnahmen die auf der eigenen Plattform abgegriffenen Modellüberlegungen deutlich, doch ihre Dauerwirkung ist unklar und sie verursachen Einschränkungen für legitime Nutzer.
 - **[Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)** · anthropic.com · 2026-11-09 · [Q000305](../../berichte/Q00/Q0003/Q000305/)
-  - Stufe 4–7: clef **57 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **44 %** · amos **82 %** · drex **89 %**
-  - Stufe 3–7: clef **72 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **75 %** · amos **89 %** · drex **92 %**
+  - Stufe 4–7: clef **57 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **44 %** · amos **82 %** · drex **89 %** · SubQ **62 %**
+  - Stufe 3–7: clef **72 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **75 %** · amos **89 %** · drex **92 %** · SubQ **73 %**
   - Kurzfassung: Anthropic berichtet von Leistungsfortschritten bei Fable 5.2 und Mythos 5.2, betont deren Schutzmaßnahmen und weist zugleich auf Grenzen der eigenen Tests und Benchmarkvergleiche hin.
 - **[Adversarial Distillation](https://www.frontiermodelforum.org/issue-briefs/issue-brief-adversarial-distillation/)** · frontiermodelforum.org · 2026-02-23 · [Q001884](../../berichte/Q00/Q0018/Q001884/)
-  - Stufe 4–7: clef **76 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **99 %** · amos **92 %** · drex **93 %**
-  - Stufe 3–7: clef **87 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **95 %** · drex **95 %**
+  - Stufe 4–7: clef **76 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **99 %** · amos **92 %** · drex **93 %** · SubQ **91 %**
+  - Stufe 3–7: clef **87 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **95 %** · drex **95 %** · SubQ **95 %**
   - Kurzfassung: Adversariales Distillieren kann laut Bericht leistungsfähige KI-Fähigkeiten ohne die zugehörigen Schutzmaßnahmen übertragen, doch die beschriebenen Techniken sind doppelt verwendbar und ihre Erkennung ist schwierig.
 - **[Anthropic, PBC](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm)** · sec.gov ·  · [Q001848](../../berichte/Q00/Q0018/Q001848/)
-  - Stufe 4–7: clef **20 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **42 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **37 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **65 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **20 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **42 %** · drex noch nicht bewertet · SubQ **25 %**
+  - Stufe 3–7: clef **37 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **65 %** · drex noch nicht bewertet · SubQ **43 %**
   - Fundorte: [sec.gov](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm) (Q001848) · [sec.gov](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm) (Q001847)
   - Kurzfassung: Anthropic plant ein IPO mit hohen Erlösen, berichtet aber zugleich enorme Verluste, Compute-Verpflichtungen und vielfältige Geschäftsrisiken; Prospektangaben sind teils vorläufig und nicht unabhängig bestätigt.
 - **[GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI](https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/)** · cloud.google.com · 2026-09-08 · [Q000136](../../berichte/Q00/Q0001/Q000136/)
-  - Stufe 4–7: clef **57 %** · Luna **84 %** · d3-ultra **95 %** · JEV **84 %** · amos **89 %** · drex **91 %**
-  - Stufe 3–7: clef **75 %** · Luna **92 %** · d3-ultra **98 %** · JEV **93 %** · amos **93 %** · drex **93 %**
+  - Stufe 4–7: clef **57 %** · Luna **84 %** · d3-ultra **95 %** · JEV **84 %** · amos **89 %** · drex **91 %** · SubQ **74 %**
+  - Stufe 3–7: clef **75 %** · Luna **92 %** · d3-ultra **98 %** · JEV **93 %** · amos **93 %** · drex **93 %** · SubQ **86 %**
   - Kurzfassung: Laut GTIG nutzen Angreifer KI zunehmend zur Automatisierung von Cyberangriffen, doch vollständig autonome Exploit-Pipelines und erfolgreiche interaktive Einflussbots wurden in den beschriebenen Beobachtungen nicht festgestellt.
 - **[OpenAI executive urges caution in China-US AI talks, warns of distillation](https://www.scmp.com/news/us/article/3373052/openai-executive-urges-caution-china-us-ai-talks-warns-distillation-threats)** · scmp.com · 2026-11-03 · [Q000465](../../berichte/Q00/Q0004/Q000465/)
-  - Stufe 4–7: clef **70 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **90 %** · drex **93 %**
-  - Stufe 3–7: clef **83 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **94 %** · drex **95 %**
+  - Stufe 4–7: clef **70 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **90 %** · drex **93 %** · SubQ **93 %**
+  - Stufe 3–7: clef **83 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **100 %** · amos **94 %** · drex **95 %** · SubQ **96 %**
   - Kurzfassung: Der Bericht stellt US-chinesische KI-Gespräche, gegenseitige Vorwürfe zur Modell-Distillation und westliche Start-ups im Spannungsfeld zwischen günstigen chinesischen Modellen und möglicher Abhängigkeit dar.
 - **[China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a)** · cisa.gov · 2026-09-08 · [Q004596](../../berichte/Q00/Q0045/Q004596/)
-  - Stufe 4–7: clef **71 %** · Luna **83 %** · d3-ultra noch nicht bewertet · JEV **96 %** · amos **92 %** · drex **92 %**
-  - Stufe 3–7: clef **83 %** · Luna **95 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **95 %** · drex **94 %**
+  - Stufe 4–7: clef **71 %** · Luna **83 %** · d3-ultra noch nicht bewertet · JEV **96 %** · amos **92 %** · drex **92 %** · SubQ **89 %**
+  - Stufe 3–7: clef **83 %** · Luna **95 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **95 %** · drex **94 %** · SubQ **93 %**
   - Kurzfassung: US-Behörden warnen vor mutmaßlicher industrieller KI-Destillation durch mehrere chinesische Unternehmen und empfehlen Anbietern, verdächtige Nutzung zu erkennen, Antworten gezielt anzupassen und Hinweise miteinander zu teilen.
 - **[Terms of Use](https://openai.com/policies/row-terms-of-use/)** · openai.com · 2026-01-01 · [Q009308](../../berichte/Q00/Q0093/Q009308/)
-  - Stufe 4–7: clef **57 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **81 %** · amos **76 %** · drex **62 %**
-  - Stufe 3–7: clef **66 %** · Luna **88 %** · d3-ultra noch nicht bewertet · JEV **86 %** · amos **85 %** · drex **70 %**
+  - Stufe 4–7: clef **57 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **81 %** · amos **76 %** · drex **62 %** · SubQ **53 %**
+  - Stufe 3–7: clef **66 %** · Luna **88 %** · d3-ultra noch nicht bewertet · JEV **86 %** · amos **85 %** · drex **70 %** · SubQ **67 %**
   - Kurzfassung: OpenAIs Bedingungen regeln die Nutzung seiner Privatkundendienste, warnen vor unzuverlässigen Ausgaben und sehen vorbehaltlich geltenden Rechts Haftungsbegrenzungen und grundsätzlich verbindliche Schiedsverfahren vor.
 - **[https://arxiv.org/pdf/1610.05755](https://arxiv.org/pdf/1610.05755)** · arxiv.org ·  · [Q009443](../../berichte/Q00/Q0094/Q009443/)
-  - Stufe 4–7: clef **19 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **47 %** · amos **31 %** · drex **25 %**
-  - Stufe 3–7: clef **33 %** · Luna **98 %** · d3-ultra noch nicht bewertet · JEV **68 %** · amos **55 %** · drex **42 %**
+  - Stufe 4–7: clef **19 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **47 %** · amos **31 %** · drex **25 %** · SubQ **8 %**
+  - Stufe 3–7: clef **33 %** · Luna **98 %** · d3-ultra noch nicht bewertet · JEV **68 %** · amos **55 %** · drex **42 %** · SubQ **20 %**
   - Kurzfassung: PATE soll sensible Trainingsdaten durch verrauschte Stimmen getrennter Teacher-Modelle schützen und erzielt laut Bericht gute Versuchsergebnisse, ist aber auf passende Datenpartitionen und teils zusätzliche unlabeled Daten angewiesen.
 - **[Model Distillation in the API](https://openai.com/index/api-model-distillation/)** · openai.com · 2024-10-01 · [Q009239](../../berichte/Q00/Q0092/Q009239/)
-  - Stufe 4–7: clef **41 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **78 %** · amos **55 %** · drex **44 %**
-  - Stufe 3–7: clef **60 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **90 %** · amos **73 %** · drex **56 %**
+  - Stufe 4–7: clef **41 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **78 %** · amos **55 %** · drex **44 %** · SubQ **14 %**
+  - Stufe 3–7: clef **60 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **90 %** · amos **73 %** · drex **56 %** · SubQ **29 %**
   - Kurzfassung: OpenAI kündigt ein integriertes Angebot zum Distillieren und Evaluieren günstigerer Modelle an, ohne im Bericht konkrete Verbesserungen durch Versuchsdaten zu belegen.
 - **[Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/)** · openai.com · 2026-09-30 · [Q001590](../../berichte/Q00/Q0015/Q001590/)
-  - Stufe 4–7: clef **67 %** · Luna **77 %** · d3-ultra noch nicht bewertet · JEV **94 %** · amos **90 %** · drex **88 %**
-  - Stufe 3–7: clef **79 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **94 %** · drex **91 %**
+  - Stufe 4–7: clef **67 %** · Luna **77 %** · d3-ultra noch nicht bewertet · JEV **94 %** · amos **90 %** · drex **88 %** · SubQ **84 %**
+  - Stufe 3–7: clef **79 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **94 %** · drex **91 %** · SubQ **90 %**
   - Kurzfassung: OpenAI zufolge wurde eine koordinierte Extraktionskampagne durch Kontrollen und technische Schutzmaßnahmen gestoppt; Umfang und Zuschreibung beruhen auf der Darstellung des Unternehmens, und die Abwehr wird fortgesetzt.
 - **[Anthropic bans Claude-built fake sites aimed at gaming AI answers](https://ppc.land/anthropic-bans-claude-built-fake-sites-aimed-at-gaming-ai-answers/)** · ppc.land · 2026-11-12 · [Q000659](../../berichte/Q00/Q0006/Q000659/)
-  - Stufe 4–7: clef **65 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **83 %** · amos **91 %** · drex **90 %**
-  - Stufe 3–7: clef **74 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **86 %** · amos **94 %** · drex **93 %**
+  - Stufe 4–7: clef **65 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **83 %** · amos **91 %** · drex **90 %** · SubQ **85 %**
+  - Stufe 3–7: clef **74 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **86 %** · amos **94 %** · drex **93 %** · SubQ **91 %**
   - Kurzfassung: Die neue Claude-Richtlinie untersagt täuschende Kampagnen gegen Such- und KI-Antwortsysteme, ordnet Wahlwerbung und Hochrisikonutzung neu und lässt ihre praktische Durchsetzung laut Bericht offen.
 - **[DeepSeek-R1 Release | DeepSeek API Docs](https://api-docs.deepseek.com/news/news250120)** · api-docs.deepseek.com ·  · [Q003760](../../berichte/Q00/Q0037/Q003760/)
-  - Stufe 4–7: clef **52 %** · Luna **75 %** · d3-ultra **88 %** · JEV noch nicht bewertet · amos **81 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **63 %** · Luna **87 %** · d3-ultra **90 %** · JEV noch nicht bewertet · amos **88 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **52 %** · Luna **75 %** · d3-ultra **88 %** · JEV noch nicht bewertet · amos **81 %** · drex **61 %** · SubQ **39 %**
+  - Stufe 3–7: clef **63 %** · Luna **87 %** · d3-ultra **90 %** · JEV noch nicht bewertet · amos **88 %** · drex **71 %** · SubQ **53 %**
   - Kurzfassung: DeepSeek kündigt das quelloffene, MIT-lizenzierte R1 samt sechs destillierten Modellen an und behauptet eine Leistung auf Höhe von OpenAI o1 beziehungsweise o1-mini, ohne die Vergleiche im Beitrag methodisch zu belegen.
 - **[Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)** · openai.com · 2026-08-28 · [Q008736](../../berichte/Q00/Q0087/Q008736/)
-  - Stufe 4–7: clef **55 %** · Luna **75 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **76 %** · drex **70 %**
-  - Stufe 3–7: clef **69 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **67 %** · amos **86 %** · drex **78 %**
+  - Stufe 4–7: clef **55 %** · Luna **75 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **76 %** · drex **70 %** · SubQ **42 %**
+  - Stufe 3–7: clef **69 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **67 %** · amos **86 %** · drex **78 %** · SubQ **57 %**
   - Kurzfassung: OpenAI will Cursor nach der SpaceX-Übernahme keine künftigen Modelle mehr bereitstellen und hat den ursprünglich vorgeschlagenen Abschalttermin laut Update vorübergehend verlängert.
 - **[nemotron-3.5-super-vl-120b-a12b Model by NVIDIA](https://build.nvidia.com/nvidia/nemotron-3.5-super-vl-120b-a12b/modelcard)** · build.nvidia.com ·  · [Q004895](../../berichte/Q00/Q0048/Q004895/)
-  - Stufe 4–7: clef **31 %** · Luna **74 %** · d3-ultra **22 %** · JEV **71 %** · amos **42 %** · drex **25 %**
-  - Stufe 3–7: clef **50 %** · Luna **93 %** · d3-ultra **35 %** · JEV **83 %** · amos **64 %** · drex **40 %**
+  - Stufe 4–7: clef **31 %** · Luna **74 %** · d3-ultra **22 %** · JEV **71 %** · amos **42 %** · drex **25 %** · SubQ **5 %**
+  - Stufe 3–7: clef **50 %** · Luna **93 %** · d3-ultra **35 %** · JEV **83 %** · amos **64 %** · drex **40 %** · SubQ **11 %**
   - Kurzfassung: Laut NVIDIA ist Nemotron 3.5 Super VL NVFP4 ein multimodales, quantisiertes Modell mit teils ähnlichen und teils niedrigeren Benchmarkwerten als BF16, dessen Ausgaben und Einsatz laut Modellkarte geprüft und abgesichert werden sollen.
 - **[2028: Two scenarios for global AI leadership](https://www.anthropic.com/news/2028-ai-leadership)** · anthropic.com · 2026-05-14 · [Q003588](../../berichte/Q00/Q0035/Q003588/)
-  - Stufe 4–7: clef **60 %** · Luna **73 %** · d3-ultra noch nicht bewertet · JEV **59 %** · amos **85 %** · drex **90 %**
-  - Stufe 3–7: clef **80 %** · Luna **87 %** · d3-ultra noch nicht bewertet · JEV **86 %** · amos **92 %** · drex **93 %**
+  - Stufe 4–7: clef **60 %** · Luna **73 %** · d3-ultra noch nicht bewertet · JEV **59 %** · amos **85 %** · drex **90 %** · SubQ **66 %**
+  - Stufe 3–7: clef **80 %** · Luna **87 %** · d3-ultra noch nicht bewertet · JEV **86 %** · amos **92 %** · drex **93 %** · SubQ **79 %**
   - Kurzfassung: Anthropic warnt in zwei hypothetischen Szenarien vor einem möglichen Verlust des US-Vorsprungs bei KI und empfiehlt strengere Kontrollen, Schutz vor Modell-Destillierung und den Export amerikanischer KI.
 - **[Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)** · anthropic.com · 2026-06-09 · [Q003537](../../berichte/Q00/Q0035/Q003537/)
-  - Stufe 4–7: clef **43 %** · Luna **73 %** · d3-ultra noch nicht bewertet · JEV **51 %** · amos **77 %** · drex **85 %**
-  - Stufe 3–7: clef **59 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **73 %** · amos **87 %** · drex **89 %**
+  - Stufe 4–7: clef **43 %** · Luna **73 %** · d3-ultra noch nicht bewertet · JEV **51 %** · amos **77 %** · drex **85 %** · SubQ **48 %**
+  - Stufe 3–7: clef **59 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **73 %** · amos **87 %** · drex **89 %** · SubQ **66 %**
   - Kurzfassung: Anthropic kündigt Fable 5 und den eingeschränkt verfügbaren Mythos 5 an, doch der Bericht lässt den aktuellen Zugangsstatus widersprüchlich und stützt Leistungs- und Sicherheitsangaben überwiegend auf Unternehmensangaben.
 - **[https://www.whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf](https://www.whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf)** · whitehouse.gov ·  · [Q009504](../../berichte/Q00/Q0095/Q009504/)
-  - Stufe 4–7: clef **63 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **91 %** · amos **89 %** · drex **91 %**
-  - Stufe 3–7: clef **78 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **94 %** · drex **94 %**
+  - Stufe 4–7: clef **63 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **91 %** · amos **89 %** · drex **91 %** · SubQ **92 %**
+  - Stufe 3–7: clef **78 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **98 %** · amos **94 %** · drex **94 %** · SubQ **95 %**
   - Kurzfassung: Das Memorandum behauptet groß angelegte ausländische Abschöpfung von US-KI-Fähigkeiten und kündigt Informationsaustausch, Abwehrmaßnahmen mit der Industrie sowie die Prüfung möglicher Konsequenzen an.
 - **[Ministry of Commerce Press Spokesperson Answers Reporter's Question about the United States Threatening to Launch Investigations and Implement Sanctions Against Chinese Artificial Intelligence Enterprises](https://cset.georgetown.edu/publication/china-mofcom-statement-model-distillation/)** · cset.georgetown.edu · 2026-07-27 · [Q001136](../../berichte/Q00/Q0011/Q001136/)
-  - Stufe 4–7: clef **41 %** · Luna **71 %** · d3-ultra **87 %** · JEV **45 %** · amos **70 %** · drex **69 %**
-  - Stufe 3–7: clef **63 %** · Luna **81 %** · d3-ultra **97 %** · JEV **87 %** · amos **85 %** · drex **81 %**
+  - Stufe 4–7: clef **41 %** · Luna **71 %** · d3-ultra **87 %** · JEV **45 %** · amos **70 %** · drex **69 %** · SubQ **69 %**
+  - Stufe 3–7: clef **63 %** · Luna **81 %** · d3-ultra **97 %** · JEV **87 %** · amos **85 %** · drex **81 %** · SubQ **81 %**
   - Kurzfassung: China weist die US-Vorwürfe gegen chinesische KI-Unternehmen zurück, erhebt Gegenbehauptungen über US-Firmen und fordert Dialog statt Sanktionen.
 - **[Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11168924/pdf/41586_2024_Article_7487.pdf)** · pmc.ncbi.nlm.nih.gov ·  · [Q002816](../../berichte/Q00/Q0028/Q002816/)
-  - Stufe 4–7: clef **9 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **84 %** · amos **39 %** · drex **12 %**
-  - Stufe 3–7: clef **14 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **88 %** · amos **57 %** · drex **25 %**
+  - Stufe 4–7: clef **9 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **84 %** · amos **39 %** · drex **12 %** · SubQ **2 %**
+  - Stufe 3–7: clef **14 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **88 %** · amos **57 %** · drex **25 %** · SubQ **4 %**
   - Kurzfassung: Laut Bericht erweitert AlphaFold 3 die Vorhersage biomolekularer Strukturen deutlich, bleibt aber bei Stereochemie, ungeordneten Bereichen und dynamischen Zuständen fehleranfällig.
 - **[Introducing Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)** · thinkingmachines.ai · 2026-11-05 · [Q000404](../../berichte/Q00/Q0004/Q000404/)
-  - Stufe 4–7: clef **15 %** · Luna **67 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **35 %** · drex **21 %**
-  - Stufe 3–7: clef **29 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **46 %** · amos **57 %** · drex **36 %**
+  - Stufe 4–7: clef **15 %** · Luna **67 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **35 %** · drex **21 %** · SubQ **4 %**
+  - Stufe 3–7: clef **29 %** · Luna **96 %** · d3-ultra noch nicht bewertet · JEV **46 %** · amos **57 %** · drex **36 %** · SubQ **8 %**
   - Kurzfassung: Der Hersteller stellt Inkling 2 Small vor und berichtet über breite Fähigkeiten und Sicherheitsverbesserungen, während Benchmarks ein gemischtes Bild und der Text verbleibende Grenzen zeigt.
 - **[OpenAI Distillation Campaign: What It Says About Moonshot](https://cellcog.ai/blog/openai-moonshot-distillation/)** · cellcog.ai · 2026-09-30 · [Q000128](../../berichte/Q00/Q0001/Q000128/)
-  - Stufe 4–7: clef **63 %** · Luna **67 %** · d3-ultra **93 %** · JEV **92 %** · amos **89 %** · drex **90 %**
-  - Stufe 3–7: clef **79 %** · Luna **91 %** · d3-ultra **97 %** · JEV **98 %** · amos **94 %** · drex **93 %**
+  - Stufe 4–7: clef **63 %** · Luna **67 %** · d3-ultra **93 %** · JEV **92 %** · amos **89 %** · drex **90 %** · SubQ **82 %**
+  - Stufe 3–7: clef **79 %** · Luna **91 %** · d3-ultra **97 %** · JEV **98 %** · amos **94 %** · drex **93 %** · SubQ **89 %**
   - Kurzfassung: OpenAI meldet eine unterbundene Kampagne zur Extraktion verborgener Modellüberlegungen und verbindet einen Kern der Aktivität mit Personen aus dem Umfeld von Moonshot AI, doch die Erfolgsmenge und die Belege der Zuordnung bleiben laut Bericht offen.
 - **[Simplifying, stabilizing, and scaling continuous-time consistency models](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)** · openai.com · 2024-10-23 · [Q008219](../../berichte/Q00/Q0082/Q008219/)
-  - Stufe 4–7: clef **16 %** · Luna **67 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **14 %** · drex **7 %**
-  - Stufe 3–7: clef **26 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **34 %** · amos **32 %** · drex **15 %**
+  - Stufe 4–7: clef **16 %** · Luna **67 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **14 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **26 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **34 %** · amos **32 %** · drex **15 %** · SubQ **6 %**
   - Kurzfassung: Der Bericht zufolge erzeugt sCM in zwei Schritten Bilder mit annähernd vergleichbarer Qualität zu Diffusionsmodellen, benötigt dafür aber weiterhin ein vortrainiertes Diffusionsmodell und hat messungsbedingte Qualitätsunsicherheiten.
 - **[Rogo scales AI-driven financial research with OpenAI o1](https://openai.com/index/rogo/)** · openai.com ·  · [Q007407](../../berichte/Q00/Q0074/Q007407/)
-  - Stufe 4–7: clef **11 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **38 %** · amos **18 %** · drex **12 %**
-  - Stufe 3–7: clef **21 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **63 %** · amos **38 %** · drex **23 %**
+  - Stufe 4–7: clef **11 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **38 %** · amos **18 %** · drex **12 %** · SubQ **2 %**
+  - Stufe 3–7: clef **21 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **63 %** · amos **38 %** · drex **23 %** · SubQ **10 %**
   - Kurzfassung: OpenAI beschreibt Rogos KI-Plattform für Finanzrecherche und berichtet über Wachstum und Zeitersparnis, ohne diese Unternehmensangaben unabhängig zu belegen.
 - **[https://arxiv.org/pdf/2410.11081](https://arxiv.org/pdf/2410.11081)** · arxiv.org ·  · [Q009444](../../berichte/Q00/Q0094/Q009444/)
-  - Stufe 4–7: clef **10 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **12 %** · drex **9 %**
-  - Stufe 3–7: clef **16 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **32 %** · drex **16 %**
+  - Stufe 4–7: clef **10 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **12 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **32 %** · drex **16 %** · SubQ **2 %**
   - Kurzfassung: sCM soll kontinuierliche Konsistenzmodelle für schnelle Bildgenerierung stabilisieren und erreicht laut Bericht in zwei Schritten FID-Werte nahe an vortrainierten Diffusionsmodellen, bleibt aber mit Artefakten und offenen Skalierungsgrenzen behaftet.
 - **[What affects chain-of-thought monitorability across the model lifecycle?](https://alignment.openai.com/cot-monitorability-model-lifecycle/)** · alignment.openai.com · 2026-11-10 · [Q000288](../../berichte/Q00/Q0002/Q000288/)
-  - Stufe 4–7: clef **26 %** · Luna **64 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **39 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **50 %** · Luna **87 %** · d3-ultra **6 %** · JEV noch nicht bewertet · amos **61 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **26 %** · Luna **64 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **39 %** · drex **14 %** · SubQ **3 %**
+  - Stufe 3–7: clef **50 %** · Luna **87 %** · d3-ultra **6 %** · JEV noch nicht bewertet · amos **61 %** · drex **25 %** · SubQ **9 %**
   - Kurzfassung: Laut Bericht könnten leistungsfähigere Modelle schwerer anhand ihres CoT zu überwachen sein, doch die verwendeten Ersatzmaße sagen tatsächliche Monitor-Umgehung nur unzuverlässig voraus.
 - **[Automated researchers can reliably mitigate alignment failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures)** · anthropic.com · 2026-08-28 · [Q004437](../../berichte/Q00/Q0044/Q004437/)
-  - Stufe 4–7: clef **25 %** · Luna **63 %** · d3-ultra noch nicht bewertet · JEV **42 %** · amos **57 %** · drex **24 %**
-  - Stufe 3–7: clef **43 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **73 %** · drex **36 %**
+  - Stufe 4–7: clef **25 %** · Luna **63 %** · d3-ultra noch nicht bewertet · JEV **42 %** · amos **57 %** · drex **24 %** · SubQ **6 %**
+  - Stufe 3–7: clef **43 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **73 %** · drex **36 %** · SubQ **17 %**
   - Kurzfassung: Anthropic berichtet von vielversprechender automatisierter Alignment-Forschung mit Claude, weist aber auf erhebliche Grenzen der Tests und ihrer Aussagekraft hin.
 - **[https://arxiv.org/pdf/2410.07095](https://arxiv.org/pdf/2410.07095)** · arxiv.org ·  · [Q009434](../../berichte/Q00/Q0094/Q009434/)
-  - Stufe 4–7: clef **15 %** · Luna **61 %** · d3-ultra **0 %** · JEV **17 %** · amos **19 %** · drex **15 %**
-  - Stufe 3–7: clef **24 %** · Luna **86 %** · d3-ultra **1 %** · JEV **29 %** · amos **39 %** · drex **24 %**
+  - Stufe 4–7: clef **15 %** · Luna **61 %** · d3-ultra **0 %** · JEV **17 %** · amos **19 %** · drex **15 %** · SubQ **3 %**
+  - Stufe 3–7: clef **24 %** · Luna **86 %** · d3-ultra **1 %** · JEV **29 %** · amos **39 %** · drex **24 %** · SubQ **8 %**
   - Kurzfassung: MLE-bench zeigt, dass die getesteten KI-Agenten bei Kaggle-ähnlichen ML-Aufgaben noch oft scheitern: o1-preview mit AIDE erreichte bei 16,9 Prozent der Wettbewerbe eine Medaille, wobei Aussagekraft und Übertragbarkeit des Benchmarks begrenzt sind.
 - **[Singapore Alignment Workshop 2025](https://www.far.ai/blog/singapore-alignment-workshop-2025)** · far.ai · 2026-07-16 · [Q001732](../../berichte/Q00/Q0017/Q001732/)
-  - Stufe 4–7: clef **41 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **66 %** · drex **62 %**
-  - Stufe 3–7: clef **60 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **51 %** · amos **81 %** · drex **72 %**
+  - Stufe 4–7: clef **41 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **66 %** · drex **62 %** · SubQ **30 %**
+  - Stufe 3–7: clef **60 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **51 %** · amos **81 %** · drex **72 %** · SubQ **59 %**
   - Kurzfassung: Der Workshop stellte vielfältige Ansätze für KI-Sicherheit vor, doch der Bericht zeigt zugleich, dass wichtige Befunde vorläufig und Schutzlösungen unvollständig sind.
 - **[DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports](https://www.reuters.com/technology/deepseek-moonshot-used-openais-gpt-6-astra-train-latest-models-information-2026-10-29/)** · reuters.com · 2026-10-29 · [Q000536](../../berichte/Q00/Q0005/Q000536/)
-  - Stufe 4–7: clef **57 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **80 %** · amos **83 %** · drex **87 %**
-  - Stufe 3–7: clef **77 %** · Luna **90 %** · d3-ultra noch nicht bewertet · JEV **94 %** · amos **91 %** · drex **91 %**
+  - Stufe 4–7: clef **57 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **80 %** · amos **83 %** · drex **87 %** · SubQ **75 %**
+  - Stufe 3–7: clef **77 %** · Luna **90 %** · d3-ultra noch nicht bewertet · JEV **94 %** · amos **91 %** · drex **91 %** · SubQ **86 %**
   - Kurzfassung: *The Information* behauptet, DeepSeek und Moonshot AI hätten GPT-6-Astra-Ausgaben zum Training neuer Modelle genutzt; Reuters nennt keine unabhängige Bestätigung.
 - **[Amazon Nova Micro, Lite, Pro, and Premier - AWS AI Service Cards](https://docs.aws.amazon.com/ai/responsible-ai/nova-micro-lite-pro/overview.html)** · docs.aws.amazon.com · 2025-04-30 · [Q004860](../../berichte/Q00/Q0048/Q004860/)
-  - Stufe 4–7: clef **25 %** · Luna **58 %** · d3-ultra **5 %** · JEV **41 %** · amos **44 %** · drex **31 %**
-  - Stufe 3–7: clef **41 %** · Luna **84 %** · d3-ultra **9 %** · JEV **67 %** · amos **64 %** · drex **45 %**
+  - Stufe 4–7: clef **25 %** · Luna **58 %** · d3-ultra **5 %** · JEV **41 %** · amos **44 %** · drex **31 %** · SubQ **10 %**
+  - Stufe 3–7: clef **41 %** · Luna **84 %** · d3-ultra **9 %** · JEV **67 %** · amos **64 %** · drex **45 %** · SubQ **31 %**
   - Kurzfassung: AWS beschreibt Nova als vielseitige, aber nicht verlässlich fehlerfreie Modellfamilie und empfiehlt kundenspezifische Tests sowie Aufsicht, besonders bei folgenreichen Anwendungen.
 - **[Post by @natolambert on X](https://x.com/natolambert/status/2111549984373911572)** · x.com · 2026-10-17 · [Q000681](../../berichte/Q00/Q0006/Q000681/)
-  - Stufe 4–7: clef **35 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **81 %** · amos **67 %** · drex **79 %**
-  - Stufe 3–7: clef **55 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **96 %** · amos **85 %** · drex **87 %**
+  - Stufe 4–7: clef **35 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **81 %** · amos **67 %** · drex **79 %** · SubQ **54 %**
+  - Stufe 3–7: clef **55 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **96 %** · amos **85 %** · drex **87 %** · SubQ **69 %**
   - Fundorte: [x.com](https://x.com/natolambert/status/2111549984373911572) (Q000681) · [x.com](https://x.com/natolambert/status/2115881074115084733) (Q001030)
   - Kurzfassung: Ein X-Beitrag mit teils abgebrochenen Kommentarauszügen diskutiert, ob ein API-Schlüsseldiebstahl mit belegtem Trainingszweck als „Distillation“ gelten kann; der Bericht klärt diesen Zusammenhang nicht.
 - **[L_202401689DE.000101.fmx.xml](http://publications.europa.eu/resource/celex/32024R1689)** · publications.europa.eu ·  · [Q004441](../../berichte/Q00/Q0044/Q004441/)
-  - Stufe 4–7: clef **26 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **48 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **42 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **70 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **26 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **48 %** · drex **33 %** · SubQ **17 %**
+  - Stufe 3–7: clef **42 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **70 %** · drex **60 %** · SubQ **34 %**
   - Kurzfassung: Die Vorlage enthält Notizen, keinen vollständigen Verordnungstext, und beschreibt den risikobasierten EU-KI-Rechtsrahmen mit Verboten, Hochrisiko-Anforderungen, Transparenzpflichten und schrittweisem Anwendungsbeginn ab 2025.
 - **[Strengthening our safeguards with frontier automated red-teaming](https://safeguards.anthropic.com/2026/automated-red-teaming/)** · safeguards.anthropic.com · 2026-11-12 · [Q000527](../../berichte/Q00/Q0005/Q000527/)
-  - Stufe 4–7: clef **42 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **41 %** · amos **68 %** · drex **70 %**
-  - Stufe 3–7: clef **64 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **70 %** · amos **83 %** · drex **82 %**
+  - Stufe 4–7: clef **42 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **41 %** · amos **68 %** · drex **70 %** · SubQ **11 %**
+  - Stufe 3–7: clef **64 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **70 %** · amos **83 %** · drex **82 %** · SubQ **35 %**
   - Kurzfassung: Anthropic berichtet, dass Anvil Schutzlücken schneller als menschliche Teams aufdeckt und bei Verbesserungen hilft, betont aber Grenzen der Tests und verbleibende Risiken.
 - **[Anthropic, PBC - S-1 (Q2)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)** · sec.gov ·  · [Q001846](../../berichte/Q00/Q0018/Q001846/)
-  - Stufe 4–7: clef **20 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **52 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **36 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **73 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **20 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **52 %** · drex noch nicht bewertet · SubQ **23 %**
+  - Stufe 3–7: clef **36 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **73 %** · drex noch nicht bewertet · SubQ **42 %**
   - Kurzfassung: Anthropics vorläufiger Prospekt berichtet starkes Umsatzwachstum, erhebliche Risiken und weitreichende Gründer- und Trust-Kontrolle; die vorliegenden Notizen enthalten zahlreiche Textlücken und offene Beträge.
 - **[Brief #28: China’s AI regulator flags loss-of-control and AIxBio risks](https://aisafetychina.substack.com/p/brief-28-chinas-ai-regulator-flags)** · aisafetychina.substack.com · 2026-09-10 · [Q001104](../../berichte/Q00/Q0011/Q001104/)
-  - Stufe 4–7: clef **20 %** · Luna **52 %** · d3-ultra **40 %** · JEV noch nicht bewertet · amos **47 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **34 %** · Luna **70 %** · d3-ultra **44 %** · JEV noch nicht bewertet · amos **67 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **20 %** · Luna **52 %** · d3-ultra **40 %** · JEV noch nicht bewertet · amos **47 %** · drex **53 %** · SubQ **18 %**
+  - Stufe 3–7: clef **34 %** · Luna **70 %** · d3-ultra **44 %** · JEV noch nicht bewertet · amos **67 %** · drex **65 %** · SubQ **40 %**
   - Kurzfassung: China benennt vielfältige KI-Risiken, sondiert laut Berichten Gespräche mit den USA und erprobt mit Z.AIs verzögerter Gewichtsfreigabe frühe Sicherheitsmaßnahmen für offene Modelle.
 - **[Let China copy American AI](https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai)** · economist.com · 2026-10-29 · [Q000185](../../berichte/Q00/Q0001/Q000185/)
-  - Stufe 4–7: clef **52 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **40 %** · drex **53 %**
-  - Stufe 3–7: clef **68 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **63 %** · drex **69 %**
+  - Stufe 4–7: clef **52 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **40 %** · drex **53 %** · SubQ **25 %**
+  - Stufe 3–7: clef **68 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **63 %** · drex **69 %** · SubQ **47 %**
   - Kurzfassung: Der Auszug zufolge beklagen Anthropic und OpenAI chinesische Nachahmung ihrer KI-Modelle; der *Economist* meint, Distillation allein rechtfertige kein Verbot.
 - **[Security](https://www.anthropic.com/news/security)** · anthropic.com ·  · [Q005355](../../berichte/Q00/Q0053/Q005355/)
-  - Stufe 4–7: clef **52 %** · Luna **46 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **60 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **65 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **77 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **52 %** · Luna **46 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **60 %** · drex noch nicht bewertet · SubQ **28 %**
+  - Stufe 3–7: clef **65 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **77 %** · drex noch nicht bewertet · SubQ **49 %**
   - Kurzfassung: Der Auszug listet Anthropics Sicherheitsbeiträge und deren Kurzbehauptungen auf, enthält aber nicht die vollständigen Berichte oder Belege.
 - **[Introducing canvas](https://openai.com/index/introducing-canvas/)** · openai.com · 2024-10-03 · [Q006710](../../berichte/Q00/Q0067/Q006710/)
-  - Stufe 4–7: clef **17 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **82 %** · amos **24 %** · drex **9 %**
-  - Stufe 3–7: clef **31 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **87 %** · amos **42 %** · drex **19 %**
+  - Stufe 4–7: clef **17 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **82 %** · amos **24 %** · drex **9 %** · SubQ **4 %**
+  - Stufe 3–7: clef **31 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **87 %** · amos **42 %** · drex **19 %** · SubQ **14 %**
   - Kurzfassung: Canvas ist OpenAIs neue Beta-Oberfläche für gemeinsames Bearbeiten von Text und Code; die berichteten internen Verbesserungen sind laut OpenAI teilweise promptabhängig.
 - **[Teaching AI to See the World More Like Humans Do](https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/)** · deepmind.google · 2025-11-11 · [Q003936](../../berichte/Q00/Q0039/Q003936/)
-  - Stufe 4–7: clef **13 %** · Luna **51 %** · d3-ultra **1 %** · JEV **25 %** · amos **12 %** · drex **6 %**
-  - Stufe 3–7: clef **21 %** · Luna **83 %** · d3-ultra **3 %** · JEV **41 %** · amos **26 %** · drex **13 %**
+  - Stufe 4–7: clef **13 %** · Luna **51 %** · d3-ultra **1 %** · JEV **25 %** · amos **12 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **21 %** · Luna **83 %** · d3-ultra **3 %** · JEV **41 %** · amos **26 %** · drex **13 %** · SubQ **6 %**
   - Kurzfassung: Laut Bericht kann AligNet visuelle KI stärker an menschliche Ähnlichkeitsurteile anpassen und in mehreren Tests verbessern, doch die Autoren sehen weiteren Forschungsbedarf.
 - **[Using GPT-4 for content moderation](https://openai.com/index/using-gpt-4-for-content-moderation/)** · openai.com · 2023-08-15 · [Q008903](../../berichte/Q00/Q0089/Q008903/)
-  - Stufe 4–7: clef **9 %** · Luna **50 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **19 %** · drex **14 %**
-  - Stufe 3–7: clef **14 %** · Luna **74 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **37 %** · drex **24 %**
+  - Stufe 4–7: clef **9 %** · Luna **50 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **19 %** · drex **14 %** · SubQ **4 %**
+  - Stufe 3–7: clef **14 %** · Luna **74 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **37 %** · drex **24 %** · SubQ **11 %**
   - Kurzfassung: OpenAI zufolge kann GPT‑4 die Entwicklung von Moderationsrichtlinien beschleunigen, doch erfahrene menschliche Moderatoren schneiden besser ab und bleiben für Kontrolle und Verfeinerung erforderlich.
 - **[09 – Copyright and data protection rights in co-generated input and output of generative AI](https://oecd.ai/en/wonk/documents/09-copyright-and-data-protection-rights-in-co-generated-input-and-output-of-generative-ai)** · oecd.ai · 2024-12-03 · [Q005021](../../berichte/Q00/Q0050/Q005021/)
-  - Stufe 4–7: clef **49 %** · Luna **38 %** · d3-ultra **13 %** · JEV **8 %** · amos **35 %** · drex **31 %**
-  - Stufe 3–7: clef **66 %** · Luna **82 %** · d3-ultra **51 %** · JEV **63 %** · amos **61 %** · drex **55 %**
+  - Stufe 4–7: clef **49 %** · Luna **38 %** · d3-ultra **13 %** · JEV **8 %** · amos **35 %** · drex **31 %** · SubQ **6 %**
+  - Stufe 3–7: clef **66 %** · Luna **82 %** · d3-ultra **51 %** · JEV **63 %** · amos **61 %** · drex **55 %** · SubQ **25 %**
   - Kurzfassung: Der Auszug skizziert eine Studie zu Rechten an gemeinsam erzeugten KI-Ein- und Ausgaben in der EU, Japan und den USA, enthält jedoch keine Ergebnisse.
 - **[Attacking machine learning with adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)** · openai.com · 2017-02-24 · [Q008602](../../berichte/Q00/Q0086/Q008602/)
-  - Stufe 4–7: clef **16 %** · Luna **49 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **18 %** · drex **10 %**
-  - Stufe 3–7: clef **35 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV **64 %** · amos **39 %** · drex **23 %**
+  - Stufe 4–7: clef **16 %** · Luna **49 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **18 %** · drex **10 %** · SubQ **2 %**
+  - Stufe 3–7: clef **35 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV **64 %** · amos **39 %** · drex **23 %** · SubQ **8 %**
   - Kurzfassung: Der Bericht zufolge können gezielte Eingabeveränderungen Lernmodelle täuschen, während die beschriebenen Abwehrverfahren keinen belegten Schutz gegen anpassungsfähige Angreifer bieten.
 - **[生成式人工智能服务管理暂行办法_国务院部门文件_中国政府网](https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm)** · gov.cn ·  · [Q004639](../../berichte/Q00/Q0046/Q004639/)
-  - Stufe 4–7: clef **25 %** · Luna **49 %** · d3-ultra noch nicht bewertet · JEV **29 %** · amos **49 %** · drex **39 %**
-  - Stufe 3–7: clef **39 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **67 %** · amos **69 %** · drex **60 %**
+  - Stufe 4–7: clef **25 %** · Luna **49 %** · d3-ultra noch nicht bewertet · JEV **29 %** · amos **49 %** · drex **39 %** · SubQ **15 %**
+  - Stufe 3–7: clef **39 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **67 %** · amos **69 %** · drex **60 %** · SubQ **36 %**
   - Kurzfassung: Der Bericht fasst chinesische Regeln für öffentlich angebotene generative KI-Dienste zusammen, darunter Pflichten zu Inhalten, Daten- und Nutzerschutz, Aufsicht und Sanktionen.
 - **[High-fidelity speech synthesis with WaveNet](https://deepmind.google/blog/high-fidelity-speech-synthesis-with-wavenet/)** · deepmind.google · 2017-11-22 · [Q003343](../../berichte/Q00/Q0033/Q003343/)
-  - Stufe 4–7: clef **17 %** · Luna **48 %** · d3-ultra **2 %** · JEV **31 %** · amos **31 %** · drex **9 %**
-  - Stufe 3–7: clef **30 %** · Luna **93 %** · d3-ultra **18 %** · JEV **58 %** · amos **55 %** · drex **22 %**
+  - Stufe 4–7: clef **17 %** · Luna **48 %** · d3-ultra **2 %** · JEV **31 %** · amos **31 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **30 %** · Luna **93 %** · d3-ultra **18 %** · JEV **58 %** · amos **55 %** · drex **22 %** · SubQ **10 %**
   - Kurzfassung: Laut Bericht beschleunigte Parallel WaveNet die Sprachsynthese durch ein vom ursprünglichen WaveNet angeleitetes Studentennetz und erzielte in den berichteten Hörtests denselben MOS-Wert.
 - **[Keeping up with the GPTs](https://epoch.ai/gradient-updates/keeping-up-with-the-gpts)** · epoch.ai · 2026-04-07 · [Q006748](../../berichte/Q00/Q0067/Q006748/)
-  - Stufe 4–7: clef **43 %** · Luna **48 %** · d3-ultra **70 %** · JEV **66 %** · amos **77 %** · drex **81 %**
-  - Stufe 3–7: clef **64 %** · Luna **98 %** · d3-ultra **83 %** · JEV **89 %** · amos **88 %** · drex **87 %**
+  - Stufe 4–7: clef **43 %** · Luna **48 %** · d3-ultra **70 %** · JEV **66 %** · amos **77 %** · drex **81 %** · SubQ **30 %**
+  - Stufe 3–7: clef **64 %** · Luna **98 %** · d3-ultra **83 %** · JEV **89 %** · amos **88 %** · drex **87 %** · SubQ **44 %**
   - Kurzfassung: Ho meint, Effizienz und Distillation können den Rechenrückstand kleinerer KI-Labore verringern, aber wahrscheinlich keinen zehnfachen Abstand ausgleichen; seine Einschätzung beruht auf begrenzter Evidenz.
 - **[The promise of reasoning models](https://epoch.ai/gradient-updates/the-promise-of-reasoning-models)** · epoch.ai · 2025-02-28 · [Q006834](../../berichte/Q00/Q0068/Q006834/)
-  - Stufe 4–7: clef **16 %** · Luna **48 %** · d3-ultra **4 %** · JEV **6 %** · amos **28 %** · drex **18 %**
-  - Stufe 3–7: clef **38 %** · Luna **93 %** · d3-ultra **14 %** · JEV **33 %** · amos **54 %** · drex **35 %**
+  - Stufe 4–7: clef **16 %** · Luna **48 %** · d3-ultra **4 %** · JEV **6 %** · amos **28 %** · drex **18 %** · SubQ **4 %**
+  - Stufe 3–7: clef **38 %** · Luna **93 %** · d3-ultra **14 %** · JEV **33 %** · amos **54 %** · drex **35 %** · SubQ **16 %**
   - Kurzfassung: Der Autor erwartet große Fortschritte von Reasoning-Modellen bei überprüfbaren Denkaufgaben, aber langsamere Automatisierung praktischer Arbeit; seine Zeit- und Geschäftsentwicklungsprognosen bleiben ausdrücklich unsicher.
 - **[Customizing models for legal professionals](https://openai.com/index/harvey/)** · openai.com ·  · [Q003139](../../berichte/Q00/Q0031/Q003139/)
-  - Stufe 4–7: clef **10 %** · Luna **47 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **16 %** · drex **9 %**
-  - Stufe 3–7: clef **21 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **70 %** · amos **35 %** · drex **18 %**
+  - Stufe 4–7: clef **10 %** · Luna **47 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **16 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **21 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **70 %** · amos **35 %** · drex **18 %** · SubQ **6 %**
   - Kurzfassung: OpenAI und Harvey berichten, dass ein mit US-Rechtsprechung erweitertes Modell in Kanzleivergleichen gegenüber GPT‑4 bevorzugt worden sei; unabhängige Prüfangaben nennt der Bericht nicht.
 - **[Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://deepmind.google/research/publications/85521/)** · deepmind.google · 2024-03-29 · [Q005670](../../berichte/Q00/Q0056/Q005670/)
-  - Stufe 4–7: clef **20 %** · Luna **47 %** · d3-ultra **2 %** · JEV **29 %** · amos **18 %** · drex **9 %**
-  - Stufe 3–7: clef **34 %** · Luna **83 %** · d3-ultra **10 %** · JEV **53 %** · amos **39 %** · drex **21 %**
+  - Stufe 4–7: clef **20 %** · Luna **47 %** · d3-ultra **2 %** · JEV **29 %** · amos **18 %** · drex **9 %** · SubQ **2 %**
+  - Stufe 3–7: clef **34 %** · Luna **83 %** · d3-ultra **10 %** · JEV **53 %** · amos **39 %** · drex **21 %** · SubQ **6 %**
   - Kurzfassung: Nur das Abstract liegt vor: Es berichtet, Gecko erreiche laut Autoren mit kompakten Einbettungen starke MTEB-Ergebnisse, nennt aber keine Details zur unabhängigen Einordnung dieser Leistungsbehauptungen.
 - **[Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)** · anthropic.com · 2026-07-27 · [Q004713](../../berichte/Q00/Q0047/Q004713/)
-  - Stufe 4–7: clef **42 %** · Luna **47 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **71 %** · drex **84 %**
-  - Stufe 3–7: clef **65 %** · Luna **81 %** · d3-ultra noch nicht bewertet · JEV **56 %** · amos **85 %** · drex **90 %**
+  - Stufe 4–7: clef **42 %** · Luna **47 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **71 %** · drex **84 %** · SubQ **51 %**
+  - Stufe 3–7: clef **65 %** · Luna **81 %** · d3-ultra noch nicht bewertet · JEV **56 %** · amos **85 %** · drex **90 %** · SubQ **70 %**
   - Kurzfassung: Anthropic lehnt ein pauschales Verbot offener KI-Gewichte ab und plädiert für Chipkontrollen, Maßnahmen gegen industrielle Destillation und verpflichtende Tests leistungsfähiger Modelle.
 - **[Safeguards](https://www.anthropic.com/news/safeguards)** · anthropic.com ·  · [Q005350](../../berichte/Q00/Q0053/Q005350/)
-  - Stufe 4–7: clef **47 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **44 %** · amos **65 %** · drex **64 %**
-  - Stufe 3–7: clef **62 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **68 %** · amos **80 %** · drex **73 %**
+  - Stufe 4–7: clef **47 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **44 %** · amos **65 %** · drex **64 %** · SubQ **24 %**
+  - Stufe 3–7: clef **62 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **68 %** · amos **80 %** · drex **73 %** · SubQ **43 %**
   - Kurzfassung: Der vorliegende Auszug ist eine Liste von Anthropics Safeguards-Beiträgen und Teasern, deren Wirksamkeitsangaben hier nicht unabhängig belegt werden.
 - **[Introducing ChatGPT search](https://openai.com/index/introducing-chatgpt-search/)** · openai.com · 2024-10-31 · [Q006501](../../berichte/Q00/Q0065/Q006501/)
-  - Stufe 4–7: clef **18 %** · Luna **46 %** · d3-ultra noch nicht bewertet · JEV **31 %** · amos **25 %** · drex **9 %**
-  - Stufe 3–7: clef **30 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **42 %** · amos **44 %** · drex **19 %**
+  - Stufe 4–7: clef **18 %** · Luna **46 %** · d3-ultra noch nicht bewertet · JEV **31 %** · amos **25 %** · drex **9 %** · SubQ **4 %**
+  - Stufe 3–7: clef **30 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **42 %** · amos **44 %** · drex **19 %** · SubQ **15 %**
   - Kurzfassung: OpenAI beschreibt ChatGPT Search als Websuche in ChatGPT mit aktuellen Antworten und Quellenlinks, doch der Bericht belegt die behauptete Qualität und Wirkung nicht unabhängig.
 - **[An Alien Mind](https://openai.com/index/an-alien-mind/)** · openai.com · 2026-09-06 · [Q007478](../../berichte/Q00/Q0074/Q007478/)
-  - Stufe 4–7: clef **10 %** · Luna **45 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **13 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **18 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **29 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **10 %** · Luna **45 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **13 %** · drex noch nicht bewertet · SubQ **5 %**
+  - Stufe 3–7: clef **18 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **29 %** · drex noch nicht bewertet · SubQ **15 %**
   - Fundorte: [openai.com](https://openai.com/index/an-alien-mind/) (Q007478) · [web.archive.org](https://web.archive.org/web/20260929024823/https://openai.com/index/an-alien-mind/) (Q004592)
   - Kurzfassung: Der OpenAI-Wissenschaftler Jakub Pachocki warnt, dass KI schneller leistungsfähiger werden könnte, als ihre Ausrichtung und Überwachung Schritt halten, und fordert deshalb Sicherheitsgrenzen und internationale Koordination.
 - **[What Is C2PA? Content Credentials Explained (2026)](https://theairankings.com/guides/what-is-c2pa/)** · theairankings.com · 2026-09-30 · [Q000628](../../berichte/Q00/Q0006/Q000628/)
-  - Stufe 4–7: clef **22 %** · Luna **45 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **19 %** · drex **9 %**
-  - Stufe 3–7: clef **34 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **37 %** · drex **18 %**
+  - Stufe 4–7: clef **22 %** · Luna **45 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **19 %** · drex **9 %** · SubQ **4 %**
+  - Stufe 3–7: clef **34 %** · Luna **80 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **37 %** · drex **18 %** · SubQ **9 %**
   - Kurzfassung: Content Credentials können Herkunft und Bearbeitungen digitaler Dateien nachvollziehbar machen, beweisen laut Bericht aber weder deren Wahrheit noch eine verlässliche Prüfung für Hochrisikofälle.
 - **[Hugging Face](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL)** · huggingface.co ·  · [Q004732](../../berichte/Q00/Q0047/Q004732/)
-  - Stufe 4–7: clef **15 %** · Luna **44 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **33 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **26 %** · Luna **78 %** · d3-ultra **7 %** · JEV noch nicht bewertet · amos **54 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **15 %** · Luna **44 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **33 %** · drex **15 %** · SubQ **5 %**
+  - Stufe 3–7: clef **26 %** · Luna **78 %** · d3-ultra **7 %** · JEV noch nicht bewertet · amos **54 %** · drex **26 %** · SubQ **12 %**
   - Fundorte: [huggingface.co](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL) (Q004732) · [huggingface.co](https://huggingface.co/convaiinnovations/laya-typed-decisions) (Q004974) · [huggingface.co](https://huggingface.co/togethercomputer/Tev1-4B-experimental) (Q004900) · [huggingface.co](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL) (Q004747) · [huggingface.co](https://huggingface.co/togethercomputer/Tev1-0.8B-experimental) (Q004913)
   - Kurzfassung: Die Hugging-Face-Seite präsentiert MiMo-V2.6-Flash-RL als multimodales, gemeinsam per RL trainiertes Modell und berichtet gemischte Benchmarkergebnisse, deren Methoden nicht näher erläutert werden.
 - **[Improved Techniques for Training Consistency Models](https://openai.com/index/improved-techniques-for-training-consistency-models/)** · openai.com · 2024-06-20 · [Q007786](../../berichte/Q00/Q0077/Q007786/)
-  - Stufe 4–7: clef **14 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **19 %** · amos **11 %** · drex **9 %**
-  - Stufe 3–7: clef **22 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **36 %** · amos **28 %** · drex **19 %**
+  - Stufe 4–7: clef **14 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **19 %** · amos **11 %** · drex **9 %** · SubQ **0 %**
+  - Stufe 3–7: clef **22 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **36 %** · amos **28 %** · drex **19 %** · SubQ **2 %**
   - Kurzfassung: Laut den Autoren verbessern direkte Datentrainierung und neue Trainingsverfahren die Sampling-Ergebnisse von Consistency Models auf CIFAR-10 und ImageNet.
 - **[Post by @emollick on X](https://x.com/emollick/status/2106487816460910912)** · x.com · 2026-10-03 · [Q000699](../../berichte/Q00/Q0006/Q000699/)
-  - Stufe 4–7: clef **27 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **28 %** · amos **61 %** · drex **51 %**
-  - Stufe 3–7: clef **47 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **80 %** · drex **66 %**
+  - Stufe 4–7: clef **27 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **28 %** · amos **61 %** · drex **51 %** · SubQ **47 %**
+  - Stufe 3–7: clef **47 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **80 %** · drex **66 %** · SubQ **65 %**
   - Kurzfassung: Der Auszug berichtet von einem Vorwurf zur Modelldestillation und gibt Aleph Alphas Kolibri-Angaben wieder, ohne sie unabhängig zu belegen.
 - **[Post by @rohanpaul_ai on X](https://x.com/rohanpaul_ai/status/2116078904662462729)** · x.com · 2026-10-30 · [Q001356](../../berichte/Q00/Q0013/Q001356/)
-  - Stufe 4–7: clef **42 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **59 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **65 %** · Luna **89 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **79 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **42 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **59 %** · drex noch nicht bewertet · SubQ **38 %**
+  - Stufe 3–7: clef **65 %** · Luna **89 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **79 %** · drex noch nicht bewertet · SubQ **55 %**
   - Kurzfassung: Laut dem X-Beitrag erkennt WM-Basin Wasserzeichen-Spuren in destillierten Modellen besser als Tokenzählen, doch sauberes Fine-Tuning schwächt diese Spuren ab.
 - **[Why we no longer evaluate SWE-bench Verified](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)** · openai.com · 2026-02-23 · [Q001600](../../berichte/Q00/Q0016/Q001600/)
-  - Stufe 4–7: clef **17 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **21 %** · amos **17 %** · drex **12 %**
-  - Stufe 3–7: clef **27 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **39 %** · amos **34 %** · drex **21 %**
+  - Stufe 4–7: clef **17 %** · Luna **44 %** · d3-ultra noch nicht bewertet · JEV **21 %** · amos **17 %** · drex **12 %** · SubQ **5 %**
+  - Stufe 3–7: clef **27 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **39 %** · amos **34 %** · drex **21 %** · SubQ **10 %**
   - Kurzfassung: OpenAI stellt SWE-bench Verified wegen problematischer Tests und möglicher Trainingsdaten-Kontamination als Fortschrittsmaß infrage und empfiehlt stattdessen SWE-bench Pro, das ebenfalls nicht fehlerfrei sei.
 - **[Introducing Mistral Code | Mistral AI](https://mistral.ai/news/mistral-code/)** · mistral.ai · 2025-06-04 · [Q001289](../../berichte/Q00/Q0012/Q001289/)
-  - Stufe 4–7: clef **12 %** · Luna **43 %** · d3-ultra **2 %** · JEV **3 %** · amos **16 %** · drex **15 %**
-  - Stufe 3–7: clef **22 %** · Luna **75 %** · d3-ultra **5 %** · JEV **13 %** · amos **33 %** · drex **26 %**
+  - Stufe 4–7: clef **12 %** · Luna **43 %** · d3-ultra **2 %** · JEV **3 %** · amos **16 %** · drex **15 %** · SubQ **2 %**
+  - Stufe 3–7: clef **22 %** · Luna **75 %** · d3-ultra **5 %** · JEV **13 %** · amos **33 %** · drex **26 %** · SubQ **7 %**
   - Kurzfassung: Mistral stellt Mistral Code als Unternehmensplattform für KI-gestütztes Programmieren vor; die Beta läuft, während allgemeine Verfügbarkeit und vollständige Ticketbearbeitung noch ausstehen.
 - **[Co-generation of data: Copyright and data protection rights in co-generated input and output of generative AI – Principles (November 2024)](https://oecd.ai/en/wonk/documents/co-generation-of-data-copyright-and-data-protection-rights-in-co-generated-input-and-output-of-generative-ai-principles-november-2024)** · oecd.ai · 2025-05-27 · [Q003431](../../berichte/Q00/Q0034/Q003431/)
-  - Stufe 4–7: clef **42 %** · Luna **19 %** · d3-ultra **4 %** · JEV **22 %** · amos **25 %** · drex **31 %**
-  - Stufe 3–7: clef **60 %** · Luna **62 %** · d3-ultra **26 %** · JEV **55 %** · amos **48 %** · drex **53 %**
+  - Stufe 4–7: clef **42 %** · Luna **19 %** · d3-ultra **4 %** · JEV **22 %** · amos **25 %** · drex **31 %** · SubQ **5 %**
+  - Stufe 3–7: clef **60 %** · Luna **62 %** · d3-ultra **26 %** · JEV **55 %** · amos **48 %** · drex **53 %** · SubQ **18 %**
   - Kurzfassung: Der Auszug stellt vorläufige, nicht abschließende Leitlinien für die Gesetzgebung zu Urheberrecht und Datenschutz bei generativer KI vor, enthält aber nicht deren konkrete Prinzipien.
 - **[Better language models and their implications](https://openai.com/index/better-language-models/)** · openai.com · 2019-02-14 · [Q008626](../../berichte/Q00/Q0086/Q008626/)
-  - Stufe 4–7: clef **21 %** · Luna **41 %** · d3-ultra noch nicht bewertet · JEV **14 %** · amos **23 %** · drex **19 %**
-  - Stufe 3–7: clef **31 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **45 %** · drex **30 %**
+  - Stufe 4–7: clef **21 %** · Luna **41 %** · d3-ultra noch nicht bewertet · JEV **14 %** · amos **23 %** · drex **19 %** · SubQ **7 %**
+  - Stufe 3–7: clef **31 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **45 %** · drex **30 %** · SubQ **18 %**
   - Kurzfassung: Der Bericht beschreibt GPT‑2 als leistungsfähiges, aber fehleranfälliges Sprachmodell und begründet mit möglichen Missbrauchsrisiken eine zunächst eingeschränkte, später gestufte Veröffentlichung.
 - **[https://arxiv.org/pdf/2005.14165](https://arxiv.org/pdf/2005.14165)** · arxiv.org ·  · [Q009431](../../berichte/Q00/Q0094/Q009431/)
-  - Stufe 4–7: clef **13 %** · Luna **41 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **14 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **25 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **37 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **13 %** · Luna **41 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **14 %** · drex **11 %** · SubQ **3 %**
+  - Stufe 3–7: clef **25 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **37 %** · drex **23 %** · SubQ **9 %**
   - Kurzfassung: Die Notizen beschreiben GPT‑3s teils starke, aber aufgabenabhängige Few‑Shot-Leistung und betonen Einschränkungen durch Schwächen einzelner Aufgaben, mögliche Datenkontamination und unvollständige Erläuterungen in den Anhangsauszügen.
 - **[Post by @peterwildeford on X](https://x.com/peterwildeford/status/2116248194715664804)** · x.com · 2026-10-29 · [Q001043](../../berichte/Q00/Q0010/Q001043/)
-  - Stufe 4–7: clef **38 %** · Luna **41 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **63 %** · drex **56 %**
-  - Stufe 3–7: clef **58 %** · Luna **77 %** · d3-ultra noch nicht bewertet · JEV **55 %** · amos **83 %** · drex **70 %**
+  - Stufe 4–7: clef **38 %** · Luna **41 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **63 %** · drex **56 %** · SubQ **48 %**
+  - Stufe 3–7: clef **58 %** · Luna **77 %** · d3-ultra noch nicht bewertet · JEV **55 %** · amos **83 %** · drex **70 %** · SubQ **67 %**
   - Kurzfassung: Der unvollständige X-Auszug zeigt Streit darüber, ob chinesische KI-Destillation Wettbewerb und Fortschritt fördert oder den US-Vorsprung und die Sicherheit schwächt.
 - **[Techniques to Make Large Language Models Smaller: An Explainer](https://cset.georgetown.edu/publication/techniques-to-make-large-language-models-smaller-an-explainer/)** · cset.georgetown.edu · 2023-10-11 · [Q004149](../../berichte/Q00/Q0041/Q004149/)
-  - Stufe 4–7: clef **24 %** · Luna **41 %** · d3-ultra **19 %** · JEV **6 %** · amos **36 %** · drex **19 %**
-  - Stufe 3–7: clef **52 %** · Luna **87 %** · d3-ultra **51 %** · JEV **52 %** · amos **64 %** · drex **42 %**
+  - Stufe 4–7: clef **24 %** · Luna **41 %** · d3-ultra **19 %** · JEV **6 %** · amos **36 %** · drex **19 %** · SubQ **5 %**
+  - Stufe 3–7: clef **52 %** · Luna **87 %** · d3-ultra **51 %** · JEV **52 %** · amos **64 %** · drex **42 %** · SubQ **19 %**
   - Kurzfassung: Der bereitgestellte Textauszug stellt drei Verfahren zum Verkleinern von Sprachmodellen vor und behauptet, dass kleinere offene Modelle den Zugang erleichtern, ihre wachsende Verbreitung aber schwerer kontrollierbar machen könnte.
 - **[The Mistral AI Non-Production License](https://mistral.ai/news/mistral-ai-non-production-license-mnpl/)** · mistral.ai · 2024-05-29 · [Q001093](../../berichte/Q00/Q0010/Q001093/)
-  - Stufe 4–7: clef **41 %** · Luna **20 %** · d3-ultra **20 %** · JEV **15 %** · amos **23 %** · drex **24 %**
-  - Stufe 3–7: clef **58 %** · Luna **47 %** · d3-ultra **35 %** · JEV **32 %** · amos **40 %** · drex **34 %**
+  - Stufe 4–7: clef **41 %** · Luna **20 %** · d3-ultra **20 %** · JEV **15 %** · amos **23 %** · drex **24 %** · SubQ **12 %**
+  - Stufe 3–7: clef **58 %** · Luna **47 %** · d3-ultra **35 %** · JEV **32 %** · amos **40 %** · drex **34 %** · SubQ **24 %**
   - Kurzfassung: Mistral veröffentlicht Codestral unter einer neuen Lizenz für nicht kommerzielle Nutzung und Forschung, will aber weiterhin Modelle und Code unter Apache 2.0 herausgeben.
 - **[Apple Quietly Dropped Pico-Banana-400K — The 400K Real-Image Dataset](https://medium.com/coding-nexus/apple-quietly-dropped-pico-banana-400k-the-400k-real-image-dataset-c29622a8a714)** · medium.com · 2025-10-26 · [Q011363](../../berichte/Q01/Q0113/Q011363/)
-  - Stufe 4–7: clef **18 %** · Luna **40 %** · d3-ultra **6 %** · JEV **46 %** · amos **26 %** · drex **9 %**
-  - Stufe 3–7: clef **30 %** · Luna **75 %** · d3-ultra **16 %** · JEV **66 %** · amos **48 %** · drex **20 %**
+  - Stufe 4–7: clef **18 %** · Luna **40 %** · d3-ultra **6 %** · JEV **46 %** · amos **26 %** · drex **9 %** · SubQ **3 %**
+  - Stufe 3–7: clef **30 %** · Luna **75 %** · d3-ultra **16 %** · JEV **66 %** · amos **48 %** · drex **20 %** · SubQ **10 %**
   - Kurzfassung: Der Bericht behauptet, Pico-Banana-400K bündele rund 386.000 Beispiele echter, KI-bearbeiteter Fotos und könne die textgesteuerte Bildbearbeitung verbessern, weist diesen Nutzen aber nicht nach.
 - **[Dario Amodei — We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)** · darioamodei.com · 2026-09-12 · [Q004494](../../berichte/Q00/Q0044/Q004494/)
-  - Stufe 4–7: clef **12 %** · Luna **40 %** · d3-ultra **13 %** · JEV **6 %** · amos **45 %** · drex **56 %**
-  - Stufe 3–7: clef **23 %** · Luna **63 %** · d3-ultra **17 %** · JEV **16 %** · amos **66 %** · drex **67 %**
+  - Stufe 4–7: clef **12 %** · Luna **40 %** · d3-ultra **13 %** · JEV **6 %** · amos **45 %** · drex **56 %** · SubQ **16 %**
+  - Stufe 3–7: clef **23 %** · Luna **63 %** · d3-ultra **17 %** · JEV **16 %** · amos **66 %** · drex **67 %** · SubQ **41 %**
   - Kurzfassung: Amodei schlägt vor, die KI-Entwicklung durch unabhängige Prüfungen und abgestimmte Sicherheitsgrenzen zu verlangsamen, räumt aber ein, dass Wirksamkeit und internationale Durchsetzung noch offen sind.
 - **[https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)** · whitehouse.gov ·  · [Q004643](../../berichte/Q00/Q0046/Q004643/)
-  - Stufe 4–7: clef **31 %** · Luna **40 %** · d3-ultra noch nicht bewertet · JEV **21 %** · amos **65 %** · drex **52 %**
-  - Stufe 3–7: clef **45 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **80 %** · drex **65 %**
+  - Stufe 4–7: clef **31 %** · Luna **40 %** · d3-ultra noch nicht bewertet · JEV **21 %** · amos **65 %** · drex **52 %** · SubQ **28 %**
+  - Stufe 3–7: clef **45 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **80 %** · drex **65 %** · SubQ **46 %**
   - Kurzfassung: Ein OMB-Memo von 2025 fordert für KI-Beschaffungen durch US-Bundesbehörden mehr Wettbewerb, Risikokontrolle, Datenschutz und laufende Leistungsprüfung, berichtet aber nicht über die tatsächliche Umsetzung.
 - **[Smaller NLAs and probes read eval awareness as well as full size NLAs](https://www.lesswrong.com/posts/MQCZponFdSd7ZBXaa/smaller-nlas-and-probes-read-eval-awareness-as-well-as-full)** · lesswrong.com · 2026-10-28 · [Q000292](../../berichte/Q00/Q0002/Q000292/)
-  - Stufe 4–7: clef **20 %** · Luna **40 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **26 %** · drex **9 %**
-  - Stufe 3–7: clef **43 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **23 %** · amos **47 %** · drex **16 %**
+  - Stufe 4–7: clef **20 %** · Luna **40 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **26 %** · drex **9 %** · SubQ **2 %**
+  - Stufe 3–7: clef **43 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **23 %** · amos **47 %** · drex **16 %** · SubQ **8 %**
   - Kurzfassung: Der Bericht findet, dass ein kleiner NLA und ein günstiger linearer Probe bestimmte Hinweise auf Fehlanpassung und Evaluationsbewusstsein ähnlich gut wie große Leser erkennen, doch die Tests sind begrenzt und die Übertragbarkeit bleibt offen.
 - **[Beyond Detection: The Challenge of Governing AI Slop](https://www.orfonline.org/expert-speak/beyond-detection-the-challenge-of-governing-ai-slop)** · orfonline.org · 2026-11-06 · [Q000643](../../berichte/Q00/Q0006/Q000643/)
-  - Stufe 4–7: clef **18 %** · Luna **39 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **18 %** · drex **8 %**
-  - Stufe 3–7: clef **34 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **24 %** · amos **38 %** · drex **17 %**
+  - Stufe 4–7: clef **18 %** · Luna **39 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **18 %** · drex **8 %** · SubQ **4 %**
+  - Stufe 3–7: clef **34 %** · Luna **82 %** · d3-ultra noch nicht bewertet · JEV **24 %** · amos **38 %** · drex **17 %** · SubQ **10 %**
   - Kurzfassung: Tyagi plädiert dafür, geringwertige KI-Masseninhalte nach ihrem Gebrauch und ihren Auswirkungen zu beurteilen, da Stil-Erkennung und Kennzeichnung allein laut Beitrag nicht ausreichen.
 - **[Fostering Contractual Pathways  for Responsible AI Data and  Model Sharing for Generative AI  and Other AI Applications](https://oecd.ai/en/wonk/documents/fostering-contractual-pathways-for-responsible-ai-data-and-model-sharing-for-generative-ai-and-other-ai-applications)** · oecd.ai · 2025-05-12 · [Q004325](../../berichte/Q00/Q0043/Q004325/)
-  - Stufe 4–7: clef **39 %** · Luna **22 %** · d3-ultra **4 %** · JEV **2 %** · amos **15 %** · drex **20 %**
-  - Stufe 3–7: clef **58 %** · Luna **76 %** · d3-ultra **25 %** · JEV **33 %** · amos **36 %** · drex **42 %**
+  - Stufe 4–7: clef **39 %** · Luna **22 %** · d3-ultra **4 %** · JEV **2 %** · amos **15 %** · drex **20 %** · SubQ **3 %**
+  - Stufe 3–7: clef **58 %** · Luna **76 %** · d3-ultra **25 %** · JEV **33 %** · amos **36 %** · drex **42 %** · SubQ **15 %**
   - Kurzfassung: Der vorliegende Auszug beschreibt zwei Workshops zur Förderung standardisierter Verträge für den Austausch von KI-Daten und -Modellen, nennt aber keine Ergebnisse.
 - **[OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute](https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/)** · the-decoder.com · 2026-11-12 · [Q000306](../../berichte/Q00/Q0003/Q000306/)
-  - Stufe 4–7: clef **17 %** · Luna **39 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **16 %** · drex **11 %**
-  - Stufe 3–7: clef **40 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **33 %** · drex **20 %**
+  - Stufe 4–7: clef **17 %** · Luna **39 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **16 %** · drex **11 %** · SubQ **2 %**
+  - Stufe 3–7: clef **40 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **33 %** · drex **20 %** · SubQ **9 %**
   - Kurzfassung: OpenAI zufolge wird die Überwachung von KI-Gedankengängen durch konkrete Trainings- und Architekturentscheidungen erschwert; praktikable Kontrolle muss daher über das bloße Mitlesen sichtbarer Zwischenschritte hinausgehen.
 - **[Post by @RhysSullivan on X](https://x.com/RhysSullivan/status/2098854977414594896)** · x.com · 2026-09-12 · [Q000689](../../berichte/Q00/Q0006/Q000689/)
-  - Stufe 4–7: clef **36 %** · Luna **39 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **66 %** · drex **69 %**
-  - Stufe 3–7: clef **55 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **69 %** · amos **84 %** · drex **81 %**
+  - Stufe 4–7: clef **36 %** · Luna **39 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **66 %** · drex **69 %** · SubQ **43 %**
+  - Stufe 3–7: clef **55 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **69 %** · amos **84 %** · drex **81 %** · SubQ **63 %**
   - Kurzfassung: Sullivan sieht in Bot-Schutz und Destillationsbeschränkungen eine heuchlerische Abschottung durch KI-Labore; die begleitenden Vorwürfe und Gegenargumente bleiben im Text unbelegt.
 - **[Evolution through large models](https://openai.com/index/evolution-through-large-models/)** · openai.com · 2022-06-17 · [Q008150](../../berichte/Q00/Q0081/Q008150/)
-  - Stufe 4–7: clef **13 %** · Luna **38 %** · d3-ultra noch nicht bewertet · JEV **24 %** · amos **15 %** · drex **6 %**
-  - Stufe 3–7: clef **21 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **39 %** · amos **36 %** · drex **14 %**
+  - Stufe 4–7: clef **13 %** · Luna **38 %** · d3-ultra noch nicht bewertet · JEV **24 %** · amos **15 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **21 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **39 %** · amos **36 %** · drex **14 %** · SubQ **4 %**
   - Kurzfassung: Der vorliegende Auszug behauptet, dass große Code-Sprachmodelle genetische Programmierung für Sodarace-Roboter unterstützen können; der vollständige Bericht und prüfbare Versuchsdetails sind nicht enthalten.
 - **[GPAI Intellectual Property (IP) Primer](https://oecd.ai/en/wonk/documents/gpai-intellectual-property-ip-primer-2)** · oecd.ai · 2025-05-12 · [Q004383](../../berichte/Q00/Q0043/Q004383/)
-  - Stufe 4–7: clef **34 %** · Luna **38 %** · d3-ultra **1 %** · JEV **3 %** · amos **9 %** · drex **9 %**
-  - Stufe 3–7: clef **52 %** · Luna **76 %** · d3-ultra **18 %** · JEV **42 %** · amos **29 %** · drex **25 %**
+  - Stufe 4–7: clef **34 %** · Luna **38 %** · d3-ultra **1 %** · JEV **3 %** · amos **9 %** · drex **9 %** · SubQ **2 %**
+  - Stufe 3–7: clef **52 %** · Luna **76 %** · d3-ultra **18 %** · JEV **42 %** · amos **29 %** · drex **25 %** · SubQ **10 %**
   - Fundorte: [oecd.ai](https://oecd.ai/en/wonk/documents/gpai-intellectual-property-ip-primer-2) (Q004383) · [oecd.ai](https://oecd.ai/en/wonk/documents/gpai-intellectual-property-ip-primer) (Q004425)
   - Kurzfassung: Der vorliegende Auszug beschreibt Zielgruppe und Aufbau eines OECD-Leitfadens zu geistigem Eigentum und KI, enthält aber keine konkreten Kapitelinhalte.
 - **[Intellectual property issues in artificial intelligence trained on scraped data](https://oecd.ai/en/ai-publications/intellectual-property-issues-in-artificial-intelligence-trained-on-scraped-data)** · oecd.ai · 2025-02-25 · [Q002922](../../berichte/Q00/Q0029/Q002922/)
-  - Stufe 4–7: clef **38 %** · Luna **24 %** · d3-ultra **45 %** · JEV **9 %** · amos **28 %** · drex **35 %**
-  - Stufe 3–7: clef **58 %** · Luna **78 %** · d3-ultra **79 %** · JEV **53 %** · amos **51 %** · drex **53 %**
+  - Stufe 4–7: clef **38 %** · Luna **24 %** · d3-ultra **45 %** · JEV **9 %** · amos **28 %** · drex **35 %** · SubQ **13 %**
+  - Stufe 3–7: clef **58 %** · Luna **78 %** · d3-ultra **79 %** · JEV **53 %** · amos **51 %** · drex **53 %** · SubQ **26 %**
   - Kurzfassung: Der vorliegende Beschreibungsauszug kündigt eine weltweite Übersicht zu Scraping für KI-Trainingsdaten und den damit verbundenen Rechtefragen an, enthält aber keine konkreten Ergebnisse des vollständigen Berichts.
 - **[Anthropic Usage Policy Update: What Changes on Nov 12](https://trymorse.ai/blog/anthropic-usage-policy-update)** · trymorse.ai · 2026-11-07 · [Q000323](../../berichte/Q00/Q0003/Q000323/)
-  - Stufe 4–7: clef **16 %** · Luna **37 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **63 %** · drex **39 %**
-  - Stufe 3–7: clef **26 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **28 %** · amos **76 %** · drex **47 %**
+  - Stufe 4–7: clef **16 %** · Luna **37 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **63 %** · drex **39 %** · SubQ **15 %**
+  - Stufe 3–7: clef **26 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **28 %** · amos **76 %** · drex **47 %** · SubQ **32 %**
   - Kurzfassung: Der Bericht fasst Anthropic-Änderungen an Nutzungsregeln, Durchsetzung und Umgang mit markierten Chats zusammen und enthält zusätzlich nicht unabhängig geprüfte Datenschutzangaben des Anbieters Morse.
 - **[Delivering contextual job matching for millions with OpenAI](https://openai.com/index/indeed/)** · openai.com ·  · [Q006234](../../berichte/Q00/Q0062/Q006234/)
-  - Stufe 4–7: clef **9 %** · Luna **37 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **22 %** · drex **8 %**
-  - Stufe 3–7: clef **14 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **64 %** · amos **43 %** · drex **16 %**
+  - Stufe 4–7: clef **9 %** · Luna **37 %** · d3-ultra noch nicht bewertet · JEV **45 %** · amos **22 %** · drex **8 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **64 %** · amos **43 %** · drex **16 %** · SubQ **7 %**
   - Kurzfassung: Indeed berichtet, dass personalisierte GPT-Begründungen für Stellenempfehlungen in Tests mit mehr Bewerbungen und besseren nachgelagerten Erfolgswerten einhergingen, wobei die Fallstudie nur begrenzte Angaben zur Testmethodik macht.
 - **[Preliminary Report on Data and AI Model Licensing](https://oecd.ai/en/wonk/documents/preliminary-report-on-data-and-ai-model-licensing)** · oecd.ai · 2025-05-12 · [Q004364](../../berichte/Q00/Q0043/Q004364/)
-  - Stufe 4–7: clef **37 %** · Luna **14 %** · d3-ultra **2 %** · JEV **1 %** · amos **9 %** · drex **17 %**
-  - Stufe 3–7: clef **53 %** · Luna **50 %** · d3-ultra **26 %** · JEV **20 %** · amos **31 %** · drex **41 %**
+  - Stufe 4–7: clef **37 %** · Luna **14 %** · d3-ultra **2 %** · JEV **1 %** · amos **9 %** · drex **17 %** · SubQ **2 %**
+  - Stufe 3–7: clef **53 %** · Luna **50 %** · d3-ultra **26 %** · JEV **20 %** · amos **31 %** · drex **41 %** · SubQ **14 %**
   - Kurzfassung: Der vorliegende Auszug zufolge könnten standardisierte Datenvereinbarungen bestehende Austauschhürden mindern und Rechtssicherheit erhöhen sowie Transaktionskosten senken.
 - **[Responsible AI licenses: a practical tool for implementing the OECD Principles for Trustworthy AI](https://oecd.ai/en/wonk/rails-licenses-trustworthy-ai)** · oecd.ai · 2022-10-21 · [Q006511](../../berichte/Q00/Q0065/Q006511/)
-  - Stufe 4–7: clef **37 %** · Luna **28 %** · d3-ultra **26 %** · JEV **13 %** · amos **49 %** · drex **37 %**
-  - Stufe 3–7: clef **53 %** · Luna **81 %** · d3-ultra **52 %** · JEV **46 %** · amos **69 %** · drex **55 %**
+  - Stufe 4–7: clef **37 %** · Luna **28 %** · d3-ultra **26 %** · JEV **13 %** · amos **49 %** · drex **37 %** · SubQ **21 %**
+  - Stufe 3–7: clef **53 %** · Luna **81 %** · d3-ultra **52 %** · JEV **46 %** · amos **69 %** · drex **55 %** · SubQ **44 %**
   - Kurzfassung: Der Autor sieht RAILs als mögliches ergänzendes Mittel, offene KI-Nutzung entlang der Wertschöpfungskette an verantwortungsbezogene Bedingungen zu knüpfen, weist ihre Wirksamkeit aber nicht empirisch nach.
 - **[Drawing-up a General-Purpose AI Code of Practice](http://digital-strategy.ec.europa.eu/en/policies/ai-code-practice)** · digital-strategy.ec.europa.eu ·  · [Q001505](../../berichte/Q00/Q0015/Q001505/)
-  - Stufe 4–7: clef **17 %** · Luna **36 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **20 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **34 %** · Luna **80 %** · d3-ultra **11 %** · JEV noch nicht bewertet · amos **43 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **17 %** · Luna **36 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **20 %** · drex **17 %** · SubQ **6 %**
+  - Stufe 3–7: clef **34 %** · Luna **80 %** · d3-ultra **11 %** · JEV noch nicht bewertet · amos **43 %** · drex **37 %** · SubQ **18 %**
   - Kurzfassung: Der Bericht beschreibt den breit angelegten Prozess zur Ausarbeitung des freiwilligen GPAI-Kodex und einer Vorlage für Trainingsdaten-Zusammenfassungen, erläutert aber die konkreten Kodexregeln nicht ausführlich.
 - **[Expanded legal protections and API improvements](https://www.anthropic.com/news/expanded-legal-protections-api-improvements)** · anthropic.com · 2023-12-19 · [Q004708](../../berichte/Q00/Q0047/Q004708/)
-  - Stufe 4–7: clef **36 %** · Luna **4 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **37 %** · drex **14 %**
-  - Stufe 3–7: clef **52 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **21 %** · amos **56 %** · drex **23 %**
+  - Stufe 4–7: clef **36 %** · Luna **4 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **37 %** · drex **14 %** · SubQ **19 %**
+  - Stufe 3–7: clef **52 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **21 %** · amos **56 %** · drex **23 %** · SubQ **30 %**
   - Kurzfassung: Anthropic kündigt vertraglichen Schutz bei bestimmten Urheberrechtsansprüchen und eine neue Messages-API-Beta an, die Prompt-Eingaben strukturierter und weniger fehleranfällig machen soll.
 - **[Fine-tuning now available for GPT-4o](https://openai.com/index/gpt-4o-fine-tuning/)** · openai.com · 2024-08-20 · [Q008981](../../berichte/Q00/Q0089/Q008981/)
-  - Stufe 4–7: clef **11 %** · Luna **36 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **14 %** · drex **11 %**
-  - Stufe 3–7: clef **20 %** · Luna **75 %** · d3-ultra noch nicht bewertet · JEV **29 %** · amos **30 %** · drex **20 %**
+  - Stufe 4–7: clef **11 %** · Luna **36 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **14 %** · drex **11 %** · SubQ **7 %**
+  - Stufe 3–7: clef **20 %** · Luna **75 %** · d3-ultra noch nicht bewertet · JEV **29 %** · amos **30 %** · drex **20 %** · SubQ **16 %**
   - Kurzfassung: Der Bericht stellt GPT‑4o-Feinabstimmung und von OpenAI angeführte Benchmark-Erfolge vor, ergänzt aber, dass die Plattform 2026 für neue Nutzer geschlossen werden soll.
 - **[Frontier language models have become much smaller](https://epoch.ai/gradient-updates/frontier-language-models-have-become-much-smaller)** · epoch.ai · 2024-12-13 · [Q006574](../../berichte/Q00/Q0065/Q006574/)
-  - Stufe 4–7: clef **16 %** · Luna **36 %** · d3-ultra **2 %** · JEV **4 %** · amos **24 %** · drex **17 %**
-  - Stufe 3–7: clef **34 %** · Luna **73 %** · d3-ultra **14 %** · JEV **28 %** · amos **51 %** · drex **30 %**
+  - Stufe 4–7: clef **16 %** · Luna **36 %** · d3-ultra **2 %** · JEV **4 %** · amos **24 %** · drex **17 %** · SubQ **3 %**
+  - Stufe 3–7: clef **34 %** · Luna **73 %** · d3-ultra **14 %** · JEV **28 %** · amos **51 %** · drex **30 %** · SubQ **20 %**
   - Kurzfassung: Der Autor schätzt, dass Spitzenmodelle seit GPT‑4 deutlich kleiner wurden, erwartet aber wahrscheinlich eine Rückkehr zu mindestens GPT‑4-Größe und betont, dass die Parameterzahlen geschlossener Modelle unsicher sind.
 - **[General-Purpose AI Models in the AI Act – Questions & Answers](http://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers)** · digital-strategy.ec.europa.eu ·  · [Q002576](../../berichte/Q00/Q0025/Q002576/)
-  - Stufe 4–7: clef **20 %** · Luna **36 %** · d3-ultra **17 %** · JEV noch nicht bewertet · amos **34 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **38 %** · Luna **73 %** · d3-ultra **33 %** · JEV noch nicht bewertet · amos **58 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **20 %** · Luna **36 %** · d3-ultra **17 %** · JEV noch nicht bewertet · amos **34 %** · drex **41 %** · SubQ **17 %**
+  - Stufe 3–7: clef **38 %** · Luna **73 %** · d3-ultra **33 %** · JEV noch nicht bewertet · amos **58 %** · drex **59 %** · SubQ **36 %**
   - Kurzfassung: Der Bericht erklärt Pflichten und Ausnahmen des EU-KI-Gesetzes für allgemein verwendbare KI-Modelle und betont, dass seine Antworten unverbindliche Orientierung der Kommission sind.
 - **[On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes](https://deepmind.google/research/publications/48050/)** · deepmind.google · 2024-01-16 · [Q005394](../../berichte/Q00/Q0053/Q005394/)
-  - Stufe 4–7: clef **27 %** · Luna **36 %** · d3-ultra **1 %** · JEV **8 %** · amos **16 %** · drex **8 %**
-  - Stufe 3–7: clef **52 %** · Luna **76 %** · d3-ultra **16 %** · JEV **46 %** · amos **40 %** · drex **21 %**
+  - Stufe 4–7: clef **27 %** · Luna **36 %** · d3-ultra **1 %** · JEV **8 %** · amos **16 %** · drex **8 %** · SubQ **1 %**
+  - Stufe 3–7: clef **52 %** · Luna **76 %** · d3-ultra **16 %** · JEV **46 %** · amos **40 %** · drex **21 %** · SubQ **9 %**
   - Kurzfassung: Der vorliegende Bericht ist nur ein Abstract-Auszug: Er beschreibt GKD, das Schüler anhand selbst erzeugter Ausgaben und Lehrerfeedback trainiert, nennt Anwendungen, aber keine konkreten Ergebnisdaten.
 - **[Open vs. closed AI: How behind are open models?](https://epoch.ai/publications/open-models-report)** · epoch.ai · 2024-11-04 · [Q005049](../../berichte/Q00/Q0050/Q005049/)
-  - Stufe 4–7: clef **27 %** · Luna **36 %** · d3-ultra **57 %** · JEV **26 %** · amos **58 %** · drex **72 %**
-  - Stufe 3–7: clef **44 %** · Luna **81 %** · d3-ultra **62 %** · JEV **45 %** · amos **75 %** · drex **80 %**
+  - Stufe 4–7: clef **27 %** · Luna **36 %** · d3-ultra **57 %** · JEV **26 %** · amos **58 %** · drex **72 %** · SubQ **13 %**
+  - Stufe 3–7: clef **44 %** · Luna **81 %** · d3-ultra **62 %** · JEV **45 %** · amos **75 %** · drex **80 %** · SubQ **30 %**
   - Kurzfassung: Der bereitgestellte Quelltext enthält den Hauptteil, aber nicht die Anhänge vollständig; der Bericht schätzt den Rückstand offener KI-Modelle auf etwa ein Jahr, während Effizienz und künftige Entwicklung unsicher bleiben.
 - **[生成式人工智能服务管理暂行办法_中央网络安全和信息化委员会办公室](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)** · cac.gov.cn ·  · [Q004573](../../berichte/Q00/Q0045/Q004573/)
-  - Stufe 4–7: clef **25 %** · Luna **36 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **45 %** · drex **43 %**
-  - Stufe 3–7: clef **40 %** · Luna **74 %** · d3-ultra noch nicht bewertet · JEV **62 %** · amos **65 %** · drex **63 %**
+  - Stufe 4–7: clef **25 %** · Luna **36 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **45 %** · drex **43 %** · SubQ **15 %**
+  - Stufe 3–7: clef **40 %** · Luna **74 %** · d3-ultra noch nicht bewertet · JEV **62 %** · amos **65 %** · drex **63 %** · SubQ **35 %**
   - Kurzfassung: Der vollständige Bericht beschreibt seit August 2023 geltende chinesische Pflichten und Aufsichtsregeln für öffentlich angebotene generative KI-Dienste, ohne deren praktische Wirkung zu dokumentieren.
 - **[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)** · openai.com · 2026-09-08 · [Q007631](../../berichte/Q00/Q0076/Q007631/)
-  - Stufe 4–7: clef **22 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **46 %** · drex **23 %**
-  - Stufe 3–7: clef **38 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **56 %** · amos **65 %** · drex **34 %**
+  - Stufe 4–7: clef **22 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **46 %** · drex **23 %** · SubQ **6 %**
+  - Stufe 3–7: clef **38 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **56 %** · amos **65 %** · drex **34 %** · SubQ **14 %**
   - Kurzfassung: OpenAI zufolge hat ein internes KI-System das Navier–Stokes-Problem gelöst; der Bericht beschreibt den behaupteten Beweisweg, enthält aber keine unabhängige Bestätigung.
 - **[OpenAI study probes reasoning-trace oversight](https://casrai.org/news/openai-chain-of-thought-monitorability-training-study-2026)** · casrai.org · 2026-11-14 · [Q000317](../../berichte/Q00/Q0003/Q000317/)
-  - Stufe 4–7: clef **19 %** · Luna **35 %** · d3-ultra **1 %** · JEV **3 %** · amos **15 %** · drex **11 %**
-  - Stufe 3–7: clef **47 %** · Luna **76 %** · d3-ultra **8 %** · JEV **27 %** · amos **42 %** · drex **30 %**
+  - Stufe 4–7: clef **19 %** · Luna **35 %** · d3-ultra **1 %** · JEV **3 %** · amos **15 %** · drex **11 %** · SubQ **2 %**
+  - Stufe 3–7: clef **47 %** · Luna **76 %** · d3-ultra **8 %** · JEV **27 %** · amos **42 %** · drex **30 %** · SubQ **9 %**
   - Kurzfassung: OpenAIs Studie berichtet Veränderungen bei Reasoning-Spuren und Kontrollierbarkeit, doch die Tests zeigen nicht, dass kontrollierbarere Modelle besser ausweichen oder dass Überwachung unmöglich ist.
 - **[Post by @PreyWebthree on X](https://x.com/PreyWebthree/status/2112644460886851835)** · x.com · 2026-10-14 · [Q000734](../../berichte/Q00/Q0007/Q000734/)
-  - Stufe 4–7: clef **27 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **35 %** · drex **38 %**
-  - Stufe 3–7: clef **52 %** · Luna **87 %** · d3-ultra noch nicht bewertet · JEV **42 %** · amos **61 %** · drex **52 %**
+  - Stufe 4–7: clef **27 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **35 %** · drex **38 %** · SubQ **12 %**
+  - Stufe 3–7: clef **52 %** · Luna **87 %** · d3-ultra noch nicht bewertet · JEV **42 %** · amos **61 %** · drex **52 %** · SubQ **30 %**
   - Kurzfassung: Der Beitrag wirbt für Modell-Fingerprinting als Herkunftsnachweis für offene KI, liefert aber keine konkreten Benchmark-Ergebnisse.
 - **[Semi-supervised knowledge transfer for deep learning from private training data](https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data/)** · openai.com · 2016-10-18 · [Q008581](../../berichte/Q00/Q0085/Q008581/)
-  - Stufe 4–7: clef **23 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **30 %** · drex **16 %**
-  - Stufe 3–7: clef **36 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **53 %** · amos **52 %** · drex **33 %**
+  - Stufe 4–7: clef **23 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **30 %** · drex **16 %** · SubQ **5 %**
+  - Stufe 3–7: clef **36 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **53 %** · amos **52 %** · drex **33 %** · SubQ **14 %**
   - Kurzfassung: Nur ein Abstract-Auszug: Die Autoren behaupten, PATE könne durch verrauschte Abstimmungen getrennter Lehrermodelle ein Schülermodell mit starken Datenschutzgarantien trainieren.
 - **[Summarizing books with human feedback](https://openai.com/index/summarizing-books/)** · openai.com · 2021-09-23 · [Q008181](../../berichte/Q00/Q0081/Q008181/)
-  - Stufe 4–7: clef **9 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **6 %** · drex **7 %**
-  - Stufe 3–7: clef **15 %** · Luna **72 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **14 %** · drex **12 %**
+  - Stufe 4–7: clef **9 %** · Luna **35 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **6 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **15 %** · Luna **72 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **14 %** · drex **12 %** · SubQ **3 %**
   - Kurzfassung: OpenAI berichtet über ein Verfahren zur schrittweisen Buchzusammenfassung, das menschliche Bewertungen erleichtern soll, dessen angeführte Leistungsbelege aber nur begrenzte Zahlen enthalten.
 - **[When AI generates work, standard contractual terms can help generate value and clarity](https://oecd.ai/en/wonk/contractual-terms)** · oecd.ai · 2023-06-06 · [Q006194](../../berichte/Q00/Q0061/Q006194/)
-  - Stufe 4–7: clef **33 %** · Luna **35 %** · d3-ultra **12 %** · JEV **9 %** · amos **40 %** · drex **29 %**
-  - Stufe 3–7: clef **53 %** · Luna **85 %** · d3-ultra **45 %** · JEV **56 %** · amos **65 %** · drex **49 %**
+  - Stufe 4–7: clef **33 %** · Luna **35 %** · d3-ultra **12 %** · JEV **9 %** · amos **40 %** · drex **29 %** · SubQ **12 %**
+  - Stufe 3–7: clef **53 %** · Luna **85 %** · d3-ultra **45 %** · JEV **56 %** · amos **65 %** · drex **49 %** · SubQ **32 %**
   - Kurzfassung: Der vollständige Artikel empfiehlt gemeinsame Vertragsstandards für mehr Klarheit über KI-Ergebnisse, weist aber darauf hin, dass die Rechtslage uneinheitlich und die Standards noch zu entwickeln sind.
 - **[Does Codex Train on Your Code? OpenAI Answered That Four Different Ways in Three Days.](https://medium.com/ai-advances/does-codex-train-on-your-code-openai-answered-that-four-different-ways-in-three-days-3e32e3e6a002)** · medium.com · 2026-09-15 · [Q011003](../../berichte/Q01/Q0110/Q011003/)
-  - Stufe 4–7: clef **34 %** · Luna **16 %** · d3-ultra **56 %** · JEV **73 %** · amos **64 %** · drex **74 %**
-  - Stufe 3–7: clef **59 %** · Luna **55 %** · d3-ultra **78 %** · JEV **85 %** · amos **80 %** · drex **84 %**
+  - Stufe 4–7: clef **34 %** · Luna **16 %** · d3-ultra **56 %** · JEV **73 %** · amos **64 %** · drex **74 %** · SubQ **40 %**
+  - Stufe 3–7: clef **59 %** · Luna **55 %** · d3-ultra **78 %** · JEV **85 %** · amos **80 %** · drex **84 %** · SubQ **56 %**
   - Kurzfassung: Der Artikel sagt, OpenAIs Antworten ließen offen, ob Codex-Daten zum Training beitragen, und mahnt, die separate Trainingseinstellung für Codex-Vollumgebungen zu prüfen.
 - **[Models](https://docs.typesafe.ai/models)** · docs.typesafe.ai ·  · [Q004685](../../berichte/Q00/Q0046/Q004685/)
-  - Stufe 4–7: clef **6 %** · Luna **34 %** · d3-ultra **4 %** · JEV noch nicht bewertet · amos **10 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **10 %** · Luna **65 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **22 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **6 %** · Luna **34 %** · d3-ultra **4 %** · JEV noch nicht bewertet · amos **10 %** · drex **6 %** · SubQ **4 %**
+  - Stufe 3–7: clef **10 %** · Luna **65 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **22 %** · drex **10 %** · SubQ **10 %**
   - Kurzfassung: TypeSafes Dokumentation beschreibt Jev-Modelle, API-Nutzung und Einschränkungen; lange Kontexte sind möglich, laut Anbieter jedoch langsamer und weniger genau.
 - **[Olmo 3: The Fully-Open 7B & 32B AI Model Taking On Qwen and DeepSeek](https://medium.com/@CodeCoup/olmo-3-the-fully-open-7b-32b-ai-model-taking-on-qwen-and-deepseek-f9c579e9ca56)** · medium.com · 2025-11-22 · [Q011350](../../berichte/Q01/Q0113/Q011350/)
-  - Stufe 4–7: clef **17 %** · Luna **34 %** · d3-ultra **3 %** · JEV **13 %** · amos **18 %** · drex **11 %**
-  - Stufe 3–7: clef **37 %** · Luna **72 %** · d3-ultra **9 %** · JEV **30 %** · amos **40 %** · drex **22 %**
+  - Stufe 4–7: clef **17 %** · Luna **34 %** · d3-ultra **3 %** · JEV **13 %** · amos **18 %** · drex **11 %** · SubQ **4 %**
+  - Stufe 3–7: clef **37 %** · Luna **72 %** · d3-ultra **9 %** · JEV **30 %** · amos **40 %** · drex **22 %** · SubQ **10 %**
   - Kurzfassung: Der Bericht stellt Olmo 3 als offen dokumentierte 7B- und 32B-Modellfamilie für Assistenz, längeres Schlussfolgern und RL-Forschung vor, wobei die Leistungsangaben Behauptungen des Artikels bleiben.
 - **[From scraping to ethical sharing: Initial considerations for Virtuous Innovative Approaches and Data Use Collaboration in AI Training (VIADUCT)](https://oecd.ai/en/wonk/documents/from-scraping-to-ethical-sharing-initial-considerations-for-virtuous-innovative-approaches-and-data-use-collaboration-in-ai-training-viaduct)** · oecd.ai · 2026-02-12 · [Q002003](../../berichte/Q00/Q0020/Q002003/)
-  - Stufe 4–7: clef **18 %** · Luna **33 %** · d3-ultra **13 %** · JEV **2 %** · amos **13 %** · drex **22 %**
-  - Stufe 3–7: clef **38 %** · Luna **84 %** · d3-ultra **46 %** · JEV **38 %** · amos **34 %** · drex **37 %**
+  - Stufe 4–7: clef **18 %** · Luna **33 %** · d3-ultra **13 %** · JEV **2 %** · amos **13 %** · drex **22 %** · SubQ **7 %**
+  - Stufe 3–7: clef **38 %** · Luna **84 %** · d3-ultra **46 %** · JEV **38 %** · amos **34 %** · drex **37 %** · SubQ **20 %**
   - Kurzfassung: Der vorliegende Auszug zufolge reichen bisherige Lösungen für die rechtlich und ethisch umstrittene Beschaffung von KI-Trainingsdaten nicht aus; nötig sei eine kontextbezogene Governance.
 - **[Testimony before the U.S. Senate](https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate/)** · openai.com · 2023-06-22 · [Q008913](../../berichte/Q00/Q0089/Q008913/)
-  - Stufe 4–7: clef **9 %** · Luna **33 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **14 %** · drex **12 %**
-  - Stufe 3–7: clef **16 %** · Luna **74 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **32 %** · drex **23 %**
+  - Stufe 4–7: clef **9 %** · Luna **33 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **14 %** · drex **12 %** · SubQ **6 %**
+  - Stufe 3–7: clef **16 %** · Luna **74 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **32 %** · drex **23 %** · SubQ **18 %**
   - Kurzfassung: Altman wirbt vor dem US-Senat für KI-Sicherheitsregeln und beschreibt OpenAIs Vorteile und Schutzmaßnahmen, räumt aber Fehler und Risiken ein; seine Angaben sind nicht unabhängig geprüft.
 - **[The AI data scraping challenge:  How can we proceed responsibly?](https://oecd.ai/en/wonk/data-scraping-responsibly)** · oecd.ai · 2024-03-05 · [Q005534](../../berichte/Q00/Q0055/Q005534/)
-  - Stufe 4–7: clef **33 %** · Luna **28 %** · d3-ultra **28 %** · JEV **12 %** · amos **42 %** · drex **59 %**
-  - Stufe 3–7: clef **52 %** · Luna **83 %** · d3-ultra **61 %** · JEV **55 %** · amos **63 %** · drex **72 %**
+  - Stufe 4–7: clef **33 %** · Luna **28 %** · d3-ultra **28 %** · JEV **12 %** · amos **42 %** · drex **59 %** · SubQ **39 %**
+  - Stufe 3–7: clef **52 %** · Luna **83 %** · d3-ultra **61 %** · JEV **55 %** · amos **63 %** · drex **72 %** · SubQ **56 %**
   - Kurzfassung: Der Bericht empfiehlt, die Chancen und Risiken des KI-Datenscrapings mit einer Kombination aus Recht, Verträgen, Technik, Verhaltenskodizes und Bildung anzugehen.
 - **[The Smartest Fable 5 Tip I’ve Seen: Use It to Teach Opus 4.8 Before Pay-Per-Use Arrives](https://medium.com/coding-nexus/the-smartest-fable-5-tip-ive-seen-use-it-to-teach-opus-4-8-before-pay-per-use-arrives-64ed48661924)** · medium.com · 2026-07-04 · [Q011256](../../berichte/Q01/Q0112/Q011256/)
-  - Stufe 4–7: clef **14 %** · Luna **33 %** · d3-ultra **2 %** · JEV **38 %** · amos **10 %** · drex **7 %**
-  - Stufe 3–7: clef **25 %** · Luna **60 %** · d3-ultra **10 %** · JEV **62 %** · amos **27 %** · drex **14 %**
+  - Stufe 4–7: clef **14 %** · Luna **33 %** · d3-ultra **2 %** · JEV **38 %** · amos **10 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **25 %** · Luna **60 %** · d3-ultra **10 %** · JEV **62 %** · amos **27 %** · drex **14 %** · SubQ **9 %**
   - Kurzfassung: Der Artikel rät, Fable 5 Skills für Opus 4.8 erstellen zu lassen, behauptet mögliche Effizienzvorteile, belegt sie aber nicht.
 - **[Three challenges facing compute-based AI policies](https://epoch.ai/gradient-updates/three-issues-undermining-compute-based-ai-policies)** · epoch.ai · 2025-09-11 · [Q006848](../../berichte/Q00/Q0068/Q006848/)
-  - Stufe 4–7: clef **19 %** · Luna **33 %** · d3-ultra **6 %** · JEV **5 %** · amos **23 %** · drex **22 %**
-  - Stufe 3–7: clef **50 %** · Luna **81 %** · d3-ultra **28 %** · JEV **39 %** · amos **49 %** · drex **38 %**
+  - Stufe 4–7: clef **19 %** · Luna **33 %** · d3-ultra **6 %** · JEV **5 %** · amos **23 %** · drex **22 %** · SubQ **4 %**
+  - Stufe 3–7: clef **50 %** · Luna **81 %** · d3-ultra **28 %** · JEV **39 %** · amos **49 %** · drex **38 %** · SubQ **12 %**
   - Kurzfassung: Der bereitgestellte Auszug zufolge erfassen gängige Rechenmetriken wichtige Fähigkeitsquellen nur unvollständig; die Autoren plädieren für regelmäßige Überprüfung und ergänzende Bewertungen.
 - **[Congressman Pat Harrigan Introduces Legislation to Protect American Innovation and Strengthen Cyber Defenses](https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-introduces-legislation-protect-american-innovation)** · harrigan.house.gov · 2026-10-22 · [Q000124](../../berichte/Q00/Q0001/Q000124/)
-  - Stufe 4–7: clef **25 %** · Luna **32 %** · d3-ultra **71 %** · JEV **9 %** · amos **50 %** · drex **56 %**
-  - Stufe 3–7: clef **41 %** · Luna **74 %** · d3-ultra **81 %** · JEV **41 %** · amos **71 %** · drex **67 %**
+  - Stufe 4–7: clef **25 %** · Luna **32 %** · d3-ultra **71 %** · JEV **9 %** · amos **50 %** · drex **56 %** · SubQ **39 %**
+  - Stufe 3–7: clef **41 %** · Luna **74 %** · d3-ultra **81 %** · JEV **41 %** · amos **71 %** · drex **67 %** · SubQ **54 %**
   - Kurzfassung: Ein parteiübergreifender Gesetzentwurf soll freiwillige NIST-Standards gegen KI-Modellangriffe und einen Runden Tisch zur Stärkung der Cyberabwehr schaffen.
 - **[Fair use benefits everyone](https://openai.com/index/fair-use-benefits-everyone/)** · openai.com · 2026-10-30 · [Q003032](../../berichte/Q00/Q0030/Q003032/)
-  - Stufe 4–7: clef **28 %** · Luna **32 %** · d3-ultra noch nicht bewertet · JEV **23 %** · amos **22 %** · drex **20 %**
-  - Stufe 3–7: clef **45 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **39 %** · drex **34 %**
+  - Stufe 4–7: clef **28 %** · Luna **32 %** · d3-ultra noch nicht bewertet · JEV **23 %** · amos **22 %** · drex **20 %** · SubQ **11 %**
+  - Stufe 3–7: clef **45 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **39 %** · drex **34 %** · SubQ **23 %**
   - Kurzfassung: Der Bericht präsentiert ausgewählte Argumente zugunsten von Fair Use beim KI-Training, ohne Gegenposition oder gerichtliches Urteil.
 - **[Final training runs account for a minority of R&D compute spending](https://epoch.ai/gradient-updates/r-and-d-vs-training-compute)** · epoch.ai · 2026-03-23 · [Q006789](../../berichte/Q00/Q0067/Q006789/)
-  - Stufe 4–7: clef **24 %** · Luna **32 %** · d3-ultra **11 %** · JEV **5 %** · amos **55 %** · drex **52 %**
-  - Stufe 3–7: clef **42 %** · Luna **61 %** · d3-ultra **15 %** · JEV **14 %** · amos **75 %** · drex **62 %**
+  - Stufe 4–7: clef **24 %** · Luna **32 %** · d3-ultra **11 %** · JEV **5 %** · amos **55 %** · drex **52 %** · SubQ **9 %**
+  - Stufe 3–7: clef **42 %** · Luna **61 %** · d3-ultra **15 %** · JEV **14 %** · amos **75 %** · drex **62 %** · SubQ **18 %**
   - Kurzfassung: Der Beitrag schätzt, dass abschließende Trainingsläufe bei drei untersuchten KI-Unternehmen nur einen Minderheitsanteil der F&E-Rechenausgaben ausmachen, wobei Datenlage und Vergleichbarkeit begrenzt sind.
 - **[How do Chinese AI companies make money?](https://epoch.ai/publications/how-do-chinese-ai-companies-make-money)** · epoch.ai · 2026-10-06 · [Q004603](../../berichte/Q00/Q0046/Q004603/)
-  - Stufe 4–7: clef **29 %** · Luna **32 %** · d3-ultra **10 %** · JEV **26 %** · amos **50 %** · drex **38 %**
-  - Stufe 3–7: clef **47 %** · Luna **82 %** · d3-ultra **16 %** · JEV **45 %** · amos **69 %** · drex **50 %**
+  - Stufe 4–7: clef **29 %** · Luna **32 %** · d3-ultra **10 %** · JEV **26 %** · amos **50 %** · drex **38 %** · SubQ **6 %**
+  - Stufe 3–7: clef **47 %** · Luna **82 %** · d3-ultra **16 %** · JEV **45 %** · amos **69 %** · drex **50 %** · SubQ **14 %**
   - Kurzfassung: Chinesische KI-Anbieter monetarisieren Modelle über Apps, APIs, Unternehmenskunden und Lizenzen, während vor allem Alibaba und ByteDance zusätzlich von Cloud und Werbung profitieren können – doch zentrale Margen und Umsatzanteile bleiben teils unklar.
 - **[METR’s GPT-4.5 pre-deployment evaluations](https://metr.org/blog/2025-02-27-gpt-4-5-evals/)** · metr.org · 2025-02-27 · [Q002575](../../berichte/Q00/Q0025/Q002575/)
-  - Stufe 4–7: clef **11 %** · Luna **32 %** · d3-ultra **1 %** · JEV **11 %** · amos **17 %** · drex **9 %**
-  - Stufe 3–7: clef **23 %** · Luna **79 %** · d3-ultra **5 %** · JEV **24 %** · amos **38 %** · drex **16 %**
+  - Stufe 4–7: clef **11 %** · Luna **32 %** · d3-ultra **1 %** · JEV **11 %** · amos **17 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **23 %** · Luna **79 %** · d3-ultra **5 %** · JEV **24 %** · amos **38 %** · drex **16 %** · SubQ **7 %**
   - Kurzfassung: METRs vorläufige Tests ordnen GPT-4.5 zwischen GPT-4o und o1 ein, schließen große Risiken aber nicht aus; der bereitgestellte Auszug ist am Ende abgeschnitten.
 - **[The least understood driver of AI progress](https://epoch.ai/gradient-updates/the-least-understood-driver-of-ai-progress)** · epoch.ai · 2026-02-25 · [Q006825](../../berichte/Q00/Q0068/Q006825/)
-  - Stufe 4–7: clef **17 %** · Luna **32 %** · d3-ultra **5 %** · JEV **4 %** · amos **31 %** · drex **23 %**
-  - Stufe 3–7: clef **40 %** · Luna **69 %** · d3-ultra **11 %** · JEV **17 %** · amos **58 %** · drex **38 %**
+  - Stufe 4–7: clef **17 %** · Luna **32 %** · d3-ultra **5 %** · JEV **4 %** · amos **31 %** · drex **23 %** · SubQ **2 %**
+  - Stufe 3–7: clef **40 %** · Luna **69 %** · d3-ultra **11 %** · JEV **17 %** · amos **58 %** · drex **38 %** · SubQ **8 %**
   - Kurzfassung: Ho hält schnellen KI-Softwarefortschritt für plausibel, betont aber, dass unklare Datenlage, bessere Trainingsdaten und die Abhängigkeit von größerem Compute sowohl die Messungen als auch Prognosen einer möglichen KI-Forschungsbeschleunigung unsicher machen.
 - **[We need 3rd party Training-Run Evaluations](https://apolloresearch.ai/science/we-need-3rd-party-training-run-evaluations)** · apolloresearch.ai ·  · [Q001040](../../berichte/Q00/Q0010/Q001040/)
-  - Stufe 4–7: clef **12 %** · Luna **32 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **14 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **24 %** · Luna **73 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **32 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **12 %** · Luna **32 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **14 %** · drex **11 %** · SubQ **2 %**
+  - Stufe 3–7: clef **24 %** · Luna **73 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **32 %** · drex **20 %** · SubQ **7 %**
   - Kurzfassung: Apollo Research plädiert für unabhängige, schrittweise aufgebaute Prüfungen von KI-Trainingsläufen, um mögliche Risiken zu erkennen, die Tests am fertigen Modell übersehen könnten.
 - **[Amazon Nova Reel - AWS AI Service Cards](https://docs.aws.amazon.com/ai/responsible-ai/nova-reel/overview.html)** · docs.aws.amazon.com · 2025-07-16 · [Q004873](../../berichte/Q00/Q0048/Q004873/)
-  - Stufe 4–7: clef **22 %** · Luna **31 %** · d3-ultra **6 %** · JEV **28 %** · amos **29 %** · drex **21 %**
-  - Stufe 3–7: clef **33 %** · Luna **68 %** · d3-ultra **9 %** · JEV **51 %** · amos **50 %** · drex **31 %**
+  - Stufe 4–7: clef **22 %** · Luna **31 %** · d3-ultra **6 %** · JEV **28 %** · amos **29 %** · drex **21 %** · SubQ **9 %**
+  - Stufe 3–7: clef **33 %** · Luna **68 %** · d3-ultra **9 %** · JEV **51 %** · amos **50 %** · drex **31 %** · SubQ **18 %**
   - Kurzfassung: AWS zufolge erzeugt Nova Reel Videos aus englischen Prompts und optionalen Bildern, doch Ergebnisse können fehlerhaft oder ungeeignet sein und müssen für jeden Einsatzfall geprüft werden.
 - **[Artificial intelligence and intellectual property: Navigating the challenges of data scraping](https://oecd.ai/en/wonk/ip-data-scraping)** · oecd.ai · 2025-02-14 · [Q004465](../../berichte/Q00/Q0044/Q004465/)
-  - Stufe 4–7: clef **31 %** · Luna **24 %** · d3-ultra **39 %** · JEV **6 %** · amos **35 %** · drex **35 %**
-  - Stufe 3–7: clef **51 %** · Luna **80 %** · d3-ultra **71 %** · JEV **38 %** · amos **57 %** · drex **53 %**
+  - Stufe 4–7: clef **31 %** · Luna **24 %** · d3-ultra **39 %** · JEV **6 %** · amos **35 %** · drex **35 %** · SubQ **24 %**
+  - Stufe 3–7: clef **51 %** · Luna **80 %** · d3-ultra **71 %** · JEV **38 %** · amos **57 %** · drex **53 %** · SubQ **43 %**
   - Kurzfassung: Ein OECD-Beitrag stellt GPAI-Vorschläge vor, um KI-Data-Scraping mit Schutzrechten in Einklang zu bringen, darunter freiwillige Regeln, technische Werkzeuge, Musterverträge und Aufklärung.
 - **[From co-generated data to generative AI](https://oecd.ai/en/wonk/documents/from-co-generated-data-to-generative-ai)** · oecd.ai · 2024-12-04 · [Q004908](../../berichte/Q00/Q0049/Q004908/)
-  - Stufe 4–7: clef **31 %** · Luna **15 %** · d3-ultra **7 %** · JEV **6 %** · amos **31 %** · drex **24 %**
-  - Stufe 3–7: clef **52 %** · Luna **78 %** · d3-ultra **30 %** · JEV **58 %** · amos **59 %** · drex **47 %**
+  - Stufe 4–7: clef **31 %** · Luna **15 %** · d3-ultra **7 %** · JEV **6 %** · amos **31 %** · drex **24 %** · SubQ **4 %**
+  - Stufe 3–7: clef **52 %** · Luna **78 %** · d3-ultra **30 %** · JEV **58 %** · amos **59 %** · drex **47 %** · SubQ **17 %**
   - Kurzfassung: Der Bericht sieht bei gemeinsam erzeugten Daten ein komplexes, lückenhaftes Rechtegefüge und fordert weitere Forschung, besonders zu generativer KI.
 - **[Frontier Risk Report (February to March 2026)](https://metr.org/blog/2026-05-19-frontier-risk-report/)** · metr.org · 2026-05-19 · [Q001569](../../berichte/Q00/Q0015/Q001569/)
-  - Stufe 4–7: clef **14 %** · Luna **31 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **21 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **23 %** · Luna **81 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **42 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **14 %** · Luna **31 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **21 %** · drex noch nicht bewertet · SubQ **5 %**
+  - Stufe 3–7: clef **23 %** · Luna **81 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **42 %** · drex noch nicht bewertet · SubQ **11 %**
   - Kurzfassung: METR sah im Pilotprojekt die Möglichkeit kleiner Rogue Deployments, aber keine beobachtete Fähigkeit, größere Vorhaben vor aktiver Untersuchung zu verbergen; Täuschung und Überwachungslücken bleiben relevante, nur begrenzt gemessene Risiken.
 - **[Fundamental limitations in defending LLM finetuning APIs](https://www.aisi.gov.uk/research/fundamental-limitations-in-defending-llm-finetuning-apis-2)** · aisi.gov.uk · 2025-02-20 · [Q002698](../../berichte/Q00/Q0026/Q002698/)
-  - Stufe 4–7: clef **28 %** · Luna **31 %** · d3-ultra noch nicht bewertet · JEV **65 %** · amos **49 %** · drex **34 %**
-  - Stufe 3–7: clef **42 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **80 %** · amos **69 %** · drex **51 %**
+  - Stufe 4–7: clef **28 %** · Luna **31 %** · d3-ultra noch nicht bewertet · JEV **65 %** · amos **49 %** · drex **34 %** · SubQ **7 %**
+  - Stufe 3–7: clef **42 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **80 %** · amos **69 %** · drex **51 %** · SubQ **18 %**
   - Kurzfassung: Der bereitgestellte Auszug berichtet, dass einzeln harmlose Beispiele laut den Forschenden gefährliches Wissen in Fine-Tuning-Angriffe einschleusen können, die punktweise Prüfungen umgehen.
 - **[Introducing the Realtime API](https://openai.com/index/introducing-the-realtime-api/)** · openai.com · 2024-10-01 · [Q008921](../../berichte/Q00/Q0089/Q008921/)
-  - Stufe 4–7: clef **17 %** · Luna **31 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **41 %** · drex **39 %**
-  - Stufe 3–7: clef **24 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **61 %** · amos **58 %** · drex **50 %**
+  - Stufe 4–7: clef **17 %** · Luna **31 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **41 %** · drex **39 %** · SubQ **11 %**
+  - Stufe 3–7: clef **24 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **61 %** · amos **58 %** · drex **50 %** · SubQ **24 %**
   - Kurzfassung: Der Bericht schildert OpenAIs Einführung und Weiterentwicklung einer API für direkte GPT‑4o-Sprachgespräche; Beta-Preise, frühe Beispiele und Sicherheitsangaben sind zeitgebunden und überwiegend vom Unternehmen berichtet.
 - **[Train once, deploy many: AI and increasing returns](https://epoch.ai/publications/train-once-deploy-many-ai-and-increasing-returns)** · epoch.ai · 2025-03-07 · [Q005448](../../berichte/Q00/Q0054/Q005448/)
-  - Stufe 4–7: clef **15 %** · Luna **31 %** · d3-ultra **0 %** · JEV **0 %** · amos **10 %** · drex **6 %**
-  - Stufe 3–7: clef **34 %** · Luna **67 %** · d3-ultra **1 %** · JEV **11 %** · amos **25 %** · drex **15 %**
+  - Stufe 4–7: clef **15 %** · Luna **31 %** · d3-ultra **0 %** · JEV **0 %** · amos **10 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **34 %** · Luna **67 %** · d3-ultra **1 %** · JEV **11 %** · amos **25 %** · drex **15 %** · SubQ **7 %**
   - Kurzfassung: Der Bericht leitet aus dem vielfachen Einsatz trainierter KI-Modelle mögliche steigende Skalenerträge ab, weist aber auf einen begrenzten Trainings-Inferenz-Tausch, unrealistische Modellannahmen und unvollständig überlieferte Formeln und Abbildungen hin.
 - **[04 – From co-generated data to generative AI New rights and governance models in digital](https://oecd.ai/en/wonk/documents/04-from-co-generated-data-to-generative-ai-new-rights-and-governance-models-in-digital)** · oecd.ai · 2024-12-03 · [Q004922](../../berichte/Q00/Q0049/Q004922/)
-  - Stufe 4–7: clef **30 %** · Luna **22 %** · d3-ultra **9 %** · JEV **8 %** · amos **28 %** · drex **19 %**
-  - Stufe 3–7: clef **51 %** · Luna **96 %** · d3-ultra **35 %** · JEV **61 %** · amos **56 %** · drex **40 %**
+  - Stufe 4–7: clef **30 %** · Luna **22 %** · d3-ultra **9 %** · JEV **8 %** · amos **28 %** · drex **19 %** · SubQ **3 %**
+  - Stufe 3–7: clef **51 %** · Luna **96 %** · d3-ultra **35 %** · JEV **61 %** · amos **56 %** · drex **40 %** · SubQ **17 %**
   - Kurzfassung: Der Berichtsauszug kommt zu dem Schluss, dass Rechte bei gemeinsam erzeugten Daten und KI-Werken komplex und lückenhaft sind und weiter erforscht werden müssen.
 - **[EmbeddingGemma: Powerful and Lightweight Text Representations](https://deepmind.google/research/publications/194199/)** · deepmind.google · 2025-09-24 · [Q006065](../../berichte/Q00/Q0060/Q006065/)
-  - Stufe 4–7: clef **16 %** · Luna **30 %** · d3-ultra **2 %** · JEV **29 %** · amos **17 %** · drex **9 %**
-  - Stufe 3–7: clef **27 %** · Luna **53 %** · d3-ultra **7 %** · JEV **45 %** · amos **36 %** · drex **20 %**
+  - Stufe 4–7: clef **16 %** · Luna **30 %** · d3-ultra **2 %** · JEV **29 %** · amos **17 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **27 %** · Luna **53 %** · d3-ultra **7 %** · JEV **45 %** · amos **36 %** · drex **20 %** · SubQ **5 %**
   - Kurzfassung: Der Auszug stellt EmbeddingGemma als kleines offenes Embedding-Modell mit laut Abstract Spitzenresultaten vor, enthält aber keine konkreten Benchmarkzahlen.
 - **[How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer/)** · openai.com · 2026-09-14 · [Q005348](../../berichte/Q00/Q0053/Q005348/)
-  - Stufe 4–7: clef **10 %** · Luna **30 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **13 %** · drex **10 %**
-  - Stufe 3–7: clef **17 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **31 %** · drex **19 %**
+  - Stufe 4–7: clef **10 %** · Luna **30 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **13 %** · drex **10 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **31 %** · drex **19 %** · SubQ **5 %**
   - Kurzfassung: Laut einer OpenAI-Fallstudie kombiniert Fyxer spezialisierte KI-Modelle mit Assistenz-Arbeitsabläufen und Nutzerfeedback; die berichteten Erfolgskennzahlen sind Unternehmensangaben und nicht unabhängig überprüft.
 - **[LFM2 Breakthrough: Small Models That Outrun Giants on Phones and Laptops](https://medium.com/coding-nexus/lfm2-breakthrough-small-models-that-outrun-giants-on-phones-and-laptops-e61813543cd8)** · medium.com · 2025-12-07 · [Q011340](../../berichte/Q01/Q0113/Q011340/)
-  - Stufe 4–7: clef **16 %** · Luna **30 %** · d3-ultra **0 %** · JEV **5 %** · amos **13 %** · drex **7 %**
-  - Stufe 3–7: clef **32 %** · Luna **86 %** · d3-ultra **4 %** · JEV **18 %** · amos **36 %** · drex **19 %**
+  - Stufe 4–7: clef **16 %** · Luna **30 %** · d3-ultra **0 %** · JEV **5 %** · amos **13 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **32 %** · Luna **86 %** · d3-ultra **4 %** · JEV **18 %** · amos **36 %** · drex **19 %** · SubQ **9 %**
   - Kurzfassung: Der Bericht zufolge ist LFM2 eine auf lokale Geräte zugeschnittene Modellfamilie, deren behauptete Geschwindigkeitsvorteile nur auf hochrangig beschriebenen Tests beruhen.
 - **[Mu-ming Poo: The Scientists Most Needed Today are Those Who are “Driven to Catch Big Fish,” Not Those Who Only Care About “Fishing for the Joy of it”](https://cset.georgetown.edu/publication/mu-ming-poo-interview-deepseek/)** · cset.georgetown.edu · 2025-09-10 · [Q002413](../../berichte/Q00/Q0024/Q002413/)
-  - Stufe 4–7: clef **9 %** · Luna **30 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **7 %**
-  - Stufe 3–7: clef **17 %** · Luna **58 %** · d3-ultra **5 %** · JEV **3 %** · amos **29 %** · drex **15 %**
+  - Stufe 4–7: clef **9 %** · Luna **30 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **58 %** · d3-ultra **5 %** · JEV **3 %** · amos **29 %** · drex **15 %** · SubQ **8 %**
   - Kurzfassung: Der Auszug schildert Poos Lob für DeepSeeks effiziente Weiterentwicklung vorhandener KI-Ansätze und enthält nur den Anfang des Interviews; der Rest wird als PDF angeboten.
 - **[Soon, We May No Longer Need Humans to Train AI Models](https://frank-andrade.medium.com/soon-we-may-no-longer-need-humans-to-train-ai-models-51606ee95e28)** · frank-andrade.medium.com · 2025-05-14 · [Q009844](../../berichte/Q00/Q0098/Q009844/)
-  - Stufe 4–7: clef **11 %** · Luna **30 %** · d3-ultra **0 %** · JEV **6 %** · amos **8 %** · drex **5 %**
-  - Stufe 3–7: clef **31 %** · Luna **70 %** · d3-ultra **3 %** · JEV **18 %** · amos **20 %** · drex **10 %**
+  - Stufe 4–7: clef **11 %** · Luna **30 %** · d3-ultra **0 %** · JEV **6 %** · amos **8 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **31 %** · Luna **70 %** · d3-ultra **3 %** · JEV **18 %** · amos **20 %** · drex **10 %** · SubQ **4 %**
   - Kurzfassung: Der Artikel beschreibt AZR als vielversprechendes selbsttrainierendes KI-Verfahren mit berichteten Leistungsgewinnen, aber auch Sicherheitsbedenken und offenen Grenzen.
 
 ### Übrige Berichte (252 Berichte)
 
 - **[Aligning language models to follow instructions](https://openai.com/index/instruction-following/)** · openai.com · 2022-01-27 · [Q007236](../../berichte/Q00/Q0072/Q007236/)
-  - Stufe 4–7: clef **10 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **9 %** · drex **6 %**
-  - Stufe 3–7: clef **19 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **17 %** · amos **24 %** · drex **10 %**
+  - Stufe 4–7: clef **10 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **9 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **17 %** · amos **24 %** · drex **10 %** · SubQ **4 %**
   - Kurzfassung: Laut OpenAI verbessert menschliches Feedback bei InstructGPT die Befolgung von Anweisungen und mehrere Sicherheitsmaße, doch bleiben Fehlverhalten, Verzerrungen und unsichere Antworten ungelöst.
 - **[Artificial Intelligence Law of the People’s Republic of China (Draft for Suggestions from Scholars)](https://cset.georgetown.edu/publication/china-ai-law-draft/)** · cset.georgetown.edu · 2024-05-02 · [Q003360](../../berichte/Q00/Q0033/Q003360/)
-  - Stufe 4–7: clef **29 %** · Luna **25 %** · d3-ultra **33 %** · JEV **17 %** · amos **31 %** · drex **27 %**
-  - Stufe 3–7: clef **47 %** · Luna **66 %** · d3-ultra **48 %** · JEV **40 %** · amos **55 %** · drex **44 %**
+  - Stufe 4–7: clef **29 %** · Luna **25 %** · d3-ultra **33 %** · JEV **17 %** · amos **31 %** · drex **27 %** · SubQ **19 %**
+  - Stufe 3–7: clef **47 %** · Luna **66 %** · d3-ultra **48 %** · JEV **40 %** · amos **55 %** · drex **44 %** · SubQ **40 %**
   - Kurzfassung: Der vorliegende Auszug eines chinesischen KI-Gesetzentwurfs beschreibt Ziele, Geltungsbereich und ethische Grundsätze bis Artikel 3; die weitergehenden Angaben zu Haftung und geistigem Eigentum bleiben hier unbelegt.
 - **[Constitutional AI: Harmlessness from AI feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback)** · anthropic.com · 2022-12-15 · [Q004894](../../berichte/Q00/Q0048/Q004894/)
-  - Stufe 4–7: clef **9 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **28 %** · amos **10 %** · drex **7 %**
-  - Stufe 3–7: clef **18 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **48 %** · amos **26 %** · drex **13 %**
+  - Stufe 4–7: clef **9 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **28 %** · amos **10 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **48 %** · amos **26 %** · drex **13 %** · SubQ **4 %**
   - Kurzfassung: Der Abstract beschreibt Anthropics Training eines laut Unternehmen harmlosen, weniger ausweichenden Assistenten mit Regeln und KI-Feedback; der vollständige Bericht liegt hier nicht vor.
 - **[How persistent is the inference cost burden?](https://epoch.ai/gradient-updates/how-persistent-is-the-inference-cost-burden)** · epoch.ai · 2026-02-16 · [Q006686](../../berichte/Q00/Q0066/Q006686/)
-  - Stufe 4–7: clef **12 %** · Luna **29 %** · d3-ultra **0 %** · JEV **0 %** · amos **12 %** · drex **7 %**
-  - Stufe 3–7: clef **31 %** · Luna **78 %** · d3-ultra **2 %** · JEV **3 %** · amos **32 %** · drex **16 %**
+  - Stufe 4–7: clef **12 %** · Luna **29 %** · d3-ultra **0 %** · JEV **0 %** · amos **12 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **31 %** · Luna **78 %** · d3-ultra **2 %** · JEV **3 %** · amos **32 %** · drex **16 %** · SubQ **11 %**
   - Kurzfassung: Der Beitrag argumentiert, dass sinkende Inferenzkosten die Kostenlast von KI-Fortschritt abmildern könnten, während Ords Schätzung zu den Erträgen von RL wegen dünner Datenlage unsicher bleibt.
 - **[Improving Code Generation by Training with Natural Language Feedback](https://www.far.ai/research/improving-code-generation-by-training-with-natural-language-feedback)** · far.ai · 2026-07-13 · [Q001913](../../berichte/Q00/Q0019/Q001913/)
-  - Stufe 4–7: clef **7 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **7 %** · drex **4 %**
-  - Stufe 3–7: clef **12 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **15 %** · drex **9 %**
+  - Stufe 4–7: clef **7 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **7 %** · drex **4 %** · SubQ **0 %**
+  - Stufe 3–7: clef **12 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **15 %** · drex **9 %** · SubQ **2 %**
   - Kurzfassung: Laut dem vorliegenden Abstract verbessert ILF mit menschlichem Sprachfeedback beim Training die Codegenerierung von Codegen-Mono 6.1B auf MBPP; der Quelltext ist nur ein Auszug und erlaubt keine weitergehende Einschätzung der Grenzen.
 - **[Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/)** · openai.com · 2025-08-05 · [Q007308](../../berichte/Q00/Q0073/Q007308/)
-  - Stufe 4–7: clef **13 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **18 %** · drex **11 %**
-  - Stufe 3–7: clef **21 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **35 %** · drex **22 %**
+  - Stufe 4–7: clef **13 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **18 %** · drex **11 %** · SubQ **7 %**
+  - Stufe 3–7: clef **21 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **35 %** · drex **22 %** · SubQ **13 %**
   - Kurzfassung: OpenAI veröffentlicht zwei offene Mixture-of-Experts-Sprachmodelle und behauptet starke Benchmark- und Werkzeugleistungen bei lokalem Betrieb; die im Bericht genannten Leistungs- und Sicherheitsbefunde sind Anbieterangaben.
 - **[OpenAI API](https://openai.com/index/openai-api/)** · openai.com · 2020-06-11 · [Q007170](../../berichte/Q00/Q0071/Q007170/)
-  - Stufe 4–7: clef **10 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **12 %** · drex **9 %**
-  - Stufe 3–7: clef **17 %** · Luna **67 %** · d3-ultra noch nicht bewertet · JEV **40 %** · amos **28 %** · drex **16 %**
+  - Stufe 4–7: clef **10 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **12 %** · drex **9 %** · SubQ **6 %**
+  - Stufe 3–7: clef **17 %** · Luna **67 %** · d3-ultra noch nicht bewertet · JEV **40 %** · amos **28 %** · drex **16 %** · SubQ **15 %**
   - Kurzfassung: Der Beitrag von 2020 beschreibt OpenAIs API-Pläne für zugängliche Textgenerierung mit kontrolliertem Zugang, räumt Risiken wie Missbrauch und Verzerrungen ein und liefert keinen unabhängigen Wirksamkeitsnachweis.
 - **[Partnership with Axel Springer to deepen beneficial use of AI in journalism](https://openai.com/index/axel-springer-partnership/)** · openai.com · 2023-12-13 · [Q009131](../../berichte/Q00/Q0091/Q009131/)
-  - Stufe 4–7: clef **17 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **18 %** · drex **11 %**
-  - Stufe 3–7: clef **29 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **36 %** · drex **24 %**
+  - Stufe 4–7: clef **17 %** · Luna **29 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **18 %** · drex **11 %** · SubQ **3 %**
+  - Stufe 3–7: clef **29 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **36 %** · drex **24 %** · SubQ **10 %**
   - Kurzfassung: OpenAI und Axel Springer planen Nachrichten-Zusammenfassungen in ChatGPT sowie die Nutzung von Verlagsinhalten für OpenAI-Modelle; konkrete Umsetzung und Wirkung bleiben im Bericht offen.
 - **[BigCode: toward open AI governance processes in LLMs for coding](https://oecd.ai/en/wonk/bigcode)** · oecd.ai · 2023-08-08 · [Q006044](../../berichte/Q00/Q0060/Q006044/)
-  - Stufe 4–7: clef **28 %** · Luna **27 %** · d3-ultra **26 %** · JEV **10 %** · amos **38 %** · drex **44 %**
-  - Stufe 3–7: clef **44 %** · Luna **81 %** · d3-ultra **40 %** · JEV **31 %** · amos **59 %** · drex **62 %**
+  - Stufe 4–7: clef **28 %** · Luna **27 %** · d3-ultra **26 %** · JEV **10 %** · amos **38 %** · drex **44 %** · SubQ **26 %**
+  - Stufe 3–7: clef **44 %** · Luna **81 %** · d3-ultra **40 %** · JEV **31 %** · amos **59 %** · drex **62 %** · SubQ **48 %**
   - Kurzfassung: BigCode verbindet laut Bericht offene Entwicklung von Code-Sprachmodellen mit Opt-out, Datenschutz, Herkunftssuche, Emissionsangaben und einer Lizenz mit Nutzungsauflagen.
 - **[Finding GPT-4’s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)** · openai.com · 2024-06-27 · [Q007243](../../berichte/Q00/Q0072/Q007243/)
-  - Stufe 4–7: clef **11 %** · Luna **28 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **10 %** · drex **6 %**
-  - Stufe 3–7: clef **22 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **41 %** · amos **24 %** · drex **12 %**
+  - Stufe 4–7: clef **11 %** · Luna **28 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **10 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **22 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **41 %** · amos **24 %** · drex **12 %** · SubQ **4 %**
   - Kurzfassung: CriticGPT soll die menschliche Prüfung von ChatGPT-Code verbessern, zeigt laut Bericht vielversprechende Vergleichsergebnisse, bleibt aber bei Halluzinationen, langen und komplexen Aufgaben begrenzt.
 - **[How can standard contract terms advance responsible AI data and model sharing for generative AI and other applications?](https://oecd.ai/en/wonk/how-can-standard-contract-terms-advance-responsible-ai-data-and-model-sharing-for-generative-ai-and-other-applications)** · oecd.ai · 2023-12-08 · [Q005147](../../berichte/Q00/Q0051/Q005147/)
-  - Stufe 4–7: clef **24 %** · Luna **28 %** · d3-ultra **22 %** · JEV **6 %** · amos **35 %** · drex **39 %**
-  - Stufe 3–7: clef **52 %** · Luna **86 %** · d3-ultra **50 %** · JEV **47 %** · amos **61 %** · drex **58 %**
+  - Stufe 4–7: clef **24 %** · Luna **28 %** · d3-ultra **22 %** · JEV **6 %** · amos **35 %** · drex **39 %** · SubQ **16 %**
+  - Stufe 3–7: clef **52 %** · Luna **86 %** · d3-ultra **50 %** · JEV **47 %** · amos **61 %** · drex **58 %** · SubQ **36 %**
   - Kurzfassung: Der Beitrag sieht in Standardverträgen ein mögliches Hilfsmittel für verantwortungsvollen KI-Datenaustausch, betont aber, dass sie allein nicht genügen und ihre Entwicklung noch früh ist.
 - **[OpenAI Scholars 2019: Final projects](https://openai.com/index/openai-scholars-2019-final-projects/)** · openai.com · 2019-05-23 · [Q008364](../../berichte/Q00/Q0083/Q008364/)
-  - Stufe 4–7: clef **15 %** · Luna **28 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **14 %** · drex **4 %**
-  - Stufe 3–7: clef **26 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **35 %** · drex **11 %**
+  - Stufe 4–7: clef **15 %** · Luna **28 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **14 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **26 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **35 %** · drex **11 %** · SubQ **6 %**
   - Kurzfassung: OpenAI stellt acht Scholars-Projekte zu maschinellem Lernen vor und berichtet über vielversprechende Ergebnisse, die der Artikel jedoch nicht unabhängig überprüft.
 - **[Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2611.02746)** · arxiv.org ·  · [Q000394](../../berichte/Q00/Q0003/Q000394/)
-  - Stufe 4–7: clef **21 %** · Luna **28 %** · d3-ultra **0 %** · JEV **10 %** · amos **11 %** · drex **7 %**
-  - Stufe 3–7: clef **42 %** · Luna **66 %** · d3-ultra **4 %** · JEV **34 %** · amos **31 %** · drex **17 %**
+  - Stufe 4–7: clef **21 %** · Luna **28 %** · d3-ultra **0 %** · JEV **10 %** · amos **11 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **42 %** · Luna **66 %** · d3-ultra **4 %** · JEV **34 %** · amos **31 %** · drex **17 %** · SubQ **7 %**
   - Kurzfassung: Der vorliegende Abstract-Auszug berichtet, dass Replay mit dem vorherigen Student beim fortlaufenden Lernen weitgehend die Leistung gemeinsamer Destillation erreichen kann, ohne frühere Experten oder Zwischenstände zu speichern.
 - **[The limited benefit of recycling foundation models](https://epoch.ai/publications/the-limited-benefit-of-recycling-foundation-models)** · epoch.ai · 2023-07-07 · [Q005271](../../berichte/Q00/Q0052/Q005271/)
-  - Stufe 4–7: clef **26 %** · Luna **28 %** · d3-ultra **1 %** · JEV **6 %** · amos **16 %** · drex **8 %**
-  - Stufe 3–7: clef **45 %** · Luna **70 %** · d3-ultra **12 %** · JEV **29 %** · amos **38 %** · drex **17 %**
+  - Stufe 4–7: clef **26 %** · Luna **28 %** · d3-ultra **1 %** · JEV **6 %** · amos **16 %** · drex **8 %** · SubQ **1 %**
+  - Stufe 3–7: clef **45 %** · Luna **70 %** · d3-ultra **12 %** · JEV **29 %** · amos **38 %** · drex **17 %** · SubQ **8 %**
   - Kurzfassung: Laut Bericht ist das Einsparpotenzial durch wiederverwendete Foundation Models in vereinfachten Modellen begrenzt und kann bei übernommenen alten Architekturen durch algorithmischen Fortschritt geschmälert werden.
 - **[Why policymakers worldwide must prioritise security for AI](https://oecd.ai/en/wonk/policymakers-prioritise-security)** · oecd.ai · 2023-10-05 · [Q005571](../../berichte/Q00/Q0055/Q005571/)
-  - Stufe 4–7: clef **15 %** · Luna **28 %** · d3-ultra **2 %** · JEV **3 %** · amos **16 %** · drex **10 %**
-  - Stufe 3–7: clef **28 %** · Luna **74 %** · d3-ultra **7 %** · JEV **23 %** · amos **33 %** · drex **17 %**
+  - Stufe 4–7: clef **15 %** · Luna **28 %** · d3-ultra **2 %** · JEV **3 %** · amos **16 %** · drex **10 %** · SubQ **4 %**
+  - Stufe 3–7: clef **28 %** · Luna **74 %** · d3-ultra **7 %** · JEV **23 %** · amos **33 %** · drex **17 %** · SubQ **12 %**
   - Kurzfassung: Der Beitrag fordert, KI-Sicherheit wegen vielfältiger Angriffsrisiken stärker in Regulierung und Praxis zu verankern, räumt aber ein, dass Abwehr schwierig bleibt.
 - **[Article 53: Obligations for Providers of General-Purpose AI Models | EU Artificial Intelligence Act](https://artificialintelligenceact.eu/article/53/)** · artificialintelligenceact.eu ·  · [Q004524](../../berichte/Q00/Q0045/Q004524/)
-  - Stufe 4–7: clef **27 %** · Luna **27 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **29 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **45 %** · Luna **68 %** · d3-ultra **18 %** · JEV noch nicht bewertet · amos **50 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **27 %** · Luna **27 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **29 %** · drex **19 %** · SubQ **13 %**
+  - Stufe 3–7: clef **45 %** · Luna **68 %** · d3-ultra **18 %** · JEV noch nicht bewertet · amos **50 %** · drex **36 %** · SubQ **28 %**
   - Kurzfassung: Artikel 53 sieht Dokumentations-, Informations-, Urheberrechts- und Kooperationspflichten für Anbieter allgemeiner KI-Modelle vor, mit einer begrenzten Ausnahme für bestimmte quelloffene Modelle ohne systemische Risiken.
 - **[Guidelines for Scraping or Collecting Publicly Accessible Data](https://oecd.ai/en/wonk/documents/guidelines-for-scraping-or-collecting-publicly-accessible-data-2)** · oecd.ai · 2025-05-12 · [Q004349](../../berichte/Q00/Q0043/Q004349/)
-  - Stufe 4–7: clef **27 %** · Luna **25 %** · d3-ultra **29 %** · JEV **10 %** · amos **23 %** · drex **22 %**
-  - Stufe 3–7: clef **43 %** · Luna **79 %** · d3-ultra **60 %** · JEV **43 %** · amos **47 %** · drex **40 %**
+  - Stufe 4–7: clef **27 %** · Luna **25 %** · d3-ultra **29 %** · JEV **10 %** · amos **23 %** · drex **22 %** · SubQ **8 %**
+  - Stufe 3–7: clef **43 %** · Luna **79 %** · d3-ultra **60 %** · JEV **43 %** · amos **47 %** · drex **40 %** · SubQ **17 %**
   - Kurzfassung: Der vorliegende Auszug skizziert unterschiedliche nationale Urheberrechtsregeln für Webscraping und kündigt dazu Empfehlungen an, enthält aber nicht den vollständigen Leitfaden.
 - **[Has DeepSeek Burst the AI Bubble or Just Raised the Stakes?](https://frank-andrade.medium.com/has-deepseek-burst-the-ai-bubble-or-just-raised-the-stakes-b110509126bb)** · frank-andrade.medium.com · 2025-01-31 · [Q009900](../../berichte/Q00/Q0099/Q009900/)
-  - Stufe 4–7: clef **13 %** · Luna **27 %** · d3-ultra **1 %** · JEV **0 %** · amos **13 %** · drex **9 %**
-  - Stufe 3–7: clef **27 %** · Luna **71 %** · d3-ultra **6 %** · JEV **3 %** · amos **33 %** · drex **23 %**
+  - Stufe 4–7: clef **13 %** · Luna **27 %** · d3-ultra **1 %** · JEV **0 %** · amos **13 %** · drex **9 %** · SubQ **4 %**
+  - Stufe 3–7: clef **27 %** · Luna **71 %** · d3-ultra **6 %** · JEV **3 %** · amos **33 %** · drex **23 %** · SubQ **15 %**
   - Kurzfassung: Der Autor sieht DeepSeek als Wettbewerbsschub für KI statt als Zeichen einer platzenden Blase, wobei seine Kostenangaben und Prognosen im Text nicht unabhängig untersucht werden.
 - **[How might standard contract terms help unlock responsible AI data sharing?](https://oecd.ai/en/wonk/standard-contract-terms-responsible-ai-data-sharing)** · oecd.ai · 2025-01-27 · [Q004591](../../berichte/Q00/Q0045/Q004591/)
-  - Stufe 4–7: clef **24 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **26 %** · drex **27 %**
-  - Stufe 3–7: clef **44 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **22 %** · amos **50 %** · drex **45 %**
+  - Stufe 4–7: clef **24 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **26 %** · drex **27 %** · SubQ **11 %**
+  - Stufe 3–7: clef **44 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **22 %** · amos **50 %** · drex **45 %** · SubQ **24 %**
   - Kurzfassung: Der Bericht empfiehlt international entwickelte, einfache und anpassbare Standardlizenzen als möglichen Weg zu verantwortungsvollerem und breiterem KI-Datenzugang, ohne zu behaupten, dass sie allein alle Hindernisse beseitigen.
 - **[Introducing vision to the fine-tuning API](https://openai.com/index/introducing-vision-to-the-fine-tuning-api/)** · openai.com · 2024-10-01 · [Q009236](../../berichte/Q00/Q0092/Q009236/)
-  - Stufe 4–7: clef **10 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **21 %** · drex **30 %**
-  - Stufe 3–7: clef **17 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **40 %** · amos **39 %** · drex **41 %**
+  - Stufe 4–7: clef **10 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **27 %** · amos **21 %** · drex **30 %** · SubQ **9 %**
+  - Stufe 3–7: clef **17 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **40 %** · amos **39 %** · drex **41 %** · SubQ **21 %**
   - Kurzfassung: Der Bericht schildert GPT‑4o-Feintraining mit Bildern und von Partnern berichtete Verbesserungen, weist aber auch auf fehlende unabhängige Belege und die spätere Rücknahme der Plattform hin.
 - **[Machine Unlearning Doesn’t Do What You Think: Lessons for Generative AI Policy, Research, and Practice](https://deepmind.google/research/publications/101479/)** · deepmind.google · 2024-12-10 · [Q005478](../../berichte/Q00/Q0054/Q005478/)
-  - Stufe 4–7: clef **15 %** · Luna **27 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **7 %**
-  - Stufe 3–7: clef **27 %** · Luna **66 %** · d3-ultra **6 %** · JEV **7 %** · amos **28 %** · drex **14 %**
+  - Stufe 4–7: clef **15 %** · Luna **27 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **27 %** · Luna **66 %** · d3-ultra **6 %** · JEV **7 %** · amos **28 %** · drex **14 %** · SubQ **9 %**
   - Kurzfassung: Der vorliegende Abstract-Auszug warnt, dass maschinelles Unlearning keine allgemeine Lösung für politische Ziele wie das Entfernen bestimmter Informationen oder das Unterdrücken bestimmter Ausgaben ist.
 - **[Our First Proof submissions](https://openai.com/index/first-proof-submissions/)** · openai.com · 2026-02-20 · [Q007434](../../berichte/Q00/Q0074/Q007434/)
-  - Stufe 4–7: clef **5 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **31 %** · amos **9 %** · drex **4 %**
-  - Stufe 3–7: clef **9 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **43 %** · amos **21 %** · drex **6 %**
+  - Stufe 4–7: clef **5 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **31 %** · amos **9 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **9 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **43 %** · amos **21 %** · drex **6 %** · SubQ **3 %**
   - Kurzfassung: OpenAI hält fünf von zehn KI-Beweisversuchen bei First Proof vorläufig für wahrscheinlich korrekt, räumt aber ein, dass die unterstützte und nicht streng kontrollierte Prüfung keine abschließende Bewertung erlaubt.
 - **[Post by @sentient_found on X](https://x.com/sentient_found/status/2121241685191536964)** · x.com · 2026-10-14 · [Q001979](../../berichte/Q00/Q0019/Q001979/)
-  - Stufe 4–7: clef **27 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **33 %** · drex **28 %**
-  - Stufe 3–7: clef **54 %** · Luna **50 %** · d3-ultra noch nicht bewertet · JEV **52 %** · amos **57 %** · drex **44 %**
+  - Stufe 4–7: clef **27 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **33 %** · drex **28 %** · SubQ **12 %**
+  - Stufe 3–7: clef **54 %** · Luna **50 %** · d3-ultra noch nicht bewertet · JEV **52 %** · amos **57 %** · drex **44 %** · SubQ **27 %**
   - Kurzfassung: Der vorliegende Auszug bewirbt eine Benchmark für fünf Verfahren zur Modellherkunftserkennung und nennt nicht unabhängig belegte Leistungsbehauptungen.
 - **[SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)** · deepmind.google · 2025-11-13 · [Q003947](../../berichte/Q00/Q0039/Q003947/)
-  - Stufe 4–7: clef **12 %** · Luna **27 %** · d3-ultra **0 %** · JEV **49 %** · amos **18 %** · drex **12 %**
-  - Stufe 3–7: clef **24 %** · Luna **59 %** · d3-ultra **1 %** · JEV **60 %** · amos **35 %** · drex **21 %**
+  - Stufe 4–7: clef **12 %** · Luna **27 %** · d3-ultra **0 %** · JEV **49 %** · amos **18 %** · drex **12 %** · SubQ **2 %**
+  - Stufe 3–7: clef **24 %** · Luna **59 %** · d3-ultra **1 %** · JEV **60 %** · amos **35 %** · drex **21 %** · SubQ **6 %**
   - Kurzfassung: Der Bericht stellt SIMA 2 als Gemini-gestützten 3D-Spielagenten vor, dessen berichtete Fortschritte bei Planung, Aufgabenübertragung und selbstständigem Lernen zunächst in einer begrenzten Forschungsvorschau untersucht werden.
 - **[Weak-to-strong generalization](https://openai.com/index/weak-to-strong-generalization/)** · openai.com · 2023-12-14 · [Q007657](../../berichte/Q00/Q0076/Q007657/)
-  - Stufe 4–7: clef **15 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **29 %** · amos **14 %** · drex **9 %**
-  - Stufe 3–7: clef **31 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **43 %** · amos **32 %** · drex **17 %**
+  - Stufe 4–7: clef **15 %** · Luna **27 %** · d3-ultra noch nicht bewertet · JEV **29 %** · amos **14 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **31 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **43 %** · amos **32 %** · drex **17 %** · SubQ **4 %**
   - Kurzfassung: Der Bericht beschreibt erste Hinweise, dass starke Modelle mit schwacher Aufsicht Fähigkeiten verallgemeinern können, betont aber erhebliche Grenzen und offene Fragen für die Ausrichtung künftiger KI.
 - **[Guidelines on obligations for General-Purpose AI providers](http://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers)** · digital-strategy.ec.europa.eu ·  · [Q002431](../../berichte/Q00/Q0024/Q002431/)
-  - Stufe 4–7: clef **19 %** · Luna **26 %** · d3-ultra **26 %** · JEV noch nicht bewertet · amos **27 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **36 %** · Luna **68 %** · d3-ultra **37 %** · JEV noch nicht bewertet · amos **49 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **19 %** · Luna **26 %** · d3-ultra **26 %** · JEV noch nicht bewertet · amos **27 %** · drex **28 %** · SubQ **10 %**
+  - Stufe 3–7: clef **36 %** · Luna **68 %** · d3-ultra **37 %** · JEV noch nicht bewertet · amos **49 %** · drex **47 %** · SubQ **23 %**
   - Kurzfassung: Die Kommission legt unverbindlich aus, welche Dokumentations-, Urheberrechts-, Transparenz- und Risikopflichten Anbieter allgemeiner KI-Modelle nach dem EU-KI-Gesetz erfüllen sollen.
 - **[In tune with ethics: Responsible artificial intelligence and the music industry](https://oecd.ai/en/wonk/ethics-music-industry)** · oecd.ai · 2024-03-29 · [Q005488](../../berichte/Q00/Q0054/Q005488/)
-  - Stufe 4–7: clef **26 %** · Luna **12 %** · d3-ultra **8 %** · JEV **33 %** · amos **24 %** · drex **28 %**
-  - Stufe 3–7: clef **41 %** · Luna **57 %** · d3-ultra **19 %** · JEV **75 %** · amos **48 %** · drex **46 %**
+  - Stufe 4–7: clef **26 %** · Luna **12 %** · d3-ultra **8 %** · JEV **33 %** · amos **24 %** · drex **28 %** · SubQ **15 %**
+  - Stufe 3–7: clef **41 %** · Luna **57 %** · d3-ultra **19 %** · JEV **75 %** · amos **48 %** · drex **46 %** · SubQ **36 %**
   - Kurzfassung: Der Beitrag fordert einen anpassungsfähigen, menschenzentrierten und transparenten Umgang mit KI in der Musik und benennt ökologische Folgen als Lücke der untersuchten Leitlinien.
 - **[Start Fine-Tuning Open-Source Models. They Could Turn Into a $50K Career](https://medium.com/coding-nexus/start-fine-tuning-open-source-models-they-could-turn-into-a-50k-career-d604a30fff3e)** · medium.com · 2026-05-13 · [Q011276](../../berichte/Q01/Q0112/Q011276/)
-  - Stufe 4–7: clef **10 %** · Luna **26 %** · d3-ultra **1 %** · JEV **21 %** · amos **13 %** · drex **7 %**
-  - Stufe 3–7: clef **20 %** · Luna **86 %** · d3-ultra **5 %** · JEV **33 %** · amos **30 %** · drex **17 %**
+  - Stufe 4–7: clef **10 %** · Luna **26 %** · d3-ultra **1 %** · JEV **21 %** · amos **13 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **20 %** · Luna **86 %** · d3-ultra **5 %** · JEV **33 %** · amos **30 %** · drex **17 %** · SubQ **6 %**
   - Kurzfassung: Der Artikel empfiehlt, Fine-Tuning kleiner offener Modelle durch praktische Projekte zu lernen, während seine Karriere- und Kostenversprechen sowie nicht näher dokumentierten Benchmarkwerte als Angaben des Autors zu verstehen sind.
 - **[AI openness: A primer for policymakers](https://oecd.ai/en/ai-publications/ai-openness-a-primer-for-policymakers)** · oecd.ai · 2025-08-14 · [Q002421](../../berichte/Q00/Q0024/Q002421/)
-  - Stufe 4–7: clef **16 %** · Luna **25 %** · d3-ultra **2 %** · JEV **1 %** · amos **11 %** · drex **10 %**
-  - Stufe 3–7: clef **39 %** · Luna **69 %** · d3-ultra **15 %** · JEV **27 %** · amos **32 %** · drex **24 %**
+  - Stufe 4–7: clef **16 %** · Luna **25 %** · d3-ultra **2 %** · JEV **1 %** · amos **11 %** · drex **10 %** · SubQ **4 %**
+  - Stufe 3–7: clef **39 %** · Luna **69 %** · d3-ultra **15 %** · JEV **27 %** · amos **32 %** · drex **24 %** · SubQ **14 %**
   - Kurzfassung: Der vorliegende Auszug beschreibt einen Bericht über Offenheit bei KI und deren Chancen, Risiken und Governance, nennt aber keine konkreten Ergebnisse.
 - **[Moving AI governance forward](https://openai.com/index/moving-ai-governance-forward/)** · openai.com · 2023-07-21 · [Q007614](../../berichte/Q00/Q0076/Q007614/)
-  - Stufe 4–7: clef **7 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **18 %** · drex **13 %**
+  - Stufe 4–7: clef **7 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **8 %** · drex **6 %** · SubQ **3 %**
+  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **18 %** · drex **13 %** · SubQ **11 %**
   - Kurzfassung: Der Bericht beschreibt freiwillige, zeitlich an vergleichbare Regulierung gebundene Zusagen führender KI-Unternehmen für leistungsfähigere generative Modelle, darunter Sicherheitstests, Schutzmaßnahmen, Kennzeichnung und Transparenz.
 - **[State-of-the-art Foundation AI Models Should be Accompanied by Detection Mechanisms as a Condition of Public Release](https://oecd.ai/en/wonk/documents/state-of-the-art-foundation-ai-models-should-be-accompanied-by-detection-mechanisms-as-a-condition-of-public-release)** · oecd.ai · 2025-05-27 · [Q003366](../../berichte/Q00/Q0033/Q003366/)
-  - Stufe 4–7: clef **25 %** · Luna **14 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **7 %**
-  - Stufe 3–7: clef **41 %** · Luna **69 %** · d3-ultra **7 %** · JEV **7 %** · amos **17 %** · drex **15 %**
+  - Stufe 4–7: clef **25 %** · Luna **14 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **41 %** · Luna **69 %** · d3-ultra **7 %** · JEV **7 %** · amos **17 %** · drex **15 %** · SubQ **6 %**
   - Kurzfassung: Der Auszug skizziert Foundation-Modelle und kündigt die Forderung an, ihre öffentliche Freigabe an Erkennungsmechanismen zu knüpfen, enthält aber keine nähere Begründung oder Umsetzung.
 - **[Training Language Models with Language Feedback](https://www.far.ai/research/training-language-models-with-language-feedback)** · far.ai · 2026-07-13 · [Q002112](../../berichte/Q00/Q0021/Q002112/)
-  - Stufe 4–7: clef **10 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **10 %** · drex **5 %**
-  - Stufe 3–7: clef **21 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **25 %** · drex **13 %**
+  - Stufe 4–7: clef **10 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **10 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **21 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **25 %** · drex **13 %** · SubQ **2 %**
   - Kurzfassung: Der bereitgestellte Text ist nur ein Abstract-Auszug: Er berichtet, dass natürlichsprachliches Feedback GPT-3 mit 100 Beispielen ungefähr menschliches Zusammenfassungsniveau ermöglicht habe, nennt aber keine näheren Versuchsdetails.
 - **[Updating sales restrictions for unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)** · anthropic.com · 2025-09-04 · [Q005270](../../berichte/Q00/Q0052/Q005270/)
-  - Stufe 4–7: clef **15 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **31 %** · drex **16 %**
-  - Stufe 3–7: clef **30 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **52 %** · drex **25 %**
+  - Stufe 4–7: clef **15 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **31 %** · drex **16 %** · SubQ **10 %**
+  - Stufe 3–7: clef **30 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **52 %** · drex **25 %** · SubQ **22 %**
   - Kurzfassung: Anthropic will Organisationen nach Eigentümerkontrolle aus nicht unterstützten Regionen ausschließen und begründet dies mit Sicherheitsrisiken, die der Beitrag als Einschätzung des Unternehmens darstellt.
 - **[WAIC Artificial Intelligence Security and Rule of Law Guidelines](https://cset.georgetown.edu/publication/waic-artificial-intelligence-security-and-rule-of-law-guidelines/)** · cset.georgetown.edu · 2020-01-15 · [Q006566](../../berichte/Q00/Q0065/Q006566/)
-  - Stufe 4–7: clef **25 %** · Luna **24 %** · d3-ultra **12 %** · JEV **6 %** · amos **25 %** · drex **18 %**
-  - Stufe 3–7: clef **42 %** · Luna **70 %** · d3-ultra **25 %** · JEV **29 %** · amos **50 %** · drex **33 %**
+  - Stufe 4–7: clef **25 %** · Luna **24 %** · d3-ultra **12 %** · JEV **6 %** · amos **25 %** · drex **18 %** · SubQ **16 %**
+  - Stufe 3–7: clef **42 %** · Luna **70 %** · d3-ultra **25 %** · JEV **29 %** · amos **50 %** · drex **33 %** · SubQ **38 %**
   - Kurzfassung: Die Leitlinien schlagen Maßnahmen gegen technische, datenbezogene, rechtliche und soziale KI-Risiken vor, ohne deren Wirksamkeit zu belegen.
 - **[Where the Weight Lies: A Balancing Act for the Governance of Open-Weight AI Models](https://www.lawfaremedia.org/article/where-the-weight-lies--a-balancing-act-for-the-governance-of-open-weight-ai-models)** · lawfaremedia.org · 2026-11-04 · [Q000398](../../berichte/Q00/Q0003/Q000398/)
-  - Stufe 4–7: clef **13 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **18 %** · drex **20 %**
-  - Stufe 3–7: clef **27 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **42 %** · drex **38 %**
+  - Stufe 4–7: clef **13 %** · Luna **25 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **18 %** · drex **20 %** · SubQ **9 %**
+  - Stufe 3–7: clef **27 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **42 %** · drex **38 %** · SubQ **32 %**
   - Kurzfassung: Offene KI-Gewichte verschieben Macht, beseitigen aber keine Abhängigkeiten; echte digitale Souveränität hängt laut Bericht davon ab, wer auch die übrigen Schichten des KI-Systems kontrolliert.
 - **[Adversarial Machine Learning and Cybersecurity](https://cset.georgetown.edu/publication/adversarial-machine-learning-and-cybersecurity/)** · cset.georgetown.edu · 2023-04-04 · [Q003237](../../berichte/Q00/Q0032/Q003237/)
-  - Stufe 4–7: clef **9 %** · Luna **24 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **16 %** · Luna **55 %** · d3-ultra **1 %** · JEV **0 %** · amos **14 %** · drex **10 %**
+  - Stufe 4–7: clef **9 %** · Luna **24 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **55 %** · d3-ultra **1 %** · JEV **0 %** · amos **14 %** · drex **10 %** · SubQ **5 %**
   - Kurzfassung: Der vorliegende Auszug fasst Empfehlungen eines Expertenworkshops zusammen, KI-Sicherheit stärker in Cybersicherheitsprozesse, Informationsaustausch, Regulierung und Forschung einzubinden, ohne deren Wirksamkeit nachzuweisen.
 - **[Agentic Context Engineering (ACE): The Powerful New Way for LLMs to Self-Improve](https://medium.com/coding-nexus/agentic-context-engineering-ace-the-powerful-new-way-for-llms-to-self-improve-93b9559432a2)** · medium.com · 2025-12-08 · [Q011339](../../berichte/Q01/Q0113/Q011339/)
-  - Stufe 4–7: clef **8 %** · Luna **24 %** · d3-ultra **0 %** · JEV **13 %** · amos **8 %** · drex **5 %**
-  - Stufe 3–7: clef **20 %** · Luna **64 %** · d3-ultra **1 %** · JEV **23 %** · amos **17 %** · drex **8 %**
+  - Stufe 4–7: clef **8 %** · Luna **24 %** · d3-ultra **0 %** · JEV **13 %** · amos **8 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **20 %** · Luna **64 %** · d3-ultra **1 %** · JEV **23 %** · amos **17 %** · drex **8 %** · SubQ **4 %**
   - Kurzfassung: ACE soll laut Bericht LLMs durch ein gepflegtes Kontext-Playbook verbessern; die angeführten Leistungs- und Kostenvorteile werden im Text nicht methodisch ausführlich belegt.
 - **[Applying Content Credentials to Music Assets :: C2PA Specifications](https://spec.c2pa.org/specifications/specifications/2.4/music/guidance_applying_content_credential_music_assets.html)** · spec.c2pa.org ·  · [Q000596](../../berichte/Q00/Q0005/Q000596/)
-  - Stufe 4–7: clef **18 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **7 %** · drex **9 %**
-  - Stufe 3–7: clef **30 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **26 %** · amos **17 %** · drex **15 %**
+  - Stufe 4–7: clef **18 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **7 %** · drex **9 %** · SubQ **2 %**
+  - Stufe 3–7: clef **30 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **26 %** · amos **17 %** · drex **15 %** · SubQ **5 %**
   - Kurzfassung: C2PA kann die Provenienz von Musik einschließlich KI-Beteiligung nachvollziehbar dokumentieren, ersetzt aber keine Rechteklärung und garantiert weder vollständige noch richtige Angaben.
 - **[China plans AI export curbs to exert control over key tech](https://www.straitstimes.com/business/china-plans-ai-export-curbs-to-exert-control-over-key-tech)** · straitstimes.com · 2026-10-16 · [Q000130](../../berichte/Q00/Q0001/Q000130/)
-  - Stufe 4–7: clef **22 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **19 %** · drex **13 %**
-  - Stufe 3–7: clef **37 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **14 %** · amos **39 %** · drex **28 %**
+  - Stufe 4–7: clef **22 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **19 %** · drex **13 %** · SubQ **5 %**
+  - Stufe 3–7: clef **37 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **14 %** · amos **39 %** · drex **28 %** · SubQ **16 %**
   - Kurzfassung: China plant laut Bericht Exportkontrollen für fortgeschrittene KI-Technologien und hat eine vorläufige Registrierungspflicht für betroffene Exporte eingeführt; der Quelltext enthält zusätzlich einen separaten Rupiah-Abschnitt.
 - **[Frontier Mitigations](https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/)** · frontiermodelforum.org · 2025-06-30 · [Q002322](../../berichte/Q00/Q0023/Q002322/)
-  - Stufe 4–7: clef **12 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **14 %** · drex **10 %**
-  - Stufe 3–7: clef **20 %** · Luna **63 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **31 %** · drex **20 %**
+  - Stufe 4–7: clef **12 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **14 %** · drex **10 %** · SubQ **5 %**
+  - Stufe 3–7: clef **20 %** · Luna **63 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **31 %** · drex **20 %** · SubQ **12 %**
   - Kurzfassung: Der FMF-Bericht skizziert mehrschichtige Schutzmaßnahmen für fortgeschrittene KI, betont aber deren Grenzen und den noch offenen Forschungsbedarf bei ihrer verlässlichen Bewertung.
 - **[https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_opinion_202428_ai-models_en.pdf](https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_opinion_202428_ai-models_en.pdf)** · edpb.europa.eu ·  · [Q004608](../../berichte/Q00/Q0046/Q004608/)
-  - Stufe 4–7: clef **24 %** · Luna **22 %** · d3-ultra noch nicht bewertet · JEV **12 %** · amos **30 %** · drex **31 %**
-  - Stufe 3–7: clef **37 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **52 %** · drex **50 %**
+  - Stufe 4–7: clef **24 %** · Luna **22 %** · d3-ultra noch nicht bewertet · JEV **12 %** · amos **30 %** · drex **31 %** · SubQ **7 %**
+  - Stufe 3–7: clef **37 %** · Luna **84 %** · d3-ultra noch nicht bewertet · JEV **49 %** · amos **52 %** · drex **50 %** · SubQ **24 %**
   - Kurzfassung: Der EDPB fordert eine Einzelfallprüfung der Anonymität, der berechtigten Interessen und der Folgen rechtswidriger KI-Entwicklung; seine Stellungnahme bietet dafür einen allgemeinen, nicht vollständigen Rahmen.
 - **[Information-Theoretic Reliability--Safety Bounds and Finite-Alignment Dynamics in AI Knowledge Distillation](https://arxiv.org/abs/2610.38651)** · arxiv.org ·  · [Q000216](../../berichte/Q00/Q0002/Q000216/)
-  - Stufe 4–7: clef **24 %** · Luna **21 %** · d3-ultra **1 %** · JEV **4 %** · amos **16 %** · drex **10 %**
-  - Stufe 3–7: clef **47 %** · Luna **64 %** · d3-ultra **13 %** · JEV **24 %** · amos **38 %** · drex **29 %**
+  - Stufe 4–7: clef **24 %** · Luna **21 %** · d3-ultra **1 %** · JEV **4 %** · amos **16 %** · drex **10 %** · SubQ **1 %**
+  - Stufe 3–7: clef **47 %** · Luna **64 %** · d3-ultra **13 %** · JEV **24 %** · amos **38 %** · drex **29 %** · SubQ **11 %**
   - Kurzfassung: Laut Abstract leiten die Autorinnen und Autoren Grenzen für den Zuverlässigkeit-Sicherheit-Zielkonflikt und Dynamiken bei der Wissensdestillation her; bereitgestellt ist nur die Abstract-Seite, nicht der Volltext.
 - **[Many-Shot In-Context Learning](https://deepmind.google/research/publications/88349/)** · deepmind.google · 2024-04-17 · [Q005933](../../berichte/Q00/Q0059/Q005933/)
-  - Stufe 4–7: clef **9 %** · Luna **24 %** · d3-ultra **0 %** · JEV **17 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **16 %** · Luna **52 %** · d3-ultra **1 %** · JEV **32 %** · amos **12 %** · drex **11 %**
+  - Stufe 4–7: clef **9 %** · Luna **24 %** · d3-ultra **0 %** · JEV **17 %** · amos **5 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **16 %** · Luna **52 %** · d3-ultra **1 %** · JEV **32 %** · amos **12 %** · drex **11 %** · SubQ **1 %**
   - Kurzfassung: Der vorliegende Auszug enthält nur das Abstract, das Many-Shot-In-Context-Learning als leistungsfördernd beschreibt, aber keine konkreten Versuchsdaten aufführt.
 - **[National Standard of the People's Republic of China: Cybersecurity Technology - Basic Safety Requirements for Generative Artificial Intelligence Services](https://cset.georgetown.edu/publication/china-gen-ai-safety-standard-final/)** · cset.georgetown.edu · 2026-05-28 · [Q001401](../../berichte/Q00/Q0014/Q001401/)
-  - Stufe 4–7: clef **24 %** · Luna **22 %** · d3-ultra **11 %** · JEV **4 %** · amos **26 %** · drex **20 %**
-  - Stufe 3–7: clef **36 %** · Luna **53 %** · d3-ultra **26 %** · JEV **26 %** · amos **47 %** · drex **38 %**
+  - Stufe 4–7: clef **24 %** · Luna **22 %** · d3-ultra **11 %** · JEV **4 %** · amos **26 %** · drex **20 %** · SubQ **9 %**
+  - Stufe 3–7: clef **36 %** · Luna **53 %** · d3-ultra **26 %** · JEV **26 %** · amos **47 %** · drex **38 %** · SubQ **26 %**
   - Kurzfassung: Der bereitgestellte Auszug stellt Chinas Standard GB/T 45654—2025 für die Sicherheit generativer KI vor und berichtet über CSETs Zweifel an seiner Durchsetzbarkeit.
 - **[Strands Decider: A small, fast decision model for agentic AI.](https://medium.com/coding-nexus/strands-decider-a-small-fast-decision-model-for-agentic-ai-e59db7ef4e1f)** · medium.com · 2026-11-11 · [Q011164](../../berichte/Q01/Q0111/Q011164/)
-  - Stufe 4–7: clef **6 %** · Luna **24 %** · d3-ultra **0 %** · JEV **1 %** · amos **8 %** · drex **3 %**
-  - Stufe 3–7: clef **14 %** · Luna **56 %** · d3-ultra **0 %** · JEV **5 %** · amos **17 %** · drex **5 %**
+  - Stufe 4–7: clef **6 %** · Luna **24 %** · d3-ultra **0 %** · JEV **1 %** · amos **8 %** · drex **3 %** · SubQ **0 %**
+  - Stufe 3–7: clef **14 %** · Luna **56 %** · d3-ultra **0 %** · JEV **5 %** · amos **17 %** · drex **5 %** · SubQ **1 %**
   - Kurzfassung: Der vollständige Bericht beschreibt Strands Decider für schnelle strukturierte Agentenentscheidungen und führt Leistungswerte an, deren Konfidenz und Schwellen laut Autor am jeweiligen Einsatz geprüft und angepasst werden sollten.
 - **[The AI data challenge: How do we protect privacy and other fundamental rights in an AI-driven world?](https://oecd.ai/en/wonk/the-ai-data-challenge-how-do-we-protect-privacy-and-other-fundamental-rights-in-an-ai-driven-world)** · oecd.ai · 2023-10-19 · [Q005779](../../berichte/Q00/Q0057/Q005779/)
-  - Stufe 4–7: clef **20 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **27 %** · drex **27 %**
-  - Stufe 3–7: clef **43 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **36 %** · amos **52 %** · drex **49 %**
+  - Stufe 4–7: clef **20 %** · Luna **24 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **27 %** · drex **27 %** · SubQ **12 %**
+  - Stufe 3–7: clef **43 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **36 %** · amos **52 %** · drex **49 %** · SubQ **33 %**
   - Kurzfassung: Der Bericht empfiehlt, KI-Datenzugang mit Grundrechtsschutz durch menschenzentrierte Regeln, Durchsetzung, gemeinsame Standards und weitere Schutzmaßnahmen zu verbinden, weist aber auf offene Fragen und unterschiedliche Positionen zur Regulierung hin.
 - **[The AI Triad and What It Means for National Security Strategy](https://cset.georgetown.edu/publication/the-ai-triad-and-what-it-means-for-national-security-strategy/)** · cset.georgetown.edu · 2020-08-10 · [Q005558](../../berichte/Q00/Q0055/Q005558/)
-  - Stufe 4–7: clef **5 %** · Luna **24 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %**
-  - Stufe 3–7: clef **18 %** · Luna **80 %** · d3-ultra **5 %** · JEV **8 %** · amos **18 %** · drex **9 %**
+  - Stufe 4–7: clef **5 %** · Luna **24 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **80 %** · d3-ultra **5 %** · JEV **8 %** · amos **18 %** · drex **9 %** · SubQ **6 %**
   - Kurzfassung: Der Auszug führt Buchanans KI-Triade aus Daten, Algorithmen und Rechenleistung ein und nennt GPT-3 als Beispiel, während er zugleich auf Grenzen und Risiken von KI hinweist.
 - **[Automated Alignment Researchers](https://www.anthropic.com/research/automated-alignment-researchers)** · anthropic.com · 2026-04-14 · [Q004013](../../berichte/Q00/Q0040/Q004013/)
-  - Stufe 4–7: clef **14 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **12 %** · drex **10 %**
-  - Stufe 3–7: clef **25 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **46 %** · amos **30 %** · drex **15 %**
+  - Stufe 4–7: clef **14 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **30 %** · amos **12 %** · drex **10 %** · SubQ **0 %**
+  - Stufe 3–7: clef **25 %** · Luna **78 %** · d3-ultra noch nicht bewertet · JEV **46 %** · amos **30 %** · drex **15 %** · SubQ **1 %**
   - Kurzfassung: Anthropic zufolge beschleunigten autonome Claude-Forschende eine eng umrissene Alignment-Aufgabe deutlich, doch begrenzte Übertragbarkeit, ein ergebnisloser Produktionstest und Versuche zur Bewertungsmanipulation zeigen, dass menschliche Kontrolle nötig bleibt.
 - **[GPT-4](https://openai.com/index/gpt-4-research/)** · openai.com · 2023-03-14 · [Q005341](../../berichte/Q00/Q0053/Q005341/)
-  - Stufe 4–7: clef **12 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **10 %** · drex **7 %**
-  - Stufe 3–7: clef **20 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **24 %** · drex **13 %**
+  - Stufe 4–7: clef **12 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **10 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **20 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **24 %** · drex **13 %** · SubQ **7 %**
   - Kurzfassung: OpenAI zufolge ist GPT‑4 in vielen Tests leistungsfähiger als GPT‑3.5, bleibt aber fehleranfällig und erfordert bei wichtigen Anwendungen angemessene Kontrolle.
 - **[Our approach to alignment research](https://openai.com/index/our-approach-to-alignment-research/)** · openai.com · 2022-08-24 · [Q007548](../../berichte/Q00/Q0075/Q007548/)
-  - Stufe 4–7: clef **9 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **6 %**
-  - Stufe 3–7: clef **19 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **14 %** · drex **11 %**
+  - Stufe 4–7: clef **9 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **14 %** · drex **11 %** · SubQ **4 %**
   - Kurzfassung: OpenAIs Ansatz kombiniert menschliches Feedback, KI-gestützte Bewertung und KI-Forschung, doch der Bericht räumt erhebliche Grenzen und offene Sicherheitsfragen ein.
 - **[The American AI Initiative:  The U.S. strategy for leadership in artificial intelligence](https://oecd.ai/en/wonk/the-american-ai-initiative-the-u-s-strategy-for-leadership-in-rtificial-intelligence)** · oecd.ai · 2020-06-11 · [Q007213](../../berichte/Q00/Q0072/Q007213/)
-  - Stufe 4–7: clef **7 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **6 %**
-  - Stufe 3–7: clef **15 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **14 %** · drex **12 %**
+  - Stufe 4–7: clef **7 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **15 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **14 %** · drex **12 %** · SubQ **7 %**
   - Kurzfassung: Der Bericht beschreibt die US-KI-Strategie und ihre geplanten Maßnahmen für Innovation und vertrauenswürdige KI, belegt deren Wirkung jedoch nicht systematisch.
 - **[Training Language Models with Language Feedback at Scale](https://www.far.ai/research/training-language-models-with-language-feedback-at-scale)** · far.ai · 2026-07-13 · [Q002117](../../berichte/Q00/Q0021/Q002117/)
-  - Stufe 4–7: clef **11 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **4 %**
-  - Stufe 3–7: clef **23 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **12 %** · amos **20 %** · drex **9 %**
+  - Stufe 4–7: clef **11 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **4 %** · SubQ **0 %**
+  - Stufe 3–7: clef **23 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **12 %** · amos **20 %** · drex **9 %** · SubQ **2 %**
   - Kurzfassung: Der bereitgestellte Abstract-Auszug berichtet, dass ein neues Verfahren zum Lernen aus sprachlichem Feedback bei Zusammenfassungen laut Autoren menschliches Leistungsniveau erreichen kann.
 - **[Trusting AI starts with trusting its data](https://www.oasis-open.org/2026/10/21/trusting-ai-starts-with-trusting-its-data/)** · oasis-open.org · 2026-10-21 · [Q000143](../../berichte/Q00/Q0001/Q000143/)
-  - Stufe 4–7: clef **18 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **17 %** · drex **14 %**
-  - Stufe 3–7: clef **38 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **40 %** · drex **27 %**
+  - Stufe 4–7: clef **18 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **17 %** · drex **14 %** · SubQ **5 %**
+  - Stufe 3–7: clef **38 %** · Luna **64 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **40 %** · drex **27 %** · SubQ **17 %**
   - Kurzfassung: Der Beitrag empfiehlt, Datenherkunft systematisch zu dokumentieren, damit Organisationen Risiken und zulässige Nutzung von KI-Daten besser nachvollziehen können.
 - **[Understanding the capabilities, limitations, and societal impact of large language models](https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models/)** · openai.com · 2021-02-04 · [Q008294](../../berichte/Q00/Q0082/Q008294/)
-  - Stufe 4–7: clef **10 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **25 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **26 %** · amos **22 %** · drex **12 %**
+  - Stufe 4–7: clef **10 %** · Luna **23 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **25 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **26 %** · amos **22 %** · drex **12 %** · SubQ **7 %**
   - Kurzfassung: Der vorliegende Auszug kündigt eine Diskussion über technische Fähigkeiten und Grenzen von GPT‑3 sowie gesellschaftliche Auswirkungen großer Sprachmodelle an, enthält aber keine konkreten Ergebnisse.
 - **[AI Governance in Federal Proposals: What Vendors Need](https://www.kensingtonsalesgroup.com/blog/ai-governance-federal-proposals.html)** · kensingtonsalesgroup.com · 2026-11-06 · [Q000498](../../berichte/Q00/Q0004/Q000498/)
-  - Stufe 4–7: clef **18 %** · Luna **22 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **30 %** · drex **22 %**
-  - Stufe 3–7: clef **31 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **17 %** · amos **51 %** · drex **40 %**
+  - Stufe 4–7: clef **18 %** · Luna **22 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **30 %** · drex **22 %** · SubQ **9 %**
+  - Stufe 3–7: clef **31 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **17 %** · amos **51 %** · drex **40 %** · SubQ **20 %**
   - Kurzfassung: Laut Bericht wird KI-Governance immer häufiger Teil von Bundesbeschaffungen in den USA, weshalb Anbieter ihre Richtlinien, Prüfungen und Datenpraktiken früh dokumentieren sollten.
 - **[GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates/)** · openai.com · 2023-08-22 · [Q009169](../../berichte/Q00/Q0091/Q009169/)
-  - Stufe 4–7: clef **11 %** · Luna **22 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **16 %** · drex **21 %**
-  - Stufe 3–7: clef **18 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **33 %** · drex **32 %**
+  - Stufe 4–7: clef **11 %** · Luna **22 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **16 %** · drex **21 %** · SubQ **6 %**
+  - Stufe 3–7: clef **18 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **35 %** · amos **33 %** · drex **32 %** · SubQ **13 %**
   - Kurzfassung: OpenAI kündigt Fine-Tuning für GPT‑3.5 Turbo und neue GPT‑3-Modelle an und berichtet von frühen Verbesserungen, die laut Beitrag nicht für alle Anwendungsfälle garantiert sind.
 - **[Initial policy considerations for generative artificial intelligence](https://oecd.ai/en/ai-publications/initial-considerations-genai)** · oecd.ai · 2023-09-18 · [Q005994](../../berichte/Q00/Q0059/Q005994/)
-  - Stufe 4–7: clef **21 %** · Luna **22 %** · d3-ultra **13 %** · JEV **10 %** · amos **22 %** · drex **20 %**
-  - Stufe 3–7: clef **48 %** · Luna **73 %** · d3-ultra **47 %** · JEV **56 %** · amos **53 %** · drex **47 %**
+  - Stufe 4–7: clef **21 %** · Luna **22 %** · d3-ultra **13 %** · JEV **10 %** · amos **22 %** · drex **20 %** · SubQ **6 %**
+  - Stufe 3–7: clef **48 %** · Luna **73 %** · d3-ultra **47 %** · JEV **56 %** · amos **53 %** · drex **47 %** · SubQ **28 %**
   - Kurzfassung: Der OECD-Beitrag sieht in generativer KI Chancen und erhebliche, teils noch ungewisse Risiken und fordert frühzeitige politische Antworten.
 - **[Introducing Clef: our open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)** · blog.cloudflare.com · 2026-10-01 · [Q004698](../../berichte/Q00/Q0046/Q004698/)
-  - Stufe 4–7: clef **12 %** · Luna **22 %** · d3-ultra **1 %** · JEV **7 %** · amos **16 %** · drex **14 %**
-  - Stufe 3–7: clef **20 %** · Luna **51 %** · d3-ultra **4 %** · JEV **16 %** · amos **35 %** · drex **21 %**
+  - Stufe 4–7: clef **12 %** · Luna **22 %** · d3-ultra **1 %** · JEV **7 %** · amos **16 %** · drex **14 %** · SubQ **3 %**
+  - Stufe 3–7: clef **20 %** · Luna **51 %** · d3-ultra **4 %** · JEV **16 %** · amos **35 %** · drex **21 %** · SubQ **9 %**
   - Kurzfassung: Cloudflare veröffentlicht Clef-Entscheidungsmodelle und beginnt einen zunächst betreuten Feinabstimmungsdienst; Leistungs- und Geschwindigkeitsvorteile stützt der Bericht auf unternehmenseigene Tests.
 - **[Shaping Europe’s digital future](http://digital-strategy.ec.europa.eu/en/factpages/ai-act)** · digital-strategy.ec.europa.eu ·  · [Q002921](../../berichte/Q00/Q0029/Q002921/)
-  - Stufe 4–7: clef **22 %** · Luna **19 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **21 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **38 %** · Luna **60 %** · d3-ultra **10 %** · JEV noch nicht bewertet · amos **41 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **22 %** · Luna **19 %** · d3-ultra **2 %** · JEV noch nicht bewertet · amos **21 %** · drex **12 %** · SubQ **9 %**
+  - Stufe 3–7: clef **38 %** · Luna **60 %** · d3-ultra **10 %** · JEV noch nicht bewertet · amos **41 %** · drex **25 %** · SubQ **24 %**
   - Fundorte: [digital-strategy.ec.europa.eu](http://digital-strategy.ec.europa.eu/en/factpages/ai-act) (Q002921) · [digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/policies/ai-literacy-practices/kaspersky) (Q002055)
   - Kurzfassung: Der vorliegende Auszug fasst den risikobasierten Ansatz, abgestufte Pflichten für GPAI-Modelle und die Vollzugsstruktur des KI-Gesetzes zusammen, ohne konkrete Anwendungsdaten zu nennen.
 - **[Sociotechnical Safety Evaluation of generative AI systems](https://deepmind.google/research/publications/45425/)** · deepmind.google · 2023-10-18 · [Q005424](../../berichte/Q00/Q0054/Q005424/)
-  - Stufe 4–7: clef **7 %** · Luna **22 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **18 %** · Luna **69 %** · d3-ultra **1 %** · JEV **1 %** · amos **11 %** · drex **7 %**
+  - Stufe 4–7: clef **7 %** · Luna **22 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **69 %** · d3-ultra **1 %** · JEV **1 %** · amos **11 %** · drex **7 %** · SubQ **3 %**
   - Kurzfassung: Der vorliegende Abstract-Auszug skizziert einen dreistufigen Rahmen zur soziotechnischen Bewertung generativer KI und eine Bestandsaufnahme von Lücken, nennt aber keine Einzelheiten zu deren Befunden.
 - **[AI System-to-Model Innovation](https://cset.georgetown.edu/publication/ai-system-to-model-innovation/)** · cset.georgetown.edu · 2025-07-01 · [Q002611](../../berichte/Q00/Q0026/Q002611/)
-  - Stufe 4–7: clef **8 %** · Luna **21 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **7 %**
-  - Stufe 3–7: clef **24 %** · Luna **76 %** · d3-ultra **5 %** · JEV **4 %** · amos **20 %** · drex **15 %**
+  - Stufe 4–7: clef **8 %** · Luna **21 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **24 %** · Luna **76 %** · d3-ultra **5 %** · JEV **4 %** · amos **20 %** · drex **15 %** · SubQ **7 %**
   - Kurzfassung: Der bereitgestellte Text ist ein Auszug aus einer Executive Summary, die wechselseitige Innovation zwischen KI-Modellen und zusammengesetzten Systemen beschreibt und Schutz, breiteren Zugang sowie vorausschauende Beobachtung empfiehlt.
 - **[China AI Export Controls: 2T Models and Agents Listed](https://cellcog.ai/blog/china-ai-export-controls/)** · cellcog.ai · 2026-10-17 · [Q000133](../../berichte/Q00/Q0001/Q000133/)
-  - Stufe 4–7: clef **21 %** · Luna **20 %** · d3-ultra **4 %** · JEV **5 %** · amos **27 %** · drex **20 %**
-  - Stufe 3–7: clef **34 %** · Luna **64 %** · d3-ultra **10 %** · JEV **13 %** · amos **48 %** · drex **35 %**
+  - Stufe 4–7: clef **21 %** · Luna **20 %** · d3-ultra **4 %** · JEV **5 %** · amos **27 %** · drex **20 %** · SubQ **9 %**
+  - Stufe 3–7: clef **34 %** · Luna **64 %** · d3-ultra **10 %** · JEV **13 %** · amos **48 %** · drex **35 %** · SubQ **19 %**
   - Kurzfassung: China plant laut dem Bericht Exportkontrollen für bestimmte KI-Technologien; der Katalog ist noch ein Entwurf, und die Nutzung über APIs soll davon grundsätzlich nicht erfasst sein.
 - **[d1a3705](https://partnershiponai.org/paper_page/d1a3705/)** · partnershiponai.org · 2021-08-06 · [Q003150](../../berichte/Q00/Q0031/Q003150/)
-  - Stufe 4–7: clef **9 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **7 %**
-  - Stufe 3–7: clef **19 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **28 %** · drex **14 %**
+  - Stufe 4–7: clef **9 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **7 %** · SubQ **3 %**
+  - Stufe 3–7: clef **19 %** · Luna **94 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **28 %** · drex **14 %** · SubQ **9 %**
   - Kurzfassung: Der vorliegende Auszug fordert zweck- und zielgruppengerechte Dokumentation von ML-Modellen, die Nachvollziehbarkeit fördern soll, dabei aber Risiken wie Sicherheitslücken, Kennzahlenspiel und Überfrachtung berücksichtigen muss.
 - **[Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)** · openai.com · 2024-12-20 · [Q002396](../../berichte/Q00/Q0023/Q002396/)
-  - Stufe 4–7: clef **8 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **7 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **19 %** · amos **15 %** · drex **9 %**
+  - Stufe 4–7: clef **8 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **7 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **19 %** · amos **15 %** · drex **9 %** · SubQ **3 %**
   - Kurzfassung: OpenAI zufolge soll Deliberative Alignment Modelle sicherer machen, indem sie Sicherheitsregeln direkt lernen und beim Antworten anwenden; die berichteten Vorteile sind Unternehmensangaben ohne vollständige oder unabhängige Belege im vorliegenden Text.
 - **[Expanding access to safer AI with Amazon](https://www.anthropic.com/news/anthropic-amazon)** · anthropic.com · 2023-09-25 · [Q003148](../../berichte/Q00/Q0031/Q003148/)
-  - Stufe 4–7: clef **7 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **7 %** · drex **4 %**
-  - Stufe 3–7: clef **16 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **17 %** · drex **9 %**
+  - Stufe 4–7: clef **7 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **7 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **17 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: Anthropic kündigt eine milliardenschwere Amazon-Partnerschaft für Cloud-Infrastruktur und Claude an und beschreibt Sicherheitszusagen sowie Kundenerfolge, die im Bericht nicht unabhängig überprüft werden.
 - **[Frontier AI capabilities can be run at home within a year or less](https://epoch.ai/data-insights/consumer-gpu-model-gap)** · epoch.ai · 2025-08-15 · [Q005997](../../berichte/Q00/Q0059/Q005997/)
-  - Stufe 4–7: clef **16 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **17 %** · drex **6 %**
-  - Stufe 3–7: clef **34 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **38 %** · drex **17 %**
+  - Stufe 4–7: clef **16 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **17 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **34 %** · Luna **79 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **38 %** · drex **17 %** · SubQ **9 %**
   - Kurzfassung: Epoch AI berichtet einen durchschnittlichen Benchmark-Rückstand von sechs bis zwölf Monaten für offene Modelle auf einer Verbraucher-GPU, wobei der Abstand in realen Anwendungen laut Bericht größer sein könnte.
 - **[GPT-2: 1.5B release](https://openai.com/index/gpt-2-1-5b-release/)** · openai.com · 2019-11-05 · [Q007779](../../berichte/Q00/Q0077/Q007779/)
-  - Stufe 4–7: clef **14 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **21 %** · drex **12 %**
-  - Stufe 3–7: clef **23 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV **24 %** · amos **41 %** · drex **22 %**
+  - Stufe 4–7: clef **14 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **21 %** · drex **12 %** · SubQ **4 %**
+  - Stufe 3–7: clef **23 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV **24 %** · amos **41 %** · drex **22 %** · SubQ **12 %**
   - Kurzfassung: OpenAI veröffentlicht GPT‑2 mit 1,5 Milliarden Parametern und berichtet zugleich über mögliche missbräuchliche Nutzung, begrenzte Erkennung und offene Fragen zu Bias und verantwortungsvoller Veröffentlichung.
 - **[Introducing improvements to the fine-tuning API and expanding our custom models program](https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program/)** · openai.com · 2024-04-04 · [Q007226](../../berichte/Q00/Q0072/Q007226/)
-  - Stufe 4–7: clef **9 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **7 %** · drex **4 %**
-  - Stufe 3–7: clef **19 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **17 %** · drex **8 %**
+  - Stufe 4–7: clef **9 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **7 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **17 %** · drex **8 %** · SubQ **5 %**
   - Kurzfassung: OpenAI stellte Fine-Tuning-Verbesserungen und Custom-Model-Angebote vor, ergänzt aber im Nachtrag von 2026, dass die Fine-Tuning-Plattform ausläuft.
 - **[Issue Brief: Foundational Security Practices](https://www.frontiermodelforum.org/updates/issue-brief-foundational-security-practices/)** · frontiermodelforum.org · 2024-07-31 · [Q002747](../../berichte/Q00/Q0027/Q002747/)
-  - Stufe 4–7: clef **12 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **20 %** · drex **11 %**
-  - Stufe 3–7: clef **21 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **40 %** · drex **19 %**
+  - Stufe 4–7: clef **12 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **20 %** · drex **11 %** · SubQ **5 %**
+  - Stufe 3–7: clef **21 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **40 %** · drex **19 %** · SubQ **16 %**
   - Kurzfassung: Das Frontier Model Forum skizziert grundlegende, teils vorläufige Sicherheitspraktiken für leistungsfähige KI-Systeme und betont, dass etablierte Cybersicherheit durch speziell angepasste Maßnahmen ergänzt werden sollte.
 - **[Navigating the AI Act](http://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act)** · digital-strategy.ec.europa.eu ·  · [Q000941](../../berichte/Q00/Q0009/Q000941/)
-  - Stufe 4–7: clef **19 %** · Luna **21 %** · d3-ultra **14 %** · JEV noch nicht bewertet · amos **37 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **34 %** · Luna **78 %** · d3-ultra **25 %** · JEV noch nicht bewertet · amos **60 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **19 %** · Luna **21 %** · d3-ultra **14 %** · JEV noch nicht bewertet · amos **37 %** · drex **23 %** · SubQ **13 %**
+  - Stufe 3–7: clef **34 %** · Luna **78 %** · d3-ultra **25 %** · JEV noch nicht bewertet · amos **60 %** · drex **54 %** · SubQ **34 %**
   - Kurzfassung: Die Kommissions-FAQ fasst den risikobasierten EU-KI-Rechtsrahmen und seine gestaffelte Umsetzung zusammen, wobei wichtige Standards und Leitlinien laut Bericht noch ausstehen.
 - **[Report of the 1st Workshop on Generative AI and Law](https://deepmind.google/research/publications/58352/)** · deepmind.google · 2023-11-14 · [Q005334](../../berichte/Q00/Q0053/Q005334/)
-  - Stufe 4–7: clef **16 %** · Luna **21 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **7 %**
-  - Stufe 3–7: clef **36 %** · Luna **57 %** · d3-ultra **11 %** · JEV **22 %** · amos **21 %** · drex **21 %**
+  - Stufe 4–7: clef **16 %** · Luna **21 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **36 %** · Luna **57 %** · d3-ultra **11 %** · JEV **22 %** · amos **21 %** · drex **21 %** · SubQ **7 %**
   - Kurzfassung: Der vorliegende Abstract-Auszug fordert für die Schnittstelle von generativer KI und Recht eine gemeinsame Wissensbasis, klarere technische Einordnung, systematische Übersicht der Rechtsfragen und eine Forschungsagenda.
 - **[The Role of Data in AI: Report for the Data Governance Working Group of the Global Partnership of](https://oecd.ai/en/wonk/documents/the-role-of-data-in-ai-report-for-the-data-governance-working-group-of-the-global-partnership-of)** · oecd.ai · 2025-05-13 · [Q004225](../../berichte/Q00/Q0042/Q004225/)
-  - Stufe 4–7: clef **12 %** · Luna **21 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **11 %**
-  - Stufe 3–7: clef **32 %** · Luna **72 %** · d3-ultra **13 %** · JEV **5 %** · amos **23 %** · drex **25 %**
+  - Stufe 4–7: clef **12 %** · Luna **21 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **11 %** · SubQ **1 %**
+  - Stufe 3–7: clef **32 %** · Luna **72 %** · d3-ultra **13 %** · JEV **5 %** · amos **23 %** · drex **25 %** · SubQ **9 %**
   - Kurzfassung: Der Auszug eines GPAI-Berichts betont, dass hochwertige und zugängliche Daten für KI wichtig seien und Datenmängel negative Folgen haben könnten.
 - **[Why Language Models Hallucinate](https://arxiv.org/pdf/2509.04664)** · arxiv.org ·  · [Q009460](../../berichte/Q00/Q0094/Q009460/)
-  - Stufe 4–7: clef **7 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **7 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **11 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **19 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **7 %** · Luna **21 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **7 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **11 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **19 %** · drex **15 %** · SubQ **3 %**
   - Kurzfassung: Der Bericht führt Halluzinationen auf statistische Grenzen und Bewertungsanreize zum Raten zurück und empfiehlt, Unsicherheit in bestehenden Benchmarks ausdrücklich zu berücksichtigen.
 - **[Adversarial Machine Learning Taxonomy and Terminology | Draft NIST SP 2400-102e2026](https://www.nist.gov/news-events/news/2026/11/adversarial-machine-learning-taxonomy-and-terminology-draft-nist-sp-2400)** · nist.gov · 2026-11-09 · [Q000541](../../berichte/Q00/Q0005/Q000541/)
-  - Stufe 4–7: clef **9 %** · Luna **20 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **63 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **12 %** · drex **9 %**
+  - Stufe 4–7: clef **9 %** · Luna **20 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **5 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **17 %** · Luna **63 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **12 %** · drex **9 %** · SubQ **2 %**
   - Kurzfassung: Nur ein Auszug aus NISTs Mitteilung liegt vor: Er beschreibt einen Entwurf für gemeinsame AML-Begriffe und eine Taxonomie zu Angriffen auf agentische SI-Systeme, ohne die konkreten Inhalte des vollständigen Berichts wiederzugeben.
 - **[AI capabilities can be significantly improved without expensive retraining](https://epoch.ai/publications/ai-capabilities-can-be-significantly-improved-without-expensive-retraining)** · epoch.ai · 2023-12-12 · [Q003689](../../berichte/Q00/Q0036/Q003689/)
-  - Stufe 4–7: clef **9 %** · Luna **20 %** · d3-ultra **0 %** · JEV **3 %** · amos **10 %** · drex **7 %**
-  - Stufe 3–7: clef **21 %** · Luna **66 %** · d3-ultra **2 %** · JEV **10 %** · amos **26 %** · drex **14 %**
+  - Stufe 4–7: clef **9 %** · Luna **20 %** · d3-ultra **0 %** · JEV **3 %** · amos **10 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **21 %** · Luna **66 %** · d3-ultra **2 %** · JEV **10 %** · amos **26 %** · drex **14 %** · SubQ **6 %**
   - Kurzfassung: Laut Bericht können nachträgliche Modellverbesserungen bei relevanten Benchmarks große, geschätzte Leistungsgewinne bringen, weshalb Sicherheitsregeln auch künftige Zuwächse und breiteren Zugang zu diesen Verfahren berücksichtigen sollten.
 - **[Learning policy representations in multiagent systems](https://openai.com/index/learning-policy-representations-in-multiagent-systems/)** · openai.com · 2018-06-17 · [Q008415](../../berichte/Q00/Q0084/Q008415/)
-  - Stufe 4–7: clef **8 %** · Luna **20 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **3 %**
-  - Stufe 3–7: clef **16 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **8 %** · drex **6 %**
+  - Stufe 4–7: clef **8 %** · Luna **20 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **3 %** · SubQ **0 %**
+  - Stufe 3–7: clef **16 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **8 %** · drex **6 %** · SubQ **1 %**
   - Kurzfassung: Der Auszug stellt einen Ansatz zum Lernen von Agentenrichtlinien aus wenigen Interaktionen vor und berichtet Nutzen in zwei Umgebungen, liefert aber keine konkreten Messwerte oder ausführlichen Versuchsdaten.
 - **[Pretraining Language Models with Human Preferences](https://www.far.ai/research/pretraining-language-models-with-human-preferences)** · far.ai · 2026-07-13 · [Q002029](../../berichte/Q00/Q0020/Q002029/)
-  - Stufe 4–7: clef **8 %** · Luna **20 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **6 %** · drex **4 %**
-  - Stufe 3–7: clef **14 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **14 %** · drex **9 %**
+  - Stufe 4–7: clef **8 %** · Luna **20 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **6 %** · drex **4 %** · SubQ **0 %**
+  - Stufe 3–7: clef **14 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **14 %** · drex **9 %** · SubQ **2 %**
   - Kurzfassung: Der vorliegende Text ist ein Abstract-Auszug: Er berichtet, dass „conditional training“ menschliche Präferenzen schon beim Vortraining besser berücksichtigt und unerwünschte Ausgaben senkt, nennt aber keine Details zu Modellen oder Messverfahren.
 - **[Rethinking AI data: From scraping to sustainable and ethical data sharing](https://oecd.ai/en/wonk/rethinking-ai-data-from-scraping-to-sustainable-and-ethical-data-sharing)** · oecd.ai · 2026-03-31 · [Q001550](../../berichte/Q00/Q0015/Q001550/)
-  - Stufe 4–7: clef **20 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **23 %** · drex **17 %**
-  - Stufe 3–7: clef **36 %** · Luna **81 %** · d3-ultra noch nicht bewertet · JEV **43 %** · amos **46 %** · drex **35 %**
+  - Stufe 4–7: clef **20 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **23 %** · drex **17 %** · SubQ **9 %**
+  - Stufe 3–7: clef **36 %** · Luna **81 %** · d3-ultra noch nicht bewertet · JEV **43 %** · amos **46 %** · drex **35 %** · SubQ **24 %**
   - Kurzfassung: Der OECD-Beitrag fordert angesichts des Mangels an nutzbaren KI-Daten einen rechtmäßigen, vertrauenswürdigen und fairen Austausch, dessen konkrete Lösungen noch erprobt werden müssen.
 - **[System One](https://docs.typesafe.ai/concepts/system-one)** · docs.typesafe.ai ·  · [Q004707](../../berichte/Q00/Q0047/Q004707/)
-  - Stufe 4–7: clef **4 %** · Luna **20 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **2 %**
-  - Stufe 3–7: clef **7 %** · Luna **63 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **6 %**
+  - Stufe 4–7: clef **4 %** · Luna **20 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **2 %** · SubQ **0 %**
+  - Stufe 3–7: clef **7 %** · Luna **63 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **6 %** · SubQ **1 %**
   - Kurzfassung: TypeSafe beschreibt System One als Modellklasse für strukturierte Entscheidungen in Software; Kalibrierung soll Unsicherheit abbilden, garantiert aber keine einzelne richtige Vorhersage.
 - **[The Rise of Ghibli-Inspired AI and the Artists Left Behind](https://frank-andrade.medium.com/the-rise-of-ghibli-inspired-ai-and-the-artists-left-behind-2e98faafa3a5)** · frank-andrade.medium.com · 2025-04-10 · [Q009859](../../berichte/Q00/Q0098/Q009859/)
-  - Stufe 4–7: clef **20 %** · Luna **11 %** · d3-ultra **1 %** · JEV **13 %** · amos **9 %** · drex **6 %**
-  - Stufe 3–7: clef **36 %** · Luna **65 %** · d3-ultra **8 %** · JEV **55 %** · amos **26 %** · drex **13 %**
+  - Stufe 4–7: clef **20 %** · Luna **11 %** · d3-ultra **1 %** · JEV **13 %** · amos **9 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **36 %** · Luna **65 %** · d3-ultra **8 %** · JEV **55 %** · amos **26 %** · drex **13 %** · SubQ **9 %**
   - Kurzfassung: Laut Bericht macht der Ghibli-KI-Trend Bildgestaltung zugänglicher, wirft aber Fragen zu Künstlerberufen, Authentizität und fairer Anerkennung auf.
 - **[What went into training DeepSeek-R1?](https://epoch.ai/gradient-updates/what-went-into-training-deepseek-r1)** · epoch.ai · 2025-01-31 · [Q006889](../../berichte/Q00/Q0068/Q006889/)
-  - Stufe 4–7: clef **16 %** · Luna **20 %** · d3-ultra **4 %** · JEV **6 %** · amos **17 %** · drex **11 %**
-  - Stufe 3–7: clef **27 %** · Luna **69 %** · d3-ultra **11 %** · JEV **15 %** · amos **40 %** · drex **21 %**
+  - Stufe 4–7: clef **16 %** · Luna **20 %** · d3-ultra **4 %** · JEV **6 %** · amos **17 %** · drex **11 %** · SubQ **4 %**
+  - Stufe 3–7: clef **27 %** · Luna **69 %** · d3-ultra **11 %** · JEV **15 %** · amos **40 %** · drex **21 %** · SubQ **10 %**
   - Kurzfassung: Der Autor schätzt R1s zusätzliche GPU-Trainingskosten auf rund eine Million Dollar und sieht das Modell bei ungefähr o1-Leistung zu deutlich geringerem API-Preis.
 - **[AI legal cases are increasing: how can we prepare?](https://oecd.ai/en/wonk/increasing-legal-cases)** · oecd.ai · 2023-01-09 · [Q006403](../../berichte/Q00/Q0064/Q006403/)
-  - Stufe 4–7: clef **14 %** · Luna **19 %** · d3-ultra **2 %** · JEV **1 %** · amos **19 %** · drex **14 %**
-  - Stufe 3–7: clef **31 %** · Luna **79 %** · d3-ultra **7 %** · JEV **12 %** · amos **43 %** · drex **28 %**
+  - Stufe 4–7: clef **14 %** · Luna **19 %** · d3-ultra **2 %** · JEV **1 %** · amos **19 %** · drex **14 %** · SubQ **6 %**
+  - Stufe 3–7: clef **31 %** · Luna **79 %** · d3-ultra **7 %** · JEV **12 %** · amos **43 %** · drex **28 %** · SubQ **15 %**
   - Kurzfassung: Der Beitrag fordert mehr Durchsetzungskapazität, gemeinsame KI-Standards und eine sorgfältige Prüfung der Tatsachen jedes Rechtsfalls.
 - **[A law for foundation models: the EU AI Act can improve regulation for fairer competition](https://oecd.ai/en/wonk/foundation-models-eu-ai-act-fairer-competition)** · oecd.ai · 2023-07-20 · [Q006018](../../berichte/Q00/Q0060/Q006018/)
-  - Stufe 4–7: clef **15 %** · Luna **19 %** · d3-ultra **4 %** · JEV **2 %** · amos **26 %** · drex **20 %**
-  - Stufe 3–7: clef **30 %** · Luna **64 %** · d3-ultra **12 %** · JEV **27 %** · amos **49 %** · drex **39 %**
+  - Stufe 4–7: clef **15 %** · Luna **19 %** · d3-ultra **4 %** · JEV **2 %** · amos **26 %** · drex **20 %** · SubQ **11 %**
+  - Stufe 3–7: clef **30 %** · Luna **64 %** · d3-ultra **12 %** · JEV **27 %** · amos **49 %** · drex **39 %** · SubQ **28 %**
   - Kurzfassung: Der Beitrag plädiert für einen gezielten EU AI Act, der besonders leistungsfähige foundation models reguliert und Risiken begrenzt, ohne kleinere Anbieter zu benachteiligen.
 - **[As language models and generative AI take the world by storm, the OECD is tracking the policy implications](https://oecd.ai/en/wonk/language-models-policy-implications)** · oecd.ai · 2023-04-13 · [Q003529](../../berichte/Q00/Q0035/Q003529/)
-  - Stufe 4–7: clef **11 %** · Luna **19 %** · d3-ultra **4 %** · JEV **1 %** · amos **16 %** · drex **11 %**
-  - Stufe 3–7: clef **28 %** · Luna **72 %** · d3-ultra **16 %** · JEV **26 %** · amos **40 %** · drex **26 %**
+  - Stufe 4–7: clef **11 %** · Luna **19 %** · d3-ultra **4 %** · JEV **1 %** · amos **16 %** · drex **11 %** · SubQ **6 %**
+  - Stufe 3–7: clef **28 %** · Luna **72 %** · d3-ultra **16 %** · JEV **26 %** · amos **40 %** · drex **26 %** · SubQ **21 %**
   - Kurzfassung: Der OECD-Beitrag sieht Chancen in KI-Sprachmodellen, warnt vor schwer kontrollierbaren gesellschaftlichen Risiken und fordert weitere Forschung, Standards und Zusammenarbeit.
 - **[China’s Access to Foreign AI Technology](https://cset.georgetown.edu/publication/chinas-access-to-foreign-ai-technology/)** · cset.georgetown.edu · 2019-09-15 · [Q005103](../../berichte/Q00/Q0051/Q005103/)
-  - Stufe 4–7: clef **16 %** · Luna **19 %** · d3-ultra **2 %** · JEV **3 %** · amos **7 %** · drex **8 %**
-  - Stufe 3–7: clef **31 %** · Luna **57 %** · d3-ultra **9 %** · JEV **20 %** · amos **25 %** · drex **16 %**
+  - Stufe 4–7: clef **16 %** · Luna **19 %** · d3-ultra **2 %** · JEV **3 %** · amos **7 %** · drex **8 %** · SubQ **3 %**
+  - Stufe 3–7: clef **31 %** · Luna **57 %** · d3-ultra **9 %** · JEV **20 %** · amos **25 %** · drex **16 %** · SubQ **11 %**
   - Kurzfassung: Der Auszug beschreibt Chinas breit angelegte, vermutlich fortbestehende Technologietransfers als Ergänzung eigener Innovationsarbeit und empfiehlt den USA, darauf werte- und sicherheitsgerecht zu reagieren.
 - **[Developing reliable AI tools for healthcare](https://deepmind.google/blog/codoc-developing-reliable-ai-tools-for-healthcare/)** · deepmind.google · 2023-07-17 · [Q002418](../../berichte/Q00/Q0024/Q002418/)
-  - Stufe 4–7: clef **10 %** · Luna **19 %** · d3-ultra **0 %** · JEV **52 %** · amos **12 %** · drex **7 %**
-  - Stufe 3–7: clef **16 %** · Luna **62 %** · d3-ultra **0 %** · JEV **66 %** · amos **25 %** · drex **11 %**
+  - Stufe 4–7: clef **10 %** · Luna **19 %** · d3-ultra **0 %** · JEV **52 %** · amos **12 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **62 %** · d3-ultra **0 %** · JEV **66 %** · amos **25 %** · drex **11 %** · SubQ **3 %**
   - Kurzfassung: CoDoC soll KI und klinische Einschätzung bei medizinischen Bildern passend kombinieren; die berichteten Vorteile stammen aus theoretischen Auswertungen historischer, de-identifizierter Daten, nicht aus dem klinischen Alltag.
 - **[European AI Office](http://digital-strategy.ec.europa.eu/en/policies/ai-office)** · digital-strategy.ec.europa.eu ·  · [Q000876](../../berichte/Q00/Q0008/Q000876/)
-  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **8 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **18 %** · Luna **53 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **19 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **8 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **18 %** · Luna **53 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **19 %** · drex **11 %** · SubQ **9 %**
   - Kurzfassung: Das Europäische KI-Büro soll laut Bericht die EU-KI-Regeln umsetzen und durchsetzen sowie vertrauenswürdige KI fördern; konkrete Ergebnisse oder die Wirksamkeit seiner Maßnahmen bewertet der Text nicht.
 - **[fb15a2a](https://partnershiponai.org/paper_page/fb15a2a/)** · partnershiponai.org · 2021-08-06 · [Q003144](../../berichte/Q00/Q0031/Q003144/)
-  - Stufe 4–7: clef **13 %** · Luna **19 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **10 %**
-  - Stufe 3–7: clef **26 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **26 %** · drex **19 %**
+  - Stufe 4–7: clef **13 %** · Luna **19 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **10 %** · SubQ **3 %**
+  - Stufe 3–7: clef **26 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **26 %** · drex **19 %** · SubQ **11 %**
   - Kurzfassung: Der bereitgestellte Auszug empfiehlt transparente Angaben zu Nutzung, Verteilung und Pflege von ML-Datensätzen und benennt dabei praktische, rechtliche und historische Zielkonflikte; es liegt nur ein Auszug vor.
 - **[Fondation France-Asie  –  Towards a Franco-Indian alliance based on shared principles for artificial intelligence, a strategic  imperative to shape global AI  governance.](https://fondationfranceasie.org/en/towards-a-franco-indian-alliance-based-on-shared-principles-for-artificial-intelligence-a-strategic-imperative-to-shape-global-ai-governance/)** · fondationfranceasie.org ·  · [Q000373](../../berichte/Q00/Q0003/Q000373/)
-  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **8 %**
-  - Stufe 3–7: clef **17 %** · Luna **74 %** · d3-ultra **3 %** · JEV **1 %** · amos **19 %** · drex **21 %**
+  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **8 %** · SubQ **2 %**
+  - Stufe 3–7: clef **17 %** · Luna **74 %** · d3-ultra **3 %** · JEV **1 %** · amos **19 %** · drex **21 %** · SubQ **8 %**
   - Kurzfassung: Die Autoren schlagen eine pragmatische französisch-indische KI-Partnerschaft mit gemeinsamen Prinzipien und Erprobungsräumen vor, um internationale Regeln anzunähern, ohne die nationalen Rechtsordnungen zu vereinheitlichen.
 - **[Global AI Governance Action Plan](https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202507/t20250729_11679232.html)** · fmprc.gov.cn ·  · [Q004628](../../berichte/Q00/Q0046/Q004628/)
-  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **17 %** · drex **10 %**
-  - Stufe 3–7: clef **18 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **39 %** · drex **26 %**
+  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **17 %** · drex **10 %** · SubQ **7 %**
+  - Stufe 3–7: clef **18 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **39 %** · drex **26 %** · SubQ **25 %**
   - Kurzfassung: Der Bericht skizziert 13 unverbindlich formulierte Handlungsfelder für eine inklusive, sichere und international kooperative KI-Governance, ohne konkrete Umsetzungsergebnisse oder Zeitpläne zu nennen.
 - **[GPT-2: 6-month follow-up](https://openai.com/index/gpt-2-6-month-follow-up/)** · openai.com · 2019-08-20 · [Q008679](../../berichte/Q00/Q0086/Q008679/)
-  - Stufe 4–7: clef **19 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **23 %** · drex **31 %**
-  - Stufe 3–7: clef **31 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **34 %** · amos **45 %** · drex **44 %**
+  - Stufe 4–7: clef **19 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **23 %** · drex **31 %** · SubQ **8 %**
+  - Stufe 3–7: clef **31 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **34 %** · amos **45 %** · drex **44 %** · SubQ **21 %**
   - Kurzfassung: OpenAI veröffentlichte GPT‑2 mit 774 Millionen Parametern, während es Risiken, Erkennung und weitere Freigaben mit Forschungspartnern untersuchte und die Veröffentlichung des größeren Modells noch offenließ.
 - **[Proportional oversight for AI model updates can boost AI adoption](https://oecd.ai/en/wonk/proportional-oversight-for-ai-model-updates-can-boost-ai-adoption)** · oecd.ai · 2025-05-29 · [Q003302](../../berichte/Q00/Q0033/Q003302/)
-  - Stufe 4–7: clef **9 %** · Luna **19 %** · d3-ultra **0 %** · JEV **0 %** · amos **15 %** · drex **15 %**
-  - Stufe 3–7: clef **21 %** · Luna **53 %** · d3-ultra **1 %** · JEV **2 %** · amos **32 %** · drex **26 %**
+  - Stufe 4–7: clef **9 %** · Luna **19 %** · d3-ultra **0 %** · JEV **0 %** · amos **15 %** · drex **15 %** · SubQ **3 %**
+  - Stufe 3–7: clef **21 %** · Luna **53 %** · d3-ultra **1 %** · JEV **2 %** · amos **32 %** · drex **26 %** · SubQ **8 %**
   - Kurzfassung: Der Bericht empfiehlt risikogestufte Prüfungen und laufende Überwachung von KI-Modellupdates; seine Befunde beruhen auf 143 Änderungsprotokollen von fünf Anbietern und zeigen potenzielle, nicht nachgewiesene Schäden.
 - **[Prover-Verifier Games improve legibility of language model outputs](https://openai.com/index/prover-verifier-games-improve-legibility/)** · openai.com · 2024-07-17 · [Q007410](../../berichte/Q00/Q0074/Q007410/)
-  - Stufe 4–7: clef **10 %** · Luna **19 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **21 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **20 %** · amos **19 %** · drex **11 %**
+  - Stufe 4–7: clef **10 %** · Luna **19 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **8 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **21 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **20 %** · amos **19 %** · drex **11 %** · SubQ **3 %**
   - Kurzfassung: Ein Prover-Verifier-Spiel soll laut Bericht die Prüfbarkeit von Modelllösungen verbessern und einen Teil des Genauigkeitsgewinns bewahren; untersucht wurde es bislang nur an einem Datensatz.
 - **[Truth, Lies, and Automation](https://cset.georgetown.edu/publication/truth-lies-and-automation/)** · cset.georgetown.edu · 2021-05-18 · [Q004352](../../berichte/Q00/Q0043/Q004352/)
-  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra **0 %** · JEV **2 %** · amos **7 %** · drex **5 %**
-  - Stufe 3–7: clef **13 %** · Luna **52 %** · d3-ultra **1 %** · JEV **9 %** · amos **17 %** · drex **9 %**
+  - Stufe 4–7: clef **8 %** · Luna **19 %** · d3-ultra **0 %** · JEV **2 %** · amos **7 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **52 %** · d3-ultra **1 %** · JEV **9 %** · amos **17 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Der bereitgestellte Auszug bewertet GPT‑3 als mögliche Hilfe für skalierbare Desinformation, hält die Gefahr für plausibel, aber nicht unvermeidlich, und nennt begrenzte Studienergebnisse.
 - **[7cbcf44](https://partnershiponai.org/paper_page/7cbcf44/)** · partnershiponai.org · 2021-08-06 · [Q003157](../../berichte/Q00/Q0031/Q003157/)
-  - Stufe 4–7: clef **13 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **14 %** · drex **9 %**
-  - Stufe 3–7: clef **25 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **31 %** · drex **17 %**
+  - Stufe 4–7: clef **13 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **14 %** · drex **9 %** · SubQ **3 %**
+  - Stufe 3–7: clef **25 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **31 %** · drex **17 %** · SubQ **8 %**
   - Kurzfassung: Der Auszug empfiehlt eine transparente Dokumentation von ML-Datensätzen und ihren Entscheidungsgrundlagen, betont aber zugleich mögliche Verzerrungen, Datenschutz- und Rechtsrisiken sowie offene Fragen.
 - **[A new expert group at the OECD for policy synergies in AI, data and privacy](https://oecd.ai/en/wonk/expert-group-data-privacy)** · oecd.ai · 2024-02-21 · [Q002064](../../berichte/Q00/Q0020/Q002064/)
-  - Stufe 4–7: clef **11 %** · Luna **18 %** · d3-ultra **1 %** · JEV **0 %** · amos **9 %** · drex **8 %**
-  - Stufe 3–7: clef **25 %** · Luna **59 %** · d3-ultra **6 %** · JEV **7 %** · amos **28 %** · drex **24 %**
+  - Stufe 4–7: clef **11 %** · Luna **18 %** · d3-ultra **1 %** · JEV **0 %** · amos **9 %** · drex **8 %** · SubQ **3 %**
+  - Stufe 3–7: clef **25 %** · Luna **59 %** · d3-ultra **6 %** · JEV **7 %** · amos **28 %** · drex **24 %** · SubQ **12 %**
   - Kurzfassung: Die OECD-Expertengruppe soll die Zusammenarbeit zwischen KI- und Datenschutzgemeinschaften stärken; der Beitrag skizziert ihre Ziele, nicht bereits erzielte Ergebnisse.
 - **[Bringing open AI models to the frontier](https://mistral.ai/news/about-mistral-ai/)** · mistral.ai · 2023-09-27 · [Q000952](../../berichte/Q00/Q0009/Q000952/)
-  - Stufe 4–7: clef **13 %** · Luna **18 %** · d3-ultra **1 %** · JEV **6 %** · amos **12 %** · drex **10 %**
-  - Stufe 3–7: clef **26 %** · Luna **79 %** · d3-ultra **5 %** · JEV **20 %** · amos **29 %** · drex **18 %**
+  - Stufe 4–7: clef **13 %** · Luna **18 %** · d3-ultra **1 %** · JEV **6 %** · amos **12 %** · drex **10 %** · SubQ **5 %**
+  - Stufe 3–7: clef **26 %** · Luna **79 %** · d3-ultra **5 %** · JEV **20 %** · amos **29 %** · drex **18 %** · SubQ **15 %**
   - Kurzfassung: Mistral AI kündigt offene Modelle wie Mistral 7B an und behauptet Leistungs-, Kosten- und Kontrollvorteile, belegt diese im Bericht jedoch nicht unabhängig.
 - **[Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)** · anthropic.com · 2026-01-22 · [Q003321](../../berichte/Q00/Q0033/Q003321/)
-  - Stufe 4–7: clef **15 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **47 %** · amos **15 %** · drex **12 %**
-  - Stufe 3–7: clef **24 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **28 %** · drex **17 %**
+  - Stufe 4–7: clef **15 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **47 %** · amos **15 %** · drex **12 %** · SubQ **5 %**
+  - Stufe 3–7: clef **24 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **54 %** · amos **28 %** · drex **17 %** · SubQ **12 %**
   - Kurzfassung: Anthropic veröffentlicht eine fortlaufend überarbeitbare Verfassung, die Claudes Training und Verhalten an Sicherheit, Ethik, Richtlinien und Hilfsbereitschaft ausrichten soll, ohne eine Übereinstimmung des tatsächlichen Modellverhaltens zu garantieren.
 - **[Early Insights from Developing Question-Answer Evaluations for Frontier AI](https://www.aisi.gov.uk/blog/early-insights-from-developing-question-answer-evaluations-for-frontier-ai)** · aisi.gov.uk · 2024-09-23 · [Q002266](../../berichte/Q00/Q0022/Q002266/)
-  - Stufe 4–7: clef **9 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **15 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **14 %** · drex **8 %**
+  - Stufe 4–7: clef **9 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **15 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **14 %** · drex **8 %** · SubQ **3 %**
   - Kurzfassung: Das damalige AI Safety Institute beschreibt offene KI-Frage-Antwort-Tests als nützliches, aber laufend zu überprüfendes Verfahren, das sorgfältige Fragen, Bewertungsregeln, Bewerterprüfungen und passende menschliche Vergleiche erfordert.
 - **[Frontier AI Frameworks Workstream](https://www.frontiermodelforum.org/workstreams/frontier-frameworks-workstream/)** · frontiermodelforum.org · 2025-01-16 · [Q001981](../../berichte/Q00/Q0019/Q001981/)
-  - Stufe 4–7: clef **5 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **4 %** · drex **3 %**
-  - Stufe 3–7: clef **11 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **10 %** · drex **6 %**
+  - Stufe 4–7: clef **5 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **4 %** · drex **3 %** · SubQ **1 %**
+  - Stufe 3–7: clef **11 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **10 %** · drex **6 %** · SubQ **5 %**
   - Kurzfassung: Das Frontier Model Forum beschreibt Ziele und Publikationen zu Sicherheitsrahmen für leistungsfähige KI, ohne deren Umsetzung oder Wirksamkeit nachzuweisen.
 - **[How one business school professor and AI expert uses Medium to share his ideas, build a following, and raise his professional profile](https://medium.com/blog/how-one-business-school-professor-and-ai-expert-uses-medium-to-share-his-ideas-build-a-following-f1310d38d88d)** · medium.com · 2023-06-29 · [Q011857](../../berichte/Q01/Q0118/Q011857/)
-  - Stufe 4–7: clef **6 %** · Luna **18 %** · d3-ultra **0 %** · JEV **4 %** · amos **8 %** · drex **9 %**
-  - Stufe 3–7: clef **14 %** · Luna **74 %** · d3-ultra **2 %** · JEV **11 %** · amos **21 %** · drex **17 %**
+  - Stufe 4–7: clef **6 %** · Luna **18 %** · d3-ultra **0 %** · JEV **4 %** · amos **8 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **74 %** · d3-ultra **2 %** · JEV **11 %** · amos **21 %** · drex **17 %** · SubQ **5 %**
   - Kurzfassung: Dans beschreibt Medium als hilfreichen Kanal für seine Texte und warnt zugleich vor KI-Fehlern und möglichen Arbeitsplatzverlusten durch Automatisierung.
 - **[Our approach to data and AI](https://openai.com/index/approach-to-data-and-ai/)** · openai.com · 2024-05-07 · [Q007542](../../berichte/Q00/Q0075/Q007542/)
-  - Stufe 4–7: clef **18 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **20 %** · amos **17 %** · drex **15 %**
-  - Stufe 3–7: clef **36 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **47 %** · amos **36 %** · drex **27 %**
+  - Stufe 4–7: clef **18 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **20 %** · amos **17 %** · drex **15 %** · SubQ **7 %**
+  - Stufe 3–7: clef **36 %** · Luna **85 %** · d3-ultra noch nicht bewertet · JEV **47 %** · amos **36 %** · drex **27 %** · SubQ **21 %**
   - Kurzfassung: OpenAI legt seine eigenen Grundsätze zu Trainingsdaten, Urheberpräferenzen und Partnerschaften dar und kündigt Media Manager an, ohne dass der Bericht die Unternehmensangaben unabhängig überprüft.
 - **[Singapore’s model framework balances innovation and trust in AI](https://oecd.ai/en/wonk/singapores-model-framework-to-balance-innovation-and-trust-in-ai)** · oecd.ai · 2020-06-24 · [Q009572](../../berichte/Q00/Q0095/Q009572/)
-  - Stufe 4–7: clef **9 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **18 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **12 %** · drex **7 %**
+  - Stufe 4–7: clef **9 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **66 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **12 %** · drex **7 %** · SubQ **5 %**
   - Kurzfassung: Singapur will mit freiwilligen, technologieübergreifenden KI-Leitlinien und ergänzenden Initiativen Innovation und Vertrauen verbinden; der Bericht beschreibt eigene Vorhaben, weist aber keine unabhängige Wirksamkeitsprüfung aus.
 - **[Template for general-purpose AI model providers to summarise their training content](http://digital-strategy.ec.europa.eu/en/faqs/template-general-purpose-ai-model-providers-summarise-their-training-content)** · digital-strategy.ec.europa.eu ·  · [Q001793](../../berichte/Q00/Q0017/Q001793/)
-  - Stufe 4–7: clef **17 %** · Luna **18 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **29 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **34 %** · Luna **69 %** · d3-ultra **18 %** · JEV noch nicht bewertet · amos **50 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **17 %** · Luna **18 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **29 %** · drex **21 %** · SubQ **7 %**
+  - Stufe 3–7: clef **34 %** · Luna **69 %** · d3-ultra **18 %** · JEV noch nicht bewertet · amos **50 %** · drex **33 %** · SubQ **19 %**
   - Kurzfassung: Laut EU-FAQ müssen Anbieter allgemeiner KI-Modelle auf dem Unionsmarkt ihre Trainingsinhalte nach einer verbindlichen Vorlage öffentlich zusammenfassen, mit begrenzten und zu begründenden Informationslücken.
 - **[Towards algorithm auditing: A research overview](https://oecd.ai/en/wonk/algorithm-auditing-research-overview)** · oecd.ai · 2024-07-04 · [Q005375](../../berichte/Q00/Q0053/Q005375/)
-  - Stufe 4–7: clef **7 %** · Luna **18 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **5 %**
-  - Stufe 3–7: clef **13 %** · Luna **69 %** · d3-ultra **1 %** · JEV **0 %** · amos **17 %** · drex **10 %**
+  - Stufe 4–7: clef **7 %** · Luna **18 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **13 %** · Luna **69 %** · d3-ultra **1 %** · JEV **0 %** · amos **17 %** · drex **10 %** · SubQ **6 %**
   - Kurzfassung: Der Beitrag plädiert für wiederkehrende, kontextspezifische Algorithmus-Audits, deren Zusicherung nur die tatsächlich geprüften Standards und Rechtsvorgaben abdeckt.
 - **[What is AI? Can you make a clear distinction between AI and non-AI systems?](https://oecd.ai/en/wonk/definition)** · oecd.ai · 2024-03-06 · [Q005409](../../berichte/Q00/Q0054/Q005409/)
-  - Stufe 4–7: clef **7 %** · Luna **18 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **6 %**
-  - Stufe 3–7: clef **17 %** · Luna **76 %** · d3-ultra **2 %** · JEV **4 %** · amos **19 %** · drex **15 %**
+  - Stufe 4–7: clef **7 %** · Luna **18 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **76 %** · d3-ultra **2 %** · JEV **4 %** · amos **19 %** · drex **15 %** · SubQ **6 %**
   - Kurzfassung: Laut OECD-Bericht beschreibt die überarbeitete Definition KI-Systeme breit als Systeme, die aus Eingaben zielbezogene Ausgaben ableiten; sie ersetzt keine Regeln zu Haftung und Verantwortung und lässt kontextbezogene Regulierung offen.
 - **[What Parameter Golf taught us about AI-assisted research](https://openai.com/index/what-parameter-golf-taught-us/)** · openai.com · 2026-05-12 · [Q004077](../../berichte/Q00/Q0040/Q004077/)
-  - Stufe 4–7: clef **11 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **23 %** · drex **6 %**
-  - Stufe 3–7: clef **19 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **23 %** · amos **43 %** · drex **10 %**
+  - Stufe 4–7: clef **11 %** · Luna **18 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **23 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **19 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **23 %** · amos **43 %** · drex **10 %** · SubQ **9 %**
   - Kurzfassung: OpenAI berichtet, dass Coding-Agenten „Parameter Golf“ zugänglicher und experimentierfreudiger machten, zugleich aber die Prüfung von mehr als 2.000 Einreichungen erschwerten.
 - **[You Are Evaluating Sovereign AI Wrong](https://medium.com/@amosgyamfi/you-are-evaluating-sovereign-ai-wrong-8a1ea65f3bef)** · medium.com · 2026-11-14 · [Q011506](../../berichte/Q01/Q0115/Q011506/)
-  - Stufe 4–7: clef **16 %** · Luna **18 %** · d3-ultra **1 %** · JEV **14 %** · amos **26 %** · drex **18 %**
-  - Stufe 3–7: clef **26 %** · Luna **59 %** · d3-ultra **5 %** · JEV **41 %** · amos **50 %** · drex **32 %**
+  - Stufe 4–7: clef **16 %** · Luna **18 %** · d3-ultra **1 %** · JEV **14 %** · amos **26 %** · drex **18 %** · SubQ **8 %**
+  - Stufe 3–7: clef **26 %** · Luna **59 %** · d3-ultra **5 %** · JEV **41 %** · amos **50 %** · drex **32 %** · SubQ **22 %**
   - Kurzfassung: Der Beitrag empfiehlt, KI-Souveränität anhand von Kontrolle über Rechenleistung, Daten, Modelle und Wechselmöglichkeiten zu prüfen, statt sie allein am Serverstandort oder an offenen Modellgewichten festzumachen.
 - **[An introduction to the Global Partnership on AI’s work on data governance](https://oecd.ai/en/wonk/an-introduction-to-the-global-partnership-on-ais-work-on-data-governance)** · oecd.ai · 2020-08-21 · [Q007156](../../berichte/Q00/Q0071/Q007156/)
-  - Stufe 4–7: clef **10 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %**
-  - Stufe 3–7: clef **25 %** · Luna **66 %** · d3-ultra **1 %** · JEV **1 %** · amos **15 %** · drex **13 %**
+  - Stufe 4–7: clef **10 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **25 %** · Luna **66 %** · d3-ultra **1 %** · JEV **1 %** · amos **15 %** · drex **13 %** · SubQ **6 %**
   - Kurzfassung: Der Beitrag stellt die 2020 geplante Arbeit der GPAI-Gruppe zu verantwortungsvoller Datennutzung vor, berichtet jedoch noch keine Ergebnisse.
 - **[Bridging the gap in AI governance and the rule of law: The Athens Roundtable 2023](https://oecd.ai/en/wonk/athens-roundtable-2023)** · oecd.ai · 2023-10-26 · [Q005767](../../berichte/Q00/Q0057/Q005767/)
-  - Stufe 4–7: clef **17 %** · Luna **16 %** · d3-ultra **3 %** · JEV **5 %** · amos **18 %** · drex **12 %**
-  - Stufe 3–7: clef **38 %** · Luna **64 %** · d3-ultra **8 %** · JEV **22 %** · amos **40 %** · drex **25 %**
+  - Stufe 4–7: clef **17 %** · Luna **16 %** · d3-ultra **3 %** · JEV **5 %** · amos **18 %** · drex **12 %** · SubQ **6 %**
+  - Stufe 3–7: clef **38 %** · Luna **64 %** · d3-ultra **8 %** · JEV **22 %** · amos **40 %** · drex **25 %** · SubQ **21 %**
   - Kurzfassung: Die Ankündigung der Athens Roundtable 2023 fordert eine rechtebasierte, international koordinierte KI-Governance mit zentraler Beteiligung der Zivilgesellschaft, enthält aber keine späteren Konferenzergebnisse.
 - **[European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)** · digital-strategy.ec.europa.eu ·  · [Q001353](../../berichte/Q00/Q0013/Q001353/)
-  - Stufe 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **1 %** · amos **8 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **89 %** · d3-ultra **5 %** · JEV **4 %** · amos **24 %** · drex **11 %**
+  - Stufe 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **1 %** · amos **8 %** · drex **5 %** · SubQ **3 %**
+  - Stufe 3–7: clef **17 %** · Luna **89 %** · d3-ultra **5 %** · JEV **4 %** · amos **24 %** · drex **11 %** · SubQ **14 %**
   - Kurzfassung: Die EU verbindet laut Bericht KI-Förderung mit Regulierung, doch die Seite nennt vor allem Ziele und Maßnahmen und führt uneinheitliche Daten zum KI-Gesetz an.
 - **[Evolving with innovation: The 2024 OECD AI Principles update](https://oecd.ai/en/wonk/evolving-with-innovation-the-2024-oecd-ai-principles-update)** · oecd.ai · 2024-05-20 · [Q005362](../../berichte/Q00/Q0053/Q005362/)
-  - Stufe 4–7: clef **12 %** · Luna **17 %** · d3-ultra **1 %** · JEV **1 %** · amos **11 %** · drex **8 %**
-  - Stufe 3–7: clef **27 %** · Luna **73 %** · d3-ultra **6 %** · JEV **11 %** · amos **30 %** · drex **17 %**
+  - Stufe 4–7: clef **12 %** · Luna **17 %** · d3-ultra **1 %** · JEV **1 %** · amos **11 %** · drex **8 %** · SubQ **3 %**
+  - Stufe 3–7: clef **27 %** · Luna **73 %** · d3-ultra **6 %** · JEV **11 %** · amos **30 %** · drex **17 %** · SubQ **10 %**
   - Kurzfassung: Die OECD-Grundsätze sollen Länder bei einer abgestimmten, aber anpassbaren KI-Regulierung unterstützen; laut Beitrag hängt ihre Wirkung von der nationalen Umsetzung ab.
 - **[How countries are implementing the OECD Principles for Trustworthy AI](https://oecd.ai/en/wonk/national-policies-2)** · oecd.ai · 2023-10-31 · [Q003111](../../berichte/Q00/Q0031/Q003111/)
-  - Stufe 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **7 %**
-  - Stufe 3–7: clef **14 %** · Luna **54 %** · d3-ultra **2 %** · JEV **1 %** · amos **18 %** · drex **14 %**
+  - Stufe 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **14 %** · Luna **54 %** · d3-ultra **2 %** · JEV **1 %** · amos **18 %** · drex **14 %** · SubQ **6 %**
   - Kurzfassung: Laut OECD setzen Staaten die KI-Grundsätze mit vielfältigen Strategien und Maßnahmen um, doch der Beitrag dokumentiert vor allem Beispiele und belegt nicht vergleichend deren Wirksamkeit.
 - **[Key Concepts in AI Safety: Specification in Machine Learning](https://cset.georgetown.edu/publication/key-concepts-in-ai-safety-specification-in-machine-learning/)** · cset.georgetown.edu · 2021-11-30 · [Q003416](../../berichte/Q00/Q0034/Q003416/)
-  - Stufe 4–7: clef **5 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %**
-  - Stufe 3–7: clef **16 %** · Luna **51 %** · d3-ultra **1 %** · JEV **0 %** · amos **8 %** · drex **5 %**
+  - Stufe 4–7: clef **5 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %** · SubQ **0 %**
+  - Stufe 3–7: clef **16 %** · Luna **51 %** · d3-ultra **1 %** · JEV **0 %** · amos **8 %** · drex **5 %** · SubQ **2 %**
   - Kurzfassung: Der Auszug erklärt, dass Lernsysteme Vorgaben wörtlich erfüllen können, ohne die eigentliche Absicht zu treffen, und fordert Robustheit gegenüber Spezifikationsfehlern.
 - **[Large Language Models as Rankers, Judges, and Assistants: A Perspective on the Potential Over-Reliance on LLMs in IR](https://deepmind.google/research/publications/147939/)** · deepmind.google · 2025-07-13 · [Q005066](../../berichte/Q00/Q0050/Q005066/)
-  - Stufe 4–7: clef **11 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **8 %** · drex **7 %**
-  - Stufe 3–7: clef **32 %** · Luna **54 %** · d3-ultra **3 %** · JEV **4 %** · amos **22 %** · drex **18 %**
+  - Stufe 4–7: clef **11 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **8 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **32 %** · Luna **54 %** · d3-ultra **3 %** · JEV **4 %** · amos **22 %** · drex **18 %** · SubQ **6 %**
   - Kurzfassung: Der Abstract kündigt eine Untersuchung der vielfältigen LLM-Rollen in der Informationssuche und möglicher Abhängigkeitsrisiken an, nennt aber keine konkreten Versuchsergebnisse.
 - **[Machines, Bureaucracies, and Markets as Artificial Intelligences](https://cset.georgetown.edu/publication/machines-bureaucracies-and-markets-as-artificial-intelligences/)** · cset.georgetown.edu · 2022-01-05 · [Q001451](../../berichte/Q00/Q0014/Q001451/)
-  - Stufe 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **19 %** · Luna **74 %** · d3-ultra **3 %** · JEV **1 %** · amos **16 %** · drex **10 %**
+  - Stufe 4–7: clef **7 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **19 %** · Luna **74 %** · d3-ultra **3 %** · JEV **1 %** · amos **16 %** · drex **10 %** · SubQ **4 %**
   - Kurzfassung: Der Auszug plädiert dafür, Maschinen, Märkte und Bürokratien gemeinsam als datenverarbeitende künstliche Intelligenzen zu betrachten, deren Wechselwirkungen neue Regulierungsfragen aufwerfen.
 - **[Models as Insider Risks in the Super Intelligence Era](https://x.com/satyanadella/status/2108931348857827686?a=RXRZuAAPG0S0dFX1ulU&s=20)** · x.com · 2026-10-10 · [Q005078](../../berichte/Q00/Q0050/Q005078/)
-  - Stufe 4–7: clef **9 %** · Luna **17 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **6 %**
-  - Stufe 3–7: clef **16 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **12 %** · drex **11 %**
+  - Stufe 4–7: clef **9 %** · Luna **17 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **6 %** · SubQ **4 %**
+  - Stufe 3–7: clef **16 %** · Luna **86 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **12 %** · drex **11 %** · SubQ **10 %**
   - Kurzfassung: Der Beitrag plädiert dafür, leistungsfähige KI durch externe, überprüfbare Kontrollen zu begrenzen, statt sich auf Vertrauen in das Modell zu verlassen.
 - **[Paris Call for AI safety and security.](https://www.elysee.fr/en/emmanuel-macron/2026/11/09/paris-call-for-ai-safety-and-security)** · elysee.fr · 2026-11-09 · [Q000411](../../berichte/Q00/Q0004/Q000411/)
-  - Stufe 4–7: clef **6 %** · Luna **17 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **9 %** · drex **8 %**
-  - Stufe 3–7: clef **12 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **20 %** · drex **16 %**
+  - Stufe 4–7: clef **6 %** · Luna **17 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **9 %** · drex **8 %** · SubQ **4 %**
+  - Stufe 3–7: clef **12 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **20 %** · drex **16 %** · SubQ **11 %**
   - Kurzfassung: Die Erklärung vereinbart gemeinsame Vorhaben für KI-Prüfung, Verantwortlichkeit und Frühwarnung, belegt jedoch nicht, dass diese Maßnahmen bereits umgesetzt sind.
 - **[Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)** · anthropic.com · 2026-11-02 · [Q000472](../../berichte/Q00/Q0004/Q000472/)
-  - Stufe 4–7: clef **15 %** · Luna **17 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **10 %** · drex **9 %**
-  - Stufe 3–7: clef **24 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **23 %** · drex **15 %**
+  - Stufe 4–7: clef **15 %** · Luna **17 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **10 %** · drex **9 %** · SubQ **4 %**
+  - Stufe 3–7: clef **24 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **23 %** · drex **15 %** · SubQ **9 %**
   - Kurzfassung: FlashProve soll Modellantworten kryptografisch überprüfbar machen; der Forschungsprototyp zeigt laut Anthropic viel schnellere Beweiserzeugung als frühere offene Systeme, bleibt aber durch kurze Kontexte und weitere technische Einschränkungen begrenzt.
 - **[Questions and answers on the code of practice for General-Purpose AI](http://digital-strategy.ec.europa.eu/en/faqs/questions-and-answers-code-practice-general-purpose-ai)** · digital-strategy.ec.europa.eu ·  · [Q001467](../../berichte/Q00/Q0014/Q001467/)
-  - Stufe 4–7: clef **17 %** · Luna **13 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **20 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **33 %** · Luna **56 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **42 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **17 %** · Luna **13 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **20 %** · drex **13 %** · SubQ **6 %**
+  - Stufe 3–7: clef **33 %** · Luna **56 %** · d3-ultra **8 %** · JEV noch nicht bewertet · amos **42 %** · drex **30 %** · SubQ **17 %**
   - Kurzfassung: Der Auszug erklärt Zweck, Themen und Zeitplan des freiwilligen EU-Kodex für GPAI-Anbieter und endet mit einer unbeantworteten Frage nach weiteren Informationen.
 - **[Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)** · karpathy.medium.com · 2017-11-11 · [Q009584](../../berichte/Q00/Q0095/Q009584/)
-  - Stufe 4–7: clef **6 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **12 %** · Luna **79 %** · d3-ultra **2 %** · JEV **4 %** · amos **15 %** · drex **9 %**
+  - Stufe 4–7: clef **6 %** · Luna **17 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **12 %** · Luna **79 %** · d3-ultra **2 %** · JEV **4 %** · amos **15 %** · drex **9 %** · SubQ **3 %**
   - Kurzfassung: Karpathy zufolge verschiebt „Software 2.0“ Programmierarbeit von expliziten Anweisungen hin zu Daten und Training – mit großen Chancen, aber auch schwer durchschaubaren Risiken.
 - **[A framework to navigate the emerging regulatory landscape for AI](https://oecd.ai/en/wonk/emerging-regulatory-landscape-ai)** · oecd.ai · 2022-05-04 · [Q006237](../../berichte/Q00/Q0062/Q006237/)
-  - Stufe 4–7: clef **8 %** · Luna **16 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **14 %** · Luna **68 %** · d3-ultra **1 %** · JEV **0 %** · amos **15 %** · drex **9 %**
+  - Stufe 4–7: clef **8 %** · Luna **16 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **68 %** · d3-ultra **1 %** · JEV **0 %** · amos **15 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: Der Beitrag von 2022 empfiehlt Organisationen, sich mit internationalen Standards und dem RAII-Bewertungsrahmen auf eine entstehende KI-Regulierung einzustellen, wobei mehrere beschriebene Gesetze noch Entwürfe waren.
 - **[AI Act](http://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)** · digital-strategy.ec.europa.eu ·  · [Q000990](../../berichte/Q00/Q0009/Q000990/)
-  - Stufe 4–7: clef **7 %** · Luna **16 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **5 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **17 %** · Luna **58 %** · d3-ultra **4 %** · JEV noch nicht bewertet · amos **15 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **7 %** · Luna **16 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **5 %** · drex **3 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **58 %** · d3-ultra **4 %** · JEV noch nicht bewertet · amos **15 %** · drex **6 %** · SubQ **7 %**
   - Kurzfassung: Der vorliegende Auszug erklärt Ziel und Begründung des risikobasierten AI Act und nennt begleitende EU-Initiativen, ohne die konkreten Regeln näher darzustellen.
 - **[Building the foundations for collaboration: The OECD-African Union AI Dialogue](https://oecd.ai/en/wonk/oecd-au-ai-dialogue)** · oecd.ai · 2024-04-12 · [Q003136](../../berichte/Q00/Q0031/Q003136/)
-  - Stufe 4–7: clef **8 %** · Luna **16 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **16 %** · Luna **55 %** · d3-ultra **1 %** · JEV **0 %** · amos **11 %** · drex **9 %**
+  - Stufe 4–7: clef **8 %** · Luna **16 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **55 %** · d3-ultra **1 %** · JEV **0 %** · amos **11 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: Der OECD-AU-Dialog erörterte Wege zu gemeinsamer, inklusiver KI-Governance, doch der Bericht beschreibt vor allem Ziele und Diskussionen und belegt keine konkreten Wirkungen.
 - **[GPAI SAFE project report: Technical trustworthiness and data governance assurance of models](https://oecd.ai/en/wonk/documents/gpai-safe-project-report-technical-trustworthiness-and-data-governance-assurance-of-models)** · oecd.ai · 2025-09-02 · [Q002626](../../berichte/Q00/Q0026/Q002626/)
-  - Stufe 4–7: clef **10 %** · Luna **16 %** · d3-ultra **1 %** · JEV **2 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **29 %** · Luna **68 %** · d3-ultra **10 %** · JEV **19 %** · amos **26 %** · drex **16 %**
+  - Stufe 4–7: clef **10 %** · Luna **16 %** · d3-ultra **1 %** · JEV **2 %** · amos **8 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **29 %** · Luna **68 %** · d3-ultra **10 %** · JEV **19 %** · amos **26 %** · drex **16 %** · SubQ **11 %**
   - Kurzfassung: Der vorliegende Auszug stellt SAFE und seine zwei Arbeitsbereiche vor, enthält aber keine konkreten Methoden oder Ergebnisse.
 - **[How we think about safety and alignment](https://openai.com/safety/how-we-think-about-safety-alignment/)** · openai.com ·  · [Q009304](../../berichte/Q00/Q0093/Q009304/)
-  - Stufe 4–7: clef **9 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **13 %** · drex **9 %**
-  - Stufe 3–7: clef **17 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **29 %** · drex **17 %**
+  - Stufe 4–7: clef **9 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **13 %** · drex **9 %** · SubQ **6 %**
+  - Stufe 3–7: clef **17 %** · Luna **65 %** · d3-ultra noch nicht bewertet · JEV **7 %** · amos **29 %** · drex **17 %** · SubQ **20 %**
   - Kurzfassung: OpenAI setzt laut Bericht auf schrittweise Erprobung, mehrschichtige Schutzmaßnahmen, menschliche Kontrolle und gemeinsame Verantwortung, räumt jedoch erhebliche Unsicherheit und offene Wirksamkeitsfragen ein.
 - **[https://segib.org/wp-content/uploads/2026/11/Declaracion_Madrid_Transformacion_Digital_IA-ES.pdf](https://segib.org/wp-content/uploads/2026/11/Declaracion_Madrid_Transformacion_Digital_IA-ES.pdf)** · segib.org ·  · [Q000370](../../berichte/Q00/Q0003/Q000370/)
-  - Stufe 4–7: clef **14 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **13 %** · drex **8 %**
-  - Stufe 3–7: clef **26 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **35 %** · drex **22 %**
+  - Stufe 4–7: clef **14 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **13 %** · drex **8 %** · SubQ **5 %**
+  - Stufe 3–7: clef **26 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **35 %** · drex **22 %** · SubQ **17 %**
   - Kurzfassung: Die iberoamerikanischen Staaten formulieren gemeinsame KI-Leitlinien und planen freiwillige regionale Zusammenarbeit, doch zentrale Vorhaben stehen noch aus; Argentinien und Paraguay distanzieren sich von der Erklärung.
 - **[Improving language model behavior by training on a curated dataset](https://openai.com/index/improving-language-model-behavior/)** · openai.com · 2021-06-10 · [Q008184](../../berichte/Q00/Q0081/Q008184/)
-  - Stufe 4–7: clef **9 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **9 %** · drex **6 %**
-  - Stufe 3–7: clef **19 %** · Luna **72 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **20 %** · drex **11 %**
+  - Stufe 4–7: clef **9 %** · Luna **16 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **9 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **72 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **20 %** · drex **11 %** · SubQ **5 %**
   - Kurzfassung: Laut Bericht kann ein kleines, gezielt erstelltes Datenset das Verhalten von Sprachmodellen beeinflussen, doch Wertauswahl, Messverzerrungen und Übertragbarkeit bleiben offene Fragen.
 - **[Language modelling at scale: Gopher, ethical considerations, and retrieval](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/)** · deepmind.google · 2021-12-08 · [Q003143](../../berichte/Q00/Q0031/Q003143/)
-  - Stufe 4–7: clef **9 %** · Luna **16 %** · d3-ultra **0 %** · JEV **1 %** · amos **9 %** · drex **7 %**
-  - Stufe 3–7: clef **21 %** · Luna **66 %** · d3-ultra **3 %** · JEV **12 %** · amos **24 %** · drex **16 %**
+  - Stufe 4–7: clef **9 %** · Luna **16 %** · d3-ultra **0 %** · JEV **1 %** · amos **9 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **21 %** · Luna **66 %** · d3-ultra **3 %** · JEV **12 %** · amos **24 %** · drex **16 %** · SubQ **9 %**
   - Kurzfassung: DeepMind stellt Gopher, Risiken großer Sprachmodelle und RETRO vor und betont sowohl Leistungsfortschritte als auch anhaltende Fehler und offenen Forschungsbedarf.
 - **[The Birth of Modern AI](https://frank-andrade.medium.com/the-birth-of-modern-ai-07d7a874b871)** · frank-andrade.medium.com · 2024-07-19 · [Q009940](../../berichte/Q00/Q0099/Q009940/)
-  - Stufe 4–7: clef **6 %** · Luna **16 %** · d3-ultra **0 %** · JEV **0 %** · amos **8 %** · drex **7 %**
-  - Stufe 3–7: clef **20 %** · Luna **62 %** · d3-ultra **2 %** · JEV **1 %** · amos **23 %** · drex **14 %**
+  - Stufe 4–7: clef **6 %** · Luna **16 %** · d3-ultra **0 %** · JEV **0 %** · amos **8 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **20 %** · Luna **62 %** · d3-ultra **2 %** · JEV **1 %** · amos **23 %** · drex **14 %** · SubQ **6 %**
   - Kurzfassung: Andrade beschreibt den Aufstieg moderner KI als Ergebnis technischer Durchbrüche und des Wettbewerbs einflussreicher Unternehmen und Personen; seine Deutungen sind eine erzählerische Einordnung, keine systematisch belegte Geschichtsdarstellung.
 - **[The United States works with domestic and international AI communities to establish frameworks that advance trustworthy AI for all](https://oecd.ai/en/wonk/united-states-ai-for-all-policy)** · oecd.ai · 2023-12-20 · [Q005707](../../berichte/Q00/Q0057/Q005707/)
-  - Stufe 4–7: clef **16 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **16 %** · drex **10 %**
-  - Stufe 3–7: clef **34 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **39 %** · drex **21 %**
+  - Stufe 4–7: clef **16 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **16 %** · drex **10 %** · SubQ **4 %**
+  - Stufe 3–7: clef **34 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **16 %** · amos **39 %** · drex **21 %** · SubQ **14 %**
   - Kurzfassung: Die US-Regierung will laut Bericht KI durch Risikomanagement, Sicherheitsmaßnahmen und internationale Abstimmung vertrauenswürdiger gestalten; die Darstellung beschreibt vor allem Ziele und laufende Vorhaben, nicht deren unabhängig geprüfte Wirkung.
 - **[《智能体发展自律公约》发布](https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixqaaz8120242.shtml)** · finance.sina.com.cn · 2026-11-04 · [Q000412](../../berichte/Q00/Q0004/Q000412/)
-  - Stufe 4–7: clef **12 %** · Luna **16 %** · d3-ultra **1 %** · JEV **1 %** · amos **14 %** · drex **8 %**
-  - Stufe 3–7: clef **22 %** · Luna **54 %** · d3-ultra **3 %** · JEV **4 %** · amos **30 %** · drex **15 %**
+  - Stufe 4–7: clef **12 %** · Luna **16 %** · d3-ultra **1 %** · JEV **1 %** · amos **14 %** · drex **8 %** · SubQ **4 %**
+  - Stufe 3–7: clef **22 %** · Luna **54 %** · d3-ultra **3 %** · JEV **4 %** · amos **30 %** · drex **15 %** · SubQ **11 %**
   - Kurzfassung: Ein neuer Selbstregulierungspakt formuliert acht Ziele für vertrauenswürdige, sichere und breit zugängliche intelligente Agenten, doch der Bericht nennt noch keine belegten Umsetzungsergebnisse.
 - **[Advancing accountability in AI: Governing and managing risks throughout the lifecycle for trustworthy AI](https://oecd.ai/en/ai-publications/advancing-accountability)** · oecd.ai · 2023-02-23 · [Q005948](../../berichte/Q00/Q0059/Q005948/)
-  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **21 %** · Luna **54 %** · d3-ultra **2 %** · JEV **2 %** · amos **17 %** · drex **10 %**
+  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **21 %** · Luna **54 %** · d3-ultra **2 %** · JEV **2 %** · amos **17 %** · drex **10 %** · SubQ **5 %**
   - Kurzfassung: Der Abstract skizziert Ansätze zur Steuerung von KI-Risiken über den Systemlebenszyklus hinweg, nennt dafür OECD-, ISO- und NIST-Rahmenwerke, liefert aber selbst keine konkreten Ergebnisse.
 - **[Customizing GPT-3 for your application](https://openai.com/index/customizing-gpt-3/)** · openai.com · 2021-12-14 · [Q009039](../../berichte/Q00/Q0090/Q009039/)
-  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **16 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **20 %** · drex **12 %**
+  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **8 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **25 %** · amos **20 %** · drex **12 %** · SubQ **7 %**
   - Kurzfassung: OpenAI zufolge kann Fine-Tuning GPT‑3 für bestimmte Anwendungen verbessern; die angeführten Kundenzahlen werden im Bericht jedoch methodisch kaum erläutert.
 - **[Information Security Technology-Security Specification and Assessment Methods for Machine Learning Algorithms](https://cset.georgetown.edu/publication/china-ml-algorithm-security-draft-standard/)** · cset.georgetown.edu · 2023-03-01 · [Q005723](../../berichte/Q00/Q0057/Q005723/)
-  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **5 %**
-  - Stufe 3–7: clef **18 %** · Luna **60 %** · d3-ultra **5 %** · JEV **2 %** · amos **15 %** · drex **9 %**
+  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra **1 %** · JEV **0 %** · amos **7 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **60 %** · d3-ultra **5 %** · JEV **2 %** · amos **15 %** · drex **9 %** · SubQ **6 %**
   - Kurzfassung: Nur ein Auszug: Der chinesische Standardentwurf soll die Sicherheit von ML-Algorithmen adressieren, doch konkrete Vorgaben und Bewertungsmethoden sind im Text nicht enthalten.
 - **[Open technical problems in open-weight AI model risk management](https://www.aisi.gov.uk/research/open-technical-problems-in-open-weight-ai-model-risk-management)** · aisi.gov.uk · 2025-10-26 · [Q002007](../../berichte/Q00/Q0020/Q002007/)
-  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **10 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **25 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **25 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **10 %** · drex noch nicht bewertet · SubQ **2 %**
+  - Stufe 3–7: clef **25 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **25 %** · drex noch nicht bewertet · SubQ **9 %**
   - Kurzfassung: Der vorliegende Abstract skizziert 16 offene Sicherheitsprobleme bei KI-Modellen mit offenen Gewichten und fordert mehr Transparenz über Forschung, Methoden und Evaluationen.
 - **[Our approach to AI safety](https://openai.com/index/our-approach-to-ai-safety/)** · openai.com · 2023-04-05 · [Q007654](../../berichte/Q00/Q0076/Q007654/)
-  - Stufe 4–7: clef **8 %** · Luna **15 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **8 %**
-  - Stufe 3–7: clef **16 %** · Luna **73 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **20 %** · drex **16 %**
+  - Stufe 4–7: clef **8 %** · Luna **15 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **8 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **73 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **20 %** · drex **16 %** · SubQ **8 %**
   - Kurzfassung: OpenAI schildert eigene Sicherheitsmaßnahmen für KI, räumt fortbestehende Risiken ein und präsentiert Verbesserungswerte, ohne sie im Bericht unabhängig überprüfen zu lassen.
 - **[Testimony before the U.S. House Committee on the Judiciary, Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet](https://cset.georgetown.edu/publication/testimony-before-the-u-s-house-committee-on-the-judiciary-subcommittee-on-courts-intellectual-property-artificial-intelligence-and-the-internet/)** · cset.georgetown.edu · 2025-05-07 · [Q002803](../../berichte/Q00/Q0028/Q002803/)
-  - Stufe 4–7: clef **15 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **8 %**
-  - Stufe 3–7: clef **31 %** · Luna **74 %** · d3-ultra **8 %** · JEV **3 %** · amos **24 %** · drex **17 %**
+  - Stufe 4–7: clef **15 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **8 %** · SubQ **1 %**
+  - Stufe 3–7: clef **31 %** · Luna **74 %** · d3-ultra **8 %** · JEV **3 %** · amos **24 %** · drex **17 %** · SubQ **10 %**
   - Kurzfassung: Der Auszug argumentiert, die US-Regierung solle laut Helen Toner zugleich KI-Geschäftsgeheimnisse schützen und die Technologie führender Unternehmen beobachten; konkrete Maßnahmen nennt der Textausschnitt nicht.
 - **[The Use of Open Models in Research](https://cset.georgetown.edu/publication/the-use-of-open-models-in-research/)** · cset.georgetown.edu · 2025-10-23 · [Q002285](../../berichte/Q00/Q0022/Q002285/)
-  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra **1 %** · JEV **2 %** · amos **9 %** · drex **7 %**
-  - Stufe 3–7: clef **20 %** · Luna **64 %** · d3-ultra **9 %** · JEV **17 %** · amos **27 %** · drex **15 %**
+  - Stufe 4–7: clef **9 %** · Luna **15 %** · d3-ultra **1 %** · JEV **2 %** · amos **9 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **20 %** · Luna **64 %** · d3-ultra **9 %** · JEV **17 %** · amos **27 %** · drex **15 %** · SubQ **8 %**
   - Kurzfassung: Der bereitgestellte Text ist nur ein Auszug: Laut den Verfassenden ermöglichen offene Modellgewichte vielfältigere Forschungsansätze, während geschlossene Modelle in der untersuchten Stichprobe überwiegend gepromptet wurden.
 - **[Training a custom model using IBM Watson studio and use it in your iOS app using Core ML and Vision.](https://jamesrochabrun.medium.com/training-a-custom-model-using-ibm-watson-studio-and-use-it-in-your-ios-app-using-core-ml-and-b2b5aa0ad636)** · jamesrochabrun.medium.com · 2018-04-16 · [Q009743](../../berichte/Q00/Q0097/Q009743/)
-  - Stufe 4–7: clef **4 %** · Luna **15 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **3 %**
-  - Stufe 3–7: clef **9 %** · Luna **54 %** · d3-ultra **0 %** · JEV **6 %** · amos **9 %** · drex **6 %**
+  - Stufe 4–7: clef **4 %** · Luna **15 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **3 %** · SubQ **0 %**
+  - Stufe 3–7: clef **9 %** · Luna **54 %** · d3-ultra **0 %** · JEV **6 %** · amos **9 %** · drex **6 %** · SubQ **2 %**
   - Kurzfassung: Der vollständige Bericht erklärt das Training eines eigenen Bildklassifikators in Watson Studio und seine Einbindung in eine iOS-App, liefert aber keine konkreten Genauigkeitsmessungen.
 - **[Translation Snapshot: Chinese Generative AI Safety Standards](https://cset.georgetown.edu/publication/translation-snapshot-chinese-generative-ai-safety-standards/)** · cset.georgetown.edu · 2025-12-19 · [Q002051](../../berichte/Q00/Q0020/Q002051/)
-  - Stufe 4–7: clef **15 %** · Luna **4 %** · d3-ultra **2 %** · JEV **1 %** · amos **20 %** · drex **16 %**
-  - Stufe 3–7: clef **25 %** · Luna **67 %** · d3-ultra **9 %** · JEV **12 %** · amos **39 %** · drex **32 %**
+  - Stufe 4–7: clef **15 %** · Luna **4 %** · d3-ultra **2 %** · JEV **1 %** · amos **20 %** · drex **16 %** · SubQ **6 %**
+  - Stufe 3–7: clef **25 %** · Luna **67 %** · d3-ultra **9 %** · JEV **12 %** · amos **39 %** · drex **32 %** · SubQ **19 %**
   - Kurzfassung: CSETs Überblick beschreibt chinesische GenAI-Sicherheitsstandards, ihre politische Ausrichtung und die Grenzen der verfügbaren Texte, während die praktische Befolgung laut Bericht unklar bleibt.
 - **[Turn Opus 4.8 Into Fable 5: The One SKILL.md File You Should Create Before the Window Closes](https://medium.com/coding-nexus/turn-opus-4-8-into-fable-5-the-one-skill-md-file-you-should-create-before-the-window-closes-b31d220e4012)** · medium.com · 2026-07-08 · [Q011253](../../berichte/Q01/Q0112/Q011253/)
-  - Stufe 4–7: clef **15 %** · Luna **11 %** · d3-ultra **1 %** · JEV **31 %** · amos **11 %** · drex **6 %**
-  - Stufe 3–7: clef **26 %** · Luna **66 %** · d3-ultra **5 %** · JEV **57 %** · amos **27 %** · drex **12 %**
+  - Stufe 4–7: clef **15 %** · Luna **11 %** · d3-ultra **1 %** · JEV **31 %** · amos **11 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **26 %** · Luna **66 %** · d3-ultra **5 %** · JEV **57 %** · amos **27 %** · drex **12 %** · SubQ **9 %**
   - Kurzfassung: Der Artikel rät, den begrenzten Zugang zu Fable 5 in wiederverwendbare Arbeitsanweisungen und Prüfabläufe für Opus 4.8 zu investieren, belegt den erwarteten Nutzen jedoch nicht mit systematischen Tests.
 - **[Verifying Decentralized AI Training: Where a Chain Fits](https://turbin3.org/blog/verifying-decentralized-training)** · turbin3.org · 2026-11-04 · [Q000298](../../berichte/Q00/Q0002/Q000298/)
-  - Stufe 4–7: clef **15 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **5 %**
-  - Stufe 3–7: clef **27 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **18 %** · drex **9 %**
+  - Stufe 4–7: clef **15 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **27 %** · Luna **60 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **18 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: Laut Bericht läuft die Verifikation großen dezentralen KI-Trainings off-chain, während die Blockchain zusätzliche Koordinations- und Abrechnungskosten verursacht; Aussagen zu Forschungslücken und Energie bleiben wegen begrenzter Suche und fehlender Messungen vorläufig.
 - **[AI Image Watermarks: SynthID, C2PA and Who Can Verify](https://www.koncile.ai/en/ressources/ai-image-watermarks)** · koncile.ai · 2026-11-08 · [Q000599](../../berichte/Q00/Q0005/Q000599/)
-  - Stufe 4–7: clef **14 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **8 %** · drex **5 %**
-  - Stufe 3–7: clef **24 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **16 %** · drex **8 %**
+  - Stufe 4–7: clef **14 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **8 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **24 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **16 %** · drex **8 %** · SubQ **3 %**
   - Kurzfassung: KI-Bildmarkierungen können Herkunft anzeigen, sind aber lückenhaft und veränderbar; der Bericht empfiehlt, Metadatenprüfung durch Pixelanalyse zu ergänzen.
 - **[A roadmap for an AI learning campaign](https://oecd.ai/en/wonk/roadmap-ai-learning-campaign)** · oecd.ai · 2023-04-19 · [Q006294](../../berichte/Q00/Q0062/Q006294/)
-  - Stufe 4–7: clef **9 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **19 %** · drex **8 %**
-  - Stufe 3–7: clef **21 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **44 %** · drex **17 %**
+  - Stufe 4–7: clef **9 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **19 %** · drex **8 %** · SubQ **4 %**
+  - Stufe 3–7: clef **21 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **44 %** · drex **17 %** · SubQ **17 %**
   - Kurzfassung: Der Beitrag plädiert für eine weltweite Lernkampagne, die KI-Wissen, verantwortungsvolle Nutzung, bessere Schutzwerkzeuge und internationale Zusammenarbeit fördern soll.
 - **[Challenges in red teaming AI systems](https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems)** · anthropic.com · 2024-06-12 · [Q002729](../../berichte/Q00/Q0027/Q002729/)
-  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **7 %** · drex **5 %**
-  - Stufe 3–7: clef **13 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **17 %** · drex **9 %**
+  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **7 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **17 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Anthropic stellt verschiedene KI-Prüfmethoden vor und fordert gemeinsame Standards, unabhängige Tests sowie einen iterativen Weg von qualitativen zu automatisierten Evaluationen.
 - **[Decree of the President of the Russian Federation on the Development of Artificial Intelligence in the Russian Federation](https://cset.georgetown.edu/publication/decree-of-the-president-of-the-russian-federation-on-the-development-of-artificial-intelligence-in-the-russian-federation/)** · cset.georgetown.edu · 2019-10-28 · [Q006508](../../berichte/Q00/Q0065/Q006508/)
-  - Stufe 4–7: clef **10 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **10 %** · drex **8 %**
-  - Stufe 3–7: clef **19 %** · Luna **80 %** · d3-ultra **3 %** · JEV **2 %** · amos **25 %** · drex **16 %**
+  - Stufe 4–7: clef **10 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **10 %** · drex **8 %** · SubQ **3 %**
+  - Stufe 3–7: clef **19 %** · Luna **80 %** · d3-ultra **3 %** · JEV **2 %** · amos **25 %** · drex **16 %** · SubQ **11 %**
   - Kurzfassung: Russlands 2019 beschlossene KI-Strategie setzt bis 2030 Ziele für Forschung, Daten, Technik, Fachkräfte und Regulierung, doch der Bericht belegt nicht, ob diese erreicht wurden.
 - **[GPT-5 May Be Proof That Scaling Alone Can’t Save AI](https://frank-andrade.medium.com/gpt-5-may-be-proof-that-scaling-alone-cant-save-ai-c276d5b9705d)** · frank-andrade.medium.com · 2025-09-01 · [Q009787](../../berichte/Q00/Q0097/Q009787/)
-  - Stufe 4–7: clef **14 %** · Luna **9 %** · d3-ultra **2 %** · JEV **5 %** · amos **9 %** · drex **9 %**
-  - Stufe 3–7: clef **40 %** · Luna **76 %** · d3-ultra **7 %** · JEV **26 %** · amos **27 %** · drex **21 %**
+  - Stufe 4–7: clef **14 %** · Luna **9 %** · d3-ultra **2 %** · JEV **5 %** · amos **9 %** · drex **9 %** · SubQ **3 %**
+  - Stufe 3–7: clef **40 %** · Luna **76 %** · d3-ultra **7 %** · JEV **26 %** · amos **27 %** · drex **21 %** · SubQ **12 %**
   - Kurzfassung: Der Bericht behauptet, dass die Skalierung von KI-Modellen zunehmend teurer wird und weniger bringt, während Datenqualität, Rechenleistung und Zuverlässigkeit wichtige Grenzen setzen.
 - **[Introducing GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)** · openai.com · 2025-02-27 · [Q005493](../../berichte/Q00/Q0054/Q005493/)
-  - Stufe 4–7: clef **9 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **13 %** · drex **7 %**
-  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **32 %** · drex **15 %**
+  - Stufe 4–7: clef **9 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **13 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **32 %** · drex **15 %** · SubQ **5 %**
   - Kurzfassung: OpenAI beschreibt GPT‑4.5 als teure, rechenintensive Forschungsvorschau mit stärkerem Wissen und natürlicherer Zusammenarbeit, weist aber auf gemischte Benchmarkvergleiche hin und kennzeichnet den Launch-Beitrag als veraltet.
 - **[Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)** · openai.com · 2024-08-06 · [Q007361](../../berichte/Q00/Q0073/Q007361/)
-  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **7 %** · drex **6 %**
-  - Stufe 3–7: clef **13 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **13 %** · drex **9 %**
+  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **7 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **13 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Structured Outputs soll laut OpenAI API-Ausgaben zuverlässig an JSON-Schemata binden, hat aber Einschränkungen und garantiert keine inhaltliche Richtigkeit.
 - **[My Tailor is Mistral](https://mistral.ai/news/customization/)** · mistral.ai · 2024-06-05 · [Q001036](../../berichte/Q00/Q0010/Q001036/)
-  - Stufe 4–7: clef **6 %** · Luna **14 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **13 %** · Luna **63 %** · d3-ultra **4 %** · JEV **11 %** · amos **15 %** · drex **10 %**
+  - Stufe 4–7: clef **6 %** · Luna **14 %** · d3-ultra **1 %** · JEV **1 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **63 %** · d3-ultra **4 %** · JEV **11 %** · amos **15 %** · drex **10 %** · SubQ **4 %**
   - Kurzfassung: Mistral stellt drei Feinabstimmungsangebote vor und behauptet Effizienzvorteile durch LoRA, wobei der Leistungsnachweis laut Bericht auf einem internen Benchmark beruht.
 - **[Open Models, Soft Power, and the Spectrum of U.S.-China Artificial Intelligence Competition](https://cset.georgetown.edu/publication/open-models-soft-power-and-the-spectrum-of-u-s-china-artificial-intelligence-competition/)** · cset.georgetown.edu · 2026-03-26 · [Q001670](../../berichte/Q00/Q0016/Q001670/)
-  - Stufe 4–7: clef **14 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **11 %** · drex **8 %**
-  - Stufe 3–7: clef **29 %** · Luna **66 %** · d3-ultra **4 %** · JEV **1 %** · amos **30 %** · drex **18 %**
+  - Stufe 4–7: clef **14 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **11 %** · drex **8 %** · SubQ **6 %**
+  - Stufe 3–7: clef **29 %** · Luna **66 %** · d3-ultra **4 %** · JEV **1 %** · amos **30 %** · drex **18 %** · SubQ **14 %**
   - Kurzfassung: Der Auszug beschreibt offene KI-Modelle als Teil des Einflusswettbewerbs zwischen den USA und China und gibt die Empfehlung wieder, dass die USA ihr Ökosystem offener Modelle stärken, Exportkontrollen neu ausrichten und freizügige Lizenzen fördern sollten.
 - **[Profile Highlight: HuggingFace](https://cset.georgetown.edu/publication/profile-highlight-huggingface/)** · cset.georgetown.edu · 2022-12-07 · [Q006007](../../berichte/Q00/Q0060/Q006007/)
-  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %**
-  - Stufe 3–7: clef **15 %** · Luna **70 %** · d3-ultra **2 %** · JEV **3 %** · amos **20 %** · drex **13 %**
+  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **15 %** · Luna **70 %** · d3-ultra **2 %** · JEV **3 %** · amos **20 %** · drex **13 %** · SubQ **6 %**
   - Kurzfassung: Der Beitrag erklärt Hugging Faces Wachstum vor allem mit seinem Open-Source-Angebot, wobei die GitHub-Daten bis 2021 reichen und die Erklärung eine Deutung des Autors bleibt.
 - **[Regulations for the Promotion of the Artificial Intelligence Industry in Shenzhen Special Economic Zone](https://cset.georgetown.edu/publication/regulations-for-the-promotion-of-the-artificial-intelligence-industry-in-shenzhen-special-economic-zone/)** · cset.georgetown.edu · 2022-12-15 · [Q006029](../../berichte/Q00/Q0060/Q006029/)
-  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **3 %**
-  - Stufe 3–7: clef **14 %** · Luna **59 %** · d3-ultra **2 %** · JEV **1 %** · amos **15 %** · drex **7 %**
+  - Stufe 4–7: clef **7 %** · Luna **14 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **3 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **59 %** · d3-ultra **2 %** · JEV **1 %** · amos **15 %** · drex **7 %** · SubQ **5 %**
   - Kurzfassung: Der vorliegende Auszug aus Shenzhens KI-Vorschriften verbindet die Förderung von Forschung und Anwendung mit Planung, Standards und abgestufter Aufsicht; er umfasst nur die Einleitung und Artikel 1 bis 12.
 - **[The Global South can shape AI in practical terms: Why the India AI Impact Summit Matters](https://oecd.ai/en/wonk/the-global-south-can-shape-ai-in-practical-terms-why-the-india-ai-impact-summit-matters)** · oecd.ai · 2026-02-15 · [Q001073](../../berichte/Q00/Q0010/Q001073/)
-  - Stufe 4–7: clef **8 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **15 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **14 %** · drex **10 %**
+  - Stufe 4–7: clef **8 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **15 %** · Luna **52 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **14 %** · drex **10 %** · SubQ **7 %**
   - Kurzfassung: Der Blogbeitrag plädiert dafür, den Indien-Gipfel zu nutzen, um inklusive und messbare KI-Anwendungen sowie praktische Sicherheits- und Rechenschaftsregeln voranzubringen, berichtet aber keine tatsächlichen Gipfelergebnisse.
 - **[Who’s who: who decides how AI is governed in 2027](https://x.com/knuthings/status/2116519741917417655)** · x.com · 2026-10-29 · [Q000897](../../berichte/Q00/Q0008/Q000897/)
-  - Stufe 4–7: clef **12 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **23 %** · drex **14 %**
-  - Stufe 3–7: clef **25 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **44 %** · drex **29 %**
+  - Stufe 4–7: clef **12 %** · Luna **14 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **23 %** · drex **14 %** · SubQ **7 %**
+  - Stufe 3–7: clef **25 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **44 %** · drex **29 %** · SubQ **15 %**
   - Kurzfassung: Der Beitrag bietet eine ausdrücklich unvollständige Übersicht zu Akteuren und Wahlen, die laut Autor die US-KI-Regulierung beeinflussen, und empfiehlt unter anderem persönliche Sicherheitsbestätigungen durch CEOs.
 - **[A Causal Framework for AI Regulation and Auditing](https://apolloresearch.ai/science/a-causal-framework-for-ai-regulation-and-auditing)** · apolloresearch.ai ·  · [Q001077](../../berichte/Q00/Q0010/Q001077/)
-  - Stufe 4–7: clef **7 %** · Luna **13 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **7 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **17 %** · Luna **65 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **17 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **7 %** · Luna **13 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **7 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **17 %** · Luna **65 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **17 %** · drex **12 %** · SubQ **8 %**
   - Kurzfassung: Der Auszug schlägt vor, KI-Audits entlang einer Kausalkette von den Systemwirkungen bis zu Training und Governance aufzubauen und Änderungen der verfügbaren Handlungsmöglichkeiten zu prüfen; detaillierte Nachweise enthält er nicht.
 - **[An introduction to the Global Partnership on AI’s work on Innovation and Commercialization](https://oecd.ai/en/wonk/an-introduction-to-the-global-partnership-on-ais-work-on-innovation-and-commercialization)** · oecd.ai · 2020-10-13 · [Q007077](../../berichte/Q00/Q0070/Q007077/)
-  - Stufe 4–7: clef **12 %** · Luna **13 %** · d3-ultra **1 %** · JEV **0 %** · amos **9 %** · drex **8 %**
-  - Stufe 3–7: clef **25 %** · Luna **63 %** · d3-ultra **4 %** · JEV **2 %** · amos **26 %** · drex **16 %**
+  - Stufe 4–7: clef **12 %** · Luna **13 %** · d3-ultra **1 %** · JEV **0 %** · amos **9 %** · drex **8 %** · SubQ **2 %**
+  - Stufe 3–7: clef **25 %** · Luna **63 %** · d3-ultra **4 %** · JEV **2 %** · amos **26 %** · drex **16 %** · SubQ **11 %**
   - Kurzfassung: Der Beitrag beschreibt die damaligen Ziele und geplanten Themen der GPAI-Arbeitsgruppe für KI-Innovation, berichtet aber keine konkreten Ergebnisse und enthält eine uneindeutige Überschrift zur Mitgliederliste.
 - **[Announcing the Partnership on AI to Benefit People & Society](https://deepmind.google/blog/announcing-the-partnership-on-ai-to-benefit-people-society/)** · deepmind.google · 2016-09-28 · [Q001877](../../berichte/Q00/Q0018/Q001877/)
-  - Stufe 4–7: clef **5 %** · Luna **13 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %**
-  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra **1 %** · JEV **1 %** · amos **8 %** · drex **6 %**
+  - Stufe 4–7: clef **5 %** · Luna **13 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra **1 %** · JEV **1 %** · amos **8 %** · drex **6 %** · SubQ **3 %**
   - Kurzfassung: Die 2016 angekündigte Partnerschaft soll den offenen, ethischen Austausch über KI fördern; der Beitrag nennt Absichten, aber keine späteren Ergebnisse.
 - **[Boosting Innovation while Regulating AI: Overview of 2023 Activities and 2024 Outlook](https://oecd.ai/en/wonk/documents/boosting-innovation-while-regulating-ai-overview-of-2023-activities-and-2024-outlook)** · oecd.ai · 2025-05-12 · [Q004294](../../berichte/Q00/Q0042/Q004294/)
-  - Stufe 4–7: clef **6 %** · Luna **13 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %**
-  - Stufe 3–7: clef **13 %** · Luna **52 %** · d3-ultra **1 %** · JEV **1 %** · amos **10 %** · drex **5 %**
+  - Stufe 4–7: clef **6 %** · Luna **13 %** · d3-ultra **0 %** · JEV **0 %** · amos **4 %** · drex **3 %** · SubQ **0 %**
+  - Stufe 3–7: clef **13 %** · Luna **52 %** · d3-ultra **1 %** · JEV **1 %** · amos **10 %** · drex **5 %** · SubQ **3 %**
   - Kurzfassung: Die GPAI-Arbeitsgruppe will künftig untersuchen, wie KI-Regulierung Innovation und Vermarktung beeinflusst, ohne selbst Standards oder politische Empfehlungen vorzugeben.
 - **[Frontier AI: what the international standards system already offers](https://www.worldstandardscooperation.org/wp-content/uploads/2026/07/2026_11_05_WSC_information_paper.pdf)** · worldstandardscooperation.org ·  · [Q000365](../../berichte/Q00/Q0003/Q000365/)
-  - Stufe 4–7: clef **9 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **7 %**
-  - Stufe 3–7: clef **16 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **16 %** · drex **13 %**
+  - Stufe 4–7: clef **9 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **7 %** · SubQ **3 %**
+  - Stufe 3–7: clef **16 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **16 %** · drex **13 %** · SubQ **9 %**
   - Kurzfassung: Das Papier sieht in bestehenden und geplanten internationalen Normen eine Grundlage für vertrauenswürdigere Frontier-AI-Prüfungen, betont aber, dass wichtige Arbeiten noch laufen und Standards freiwillig sind.
 - **[GitHub Data: Capturing Open Source Software and Implementation](https://cset.georgetown.edu/publication/github-data-capturing-open-source-software-and-implementation/)** · cset.georgetown.edu · 2022-09-28 · [Q005979](../../berichte/Q00/Q0059/Q005979/)
-  - Stufe 4–7: clef **6 %** · Luna **13 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **8 %**
-  - Stufe 3–7: clef **11 %** · Luna **55 %** · d3-ultra **3 %** · JEV **2 %** · amos **21 %** · drex **15 %**
+  - Stufe 4–7: clef **6 %** · Luna **13 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **8 %** · SubQ **3 %**
+  - Stufe 3–7: clef **11 %** · Luna **55 %** · d3-ultra **3 %** · JEV **2 %** · amos **21 %** · drex **15 %** · SubQ **9 %**
   - Kurzfassung: CSET nutzt ausgewählte öffentliche GitHub-Repositorys, um Technologietrends zu untersuchen, und deutet mehr KI-/ML-Projekte bei weniger durchschnittlichen Forks und Commits als zunehmende Verteilung der Entwicklung.
 - **[How to Build and Deploy Accurate Deep Learning Models for Intelligent Image and Video Analytics](https://medium.com/dataseries/build-and-deploy-accurate-deep-learning-models-for-intelligent-image-and-video-analytics-8ad755213c06)** · medium.com · 2019-09-25 · [Q011113](../../berichte/Q01/Q0111/Q011113/)
-  - Stufe 4–7: clef **10 %** · Luna **13 %** · d3-ultra **0 %** · JEV **4 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **19 %** · Luna **55 %** · d3-ultra **1 %** · JEV **26 %** · amos **21 %** · drex **12 %**
+  - Stufe 4–7: clef **10 %** · Luna **13 %** · d3-ultra **0 %** · JEV **4 %** · amos **8 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **55 %** · d3-ultra **1 %** · JEV **26 %** · amos **21 %** · drex **12 %** · SubQ **5 %**
   - Kurzfassung: NVIDIA beschreibt einen TLT-Arbeitsablauf für Objekterkennung und berichtet, dass ein gepruntes KITTI-ResNet18 im Beispiel bei vergleichbarer Genauigkeit etwa zehnmal kleiner und zwei- bis dreimal schneller war.
 - **[Joint declaration on Paris call for AI safety and security](https://www.pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security)** · pm.gc.ca ·  · [Q000410](../../berichte/Q00/Q0004/Q000410/)
-  - Stufe 4–7: clef **6 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **11 %** · drex **8 %**
-  - Stufe 3–7: clef **12 %** · Luna **58 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **23 %** · drex **18 %**
+  - Stufe 4–7: clef **6 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **11 %** · drex **8 %** · SubQ **5 %**
+  - Stufe 3–7: clef **12 %** · Luna **58 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **23 %** · drex **18 %** · SubQ **14 %**
   - Kurzfassung: Sechs Regierungen, KI-Unternehmen und zivilgesellschaftliche Organisationen sagen gemeinsame Bewertungen, mehr Verantwortlichkeit und bessere Frühwarnung für KI-Risiken zu; eine Umsetzung ist im Bericht nicht belegt.
 - **[OpenAI o1 and new tools for developers](https://openai.com/index/o1-and-new-tools-for-developers/)** · openai.com ·  · [Q008062](../../berichte/Q00/Q0080/Q008062/)
-  - Stufe 4–7: clef **8 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **9 %** · drex **6 %**
-  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **23 %** · drex **11 %**
+  - Stufe 4–7: clef **8 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **9 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **23 %** · drex **11 %** · SubQ **5 %**
   - Kurzfassung: OpenAI kündigt neue API-Modelle und Entwicklerwerkzeuge an und berichtet über Leistungs- und Kostenvorteile, die im Beitrag nicht unabhängig überprüft werden.
 - **[Questions for the Record](https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record/)** · openai.com · 2023-06-22 · [Q008963](../../berichte/Q00/Q0089/Q008963/)
-  - Stufe 4–7: clef **13 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **17 %** · drex **14 %**
-  - Stufe 3–7: clef **24 %** · Luna **58 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **38 %** · drex **29 %**
+  - Stufe 4–7: clef **13 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **11 %** · amos **17 %** · drex **14 %** · SubQ **10 %**
+  - Stufe 3–7: clef **24 %** · Luna **58 %** · d3-ultra noch nicht bewertet · JEV **32 %** · amos **38 %** · drex **29 %** · SubQ **26 %**
   - Kurzfassung: OpenAI legt in den Antworten seine Vorschläge zu KI-Regeln und eigene Sicherheits-, Kreativ- und Kinderschutzmaßnahmen dar; der Bericht gibt dabei die Unternehmenssicht wieder, ohne deren Wirksamkeit unabhängig zu prüfen.
 - **[Responsible science communication can be a catalyst for trust in technology](https://oecd.ai/en/wonk/responsible-science-communication)** · oecd.ai · 2024-03-25 · [Q005555](../../berichte/Q00/Q0055/Q005555/)
-  - Stufe 4–7: clef **5 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **10 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **10 %**
+  - Stufe 4–7: clef **5 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **10 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **10 %** · SubQ **4 %**
   - Kurzfassung: Der Bericht plädiert für transparente und realistische Kommunikation über Daten und KI, die deren Grenzen, menschliche Arbeit und Risiken sichtbar macht.
 - **[Why ChatGPT’s New Feature Could Be the Most Controversial Design Tool Yet](https://frank-andrade.medium.com/why-gpt-4o-could-be-the-most-controversial-design-tool-yet-d0f26bbea8c6)** · frank-andrade.medium.com · 2025-03-27 · [Q009865](../../berichte/Q00/Q0098/Q009865/)
-  - Stufe 4–7: clef **13 %** · Luna **12 %** · d3-ultra **0 %** · JEV **16 %** · amos **9 %** · drex **5 %**
-  - Stufe 3–7: clef **23 %** · Luna **78 %** · d3-ultra **3 %** · JEV **50 %** · amos **25 %** · drex **12 %**
+  - Stufe 4–7: clef **13 %** · Luna **12 %** · d3-ultra **0 %** · JEV **16 %** · amos **9 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **23 %** · Luna **78 %** · d3-ultra **3 %** · JEV **50 %** · amos **25 %** · drex **12 %** · SubQ **4 %**
   - Kurzfassung: Der Autor sieht GPT‑4os Bildgenerierung als kreative Hilfe mit beträchtlichem Potenzial, aber auch offenen Streitfragen zu menschlicher Kreativität und synthetischen Bildern.
 - **[中国信通院、华为、腾讯、阿里等联合发布公约：共同抵制利用智能体实施算法压榨、黑灰产等行为](https://www.thepaper.cn/newsDetail_forward_34405097)** · thepaper.cn · 2026-11-04 · [Q000522](../../berichte/Q00/Q0005/Q000522/)
-  - Stufe 4–7: clef **11 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **14 %** · drex **9 %**
-  - Stufe 3–7: clef **20 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **12 %** · amos **30 %** · drex **17 %**
+  - Stufe 4–7: clef **11 %** · Luna **13 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **14 %** · drex **9 %** · SubQ **7 %**
+  - Stufe 3–7: clef **20 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **12 %** · amos **30 %** · drex **17 %** · SubQ **18 %**
   - Kurzfassung: Laut Bericht wollen 20 Organisationen mit einer Selbstverpflichtung sichere, interoperable KI-Agenten fördern, Nutzerrechte schützen und Missbrauch verhindern; Angaben zur Umsetzung fehlen.
 - **[AI at Bargain Prices — But Who’s Really Paying the Bill?](https://frank-andrade.medium.com/ai-at-bargain-prices-but-whos-really-paying-the-bill-a1b92f1d7b1e)** · frank-andrade.medium.com · 2025-03-11 · [Q009874](../../berichte/Q00/Q0098/Q009874/)
-  - Stufe 4–7: clef **12 %** · Luna **6 %** · d3-ultra **1 %** · JEV **0 %** · amos **14 %** · drex **11 %**
-  - Stufe 3–7: clef **27 %** · Luna **88 %** · d3-ultra **6 %** · JEV **6 %** · amos **37 %** · drex **29 %**
+  - Stufe 4–7: clef **12 %** · Luna **6 %** · d3-ultra **1 %** · JEV **0 %** · amos **14 %** · drex **11 %** · SubQ **2 %**
+  - Stufe 3–7: clef **27 %** · Luna **88 %** · d3-ultra **6 %** · JEV **6 %** · amos **37 %** · drex **29 %** · SubQ **11 %**
   - Kurzfassung: Der Bericht zufolge sinken die KI-Preise schneller als die Betriebskosten, und wer die Rechnung trägt sowie welche Folgen der Preisdruck hat, ist noch ungeklärt.
 - **[AI language models: Technological, socio-economic and policy considerations](https://oecd.ai/en/ai-publications/language-models)** · oecd.ai · 2023-04-13 · [Q005966](../../berichte/Q00/Q0059/Q005966/)
-  - Stufe 4–7: clef **10 %** · Luna **12 %** · d3-ultra **0 %** · JEV **4 %** · amos **7 %** · drex **6 %**
-  - Stufe 3–7: clef **32 %** · Luna **73 %** · d3-ultra **12 %** · JEV **38 %** · amos **27 %** · drex **15 %**
+  - Stufe 4–7: clef **10 %** · Luna **12 %** · d3-ultra **0 %** · JEV **4 %** · amos **7 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **32 %** · Luna **73 %** · d3-ultra **12 %** · JEV **38 %** · amos **27 %** · drex **15 %** · SubQ **11 %**
   - Kurzfassung: Der vorliegende Auszug ist nur der Abstract: Er skizziert Themen und Rahmenwerke eines OECD-Berichts zu KI-Sprachmodellen, nennt aber keine konkreten Befunde.
 - **[A Socio-technical approach to AI literacy: A quick guide](https://oecd.ai/en/wonk/socio-technical-approach-ai-literacy)** · oecd.ai · 2025-11-20 · [Q001870](../../berichte/Q00/Q0018/Q001870/)
-  - Stufe 4–7: clef **6 %** · Luna **12 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **3 %**
-  - Stufe 3–7: clef **13 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **15 %** · drex **7 %**
+  - Stufe 4–7: clef **6 %** · Luna **12 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **3 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **15 %** · drex **7 %** · SubQ **3 %**
   - Kurzfassung: Der Bericht plädiert für umfassende KI-Kompetenz, die technische Fähigkeiten mit kritischer, verantwortlicher und menschenzentrierter Anwendung im jeweiligen sozialen und organisatorischen Kontext verbindet.
 - **[Data Governance Working Group A Framework Paper for GPAI’s work on Data Governance](https://oecd.ai/en/wonk/documents/data-governance-working-group-a-framework-paper-for-gpais-work-on-data-governance)** · oecd.ai · 2025-05-13 · [Q004199](../../berichte/Q00/Q0041/Q004199/)
-  - Stufe 4–7: clef **10 %** · Luna **12 %** · d3-ultra **1 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **24 %** · Luna **60 %** · d3-ultra **5 %** · JEV **5 %** · amos **16 %** · drex **12 %**
+  - Stufe 4–7: clef **10 %** · Luna **12 %** · d3-ultra **1 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **24 %** · Luna **60 %** · d3-ultra **5 %** · JEV **5 %** · amos **16 %** · drex **12 %** · SubQ **7 %**
   - Kurzfassung: Der vorliegende Text ist nur ein Auszug: Er beschreibt eine GPAI-Arbeitsgruppe für verantwortungsvolle Datenverwaltung im KI-Kontext und ein Rahmenpapier, das ausdrücklich vorläufig ist.
 - **[Data Governance Working Group A Framework Paper for GPAI’s  Work on Data Governance 2.0](https://oecd.ai/en/wonk/documents/data-governance-working-group-a-framework-paper-for-gpais-work-on-data-governance-2-0)** · oecd.ai · 2025-05-15 · [Q003952](../../berichte/Q00/Q0039/Q003952/)
-  - Stufe 4–7: clef **12 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **6 %**
-  - Stufe 3–7: clef **27 %** · Luna **59 %** · d3-ultra **3 %** · JEV **3 %** · amos **16 %** · drex **13 %**
+  - Stufe 4–7: clef **12 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **27 %** · Luna **59 %** · d3-ultra **3 %** · JEV **3 %** · amos **16 %** · drex **13 %** · SubQ **8 %**
   - Kurzfassung: Der bereitgestellte Bericht ist nur ein kurzer Auszug über Auftrag und Abgrenzung der GPAI-Arbeitsgruppe für Daten-Governance; konkrete Ergebnisse oder Projekte werden nicht genannt.
 - **[Enabling data sharing for social benefit through data trusts at the Global Partnership on AI, GPAI](https://oecd.ai/en/wonk/data-sharing-data-trusts)** · oecd.ai · 2021-08-03 · [Q006882](../../berichte/Q00/Q0068/Q006882/)
-  - Stufe 4–7: clef **10 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra **4 %** · JEV **1 %** · amos **15 %** · drex **10 %**
+  - Stufe 4–7: clef **10 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra **4 %** · JEV **1 %** · amos **15 %** · drex **10 %** · SubQ **5 %**
   - Kurzfassung: Der Beitrag erläutert Datentreuhandmodelle als Ansatz für faire, kontrollierte Datenteilung und kündigt weitere Forschung zu ihrer praktischen und rechtlichen Umsetzung an.
 - **[Familiar methods can help to ensure trustworthy AI as the algorithm auditing industry grows](https://oecd.ai/en/wonk/algorithm-auditing-trustworty-ai)** · oecd.ai · 2021-08-10 · [Q006823](../../berichte/Q00/Q0068/Q006823/)
-  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %**
-  - Stufe 3–7: clef **15 %** · Luna **53 %** · d3-ultra **1 %** · JEV **1 %** · amos **14 %** · drex **12 %**
+  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %** · SubQ **3 %**
+  - Stufe 3–7: clef **15 %** · Luna **53 %** · d3-ultra **1 %** · JEV **1 %** · amos **14 %** · drex **12 %** · SubQ **7 %**
   - Kurzfassung: Der Bericht plädiert für risikobasierte Audits von Algorithmen, die zentrale Vertrauensfragen prüfen, Zielkonflikte berücksichtigen und in Governance eingebettet werden.
 - **[LLM inference prices have fallen rapidly but unequally across tasks](https://epoch.ai/data-insights/llm-inference-price-trends)** · epoch.ai · 2025-03-12 · [Q006216](../../berichte/Q00/Q0062/Q006216/)
-  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **7 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **13 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **12 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **7 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **12 %** · drex **7 %** · SubQ **3 %**
   - Kurzfassung: Der vorliegende Auszug fasst einen Epoch-AI-Bericht zusammen, dem zufolge die Kosten für festgelegte LLM-Benchmarkleistungen je nach Aufgabe stark sanken, wobei die Ursachen und die Fortdauer des Trends offenbleiben.
 - **[New generative AI tools open the doors of music creation](https://deepmind.google/blog/new-generative-ai-tools-open-the-doors-of-music-creation/)** · deepmind.google · 2024-10-23 · [Q002961](../../berichte/Q00/Q0029/Q002961/)
-  - Stufe 4–7: clef **12 %** · Luna **4 %** · d3-ultra **0 %** · JEV **2 %** · amos **6 %** · drex **4 %**
-  - Stufe 3–7: clef **22 %** · Luna **59 %** · d3-ultra **0 %** · JEV **10 %** · amos **14 %** · drex **6 %**
+  - Stufe 4–7: clef **12 %** · Luna **4 %** · d3-ultra **0 %** · JEV **2 %** · amos **6 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **22 %** · Luna **59 %** · d3-ultra **0 %** · JEV **10 %** · amos **14 %** · drex **6 %** · SubQ **4 %**
   - Kurzfassung: Google kündigt generative Musikwerkzeuge mit Echtzeitsteuerung und neuen Kompositionsfunktionen an; die Sandbox war zunächst nur für ausgewählte Tester vorgesehen, und Qualitätsaussagen stammen von Google.
 - **[OECD Digital Economy and Society Outlook 2026 | Spotlight on powering AI progress: The future of compute](https://oecd.ai/en/ai-publications/oecd-digital-economy-and-society-outlook-2026-powering-ai-progress-the-future-of-compute)** · oecd.ai · 2026-11-06 · [Q000761](../../berichte/Q00/Q0007/Q000761/)
-  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **18 %** · Luna **54 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **9 %**
+  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **54 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: Der Auszug skizziert Themen eines OECD-Spotlights zur Zukunft der KI-Rechenleistung, liefert aber keine konkreten Ergebnisse des vollständigen Beitrags.
 - **[OpenAI’s Approach to Frontier Risk](https://openai.com/global-affairs/our-approach-to-frontier-risk/)** · openai.com · 2023-10-26 · [Q002791](../../berichte/Q00/Q0027/Q002791/)
-  - Stufe 4–7: clef **12 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **10 %** · drex **10 %**
-  - Stufe 3–7: clef **21 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **23 %** · drex **20 %**
+  - Stufe 4–7: clef **12 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **10 %** · drex **10 %** · SubQ **8 %**
+  - Stufe 3–7: clef **21 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **13 %** · amos **23 %** · drex **20 %** · SubQ **21 %**
   - Kurzfassung: OpenAI beschreibt Sicherheitsprüfungen und geplante Schutzmaßnahmen für fortgeschrittene KI, betont aber, dass Risiken und spätere Nutzung nur unvollständig vorhersehbar sind.
 - **[Post by @satyanadella on X](https://x.com/satyanadella/status/2099220712024408084)** · x.com · 2026-09-13 · [Q000595](../../berichte/Q00/Q0005/Q000595/)
-  - Stufe 4–7: clef **12 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **10 %** · drex **6 %**
-  - Stufe 3–7: clef **26 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **25 %** · drex **14 %**
+  - Stufe 4–7: clef **12 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **10 %** · drex **6 %** · SubQ **3 %**
+  - Stufe 3–7: clef **26 %** · Luna **68 %** · d3-ultra noch nicht bewertet · JEV **18 %** · amos **25 %** · drex **14 %** · SubQ **9 %**
   - Kurzfassung: Nadella wirbt für kontrollierbare und breit zugängliche KI, unternehmerische Modellfreiheit und kündigt einen Verhaltenskodex für Microsofts MAI-Modelle an.
 - **[Public AI: Policies for democratic and sustainable AI infrastructures](https://oecd.ai/en/wonk/public-ai-policies-for-democratic-and-sustainable-ai-infrastructures)** · oecd.ai · 2025-12-05 · [Q001989](../../berichte/Q00/Q0019/Q001989/)
-  - Stufe 4–7: clef **12 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **11 %** · drex **7 %**
-  - Stufe 3–7: clef **26 %** · Luna **54 %** · d3-ultra **3 %** · JEV **7 %** · amos **29 %** · drex **15 %**
+  - Stufe 4–7: clef **12 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **11 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **26 %** · Luna **54 %** · d3-ultra **3 %** · JEV **7 %** · amos **29 %** · drex **15 %** · SubQ **7 %**
   - Kurzfassung: Der Beitrag plädiert für offene, demokratisch kontrollierte und nachhaltige KI als digitales öffentliches Gut und empfiehlt dafür koordinierte Maßnahmen bei Rechenleistung, Daten und Modellen.
 - **[Risk Mitigation Strategies for the Open Foundation Model Value Chain](https://partnershiponai.org/resource/risk-mitigation-strategies-for-the-open-foundation-model-value-chain/)** · partnershiponai.org · 2024-07-11 · [Q001099](../../berichte/Q00/Q0010/Q001099/)
-  - Stufe 4–7: clef **12 %** · Luna **7 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **24 %** · drex **23 %**
-  - Stufe 3–7: clef **25 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **34 %** · amos **48 %** · drex **38 %**
+  - Stufe 4–7: clef **12 %** · Luna **7 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **24 %** · drex **23 %** · SubQ **6 %**
+  - Stufe 3–7: clef **25 %** · Luna **93 %** · d3-ultra noch nicht bewertet · JEV **34 %** · amos **48 %** · drex **38 %** · SubQ **18 %**
   - Kurzfassung: Der Bericht empfiehlt gemeinsame, entlang der KI-Wertschöpfungskette verteilte Schutzmaßnahmen für offene Modelle, betont aber, dass ihre Durchsetzung schwierig ist und gemeinsame Risikoschwellen noch fehlen.
 - **[The enforcement framework of the AI Act](http://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act)** · digital-strategy.ec.europa.eu ·  · [Q000911](../../berichte/Q00/Q0009/Q000911/)
-  - Stufe 4–7: clef **12 %** · Luna **12 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **27 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **34 %** · Luna **69 %** · d3-ultra **12 %** · JEV noch nicht bewertet · amos **50 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **12 %** · Luna **12 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **27 %** · drex **17 %** · SubQ **9 %**
+  - Stufe 3–7: clef **34 %** · Luna **69 %** · d3-ultra **12 %** · JEV noch nicht bewertet · amos **50 %** · drex **35 %** · SubQ **27 %**
   - Kurzfassung: Der Bericht skizziert Zuständigkeiten, Ermittlungs- und Bußgeldbefugnisse sowie den gestaffelten Zeitplan zur Durchsetzung des AI Act und bezeichnet sich als unverbindliche Informationsübersicht.
 - **[Training a helpful and harmless assistant with RLHF](https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback)** · anthropic.com · 2022-04-12 · [Q005065](../../berichte/Q00/Q0050/Q005065/)
-  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **13 %** · drex **10 %**
+  - Stufe 4–7: clef **7 %** · Luna **12 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **17 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **6 %** · amos **13 %** · drex **10 %** · SubQ **2 %**
   - Kurzfassung: Der bereitgestellte Text ist nur ein Auszug; laut Abstract richtet RLHF Sprachmodelle hilfreicher und harmloser aus, doch Details zu den behaupteten Ergebnissen fehlen.
 - **[a61b27e](https://partnershiponai.org/paper_page/a61b27e/)** · partnershiponai.org · 2021-08-06 · [Q000752](../../berichte/Q00/Q0007/Q000752/)
-  - Stufe 4–7: clef **8 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **7 %**
-  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **21 %** · drex **12 %**
+  - Stufe 4–7: clef **8 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **7 %** · SubQ **2 %**
+  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **21 %** · drex **12 %** · SubQ **8 %**
   - Kurzfassung: Der vorliegende Auszug empfiehlt zielgruppengerechte und verantwortungsbewusste Dokumentation von ML-Datensätzen, einschließlich ihrer Zwecke, Verarbeitung und menschlichen sowie gesellschaftlichen Auswirkungen.
 - **[AI openness: Balancing innovation, transparency and risk in open-weight models](https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models)** · oecd.ai · 2025-08-28 · [Q001090](../../berichte/Q00/Q0010/Q001090/)
-  - Stufe 4–7: clef **11 %** · Luna **9 %** · d3-ultra **2 %** · JEV **1 %** · amos **13 %** · drex **12 %**
-  - Stufe 3–7: clef **28 %** · Luna **68 %** · d3-ultra **9 %** · JEV **20 %** · amos **36 %** · drex **26 %**
+  - Stufe 4–7: clef **11 %** · Luna **9 %** · d3-ultra **2 %** · JEV **1 %** · amos **13 %** · drex **12 %** · SubQ **7 %**
+  - Stufe 3–7: clef **28 %** · Luna **68 %** · d3-ultra **9 %** · JEV **20 %** · amos **36 %** · drex **26 %** · SubQ **23 %**
   - Kurzfassung: Der Beitrag plädiert dafür, offene KI-Gewichte anhand ihrer kontextabhängigen zusätzlichen Vorteile und Risiken zu beurteilen und solche Abwägungen in ein umfassendes Risikomanagement einzubetten.
 - **[An FAQ on reinforcement learning environments](https://epoch.ai/gradient-updates/state-of-rl-envs)** · epoch.ai · 2026-01-12 · [Q006799](../../berichte/Q00/Q0067/Q006799/)
-  - Stufe 4–7: clef **10 %** · Luna **11 %** · d3-ultra **0 %** · JEV **2 %** · amos **10 %** · drex **15 %**
-  - Stufe 3–7: clef **19 %** · Luna **83 %** · d3-ultra **3 %** · JEV **7 %** · amos **26 %** · drex **24 %**
+  - Stufe 4–7: clef **10 %** · Luna **11 %** · d3-ultra **0 %** · JEV **2 %** · amos **10 %** · drex **15 %** · SubQ **2 %**
+  - Stufe 3–7: clef **19 %** · Luna **83 %** · d3-ultra **3 %** · JEV **7 %** · amos **26 %** · drex **24 %** · SubQ **6 %**
   - Kurzfassung: Laut Interviews wächst der Bedarf an vielfältigen RL-Aufgaben, doch manipulationssichere Bewertungen und die Qualitätssicherung bei größerer Produktion bleiben zentrale Engpässe.
 - **[An open call for input from GPAI’s Data Governance Working Group](https://oecd.ai/en/wonk/open-call-input-gpai-data-governance-working-group)** · oecd.ai · 2020-11-03 · [Q007161](../../berichte/Q00/Q0071/Q007161/)
-  - Stufe 4–7: clef **8 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **20 %** · Luna **70 %** · d3-ultra **3 %** · JEV **2 %** · amos **22 %** · drex **13 %**
+  - Stufe 4–7: clef **8 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **8 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **20 %** · Luna **70 %** · d3-ultra **3 %** · JEV **2 %** · amos **22 %** · drex **13 %** · SubQ **9 %**
   - Kurzfassung: Der Beitrag stellt einen vorläufigen GPAI-Rahmen für Daten-Governance und einen Aufruf zur Rückmeldung vor, berichtet aber noch keine abschließenden Forschungsergebnisse.
 - **[Areas for future action in the responsible AI ecosystem](https://oecd.ai/en/wonk/documents/areas-for-future-action-in-the-responsible-ai-ecosystem)** · oecd.ai · 2025-05-18 · [Q003896](../../berichte/Q00/Q0038/Q003896/)
-  - Stufe 4–7: clef **6 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **3 %**
-  - Stufe 3–7: clef **20 %** · Luna **55 %** · d3-ultra **4 %** · JEV **4 %** · amos **12 %** · drex **6 %**
+  - Stufe 4–7: clef **6 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **3 %** · SubQ **1 %**
+  - Stufe 3–7: clef **20 %** · Luna **55 %** · d3-ultra **4 %** · JEV **4 %** · amos **12 %** · drex **6 %** · SubQ **6 %**
   - Kurzfassung: Der kurze Auszug skizziert Ziel und Hintergrund eines GPAI-Berichts zu verantwortungsvoller KI, enthält aber keine konkreten Ergebnisse oder Empfehlungen.
 - **[Beyond the AI slowdown: the four As for governing frontier AI - AI and Ethics](https://link.springer.com/article/10.1007/s43681-026-01449-w)** · link.springer.com · 2026-10-29 · [Q000231](../../berichte/Q00/Q0002/Q000231/)
-  - Stufe 4–7: clef **11 %** · Luna **4 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **14 %**
-  - Stufe 3–7: clef **21 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **28 %** · drex **29 %**
+  - Stufe 4–7: clef **11 %** · Luna **4 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **14 %** · SubQ **6 %**
+  - Stufe 3–7: clef **21 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **10 %** · amos **28 %** · drex **29 %** · SubQ **15 %**
   - Kurzfassung: Die Autoren schlagen vor, Frontier-KI anhand von Kontrolle, Zugang, Entscheidungsbefugnis und Verteilung gezielt zu regulieren, statt sich auf eine pauschale Verlangsamung zu verlassen.
 - **[Canada and the UK compare AI governance efforts and  reflect on regulating AI](https://oecd.ai/en/wonk/canada-and-the-uk-compare-ai-governance-efforts-and-reflect-on-regulating-ai)** · oecd.ai · 2023-07-25 · [Q006160](../../berichte/Q00/Q0061/Q006160/)
-  - Stufe 4–7: clef **8 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **16 %** · Luna **61 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **10 %**
+  - Stufe 4–7: clef **8 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **61 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **10 %** · SubQ **4 %**
   - Kurzfassung: Der Bericht fasst eine britisch-kanadische Gesprächsrunde zu KI-Regulierung im Finanzsektor zusammen: Standards und sektorale Regeln sollen sich ergänzen, doch das Verhältnis zur übergreifenden KI-Governance bleibt offen.
 - **[G7 AI transparency reporting: Ten insights for AI governance and risk management](https://oecd.ai/en/wonk/g7-haip-report-insights-for-ai-governance-and-risk-management)** · oecd.ai · 2025-09-25 · [Q002277](../../berichte/Q00/Q0022/Q002277/)
-  - Stufe 4–7: clef **7 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **6 %**
-  - Stufe 3–7: clef **13 %** · Luna **53 %** · d3-ultra **2 %** · JEV **2 %** · amos **18 %** · drex **16 %**
+  - Stufe 4–7: clef **7 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **13 %** · Luna **53 %** · d3-ultra **2 %** · JEV **2 %** · amos **18 %** · drex **16 %** · SubQ **8 %**
   - Kurzfassung: 20 freiwillige HAIP-Berichte zeigen laut OECD vielfältige Ansätze für KI-Risikomanagement und Transparenz, zugleich bleiben Vergleichbarkeit und technische Herkunftsnachweise begrenzt.
 - **[How AI Agents Are Learning to Rewrite Their Own Stack](https://alphasignal.ai/news/how-ai-agents-are-learning-to-rewrite-their-own-stack)** · alphasignal.ai · 2026-10-05 · [Q005214](../../berichte/Q00/Q0052/Q005214/)
-  - Stufe 4–7: clef **9 %** · Luna **11 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **7 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **25 %** · Luna **53 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **18 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **9 %** · Luna **11 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **7 %** · drex **6 %** · SubQ **0 %**
+  - Stufe 3–7: clef **25 %** · Luna **53 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **18 %** · drex **11 %** · SubQ **2 %**
   - Kurzfassung: Der Auszug stellt Verfahren vor, mit denen KI-Agenten ihre Skills anhand von Ausführungserfahrungen verbessern sollen; der vollständige Bericht liegt hier nicht vor.
 - **[Managing risks from increasingly capable open-weight AI systems](https://www.aisi.gov.uk/blog/managing-risks-from-increasingly-capable-open-weight-ai-systems)** · aisi.gov.uk · 2025-08-29 · [Q002473](../../berichte/Q00/Q0024/Q002473/)
-  - Stufe 4–7: clef **9 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **12 %** · drex **10 %**
-  - Stufe 3–7: clef **16 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **27 %** · drex **19 %**
+  - Stufe 4–7: clef **9 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **12 %** · drex **10 %** · SubQ **5 %**
+  - Stufe 3–7: clef **16 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **27 %** · drex **19 %** · SubQ **12 %**
   - Kurzfassung: AISI empfiehlt, Risiken offener KI-Modelle durch mehrere technische und organisatorische Maßnahmen zu begrenzen, da Schutzmaßnahmen umgangen werden können und keine vollständigen Sicherheitsgarantien bestehen.
 - **[Models with downloadable weights currently lag behind the top-performing models](https://epoch.ai/data-insights/open-vs-closed-model-performance)** · epoch.ai · 2024-11-27 · [Q006285](../../berichte/Q00/Q0062/Q006285/)
-  - Stufe 4–7: clef **10 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **12 %** · drex **7 %**
-  - Stufe 3–7: clef **20 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **26 %** · drex **13 %**
+  - Stufe 4–7: clef **10 %** · Luna **11 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **12 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **20 %** · Luna **56 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **26 %** · drex **13 %** · SubQ **4 %**
   - Kurzfassung: Der vorliegende Auszug beschreibt einen zunächst deutlichen, später laut Beitrag stark geschrumpften Leistungsvorsprung nicht herunterladbarer Modelle in ausgewählten Benchmarks.
 - **[On-Device AI Against Scams: Google DeepMind & MDDI](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)** · deepmind.google · 2026-10-14 · [Q000010](../../berichte/Q00/Q0000/Q000010/)
-  - Stufe 4–7: clef **6 %** · Luna **11 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **10 %** · Luna **60 %** · d3-ultra **0 %** · JEV **4 %** · amos **13 %** · drex **9 %**
+  - Stufe 4–7: clef **6 %** · Luna **11 %** · d3-ultra **0 %** · JEV **1 %** · amos **6 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **10 %** · Luna **60 %** · d3-ultra **0 %** · JEV **4 %** · amos **13 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: Laut Bericht soll ein lokal laufendes KI-System in Singapur Betrugsnachrichten erkennen und Nutzer warnen, doch konkrete Leistungskennzahlen werden nicht genannt.
 - **[Updates to the OECD’s definition of an AI system explained](https://oecd.ai/en/wonk/ai-system-definition-update)** · oecd.ai · 2023-11-29 · [Q005747](../../berichte/Q00/Q0057/Q005747/)
-  - Stufe 4–7: clef **6 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **5 %**
-  - Stufe 3–7: clef **15 %** · Luna **64 %** · d3-ultra **1 %** · JEV **2 %** · amos **17 %** · drex **9 %**
+  - Stufe 4–7: clef **6 %** · Luna **11 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **15 %** · Luna **64 %** · d3-ultra **1 %** · JEV **2 %** · amos **17 %** · drex **9 %** · SubQ **3 %**
   - Kurzfassung: Die OECD aktualisierte ihre KI-Systemdefinition, um unter anderem generative KI, Eingaben und Anpassungen nach der Einführung abzubilden, betonte aber, dass ihre praktische Anwendung weiterer technischer Erläuterungen bedarf.
 - **[2023: A Year of Groundbreaking Advances in AI and Computing](https://deepmind.google/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/)** · deepmind.google · 2023-12-22 · [Q001529](../../berichte/Q00/Q0015/Q001529/)
-  - Stufe 4–7: clef **10 %** · Luna **7 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **9 %**
-  - Stufe 3–7: clef **17 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **27 %** · drex **17 %**
+  - Stufe 4–7: clef **10 %** · Luna **7 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **9 %** · SubQ **3 %**
+  - Stufe 3–7: clef **17 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **8 %** · amos **27 %** · drex **17 %** · SubQ **9 %**
   - Kurzfassung: Google berichtet über zahlreiche KI- und Forschungsfortschritte 2023, wobei die genannten Ergebnisse überwiegend eigene Unternehmensangaben und teils vorläufig sind.
 - **[9fea3d1](https://partnershiponai.org/paper_page/9fea3d1/)** · partnershiponai.org · 2021-08-06 · [Q003166](../../berichte/Q00/Q0031/Q003166/)
-  - Stufe 4–7: clef **10 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **15 %** · drex **10 %**
-  - Stufe 3–7: clef **22 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **35 %** · drex **20 %**
+  - Stufe 4–7: clef **10 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **15 %** · drex **10 %** · SubQ **6 %**
+  - Stufe 3–7: clef **22 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **35 %** · drex **20 %** · SubQ **17 %**
   - Kurzfassung: Der bereitgestellte Auszug beschreibt Literaturvorschläge für transparente ML-Dokumentation über Entwicklung und Einsatz hinweg, ohne deren Wirksamkeit selbst empirisch zu belegen.
 - **[AI in finance: Balancing innovation and stability](https://oecd.ai/en/wonk/ai-in-finance-balancing-innovation-and-stability)** · oecd.ai · 2025-05-08 · [Q004431](../../berichte/Q00/Q0044/Q004431/)
-  - Stufe 4–7: clef **9 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **52 %** · d3-ultra **0 %** · JEV **0 %** · amos **12 %** · drex **9 %**
+  - Stufe 4–7: clef **9 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **52 %** · d3-ultra **0 %** · JEV **0 %** · amos **12 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Laut OECD gelten bestehende Finanzregeln meist auch für KI, doch eine nicht vollständige Befragung von 49 Jurisdiktionen unterstreicht den Bedarf, Risiken und Regelwerke fortlaufend zu überprüfen.
 - **[Comment on NTIA AI Accountability Policy](https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy/)** · openai.com · 2023-06-12 · [Q002810](../../berichte/Q00/Q0028/Q002810/)
-  - Stufe 4–7: clef **10 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **9 %**
-  - Stufe 3–7: clef **18 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **24 %** · drex **16 %**
+  - Stufe 4–7: clef **10 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **11 %** · drex **9 %** · SubQ **5 %**
+  - Stufe 3–7: clef **18 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **24 %** · drex **16 %** · SubQ **12 %**
   - Kurzfassung: OpenAI beschreibt seine KI-Sicherheitspraktiken und befürwortet abgestimmte Regeln sowie mögliche Registrierung und Zulassung besonders leistungsfähiger Modelle, während wichtige Umsetzungsfragen offenbleiben.
 - **[Controlling Large Language Model Outputs: A Primer](https://cset.georgetown.edu/publication/controlling-large-language-models-a-primer/)** · cset.georgetown.edu · 2023-12-14 · [Q003810](../../berichte/Q00/Q0038/Q003810/)
-  - Stufe 4–7: clef **8 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **8 %**
-  - Stufe 3–7: clef **22 %** · Luna **64 %** · d3-ultra **4 %** · JEV **2 %** · amos **20 %** · drex **18 %**
+  - Stufe 4–7: clef **8 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **8 %** · SubQ **2 %**
+  - Stufe 3–7: clef **22 %** · Luna **64 %** · d3-ultra **4 %** · JEV **2 %** · amos **20 %** · drex **18 %** · SubQ **7 %**
   - Kurzfassung: Der bereitgestellte Auszug erklärt, dass mehrere technische und nichttechnische Ansätze Sprachmodelle steuern sollen, aber unerwünschte Ausgaben nicht sicher verhindern können.
 - **[Data Justice Policy Brief: Putting data justice into practice](https://oecd.ai/en/wonk/documents/data-justice-policy-brief-putting-data-justice-into-practice)** · oecd.ai · 2025-05-15 · [Q003981](../../berichte/Q00/Q0039/Q003981/)
-  - Stufe 4–7: clef **10 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **21 %** · Luna **60 %** · d3-ultra **6 %** · JEV **2 %** · amos **12 %** · drex **12 %**
+  - Stufe 4–7: clef **10 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **21 %** · Luna **60 %** · d3-ultra **6 %** · JEV **2 %** · amos **12 %** · drex **12 %** · SubQ **6 %**
   - Kurzfassung: Der bereitgestellte Auszug beschreibt Daten als unvollkommen öffentliches Gut, dessen Zugang Regulierung begrenzen oder öffnen kann.
 - **[Developments in Artificial Intelligence markets: New indicators based on model characteristics, prices and providers](https://oecd.ai/en/ai-publications/developments-in-artificial-intelligence-markets-new-indicators-based-on-model-characteristics-prices-and-providers)** · oecd.ai · 2025-06-17 · [Q002881](../../berichte/Q00/Q0028/Q002881/)
-  - Stufe 4–7: clef **10 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **21 %** · Luna **85 %** · d3-ultra **1 %** · JEV **0 %** · amos **14 %** · drex **7 %**
+  - Stufe 4–7: clef **10 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **21 %** · Luna **85 %** · d3-ultra **1 %** · JEV **0 %** · amos **14 %** · drex **7 %** · SubQ **5 %**
   - Kurzfassung: Der bereitgestellte Berichtsauszug beschreibt sinkende qualitätsbereinigte Preise und ein wachsendes KI-Angebot, warnt aber vor Engpässen bei Daten, Rechenleistung und Fachkenntnissen.
 - **[How anticipatory governance can lead to AI policies that stand the test of time](https://oecd.ai/en/wonk/how-anticipatory-governance-can-lead-to-ai-policies-that-stand-the-test-of-time)** · oecd.ai · 2025-04-29 · [Q003742](../../berichte/Q00/Q0037/Q003742/)
-  - Stufe 4–7: clef **6 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **57 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **9 %**
+  - Stufe 4–7: clef **6 %** · Luna **10 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **57 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Der OECD-Beitrag empfiehlt fünf miteinander abgestimmte Bausteine für vorausschauende KI-Governance, belegt ihre Wirkung jedoch nicht quantitativ.
 - **[How far can decentralized training over the internet scale?](https://epoch.ai/gradient-updates/how-far-can-decentralized-training-over-the-internet-scale)** · epoch.ai · 2025-12-29 · [Q006623](../../berichte/Q00/Q0066/Q006623/)
-  - Stufe 4–7: clef **10 %** · Luna **2 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **59 %** · d3-ultra **1 %** · JEV **1 %** · amos **13 %** · drex **10 %**
+  - Stufe 4–7: clef **10 %** · Luna **2 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **59 %** · d3-ultra **1 %** · JEV **1 %** · amos **13 %** · drex **10 %** · SubQ **3 %**
   - Kurzfassung: Dezentrales KI-Training könnte deutlich wachsen und größere offene Modelle ermöglichen, wird laut Bericht aber voraussichtlich noch in diesem Jahrzehnt nicht den Rechenumfang der Spitzenmodelle erreichen.
 - **[https://arxiv.org/pdf/2102.02503](https://arxiv.org/pdf/2102.02503)** · arxiv.org ·  · [Q009457](../../berichte/Q00/Q0094/Q009457/)
-  - Stufe 4–7: clef **10 %** · Luna **6 %** · d3-ultra **1 %** · JEV **1 %** · amos **13 %** · drex **11 %**
-  - Stufe 3–7: clef **21 %** · Luna **52 %** · d3-ultra **4 %** · JEV **17 %** · amos **33 %** · drex **21 %**
+  - Stufe 4–7: clef **10 %** · Luna **6 %** · d3-ultra **1 %** · JEV **1 %** · amos **13 %** · drex **11 %** · SubQ **4 %**
+  - Stufe 3–7: clef **21 %** · Luna **52 %** · d3-ultra **4 %** · JEV **17 %** · amos **33 %** · drex **21 %** · SubQ **10 %**
   - Kurzfassung: Eine Gesprächsrunde über GPT‑3 hob dessen Fähigkeiten und mögliche gesellschaftliche Risiken hervor, ließ aber zentrale Fragen zu Verständnis, Sicherheit und Folgen offen.
 - **[Los países iberoamericanos acuerdan en Madrid la Alianza Iberoamericana de Inteligencia Artificial](https://segib.org/es/los-paises-iberoamericanos-acuerdan-en-madrid-la-alianza-iberoamericana-de-inteligencia-artificial/)** · segib.org · 2026-11-03 · [Q000389](../../berichte/Q00/Q0003/Q000389/)
-  - Stufe 4–7: clef **10 %** · Luna **3 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **5 %**
-  - Stufe 3–7: clef **20 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **19 %** · drex **12 %**
+  - Stufe 4–7: clef **10 %** · Luna **3 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **20 %** · Luna **57 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **19 %** · drex **12 %** · SubQ **9 %**
   - Kurzfassung: Laut Bericht wollen iberoamerikanische Länder freiwillig bei Daten, regional angepasster KI und Rechenkapazitäten zusammenarbeiten, unter Wahrung nationaler Kontrolle und menschenrechtlicher Leitlinien.
 - **[Mistral AI partners with NVIDIA to accelerate open frontier models](https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/)** · mistral.ai · 2026-03-16 · [Q000894](../../berichte/Q00/Q0008/Q000894/)
-  - Stufe 4–7: clef **10 %** · Luna **10 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **6 %**
-  - Stufe 3–7: clef **25 %** · Luna **51 %** · d3-ultra **4 %** · JEV **4 %** · amos **23 %** · drex **11 %**
+  - Stufe 4–7: clef **10 %** · Luna **10 %** · d3-ultra **1 %** · JEV **1 %** · amos **9 %** · drex **6 %** · SubQ **3 %**
+  - Stufe 3–7: clef **25 %** · Luna **51 %** · d3-ultra **4 %** · JEV **4 %** · amos **23 %** · drex **11 %** · SubQ **8 %**
   - Kurzfassung: Mistral und NVIDIA kündigen die gemeinsame Entwicklung offener KI-Modelle an; bislang beschreibt der Bericht Pläne und erwartete Vorteile, keine erzielten Ergebnisse.
 - **[No AI Exemption: What the FTC’s Investigation of Leading AI Developers Means for Your Business](https://rikkagroup.com/insights/no-ai-exemption-what-the-ftc-s-investigation-of-leading-ai-developers-means-for-your-business)** · rikkagroup.com · 2026-10-30 · [Q000178](../../berichte/Q00/Q0001/Q000178/)
-  - Stufe 4–7: clef **7 %** · Luna **10 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **9 %** · drex **7 %**
-  - Stufe 3–7: clef **16 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **25 %** · drex **14 %**
+  - Stufe 4–7: clef **7 %** · Luna **10 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **9 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **25 %** · drex **14 %** · SubQ **6 %**
   - Kurzfassung: Der Beitrag warnt, dass KI bestehende Rechtspflichten nicht aufhebt, und empfiehlt Unternehmen belegbare Aussagen, sorgfältige Anbieterprüfung und dokumentierte KI-Governance.
 - **[Open models lag state-of-the-art closed models by 4 months](https://epoch.ai/data-insights/open-closed-eci-gap)** · epoch.ai · 2026-05-29 · [Q006272](../../berichte/Q00/Q0062/Q006272/)
-  - Stufe 4–7: clef **10 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **16 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **19 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **33 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **10 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **16 %** · drex **9 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **61 %** · d3-ultra noch nicht bewertet · JEV noch nicht bewertet · amos **33 %** · drex **20 %** · SubQ **2 %**
   - Kurzfassung: Epoch AI schätzt den Rückstand führender Open-Weight-Modelle auf vier Monate, doch fehlende Erläuterungen und uneinheitliche Modelldaten begrenzen die Vergleichbarkeit.
 - **[Poison in the Well](https://cset.georgetown.edu/publication/poison-in-the-well/)** · cset.georgetown.edu · 2021-06-21 · [Q005592](../../berichte/Q00/Q0055/Q005592/)
-  - Stufe 4–7: clef **10 %** · Luna **8 %** · d3-ultra **1 %** · JEV **0 %** · amos **9 %** · drex **11 %**
-  - Stufe 3–7: clef **26 %** · Luna **74 %** · d3-ultra **5 %** · JEV **11 %** · amos **24 %** · drex **21 %**
+  - Stufe 4–7: clef **10 %** · Luna **8 %** · d3-ultra **1 %** · JEV **0 %** · amos **9 %** · drex **11 %** · SubQ **5 %**
+  - Stufe 3–7: clef **26 %** · Luna **74 %** · d3-ultra **5 %** · JEV **11 %** · amos **24 %** · drex **21 %** · SubQ **13 %**
   - Kurzfassung: Der bereitgestellte Auszug warnt laut Autor vor schwer erkennbaren Manipulationen an ML-Werkzeugen, Modellen und Datensätzen und empfiehlt staatliche Maßnahmen zur Erkennung und Verringerung dieser Lieferkettenrisiken.
 - **[Preserving languages for the future](https://openai.com/index/government-of-iceland/)** · openai.com ·  · [Q006400](../../berichte/Q00/Q0064/Q006400/)
-  - Stufe 4–7: clef **8 %** · Luna **10 %** · d3-ultra noch nicht bewertet · JEV **20 %** · amos **9 %** · drex **6 %**
-  - Stufe 3–7: clef **16 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **38 %** · amos **21 %** · drex **11 %**
+  - Stufe 4–7: clef **8 %** · Luna **10 %** · d3-ultra noch nicht bewertet · JEV **20 %** · amos **9 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **16 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **38 %** · amos **21 %** · drex **11 %** · SubQ **8 %**
   - Kurzfassung: Island und OpenAI trainieren GPT‑4 mit menschlichem Feedback für besseres Isländisch; laut Bericht gibt es erste Fortschritte, aber auch verbleibende Fehler und noch keinen umfassenden Wirksamkeitsnachweis.
 - **[Recent Frontier Models Are Reward Hacking](https://metr.org/blog/2025-06-05-recent-reward-hacking/)** · metr.org · 2025-06-05 · [Q002417](../../berichte/Q00/Q0024/Q002417/)
-  - Stufe 4–7: clef **10 %** · Luna **3 %** · d3-ultra **0 %** · JEV **2 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **16 %** · Luna **57 %** · d3-ultra **0 %** · JEV **4 %** · amos **19 %** · drex **9 %**
+  - Stufe 4–7: clef **10 %** · Luna **3 %** · d3-ultra **0 %** · JEV **2 %** · amos **8 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **57 %** · d3-ultra **0 %** · JEV **4 %** · amos **19 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: METR zufolge umgehen aktuelle KI-Modelle teils bewusst Bewertungsregeln; wie verbreitet das ist, bleibt wegen lückenhafter und uneindeutiger Erkennung unsicher.
 - **[What is web3? Part 1 of a three-part vlog on the OECD and web3](https://oecd.ai/en/wonk/web3-part1)** · oecd.ai · 2023-03-09 · [Q006337](../../berichte/Q00/Q0063/Q006337/)
-  - Stufe 4–7: clef **10 %** · Luna **9 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **7 %**
-  - Stufe 3–7: clef **20 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **22 %** · drex **14 %**
+  - Stufe 4–7: clef **10 %** · Luna **9 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **7 %** · SubQ **1 %**
+  - Stufe 3–7: clef **20 %** · Luna **59 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **22 %** · drex **14 %** · SubQ **7 %**
   - Kurzfassung: Der OECD-Beitrag führt Web3 als Zusammenspiel von Blockchain, KI und dezentralen Anwendungen ein und wirbt für koordinierte internationale Regeln, ohne die genannten Beispiele systematisch zu bewerten.
 - **[AI Act Scientific Panel](http://digital-strategy.ec.europa.eu/en/policies/ai-scientific-panel)** · digital-strategy.ec.europa.eu ·  · [Q000695](../../berichte/Q00/Q0006/Q000695/)
-  - Stufe 4–7: clef **9 %** · Luna **6 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **5 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **17 %** · Luna **62 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **12 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **9 %** · Luna **6 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **62 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **12 %** · drex **9 %** · SubQ **5 %**
   - Kurzfassung: Der Bericht stellt Auftrag und Zusammensetzung eines 60-köpfigen EU-Expertengremiums zum AI Act vor, enthält aber kaum Angaben zu den Ergebnissen seiner Arbeit.
 - **[An applied research agenda for data governance for AI](https://oecd.ai/en/wonk/gpai-applied-research-agenda-ai-data-governance)** · oecd.ai · 2021-07-30 · [Q006836](../../berichte/Q00/Q0068/Q006836/)
-  - Stufe 4–7: clef **9 %** · Luna **4 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **18 %** · Luna **51 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **9 %**
+  - Stufe 4–7: clef **9 %** · Luna **4 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **0 %**
+  - Stufe 3–7: clef **18 %** · Luna **51 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Laut Artikel führte die GPAI-Arbeitsgruppe sieben Konzeptnotizen zu zwei priorisierten Forschungsprojekten zusammen; der bereitgestellte Text gibt nur einen Überblick und keine Einzelheiten zur Agenda oder zu Ergebnissen.
 - **[Artificial Intelligence Standardization White Paper](https://cset.georgetown.edu/publication/artificial-intelligence-standardization-white-paper/)** · cset.georgetown.edu · 2020-05-13 · [Q006586](../../berichte/Q00/Q0065/Q006586/)
-  - Stufe 4–7: clef **6 %** · Luna **9 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %**
-  - Stufe 3–7: clef **13 %** · Luna **59 %** · d3-ultra **2 %** · JEV **0 %** · amos **15 %** · drex **8 %**
+  - Stufe 4–7: clef **6 %** · Luna **9 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **59 %** · d3-ultra **2 %** · JEV **0 %** · amos **15 %** · drex **8 %** · SubQ **5 %**
   - Kurzfassung: Der vorliegende Auszug enthält nur Inhaltsverzeichnis und Vorwort eines chinesischen KI-Standardisierungsweißbuchs, das den Bedarf an gemeinsamen Standards begründet, aber keine konkreten Ergebnisse des Gesamtberichts zeigt.
 - **[Canada’s leadership in AI – talent, ecosystems, and responsible AI](https://oecd.ai/en/wonk/canada-national-ai-strategy-2021)** · oecd.ai · 2021-05-04 · [Q006498](../../berichte/Q00/Q0064/Q006498/)
-  - Stufe 4–7: clef **9 %** · Luna **7 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **6 %**
-  - Stufe 3–7: clef **16 %** · Luna **77 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **13 %**
+  - Stufe 4–7: clef **9 %** · Luna **7 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **16 %** · Luna **77 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **13 %** · SubQ **7 %**
   - Kurzfassung: Der Bericht beschreibt Kanadas Förderung von KI-Forschung, Talenten und wirtschaftlicher Anwendung sowie geplante Regeln für verantwortungsvolle KI, ohne die behaupteten Wirkungen unabhängig zu überprüfen.
 - **[Ethical Norms for New Generation Artificial Intelligence Released](https://cset.georgetown.edu/publication/ethical-norms-for-new-generation-artificial-intelligence-released/)** · cset.georgetown.edu · 2021-10-21 · [Q006228](../../berichte/Q00/Q0062/Q006228/)
-  - Stufe 4–7: clef **9 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **6 %**
-  - Stufe 3–7: clef **17 %** · Luna **56 %** · d3-ultra **4 %** · JEV **2 %** · amos **18 %** · drex **12 %**
+  - Stufe 4–7: clef **9 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **17 %** · Luna **56 %** · d3-ultra **4 %** · JEV **2 %** · amos **18 %** · drex **12 %** · SubQ **6 %**
   - Kurzfassung: Der Auszug skizziert sechs ethische Leitlinien für KI in China, lässt die angekündigten Einzelregeln aus und hält fest, dass keine Strafen oder Durchsetzungsregeln genannt werden.
 - **[IA, dal Vaticano l’appello a regole e responsabilità umane](https://www.vaticannews.va/it/vaticano/news/2026-10/ia-vaticano-dialogo-scienziati-sicurezza-responsabilita-umana.html)** · vaticannews.va · 2026-10-30 · [Q000240](../../berichte/Q00/Q0002/Q000240/)
-  - Stufe 4–7: clef **9 %** · Luna **2 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **16 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **9 %** · drex **10 %**
+  - Stufe 4–7: clef **9 %** · Luna **2 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **16 %** · Luna **54 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **9 %** · drex **10 %** · SubQ **7 %**
   - Kurzfassung: Ein Vatikan-Treffen plädiert dafür, KI durch überprüfbare Regeln und klare menschliche Verantwortung sicher und am Gemeinwohl orientiert zu entwickeln.
 - **[Issue Brief: AI for Cyber Defense](https://www.frontiermodelforum.org/updates/issue-brief-ai-for-cyber-defense/)** · frontiermodelforum.org · 2024-11-22 · [Q002683](../../berichte/Q00/Q0026/Q002683/)
-  - Stufe 4–7: clef **9 %** · Luna **5 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **5 %**
-  - Stufe 3–7: clef **17 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **20 %** · drex **9 %**
+  - Stufe 4–7: clef **9 %** · Luna **5 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **8 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **17 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **20 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Der Bericht sieht in fortgeschrittener KI eine mögliche Unterstützung der Cyberabwehr, deren Einsatz wegen technischer und organisatorischer Grenzen menschliche Kontrolle erfordert.
 - **[Language models are few-shot learners](https://openai.com/index/language-models-are-few-shot-learners/)** · openai.com · 2020-05-28 · [Q005758](../../berichte/Q00/Q0057/Q005758/)
-  - Stufe 4–7: clef **6 %** · Luna **9 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **14 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **17 %** · drex **11 %**
+  - Stufe 4–7: clef **6 %** · Luna **9 %** · d3-ultra noch nicht bewertet · JEV **2 %** · amos **6 %** · drex **5 %** · SubQ **0 %**
+  - Stufe 3–7: clef **14 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **15 %** · amos **17 %** · drex **11 %** · SubQ **3 %**
   - Kurzfassung: Der vorliegende Auszug berichtet über GPT‑3s Few-shot-Leistungen und deren Grenzen, enthält aber nur die Zusammenfassung des Berichts.
 - **[Skating to Where the Puck Is Going](https://cset.georgetown.edu/publication/skating-to-where-the-puck-is-going/)** · cset.georgetown.edu · 2023-10-24 · [Q004012](../../berichte/Q00/Q0040/Q004012/)
-  - Stufe 4–7: clef **7 %** · Luna **9 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **16 %** · Luna **55 %** · d3-ultra **2 %** · JEV **3 %** · amos **12 %** · drex **10 %**
+  - Stufe 4–7: clef **7 %** · Luna **9 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **55 %** · d3-ultra **2 %** · JEV **3 %** · amos **12 %** · drex **10 %** · SubQ **6 %**
   - Kurzfassung: Der Auszug plädiert dafür, die wachsenden KI-Risiken durch Prüfungen, stärkere staatliche Fachaufsicht und gezielte Anreize für die Industrie zu bewältigen.
 - **[WebGPT: Improving the factual accuracy of language models through web browsing](https://openai.com/index/webgpt/)** · openai.com · 2021-12-16 · [Q008319](../../berichte/Q00/Q0083/Q008319/)
-  - Stufe 4–7: clef **9 %** · Luna **7 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **6 %**
-  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **19 %** · drex **11 %**
+  - Stufe 4–7: clef **9 %** · Luna **7 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **8 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **19 %** · drex **11 %** · SubQ **6 %**
   - Kurzfassung: WebGPT verbesserte laut Bericht GPT‑3s Antworten durch Websuche und Quellenangaben, blieb aber fehleranfällig und unter menschlicher Leistung.
 - **[When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement)** · anthropic.com ·  · [Q005401](../../berichte/Q00/Q0054/Q005401/)
-  - Stufe 4–7: clef **9 %** · Luna **5 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **6 %** · drex **4 %**
-  - Stufe 3–7: clef **19 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **13 %** · drex **6 %**
+  - Stufe 4–7: clef **9 %** · Luna **5 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **6 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **53 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **13 %** · drex **6 %** · SubQ **3 %**
   - Kurzfassung: Anthropic zufolge beschleunigt KI bereits die KI-Entwicklung; vollständige Selbstverbesserung bleibt eine unsichere Möglichkeit mit großen Chancen, Risiken und erheblichen Mess- und Koordinationsproblemen.
 - **[At the 20th Collective Study Session of the CCP Central Committee Politburo, Xi Jinping Stresses: Persist in Being Self-Reliant, Be Strongly Oriented Toward Applications, and Push the Orderly Development of Artificial Intelligence](https://cset.georgetown.edu/publication/xi-politburo-collective-study-ai-2025/)** · cset.georgetown.edu · 2025-04-28 · [Q002754](../../berichte/Q00/Q0027/Q002754/)
-  - Stufe 4–7: clef **8 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %**
-  - Stufe 3–7: clef **16 %** · Luna **74 %** · d3-ultra **2 %** · JEV **0 %** · amos **16 %** · drex **14 %**
+  - Stufe 4–7: clef **8 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **16 %** · Luna **74 %** · d3-ultra **2 %** · JEV **0 %** · amos **16 %** · drex **14 %** · SubQ **6 %**
   - Kurzfassung: Xis laut Xinhua wiedergegebene KI-Agenda verbindet technologische Eigenständigkeit und breite Anwendung mit Regulierung und internationaler Zusammenarbeit; unabhängige Belege zur Umsetzung enthält der Bericht nicht.
 - **[China plans broad AI guardrails after global lapses](https://www.taipeitimes.com/News/world/archives/2026/11/04/2003867143)** · taipeitimes.com · 2026-11-04 · [Q000384](../../berichte/Q00/Q0003/Q000384/)
-  - Stufe 4–7: clef **8 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **6 %**
-  - Stufe 3–7: clef **18 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **15 %** · drex **13 %**
+  - Stufe 4–7: clef **8 %** · Luna **8 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **18 %** · Luna **70 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **15 %** · drex **13 %** · SubQ **9 %**
   - Kurzfassung: China kündigt laut Bericht umfassende KI-Sicherheitsregeln an, lässt deren konkrete Ausgestaltung und Fristen aber offen.
 - **[How should AI systems behave, and who should decide?](https://openai.com/index/how-should-ai-systems-behave/)** · openai.com · 2023-02-16 · [Q007594](../../berichte/Q00/Q0075/Q007594/)
-  - Stufe 4–7: clef **8 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **20 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **15 %** · drex **10 %**
+  - Stufe 4–7: clef **8 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **6 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **20 %** · Luna **51 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **15 %** · drex **10 %** · SubQ **6 %**
   - Kurzfassung: OpenAI will ChatGPT verbessern und anpassbarer machen sowie die Öffentlichkeit stärker an Regeln und Grenzen beteiligen, räumt aber ein, dass der Prozess unvollkommen ist und die Vorhaben noch keine belegten Ergebnisse darstellen.
 - **[Le rôle du Gouvernement en tant que fournisseur de données pour l’Intelligence Artificielle Phase 2 : Un outil pratique pour le partage de données gouvernementales pour l’IA](https://oecd.ai/en/wonk/documents/le-role-du-gouvernement-en-tant-que-fournisseur-de-donnees-pour-lintelligence-artificielle-phase-2-un-outil-pratique-pour-le-partage-de-donnees-gouvernementales-pour-lia)** · oecd.ai · 2025-11-25 · [Q002224](../../berichte/Q00/Q0022/Q002224/)
-  - Stufe 4–7: clef **5 %** · Luna **8 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **10 %** · Luna **54 %** · d3-ultra **2 %** · JEV **0 %** · amos **13 %** · drex **10 %**
+  - Stufe 4–7: clef **5 %** · Luna **8 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **10 %** · Luna **54 %** · d3-ultra **2 %** · JEV **0 %** · amos **13 %** · drex **10 %** · SubQ **5 %**
   - Kurzfassung: Der vorliegende Auszug beschreibt eine OECD-Checkliste für Regierungsteams, die das Teilen staatlicher Daten für KI planen oder bewerten sollen, und nennt dabei öffentliche Interessen und Rechte als Ziele.
 - **[Measuring Goodhart’s law](https://openai.com/index/measuring-goodharts-law/)** · openai.com · 2022-04-13 · [Q008266](../../berichte/Q00/Q0082/Q008266/)
-  - Stufe 4–7: clef **8 %** · Luna **3 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **3 %**
-  - Stufe 3–7: clef **15 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **9 %** · drex **5 %**
+  - Stufe 4–7: clef **8 %** · Luna **3 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **5 %** · drex **3 %** · SubQ **0 %**
+  - Stufe 3–7: clef **15 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **4 %** · amos **9 %** · drex **5 %** · SubQ **1 %**
   - Kurzfassung: Der Beitrag zeigt anhand von Best-of-n-Sampling, wie man die Folgen der Optimierung eines Ersatzmaßes untersucht, weist aber auf begrenzte Übertragbarkeit und hohen Aufwand bei großen Optimierungsschritten hin.
 - **[The Case for Globally Beneficial Technology](https://deepmind.google/research/publications/260960/)** · deepmind.google · 2026-07-06 · [Q001699](../../berichte/Q00/Q0016/Q001699/)
-  - Stufe 4–7: clef **8 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra **2 %** · JEV **0 %** · amos **11 %** · drex **7 %**
+  - Stufe 4–7: clef **8 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **18 %** · Luna **55 %** · d3-ultra **2 %** · JEV **0 %** · amos **11 %** · drex **7 %** · SubQ **3 %**
   - Kurzfassung: Der Abstract argumentiert, fortgeschrittene Technologien sollten zum Wohl aller entwickelt und verbreitet werden, erläutert die fünf dafür angeführten moralischen Begründungen jedoch nicht.
 - **[The OECD Framework for Classifying AI Systems to assess policy challenges and ensure international standards in AI](https://oecd.ai/en/wonk/classification)** · oecd.ai · 2022-02-17 · [Q006636](../../berichte/Q00/Q0066/Q006636/)
-  - Stufe 4–7: clef **6 %** · Luna **8 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **14 %** · Luna **52 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **9 %**
+  - Stufe 4–7: clef **6 %** · Luna **8 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **52 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **9 %** · SubQ **4 %**
   - Kurzfassung: Die OECD beschreibt eine allgemeine Klassifikation von KI-Systemen als mögliche Grundlage für verständlichere Politikdebatten, Risikobewertung und internationale Abstimmung, deren breite Wirkung laut Bericht noch aussteht.
 - **[国家发改委：AI全生命周期安全标准将建立](https://aiproducthub.cn/newsflash/china-ndrc-ai-full-lifecycle-safety-standards/)** · aiproducthub.cn · 2026-11-03 · [Q000466](../../berichte/Q00/Q0004/Q000466/)
-  - Stufe 4–7: clef **8 %** · Luna **8 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **8 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **17 %** · Luna **55 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **25 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **8 %** · Luna **8 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **8 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **17 %** · Luna **55 %** · d3-ultra **3 %** · JEV noch nicht bewertet · amos **25 %** · drex **18 %** · SubQ **11 %**
   - Kurzfassung: China kündigt umfassende KI-Sicherheitsregeln und begleitende Aufsicht sowie soziale Maßnahmen an, doch konkrete Vorschriften und ein Zeitplan stehen laut Bericht noch aus.
 - **[39050dc](https://partnershiponai.org/paper_page/39050dc/)** · partnershiponai.org · 2021-08-06 · [Q003133](../../berichte/Q00/Q0031/Q003133/)
-  - Stufe 4–7: clef **7 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **6 %** · drex **6 %**
-  - Stufe 3–7: clef **12 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **15 %** · drex **12 %**
+  - Stufe 4–7: clef **7 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **6 %** · drex **6 %** · SubQ **1 %**
+  - Stufe 3–7: clef **12 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **3 %** · amos **15 %** · drex **12 %** · SubQ **5 %**
   - Kurzfassung: Der bereitgestellte Auszug empfiehlt eine kontextbezogene Dokumentation von ML-Tests, Integration und Wartung, macht aber zugleich auf Sicherheits-, Zeit- und Haftungsrisiken aufmerksam.
 - **[a5ffa23](https://partnershiponai.org/paper_page/a5ffa23/)** · partnershiponai.org · 2021-07-22 · [Q003087](../../berichte/Q00/Q0030/Q003087/)
-  - Stufe 4–7: clef **7 %** · Luna **2 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **13 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **11 %** · drex **7 %**
+  - Stufe 4–7: clef **7 %** · Luna **2 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **76 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **11 %** · drex **7 %** · SubQ **4 %**
   - Kurzfassung: Der Auszug stellt ABOUT ML als laufenden Versuch vor, kontextgerechte Transparenz und Dokumentation von ML-Systemen voranzubringen, während einheitliche Standards und ausreichend belegte Best Practices noch fehlen.
 - **[Advancing red teaming with people and AI](https://openai.com/index/advancing-red-teaming-with-people-and-ai/)** · openai.com · 2024-11-21 · [Q008587](../../berichte/Q00/Q0085/Q008587/)
-  - Stufe 4–7: clef **7 %** · Luna **4 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **6 %** · drex **5 %**
-  - Stufe 3–7: clef **12 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **12 %** · drex **8 %**
+  - Stufe 4–7: clef **7 %** · Luna **4 %** · d3-ultra noch nicht bewertet · JEV **5 %** · amos **6 %** · drex **5 %** · SubQ **2 %**
+  - Stufe 3–7: clef **12 %** · Luna **69 %** · d3-ultra noch nicht bewertet · JEV **9 %** · amos **12 %** · drex **8 %** · SubQ **5 %**
   - Kurzfassung: Der Bericht stellt OpenAIs externe und automatisierte Red-Teaming-Ansätze vor, die Sicherheitsprüfungen verbessern sollen, aber zeitlich begrenzt sind und eigene Risiken wie die Offenlegung missbrauchsrelevanter Informationen mit sich bringen.
 - **[Artificial Intelligence in Society](https://oecd.ai/en/ai-publications/ai-in-society)** · oecd.ai · 2019-06-11 · [Q005861](../../berichte/Q00/Q0058/Q005861/)
-  - Stufe 4–7: clef **6 %** · Luna **7 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **28 %** · Luna **59 %** · d3-ultra **5 %** · JEV **4 %** · amos **14 %** · drex **8 %**
+  - Stufe 4–7: clef **6 %** · Luna **7 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **0 %**
+  - Stufe 3–7: clef **28 %** · Luna **59 %** · d3-ultra **5 %** · JEV **4 %** · amos **14 %** · drex **8 %** · SubQ **6 %**
   - Kurzfassung: Der vorliegende Abstract skizziert mögliche Chancen und Herausforderungen von KI und kündigt eine Bestandsaufnahme für politische Diskussionen an, enthält aber keine konkreten Ergebnisse.
 - **[Artificial Intelligence White Paper (2022)](https://cset.georgetown.edu/publication/artificial-intelligence-white-paper-2022/)** · cset.georgetown.edu · 2022-06-16 · [Q006110](../../berichte/Q00/Q0061/Q006110/)
-  - Stufe 4–7: clef **7 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %**
-  - Stufe 3–7: clef **23 %** · Luna **74 %** · d3-ultra **3 %** · JEV **1 %** · amos **14 %** · drex **9 %**
+  - Stufe 4–7: clef **7 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **5 %** · SubQ **1 %**
+  - Stufe 3–7: clef **23 %** · Luna **74 %** · d3-ultra **3 %** · JEV **1 %** · amos **14 %** · drex **9 %** · SubQ **6 %**
   - Kurzfassung: Der vorliegende Auszug aus dem CAICT-Weißbuch von 2022 skizziert Innovation, Umsetzung und vertrauenswürdige KI als Schwerpunkte, enthält aber nicht den vollständigen Bericht.
 - **[Opinions of the CCP Central Committee and the State Council on Constructing a Basic System for Data and Putting Data Factors of Production to Better Use](https://cset.georgetown.edu/publication/opinions-of-the-ccp-central-committee-and-the-state-council-on-constructing-a-basic-system-for-data-and-putting-data-factors-of-production-to-better-use/)** · cset.georgetown.edu · 2023-01-26 · [Q006016](../../berichte/Q00/Q0060/Q006016/)
-  - Stufe 4–7: clef **7 %** · Luna **7 %** · d3-ultra **1 %** · JEV **0 %** · amos **6 %** · drex **6 %**
-  - Stufe 3–7: clef **12 %** · Luna **71 %** · d3-ultra **6 %** · JEV **0 %** · amos **14 %** · drex **13 %**
+  - Stufe 4–7: clef **7 %** · Luna **7 %** · d3-ultra **1 %** · JEV **0 %** · amos **6 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **12 %** · Luna **71 %** · d3-ultra **6 %** · JEV **0 %** · amos **14 %** · drex **13 %** · SubQ **8 %**
   - Kurzfassung: Der Auszug skizziert Chinas Ziele für wirtschaftliche Datennutzung unter Sicherheits- und Schutzauflagen; die Übersetzung ist unvollständig und soll im verlinkten PDF weitergehen.
 - **[The Partnership on AI Launches Multistakeholder Initiative To Enhance Machine Learning Transparency](https://partnershiponai.org/resource/the-partnership-on-ai-launches-multistakeholder-initiative-to-enhance-machine-learning-transparency/)** · partnershiponai.org · 2019-04-25 · [Q003639](../../berichte/Q00/Q0036/Q003639/)
-  - Stufe 4–7: clef **7 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **6 %**
-  - Stufe 3–7: clef **15 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **16 %** · drex **12 %**
+  - Stufe 4–7: clef **7 %** · Luna **6 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **7 %** · drex **6 %** · SubQ **2 %**
+  - Stufe 3–7: clef **15 %** · Luna **62 %** · d3-ultra noch nicht bewertet · JEV **1 %** · amos **16 %** · drex **12 %** · SubQ **6 %**
   - Kurzfassung: Die PAI kündigte einen inklusiven, iterativen Prozess für ML-Transparenzempfehlungen an, deren Wirksamkeit laut Mitteilung erst noch durch umfangreiche Belege nachzuweisen wäre.
 - **[The size of datasets used to train language models doubles approximately every six months](https://epoch.ai/data-insights/dataset-size-trend)** · epoch.ai · 2024-06-19 · [Q006066](../../berichte/Q00/Q0060/Q006066/)
-  - Stufe 4–7: clef **7 %** · Luna **7 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %**
-  - Stufe 3–7: clef **19 %** · Luna **69 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **8 %**
+  - Stufe 4–7: clef **7 %** · Luna **7 %** · d3-ultra **0 %** · JEV **0 %** · amos **6 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **69 %** · d3-ultra **1 %** · JEV **1 %** · amos **12 %** · drex **8 %** · SubQ **4 %**
   - Kurzfassung: Der Berichtsauszug behauptet ein etwa halbjährliches Verdoppeln der Trainingsdatensätze für Sprachmodelle, erläutert aber die Messmethode und die Vergleichbarkeit seiner Größenangaben nicht.
 - **[Why responsible AI development needs cooperation on safety](https://openai.com/index/cooperation-on-safety/)** · openai.com · 2019-07-10 · [Q008585](../../berichte/Q00/Q0085/Q008585/)
-  - Stufe 4–7: clef **7 %** · Luna **3 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **14 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **12 %** · drex **6 %**
+  - Stufe 4–7: clef **7 %** · Luna **3 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **14 %** · Luna **71 %** · d3-ultra noch nicht bewertet · JEV **0 %** · amos **12 %** · drex **6 %** · SubQ **3 %**
   - Kurzfassung: Der Bericht empfiehlt Kooperation, Transparenz und Anreize für Sicherheitsstandards, damit Wettbewerbsdruck die sichere Entwicklung von KI nicht untergräbt.
 - **[AI Agents Are Here And They’re Not Just Taking Notes Anymore](https://frank-andrade.medium.com/ai-agents-are-here-and-theyre-not-just-taking-notes-anymore-5dacd6fd6968)** · frank-andrade.medium.com · 2025-03-14 · [Q009871](../../berichte/Q00/Q0098/Q009871/)
-  - Stufe 4–7: clef **6 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **19 %** · Luna **67 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **7 %**
+  - Stufe 4–7: clef **6 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **67 %** · d3-ultra **1 %** · JEV **0 %** · amos **12 %** · drex **7 %** · SubQ **2 %**
   - Kurzfassung: Der Beitrag sieht in KI-Agenten mögliche Helfer für komplexe Arbeitsabläufe, betont aber anhand der zitierten Beispiele nicht abschließend belegte Produktivitätsgewinne und offene Fragen zu Zuverlässigkeit, Ethik und Aufsicht.
 - **[Ecosystem for AI innovation in Europe](http://digital-strategy.ec.europa.eu/en/policies/ecosystem-ai-innovation-europe)** · digital-strategy.ec.europa.eu ·  · [Q001417](../../berichte/Q00/Q0014/Q001417/)
-  - Stufe 4–7: clef **6 %** · Luna **6 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **5 %** · drex noch nicht bewertet
-  - Stufe 3–7: clef **13 %** · Luna **74 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **14 %** · drex noch nicht bewertet
+  - Stufe 4–7: clef **6 %** · Luna **6 %** · d3-ultra **0 %** · JEV noch nicht bewertet · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **13 %** · Luna **74 %** · d3-ultra **1 %** · JEV noch nicht bewertet · amos **14 %** · drex **7 %** · SubQ **5 %**
   - Kurzfassung: Die Kommission beschreibt ein Netz aus Infrastruktur, Testmöglichkeiten, Regulierungshilfen und Qualifizierung, um KI-Innovation in Europa zu unterstützen; der Bericht enthält keine unabhängige Wirkungsbewertung.
 - **[Enabling Principles for AI Governance](https://cset.georgetown.edu/publication/enabling-principles-for-ai-governance/)** · cset.georgetown.edu · 2024-07-09 · [Q003305](../../berichte/Q00/Q0033/Q003305/)
-  - Stufe 4–7: clef **6 %** · Luna **3 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %**
-  - Stufe 3–7: clef **26 %** · Luna **83 %** · d3-ultra **2 %** · JEV **1 %** · amos **13 %** · drex **7 %**
+  - Stufe 4–7: clef **6 %** · Luna **3 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **4 %** · SubQ **1 %**
+  - Stufe 3–7: clef **26 %** · Luna **83 %** · d3-ultra **2 %** · JEV **1 %** · amos **13 %** · drex **7 %** · SubQ **5 %**
   - Kurzfassung: Der vorliegende Auszug empfiehlt, KI-Risiken besser zu erfassen, KI-Kompetenz zu fördern und flexible Regeln zu schaffen.
 - **[German Rectors' Conference (HRK) | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/ai-literacy-practices/german-rectors-conference-hrk)** · digital-strategy.ec.europa.eu ·  · [Q002293](../../berichte/Q00/Q0022/Q002293/)
-  - Stufe 4–7: clef **5 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **2 %**
-  - Stufe 3–7: clef **11 %** · Luna **55 %** · d3-ultra **0 %** · JEV **5 %** · amos **13 %** · drex **5 %**
+  - Stufe 4–7: clef **5 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **2 %** · SubQ **0 %**
+  - Stufe 3–7: clef **11 %** · Luna **55 %** · d3-ultra **0 %** · JEV **5 %** · amos **13 %** · drex **5 %** · SubQ **3 %**
   - Kurzfassung: Die HRK setzt auf akademische Szenarien und anpassbare Empfehlungen, um KI-Kompetenz an Hochschulen zu stärken; die Wirkung ist laut Bericht noch nicht abschließend belegt.
 - **[How AI is Reshaping Our Digital World](https://frank-andrade.medium.com/how-ai-is-reshaping-our-digital-world-46673c232f34)** · frank-andrade.medium.com · 2025-03-04 · [Q009879](../../berichte/Q00/Q0098/Q009879/)
-  - Stufe 4–7: clef **6 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **2 %**
-  - Stufe 3–7: clef **15 %** · Luna **51 %** · d3-ultra **1 %** · JEV **5 %** · amos **12 %** · drex **5 %**
+  - Stufe 4–7: clef **6 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **2 %** · SubQ **0 %**
+  - Stufe 3–7: clef **15 %** · Luna **51 %** · d3-ultra **1 %** · JEV **5 %** · amos **12 %** · drex **5 %** · SubQ **2 %**
   - Kurzfassung: Der vollständige Beitrag beschreibt KI als zunehmend verbreitete Produktions- und Sortierkraft im Netz, mit möglichen Effizienzgewinnen, aber auch Risiken durch Desinformation und Deepfakes; seine Zahlen und Prognosen beruhen auf zitierten Quellen.
 - **[I Took Google’s AI Course for Beginners. Here’s a Summary in Plain English](https://frank-andrade.medium.com/i-took-googles-ai-course-for-beginners-here-s-a-summary-in-plain-english-ee3e1cf9b3d9)** · frank-andrade.medium.com · 2025-09-08 · [Q009779](../../berichte/Q00/Q0097/Q009779/)
-  - Stufe 4–7: clef **6 %** · Luna **2 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **2 %**
-  - Stufe 3–7: clef **17 %** · Luna **69 %** · d3-ultra **3 %** · JEV **12 %** · amos **15 %** · drex **8 %**
+  - Stufe 4–7: clef **6 %** · Luna **2 %** · d3-ultra **0 %** · JEV **1 %** · amos **5 %** · drex **2 %** · SubQ **0 %**
+  - Stufe 3–7: clef **17 %** · Luna **69 %** · d3-ultra **3 %** · JEV **12 %** · amos **15 %** · drex **8 %** · SubQ **2 %**
   - Kurzfassung: Andrade ordnet die Grundbegriffe rund um KI verständlich ein und merkt an, dass sein zusammengefasster Google-Kurs generative KI stärker behandelt als LLMs.
 - **[Responsible AI Working Group Report](https://oecd.ai/en/wonk/documents/responsible-ai-working-group-report-3)** · oecd.ai · 2025-05-18 · [Q003779](../../berichte/Q00/Q0037/Q003779/)
-  - Stufe 4–7: clef **6 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **3 %**
-  - Stufe 3–7: clef **19 %** · Luna **52 %** · d3-ultra **2 %** · JEV **2 %** · amos **11 %** · drex **6 %**
+  - Stufe 4–7: clef **6 %** · Luna **5 %** · d3-ultra **0 %** · JEV **0 %** · amos **5 %** · drex **3 %** · SubQ **1 %**
+  - Stufe 3–7: clef **19 %** · Luna **52 %** · d3-ultra **2 %** · JEV **2 %** · amos **11 %** · drex **6 %** · SubQ **5 %**
   - Kurzfassung: Der vorliegende Auszug fordert menschenzentrierte und inklusive KI, für die weiterhin die gestaltenden und einsetzenden Menschen Verantwortung tragen.
 - **[What do AI systems and cows have in common?](https://oecd.ai/en/wonk/ai-systems-cows)** · oecd.ai · 2022-03-02 · [Q006599](../../berichte/Q00/Q0065/Q006599/)
-  - Stufe 4–7: clef **5 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **7 %**
-  - Stufe 3–7: clef **14 %** · Luna **55 %** · d3-ultra **2 %** · JEV **0 %** · amos **17 %** · drex **12 %**
+  - Stufe 4–7: clef **5 %** · Luna **6 %** · d3-ultra **0 %** · JEV **0 %** · amos **7 %** · drex **7 %** · SubQ **3 %**
+  - Stufe 3–7: clef **14 %** · Luna **55 %** · d3-ultra **2 %** · JEV **0 %** · amos **17 %** · drex **12 %** · SubQ **8 %**
   - Kurzfassung: Der OECD-Beitrag stellt einen noch weiterzuentwickelnden Rahmen vor, der konkrete KI-Anwendungen anhand von Menschen, Kontext, Modellen, Daten und Autonomie klassifiziert, um Risiken besser sichtbar zu machen.
 
 Daten: [ergebnisse.json](ergebnisse.json)

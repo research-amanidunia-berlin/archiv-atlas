@@ -2,7 +2,7 @@
 
 # Archiv-Daten
 
-Eine Quelle für die Website [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/) und die Sammelfragen-Repos (z. B. [SF-M1](../fragen/SF-M1/)). Bewertete Berichte: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · drex 5685.
+Eine Quelle für die Website [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/) und die Sammelfragen-Repos (z. B. [SF-M1](../fragen/SF-M1/)). Bewertete Berichte: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · drex 5685 · SubQ 7924.
 
 - `daten/`: die Eingabedateien der Website (Format unverändert)
 - `berichte/<Q>/`: je Bericht ein Ordner mit README und `bericht.json`

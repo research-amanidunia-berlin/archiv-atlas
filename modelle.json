@@ -44,5 +44,13 @@
     "weg": "Nace (Zentrale)",
     "datei": "archiv-drex.json",
     "fertig": 5685
+  },
+  {
+    "k": "subq",
+    "name": "SubQ",
+    "modell": "subq-snap-1.1",
+    "weg": "SubQ (Zentrale)",
+    "datei": "archiv-subq.json",
+    "fertig": 7924
   }
 ]
