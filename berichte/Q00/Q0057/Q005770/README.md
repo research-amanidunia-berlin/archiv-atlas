@@ -14,7 +14,7 @@ Der bereitgestellte Auszug eines Epoch-AI-Berichts schätzt, dass die größten 
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 32 / 81 % | 4 / 23 % | 84 / 93 % | 18 / 40 % | 0 / 0 % | 0 / 0 % |
 | [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 13 / 85 % | 4 / 24 % | 5 / 26 % | 30 / 61 % | 0 / 0 % | 0 / 0 % |

@@ -14,9 +14,9 @@ Der vollständige Beitrag empfiehlt, bei komplexen oder folgenreichen Aufgaben z
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 2 / 16 % | 0 / 0 % | 79 / 89 % | 6 / 14 % | 4 / 8 % | 0 / 0 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 2 / 16 % | 0 / 0 % | 79 / 89 % | 6 / 14 % | 0 / 0 % | 4 / 8 % |
 | [SF-V4](../../../../fragen/SF-V4/) What kind of entity is a model, and what follows for how we treat it and for the value of being human? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 61 / 75 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 3 / 23 % | 0 / 0 % | 57 / 72 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 11 / 37 % | 0 / 0 % | 46 / 61 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

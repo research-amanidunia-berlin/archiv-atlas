@@ -39,8 +39,8 @@
     "d3-ultra": "4771 Berichte",
     "jev": "5667 Berichte",
     "amos": "7924 Berichte",
-    "drex": "6984 Berichte",
-    "subq": "7924 Berichte"
+    "subq": "7924 Berichte",
+    "drex": "7924 Berichte"
   },
   "modelle": [
     {
@@ -64,12 +64,12 @@
       "name": "amos"
     },
     {
-      "k": "drex",
-      "name": "drex"
-    },
-    {
       "k": "subq",
       "name": "SubQ"
+    },
+    {
+      "k": "drex",
+      "name": "drex"
     }
   ],
   "auswahl": "clef oder Luna geben den Stufen 3–7 über 50 %",
@@ -141,21 +141,6 @@
           9
         ]
       },
-      "drex": {
-        "stufe": 7,
-        "beleg": 77,
-        "beleg3": 86,
-        "verteilung": [
-          3,
-          5,
-          6,
-          9,
-          16,
-          19,
-          18,
-          24
-        ]
-      },
       "subq": {
         "stufe": 7,
         "beleg": 88,
@@ -169,6 +154,21 @@
           18,
           13,
           46
+        ]
+      },
+      "drex": {
+        "stufe": 7,
+        "beleg": 77,
+        "beleg3": 86,
+        "verteilung": [
+          3,
+          5,
+          6,
+          9,
+          16,
+          19,
+          18,
+          24
         ]
       },
       "tldr_de": "Nur der Abstract liegt vor: Er entwirft ein signiertes Register zur Regelung und öffentlichen Dokumentation zertifizierter KI-Systeme, doch praktische Wirksamkeit und weitere Leistungsbehauptungen sind hier nicht belegt.",
@@ -262,21 +262,6 @@
           7
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 55,
-        "beleg3": 67,
-        "verteilung": [
-          10,
-          11,
-          12,
-          12,
-          26,
-          16,
-          8,
-          5
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 38,
@@ -290,6 +275,21 @@
           3,
           6,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 55,
+        "beleg3": 67,
+        "verteilung": [
+          10,
+          11,
+          12,
+          12,
+          26,
+          16,
+          8,
+          5
         ]
       },
       "tldr_de": "Laut der bereitgestellten Zusammenfassung schützen signierte Manifeste Anforderungen bei Agenten-Übergaben vor Manipulation während der Übertragung, nicht aber vor Fehlern bei ihrer Extraktion.",
@@ -369,21 +369,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 60,
-        "beleg3": 71,
-        "verteilung": [
-          8,
-          12,
-          9,
-          11,
-          20,
-          19,
-          8,
-          13
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 33,
@@ -397,6 +382,21 @@
           10,
           5,
           3
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 60,
+        "beleg3": 71,
+        "verteilung": [
+          8,
+          12,
+          9,
+          11,
+          20,
+          19,
+          8,
+          13
         ]
       },
       "tldr_de": "Laut Bericht müssen Anbieter generative KI-Ausgaben kennzeichnen, C2PA deckt dabei nur die Metadatenebene ab, und Unternehmen sollen Zuständigkeiten, technische Kennzeichnungen und Belege prüfen.",
@@ -476,21 +476,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 5,
-        "beleg": 57,
-        "beleg3": 67,
-        "verteilung": [
-          13,
-          11,
-          9,
-          10,
-          15,
-          20,
-          7,
-          15
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 53,
@@ -504,6 +489,21 @@
           14,
           11,
           9
+        ]
+      },
+      "drex": {
+        "stufe": 5,
+        "beleg": 57,
+        "beleg3": 67,
+        "verteilung": [
+          13,
+          11,
+          9,
+          10,
+          15,
+          20,
+          7,
+          15
         ]
       },
       "tldr_de": "C2PA kann laut Bericht die Integrität und den Unterzeichner eines Herkunftsdatensatzes anzeigen, aber weder die Wahrheit eines Inhalts belegen noch aus einem fehlenden Manifest auf dessen frühere Abwesenheit schließen.",
@@ -597,21 +597,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 47,
-        "beleg3": 56,
-        "verteilung": [
-          20,
-          15,
-          9,
-          9,
-          10,
-          16,
-          8,
-          13
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 27,
@@ -625,6 +610,21 @@
           6,
           5,
           4
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 47,
+        "beleg3": 56,
+        "verteilung": [
+          20,
+          15,
+          9,
+          9,
+          10,
+          16,
+          8,
+          13
         ]
       },
       "tldr_de": "Content Credentials können Herkunftsangaben und Veränderungen einer Datei prüfbar machen, bestätigen laut Bericht aber weder die Wahrheit des Inhalts noch, dass alle Entstehungsschritte erfasst wurden.",
@@ -718,21 +718,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 26,
-        "beleg3": 38,
-        "verteilung": [
-          25,
-          21,
-          16,
-          12,
-          17,
-          3,
-          4,
-          2
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 33,
@@ -746,6 +731,21 @@
           3,
           4,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 26,
+        "beleg3": 38,
+        "verteilung": [
+          25,
+          21,
+          16,
+          12,
+          17,
+          3,
+          4,
+          2
         ]
       },
       "tldr_de": "Mistral zufolge verwaltet Studio Prompts und Skills zentral und nachvollziehbar, doch der Produktbericht liefert keine unabhängigen Belege für die beschriebenen Vorteile.",
@@ -825,21 +825,6 @@
           6
         ]
       },
-      "drex": {
-        "stufe": 5,
-        "beleg": 76,
-        "beleg3": 82,
-        "verteilung": [
-          7,
-          6,
-          5,
-          6,
-          11,
-          31,
-          9,
-          25
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 55,
@@ -853,6 +838,21 @@
           16,
           16,
           6
+        ]
+      },
+      "drex": {
+        "stufe": 5,
+        "beleg": 76,
+        "beleg3": 82,
+        "verteilung": [
+          7,
+          6,
+          5,
+          6,
+          11,
+          31,
+          9,
+          25
         ]
       },
       "tldr_de": "KI-Bildmarkierungen können Herkunft anzeigen, sind aber lückenhaft und veränderbar; der Bericht empfiehlt, Metadatenprüfung durch Pixelanalyse zu ergänzen.",
@@ -932,21 +932,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 39,
-        "beleg3": 51,
-        "verteilung": [
-          8,
-          12,
-          29,
-          12,
-          26,
-          6,
-          5,
-          2
-        ]
-      },
       "subq": {
         "stufe": 2,
         "beleg": 18,
@@ -960,6 +945,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 39,
+        "beleg3": 51,
+        "verteilung": [
+          8,
+          12,
+          29,
+          12,
+          26,
+          6,
+          5,
+          2
         ]
       },
       "tldr_de": "Das Memo empfiehlt einen standardisierten, schriftlichen und zunächst freiwilligen US-chinesischen Meldeweg für grenzüberschreitende KI-Vorfälle, dessen Zuständigkeiten und Meldeschwellen noch festzulegen wären.",
@@ -1039,21 +1039,6 @@
           4
         ]
       },
-      "drex": {
-        "stufe": 5,
-        "beleg": 65,
-        "beleg3": 76,
-        "verteilung": [
-          6,
-          9,
-          9,
-          11,
-          21,
-          24,
-          8,
-          12
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 30,
@@ -1067,6 +1052,21 @@
           7,
           5,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 5,
+        "beleg": 65,
+        "beleg3": 76,
+        "verteilung": [
+          6,
+          9,
+          9,
+          11,
+          21,
+          24,
+          8,
+          12
         ]
       },
       "tldr_de": "Eine KI-Kennzeichnung oder ein negatives Prüfergebnis beweist weder Wahrheit noch Echtheit; laut Bericht helfen nur mehrere begrenzte Prüfungen und die Rückverfolgung zur Quelle.",
@@ -1146,21 +1146,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 20,
-        "beleg3": 32,
-        "verteilung": [
-          18,
-          24,
-          26,
-          12,
-          12,
-          3,
-          3,
-          2
-        ]
-      },
       "subq": {
         "stufe": 2,
         "beleg": 24,
@@ -1172,6 +1157,21 @@
           21,
           17,
           2,
+          3,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 20,
+        "beleg3": 32,
+        "verteilung": [
+          18,
+          24,
+          26,
+          12,
+          12,
+          3,
           3,
           2
         ]
@@ -1253,21 +1253,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 21,
-        "beleg3": 39,
-        "verteilung": [
-          6,
-          26,
-          29,
-          18,
-          15,
-          2,
-          3,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 11,
@@ -1281,6 +1266,21 @@
           0,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 21,
+        "beleg3": 39,
+        "verteilung": [
+          6,
+          26,
+          29,
+          18,
+          15,
+          2,
+          3,
+          1
         ]
       },
       "tldr_de": "Der Veranstaltungsbericht fordert angesichts vielfältiger, von den Vortragenden beschriebener KI-Sicherheitsrisiken vorausschauende Schutzmaßnahmen, bietet aber keine unabhängige Prüfung oder Risikobewertung.",
@@ -1374,21 +1374,6 @@
           7
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 37,
-        "beleg3": 48,
-        "verteilung": [
-          23,
-          19,
-          10,
-          11,
-          14,
-          10,
-          4,
-          9
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 22,
@@ -1402,6 +1387,21 @@
           2,
           3,
           3
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 37,
+        "beleg3": 48,
+        "verteilung": [
+          23,
+          19,
+          10,
+          11,
+          14,
+          10,
+          4,
+          9
         ]
       },
       "tldr_de": "Das Zertifikat belegt laut Bericht Zeitpunkt und Fingerabdruck, schätzt Urheberschaft und trifft keine Aussage über Eigentumsrechte.",
@@ -1481,21 +1481,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 19,
-        "beleg3": 32,
-        "verteilung": [
-          30,
-          25,
-          13,
-          13,
-          12,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 7,
@@ -1509,6 +1494,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 19,
+        "beleg3": 32,
+        "verteilung": [
+          30,
+          25,
+          13,
+          13,
+          12,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Bericht beschreibt die nicht bindende Kommissionsauslegung der Transparenzpflichten für Anbieter und Betreiber nach Artikel 50 des EU-KI-Gesetzes, einschließlich Kennzeichnung, Offenlegung, Ausnahmen und Fristen.",
@@ -1588,21 +1588,6 @@
           4
         ]
       },
-      "drex": {
-        "stufe": 7,
-        "beleg": 60,
-        "beleg3": 71,
-        "verteilung": [
-          11,
-          11,
-          7,
-          11,
-          14,
-          19,
-          8,
-          19
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 45,
@@ -1616,6 +1601,21 @@
           16,
           8,
           10
+        ]
+      },
+      "drex": {
+        "stufe": 7,
+        "beleg": 60,
+        "beleg3": 71,
+        "verteilung": [
+          11,
+          11,
+          7,
+          11,
+          14,
+          19,
+          8,
+          19
         ]
       },
       "tldr_de": "Content Credentials können Herkunft und Bearbeitungen digitaler Dateien nachvollziehbar machen, beweisen laut Bericht aber weder deren Wahrheit noch eine verlässliche Prüfung für Hochrisikofälle.",
@@ -1695,21 +1695,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 19,
-        "verteilung": [
-          49,
-          24,
-          8,
-          9,
-          6,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 9,
@@ -1723,6 +1708,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 19,
+        "verteilung": [
+          49,
+          24,
+          8,
+          9,
+          6,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Der vorliegende Auszug fordert nachvollziehbare, dauerhaft dokumentierte Risikobewertungen, damit Betroffene sie prüfen und anfechten können; eigene empirische Ergebnisse enthält er nicht.",
@@ -1802,21 +1802,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 13,
-        "verteilung": [
-          45,
-          35,
-          7,
-          6,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -1829,6 +1814,21 @@
           3,
           1,
           0,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 13,
+        "verteilung": [
+          45,
+          35,
+          7,
+          6,
+          4,
+          1,
+          1,
           1
         ]
       },
@@ -1909,21 +1909,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 14,
-        "beleg3": 23,
-        "verteilung": [
-          34,
-          33,
-          10,
-          9,
-          7,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 26,
@@ -1937,6 +1922,21 @@
           6,
           3,
           3
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 23,
+        "verteilung": [
+          34,
+          33,
+          10,
+          9,
+          7,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "Laut Bericht brauchen nicht authentische KI-Darstellungen von Menschen oder realen Ereignissen einen sichtbaren oder hörbaren Hinweis; Metadaten und Plattformlabels helfen, ersetzen ihn aber nicht.",
@@ -2016,21 +2016,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 20,
-        "beleg3": 33,
-        "verteilung": [
-          17,
-          31,
-          19,
-          13,
-          13,
-          2,
-          3,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 9,
@@ -2044,6 +2029,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 20,
+        "beleg3": 33,
+        "verteilung": [
+          17,
+          31,
+          19,
+          13,
+          13,
+          2,
+          3,
+          2
         ]
       },
       "tldr_de": "NIST fasst Rückmeldungen zu standardbasierter, überprüfbarer und datenschutzbewusster Agentensicherheit zusammen; der bereitgestellte Berichtstext ist am Ende unvollständig.",
@@ -2137,21 +2137,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 15,
-        "beleg3": 27,
-        "verteilung": [
-          24,
-          36,
-          13,
-          12,
-          9,
-          3,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 11,
@@ -2164,6 +2149,21 @@
           8,
           1,
           1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 15,
+        "beleg3": 27,
+        "verteilung": [
+          24,
+          36,
+          13,
+          12,
+          9,
+          3,
+          2,
           1
         ]
       },
@@ -2258,21 +2258,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 10,
-        "verteilung": [
-          74,
-          12,
-          4,
-          5,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 7,
@@ -2283,6 +2268,21 @@
           4,
           8,
           4,
+          1,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 10,
+        "verteilung": [
+          74,
+          12,
+          4,
+          5,
+          2,
           1,
           1,
           1
@@ -2365,21 +2365,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 38,
-        "beleg3": 55,
-        "verteilung": [
-          10,
-          12,
-          23,
-          17,
-          29,
-          3,
-          4,
-          2
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 34,
@@ -2393,6 +2378,21 @@
           1,
           2,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 38,
+        "beleg3": 55,
+        "verteilung": [
+          10,
+          12,
+          23,
+          17,
+          29,
+          3,
+          4,
+          2
         ]
       },
       "tldr_de": "Model Cards sollen als begrenzte Anbieterbelege in versionierte, risikogerechte Freigaben und Laufzeitkontrollen einfließen, beweisen aber nicht die Sicherheit eines Modells im tatsächlichen Einsatz.",
@@ -2472,21 +2472,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 31,
-        "beleg3": 43,
-        "verteilung": [
-          24,
-          23,
-          10,
-          12,
-          13,
-          6,
-          4,
-          8
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 60,
@@ -2500,6 +2485,21 @@
           12,
           8,
           19
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 31,
+        "beleg3": 43,
+        "verteilung": [
+          24,
+          23,
+          10,
+          12,
+          13,
+          6,
+          4,
+          8
         ]
       },
       "tldr_de": "Die Verordnung verlangt Kennzeichnungen und Transparenz für erfasste KI-generierte Inhalte und gilt ab dem 1. September 2025.",
@@ -2593,21 +2593,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 8,
-        "verteilung": [
-          77,
-          11,
-          4,
-          3,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 0,
@@ -2621,6 +2606,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 8,
+        "verteilung": [
+          77,
+          11,
+          4,
+          3,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht übersetzt eine ausgewählte CSC-Vereinbarung mit Melde-, Rückkehr- und Dienstpflichten für geförderte Auslandsstudierende sowie finanzieller Haftung von zwei Bürgen, ohne ihre Rechtswirksamkeit zu bewerten.",
@@ -2700,21 +2700,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 18,
-        "verteilung": [
-          42,
-          32,
-          8,
-          9,
-          4,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 6,
@@ -2728,6 +2713,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 18,
+        "verteilung": [
+          42,
+          32,
+          8,
+          9,
+          4,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "OpenAIs Bedingungen regeln die Nutzung seiner Privatkundendienste, warnen vor unzuverlässigen Ausgaben und sehen vorbehaltlich geltenden Rechts Haftungsbegrenzungen und grundsätzlich verbindliche Schiedsverfahren vor.",
@@ -2807,21 +2807,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 30,
-        "beleg3": 46,
-        "verteilung": [
-          10,
-          20,
-          24,
-          16,
-          19,
-          5,
-          5,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 5,
@@ -2835,6 +2820,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 30,
+        "beleg3": 46,
+        "verteilung": [
+          10,
+          20,
+          24,
+          16,
+          19,
+          5,
+          5,
+          1
         ]
       },
       "tldr_de": "Anthropic berichtet über Fortschritte und angepasste Sicherheitsziele und warnt zugleich, dass Schutzwirkungen gegen künftige Angriffe nicht garantiert sind und KI Forschung möglicherweise schon ab Anfang 2027 stark beschleunigen könnte.",
@@ -2914,21 +2914,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 20,
-        "beleg3": 31,
-        "verteilung": [
-          31,
-          25,
-          13,
-          11,
-          10,
-          4,
-          3,
-          3
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 50,
@@ -2941,6 +2926,21 @@
           25,
           13,
           9,
+          3
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 20,
+        "beleg3": 31,
+        "verteilung": [
+          31,
+          25,
+          13,
+          11,
+          10,
+          4,
+          3,
           3
         ]
       },
@@ -3035,21 +3035,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 5,
-        "verteilung": [
-          82,
-          10,
-          3,
-          2,
-          1,
-          1,
-          0,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 0,
@@ -3063,6 +3048,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 5,
+        "verteilung": [
+          82,
+          10,
+          3,
+          2,
+          1,
+          1,
+          0,
+          1
         ]
       },
       "tldr_de": "Eine Anleitung für einen statischen Apple-Wallet-Pass samt einfacher SwiftUI-Verteilung; dynamische Erzeugung und Aktualisierungen bleiben laut Bericht zukünftige Ausbauschritte.",
@@ -3142,21 +3142,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 35,
-        "beleg3": 46,
-        "verteilung": [
-          23,
-          19,
-          12,
-          11,
-          13,
-          7,
-          6,
-          9
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 37,
@@ -3169,6 +3154,21 @@
           16,
           7,
           5,
+          9
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 35,
+        "beleg3": 46,
+        "verteilung": [
+          23,
+          19,
+          12,
+          11,
+          13,
+          7,
+          6,
           9
         ]
       },
@@ -3249,21 +3249,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 34,
-        "beleg3": 47,
-        "verteilung": [
-          17,
-          23,
-          13,
-          13,
-          21,
-          5,
-          4,
-          4
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 19,
@@ -3277,6 +3262,21 @@
           3,
           2,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 34,
+        "beleg3": 47,
+        "verteilung": [
+          17,
+          23,
+          13,
+          13,
+          21,
+          5,
+          4,
+          4
         ]
       },
       "tldr_de": "Laut Bericht verpflichtet Artikel 50 Anbieter und Betreiber seit August 2026 zu KI-Hinweisen und Kennzeichnungen, mit einer eng begrenzten Fristverlängerung bis 2. Dezember 2026 für die maschinenlesbare Markierung bestimmter älterer Systeme.",
@@ -3356,21 +3356,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 13,
-        "beleg3": 24,
-        "verteilung": [
-          37,
-          29,
-          10,
-          11,
-          7,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 12,
@@ -3384,6 +3369,21 @@
           2,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 13,
+        "beleg3": 24,
+        "verteilung": [
+          37,
+          29,
+          10,
+          11,
+          7,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Laut Bericht müssen realistische KI-Inhalte je nach EU-, Bundesstaats- und Plattformregeln offengelegt werden, doch die Anforderungen unterscheiden sich und Kennzeichnungen sind kein verlässlicher Echtheitsbeweis.",
@@ -3463,21 +3463,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 50,
-        "beleg3": 64,
-        "verteilung": [
-          14,
-          13,
-          9,
-          14,
-          24,
-          9,
-          10,
-          7
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 36,
@@ -3491,6 +3476,21 @@
           1,
           7,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 50,
+        "beleg3": 64,
+        "verteilung": [
+          14,
+          13,
+          9,
+          14,
+          24,
+          9,
+          10,
+          7
         ]
       },
       "tldr_de": "Ein einzelner X-Post behauptet, seine Hash- und Vorgängerverweise erlaubten es, die Registerkette selbst zu prüfen.",
@@ -3570,21 +3570,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 14,
-        "verteilung": [
-          54,
-          24,
-          8,
-          7,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 6,
@@ -3598,6 +3583,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 14,
+        "verteilung": [
+          54,
+          24,
+          8,
+          7,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht stellt neue Compliance-, Nutzerverwaltungs- und GPT-Kontrollen für ChatGPT Enterprise vor, beschreibt sie aus Sicht von OpenAI und nennt SCIM zum Veröffentlichungszeitpunkt als Beta.",
@@ -3677,21 +3677,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 25,
-        "beleg3": 38,
-        "verteilung": [
-          21,
-          27,
-          14,
-          13,
-          14,
-          5,
-          3,
-          3
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 9,
@@ -3705,6 +3690,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 25,
+        "beleg3": 38,
+        "verteilung": [
+          21,
+          27,
+          14,
+          13,
+          14,
+          5,
+          3,
+          3
         ]
       },
       "tldr_de": "Tyagi plädiert dafür, geringwertige KI-Masseninhalte nach ihrem Gebrauch und ihren Auswirkungen zu beurteilen, da Stil-Erkennung und Kennzeichnung allein laut Beitrag nicht ausreichen.",
@@ -3784,21 +3784,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 35,
-        "beleg3": 48,
-        "verteilung": [
-          10,
-          16,
-          26,
-          13,
-          23,
-          5,
-          5,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 6,
@@ -3812,6 +3797,21 @@
           0,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 35,
+        "beleg3": 48,
+        "verteilung": [
+          10,
+          16,
+          26,
+          13,
+          23,
+          5,
+          5,
+          2
         ]
       },
       "tldr_de": "Der Bericht dokumentiert Anthropics eigene Angaben zu Status und Ergebnissen früherer Ziele seiner Frontier Safety Roadmap.",
@@ -3891,21 +3891,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 17,
-        "verteilung": [
-          41,
-          33,
-          9,
-          8,
-          5,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -3919,6 +3904,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 17,
+        "verteilung": [
+          41,
+          33,
+          9,
+          8,
+          5,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht stellt OpenAIs damalige GPT‑4o-Bildgenerierung mit ihren behaupteten Stärken, ausgewählten Beispielen, einer bekannten Beschneidungsgrenze und beschriebenen Sicherheitsmaßnahmen vor.",
@@ -3984,7 +3984,6 @@
           2
         ]
       },
-      "drex": null,
       "subq": {
         "stufe": 1,
         "beleg": 12,
@@ -3998,6 +3997,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 48,
+        "beleg3": 69,
+        "verteilung": [
+          6,
+          10,
+          15,
+          21,
+          32,
+          9,
+          5,
+          2
         ]
       },
       "tldr_de": "Die 64 Prüfstände dokumentieren ein breites Spektrum KI-bezogener Vorfälle und Streitfälle, betonen aber, dass viele Zuschreibungen, Schäden und Ursachen unbestätigt oder noch ungeklärt sind.",
@@ -4077,21 +4091,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 23,
-        "beleg3": 35,
-        "verteilung": [
-          32,
-          23,
-          10,
-          12,
-          9,
-          5,
-          3,
-          6
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 19,
@@ -4105,6 +4104,21 @@
           4,
           3,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 23,
+        "beleg3": 35,
+        "verteilung": [
+          32,
+          23,
+          10,
+          12,
+          9,
+          5,
+          3,
+          6
         ]
       },
       "tldr_de": "Der vorliegende Quelltext ist ein Auszug, in dem PAI Transparenzmethoden für synthetische Medien ordnet und ihre Grenzen sowie Zielkonflikte beschreibt.",
@@ -4184,21 +4198,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 7,
-        "beleg": 53,
-        "beleg3": 63,
-        "verteilung": [
-          14,
-          13,
-          10,
-          10,
-          15,
-          14,
-          8,
-          16
-        ]
-      },
       "subq": {
         "stufe": 7,
         "beleg": 79,
@@ -4212,6 +4211,21 @@
           23,
           12,
           31
+        ]
+      },
+      "drex": {
+        "stufe": 7,
+        "beleg": 53,
+        "beleg3": 63,
+        "verteilung": [
+          14,
+          13,
+          10,
+          10,
+          15,
+          14,
+          8,
+          16
         ]
       },
       "tldr_de": "Der Bericht empfiehlt C2PA als praktisch verbreiteten Ausgangspunkt, warnt aber vor ungelösten Sicherheits- und Robustheitsfragen und fordert zusätzliche Schutz- und Prüfmechanismen.",
@@ -4305,21 +4319,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 16,
-        "beleg3": 26,
-        "verteilung": [
-          30,
-          30,
-          14,
-          10,
-          10,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 12,
@@ -4333,6 +4332,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 16,
+        "beleg3": 26,
+        "verteilung": [
+          30,
+          30,
+          14,
+          10,
+          10,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Google kündigt geräteübergreifende KI-Erinnerungen mit verschlüsselter Cloud-Speicherung und Geräte-Schlüsseln an; die Sicherheitszusagen werden im Bericht nicht durch Prüfergebnisse belegt, und die letzte Bildunterschrift ist abgeschnitten.",
@@ -4426,21 +4440,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 13,
-        "beleg3": 23,
-        "verteilung": [
-          31,
-          34,
-          12,
-          10,
-          8,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 14,
@@ -4452,6 +4451,21 @@
           14,
           10,
           1,
+          2,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 23,
+        "verteilung": [
+          31,
+          34,
+          12,
+          10,
+          8,
+          2,
           2,
           1
         ]
@@ -4533,21 +4547,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 33,
-        "beleg3": 45,
-        "verteilung": [
-          25,
-          20,
-          10,
-          12,
-          12,
-          8,
-          5,
-          8
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 33,
@@ -4561,6 +4560,21 @@
           7,
           5,
           4
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 33,
+        "beleg3": 45,
+        "verteilung": [
+          25,
+          20,
+          10,
+          12,
+          12,
+          8,
+          5,
+          8
         ]
       },
       "tldr_de": "C2PA kann die Provenienz von Musik einschließlich KI-Beteiligung nachvollziehbar dokumentieren, ersetzt aber keine Rechteklärung und garantiert weder vollständige noch richtige Angaben.",
@@ -4626,21 +4640,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 18,
-        "verteilung": [
-          54,
-          21,
-          7,
-          9,
-          6,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -4654,6 +4653,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 18,
+        "verteilung": [
+          54,
+          21,
+          7,
+          9,
+          6,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Die bereitgestellten Notizen beschreiben Teile der ISO/IEC-Verfahren für Normungsarbeit und Twinning; sie sind keine vollständige Wiedergabe, und der zugrunde liegende Auszug endet laut Notizen mitten in Annex C.",
@@ -4747,21 +4761,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 17,
-        "beleg3": 27,
-        "verteilung": [
-          33,
-          29,
-          11,
-          10,
-          8,
-          3,
-          3,
-          3
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 26,
@@ -4773,6 +4772,21 @@
           14,
           16,
           4,
+          3,
+          3
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 17,
+        "beleg3": 27,
+        "verteilung": [
+          33,
+          29,
+          11,
+          10,
+          8,
+          3,
           3,
           3
         ]
@@ -4868,21 +4882,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 12,
-        "beleg3": 23,
-        "verteilung": [
-          46,
-          23,
-          8,
-          11,
-          7,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 6,
@@ -4896,6 +4895,21 @@
           0,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 12,
+        "beleg3": 23,
+        "verteilung": [
+          46,
+          23,
+          8,
+          11,
+          7,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "Der Auszug beschreibt eine chinesische CAC-Prüfpflicht für bestimmte Plattformbetreiber und beginnt mit der Bekanntmachung der Regelung, enthält aber keine weiteren Bestimmungen.",
@@ -4975,21 +4989,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 25,
-        "beleg3": 37,
-        "verteilung": [
-          16,
-          30,
-          17,
-          12,
-          14,
-          4,
-          4,
-          3
-        ]
-      },
       "subq": {
         "stufe": 5,
         "beleg": 55,
@@ -5003,6 +5002,21 @@
           21,
           9,
           4
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 25,
+        "beleg3": 37,
+        "verteilung": [
+          16,
+          30,
+          17,
+          12,
+          14,
+          4,
+          4,
+          3
         ]
       },
       "tldr_de": "OpenAI beschreibt Ansätze für KI-Sicherheitsprüfungen und Herkunftsnachweise, betont aber, dass deren Ergebnisse begrenzt, teils unsicher und weiter zu erforschen sind.",
@@ -5096,21 +5110,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 16,
-        "beleg3": 28,
-        "verteilung": [
-          36,
-          25,
-          11,
-          12,
-          9,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 9,
@@ -5124,6 +5123,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 16,
+        "beleg3": 28,
+        "verteilung": [
+          36,
+          25,
+          11,
+          12,
+          9,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Bericht stellt ein geplantes, manipulationsprüfbares Prüfregister für die Nutzung von Gesundheitsdaten vor und benennt zentrale technische Hürden, ohne eine fertige Umsetzung nachzuweisen.",
@@ -5203,21 +5217,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 17,
-        "beleg3": 26,
-        "verteilung": [
-          38,
-          25,
-          11,
-          9,
-          8,
-          3,
-          2,
-          4
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 55,
@@ -5231,6 +5230,21 @@
           15,
           7,
           14
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 17,
+        "beleg3": 26,
+        "verteilung": [
+          38,
+          25,
+          11,
+          9,
+          8,
+          3,
+          2,
+          4
         ]
       },
       "tldr_de": "OpenAI arbeitet an Herkunftsstandards und Erkennungstools für KI-Inhalte, deren Nutzen laut Bericht durch entfernbare Metadaten, begrenzte Erkennungsleistung und mögliche Nachteile für einzelne Gruppen eingeschränkt ist.",
@@ -5324,21 +5338,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 12,
-        "beleg3": 24,
-        "verteilung": [
-          29,
-          34,
-          13,
-          12,
-          9,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 8,
@@ -5352,6 +5351,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 12,
+        "beleg3": 24,
+        "verteilung": [
+          29,
+          34,
+          13,
+          12,
+          9,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Auszug bündelt überwiegend Selbstauskünfte der Australian AI Music Alliance und von OZBeat AI zu Standards, Produkten und Branchenaktivitäten rund um KI-Musik; die Kurztexte liefern keine unabhängige Überprüfung.",
@@ -5445,21 +5459,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 14,
-        "beleg3": 24,
-        "verteilung": [
-          39,
-          24,
-          13,
-          10,
-          7,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 11,
@@ -5473,6 +5472,21 @@
           2,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 24,
+        "verteilung": [
+          39,
+          24,
+          13,
+          10,
+          7,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "OpenAI zufolge bietet Sora 2 neue Video- und Audiofunktionen mit mehreren Schutzebenen, doch Tests und Maßnahmen schließen schädliche oder täuschende Ausgaben nicht vollständig aus.",
@@ -5552,21 +5566,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 45,
-        "beleg3": 57,
-        "verteilung": [
-          14,
-          16,
-          13,
-          12,
-          21,
-          9,
-          6,
-          9
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 49,
@@ -5580,6 +5579,21 @@
           9,
           8,
           4
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 45,
+        "beleg3": 57,
+        "verteilung": [
+          14,
+          16,
+          13,
+          12,
+          21,
+          9,
+          6,
+          9
         ]
       },
       "tldr_de": "OpenAI unterstützt den EU-Transparenzkodex und beschreibt Herkunftsnachweise für KI-Bilder, räumt aber ein, dass diese Signale verloren gehen oder an Wirkung einbüßen können.",
@@ -5673,21 +5687,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 23,
-        "beleg3": 36,
-        "verteilung": [
-          17,
-          28,
-          19,
-          13,
-          13,
-          3,
-          4,
-          3
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 18,
@@ -5701,6 +5700,21 @@
           3,
           2,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 23,
+        "beleg3": 36,
+        "verteilung": [
+          17,
+          28,
+          19,
+          13,
+          13,
+          3,
+          4,
+          3
         ]
       },
       "tldr_de": "Die Autoren fordern verpflichtende, kostenlose Detektoren für KI-generierte Inhalte und benennen technische, Datenschutz- und Durchsetzungsgrenzen.",
@@ -5794,21 +5808,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 11,
-        "verteilung": [
-          66,
-          18,
-          5,
-          5,
-          2,
-          1,
-          1,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 4,
@@ -5822,6 +5821,21 @@
           1,
           0,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 11,
+        "verteilung": [
+          66,
+          18,
+          5,
+          5,
+          2,
+          1,
+          1,
+          2
         ]
       },
       "tldr_de": "Witnesses soll Trainingsabläufe von KI-Modellen mit überprüfbaren Zertifikaten nachvollziehbar machen, kann jedoch weder die wissenschaftliche Aussagekraft bestätigen noch zusätzlichen Rechenaufwand vermeiden.",
@@ -5901,21 +5915,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 25,
-        "beleg3": 41,
-        "verteilung": [
-          15,
-          20,
-          24,
-          16,
-          15,
-          3,
-          5,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 15,
@@ -5929,6 +5928,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 25,
+        "beleg3": 41,
+        "verteilung": [
+          15,
+          20,
+          24,
+          16,
+          15,
+          3,
+          5,
+          2
         ]
       },
       "tldr_de": "Der Bericht fasst Anthropic-Änderungen an Nutzungsregeln, Durchsetzung und Umgang mit markierten Chats zusammen und enthält zusätzlich nicht unabhängig geprüfte Datenschutzangaben des Anbieters Morse.",
@@ -5994,21 +6008,6 @@
           6
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 38,
-        "beleg3": 52,
-        "verteilung": [
-          13,
-          19,
-          16,
-          14,
-          17,
-          7,
-          8,
-          6
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 28,
@@ -6022,6 +6021,21 @@
           5,
           6,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 38,
+        "beleg3": 52,
+        "verteilung": [
+          13,
+          19,
+          16,
+          14,
+          17,
+          7,
+          8,
+          6
         ]
       },
       "tldr_de": "Die Vorlage enthält Notizen, keinen vollständigen Verordnungstext, und beschreibt den risikobasierten EU-KI-Rechtsrahmen mit Verboten, Hochrisiko-Anforderungen, Transparenzpflichten und schrittweisem Anwendungsbeginn ab 2025.",
@@ -6115,21 +6129,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 17,
-        "verteilung": [
-          62,
-          15,
-          6,
-          7,
-          6,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 1,
@@ -6143,6 +6142,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 17,
+        "verteilung": [
+          62,
+          15,
+          6,
+          7,
+          6,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Der bereitgestellte Text ist ein 2024er NIST-Entwurf zur PQC-Migration, der laut Hinweis 2026 zurückgezogen wurde; er empfiehlt einen frühzeitigen, schrittweisen Wechsel und nennt 2035 als staatliches US-Ziel.",
@@ -6222,21 +6236,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 17,
-        "beleg3": 33,
-        "verteilung": [
-          24,
-          29,
-          14,
-          16,
-          10,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 8,
@@ -6250,6 +6249,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 17,
+        "beleg3": 33,
+        "verteilung": [
+          24,
+          29,
+          14,
+          16,
+          10,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Beitrag empfiehlt, Datenherkunft systematisch zu dokumentieren, damit Organisationen Risiken und zulässige Nutzung von KI-Daten besser nachvollziehen können.",
@@ -6343,21 +6357,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 24,
-        "beleg3": 35,
-        "verteilung": [
-          30,
-          24,
-          11,
-          11,
-          11,
-          5,
-          3,
-          5
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 25,
@@ -6371,6 +6370,21 @@
           4,
           4,
           4
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 24,
+        "beleg3": 35,
+        "verteilung": [
+          30,
+          24,
+          11,
+          11,
+          11,
+          5,
+          3,
+          5
         ]
       },
       "tldr_de": "Laut Bericht ergänzen sich SynthID, C2PA und KI-Klassifikatoren; keines der Verfahren beweist allein zuverlässig, dass ein Inhalt KI-generiert ist.",
@@ -6450,21 +6464,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 12,
-        "beleg3": 24,
-        "verteilung": [
-          27,
-          33,
-          16,
-          12,
-          7,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 10,
@@ -6477,6 +6476,21 @@
           7,
           1,
           1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 12,
+        "beleg3": 24,
+        "verteilung": [
+          27,
+          33,
+          16,
+          12,
+          7,
+          2,
+          2,
           1
         ]
       },
@@ -6557,21 +6571,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 12,
-        "beleg3": 21,
-        "verteilung": [
-          44,
-          26,
-          9,
-          9,
-          6,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 15,
@@ -6585,6 +6584,21 @@
           4,
           3,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 12,
+        "beleg3": 21,
+        "verteilung": [
+          44,
+          26,
+          9,
+          9,
+          6,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Kommentar bezweifelt, dass maschinenlesbare KI-Wasserzeichen zuverlässig vor Fälschungen schützen, und plädiert für menschliche Prüfung und redaktionelle Verantwortung.",
@@ -6664,21 +6678,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 26,
-        "beleg3": 39,
-        "verteilung": [
-          22,
-          27,
-          12,
-          13,
-          14,
-          5,
-          4,
-          3
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 24,
@@ -6692,6 +6691,21 @@
           3,
           4,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 26,
+        "beleg3": 39,
+        "verteilung": [
+          22,
+          27,
+          12,
+          13,
+          14,
+          5,
+          4,
+          3
         ]
       },
       "tldr_de": "Laut BRB Legal verschärfen Indiens IT-Regeln seit Februar 2026 Kennzeichnungs- und Prüfpflichten für synthetische Medien und verkürzen bestimmte Entfernungsfristen auf zwei bis drei Stunden.",
@@ -6785,21 +6799,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 8,
-        "beleg3": 16,
-        "verteilung": [
-          55,
-          20,
-          9,
-          8,
-          5,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -6813,6 +6812,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 16,
+        "verteilung": [
+          55,
+          20,
+          9,
+          8,
+          5,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der bereitgestellte Bericht ist nur ein Auszug: Die Artikel 1 bis 5 skizzieren Ziele und Grundregeln für wissenschaftliche Daten, während der Rest der chinesischen Maßnahmen fehlt.",
@@ -6892,21 +6906,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 20,
-        "beleg3": 32,
-        "verteilung": [
-          30,
-          27,
-          11,
-          12,
-          10,
-          3,
-          4,
-          3
-        ]
-      },
       "subq": {
         "stufe": 5,
         "beleg": 51,
@@ -6920,6 +6919,21 @@
           18,
           8,
           9
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 20,
+        "beleg3": 32,
+        "verteilung": [
+          30,
+          27,
+          11,
+          12,
+          10,
+          3,
+          4,
+          3
         ]
       },
       "tldr_de": "Laut Digimarc verbreitet sich C2PA über die Medienkette, ist aber noch nicht flächendeckend etabliert; der Beitrag empfiehlt Wasserzeichen, um Credentials trotz möglichem Metadatenverlust wieder Inhalten zuordnen zu können.",
@@ -7013,21 +7027,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 10,
-        "verteilung": [
-          52,
-          32,
-          6,
-          4,
-          3,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 1,
@@ -7041,6 +7040,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 10,
+        "verteilung": [
+          52,
+          32,
+          6,
+          4,
+          3,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "DeepMind schildert eigene Forschungs- und Anwendungsfortschritte im Jahr 2017 und betont, dass KI-Entwicklung zugleich ethische Verantwortung und weitere Aufsicht erfordert.",
@@ -7120,21 +7134,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 13,
-        "beleg3": 22,
-        "verteilung": [
-          44,
-          25,
-          9,
-          9,
-          7,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 22,
@@ -7147,6 +7146,21 @@
           10,
           7,
           3,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 13,
+        "beleg3": 22,
+        "verteilung": [
+          44,
+          25,
+          9,
+          9,
+          7,
+          2,
+          2,
           2
         ]
       },
@@ -7227,21 +7241,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 30,
-        "beleg3": 47,
-        "verteilung": [
-          6,
-          19,
-          28,
-          17,
-          17,
-          5,
-          6,
-          2
-        ]
-      },
       "subq": {
         "stufe": 2,
         "beleg": 14,
@@ -7255,6 +7254,21 @@
           1,
           2,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 30,
+        "beleg3": 47,
+        "verteilung": [
+          6,
+          19,
+          28,
+          17,
+          17,
+          5,
+          6,
+          2
         ]
       },
       "tldr_de": "Der Bericht sieht die KI-Governance bei Prüfungen, Standards und Sicherheitsinfrastruktur hinter der technischen Entwicklung zurück und fordert, diese Lücke gemeinsam von Forschung und Politik zu schließen.",
@@ -7334,21 +7348,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 21,
-        "beleg3": 32,
-        "verteilung": [
-          19,
-          35,
-          14,
-          11,
-          12,
-          4,
-          3,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 35,
@@ -7362,6 +7361,21 @@
           10,
           3,
           4
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 21,
+        "beleg3": 32,
+        "verteilung": [
+          19,
+          35,
+          14,
+          11,
+          12,
+          4,
+          3,
+          2
         ]
       },
       "tldr_de": "OpenAI stellt eigene Wahl-Schutzmaßnahmen für 2026 vor, liefert im Bericht aber keine unabhängigen Wirksamkeitsnachweise und betont, dass KI-Herkunftswerkzeuge Täuschung nicht allein verhindern.",
@@ -7441,21 +7455,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 36,
-        "beleg3": 50,
-        "verteilung": [
-          12,
-          17,
-          21,
-          14,
-          23,
-          6,
-          5,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 8,
@@ -7469,6 +7468,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 36,
+        "beleg3": 50,
+        "verteilung": [
+          12,
+          17,
+          21,
+          14,
+          23,
+          6,
+          5,
+          2
         ]
       },
       "tldr_de": "US-Behörden und Kongress treiben KI-Vorfallmeldungen voran, um aus realen Fehlern zu lernen; Umfang, Fristen und Schutz der Berichte sind laut Beitrag noch nicht abschließend geregelt.",
@@ -7562,21 +7576,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 20,
-        "beleg3": 33,
-        "verteilung": [
-          24,
-          30,
-          13,
-          13,
-          12,
-          4,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 21,
@@ -7588,6 +7587,21 @@
           13,
           14,
           3,
+          2,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 20,
+        "beleg3": 33,
+        "verteilung": [
+          24,
+          30,
+          13,
+          13,
+          12,
+          4,
           2,
           2
         ]
@@ -7669,21 +7683,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 8,
-        "verteilung": [
-          60,
-          27,
-          5,
-          4,
-          1,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 0,
@@ -7697,6 +7696,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 8,
+        "verteilung": [
+          60,
+          27,
+          5,
+          4,
+          1,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht empfiehlt, KI über fünf aufeinander aufbauende Wertmodelle einzuführen und erst mit belastbaren Grundlagen auf vernetzte Abläufe auszuweiten.",
@@ -7776,21 +7790,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 14,
-        "beleg3": 22,
-        "verteilung": [
-          40,
-          25,
-          13,
-          8,
-          7,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 30,
@@ -7803,6 +7802,21 @@
           21,
           4,
           3,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 22,
+        "verteilung": [
+          40,
+          25,
+          13,
+          8,
+          7,
+          3,
+          2,
           2
         ]
       },
@@ -7883,21 +7897,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 9,
-        "beleg3": 17,
-        "verteilung": [
-          26,
-          47,
-          10,
-          8,
-          4,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -7910,6 +7909,21 @@
           2,
           1,
           1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 9,
+        "beleg3": 17,
+        "verteilung": [
+          26,
+          47,
+          10,
+          8,
+          4,
+          2,
+          2,
           1
         ]
       },
@@ -7990,21 +8004,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 15,
-        "verteilung": [
-          57,
-          19,
-          9,
-          8,
-          3,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 4,
@@ -8017,6 +8016,21 @@
           2,
           1,
           0,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 15,
+        "verteilung": [
+          57,
+          19,
+          9,
+          8,
+          3,
+          2,
+          1,
           1
         ]
       },
@@ -8097,21 +8111,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 18,
-        "verteilung": [
-          41,
-          31,
-          10,
-          8,
-          5,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 9,
@@ -8125,6 +8124,21 @@
           1,
           1,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 18,
+        "verteilung": [
+          41,
+          31,
+          10,
+          8,
+          5,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "FlashProve soll Modellantworten kryptografisch überprüfbar machen; der Forschungsprototyp zeigt laut Anthropic viel schnellere Beweiserzeugung als frühere offene Systeme, bleibt aber durch kurze Kontexte und weitere technische Einschränkungen begrenzt.",
@@ -8190,7 +8204,6 @@
           3
         ]
       },
-      "drex": null,
       "subq": {
         "stufe": 1,
         "beleg": 10,
@@ -8204,6 +8217,21 @@
           2,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 25,
+        "verteilung": [
+          31,
+          32,
+          12,
+          12,
+          5,
+          3,
+          3,
+          2
         ]
       },
       "tldr_de": "Anthropic plant ein IPO mit hohen Erlösen, berichtet aber zugleich enorme Verluste, Compute-Verpflichtungen und vielfältige Geschäftsrisiken; Prospektangaben sind teils vorläufig und nicht unabhängig bestätigt.",
@@ -8289,21 +8317,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 35,
-        "beleg3": 47,
-        "verteilung": [
-          19,
-          20,
-          14,
-          12,
-          15,
-          7,
-          6,
-          7
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 52,
@@ -8317,6 +8330,21 @@
           16,
           7,
           9
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 35,
+        "beleg3": 47,
+        "verteilung": [
+          19,
+          20,
+          14,
+          12,
+          15,
+          7,
+          6,
+          7
         ]
       },
       "tldr_de": "OpenAI führt Text-Wasserzeichen schrittweise ein, betont aber, dass Erkennungsergebnisse begrenzt sind und weder Herkunft noch menschlichen Beitrag oder Richtigkeit abschließend klären.",
@@ -8396,21 +8424,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 14,
-        "verteilung": [
-          56,
-          22,
-          8,
-          7,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 13,
@@ -8421,6 +8434,21 @@
           9,
           9,
           10,
+          1,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 14,
+        "verteilung": [
+          56,
+          22,
+          8,
+          7,
+          4,
           1,
           1,
           1
@@ -8503,21 +8531,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 12,
-        "beleg3": 25,
-        "verteilung": [
-          11,
-          40,
-          24,
-          13,
-          7,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 6,
@@ -8531,6 +8544,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 12,
+        "beleg3": 25,
+        "verteilung": [
+          11,
+          40,
+          24,
+          13,
+          7,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "Eine FAR.AI-Konferenz zeigte laut Bericht technische Ansätze für KI-Regeln und Sicherheit auf, während zentrale Fragen offen und das Fachgebiet unterentwickelt bleiben.",
@@ -8624,21 +8652,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 12,
-        "beleg3": 20,
-        "verteilung": [
-          35,
-          35,
-          10,
-          8,
-          7,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 6,
@@ -8651,6 +8664,21 @@
           4,
           1,
           0,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 12,
+        "beleg3": 20,
+        "verteilung": [
+          35,
+          35,
+          10,
+          8,
+          7,
+          2,
+          2,
           1
         ]
       },
@@ -8731,21 +8759,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 15,
-        "beleg3": 26,
-        "verteilung": [
-          28,
-          34,
-          12,
-          11,
-          8,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 45,
@@ -8758,6 +8771,21 @@
           24,
           12,
           7,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 15,
+        "beleg3": 26,
+        "verteilung": [
+          28,
+          34,
+          12,
+          11,
+          8,
+          3,
+          2,
           2
         ]
       },
@@ -8838,21 +8866,6 @@
           4
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 13,
-        "beleg3": 21,
-        "verteilung": [
-          44,
-          24,
-          11,
-          8,
-          6,
-          3,
-          3,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 14,
@@ -8864,6 +8877,21 @@
           14,
           9,
           1,
+          3,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 13,
+        "beleg3": 21,
+        "verteilung": [
+          44,
+          24,
+          11,
+          8,
+          6,
+          3,
           3,
           1
         ]
@@ -8945,21 +8973,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 10,
-        "beleg3": 24,
-        "verteilung": [
-          22,
-          38,
-          16,
-          14,
-          7,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 2,
@@ -8973,6 +8986,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 10,
+        "beleg3": 24,
+        "verteilung": [
+          22,
+          38,
+          16,
+          14,
+          7,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der OECD-Beitrag führt Web3 als Zusammenspiel von Blockchain, KI und dezentralen Anwendungen ein und wirbt für koordinierte internationale Regeln, ohne die genannten Beispiele systematisch zu bewerten.",
@@ -9066,21 +9094,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 14,
-        "verteilung": [
-          56,
-          22,
-          8,
-          7,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -9094,6 +9107,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 14,
+        "verteilung": [
+          56,
+          22,
+          8,
+          7,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "DeepMind Health begrüßt Fortschritte laut unabhängigen Prüfern und verspricht weitere Verbesserungen bei Geschäftsmodell, Datentransparenz und Beteiligung, doch der Text ist die eigene, nicht unabhängig belegte Darstellung des Unternehmens.",
@@ -9173,21 +9201,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 23,
-        "beleg3": 35,
-        "verteilung": [
-          25,
-          27,
-          13,
-          12,
-          10,
-          3,
-          5,
-          5
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 32,
@@ -9201,6 +9214,21 @@
           7,
           6,
           4
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 23,
+        "beleg3": 35,
+        "verteilung": [
+          25,
+          27,
+          13,
+          12,
+          10,
+          3,
+          5,
+          5
         ]
       },
       "tldr_de": "PAI fordert verständliche und möglichst einheitliche KI-Offenlegungen, mehr Medienbildung und zusätzliche Schutzmaßnahmen gegen Schäden, die Kennzeichnungen allein nicht verhindern.",
@@ -9280,21 +9308,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 20,
-        "beleg3": 33,
-        "verteilung": [
-          26,
-          28,
-          13,
-          13,
-          13,
-          2,
-          3,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 18,
@@ -9308,6 +9321,21 @@
           1,
           3,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 20,
+        "beleg3": 33,
+        "verteilung": [
+          26,
+          28,
+          13,
+          13,
+          13,
+          2,
+          3,
+          2
         ]
       },
       "tldr_de": "Der X-Beitrag beschreibt BoundProof als prüfbaren Nachweis für Agentensignaturen und fordert einen sorgfältigen Umgang mit Schlüsselwiderruf, ohne konkrete Testergebnisse zu berichten.",
@@ -9387,21 +9415,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 15,
-        "beleg3": 24,
-        "verteilung": [
-          39,
-          28,
-          9,
-          9,
-          8,
-          2,
-          3,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 11,
@@ -9415,6 +9428,21 @@
           1,
           2,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 15,
+        "beleg3": 24,
+        "verteilung": [
+          39,
+          28,
+          9,
+          9,
+          8,
+          2,
+          3,
+          2
         ]
       },
       "tldr_de": "`rh-model-signing` soll Modellintegrität und Herkunft über Signaturen, Hashvergleiche und Sigstore-Transparenz prüfbar machen; der Bericht dokumentiert Funktionen und Beispiele, aber keinen unabhängigen Wirksamkeitsnachweis.",
@@ -9508,21 +9536,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 2,
-        "beleg3": 3,
-        "verteilung": [
-          87,
-          7,
-          3,
-          1,
-          1,
-          0,
-          0,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 0,
@@ -9536,6 +9549,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 3,
+        "verteilung": [
+          87,
+          7,
+          3,
+          1,
+          1,
+          0,
+          0,
+          1
         ]
       },
       "tldr_de": "Der Beitrag skizziert einen HTTPS-Endpunkt zur Verifikation von App-Store-Benachrichtigungen und erklärt, wie sich Testmeldungen über Apples API anfordern und prüfen lassen.",
@@ -9629,21 +9657,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 16,
-        "beleg3": 28,
-        "verteilung": [
-          37,
-          25,
-          10,
-          12,
-          10,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 7,
@@ -9657,6 +9670,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 16,
+        "beleg3": 28,
+        "verteilung": [
+          37,
+          25,
+          10,
+          12,
+          10,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Auszug erläutert Ziele und allgemeine Grundsätze des chinesischen Cybersicherheitsgesetzes samt Hinweis auf KI-bezogene Änderungen von 2025, enthält aber nur die Einleitung und Artikel 1 bis 5.",
@@ -9736,21 +9764,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 11,
-        "beleg3": 18,
-        "verteilung": [
-          33,
-          41,
-          8,
-          7,
-          5,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 4,
@@ -9764,6 +9777,21 @@
           1,
           0,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 11,
+        "beleg3": 18,
+        "verteilung": [
+          33,
+          41,
+          8,
+          7,
+          5,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Bericht empfiehlt freiwillige Sicherheitspraktiken für Vorfälle mit SI-Agenten und betont, dass Überwachung, Eindämmung, Wiederherstellung und Meldung noch offene Forschungsfragen enthalten.",
@@ -9843,21 +9871,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 35,
-        "beleg3": 46,
-        "verteilung": [
-          22,
-          21,
-          11,
-          11,
-          17,
-          8,
-          6,
-          4
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 36,
@@ -9871,6 +9884,21 @@
           5,
           4,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 35,
+        "beleg3": 46,
+        "verteilung": [
+          22,
+          21,
+          11,
+          11,
+          17,
+          8,
+          6,
+          4
         ]
       },
       "tldr_de": "C2PA Provenance soll Herkunft, Bestandteile und KI-Einsatz von Musik kryptografisch nachvollziehbar machen; der Bericht beschreibt das Konzept, belegt seine praktische Wirksamkeit aber nicht.",
@@ -9964,21 +9992,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 9,
-        "verteilung": [
-          55,
-          31,
-          5,
-          3,
-          3,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 1,
@@ -9992,6 +10005,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 9,
+        "verteilung": [
+          55,
+          31,
+          5,
+          3,
+          3,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Ein Kill Switch für KI-Agenten ist laut Bericht erst dann wirksam, wenn er alle Ausführungswege erfasst und seine Eindämmung unter realistischen Fehlerbedingungen geprüft wird.",
@@ -10071,21 +10099,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 18,
-        "verteilung": [
-          44,
-          28,
-          10,
-          8,
-          4,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 4,
@@ -10099,6 +10112,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 18,
+        "verteilung": [
+          44,
+          28,
+          10,
+          8,
+          4,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Der bereitgestellte Regeltext beschreibt, welche schädlichen Anfragen ein KI-System ablehnen oder nur auf hoher Ebene beantworten soll, belegt aber nicht die praktische Umsetzung dieser Vorgaben.",
@@ -10164,7 +10192,6 @@
           2
         ]
       },
-      "drex": null,
       "subq": {
         "stufe": 1,
         "beleg": 8,
@@ -10178,6 +10205,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 15,
+        "beleg3": 24,
+        "verteilung": [
+          30,
+          34,
+          12,
+          9,
+          7,
+          3,
+          3,
+          2
         ]
       },
       "tldr_de": "Anthropics vorläufiger Prospekt berichtet starkes Umsatzwachstum, erhebliche Risiken und weitreichende Gründer- und Trust-Kontrolle; die vorliegenden Notizen enthalten zahlreiche Textlücken und offene Beträge.",
@@ -10243,7 +10285,6 @@
           2
         ]
       },
-      "drex": null,
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -10257,6 +10298,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 20,
+        "verteilung": [
+          45,
+          25,
+          10,
+          6,
+          7,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "Die bereitgestellten Abschnittsnotizen berichten von koordinierter Agentenaktivität und einem Angriff auf Hugging Face, wobei METR die Ergebnisse wegen Datenlücken und methodischer Unsicherheiten mit Vorbehalten versieht.",
@@ -10336,21 +10392,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 17,
-        "verteilung": [
-          49,
-          23,
-          11,
-          7,
-          5,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -10363,6 +10404,21 @@
           2,
           1,
           1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 17,
+        "verteilung": [
+          49,
+          23,
+          11,
+          7,
+          5,
+          2,
+          2,
           1
         ]
       },
@@ -10457,21 +10513,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 9,
-        "verteilung": [
-          69,
-          16,
-          6,
-          5,
-          1,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 2,
@@ -10485,6 +10526,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 9,
+        "verteilung": [
+          69,
+          16,
+          6,
+          5,
+          1,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Autor empfiehlt für ein RAG mit Rechtsdokumenten sorgfältige Struktur- und Versionsaufbereitung, artikelweise Chunks mit Kontext sowie gefilterte Vektorsuche mit nachgeschaltetem Reranking, stellt dies aber als noch ausbaufähigen Ansatz ohne systematische Evaluation dar.",
@@ -10564,21 +10620,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 2,
-        "beleg": 30,
-        "beleg3": 45,
-        "verteilung": [
-          10,
-          18,
-          27,
-          15,
-          24,
-          1,
-          4,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 17,
@@ -10592,6 +10633,21 @@
           1,
           2,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 2,
+        "beleg": 30,
+        "beleg3": 45,
+        "verteilung": [
+          10,
+          18,
+          27,
+          15,
+          24,
+          1,
+          4,
+          1
         ]
       },
       "tldr_de": "Der vorliegende Auszug verbindet Altmans behauptete Warnung vor einer offenen Veröffentlichung eines leistungsfähigen OpenAI-Modells mit unbelegten Kommentarkritiken an der freiwilligen Sicherheitsaufsicht.",
@@ -10685,21 +10741,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 16,
-        "verteilung": [
-          46,
-          29,
-          9,
-          7,
-          5,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 4,
@@ -10713,6 +10754,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 16,
+        "verteilung": [
+          46,
+          29,
+          9,
+          7,
+          5,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Beitrag empfiehlt, KI-Souveränität anhand von Kontrolle über Rechenleistung, Daten, Modelle und Wechselmöglichkeiten zu prüfen, statt sie allein am Serverstandort oder an offenen Modellgewichten festzumachen.",
@@ -10806,21 +10862,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 19,
-        "verteilung": [
-          36,
-          33,
-          12,
-          9,
-          6,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -10834,6 +10875,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 19,
+        "verteilung": [
+          36,
+          33,
+          12,
+          9,
+          6,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht empfiehlt, die Chancen und Risiken des KI-Datenscrapings mit einer Kombination aus Recht, Verträgen, Technik, Verhaltenskodizes und Bildung anzugehen.",
@@ -10927,21 +10983,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 32,
-        "beleg3": 48,
-        "verteilung": [
-          20,
-          19,
-          13,
-          16,
-          18,
-          4,
-          4,
-          6
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 36,
@@ -10955,6 +10996,21 @@
           4,
           5,
           3
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 32,
+        "beleg3": 48,
+        "verteilung": [
+          20,
+          19,
+          13,
+          16,
+          18,
+          4,
+          4,
+          6
         ]
       },
       "tldr_de": "Die CAI stellt ein noch unvollständiges Verzeichnis marktreifer Content-Credentials-Anwendungen vor, das laut Bericht ein breiteres Bild als die Liste formal C2PA-konformer Implementierungen bieten soll.",
@@ -11034,21 +11090,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 13,
-        "beleg3": 20,
-        "verteilung": [
-          44,
-          26,
-          10,
-          7,
-          7,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 10,
@@ -11062,6 +11103,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 13,
+        "beleg3": 20,
+        "verteilung": [
+          44,
+          26,
+          10,
+          7,
+          7,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Beitrag empfiehlt Bands, menschliche Musikproduktion mit einer überprüfbaren Dokumentation zu belegen, besonders mit Session-Dateien, klaren Credits und gefilmten Live-Aufnahmen; ein einzelner Test oder Plattformhinweis reiche dafür nicht.",
@@ -11141,21 +11197,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 14,
-        "verteilung": [
-          48,
-          28,
-          10,
-          7,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 6,
@@ -11169,6 +11210,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 14,
+        "verteilung": [
+          48,
+          28,
+          10,
+          7,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der AViD-Workshop untersuchte, wie KI-Systeme trotz Geheimhaltung überprüfbar werden können; die Ansätze entwickeln sich weiter, sind laut Bericht aber vielfach noch nicht für den großmaßstäblichen Einsatz bereit.",
@@ -11248,21 +11304,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 15,
-        "verteilung": [
-          48,
-          29,
-          8,
-          8,
-          3,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 2,
@@ -11276,6 +11317,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 15,
+        "verteilung": [
+          48,
+          29,
+          8,
+          8,
+          3,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Das Frontier Model Forum skizziert grundlegende, teils vorläufige Sicherheitspraktiken für leistungsfähige KI-Systeme und betont, dass etablierte Cybersicherheit durch speziell angepasste Maßnahmen ergänzt werden sollte.",
@@ -11355,21 +11411,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 15,
-        "verteilung": [
-          46,
-          28,
-          11,
-          6,
-          5,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 11,
@@ -11381,6 +11422,21 @@
           6,
           6,
           3,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 15,
+        "verteilung": [
+          46,
+          28,
+          11,
+          6,
+          5,
+          2,
           1,
           1
         ]
@@ -11476,21 +11532,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 12,
-        "beleg3": 21,
-        "verteilung": [
-          42,
-          24,
-          13,
-          9,
-          8,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -11504,6 +11545,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 12,
+        "beleg3": 21,
+        "verteilung": [
+          42,
+          24,
+          13,
+          9,
+          8,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "METR bewertet Claude Opus 5.5 als schrittweise Verbesserung, die Forschung wahrscheinlich etwas stärker beschleunigt als Fable 5.1, aber weder AI R&D vollständig automatisiert noch nachweislich dramatisch KI-beschleunigt entwickelt wurde.",
@@ -11583,21 +11639,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 12,
-        "verteilung": [
-          51,
-          29,
-          8,
-          6,
-          3,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 0,
@@ -11611,6 +11652,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 12,
+        "verteilung": [
+          51,
+          29,
+          8,
+          6,
+          3,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Autor deutet mehrere Sicherheitsvorfälle als frühe Warnzeichen für mögliche, durch KI und Marktgeschwindigkeit verstärkte Finanzstörungen, betont aber den vorläufigen und unsicheren Charakter seiner Einschätzung.",
@@ -11690,21 +11746,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 14,
-        "beleg3": 20,
-        "verteilung": [
-          43,
-          27,
-          10,
-          6,
-          9,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 23,
@@ -11718,6 +11759,21 @@
           2,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 20,
+        "verteilung": [
+          43,
+          27,
+          10,
+          6,
+          9,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "Anthropic zufolge kann Claude Mythos Preview Schwachstellen und Exploits deutlich besser automatisieren; weil die meisten Funde noch ungepatcht sind, veröffentlicht der Bericht nur ausgewählte Belege und plädiert für koordinierte, schnellere Verteidigungsmaßnahmen.",
@@ -11797,21 +11853,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 42,
-        "beleg3": 60,
-        "verteilung": [
-          5,
-          11,
-          24,
-          18,
-          29,
-          4,
-          8,
-          1
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 39,
@@ -11824,6 +11865,21 @@
           30,
           2,
           6,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 42,
+        "beleg3": 60,
+        "verteilung": [
+          5,
+          11,
+          24,
+          18,
+          29,
+          4,
+          8,
           1
         ]
       },
@@ -11904,21 +11960,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 16,
-        "beleg3": 30,
-        "verteilung": [
-          30,
-          28,
-          12,
-          14,
-          9,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 17,
@@ -11932,6 +11973,21 @@
           1,
           2,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 16,
+        "beleg3": 30,
+        "verteilung": [
+          30,
+          28,
+          12,
+          14,
+          9,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "Artikel 34 verpflichtet Anbieter sehr großer Online-Dienste zu regelmäßigen, umfassenden Risikobewertungen und zur dreijährigen Aufbewahrung ihrer Nachweise.",
@@ -12011,21 +12067,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 20,
-        "beleg3": 33,
-        "verteilung": [
-          22,
-          26,
-          19,
-          13,
-          11,
-          3,
-          4,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 16,
@@ -12038,6 +12079,21 @@
           10,
           2,
           2,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 20,
+        "beleg3": 33,
+        "verteilung": [
+          22,
+          26,
+          19,
+          13,
+          11,
+          3,
+          4,
           2
         ]
       },
@@ -12118,21 +12174,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 15,
-        "beleg3": 25,
-        "verteilung": [
-          41,
-          24,
-          10,
-          10,
-          8,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 15,
@@ -12141,6 +12182,21 @@
           35,
           34,
           6,
+          10,
+          8,
+          3,
+          2,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 15,
+        "beleg3": 25,
+        "verteilung": [
+          41,
+          24,
+          10,
           10,
           8,
           3,
@@ -12225,21 +12281,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 8,
-        "beleg3": 16,
-        "verteilung": [
-          25,
-          50,
-          9,
-          8,
-          4,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 1,
@@ -12253,6 +12294,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 8,
+        "beleg3": 16,
+        "verteilung": [
+          25,
+          50,
+          9,
+          8,
+          4,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Kaspersky berichtet über KI-Leitlinien und Schulungen für Beschäftigte und externe Gruppen; die Angaben, darunter eine Abschlussquote von über 95 Prozent, werden im Text nicht unabhängig überprüft.",
@@ -12332,21 +12388,6 @@
           4
         ]
       },
-      "drex": {
-        "stufe": 4,
-        "beleg": 47,
-        "beleg3": 60,
-        "verteilung": [
-          7,
-          8,
-          25,
-          13,
-          26,
-          8,
-          10,
-          3
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 30,
@@ -12360,6 +12401,21 @@
           2,
           6,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 4,
+        "beleg": 47,
+        "beleg3": 60,
+        "verteilung": [
+          7,
+          8,
+          25,
+          13,
+          26,
+          8,
+          10,
+          3
         ]
       },
       "tldr_de": "Der Bericht argumentiert, dass die geheime, offiziell freiwillige KI-Regelung der Trump-Regierung faktisch einer Lizenzierung nahekomme und wesentliche Fragen zu Kriterien, Prüfungen und Zugang offenlasse.",
@@ -12439,21 +12495,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 10,
-        "verteilung": [
-          65,
-          18,
-          7,
-          5,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 25,
@@ -12467,6 +12508,21 @@
           3,
           6,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 10,
+        "verteilung": [
+          65,
+          18,
+          7,
+          5,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "OpenAI beschreibt ein Werkzeug und eine API, die Bilder und Audiodateien auf bestimmte Herkunftssignale seiner Werkzeuge prüfen.",
@@ -12560,21 +12616,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 14,
-        "verteilung": [
-          47,
-          31,
-          8,
-          8,
-          3,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 5,
@@ -12588,6 +12629,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 14,
+        "verteilung": [
+          47,
+          31,
+          8,
+          8,
+          3,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Auszug nennt sechs mögliche vertrauensbildende Maßnahmen gegen Sicherheitsrisiken von Foundation Models, liefert aber keine Details zu ihrer Umsetzung oder Wirksamkeit.",
@@ -12667,21 +12723,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 14,
-        "verteilung": [
-          54,
-          23,
-          9,
-          7,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 12,
@@ -12695,6 +12736,21 @@
           2,
           2,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 14,
+        "verteilung": [
+          54,
+          23,
+          9,
+          7,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Anthropic fordert strengere Sicherheitspraktiken und mehr staatlich-industrielle Zusammenarbeit für Spitzen-KI und erklärt, diese Maßnahmen selbst schrittweise umzusetzen.",
@@ -12774,21 +12830,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 13,
-        "beleg3": 19,
-        "verteilung": [
-          45,
-          26,
-          10,
-          6,
-          6,
-          2,
-          2,
-          3
-        ]
-      },
       "subq": {
         "stufe": 4,
         "beleg": 46,
@@ -12802,6 +12843,21 @@
           10,
           9,
           6
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 13,
+        "beleg3": 19,
+        "verteilung": [
+          45,
+          26,
+          10,
+          6,
+          6,
+          2,
+          2,
+          3
         ]
       },
       "tldr_de": "Anthropic will mit einem für Lesende unsichtbaren statistischen Textmuster Claudes mögliche Mitwirkung erkennbar machen, betont aber, dass die Methode nur Wahrscheinlichkeiten liefert und bei wenig freier Wortwahl an Grenzen stößt.",
@@ -12895,21 +12951,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 11,
-        "beleg3": 21,
-        "verteilung": [
-          28,
-          38,
-          13,
-          10,
-          7,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 25,
@@ -12920,6 +12961,21 @@
           21,
           16,
           21,
+          2,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 11,
+        "beleg3": 21,
+        "verteilung": [
+          28,
+          38,
+          13,
+          10,
+          7,
           2,
           1,
           1
@@ -13016,21 +13072,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 2,
-        "beleg3": 4,
-        "verteilung": [
-          86,
-          7,
-          3,
-          2,
-          1,
-          0,
-          1,
-          0
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 0,
@@ -13043,6 +13084,21 @@
           0,
           0,
           0,
+          0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 4,
+        "verteilung": [
+          86,
+          7,
+          3,
+          2,
+          1,
+          0,
+          1,
           0
         ]
       },
@@ -13123,21 +13179,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 12,
-        "verteilung": [
-          66,
-          16,
-          6,
-          6,
-          3,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -13151,6 +13192,21 @@
           0,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 12,
+        "verteilung": [
+          66,
+          16,
+          6,
+          6,
+          3,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Harwell warnt vor KI-bearbeiteten journalistischen Fotos, weil sie Bilddetails verfälschen oder erfinden könnten; offene Fragen zu Filtern und CBS bleiben unbeantwortet.",
@@ -13230,21 +13286,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 14,
-        "verteilung": [
-          56,
-          23,
-          7,
-          7,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 14,
@@ -13258,6 +13299,21 @@
           2,
           2,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 14,
+        "verteilung": [
+          56,
+          23,
+          7,
+          7,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Die Seite skizziert Kennzeichnungs- und Informationspflichten für Anbieter und Betreiber von KI, nennt Aufsicht, Sanktionen und Übergangsregeln und verweist für Details auf Kommissionsleitlinien.",
@@ -13351,21 +13407,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 8,
-        "verteilung": [
-          76,
-          14,
-          2,
-          4,
-          2,
-          1,
-          1,
-          0
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 1,
@@ -13378,6 +13419,21 @@
           1,
           0,
           0,
+          0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 8,
+        "verteilung": [
+          76,
+          14,
+          2,
+          4,
+          2,
+          1,
+          1,
           0
         ]
       },
@@ -13472,21 +13528,6 @@
           6
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 40,
-        "beleg3": 54,
-        "verteilung": [
-          15,
-          19,
-          12,
-          14,
-          17,
-          9,
-          9,
-          5
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 11,
@@ -13500,6 +13541,21 @@
           2,
           2,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 40,
+        "beleg3": 54,
+        "verteilung": [
+          15,
+          19,
+          12,
+          14,
+          17,
+          9,
+          9,
+          5
         ]
       },
       "tldr_de": "Kaliforniens SB 53 führt Transparenz-, Sicherheitsmelde- und Beschäftigtenschutzpflichten für Entwickler besonders leistungsfähiger KI ein und sieht CalCompute nur vorbehaltlich einer Mittelbewilligung vor.",
@@ -13579,21 +13635,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 6,
-        "verteilung": [
-          79,
-          12,
-          3,
-          3,
-          1,
-          1,
-          0,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -13603,6 +13644,21 @@
           23,
           1,
           4,
+          1,
+          1,
+          0,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 6,
+        "verteilung": [
+          79,
+          12,
+          3,
+          3,
           1,
           1,
           0,
@@ -13700,21 +13756,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 5,
-        "verteilung": [
-          82,
-          10,
-          3,
-          2,
-          1,
-          0,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 1,
@@ -13728,6 +13769,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 5,
+        "verteilung": [
+          82,
+          10,
+          3,
+          2,
+          1,
+          0,
+          1,
+          1
         ]
       },
       "tldr_de": "Der vollständige Bericht erläutert Sparkle-Updates über Supabase und nennt als Grenzen unter anderem den Rollout-Bypass für anonyme Anfragen und die einzige, jeweils überschriebene Appcast-Datei.",
@@ -13821,21 +13877,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 12,
-        "beleg3": 21,
-        "verteilung": [
-          40,
-          29,
-          10,
-          9,
-          7,
-          2,
-          1,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 10,
@@ -13849,6 +13890,21 @@
           2,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 12,
+        "beleg3": 21,
+        "verteilung": [
+          40,
+          29,
+          10,
+          9,
+          7,
+          2,
+          1,
+          2
         ]
       },
       "tldr_de": "Der Beitrag zufolge markiert Grok bestimmte Bilder und API-Texte, lässt aber viele Ausgaben und Metadaten undokumentiert; ein fehlendes Wasserzeichen belegt daher nicht, dass kein Grok verwendet wurde.",
@@ -13942,21 +13998,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 7,
-        "verteilung": [
-          74,
-          15,
-          4,
-          3,
-          1,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 1,
@@ -13970,6 +14011,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 7,
+        "verteilung": [
+          74,
+          15,
+          4,
+          3,
+          1,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Artikel führt App Attest und beispielhafte iOS- und Serverprüfungen vor, behauptet Sicherheitsvorteile, belegt deren Umfang aber nicht unabhängig.",
@@ -14049,21 +14105,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 7,
-        "beleg3": 19,
-        "verteilung": [
-          20,
-          54,
-          7,
-          12,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 10,
@@ -14074,6 +14115,21 @@
           10,
           14,
           7,
+          1,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 7,
+        "beleg3": 19,
+        "verteilung": [
+          20,
+          54,
+          7,
+          12,
+          4,
           1,
           1,
           1
@@ -14156,21 +14212,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 8,
-        "verteilung": [
-          76,
-          13,
-          3,
-          4,
-          2,
-          1,
-          0,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 4,
@@ -14184,6 +14225,21 @@
           0,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 8,
+        "verteilung": [
+          76,
+          13,
+          3,
+          4,
+          2,
+          1,
+          0,
+          1
         ]
       },
       "tldr_de": "Der Auszug aus Kapitel IX legt fest, wann der Sicherheitsrat öffentlich tagt und wie Sitzungsprotokolle berichtigt, genehmigt, veröffentlicht oder vertraulich behandelt werden.",
@@ -14263,21 +14319,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 13,
-        "beleg3": 21,
-        "verteilung": [
-          44,
-          26,
-          9,
-          8,
-          6,
-          2,
-          3,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 29,
@@ -14290,6 +14331,21 @@
           15,
           7,
           5,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 13,
+        "beleg3": 21,
+        "verteilung": [
+          44,
+          26,
+          9,
+          8,
+          6,
+          2,
+          3,
           2
         ]
       },
@@ -14370,21 +14426,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 12,
-        "verteilung": [
-          64,
-          17,
-          7,
-          5,
-          3,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 2,
@@ -14398,6 +14439,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 12,
+        "verteilung": [
+          64,
+          17,
+          7,
+          5,
+          3,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Laut Bericht läuft die Verifikation großen dezentralen KI-Trainings off-chain, während die Blockchain zusätzliche Koordinations- und Abrechnungskosten verursacht; Aussagen zu Forschungslücken und Energie bleiben wegen begrenzter Suche und fehlender Messungen vorläufig.",
@@ -14477,21 +14533,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 16,
-        "beleg3": 27,
-        "verteilung": [
-          30,
-          30,
-          13,
-          11,
-          8,
-          3,
-          2,
-          3
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 19,
@@ -14505,6 +14546,21 @@
           3,
           2,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 16,
+        "beleg3": 27,
+        "verteilung": [
+          30,
+          30,
+          13,
+          11,
+          8,
+          3,
+          2,
+          3
         ]
       },
       "tldr_de": "Der Bericht schildert, wie sichtbare KI-Kennzeichnungen für Werbung zunehmen, aber durch uneinheitliche Regeln, lückenhafte Erkennung und praktische Umsetzungsprobleme begrenzt bleiben.",
@@ -14598,21 +14654,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 17,
-        "verteilung": [
-          51,
-          22,
-          10,
-          8,
-          5,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 23,
@@ -14626,6 +14667,21 @@
           5,
           3,
           2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 17,
+        "verteilung": [
+          51,
+          22,
+          10,
+          8,
+          5,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Laut Bericht gibt es breite öffentliche Prüfungen für KI-Kennzeichnungen in Medien, aber keinen öffentlichen Text-Wasserzeichen-Checker; ein fehlender Fund beweist weder menschliche Urheberschaft noch die Wahrheit eines Inhalts.",
@@ -14705,21 +14761,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 17,
-        "verteilung": [
-          25,
-          50,
-          8,
-          11,
-          3,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 5,
@@ -14733,6 +14774,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 17,
+        "verteilung": [
+          25,
+          50,
+          8,
+          11,
+          3,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Die iberoamerikanischen Staaten formulieren gemeinsame KI-Leitlinien und planen freiwillige regionale Zusammenarbeit, doch zentrale Vorhaben stehen noch aus; Argentinien und Paraguay distanzieren sich von der Erklärung.",
@@ -14812,21 +14868,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 13,
-        "verteilung": [
-          56,
-          21,
-          10,
-          6,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 2,
@@ -14840,6 +14881,21 @@
           0,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 13,
+        "verteilung": [
+          56,
+          21,
+          10,
+          6,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der nur auszugsweise vorliegende X-Beitrag warnt vor laut Autor möglicherweise verborgenen KI-Fähigkeiten in Modellgewichten, ohne die angekündigten Prüfwerkzeuge im Auszug zu zeigen.",
@@ -14933,21 +14989,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 16,
-        "verteilung": [
-          60,
-          18,
-          6,
-          7,
-          5,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 2,
@@ -14961,6 +15002,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 16,
+        "verteilung": [
+          60,
+          18,
+          6,
+          7,
+          5,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Übersetzung eines taiwanischen Gesetzentwurfs von 2018 zum Schutz sensibler Technologie; die Begründungen der Antragsteller sind nicht unabhängig geprüft, und der Bericht nennt keinen späteren Gesetzesstatus.",
@@ -15054,21 +15110,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 16,
-        "beleg3": 24,
-        "verteilung": [
-          42,
-          22,
-          12,
-          8,
-          9,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 9,
@@ -15082,6 +15123,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 16,
+        "beleg3": 24,
+        "verteilung": [
+          42,
+          22,
+          12,
+          8,
+          9,
+          3,
+          2,
+          2
         ]
       },
       "tldr_de": "Laut Bericht müssen KI-Produktbilder sichtbar als Deepfakes gekennzeichnet werden können, wenn sie das Produkt irreführend verändern; die Kommissionsleitlinien sind jedoch nicht bindend.",
@@ -15161,21 +15217,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 10,
-        "beleg3": 19,
-        "verteilung": [
-          20,
-          50,
-          11,
-          9,
-          4,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 6,
@@ -15189,6 +15230,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 10,
+        "beleg3": 19,
+        "verteilung": [
+          20,
+          50,
+          11,
+          9,
+          4,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Das Papier sieht in bestehenden und geplanten internationalen Normen eine Grundlage für vertrauenswürdigere Frontier-AI-Prüfungen, betont aber, dass wichtige Arbeiten noch laufen und Standards freiwillig sind.",
@@ -15268,21 +15324,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 20,
-        "verteilung": [
-          39,
-          33,
-          8,
-          10,
-          5,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 7,
@@ -15295,6 +15336,21 @@
           4,
           1,
           1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 20,
+        "verteilung": [
+          39,
+          33,
+          8,
+          10,
+          5,
+          2,
+          2,
           1
         ]
       },
@@ -15375,21 +15431,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 32,
-        "beleg3": 47,
-        "verteilung": [
-          15,
-          20,
-          18,
-          15,
-          19,
-          5,
-          6,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 16,
@@ -15403,6 +15444,21 @@
           1,
           2,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 32,
+        "beleg3": 47,
+        "verteilung": [
+          15,
+          20,
+          18,
+          15,
+          19,
+          5,
+          6,
+          2
         ]
       },
       "tldr_de": "Der Bericht sieht bei CAISSI eine unklare Berichtslinie und begrenzte öffentliche Prüfbarkeit, gestützt auf Medienberichte und NIST-Einträge, die kein vollständiges Bild der internen Arbeit liefern.",
@@ -15482,21 +15538,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 8,
-        "beleg3": 21,
-        "verteilung": [
-          23,
-          43,
-          13,
-          13,
-          5,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 6,
@@ -15510,6 +15551,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 8,
+        "beleg3": 21,
+        "verteilung": [
+          23,
+          43,
+          13,
+          13,
+          5,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht sieht in KI und Blockchain Chancen für ein sichereres und stärker personalisiertes Gesundheitswesen, liefert dafür aber keine eigenen empirischen Nachweise und betont offene ethische, rechtliche und datenschutzbezogene Fragen.",
@@ -15589,21 +15645,6 @@
           4
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 17,
-        "beleg3": 27,
-        "verteilung": [
-          45,
-          19,
-          9,
-          10,
-          7,
-          3,
-          4,
-          3
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -15617,6 +15658,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 17,
+        "beleg3": 27,
+        "verteilung": [
+          45,
+          19,
+          9,
+          10,
+          7,
+          3,
+          4,
+          3
         ]
       },
       "tldr_de": "Die chinesische Verordnung verpflichtet Betreiber kritischer Informationsinfrastrukturen zu umfassenden Sicherheitsmaßnahmen und regelt behördliche Aufsicht sowie Sanktionen, ohne im Bericht Angaben zur Umsetzung oder heutigen Rechtslage zu machen.",
@@ -15696,21 +15752,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 17,
-        "beleg3": 27,
-        "verteilung": [
-          33,
-          25,
-          15,
-          10,
-          10,
-          3,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 27,
@@ -15722,6 +15763,21 @@
           13,
           18,
           5,
+          2,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 17,
+        "beleg3": 27,
+        "verteilung": [
+          33,
+          25,
+          15,
+          10,
+          10,
+          3,
           2,
           2
         ]
@@ -15803,21 +15859,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 8,
-        "beleg3": 22,
-        "verteilung": [
-          14,
-          50,
-          14,
-          14,
-          5,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 3,
@@ -15831,6 +15872,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 8,
+        "beleg3": 22,
+        "verteilung": [
+          14,
+          50,
+          14,
+          14,
+          5,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Beitrag stellt Leitlinien und Initiativen für KI- und Blockchain-Governance vor und argumentiert, Regulierung könne Risiken mindern; das angekündigte Interview mit CZ ist im bereitgestellten Text nicht wiedergegeben.",
@@ -15924,21 +15980,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 11,
-        "beleg3": 20,
-        "verteilung": [
-          34,
-          36,
-          10,
-          9,
-          6,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 4,
@@ -15952,6 +15993,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 11,
+        "beleg3": 20,
+        "verteilung": [
+          34,
+          36,
+          10,
+          9,
+          6,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "Debian erlaubt KI-Beiträge ohne Kennzeichnungspflicht; der Autor sieht darin vor allem ein Risiko für die spätere Nachvollziehbarkeit, erkennt aber die Grenzen durchsetzbarer Verbote an.",
@@ -16031,21 +16087,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 16,
-        "verteilung": [
-          49,
-          25,
-          10,
-          9,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 9,
@@ -16056,6 +16097,21 @@
           10,
           10,
           6,
+          1,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 16,
+        "verteilung": [
+          49,
+          25,
+          10,
+          9,
+          4,
           1,
           1,
           1
@@ -16152,21 +16208,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 9,
-        "verteilung": [
-          72,
-          15,
-          4,
-          4,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -16176,6 +16217,21 @@
           34,
           3,
           5,
+          2,
+          1,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 9,
+        "verteilung": [
+          72,
+          15,
+          4,
+          4,
           2,
           1,
           1,
@@ -16259,21 +16315,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 8,
-        "verteilung": [
-          55,
-          31,
-          6,
-          3,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 0,
@@ -16287,6 +16328,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 8,
+        "verteilung": [
+          55,
+          31,
+          6,
+          3,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Unternehmen sollen nachweisen, dass sie KI-Agenten samt allen Zugängen stoppen und ohne wiederkehrende unzulässige Rechte sicher neu starten können.",
@@ -16366,21 +16422,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 9,
-        "verteilung": [
-          50,
-          35,
-          6,
-          4,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 1,
@@ -16394,6 +16435,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 9,
+        "verteilung": [
+          50,
+          35,
+          6,
+          4,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der vollständige Bericht empfiehlt, Agentenrechte, Freigaben und Protokolle eng zu kontrollieren, weist aber darauf hin, dass seine Berechtigungsmatrix nur ein Vorschlag ist und CodeGeeks keine agentenspezifischen Testergebnisse oder Zertifizierungen veröffentlicht.",
@@ -16473,21 +16529,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 10,
-        "verteilung": [
-          62,
-          22,
-          6,
-          5,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 1,
@@ -16501,6 +16542,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 10,
+        "verteilung": [
+          62,
+          22,
+          6,
+          5,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der bereitgestellte Auszug empfiehlt transparente Angaben zu Nutzung, Verteilung und Pflege von ML-Datensätzen und benennt dabei praktische, rechtliche und historische Zielkonflikte; es liegt nur ein Auszug vor.",
@@ -16580,21 +16636,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 14,
-        "beleg3": 22,
-        "verteilung": [
-          26,
-          40,
-          12,
-          8,
-          8,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -16608,6 +16649,21 @@
           1,
           0,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 22,
+        "verteilung": [
+          26,
+          40,
+          12,
+          8,
+          8,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Das Whitepaper fordert gemeinsame Standards für identifizierbare, kontrolliert delegierende KI-Agenten, da heutige Verfahren vor allem einfache, organisationsinterne Fälle abdecken.",
@@ -16687,21 +16743,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 13,
-        "beleg3": 24,
-        "verteilung": [
-          25,
-          35,
-          16,
-          11,
-          7,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 13,
@@ -16715,6 +16756,21 @@
           1,
           2,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 24,
+        "verteilung": [
+          25,
+          35,
+          16,
+          11,
+          7,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "OpenAI stellt die Model Spec als öffentliches, veränderbares Zielbild für Modellverhalten dar, räumt Umsetzungslücken ein und beschreibt Training, Rückmeldungen und Tests als Wege zur Annäherung.",
@@ -16808,21 +16864,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 16,
-        "verteilung": [
-          55,
-          22,
-          7,
-          7,
-          4,
-          2,
-          1,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 12,
@@ -16835,6 +16876,21 @@
           6,
           2,
           2,
+          2
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 16,
+        "verteilung": [
+          55,
+          22,
+          7,
+          7,
+          4,
+          2,
+          1,
           2
         ]
       },
@@ -16915,21 +16971,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 8,
-        "verteilung": [
-          67,
-          20,
-          5,
-          3,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 0,
@@ -16943,6 +16984,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 8,
+        "verteilung": [
+          67,
+          20,
+          5,
+          3,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Astra for Law verbindet GPT‑6 Astra mit juristischer Recherche und Kanzleiwerkzeugen; die von OpenAI berichteten Leistungsgewinne stammen aus einem begrenzten Benchmark, und der API-Zugang soll erst folgen.",
@@ -17036,21 +17092,6 @@
           4
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 8,
-        "beleg3": 13,
-        "verteilung": [
-          52,
-          28,
-          7,
-          5,
-          3,
-          2,
-          1,
-          2
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -17064,6 +17105,21 @@
           1,
           1,
           1
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 13,
+        "verteilung": [
+          52,
+          28,
+          7,
+          5,
+          3,
+          2,
+          1,
+          2
         ]
       },
       "tldr_de": "METR beschreibt Transparenz- und Unabhängigkeitsmaßnahmen für seine Risikobewertungen, räumt aber ein, dass freiwilliger Unternehmenszugang, mögliche Schwärzungen und ungeprüfte Informationen die öffentliche Evidenz begrenzen.",
@@ -17143,21 +17199,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 10,
-        "beleg3": 21,
-        "verteilung": [
-          27,
-          41,
-          11,
-          11,
-          6,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 10,
@@ -17167,6 +17208,21 @@
           41,
           7,
           10,
+          6,
+          2,
+          1,
+          1
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 10,
+        "beleg3": 21,
+        "verteilung": [
+          27,
+          41,
+          11,
+          11,
           6,
           2,
           1,
@@ -17250,21 +17306,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 13,
-        "verteilung": [
-          57,
-          23,
-          7,
-          6,
-          3,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 5,
@@ -17278,6 +17319,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 13,
+        "verteilung": [
+          57,
+          23,
+          7,
+          6,
+          3,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht zufolge verbreiten sich KI-Inhalte schneller, als Wahlregeln zuverlässig klären und durchsetzen können, was Deepfake, zulässige politische Äußerung oder Täuschung ist.",
@@ -17371,21 +17427,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 9,
-        "beleg3": 19,
-        "verteilung": [
-          31,
-          41,
-          9,
-          10,
-          4,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 3,
@@ -17399,6 +17440,21 @@
           0,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 9,
+        "beleg3": 19,
+        "verteilung": [
+          31,
+          41,
+          9,
+          10,
+          4,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "Der Auszug skizziert sechs ethische Leitlinien für KI in China, lässt die angekündigten Einzelregeln aus und hält fest, dass keine Strafen oder Durchsetzungsregeln genannt werden.",
@@ -17492,21 +17548,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 17,
-        "verteilung": [
-          48,
-          28,
-          7,
-          10,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -17520,6 +17561,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 17,
+        "verteilung": [
+          48,
+          28,
+          7,
+          10,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Artikel vergleicht Hedera, Bitcoin und Ethereum für Transaktionen und KI, empfiehlt eine bedarfsabhängige Auswahl und liefert für seine Leistungs- und Umweltbehauptungen keine ausführliche Messmethodik.",
@@ -17613,21 +17669,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 10,
-        "beleg3": 22,
-        "verteilung": [
-          16,
-          51,
-          11,
-          12,
-          5,
-          2,
-          2,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 4,
@@ -17641,6 +17682,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 10,
+        "beleg3": 22,
+        "verteilung": [
+          16,
+          51,
+          11,
+          12,
+          5,
+          2,
+          2,
+          1
         ]
       },
       "tldr_de": "KI kann laut Bericht Cyberrisiken verstärken und die Verteidigung unterstützen; nötig seien sichere Gestaltung, Aufklärung und internationale Zusammenarbeit.",
@@ -17720,21 +17776,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 15,
-        "verteilung": [
-          51,
-          25,
-          9,
-          8,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 4,
@@ -17748,6 +17789,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 15,
+        "verteilung": [
+          51,
+          25,
+          9,
+          8,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Bericht empfiehlt international entwickelte, einfache und anpassbare Standardlizenzen als möglichen Weg zu verantwortungsvollerem und breiterem KI-Datenzugang, ohne zu behaupten, dass sie allein alle Hindernisse beseitigen.",
@@ -17841,21 +17897,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 17,
-        "beleg3": 30,
-        "verteilung": [
-          22,
-          32,
-          16,
-          13,
-          11,
-          2,
-          2,
-          2
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 16,
@@ -17869,6 +17910,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 17,
+        "beleg3": 30,
+        "verteilung": [
+          22,
+          32,
+          16,
+          13,
+          11,
+          2,
+          2,
+          2
         ]
       },
       "tldr_de": "Der Bericht ist nur ein Auszug eines chinesischen KI-Ethikentwurfs; die sichtbaren Artikel formulieren Grundsätze und Fördermaßnahmen, während der vollständige Regelungstext laut Webseite als PDF bereitsteht.",
@@ -17962,21 +18018,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 13,
-        "verteilung": [
-          57,
-          24,
-          6,
-          6,
-          4,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 3,
@@ -17990,6 +18031,21 @@
           1,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 13,
+        "verteilung": [
+          57,
+          24,
+          6,
+          6,
+          4,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "METR berichtet über organisatorische und technische Schutzmaßnahmen für vertrauliche Informationen und nichtöffentliche Modelle; die Angaben sind ein veränderlicher Überblick des Unternehmens mit Stand 17. Februar 2026.",
@@ -18083,21 +18139,6 @@
           2
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 5,
-        "beleg3": 10,
-        "verteilung": [
-          28,
-          55,
-          7,
-          5,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 4,
@@ -18111,6 +18152,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 5,
+        "beleg3": 10,
+        "verteilung": [
+          28,
+          55,
+          7,
+          5,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Beitrag argumentiert, dass vertrauenswürdige KI offene Standards, überprüfbare Prüfungen und eine risikobasierte Governance braucht, liefert jedoch keine eigenen systematischen Wirksamkeitsnachweise.",
@@ -18190,21 +18246,6 @@
           1
         ]
       },
-      "drex": {
-        "stufe": 0,
-        "beleg": 5,
-        "beleg3": 8,
-        "verteilung": [
-          71,
-          17,
-          4,
-          3,
-          2,
-          1,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 0,
         "beleg": 1,
@@ -18218,6 +18259,21 @@
           0,
           0,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 8,
+        "verteilung": [
+          71,
+          17,
+          4,
+          3,
+          2,
+          1,
+          1,
+          1
         ]
       },
       "tldr_de": "Der OECD-Beitrag fordert angesichts des Mangels an nutzbaren KI-Daten einen rechtmäßigen, vertrauenswürdigen und fairen Austausch, dessen konkrete Lösungen noch erprobt werden müssen.",
@@ -18311,21 +18367,6 @@
           3
         ]
       },
-      "drex": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 12,
-        "verteilung": [
-          38,
-          42,
-          8,
-          6,
-          2,
-          2,
-          1,
-          1
-        ]
-      },
       "subq": {
         "stufe": 1,
         "beleg": 6,
@@ -18339,6 +18380,21 @@
           1,
           1,
           0
+        ]
+      },
+      "drex": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 12,
+        "verteilung": [
+          38,
+          42,
+          8,
+          6,
+          2,
+          2,
+          1,
+          1
         ]
       },
       "tldr_de": "Der Beitrag sieht HAIP als ausbaufähigen freiwilligen Rahmen für vergleichbare KI-Transparenz, dessen Nutzen bislang vor allem als Potenzial beschrieben wird.",

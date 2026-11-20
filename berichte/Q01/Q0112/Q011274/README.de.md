@@ -14,16 +14,16 @@ Der Bericht empfiehlt, länger laufende Agentenaufgaben mit `/goal` und einer ko
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-A1](../../../../fragen/SF-A1/) Welche Befugnisse darf ein KI-Agent haben, also eine KI, die selbstständig mit Werkzeugen handelt? Wer entzieht sie ihm, und wie prüft man, dass er in seinem Auftrag bleibt? | 30 / 50 % | 58 / 79 % | 4 / 18 % | 97 / 99 % | 30 / 53 % | 10 / 23 % | 4 / 16 % |
-| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 13 / 56 % | 0 / 0 % | 85 / 91 % | 17 / 37 % | 8 / 18 % | 0 / 0 % |
+| [SF-A1](../../../../fragen/SF-A1/) Welche Befugnisse darf ein KI-Agent haben, also eine KI, die selbstständig mit Werkzeugen handelt? Wer entzieht sie ihm, und wie prüft man, dass er in seinem Auftrag bleibt? | 30 / 50 % | 58 / 79 % | 4 / 18 % | 97 / 99 % | 30 / 53 % | 4 / 16 % | 10 / 23 % |
+| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 13 / 56 % | 0 / 0 % | 85 / 91 % | 17 / 37 % | 0 / 0 % | 8 / 18 % |
 | [SF-E5](../../../../fragen/SF-E5/) Welche Mitsprache haben die Menschen, die mit KI leben, bei Tempo und Grenzen, und welche Entscheidungen müssen bei ihnen bleiben? | 0 / 0 % | 20 / 46 % | 0 / 0 % | 67 / 78 % | 6 / 14 % | 0 / 0 % | 0 / 0 % |
 | [SF-T1](../../../../fragen/SF-T1/) Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie? | 0 / 0 % | 25 / 70 % | 0 / 0 % | 52 / 72 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-V4](../../../../fragen/SF-V4/) Was für ein Wesen ist ein Modell, und was folgt daraus für den Umgang mit ihm und für den Wert des Menschseins? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 27 / 45 % | 6 / 11 % | 0 / 0 % | 0 / 0 % |
-| [SF-A2](../../../../fragen/SF-A2/) Lassen sich KI-Systeme sicher anhalten, zurücksetzen, abschotten oder drosseln, und wer darf das anordnen? | 12 / 31 % | 0 / 0 % | 0 / 0 % | 7 / 21 % | 11 / 26 % | 8 / 18 % | 4 / 17 % |
-| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 10 / 51 % | 0 / 0 % | 0 / 0 % | 11 / 27 % | 6 / 13 % | 0 / 0 % |
-| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 4 / 33 % | 0 / 0 % | 0 / 0 % | 7 / 22 % | 6 / 16 % | 0 / 0 % |
+| [SF-A2](../../../../fragen/SF-A2/) Lassen sich KI-Systeme sicher anhalten, zurücksetzen, abschotten oder drosseln, und wer darf das anordnen? | 12 / 31 % | 0 / 0 % | 0 / 0 % | 7 / 21 % | 11 / 26 % | 4 / 17 % | 8 / 18 % |
+| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 10 / 51 % | 0 / 0 % | 0 / 0 % | 11 / 27 % | 0 / 0 % | 6 / 13 % |
+| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 4 / 33 % | 0 / 0 % | 0 / 0 % | 7 / 22 % | 0 / 0 % | 6 / 16 % |
 | [SF-F1](../../../../fragen/SF-F1/) Wie misst man gefährliche Fähigkeiten eines Modells, vor allem im Cyberbereich, mit gemeinsam anerkannten, wiederholbaren Tests, die keine Sprache, Kultur oder Seite bevorzugen? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 12 % | 0 / 0 % | 0 / 0 % |
 | [SF-A3](../../../../fragen/SF-A3/) Welche Gefahren entstehen, wenn viele KI-Systeme zusammenwirken oder dieselbe Infrastruktur teilen? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 16 % | 0 / 0 % | 0 / 0 % |
 | [SF-M4](../../../../fragen/SF-M4/) Wie kommen Meldungen von Laboren, Betreibern und Nutzern schnell und geschützt zu den Stellen, die handeln müssen, auch über Grenzen hinweg? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 10 % | 0 / 0 % | 0 / 0 % |

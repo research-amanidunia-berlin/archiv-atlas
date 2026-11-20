@@ -14,16 +14,16 @@ Epoch AI schätzt, dass OpenAI 2024 rund 5 Milliarden US-Dollar für F&E-Rechenl
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-P4](../../../../fragen/SF-P4/) Wie lässt sich die Größe von Trainingsläufen überprüfen, ohne Modelldetails offenzulegen? | 0 / 0 % | 25 / 88 % | 14 / 46 % | 46 / 71 % | 50 / 72 % | 35 / 51 % | 0 / 0 % |
-| [SF-E4](../../../../fragen/SF-E4/) Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen? | 0 / 0 % | 0 / 0 % | 1 / 6 % | 34 / 66 % | 7 / 23 % | 0 / 0 % | 1 / 7 % |
-| [SF-T2](../../../../fragen/SF-T2/) Woran erkennen andere, dass ein Labor wirklich bremst? | 0 / 0 % | 20 / 67 % | 4 / 18 % | 27 / 44 % | 22 / 51 % | 19 / 33 % | 0 / 0 % |
-| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 26 / 63 % | 1 / 6 % | 0 / 0 % | 8 / 30 % | 11 / 23 % | 2 / 9 % |
+| [SF-P4](../../../../fragen/SF-P4/) Wie lässt sich die Größe von Trainingsläufen überprüfen, ohne Modelldetails offenzulegen? | 0 / 0 % | 25 / 88 % | 14 / 46 % | 46 / 71 % | 50 / 72 % | 0 / 0 % | 35 / 51 % |
+| [SF-E4](../../../../fragen/SF-E4/) Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen? | 0 / 0 % | 0 / 0 % | 1 / 6 % | 34 / 66 % | 7 / 23 % | 1 / 7 % | 0 / 0 % |
+| [SF-T2](../../../../fragen/SF-T2/) Woran erkennen andere, dass ein Labor wirklich bremst? | 0 / 0 % | 20 / 67 % | 4 / 18 % | 27 / 44 % | 22 / 51 % | 0 / 0 % | 19 / 33 % |
+| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 26 / 63 % | 1 / 6 % | 0 / 0 % | 8 / 30 % | 2 / 9 % | 11 / 23 % |
 | [SF-F2](../../../../fragen/SF-F2/) Wenn ein Staat ein Modell als Beleg für eine überschrittene Schwelle nennt oder ein Risiko an der Herkunft eines Modells festmacht: Wie wird das überprüfbar? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 21 / 40 % | 6 / 19 % | 0 / 0 % | 0 / 0 % |
-| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 0 / 0 % | 1 / 8 % | 0 / 0 % | 5 / 18 % | 11 / 22 % | 0 / 0 % |
+| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 0 / 0 % | 1 / 8 % | 0 / 0 % | 5 / 18 % | 0 / 0 % | 11 / 22 % |
 | [SF-T1](../../../../fragen/SF-T1/) Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie? | 0 / 0 % | 0 / 0 % | 0 / 4 % | 0 / 0 % | 8 / 23 % | 0 / 0 % | 0 / 0 % |
-| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 0 / 0 % | 0 / 4 % | 6 / 33 % | 7 / 20 % | 6 / 16 % | 0 / 0 % |
+| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 0 / 0 % | 0 / 4 % | 6 / 33 % | 7 / 20 % | 0 / 0 % | 6 / 16 % |
 | [SF-P1](../../../../fragen/SF-P1/) Unter welchen Bedingungen lassen Staaten und Labore sich gegenseitig prüfen: mit welchem Zugang, welchen Daten und welchen öffentlichen Ergebnissen? | 0 / 0 % | 0 / 0 % | 1 / 6 % | 0 / 0 % | 7 / 23 % | 0 / 0 % | 0 / 0 % |
 | [SF-W2](../../../../fragen/SF-W2/) Wie wirken sich Wettbewerbsrecht und öffentliche Beschaffung auf die KI-Sicherheit aus? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 20 % | 0 / 0 % | 0 / 0 % |
 | [SF-F4](../../../../fragen/SF-F4/) Für welche Modelle, Entwickler und Einsätze gelten Prüfregeln, und wann muss neu geprüft werden? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 15 % | 0 / 0 % | 0 / 0 % |

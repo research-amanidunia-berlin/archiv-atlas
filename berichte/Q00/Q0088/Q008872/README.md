@@ -14,7 +14,7 @@ OpenAI berichtet, das Gericht habe Musks Antrag auf eine einstweilige Verfügung
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 56 / 83 % | – | 73 / 86 % | 8 / 20 % | 0 / 0 % | 0 / 0 % |
 | [SF-H4](../../../../fragen/SF-H4/) What happens to models and safety obligations when a lab is sold or dissolved, or a model is retired? | 0 / 0 % | 22 / 59 % | – | 14 / 32 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

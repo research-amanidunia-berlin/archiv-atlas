@@ -14,7 +14,7 @@ Der vorliegende Text ist ein Auszug aus Anna Puglis’ Aussage vor einem US-Sena
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-H6](../../../../fragen/SF-H6/) What evidence settles accusations of espionage and data leaks between states? | 0 / 0 % | 43 / 93 % | 16 / 51 % | 75 / 95 % | 28 / 53 % | 0 / 0 % | 0 / 0 % |
 | [SF-E1](../../../../fragen/SF-E1/) What real say do other states, smaller labs, universities and civil society get in the rules for AI? | 0 / 0 % | 27 / 61 % | 0 / 0 % | 9 / 36 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

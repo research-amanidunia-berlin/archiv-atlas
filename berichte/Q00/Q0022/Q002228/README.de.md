@@ -14,4 +14,6 @@ Der bereitgestellte Text ist lediglich ein Auszug mit Cookie-Hinweisen und enth�
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-Keine Sammelfrage erreicht bei einem Modell 10 % in Stufe 3–7.
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
+|---|---|---|---|---|---|---|---|
+| [SF-P2](../../../../fragen/SF-P2/) Wie bleiben Prüfer, die in einem Labor arbeiten, wirklich unabhängig? | 0 / 0 % | 0 / 0 % | – | – | 0 / 0 % | 0 / 0 % | 9 / 13 % |

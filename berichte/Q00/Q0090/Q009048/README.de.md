@@ -14,4 +14,6 @@ Der vorliegende Text ist nur ein Abstract mit Bildunterschriften, nicht der voll
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-Keine Sammelfrage erreicht bei einem Modell 10 % in Stufe 3–7.
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
+|---|---|---|---|---|---|---|---|
+| [SF-I1](../../../../fragen/SF-I1/) Wie erkennt man KI-erzeugte Inhalte und KI-erzeugte Einflussnahme, ohne die Meinungsfreiheit zu beschneiden? | 0 / 0 % | 0 / 0 % | – | – | 0 / 0 % | 0 / 0 % | 4 / 10 % |

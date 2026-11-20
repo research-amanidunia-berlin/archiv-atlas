@@ -14,11 +14,11 @@ Anthropic ernennt Rahul Patil zum CTO und überträgt ihm die Leitung mehrerer E
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 37 / 82 % | – | 0 / 0 % | 6 / 18 % | 3 / 11 % | 0 / 0 % |
-| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 25 / 57 % | – | 0 / 0 % | 5 / 9 % | 3 / 7 % | 0 / 0 % |
+| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 37 / 82 % | – | 0 / 0 % | 6 / 18 % | 0 / 0 % | 3 / 11 % |
+| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 25 / 57 % | – | 0 / 0 % | 5 / 9 % | 0 / 0 % | 3 / 7 % |
 | [SF-E4](../../../../fragen/SF-E4/) Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen? | 0 / 0 % | 21 / 67 % | – | 0 / 0 % | 4 / 9 % | 0 / 0 % | 0 / 0 % |
 | [SF-E5](../../../../fragen/SF-E5/) Welche Mitsprache haben die Menschen, die mit KI leben, bei Tempo und Grenzen, und welche Entscheidungen müssen bei ihnen bleiben? | 0 / 0 % | 15 / 44 % | – | 0 / 0 % | 4 / 9 % | 0 / 0 % | 0 / 0 % |
-| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 7 / 51 % | – | 0 / 0 % | 0 / 0 % | 3 / 8 % | 0 / 0 % |
-| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 3 / 31 % | – | 0 / 0 % | 0 / 0 % | 4 / 9 % | 0 / 0 % |
+| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 7 / 51 % | – | 0 / 0 % | 0 / 0 % | 0 / 0 % | 3 / 8 % |
+| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 3 / 31 % | – | 0 / 0 % | 0 / 0 % | 0 / 0 % | 4 / 9 % |

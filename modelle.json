@@ -38,19 +38,19 @@
     "fertig": 7924
   },
   {
-    "k": "drex",
-    "name": "drex",
-    "modell": "drex-max-v1.1",
-    "weg": "Nace (Zentrale)",
-    "datei": "archiv-drex.json",
-    "fertig": 5685
-  },
-  {
     "k": "subq",
     "name": "SubQ",
     "modell": "subq-snap-1.1",
     "weg": "SubQ (Zentrale)",
     "datei": "archiv-subq.json",
+    "fertig": 7924
+  },
+  {
+    "k": "drex",
+    "name": "drex",
+    "modell": "drex-max-v1.1",
+    "weg": "Nace (Zentrale)",
+    "datei": "archiv-drex.json",
     "fertig": 7924
   }
 ]

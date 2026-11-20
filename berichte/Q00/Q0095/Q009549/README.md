@@ -14,9 +14,9 @@ Der Bericht kommt zu dem Ergebnis, dass ML-Rechenleistung schneller wächst als 
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 48 / 92 % | 1 / 10 % | 20 / 58 % | 6 / 27 % | 6 / 17 % | 0 / 0 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 48 / 92 % | 1 / 10 % | 20 / 58 % | 6 / 27 % | 0 / 0 % | 6 / 17 % |
 | [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 39 / 80 % | 0 / 0 % | 47 / 86 % | 6 / 19 % | 0 / 0 % | 0 / 0 % |
 | [SF-A3](../../../../fragen/SF-A3/) Which dangers arise when many AI systems interact or share the same infrastructure? | 0 / 0 % | 35 / 75 % | 0 / 0 % | 9 / 40 % | 6 / 19 % | 0 / 0 % | 0 / 0 % |
 | [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 25 / 97 % | 1 / 11 % | 0 / 0 % | 11 / 35 % | 0 / 0 % | 0 / 0 % |

@@ -14,16 +14,16 @@ Epoch AI schätzt, dass OpenAI 2024 rund 5 Milliarden US-Dollar für F&E-Rechenl
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 0 / 0 % | 25 / 88 % | 14 / 46 % | 46 / 71 % | 50 / 72 % | 35 / 51 % | 0 / 0 % |
-| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 0 / 0 % | 1 / 6 % | 34 / 66 % | 7 / 23 % | 0 / 0 % | 1 / 7 % |
-| [SF-T2](../../../../fragen/SF-T2/) How can others tell that a lab has really slowed down? | 0 / 0 % | 20 / 67 % | 4 / 18 % | 27 / 44 % | 22 / 51 % | 19 / 33 % | 0 / 0 % |
-| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 26 / 63 % | 1 / 6 % | 0 / 0 % | 8 / 30 % | 11 / 23 % | 2 / 9 % |
+| [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 0 / 0 % | 25 / 88 % | 14 / 46 % | 46 / 71 % | 50 / 72 % | 0 / 0 % | 35 / 51 % |
+| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 0 / 0 % | 1 / 6 % | 34 / 66 % | 7 / 23 % | 1 / 7 % | 0 / 0 % |
+| [SF-T2](../../../../fragen/SF-T2/) How can others tell that a lab has really slowed down? | 0 / 0 % | 20 / 67 % | 4 / 18 % | 27 / 44 % | 22 / 51 % | 0 / 0 % | 19 / 33 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 26 / 63 % | 1 / 6 % | 0 / 0 % | 8 / 30 % | 2 / 9 % | 11 / 23 % |
 | [SF-F2](../../../../fragen/SF-F2/) When a state names a model as proof that a threshold has been crossed, or ties a risk to a model's origin, how does that become checkable? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 21 / 40 % | 6 / 19 % | 0 / 0 % | 0 / 0 % |
-| [SF-P3](../../../../fragen/SF-P3/) How can one tell that a lab monitors itself honestly and that its tests are valid? | 0 / 0 % | 0 / 0 % | 1 / 8 % | 0 / 0 % | 5 / 18 % | 11 / 22 % | 0 / 0 % |
+| [SF-P3](../../../../fragen/SF-P3/) How can one tell that a lab monitors itself honestly and that its tests are valid? | 0 / 0 % | 0 / 0 % | 1 / 8 % | 0 / 0 % | 5 / 18 % | 0 / 0 % | 11 / 22 % |
 | [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 0 / 0 % | 0 / 4 % | 0 / 0 % | 8 / 23 % | 0 / 0 % | 0 / 0 % |
-| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 0 / 0 % | 0 / 4 % | 6 / 33 % | 7 / 20 % | 6 / 16 % | 0 / 0 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 0 / 0 % | 0 / 4 % | 6 / 33 % | 7 / 20 % | 0 / 0 % | 6 / 16 % |
 | [SF-P1](../../../../fragen/SF-P1/) Under what conditions do states and labs verify each other: with what access, what data and what public results? | 0 / 0 % | 0 / 0 % | 1 / 6 % | 0 / 0 % | 7 / 23 % | 0 / 0 % | 0 / 0 % |
 | [SF-W2](../../../../fragen/SF-W2/) How do competition law and public procurement bear on AI safety? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 20 % | 0 / 0 % | 0 / 0 % |
 | [SF-F4](../../../../fragen/SF-F4/) Which models, developers and deployments do testing rules apply to, and when must testing be repeated? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 15 % | 0 / 0 % | 0 / 0 % |

@@ -14,6 +14,6 @@ Der vorliegende Auszug berichtet, dass Chinas FuE-Personal 2018 weiter zunahm un
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-T2](../../../../fragen/SF-T2/) How can others tell that a lab has really slowed down? | 0 / 0 % | 5 / 45 % | 0 / 0 % | – | 0 / 0 % | – | 0 / 0 % |
+| [SF-T2](../../../../fragen/SF-T2/) How can others tell that a lab has really slowed down? | 0 / 0 % | 5 / 45 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 0 / 0 % |

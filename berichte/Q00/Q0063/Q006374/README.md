@@ -14,17 +14,17 @@ Epoch AI zufolge ist die Trainingsdauer bemerkenswerter Modelle seit 2010 im Sch
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 37 / 63 % | 17 / 57 % | 7 / 33 % | 24 / 44 % | 42 / 66 % | 0 / 0 % | 0 / 0 % |
 | [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 41 / 64 % | 0 / 0 % | 0 / 0 % | 6 / 15 % | 0 / 0 % | 0 / 0 % |
-| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 9 / 57 % | 1 / 8 % | 40 / 71 % | 9 / 25 % | 6 / 15 % | 0 / 0 % |
-| [SF-T2](../../../../fragen/SF-T2/) How can others tell that a lab has really slowed down? | 24 / 49 % | 23 / 77 % | 2 / 10 % | 33 / 56 % | 16 / 44 % | 13 / 24 % | 0 / 0 % |
-| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 32 / 80 % | 0 / 3 % | 4 / 27 % | 8 / 25 % | 6 / 12 % | 0 / 0 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 9 / 57 % | 1 / 8 % | 40 / 71 % | 9 / 25 % | 0 / 0 % | 6 / 15 % |
+| [SF-T2](../../../../fragen/SF-T2/) How can others tell that a lab has really slowed down? | 24 / 49 % | 23 / 77 % | 2 / 10 % | 33 / 56 % | 16 / 44 % | 0 / 0 % | 13 / 24 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 32 / 80 % | 0 / 3 % | 4 / 27 % | 8 / 25 % | 0 / 0 % | 6 / 12 % |
 | [SF-F2](../../../../fragen/SF-F2/) When a state names a model as proof that a threshold has been crossed, or ties a risk to a model's origin, how does that become checkable? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 25 / 41 % | 7 / 18 % | 0 / 0 % | 0 / 0 % |
-| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 21 / 51 % | 0 / 0 % | 1 / 10 % | 0 / 0 % | 12 / 35 % | 10 / 20 % | 0 / 0 % |
+| [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 21 / 51 % | 0 / 0 % | 1 / 10 % | 0 / 0 % | 12 / 35 % | 0 / 0 % | 10 / 20 % |
 | [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 7 / 47 % | 0 / 0 % | 0 / 0 % | 9 / 28 % | 0 / 0 % | 0 / 0 % |
-| [SF-P3](../../../../fragen/SF-P3/) How can one tell that a lab monitors itself honestly and that its tests are valid? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 5 / 11 % | 9 / 16 % | 0 / 0 % |
+| [SF-P3](../../../../fragen/SF-P3/) How can one tell that a lab monitors itself honestly and that its tests are valid? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 5 / 11 % | 0 / 0 % | 9 / 16 % |
 | [SF-P1](../../../../fragen/SF-P1/) Under what conditions do states and labs verify each other: with what access, what data and what public results? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 19 % | 0 / 0 % | 0 / 0 % |
 | [SF-P5](../../../../fragen/SF-P5/) How do you verify that commitments between states are kept, including over years and changes of government? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 7 / 11 % | 0 / 0 % | 0 / 0 % |
 | [SF-F4](../../../../fragen/SF-F4/) Which models, developers and deployments do testing rules apply to, and when must testing be repeated? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 14 % | 0 / 0 % | 0 / 0 % |

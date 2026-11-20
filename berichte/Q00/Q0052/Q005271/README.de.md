@@ -14,12 +14,12 @@ Der Bericht schätzt, dass die Wiederverwendung älterer Foundation Models Reche
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-E4](../../../../fragen/SF-E4/) Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen? | 0 / 0 % | 5 / 69 % | 1 / 6 % | 60 / 72 % | 15 / 37 % | 0 / 0 % | 2 / 7 % |
-| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 39 / 72 % | 1 / 7 % | 18 / 42 % | 9 / 27 % | 6 / 15 % | 0 / 0 % |
-| [SF-H1](../../../../fragen/SF-H1/) Wo endet die erlaubte Nutzung fremder Modellausgaben, und wo beginnt unerlaubte Destillation, also das Trainieren eines eigenen Modells mit diesen Ausgaben? | 0 / 0 % | 28 / 70 % | 1 / 12 % | 6 / 29 % | 16 / 38 % | 8 / 17 % | 0 / 0 % |
-| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 14 / 72 % | 0 / 0 % | 27 / 48 % | 6 / 16 % | 5 / 12 % | 0 / 0 % |
+| [SF-E4](../../../../fragen/SF-E4/) Wie bleibt KI ein gemeinsames Gut, statt Abhängigkeit und Marktmacht zu vertiefen? | 0 / 0 % | 5 / 69 % | 1 / 6 % | 60 / 72 % | 15 / 37 % | 2 / 7 % | 0 / 0 % |
+| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 39 / 72 % | 1 / 7 % | 18 / 42 % | 9 / 27 % | 0 / 0 % | 6 / 15 % |
+| [SF-H1](../../../../fragen/SF-H1/) Wo endet die erlaubte Nutzung fremder Modellausgaben, und wo beginnt unerlaubte Destillation, also das Trainieren eines eigenen Modells mit diesen Ausgaben? | 0 / 0 % | 28 / 70 % | 1 / 12 % | 6 / 29 % | 16 / 38 % | 0 / 0 % | 8 / 17 % |
+| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 14 / 72 % | 0 / 0 % | 27 / 48 % | 6 / 16 % | 0 / 0 % | 5 / 12 % |
 | [SF-E5](../../../../fragen/SF-E5/) Welche Mitsprache haben die Menschen, die mit KI leben, bei Tempo und Grenzen, und welche Entscheidungen müssen bei ihnen bleiben? | 0 / 0 % | 19 / 54 % | 0 / 0 % | 27 / 52 % | 6 / 13 % | 0 / 0 % | 0 / 0 % |
 | [SF-H3](../../../../fragen/SF-H3/) Wie lässt sich nachverfolgen, woraus ein Modell entstanden ist und was in ihm steckt? | 0 / 0 % | 2 / 37 % | 1 / 6 % | 9 / 26 % | 13 / 39 % | 0 / 0 % | 0 / 0 % |
 | [SF-H4](../../../../fragen/SF-H4/) Was geschieht mit Modellen und Sicherheitspflichten, wenn ein Labor verkauft, aufgelöst oder ein Modell stillgelegt wird? | 0 / 0 % | 13 / 55 % | 0 / 0 % | 0 / 0 % | 5 / 12 % | 0 / 0 % | 0 / 0 % |

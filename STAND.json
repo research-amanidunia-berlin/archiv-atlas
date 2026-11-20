@@ -1,5 +1,5 @@
 {
-  "export": "2026-11-20 04:59",
+  "export": "2026-11-20 05:59",
   "archirex_commit": "0a94cbc",
   "berichte": 7924,
   "bewertet": {
@@ -8,8 +8,8 @@
     "d3-ultra": 4771,
     "jev": 5667,
     "amos": 7924,
-    "drex": 7047,
-    "subq": 7924
+    "subq": 7924,
+    "drex": 7924
   },
   "sammelfragen": 44,
   "teilfragen": 235

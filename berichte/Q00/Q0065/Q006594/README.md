@@ -14,7 +14,7 @@ Der Bericht dokumentiert chinesische Reaktionen auf eine US-Einreisebeschränkun
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-F2](../../../../fragen/SF-F2/) When a state names a model as proof that a threshold has been crossed, or ties a risk to a model's origin, how does that become checkable? | 0 / 0 % | 30 / 74 % | 0 / 0 % | 72 / 80 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-H6](../../../../fragen/SF-H6/) What evidence settles accusations of espionage and data leaks between states? | 0 / 0 % | 42 / 76 % | 0 / 0 % | 9 / 37 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

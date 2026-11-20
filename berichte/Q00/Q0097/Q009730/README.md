@@ -14,7 +14,7 @@ Das Papier beschreibt ein überprüfbares Protokoll, eine überprüfbare Schlüs
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-O3](../../../../fragen/SF-O3/) Which text governs, and how do you prove a document has not been altered? | 0 / 0 % | 73 / 91 % | 0 / 0 % | 80 / 88 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-P5](../../../../fragen/SF-P5/) How do you verify that commitments between states are kept, including over years and changes of government? | 0 / 0 % | 47 / 83 % | 0 / 0 % | 48 / 77 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

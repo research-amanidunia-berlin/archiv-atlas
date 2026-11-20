@@ -14,4 +14,6 @@ Der vorliegende Auszug fasst die Einwände von zwei CSET-Autoren gegen eine gepl
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-No collected question reaches 10 % in levels 3–7 with any model.
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
+|---|---|---|---|---|---|---|---|
+| [SF-K2](../../../../fragen/SF-K2/) How far do AI agreements extend to allies and intelligence services, and how do they relate to existing arms-control treaties and regimes? | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 0 / 0 % | 5 / 10 % |

@@ -14,9 +14,9 @@ Das CSET empfiehlt, die US-Biomanufaktur durch dauerhafte Forschungsförderung, 
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-F3](../../../../fragen/SF-F3/) Welche Regeln gelten für gefährliche Fähigkeiten jenseits von Cyber, etwa in Biologie, Chemie, bei radioaktiven Stoffen oder in der Nukleartechnik? | 0 / 0 % | 83 / 94 % | 0 / 0 % | 99 / 100 % | 45 / 63 % | 26 / 42 % | 0 / 0 % |
+| [SF-F3](../../../../fragen/SF-F3/) Welche Regeln gelten für gefährliche Fähigkeiten jenseits von Cyber, etwa in Biologie, Chemie, bei radioaktiven Stoffen oder in der Nukleartechnik? | 0 / 0 % | 83 / 94 % | 0 / 0 % | 99 / 100 % | 45 / 63 % | 0 / 0 % | 26 / 42 % |
 | [SF-M4](../../../../fragen/SF-M4/) Wie kommen Meldungen von Laboren, Betreibern und Nutzern schnell und geschützt zu den Stellen, die handeln müssen, auch über Grenzen hinweg? | 0 / 0 % | 24 / 71 % | 0 / 0 % | 22 / 41 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-P1](../../../../fragen/SF-P1/) Unter welchen Bedingungen lassen Staaten und Labore sich gegenseitig prüfen: mit welchem Zugang, welchen Daten und welchen öffentlichen Ergebnissen? | 0 / 0 % | 23 / 58 % | 0 / 0 % | 11 / 38 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-T1](../../../../fragen/SF-T1/) Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie? | 0 / 0 % | 16 / 80 % | 0 / 0 % | 10 / 41 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

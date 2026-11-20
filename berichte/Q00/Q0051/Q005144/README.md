@@ -14,7 +14,7 @@ Der Bericht argumentiert, dass US-Bundesregeln gegen bestimmte ausländische ICT
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 50 / 92 % | 5 / 16 % | 25 / 48 % | 16 / 34 % | 0 / 0 % | 0 / 0 % |
 | [SF-H6](../../../../fragen/SF-H6/) What evidence settles accusations of espionage and data leaks between states? | 0 / 0 % | 46 / 95 % | 6 / 21 % | 8 / 49 % | 22 / 45 % | 0 / 0 % | 0 / 0 % |

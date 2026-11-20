@@ -14,7 +14,7 @@ Der Auszug beschreibt BSL-3-Labore als wichtige Infrastruktur für die Forschung
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-F3](../../../../fragen/SF-F3/) Which rules apply to dangerous capabilities beyond cyber, such as biology, chemistry, radiological materials or nuclear technology? | 0 / 0 % | 28 / 85 % | 0 / 0 % | 22 / 69 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-P1](../../../../fragen/SF-P1/) Under what conditions do states and labs verify each other: with what access, what data and what public results? | 0 / 0 % | 16 / 50 % | 0 / 0 % | 4 / 53 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

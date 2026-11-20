@@ -14,13 +14,13 @@ NVIDIA berichtet, dass Active Learning in einem einzelnen Versuch nächtliche Tr
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-H3](../../../../fragen/SF-H3/) Wie lässt sich nachverfolgen, woraus ein Modell entstanden ist und was in ihm steckt? | 0 / 0 % | 99 / 100 % | 4 / 13 % | 76 / 85 % | 33 / 58 % | 11 / 25 % | 0 / 0 % |
-| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 94 / 99 % | 0 / 0 % | 76 / 86 % | 10 / 28 % | 7 / 17 % | 0 / 0 % |
-| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 79 / 94 % | 0 / 0 % | 92 / 95 % | 13 / 37 % | 8 / 18 % | 0 / 0 % |
-| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 30 / 75 % | 0 / 0 % | 66 / 79 % | 0 / 0 % | 4 / 9 % | 0 / 0 % |
-| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 40 / 82 % | 0 / 0 % | 63 / 77 % | 8 / 24 % | 6 / 14 % | 0 / 0 % |
+| [SF-H3](../../../../fragen/SF-H3/) Wie lässt sich nachverfolgen, woraus ein Modell entstanden ist und was in ihm steckt? | 0 / 0 % | 99 / 100 % | 4 / 13 % | 76 / 85 % | 33 / 58 % | 0 / 0 % | 11 / 25 % |
+| [SF-T3](../../../../fragen/SF-T3/) Woran erkennt man, dass KI beginnt, ihre eigene Weiterentwicklung voranzutreiben, und wer darf das erlauben? | 0 / 0 % | 94 / 99 % | 0 / 0 % | 76 / 86 % | 10 / 28 % | 0 / 0 % | 7 / 17 % |
+| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 79 / 94 % | 0 / 0 % | 92 / 95 % | 13 / 37 % | 0 / 0 % | 8 / 18 % |
+| [SF-V3](../../../../fragen/SF-V3/) Halten die Werte eines Modells, wenn niemand zusieht oder die Lage neu ist? | 0 / 0 % | 30 / 75 % | 0 / 0 % | 66 / 79 % | 0 / 0 % | 0 / 0 % | 4 / 9 % |
+| [SF-V5](../../../../fragen/SF-V5/) Was soll heute für das Verhalten und den Betrieb von Modellen gelten? | 0 / 0 % | 40 / 82 % | 0 / 0 % | 63 / 77 % | 8 / 24 % | 0 / 0 % | 6 / 14 % |
 | [SF-P4](../../../../fragen/SF-P4/) Wie lässt sich die Größe von Trainingsläufen überprüfen, ohne Modelldetails offenzulegen? | 0 / 0 % | 56 / 90 % | 0 / 0 % | 25 / 49 % | 15 / 36 % | 0 / 0 % | 0 / 0 % |
 | [SF-V4](../../../../fragen/SF-V4/) Was für ein Wesen ist ein Modell, und was folgt daraus für den Umgang mit ihm und für den Wert des Menschseins? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 37 / 58 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-T1](../../../../fragen/SF-T1/) Welche messbaren Schwellen sollen eine Pause auslösen, und wer prüft sie? | 0 / 0 % | 30 / 74 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

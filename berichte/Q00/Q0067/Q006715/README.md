@@ -14,16 +14,16 @@ Der Bericht schätzt die weltweite Blackwell-Inferenzkapazität mit einem Kimi-K
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
-| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 40 / 84 % | 0 / 0 % | 74 / 88 % | 8 / 25 % | 5 / 14 % | 0 / 0 % |
-| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 37 / 98 % | 3 / 19 % | 51 / 74 % | 11 / 34 % | 5 / 15 % | 0 / 0 % |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 40 / 84 % | 0 / 0 % | 74 / 88 % | 8 / 25 % | 0 / 0 % | 5 / 14 % |
+| [SF-E4](../../../../fragen/SF-E4/) How does AI remain a shared asset rather than deepening dependence and market power? | 0 / 0 % | 37 / 98 % | 3 / 19 % | 51 / 74 % | 11 / 34 % | 0 / 0 % | 5 / 15 % |
 | [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 39 / 78 % | 0 / 0 % | 31 / 65 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 39 / 51 % | 5 / 9 % | 0 / 0 % | 0 / 0 % |
 | [SF-A3](../../../../fragen/SF-A3/) Which dangers arise when many AI systems interact or share the same infrastructure? | 0 / 0 % | 37 / 92 % | 0 / 0 % | 0 / 0 % | 6 / 19 % | 0 / 0 % | 0 / 0 % |
 | [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 24 / 45 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 19 % | 0 / 0 % | 0 / 0 % |
-| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 24 / 62 % | 0 / 0 % | 16 / 49 % | 6 / 15 % | 5 / 12 % | 0 / 0 % |
-| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 17 / 53 % | 0 / 0 % | 9 / 27 % | 6 / 21 % | 6 / 15 % | 0 / 0 % |
+| [SF-E5](../../../../fragen/SF-E5/) What say do the people who live with AI have over its pace and limits, and which decisions must stay with them? | 0 / 0 % | 24 / 62 % | 0 / 0 % | 16 / 49 % | 6 / 15 % | 0 / 0 % | 5 / 12 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 17 / 53 % | 0 / 0 % | 9 / 27 % | 6 / 21 % | 0 / 0 % | 6 / 15 % |
 | [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 7 / 55 % | 0 / 0 % | 0 / 0 % | 9 / 30 % | 0 / 0 % | 0 / 0 % |
 | [SF-T2](../../../../fragen/SF-T2/) How can others tell that a lab has really slowed down? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 17 % | 0 / 0 % | 0 / 0 % |
 | [SF-W2](../../../../fragen/SF-W2/) How do competition law and public procurement bear on AI safety? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 6 / 18 % | 0 / 0 % | 0 / 0 % |

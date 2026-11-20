@@ -14,7 +14,7 @@ Der Auszug beschreibt Israels Beschluss von 2019, ausländische Investitionen au
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | drex | SubQ |
+| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
 |---|---|---|---|---|---|---|---|
 | [SF-T1](../../../../fragen/SF-T1/) Which measurable thresholds should trigger a pause, and who checks them? | 0 / 0 % | 71 / 95 % | 0 / 0 % | 52 / 84 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
 | [SF-H6](../../../../fragen/SF-H6/) What evidence settles accusations of espionage and data leaks between states? | 0 / 0 % | 16 / 68 % | 0 / 0 % | 4 / 38 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |

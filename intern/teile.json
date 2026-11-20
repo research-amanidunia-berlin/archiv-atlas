@@ -7,8 +7,8 @@
     "Q000020": {
       "clef": 13,
       "amos": 9,
-      "drex": 9,
-      "subq": 9
+      "subq": 9,
+      "drex": 9
     },
     "Q000136": {
       "d3-ultra": 2
@@ -16,14 +16,15 @@
     "Q000159": {
       "clef": 3,
       "amos": 3,
-      "subq": 3
+      "subq": 3,
+      "drex": 3
     },
     "Q000179": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q000297": {
       "jev": 2
@@ -31,33 +32,35 @@
     "Q000344": {
       "clef": 14,
       "amos": 10,
-      "subq": 10
+      "subq": 10,
+      "drex": 10
     },
     "Q000396": {
       "clef": 4,
       "amos": 4,
-      "subq": 4
+      "subq": 4,
+      "drex": 4
     },
     "Q000531": {
       "clef": 2,
       "d3-ultra": 3,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q000532": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q000726": {
       "clef": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q000740": {
       "d3-ultra": 2
@@ -66,8 +69,8 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q001020": {
       "d3-ultra": 2
@@ -75,12 +78,14 @@
     "Q001107": {
       "clef": 3,
       "amos": 3,
-      "subq": 3
+      "subq": 3,
+      "drex": 3
     },
     "Q001162": {
       "clef": 3,
       "amos": 3,
-      "subq": 3
+      "subq": 3,
+      "drex": 3
     },
     "Q001377": {
       "d3-ultra": 2
@@ -91,29 +96,33 @@
     "Q001569": {
       "clef": 6,
       "amos": 6,
-      "subq": 6
+      "subq": 6,
+      "drex": 6
     },
     "Q001834": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q001846": {
       "clef": 14,
       "amos": 14,
-      "subq": 14
+      "subq": 14,
+      "drex": 14
     },
     "Q001847": {
       "clef": 14,
       "amos": 14,
-      "subq": 14
+      "subq": 14,
+      "drex": 14
     },
     "Q001848": {
       "clef": 15,
       "amos": 15,
-      "subq": 15
+      "subq": 15,
+      "drex": 15
     },
     "Q001875": {
       "d3-ultra": 2
@@ -130,35 +139,36 @@
     "Q002429": {
       "clef": 2,
       "amos": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q002463": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q002485": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q002682": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q002735": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q002789": {
       "jev": 2
@@ -167,8 +177,8 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q002816": {
       "jev": 2
@@ -176,8 +186,8 @@
     "Q002871": {
       "clef": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q002967": {
       "jev": 2
@@ -186,19 +196,20 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q003012": {
       "clef": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q003046": {
       "clef": 3,
       "amos": 3,
-      "subq": 3
+      "subq": 3,
+      "drex": 3
     },
     "Q003167": {
       "jev": 2
@@ -213,8 +224,8 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q003882": {
       "d3-ultra": 2
@@ -223,27 +234,27 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q004363": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q004441": {
       "clef": 8,
       "amos": 8,
-      "drex": 8,
-      "subq": 8
+      "subq": 8,
+      "drex": 8
     },
     "Q004460": {
       "clef": 4,
       "amos": 4,
-      "drex": 4,
-      "subq": 4
+      "subq": 4,
+      "drex": 4
     },
     "Q004474": {
       "d3-ultra": 2
@@ -255,8 +266,8 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q004731": {
       "d3-ultra": 2
@@ -277,32 +288,32 @@
     "Q005827": {
       "clef": 15,
       "amos": 9,
-      "drex": 9,
-      "subq": 9
+      "subq": 9,
+      "drex": 9
     },
     "Q005835": {
       "clef": 15,
       "amos": 9,
-      "drex": 9,
-      "subq": 9
+      "subq": 9,
+      "drex": 9
     },
     "Q005846": {
       "clef": 15,
       "amos": 9,
-      "drex": 9,
-      "subq": 9
+      "subq": 9,
+      "drex": 9
     },
     "Q005854": {
       "clef": 15,
       "amos": 9,
-      "drex": 9,
-      "subq": 9
+      "subq": 9,
+      "drex": 9
     },
     "Q005864": {
       "clef": 15,
       "amos": 9,
-      "drex": 9,
-      "subq": 9
+      "subq": 9,
+      "drex": 9
     },
     "Q005954": {
       "clef": 2,
@@ -323,14 +334,14 @@
     "Q006097": {
       "clef": 3,
       "amos": 3,
-      "drex": 3,
-      "subq": 3
+      "subq": 3,
+      "drex": 3
     },
     "Q006113": {
       "clef": 6,
       "amos": 3,
-      "drex": 3,
-      "subq": 3
+      "subq": 3,
+      "drex": 3
     },
     "Q006198": {
       "clef": 2,
@@ -339,21 +350,21 @@
     "Q006205": {
       "clef": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q006211": {
       "clef": 4,
       "d3-ultra": 4,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q006216": {
       "clef": 12,
       "amos": 6,
-      "drex": 6,
-      "subq": 6
+      "subq": 6,
+      "drex": 6
     },
     "Q006242": {
       "clef": 2,
@@ -362,8 +373,8 @@
     "Q006272": {
       "clef": 3,
       "amos": 3,
-      "drex": 3,
-      "subq": 3
+      "subq": 3,
+      "drex": 3
     },
     "Q006285": {
       "jev": 2
@@ -371,8 +382,8 @@
     "Q006290": {
       "clef": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q006326": {
       "jev": 2
@@ -380,14 +391,14 @@
     "Q006361": {
       "clef": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q006394": {
       "clef": 4,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q006399": {
       "jev": 2
@@ -397,15 +408,15 @@
       "d3-ultra": 3,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q006526": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q006541": {
       "d3-ultra": 2
@@ -413,8 +424,8 @@
     "Q006565": {
       "clef": 4,
       "amos": 4,
-      "drex": 4,
-      "subq": 4
+      "subq": 4,
+      "drex": 4
     },
     "Q006573": {
       "d3-ultra": 2
@@ -426,21 +437,21 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q008641": {
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q009431": {
       "clef": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q009434": {
       "d3-ultra": 2
@@ -452,8 +463,8 @@
       "clef": 2,
       "jev": 2,
       "amos": 2,
-      "drex": 2,
-      "subq": 2
+      "subq": 2,
+      "drex": 2
     },
     "Q009449": {
       "clef": 2
