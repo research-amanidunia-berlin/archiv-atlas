@@ -1,15 +1,16 @@
 {
-  "export": "2026-11-20 05:59",
-  "archirex_commit": "0a94cbc",
+  "export": "2026-11-23 07:39",
+  "archirex_commit": "a0db662",
   "berichte": 7924,
   "bewertet": {
     "clef": 7924,
     "luna": 7924,
-    "d3-ultra": 4771,
     "jev": 5667,
     "amos": 7924,
     "subq": 7924,
-    "drex": 7924
+    "drex": 7924,
+    "d3-ultra": 5449,
+    "d3-flash": 1675
   },
   "sammelfragen": 44,
   "teilfragen": 235

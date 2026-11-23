@@ -6,6 +6,10 @@ Report Q005113 · Source x.com · Date 2026-11-03 · [Open original](https://x.c
 
 [All reports](../../../README.md) · Data: [bericht.json](bericht.json)
 
+## Summary (German, by Luna, unchecked)
+
+Ein X-Post behauptet, die Öffnung des X-Algorithmus, ein angeblicher Reichweitenschub für kleine Accounts um das Drei- bis Fünffache und Creator Rewards kämen diesen Accounts zugute. Belege oder Details fehlen; in den Kommentaren schlägt jemand einen Kurs vor, den der Autor scherzhaft ablehnt.
+
 ## Collected questions
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).

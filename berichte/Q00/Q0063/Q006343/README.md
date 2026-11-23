@@ -14,9 +14,10 @@ Der Bericht stellt VTP vor, das Rekonstruktion mit semantischen Bild-Text- und s
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
-|---|---|---|---|---|---|---|---|
-| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 46 / 81 % | – | 89 / 92 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 0 / 0 % | 0 / 0 % | – | 20 / 32 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-H2](../../../../fragen/SF-H2/) What may be released openly, and who is responsible when an open model causes harm elsewhere? | 0 / 0 % | 0 / 0 % | – | 20 / 27 % | 7 / 16 % | 0 / 0 % | 0 / 0 % |
-| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 0 / 0 % | – | 0 / 0 % | 5 / 10 % | 0 / 0 % | 4 / 8 % |
+| Question | clef | Luna | JEV | amos | SubQ | drex | d3-ultra | d3-flash |
+|---|---|---|---|---|---|---|---|---|
+| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 46 / 81 % | 89 / 92 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | 0 / 0 % |
+| [SF-P4](../../../../fragen/SF-P4/) How can the scale of training runs be verified without revealing model details? | 0 / 0 % | 0 / 0 % | 20 / 32 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | 22 / 42 % |
+| [SF-H2](../../../../fragen/SF-H2/) What may be released openly, and who is responsible when an open model causes harm elsewhere? | 0 / 0 % | 0 / 0 % | 20 / 27 % | 7 / 16 % | 0 / 0 % | 0 / 0 % | – | 0 / 0 % |
+| [SF-H1](../../../../fragen/SF-H1/) Where does legitimate use of another model's outputs end and unauthorised distillation, training one's own model on those outputs, begin? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | 7 / 22 % |
+| [SF-T3](../../../../fragen/SF-T3/) How can one tell that AI is starting to drive its own further development, and who may allow it? | 0 / 0 % | 0 / 0 % | 0 / 0 % | 5 / 10 % | 0 / 0 % | 4 / 8 % | – | 0 / 0 % |

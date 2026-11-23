@@ -6,6 +6,10 @@ Report Q001827 · Source cambridge.org · Date – · [Open original](https://ww
 
 [All reports](../../../README.md) · Data: [bericht.json](bericht.json)
 
+## Summary (German, by Luna, unchecked)
+
+Der vorliegende Auszug aus einer Bucheinleitung behandelt konvexe Optimierung mit verrauschten Funktionsabfragen statt verfügbaren Gradienten. Er erläutert Regret, zentrale methodische Zielkonflikte und den formalen Rahmen und weist darauf hin, dass unbeschränkte Gebiete sowie weitere Annahmen und Leistungsmaße nicht umfassend behandelt werden.
+
 ## Collected questions
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).

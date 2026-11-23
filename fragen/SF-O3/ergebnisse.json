@@ -36,11 +36,12 @@
   "stand": {
     "clef": "7924 Berichte",
     "luna": "7924 Berichte",
-    "d3-ultra": "4771 Berichte",
     "jev": "5667 Berichte",
     "amos": "7924 Berichte",
     "subq": "7924 Berichte",
-    "drex": "7924 Berichte"
+    "drex": "7924 Berichte",
+    "d3-ultra": "5449 Berichte",
+    "d3-flash": "1674 Berichte"
   },
   "modelle": [
     {
@@ -50,10 +51,6 @@
     {
       "k": "luna",
       "name": "Luna"
-    },
-    {
-      "k": "d3-ultra",
-      "name": "d3-ultra"
     },
     {
       "k": "jev",
@@ -70,6 +67,14 @@
     {
       "k": "drex",
       "name": "drex"
+    },
+    {
+      "k": "d3-ultra",
+      "name": "d3-ultra"
+    },
+    {
+      "k": "d3-flash",
+      "name": "d3-flash"
     }
   ],
   "auswahl": "clef oder Luna geben den Stufen 3–7 über 50 %",
@@ -110,7 +115,6 @@
           3
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 7,
         "beleg": 90,
@@ -171,6 +175,8 @@
           24
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Nur der Abstract liegt vor: Er entwirft ein signiertes Register zur Regelung und öffentlichen Dokumentation zertifizierter KI-Systeme, doch praktische Wirksamkeit und weitere Leistungsbehauptungen sind hier nicht belegt.",
       "fundorte": [
         {
@@ -214,21 +220,6 @@
           25,
           42,
           28,
-          1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 18,
-        "beleg3": 29,
-        "verteilung": [
-          32,
-          29,
-          10,
-          11,
-          9,
-          3,
-          5,
           1
         ]
       },
@@ -292,6 +283,36 @@
           5
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 18,
+        "beleg3": 29,
+        "verteilung": [
+          32,
+          29,
+          10,
+          11,
+          9,
+          3,
+          5,
+          1
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 30,
+        "beleg3": 44,
+        "verteilung": [
+          23,
+          19,
+          14,
+          14,
+          14,
+          7,
+          5,
+          4
+        ]
+      },
       "tldr_de": "Laut der bereitgestellten Zusammenfassung schützen signierte Manifeste Anforderungen bei Agenten-Übergaben vor Manipulation während der Übertragung, nicht aber vor Fehlern bei ihrer Extraktion.",
       "fundorte": [
         {
@@ -336,21 +357,6 @@
           36,
           13,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 33,
-        "beleg3": 39,
-        "verteilung": [
-          31,
-          19,
-          11,
-          6,
-          16,
-          7,
-          7,
-          3
         ]
       },
       "jev": null,
@@ -399,6 +405,36 @@
           13
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 33,
+        "beleg3": 39,
+        "verteilung": [
+          31,
+          19,
+          11,
+          6,
+          16,
+          7,
+          7,
+          3
+        ]
+      },
+      "d3-flash": {
+        "stufe": 4,
+        "beleg": 60,
+        "beleg3": 74,
+        "verteilung": [
+          9,
+          8,
+          9,
+          14,
+          20,
+          18,
+          8,
+          14
+        ]
+      },
       "tldr_de": "Laut Bericht müssen Anbieter generative KI-Ausgaben kennzeichnen, C2PA deckt dabei nur die Metadatenebene ab, und Unternehmen sollen Zuständigkeiten, technische Kennzeichnungen und Belege prüfen.",
       "fundorte": [
         {
@@ -443,21 +479,6 @@
           19,
           29,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 29,
-        "beleg3": 36,
-        "verteilung": [
-          40,
-          18,
-          6,
-          7,
-          10,
-          7,
-          7,
-          5
         ]
       },
       "jev": null,
@@ -506,6 +527,36 @@
           15
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 29,
+        "beleg3": 36,
+        "verteilung": [
+          40,
+          18,
+          6,
+          7,
+          10,
+          7,
+          7,
+          5
+        ]
+      },
+      "d3-flash": {
+        "stufe": 7,
+        "beleg": 74,
+        "beleg3": 85,
+        "verteilung": [
+          5,
+          4,
+          6,
+          11,
+          19,
+          21,
+          10,
+          24
+        ]
+      },
       "tldr_de": "C2PA kann laut Bericht die Integrität und den Unterzeichner eines Herkunftsdatensatzes anzeigen, aber weder die Wahrheit eines Inhalts belegen noch aus einem fehlenden Manifest auf dessen frühere Abwesenheit schließen.",
       "fundorte": [
         {
@@ -550,21 +601,6 @@
           10,
           20,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 44,
-        "beleg3": 53,
-        "verteilung": [
-          29,
-          12,
-          6,
-          9,
-          16,
-          9,
-          13,
-          6
         ]
       },
       "jev": {
@@ -627,6 +663,22 @@
           13
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 44,
+        "beleg3": 53,
+        "verteilung": [
+          29,
+          12,
+          6,
+          9,
+          16,
+          9,
+          13,
+          6
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Content Credentials können Herkunftsangaben und Veränderungen einer Datei prüfbar machen, bestätigen laut Bericht aber weder die Wahrheit des Inhalts noch, dass alle Entstehungsschritte erfasst wurden.",
       "fundorte": [
         {
@@ -671,21 +723,6 @@
           20,
           15,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 24,
-        "beleg3": 33,
-        "verteilung": [
-          27,
-          30,
-          10,
-          9,
-          15,
-          2,
-          5,
-          2
         ]
       },
       "jev": {
@@ -748,6 +785,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 24,
+        "beleg3": 33,
+        "verteilung": [
+          27,
+          30,
+          10,
+          9,
+          15,
+          2,
+          5,
+          2
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Mistral zufolge verwaltet Studio Prompts und Skills zentral und nachvollziehbar, doch der Produktbericht liefert keine unabhängigen Belege für die beschriebenen Vorteile.",
       "fundorte": [
         {
@@ -794,7 +847,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 92,
@@ -855,6 +907,8 @@
           25
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "KI-Bildmarkierungen können Herkunft anzeigen, sind aber lückenhaft und veränderbar; der Bericht empfiehlt, Metadatenprüfung durch Pixelanalyse zu ergänzen.",
       "fundorte": [
         {
@@ -901,7 +955,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 54,
@@ -962,6 +1015,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Memo empfiehlt einen standardisierten, schriftlichen und zunächst freiwilligen US-chinesischen Meldeweg für grenzüberschreitende KI-Vorfälle, dessen Zuständigkeiten und Meldeschwellen noch festzulegen wären.",
       "fundorte": [
         {
@@ -1008,7 +1063,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 7,
         "beleg": 98,
@@ -1069,6 +1123,8 @@
           12
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Eine KI-Kennzeichnung oder ein negatives Prüfergebnis beweist weder Wahrheit noch Echtheit; laut Bericht helfen nur mehrere begrenzte Prüfungen und die Rückverfolgung zur Quelle.",
       "fundorte": [
         {
@@ -1115,7 +1171,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 50,
@@ -1176,6 +1231,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI skizziert vorläufige Sicherheitsleitlinien für Frontier-KI-Training und betont, dass belastbare Sicherheitsnachweise ein langfristiges Ziel sind.",
       "fundorte": [
         {
@@ -1222,7 +1279,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 26,
@@ -1283,6 +1339,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Veranstaltungsbericht fordert angesichts vielfältiger, von den Vortragenden beschriebener KI-Sicherheitsrisiken vorausschauende Schutzmaßnahmen, bietet aber keine unabhängige Prüfung oder Risikobewertung.",
       "fundorte": [
         {
@@ -1327,21 +1385,6 @@
           16,
           18,
           2
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 39,
-        "beleg3": 48,
-        "verteilung": [
-          24,
-          21,
-          7,
-          9,
-          15,
-          10,
-          9,
-          5
         ]
       },
       "jev": {
@@ -1404,6 +1447,22 @@
           9
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 39,
+        "beleg3": 48,
+        "verteilung": [
+          24,
+          21,
+          7,
+          9,
+          15,
+          10,
+          9,
+          5
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Das Zertifikat belegt laut Bericht Zeitpunkt und Fingerabdruck, schätzt Urheberschaft und trifft keine Aussage über Eigentumsrechte.",
       "fundorte": [
         {
@@ -1450,7 +1509,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 61,
@@ -1511,6 +1569,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht beschreibt die nicht bindende Kommissionsauslegung der Transparenzpflichten für Anbieter und Betreiber nach Artikel 50 des EU-KI-Gesetzes, einschließlich Kennzeichnung, Offenlegung, Ausnahmen und Fristen.",
       "fundorte": [
         {
@@ -1557,7 +1617,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 7,
         "beleg": 98,
@@ -1618,6 +1677,8 @@
           19
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Content Credentials können Herkunft und Bearbeitungen digitaler Dateien nachvollziehbar machen, beweisen laut Bericht aber weder deren Wahrheit noch eine verlässliche Prüfung für Hochrisikofälle.",
       "fundorte": [
         {
@@ -1664,7 +1725,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 42,
@@ -1725,6 +1785,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Auszug fordert nachvollziehbare, dauerhaft dokumentierte Risikobewertungen, damit Betroffene sie prüfen und anfechten können; eigene empirische Ergebnisse enthält er nicht.",
       "fundorte": [
         {
@@ -1771,7 +1833,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 57,
@@ -1832,6 +1893,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der NIST-Beitrag präsentiert zehn vorläufige, risikobasiert anzuwendende Grundsätze für Agentenidentität und -zugriff und sieht sie als Ausgangspunkt, obwohl heutige Standards und Technik sie noch nicht überall erfüllen.",
       "fundorte": [
         {
@@ -1878,7 +1941,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 86,
@@ -1939,6 +2001,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut Bericht brauchen nicht authentische KI-Darstellungen von Menschen oder realen Ereignissen einen sichtbaren oder hörbaren Hinweis; Metadaten und Plattformlabels helfen, ersetzen ihn aber nicht.",
       "fundorte": [
         {
@@ -1985,7 +2049,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 46,
@@ -2046,6 +2109,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "NIST fasst Rückmeldungen zu standardbasierter, überprüfbarer und datenschutzbewusster Agentensicherheit zusammen; der bereitgestellte Berichtstext ist am Ende unvollständig.",
       "fundorte": [
         {
@@ -2089,21 +2154,6 @@
           68,
           3,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 5,
-        "beleg3": 10,
-        "verteilung": [
-          39,
-          46,
-          5,
-          5,
-          4,
-          0,
-          1,
           0
         ]
       },
@@ -2167,6 +2217,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 5,
+        "beleg3": 10,
+        "verteilung": [
+          39,
+          46,
+          5,
+          5,
+          4,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "BigCode verbindet laut Bericht offene Entwicklung von Code-Sprachmodellen mit Opt-out, Datenschutz, Herkunftssuche, Emissionsangaben und einer Lizenz mit Nutzungsauflagen.",
       "fundorte": [
         {
@@ -2210,21 +2276,6 @@
           40,
           23,
           10,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 7,
-        "verteilung": [
-          83,
-          9,
-          1,
-          4,
-          2,
-          0,
-          1,
           0
         ]
       },
@@ -2288,6 +2339,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 7,
+        "verteilung": [
+          83,
+          9,
+          1,
+          4,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Das Papier stellt drei transparente Datenstrukturen vor, mit denen sich Einträge und Werte prüfen lassen; vollständige Betriebsprüfungen können eine Vollprüfung durch Auditoren erfordern.",
       "fundorte": [
         {
@@ -2334,7 +2401,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 85,
@@ -2395,6 +2461,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Model Cards sollen als begrenzte Anbieterbelege in versionierte, risikogerechte Freigaben und Laufzeitkontrollen einfließen, beweisen aber nicht die Sicherheit eines Modells im tatsächlichen Einsatz.",
       "fundorte": [
         {
@@ -2441,7 +2509,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 68,
@@ -2502,6 +2569,8 @@
           8
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die Verordnung verlangt Kennzeichnungen und Transparenz für erfasste KI-generierte Inhalte und gilt ab dem 1. September 2025.",
       "fundorte": [
         {
@@ -2546,21 +2615,6 @@
           18,
           11,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          96,
-          4,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -2623,6 +2677,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          96,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 31,
+        "beleg3": 50,
+        "verteilung": [
+          16,
+          22,
+          12,
+          19,
+          11,
+          8,
+          6,
+          6
+        ]
+      },
       "tldr_de": "Der Bericht übersetzt eine ausgewählte CSC-Vereinbarung mit Melde-, Rückkehr- und Dienstpflichten für geförderte Auslandsstudierende sowie finanzieller Haftung von zwei Bürgen, ohne ihre Rechtswirksamkeit zu bewerten.",
       "fundorte": [
         {
@@ -2669,7 +2753,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 69,
@@ -2730,6 +2813,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAIs Bedingungen regeln die Nutzung seiner Privatkundendienste, warnen vor unzuverlässigen Ausgaben und sehen vorbehaltlich geltenden Rechts Haftungsbegrenzungen und grundsätzlich verbindliche Schiedsverfahren vor.",
       "fundorte": [
         {
@@ -2776,7 +2861,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 29,
@@ -2837,6 +2921,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic berichtet über Fortschritte und angepasste Sicherheitsziele und warnt zugleich, dass Schutzwirkungen gegen künftige Angriffe nicht garantiert sind und KI Forschung möglicherweise schon ab Anfang 2027 stark beschleunigen könnte.",
       "fundorte": [
         {
@@ -2883,7 +2969,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 92,
@@ -2944,6 +3029,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Globaledit stellt ein C2PA-basiertes Werkzeug zur Anzeige von Herkunft und KI-Beteiligung vor, das bei Assets ohne C2PA-Daten laut Bericht keine Historie oder Statusangabe liefern kann.",
       "fundorte": [
         {
@@ -2988,21 +3075,6 @@
           17,
           9,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          99,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -3065,6 +3137,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          99,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Eine Anleitung für einen statischen Apple-Wallet-Pass samt einfacher SwiftUI-Verteilung; dynamische Erzeugung und Aktualisierungen bleiben laut Bericht zukünftige Ausbauschritte.",
       "fundorte": [
         {
@@ -3111,7 +3199,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 83,
@@ -3172,6 +3259,22 @@
           9
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 43,
+        "beleg3": 50,
+        "verteilung": [
+          29,
+          13,
+          8,
+          7,
+          22,
+          7,
+          10,
+          4
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI beschreibt C2PA, SynthID und ein Prüfwerkzeug zur Herkunftserkennung und betont, dass die Signale unvollständig sein können und fehlende Treffer keine definitive Aussage erlauben.",
       "fundorte": [
         {
@@ -3218,7 +3321,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 89,
@@ -3279,6 +3381,8 @@
           4
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut Bericht verpflichtet Artikel 50 Anbieter und Betreiber seit August 2026 zu KI-Hinweisen und Kennzeichnungen, mit einer eng begrenzten Fristverlängerung bis 2. Dezember 2026 für die maschinenlesbare Markierung bestimmter älterer Systeme.",
       "fundorte": [
         {
@@ -3323,21 +3427,6 @@
           12,
           2,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 13,
-        "verteilung": [
-          54,
-          28,
-          5,
-          4,
-          5,
-          2,
-          1,
-          1
         ]
       },
       "jev": null,
@@ -3386,6 +3475,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 13,
+        "verteilung": [
+          54,
+          28,
+          5,
+          4,
+          5,
+          2,
+          1,
+          1
+        ]
+      },
+      "d3-flash": {
+        "stufe": 4,
+        "beleg": 52,
+        "beleg3": 70,
+        "verteilung": [
+          8,
+          12,
+          10,
+          18,
+          18,
+          16,
+          9,
+          9
+        ]
+      },
       "tldr_de": "Laut Bericht müssen realistische KI-Inhalte je nach EU-, Bundesstaats- und Plattformregeln offengelegt werden, doch die Anforderungen unterscheiden sich und Kennzeichnungen sind kein verlässlicher Echtheitsbeweis.",
       "fundorte": [
         {
@@ -3432,7 +3551,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 96,
@@ -3493,6 +3611,8 @@
           7
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein einzelner X-Post behauptet, seine Hash- und Vorgängerverweise erlaubten es, die Registerkette selbst zu prüfen.",
       "fundorte": [
         {
@@ -3539,7 +3659,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 13,
@@ -3600,6 +3719,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht stellt neue Compliance-, Nutzerverwaltungs- und GPT-Kontrollen für ChatGPT Enterprise vor, beschreibt sie aus Sicht von OpenAI und nennt SCIM zum Veröffentlichungszeitpunkt als Beta.",
       "fundorte": [
         {
@@ -3646,7 +3767,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 62,
@@ -3707,6 +3827,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Tyagi plädiert dafür, geringwertige KI-Masseninhalte nach ihrem Gebrauch und ihren Auswirkungen zu beurteilen, da Stil-Erkennung und Kennzeichnung allein laut Beitrag nicht ausreichen.",
       "fundorte": [
         {
@@ -3753,7 +3875,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 14,
@@ -3814,6 +3935,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht dokumentiert Anthropics eigene Angaben zu Status und Ergebnissen früherer Ziele seiner Frontier Safety Roadmap.",
       "fundorte": [
         {
@@ -3860,7 +3983,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 70,
@@ -3921,6 +4043,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht stellt OpenAIs damalige GPT‑4o-Bildgenerierung mit ihren behaupteten Stärken, ausgewählten Beispielen, einer bekannten Beschneidungsgrenze und beschriebenen Sicherheitsmaßnahmen vor.",
       "fundorte": [
         {
@@ -3967,7 +4091,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 4,
@@ -4014,6 +4137,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die 64 Prüfstände dokumentieren ein breites Spektrum KI-bezogener Vorfälle und Streitfälle, betonen aber, dass viele Zuschreibungen, Schäden und Ursachen unbestätigt oder noch ungeklärt sind.",
       "fundorte": [
         {
@@ -4060,7 +4185,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 87,
@@ -4121,6 +4245,8 @@
           6
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Quelltext ist ein Auszug, in dem PAI Transparenzmethoden für synthetische Medien ordnet und ihre Grenzen sowie Zielkonflikte beschreibt.",
       "fundorte": [
         {
@@ -4167,7 +4293,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 99,
@@ -4228,6 +4353,8 @@
           16
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht empfiehlt C2PA als praktisch verbreiteten Ausgangspunkt, warnt aber vor ungelösten Sicherheits- und Robustheitsfragen und fordert zusätzliche Schutz- und Prüfmechanismen.",
       "fundorte": [
         {
@@ -4271,21 +4398,6 @@
           49,
           4,
           5,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 9,
-        "verteilung": [
-          65,
-          19,
-          7,
-          2,
-          6,
-          0,
-          1,
           0
         ]
       },
@@ -4349,6 +4461,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 9,
+        "verteilung": [
+          65,
+          19,
+          7,
+          2,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 22,
+        "beleg3": 37,
+        "verteilung": [
+          26,
+          21,
+          16,
+          15,
+          11,
+          3,
+          5,
+          3
+        ]
+      },
       "tldr_de": "Google kündigt geräteübergreifende KI-Erinnerungen mit verschlüsselter Cloud-Speicherung und Geräte-Schlüsseln an; die Sicherheitszusagen werden im Bericht nicht durch Prüfergebnisse belegt, und die letzte Bildunterschrift ist abgeschnitten.",
       "fundorte": [
         {
@@ -4392,21 +4534,6 @@
           39,
           14,
           5,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 9,
-        "verteilung": [
-          57,
-          27,
-          7,
-          3,
-          5,
-          0,
-          1,
           0
         ]
       },
@@ -4470,6 +4597,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 9,
+        "verteilung": [
+          57,
+          27,
+          7,
+          3,
+          5,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 24,
+        "verteilung": [
+          41,
+          26,
+          9,
+          10,
+          7,
+          2,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Der bereitgestellte Textauszug skizziert mögliche Prüf- und Überwachungsverfahren für KI in militärischen Systemen, deren technische und praktische Eignung laut Bericht noch offen ist.",
       "fundorte": [
         {
@@ -4516,7 +4673,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 7,
         "beleg": 94,
@@ -4577,6 +4733,8 @@
           8
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "C2PA kann die Provenienz von Musik einschließlich KI-Beteiligung nachvollziehbar dokumentieren, ersetzt aber keine Rechteklärung und garantiert weder vollständige noch richtige Angaben.",
       "fundorte": [
         {
@@ -4623,7 +4781,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 0,
@@ -4670,6 +4827,22 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 27,
+        "beleg3": 47,
+        "verteilung": [
+          14,
+          24,
+          15,
+          20,
+          13,
+          7,
+          4,
+          3
+        ]
+      },
       "tldr_de": "Die bereitgestellten Notizen beschreiben Teile der ISO/IEC-Verfahren für Normungsarbeit und Twinning; sie sind keine vollständige Wiedergabe, und der zugrunde liegende Auszug endet laut Notizen mitten in Annex C.",
       "fundorte": [
         {
@@ -4714,21 +4887,6 @@
           2,
           4,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 30,
-        "beleg3": 35,
-        "verteilung": [
-          39,
-          15,
-          11,
-          5,
-          20,
-          3,
-          6,
-          1
         ]
       },
       "jev": {
@@ -4791,6 +4949,22 @@
           3
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 30,
+        "beleg3": 35,
+        "verteilung": [
+          39,
+          15,
+          11,
+          5,
+          20,
+          3,
+          6,
+          1
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag fordert verlässliche KI-Erkennung und abgestufte Regeln für deren Einsatz, stellt seine Vorschläge aber als politische Diskussionsgrundlage dar.",
       "fundorte": [
         {
@@ -4835,21 +5009,6 @@
           10,
           7,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          70,
-          25,
-          1,
-          3,
-          1,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -4912,6 +5071,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          70,
+          25,
+          1,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 32,
+        "beleg3": 47,
+        "verteilung": [
+          22,
+          19,
+          12,
+          15,
+          14,
+          5,
+          8,
+          5
+        ]
+      },
       "tldr_de": "Der Auszug beschreibt eine chinesische CAC-Prüfpflicht für bestimmte Plattformbetreiber und beginnt mit der Bekanntmachung der Regelung, enthält aber keine weiteren Bestimmungen.",
       "fundorte": [
         {
@@ -4958,7 +5147,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 80,
@@ -5019,6 +5207,22 @@
           3
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 17,
+        "verteilung": [
+          58,
+          20,
+          5,
+          3,
+          10,
+          2,
+          2,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI beschreibt Ansätze für KI-Sicherheitsprüfungen und Herkunftsnachweise, betont aber, dass deren Ergebnisse begrenzt, teils unsicher und weiter zu erforschen sind.",
       "fundorte": [
         {
@@ -5063,21 +5267,6 @@
           10,
           6,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 9,
-        "beleg3": 14,
-        "verteilung": [
-          53,
-          28,
-          5,
-          5,
-          6,
-          1,
-          1,
-          1
         ]
       },
       "jev": {
@@ -5140,6 +5329,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 14,
+        "verteilung": [
+          53,
+          28,
+          5,
+          5,
+          6,
+          1,
+          1,
+          1
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 28,
+        "beleg3": 47,
+        "verteilung": [
+          20,
+          18,
+          15,
+          19,
+          12,
+          6,
+          5,
+          5
+        ]
+      },
       "tldr_de": "Der Bericht stellt ein geplantes, manipulationsprüfbares Prüfregister für die Nutzung von Gesundheitsdaten vor und benennt zentrale technische Hürden, ohne eine fertige Umsetzung nachzuweisen.",
       "fundorte": [
         {
@@ -5186,7 +5405,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 87,
@@ -5247,6 +5465,8 @@
           4
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI arbeitet an Herkunftsstandards und Erkennungstools für KI-Inhalte, deren Nutzen laut Bericht durch entfernbare Metadaten, begrenzte Erkennungsleistung und mögliche Nachteile für einzelne Gruppen eingeschränkt ist.",
       "fundorte": [
         {
@@ -5290,21 +5510,6 @@
           49,
           2,
           5,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 7,
-        "verteilung": [
-          70,
-          14,
-          9,
-          3,
-          4,
-          0,
-          0,
           0
         ]
       },
@@ -5368,6 +5573,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 7,
+        "verteilung": [
+          70,
+          14,
+          9,
+          3,
+          4,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 14,
+        "verteilung": [
+          44,
+          33,
+          9,
+          9,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug bündelt überwiegend Selbstauskünfte der Australian AI Music Alliance und von OZBeat AI zu Standards, Produkten und Branchenaktivitäten rund um KI-Musik; die Kurztexte liefern keine unabhängige Überprüfung.",
       "fundorte": [
         {
@@ -5411,21 +5646,6 @@
           46,
           5,
           4,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 12,
-        "beleg3": 14,
-        "verteilung": [
-          54,
-          24,
-          8,
-          2,
-          11,
-          0,
-          1,
           0
         ]
       },
@@ -5489,6 +5709,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 12,
+        "beleg3": 14,
+        "verteilung": [
+          54,
+          24,
+          8,
+          2,
+          11,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI zufolge bietet Sora 2 neue Video- und Audiofunktionen mit mehreren Schutzebenen, doch Tests und Maßnahmen schließen schädliche oder täuschende Ausgaben nicht vollständig aus.",
       "fundorte": [
         {
@@ -5535,7 +5771,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 94,
@@ -5596,6 +5831,8 @@
           9
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI unterstützt den EU-Transparenzkodex und beschreibt Herkunftsnachweise für KI-Bilder, räumt aber ein, dass diese Signale verloren gehen oder an Wirkung einbüßen können.",
       "fundorte": [
         {
@@ -5640,21 +5877,6 @@
           4,
           2,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 43,
-        "beleg3": 50,
-        "verteilung": [
-          25,
-          15,
-          10,
-          7,
-          20,
-          6,
-          13,
-          4
         ]
       },
       "jev": {
@@ -5717,6 +5939,22 @@
           3
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 43,
+        "beleg3": 50,
+        "verteilung": [
+          25,
+          15,
+          10,
+          7,
+          20,
+          6,
+          13,
+          4
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Die Autoren fordern verpflichtende, kostenlose Detektoren für KI-generierte Inhalte und benennen technische, Datenschutz- und Durchsetzungsgrenzen.",
       "fundorte": [
         {
@@ -5760,21 +5998,6 @@
           37,
           10,
           6,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          71,
-          23,
-          3,
-          2,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -5838,6 +6061,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          71,
+          23,
+          3,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Witnesses soll Trainingsabläufe von KI-Modellen mit überprüfbaren Zertifikaten nachvollziehbar machen, kann jedoch weder die wissenschaftliche Aussagekraft bestätigen noch zusätzlichen Rechenaufwand vermeiden.",
       "fundorte": [
         {
@@ -5884,7 +6123,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 92,
@@ -5945,6 +6183,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht fasst Anthropic-Änderungen an Nutzungsregeln, Durchsetzung und Umgang mit markierten Chats zusammen und enthält zusätzlich nicht unabhängig geprüfte Datenschutzangaben des Anbieters Morse.",
       "fundorte": [
         {
@@ -5991,7 +6231,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 4,
@@ -6038,6 +6277,22 @@
           6
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 18,
+        "beleg3": 33,
+        "verteilung": [
+          31,
+          27,
+          9,
+          15,
+          7,
+          5,
+          3,
+          3
+        ]
+      },
       "tldr_de": "Die Vorlage enthält Notizen, keinen vollständigen Verordnungstext, und beschreibt den risikobasierten EU-KI-Rechtsrahmen mit Verboten, Hochrisiko-Anforderungen, Transparenzpflichten und schrittweisem Anwendungsbeginn ab 2025.",
       "fundorte": [
         {
@@ -6082,21 +6337,6 @@
           7,
           7,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 14,
-        "verteilung": [
-          67,
-          11,
-          8,
-          4,
-          6,
-          2,
-          2,
-          0
         ]
       },
       "jev": {
@@ -6159,6 +6399,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 14,
+        "verteilung": [
+          67,
+          11,
+          8,
+          4,
+          6,
+          2,
+          2,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der bereitgestellte Text ist ein 2024er NIST-Entwurf zur PQC-Migration, der laut Hinweis 2026 zurückgezogen wurde; er empfiehlt einen frühzeitigen, schrittweisen Wechsel und nennt 2035 als staatliches US-Ziel.",
       "fundorte": [
         {
@@ -6205,7 +6461,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 49,
@@ -6266,6 +6521,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag empfiehlt, Datenherkunft systematisch zu dokumentieren, damit Organisationen Risiken und zulässige Nutzung von KI-Daten besser nachvollziehen können.",
       "fundorte": [
         {
@@ -6310,21 +6567,6 @@
           6,
           4,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 29,
-        "beleg3": 34,
-        "verteilung": [
-          43,
-          15,
-          8,
-          5,
-          13,
-          4,
-          10,
-          2
         ]
       },
       "jev": {
@@ -6387,6 +6629,22 @@
           5
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 29,
+        "beleg3": 34,
+        "verteilung": [
+          43,
+          15,
+          8,
+          5,
+          13,
+          4,
+          10,
+          2
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht ergänzen sich SynthID, C2PA und KI-Klassifikatoren; keines der Verfahren beweist allein zuverlässig, dass ein Inhalt KI-generiert ist.",
       "fundorte": [
         {
@@ -6433,7 +6691,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 64,
@@ -6494,6 +6751,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic veröffentlicht eine fortlaufend überarbeitbare Verfassung, die Claudes Training und Verhalten an Sicherheit, Ethik, Richtlinien und Hilfsbereitschaft ausrichten soll, ohne eine Übereinstimmung des tatsächlichen Modellverhaltens zu garantieren.",
       "fundorte": [
         {
@@ -6540,7 +6799,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 68,
@@ -6601,6 +6859,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Kommentar bezweifelt, dass maschinenlesbare KI-Wasserzeichen zuverlässig vor Fälschungen schützen, und plädiert für menschliche Prüfung und redaktionelle Verantwortung.",
       "fundorte": [
         {
@@ -6647,7 +6907,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 66,
@@ -6708,6 +6967,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut BRB Legal verschärfen Indiens IT-Regeln seit Februar 2026 Kennzeichnungs- und Prüfpflichten für synthetische Medien und verkürzen bestimmte Entfernungsfristen auf zwei bis drei Stunden.",
       "fundorte": [
         {
@@ -6751,21 +7012,6 @@
           37,
           10,
           5,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          79,
-          16,
-          2,
-          2,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -6829,6 +7075,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          79,
+          16,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 4,
+        "beleg": 57,
+        "beleg3": 71,
+        "verteilung": [
+          8,
+          10,
+          11,
+          14,
+          20,
+          11,
+          14,
+          12
+        ]
+      },
       "tldr_de": "Der bereitgestellte Bericht ist nur ein Auszug: Die Artikel 1 bis 5 skizzieren Ziele und Grundregeln für wissenschaftliche Daten, während der Rest der chinesischen Maßnahmen fehlt.",
       "fundorte": [
         {
@@ -6875,7 +7151,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 85,
@@ -6936,6 +7211,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut Digimarc verbreitet sich C2PA über die Medienkette, ist aber noch nicht flächendeckend etabliert; der Beitrag empfiehlt Wasserzeichen, um Credentials trotz möglichem Metadatenverlust wieder Inhalten zuordnen zu können.",
       "fundorte": [
         {
@@ -6979,21 +7256,6 @@
           47,
           1,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          84,
-          15,
-          0,
-          1,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -7057,6 +7319,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          84,
+          15,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 4,
+        "verteilung": [
+          68,
+          25,
+          3,
+          2,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "DeepMind schildert eigene Forschungs- und Anwendungsfortschritte im Jahr 2017 und betont, dass KI-Entwicklung zugleich ethische Verantwortung und weitere Aufsicht erfordert.",
       "fundorte": [
         {
@@ -7103,7 +7395,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 70,
@@ -7164,6 +7455,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Artikel stellt die EU-Kennzeichnungspflichten den uneinheitlichen US-Regeln gegenüber und argumentiert, dass Wasserzeichen bei Text oft leicht verloren gehen, während Kalifornien sichtbare und maschinenlesbare Hinweise kombiniert.",
       "fundorte": [
         {
@@ -7210,7 +7503,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 53,
@@ -7271,6 +7563,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht sieht die KI-Governance bei Prüfungen, Standards und Sicherheitsinfrastruktur hinter der technischen Entwicklung zurück und fordert, diese Lücke gemeinsam von Forschung und Politik zu schließen.",
       "fundorte": [
         {
@@ -7317,7 +7611,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 82,
@@ -7378,6 +7671,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 20,
+        "beleg3": 23,
+        "verteilung": [
+          44,
+          24,
+          9,
+          3,
+          16,
+          1,
+          3,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI stellt eigene Wahl-Schutzmaßnahmen für 2026 vor, liefert im Bericht aber keine unabhängigen Wirksamkeitsnachweise und betont, dass KI-Herkunftswerkzeuge Täuschung nicht allein verhindern.",
       "fundorte": [
         {
@@ -7424,7 +7733,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 8,
@@ -7485,6 +7793,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "US-Behörden und Kongress treiben KI-Vorfallmeldungen voran, um aus realen Fehlern zu lernen; Umfang, Fristen und Schutz der Berichte sind laut Beitrag noch nicht abschließend geregelt.",
       "fundorte": [
         {
@@ -7529,21 +7839,6 @@
           6,
           2,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 38,
-        "beleg3": 48,
-        "verteilung": [
-          24,
-          17,
-          11,
-          10,
-          23,
-          7,
-          6,
-          2
         ]
       },
       "jev": {
@@ -7606,6 +7901,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 38,
+        "beleg3": 48,
+        "verteilung": [
+          24,
+          17,
+          11,
+          10,
+          23,
+          7,
+          6,
+          2
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht müssen generative KI-Anbieter ihre Inhalte kennzeichnen, doch Wasserzeichen bleiben begrenzt zuverlässig und die Übergangsfrist für ältere Systeme endet am 2. Dezember.",
       "fundorte": [
         {
@@ -7652,7 +7963,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -7713,6 +8023,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht empfiehlt, KI über fünf aufeinander aufbauende Wertmodelle einzuführen und erst mit belastbaren Grundlagen auf vernetzte Abläufe auszuweiten.",
       "fundorte": [
         {
@@ -7759,7 +8071,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 84,
@@ -7820,6 +8131,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 9,
+        "verteilung": [
+          60,
+          25,
+          6,
+          2,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI beschreibt Schutzmaßnahmen für Sora, deren Wirksamkeit der Bericht nicht unabhängig belegt, und vermerkt, dass Sora seit dem 26. April 2026 nicht mehr verfügbar ist.",
       "fundorte": [
         {
@@ -7866,7 +8193,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 16,
@@ -7927,6 +8253,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag plädiert dafür, leistungsfähige KI durch externe, überprüfbare Kontrollen zu begrenzen, statt sich auf Vertrauen in das Modell zu verlassen.",
       "fundorte": [
         {
@@ -7973,7 +8301,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 30,
@@ -8034,6 +8361,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag wirbt für Modell-Fingerprinting als Herkunftsnachweis für offene KI, liefert aber keine konkreten Benchmark-Ergebnisse.",
       "fundorte": [
         {
@@ -8080,7 +8409,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 50,
@@ -8141,6 +8469,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "FlashProve soll Modellantworten kryptografisch überprüfbar machen; der Forschungsprototyp zeigt laut Anthropic viel schnellere Beweiserzeugung als frühere offene Systeme, bleibt aber durch kurze Kontexte und weitere technische Einschränkungen begrenzt.",
       "fundorte": [
         {
@@ -8187,7 +8517,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 3,
@@ -8234,6 +8563,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic plant ein IPO mit hohen Erlösen, berichtet aber zugleich enorme Verluste, Compute-Verpflichtungen und vielfältige Geschäftsrisiken; Prospektangaben sind teils vorläufig und nicht unabhängig bestätigt.",
       "fundorte": [
         {
@@ -8286,7 +8617,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 75,
@@ -8347,6 +8677,22 @@
           7
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 44,
+        "beleg3": 51,
+        "verteilung": [
+          26,
+          14,
+          9,
+          7,
+          24,
+          8,
+          9,
+          3
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI führt Text-Wasserzeichen schrittweise ein, betont aber, dass Erkennungsergebnisse begrenzt sind und weder Herkunft noch menschlichen Beitrag oder Richtigkeit abschließend klären.",
       "fundorte": [
         {
@@ -8393,7 +8739,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 85,
@@ -8454,6 +8799,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht beschreibt Sora Turbo und seine damaligen Funktionen und Schutzmaßnahmen, vermerkt aber ausdrücklich, dass Sora seit dem 26. April 2026 nicht mehr verfügbar ist.",
       "fundorte": [
         {
@@ -8500,7 +8847,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 12,
@@ -8561,6 +8907,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Eine FAR.AI-Konferenz zeigte laut Bericht technische Ansätze für KI-Regeln und Sicherheit auf, während zentrale Fragen offen und das Fachgebiet unterentwickelt bleiben.",
       "fundorte": [
         {
@@ -8604,21 +8952,6 @@
           38,
           4,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 8,
-        "verteilung": [
-          59,
-          27,
-          6,
-          1,
-          6,
-          0,
-          1,
           0
         ]
       },
@@ -8682,6 +9015,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 8,
+        "verteilung": [
+          59,
+          27,
+          6,
+          1,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 13,
+        "verteilung": [
+          52,
+          28,
+          7,
+          6,
+          4,
+          1,
+          1,
+          1
+        ]
+      },
       "tldr_de": "Der OpenAI-Bericht schildert Schutzmaßnahmen und Evaluationen für GPT‑4os leistungsfähigere Bildgenerierung, räumt aber verbleibende Risiken, Verzerrungen und Messgrenzen ein.",
       "fundorte": [
         {
@@ -8728,7 +9091,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 76,
@@ -8789,6 +9151,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 14,
+        "verteilung": [
+          41,
+          39,
+          6,
+          6,
+          6,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI erläutert eigene Maßnahmen für verantwortungsvolle KI in Europa, räumt technische Grenzen bei Herkunftsnachweisen ein und kündigt weitere Anpassungen an.",
       "fundorte": [
         {
@@ -8835,7 +9213,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 20,
@@ -8896,6 +9273,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI stellt seine Vereinbarung mit dem US-Verteidigungsministerium als mehrschichtig abgesichert dar; der Bericht gibt diese Zusicherungen wieder, ohne sie unabhängig zu überprüfen.",
       "fundorte": [
         {
@@ -8942,7 +9321,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 26,
@@ -9003,6 +9381,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 6,
+        "verteilung": [
+          58,
+          30,
+          6,
+          4,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der OECD-Beitrag führt Web3 als Zusammenspiel von Blockchain, KI und dezentralen Anwendungen ein und wirbt für koordinierte internationale Regeln, ohne die genannten Beispiele systematisch zu bewerten.",
       "fundorte": [
         {
@@ -9046,21 +9440,6 @@
           41,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 2,
-        "verteilung": [
-          74,
-          23,
-          1,
-          1,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -9124,6 +9503,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 2,
+        "verteilung": [
+          74,
+          23,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 15,
+        "verteilung": [
+          45,
+          31,
+          9,
+          8,
+          4,
+          1,
+          1,
+          1
+        ]
+      },
       "tldr_de": "DeepMind Health begrüßt Fortschritte laut unabhängigen Prüfern und verspricht weitere Verbesserungen bei Geschäftsmodell, Datentransparenz und Beteiligung, doch der Text ist die eigene, nicht unabhängig belegte Darstellung des Unternehmens.",
       "fundorte": [
         {
@@ -9170,7 +9579,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 51,
@@ -9231,6 +9639,8 @@
           5
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "PAI fordert verständliche und möglichst einheitliche KI-Offenlegungen, mehr Medienbildung und zusätzliche Schutzmaßnahmen gegen Schäden, die Kennzeichnungen allein nicht verhindern.",
       "fundorte": [
         {
@@ -9277,7 +9687,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 90,
@@ -9338,6 +9747,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der X-Beitrag beschreibt BoundProof als prüfbaren Nachweis für Agentensignaturen und fordert einen sorgfältigen Umgang mit Schlüsselwiderruf, ohne konkrete Testergebnisse zu berichten.",
       "fundorte": [
         {
@@ -9384,7 +9795,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 7,
         "beleg": 94,
@@ -9445,6 +9855,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "`rh-model-signing` soll Modellintegrität und Herkunft über Signaturen, Hashvergleiche und Sigstore-Transparenz prüfbar machen; der Bericht dokumentiert Funktionen und Beispiele, aber keinen unabhängigen Wirksamkeitsnachweis.",
       "fundorte": [
         {
@@ -9488,21 +9900,6 @@
           36,
           3,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          100,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -9566,6 +9963,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag skizziert einen HTTPS-Endpunkt zur Verifikation von App-Store-Benachrichtigungen und erklärt, wie sich Testmeldungen über Apples API anfordern und prüfen lassen.",
       "fundorte": [
         {
@@ -9610,21 +10023,6 @@
           6,
           2,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 8,
-        "verteilung": [
-          64,
-          26,
-          2,
-          4,
-          3,
-          0,
-          1,
-          0
         ]
       },
       "jev": {
@@ -9687,6 +10085,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 8,
+        "verteilung": [
+          64,
+          26,
+          2,
+          4,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 43,
+        "beleg3": 61,
+        "verteilung": [
+          13,
+          15,
+          11,
+          18,
+          16,
+          8,
+          9,
+          10
+        ]
+      },
       "tldr_de": "Der Auszug erläutert Ziele und allgemeine Grundsätze des chinesischen Cybersicherheitsgesetzes samt Hinweis auf KI-bezogene Änderungen von 2025, enthält aber nur die Einleitung und Artikel 1 bis 5.",
       "fundorte": [
         {
@@ -9733,7 +10161,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 16,
@@ -9794,6 +10221,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht empfiehlt freiwillige Sicherheitspraktiken für Vorfälle mit SI-Agenten und betont, dass Überwachung, Eindämmung, Wiederherstellung und Meldung noch offene Forschungsfragen enthalten.",
       "fundorte": [
         {
@@ -9840,7 +10269,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 96,
@@ -9901,6 +10329,8 @@
           4
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "C2PA Provenance soll Herkunft, Bestandteile und KI-Einsatz von Musik kryptografisch nachvollziehbar machen; der Bericht beschreibt das Konzept, belegt seine praktische Wirksamkeit aber nicht.",
       "fundorte": [
         {
@@ -9945,21 +10375,6 @@
           9,
           3,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 2,
-        "verteilung": [
-          72,
-          23,
-          3,
-          1,
-          1,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -10022,6 +10437,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 2,
+        "verteilung": [
+          72,
+          23,
+          3,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Ein Kill Switch für KI-Agenten ist laut Bericht erst dann wirksam, wenn er alle Ausführungswege erfasst und seine Eindämmung unter realistischen Fehlerbedingungen geprüft wird.",
       "fundorte": [
         {
@@ -10068,7 +10499,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 69,
@@ -10129,6 +10559,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der bereitgestellte Regeltext beschreibt, welche schädlichen Anfragen ein KI-System ablehnen oder nur auf hoher Ebene beantworten soll, belegt aber nicht die praktische Umsetzung dieser Vorgaben.",
       "fundorte": [
         {
@@ -10175,7 +10607,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 2,
@@ -10222,6 +10653,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropics vorläufiger Prospekt berichtet starkes Umsatzwachstum, erhebliche Risiken und weitreichende Gründer- und Trust-Kontrolle; die vorliegenden Notizen enthalten zahlreiche Textlücken und offene Beträge.",
       "fundorte": [
         {
@@ -10268,7 +10701,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 2,
@@ -10315,6 +10747,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die bereitgestellten Abschnittsnotizen berichten von koordinierter Agentenaktivität und einem Angriff auf Hugging Face, wobei METR die Ergebnisse wegen Datenlücken und methodischer Unsicherheiten mit Vorbehalten versieht.",
       "fundorte": [
         {
@@ -10361,7 +10795,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 71,
@@ -10422,6 +10855,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der bereitgestellte Quelltext ist eine Grok-4-Prompt-Vorlage mit Verhaltensregeln und Produktbehauptungen, deren Umsetzung und Richtigkeit darin nicht unabhängig belegt werden.",
       "fundorte": [
         {
@@ -10464,21 +10899,6 @@
           52,
           35,
           3,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          95,
-          5,
-          0,
-          0,
-          0,
-          0,
           0,
           0
         ]
@@ -10543,6 +10963,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          95,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Autor empfiehlt für ein RAG mit Rechtsdokumenten sorgfältige Struktur- und Versionsaufbereitung, artikelweise Chunks mit Kontext sowie gefilterte Vektorsuche mit nachgeschaltetem Reranking, stellt dies aber als noch ausbaufähigen Ansatz ohne systematische Evaluation dar.",
       "fundorte": [
         {
@@ -10589,7 +11025,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 20,
@@ -10650,6 +11085,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Auszug verbindet Altmans behauptete Warnung vor einer offenen Veröffentlichung eines leistungsfähigen OpenAI-Modells mit unbelegten Kommentarkritiken an der freiwilligen Sicherheitsaufsicht.",
       "fundorte": [
         {
@@ -10693,21 +11130,6 @@
           32,
           4,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 2,
-        "verteilung": [
-          59,
-          35,
-          4,
-          1,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -10771,6 +11193,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 2,
+        "verteilung": [
+          59,
+          35,
+          4,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag empfiehlt, KI-Souveränität anhand von Kontrolle über Rechenleistung, Daten, Modelle und Wechselmöglichkeiten zu prüfen, statt sie allein am Serverstandort oder an offenen Modellgewichten festzumachen.",
       "fundorte": [
         {
@@ -10814,21 +11252,6 @@
           30,
           5,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 2,
-        "beleg3": 5,
-        "verteilung": [
-          60,
-          29,
-          6,
-          3,
-          2,
-          0,
-          0,
           0
         ]
       },
@@ -10892,6 +11315,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 5,
+        "verteilung": [
+          60,
+          29,
+          6,
+          3,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht empfiehlt, die Chancen und Risiken des KI-Datenscrapings mit einer Kombination aus Recht, Verträgen, Technik, Verhaltenskodizes und Bildung anzugehen.",
       "fundorte": [
         {
@@ -10933,21 +11372,6 @@
           12,
           56,
           12,
-          1,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 10,
-        "beleg3": 21,
-        "verteilung": [
-          40,
-          31,
-          8,
-          11,
-          8,
           1,
           1,
           0
@@ -11013,6 +11437,36 @@
           6
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 21,
+        "verteilung": [
+          40,
+          31,
+          8,
+          11,
+          8,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 19,
+        "verteilung": [
+          37,
+          30,
+          14,
+          13,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Die CAI stellt ein noch unvollständiges Verzeichnis marktreifer Content-Credentials-Anwendungen vor, das laut Bericht ein breiteres Bild als die Liste formal C2PA-konformer Implementierungen bieten soll.",
       "fundorte": [
         {
@@ -11059,7 +11513,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 64,
@@ -11120,6 +11573,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag empfiehlt Bands, menschliche Musikproduktion mit einer überprüfbaren Dokumentation zu belegen, besonders mit Session-Dateien, klaren Credits und gefilmten Live-Aufnahmen; ein einzelner Test oder Plattformhinweis reiche dafür nicht.",
       "fundorte": [
         {
@@ -11166,7 +11621,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 36,
@@ -11227,6 +11681,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der AViD-Workshop untersuchte, wie KI-Systeme trotz Geheimhaltung überprüfbar werden können; die Ansätze entwickeln sich weiter, sind laut Bericht aber vielfach noch nicht für den großmaßstäblichen Einsatz bereit.",
       "fundorte": [
         {
@@ -11273,7 +11729,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 4,
@@ -11334,6 +11789,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Frontier Model Forum skizziert grundlegende, teils vorläufige Sicherheitspraktiken für leistungsfähige KI-Systeme und betont, dass etablierte Cybersicherheit durch speziell angepasste Maßnahmen ergänzt werden sollte.",
       "fundorte": [
         {
@@ -11380,7 +11837,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 60,
@@ -11441,6 +11897,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAIs Bericht beschreibt Soras Fähigkeiten und Schutzmaßnahmen, nennt deren Testwerte, räumt aber Umgehungsmöglichkeiten und Grenzen ein, ohne eine unabhängige Bestätigung der Wirksamkeit vorzulegen.",
       "fundorte": [
         {
@@ -11483,21 +11941,6 @@
           2,
           4,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 2,
-        "verteilung": [
-          68,
-          26,
-          4,
-          1,
-          1,
-          0,
           0,
           0
         ]
@@ -11562,6 +12005,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 2,
+        "verteilung": [
+          68,
+          26,
+          4,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "METR bewertet Claude Opus 5.5 als schrittweise Verbesserung, die Forschung wahrscheinlich etwas stärker beschleunigt als Fable 5.1, aber weder AI R&D vollständig automatisiert noch nachweislich dramatisch KI-beschleunigt entwickelt wurde.",
       "fundorte": [
         {
@@ -11608,7 +12067,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 4,
@@ -11669,6 +12127,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Autor deutet mehrere Sicherheitsvorfälle als frühe Warnzeichen für mögliche, durch KI und Marktgeschwindigkeit verstärkte Finanzstörungen, betont aber den vorläufigen und unsicheren Charakter seiner Einschätzung.",
       "fundorte": [
         {
@@ -11715,7 +12175,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 89,
@@ -11776,6 +12235,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic zufolge kann Claude Mythos Preview Schwachstellen und Exploits deutlich besser automatisieren; weil die meisten Funde noch ungepatcht sind, veröffentlicht der Bericht nur ausgewählte Belege und plädiert für koordinierte, schnellere Verteidigungsmaßnahmen.",
       "fundorte": [
         {
@@ -11822,7 +12283,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 41,
@@ -11883,6 +12343,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Nur ein Auszug: Laut dem X-Beitrag umfasst die zitierte KI-Leitlinie neben der Meldung eines Vorfalls auch Beweissicherung, Rekonstruktion, Ursachenanalyse und bessere Kontrollen.",
       "fundorte": [
         {
@@ -11929,7 +12391,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 44,
@@ -11990,6 +12451,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Artikel 34 verpflichtet Anbieter sehr großer Online-Dienste zu regelmäßigen, umfassenden Risikobewertungen und zur dreijährigen Aufbewahrung ihrer Nachweise.",
       "fundorte": [
         {
@@ -12036,7 +12499,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 51,
@@ -12097,6 +12559,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag präsentiert eine ausdrücklich vorläufige, aus Modellantworten rekonstruierte Charter für Muse Spark Open, deren Passagen Pflichten gegenüber Menschheit und Nutzern sowie Regeln für Begründungen, Korrigierbarkeit und Ermessensspielraum beschreiben.",
       "fundorte": [
         {
@@ -12143,7 +12607,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 47,
@@ -12204,6 +12667,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Auf Basis von Fallstudien aus 18 Organisationen empfiehlt PAI mehr Kontext, Bildung, Schutzverfahren, transparente Regeln und Einwilligung beim Einsatz synthetischer Medien; die daraus gezogenen Lehren beruhen auf einer begrenzten Stichprobe.",
       "fundorte": [
         {
@@ -12247,21 +12712,6 @@
           29,
           3,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          69,
-          29,
-          1,
-          1,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -12311,6 +12761,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          69,
+          29,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Kaspersky berichtet über KI-Leitlinien und Schulungen für Beschäftigte und externe Gruppen; die Angaben, darunter eine Abschlussquote von über 95 Prozent, werden im Text nicht unabhängig überprüft.",
       "fundorte": [
         {
@@ -12357,7 +12823,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 10,
@@ -12418,6 +12883,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht argumentiert, dass die geheime, offiziell freiwillige KI-Regelung der Trump-Regierung faktisch einer Lizenzierung nahekomme und wesentliche Fragen zu Kriterien, Prüfungen und Zugang offenlasse.",
       "fundorte": [
         {
@@ -12464,7 +12931,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 51,
@@ -12525,6 +12991,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI beschreibt ein Werkzeug und eine API, die Bilder und Audiodateien auf bestimmte Herkunftssignale seiner Werkzeuge prüfen.",
       "fundorte": [
         {
@@ -12568,21 +13036,6 @@
           30,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          53,
-          43,
-          2,
-          2,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -12646,6 +13099,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          53,
+          43,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 8,
+        "verteilung": [
+          60,
+          26,
+          6,
+          5,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug nennt sechs mögliche vertrauensbildende Maßnahmen gegen Sicherheitsrisiken von Foundation Models, liefert aber keine Details zu ihrer Umsetzung oder Wirksamkeit.",
       "fundorte": [
         {
@@ -12692,7 +13175,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 32,
@@ -12753,6 +13235,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic fordert strengere Sicherheitspraktiken und mehr staatlich-industrielle Zusammenarbeit für Spitzen-KI und erklärt, diese Maßnahmen selbst schrittweise umzusetzen.",
       "fundorte": [
         {
@@ -12799,7 +13283,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 69,
@@ -12860,6 +13343,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic will mit einem für Lesende unsichtbaren statistischen Textmuster Claudes mögliche Mitwirkung erkennbar machen, betont aber, dass die Methode nur Wahrscheinlichkeiten liefert und bei wenig freier Wortwahl an Grenzen stößt.",
       "fundorte": [
         {
@@ -12903,21 +13388,6 @@
           6,
           0,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 17,
-        "beleg3": 21,
-        "verteilung": [
-          39,
-          28,
-          12,
-          4,
-          15,
-          0,
-          2,
           0
         ]
       },
@@ -12981,6 +13451,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 17,
+        "beleg3": 21,
+        "verteilung": [
+          39,
+          28,
+          12,
+          4,
+          15,
+          0,
+          2,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 21,
+        "beleg3": 41,
+        "verteilung": [
+          20,
+          21,
+          18,
+          20,
+          11,
+          4,
+          4,
+          2
+        ]
+      },
       "tldr_de": "Eine begrenzte Medienanalyse beschreibt verbreitete Missbrauchsmuster generativer KI und mögliche Schutzmaßnahmen, erlaubt aber keine repräsentative Aussage über das Ausmaß des Missbrauchs.",
       "fundorte": [
         {
@@ -13024,21 +13524,6 @@
           26,
           3,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          100,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -13102,6 +13587,22 @@
           0
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der vollständige Bericht zeigt eine vereinfachte, zustandslose OAuth-Clientregistrierung, bei der Clientdaten verschlüsselt in der Client-ID liegen, und hebt die damit verbundenen Anforderungen an Schlüsselverwaltung und spätere Anfragen hervor.",
       "fundorte": [
         {
@@ -13148,7 +13649,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 81,
@@ -13209,6 +13709,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Harwell warnt vor KI-bearbeiteten journalistischen Fotos, weil sie Bilddetails verfälschen oder erfinden könnten; offene Fragen zu Filtern und CBS bleiben unbeantwortet.",
       "fundorte": [
         {
@@ -13252,21 +13754,6 @@
           28,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 14,
-        "beleg3": 19,
-        "verteilung": [
-          43,
-          31,
-          7,
-          5,
-          10,
-          1,
-          3,
           0
         ]
       },
@@ -13316,6 +13803,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 19,
+        "verteilung": [
+          43,
+          31,
+          7,
+          5,
+          10,
+          1,
+          3,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 22,
+        "beleg3": 43,
+        "verteilung": [
+          20,
+          23,
+          14,
+          21,
+          11,
+          5,
+          4,
+          2
+        ]
+      },
       "tldr_de": "Die Seite skizziert Kennzeichnungs- und Informationspflichten für Anbieter und Betreiber von KI, nennt Aufsicht, Sanktionen und Übergangsregeln und verweist für Details auf Kommissionsleitlinien.",
       "fundorte": [
         {
@@ -13359,21 +13876,6 @@
           25,
           4,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          87,
-          6,
-          1,
-          5,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -13437,6 +13939,22 @@
           0
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          87,
+          6,
+          1,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag zeigt anhand knapper Swift-Beispiele, wie CryptoKit Hashes, Authentifizierungscodes, Verschlüsselung, Signaturen, gemeinsame Schlüssel und HPKE-Nachrichten verarbeitet.",
       "fundorte": [
         {
@@ -13479,21 +13997,6 @@
           36,
           22,
           2,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 8,
-        "verteilung": [
-          49,
-          40,
-          3,
-          4,
-          2,
-          1,
           1,
           0
         ]
@@ -13558,6 +14061,22 @@
           5
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 8,
+        "verteilung": [
+          49,
+          40,
+          3,
+          4,
+          2,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Kaliforniens SB 53 führt Transparenz-, Sicherheitsmelde- und Beschäftigtenschutzpflichten für Entwickler besonders leistungsfähiger KI ein und sieht CalCompute nur vorbehaltlich einer Mittelbewilligung vor.",
       "fundorte": [
         {
@@ -13601,21 +14120,6 @@
           22,
           5,
           3,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          83,
-          15,
-          1,
-          1,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -13665,6 +14169,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          83,
+          15,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 15,
+        "beleg3": 28,
+        "verteilung": [
+          37,
+          25,
+          10,
+          13,
+          7,
+          3,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Der Abstract-Auszug zufolge soll TrFP LLMs anhand ihrer Repräsentationsverläufe kompakt und robust auf Herkunft prüfbar machen; Details zur unabhängigen Bewertung fehlen.",
       "fundorte": [
         {
@@ -13708,21 +14242,6 @@
           26,
           3,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          99,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -13786,6 +14305,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          99,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der vollständige Bericht erläutert Sparkle-Updates über Supabase und nennt als Grenzen unter anderem den Rollout-Bypass für anonyme Anfragen und die einzige, jeweils überschriebene Appcast-Datei.",
       "fundorte": [
         {
@@ -13828,21 +14363,6 @@
           23,
           24,
           4,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 8,
-        "verteilung": [
-          57,
-          29,
-          6,
-          4,
-          3,
-          0,
           1,
           0
         ]
@@ -13907,6 +14427,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 8,
+        "verteilung": [
+          57,
+          29,
+          6,
+          4,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 26,
+        "beleg3": 43,
+        "verteilung": [
+          24,
+          21,
+          12,
+          17,
+          12,
+          5,
+          6,
+          3
+        ]
+      },
       "tldr_de": "Der Beitrag zufolge markiert Grok bestimmte Bilder und API-Texte, lässt aber viele Ausgaben und Metadaten undokumentiert; ein fehlendes Wasserzeichen belegt daher nicht, dass kein Grok verwendet wurde.",
       "fundorte": [
         {
@@ -13950,21 +14500,6 @@
           25,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          98,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -14028,6 +14563,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          98,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Artikel führt App Attest und beispielhafte iOS- und Serverprüfungen vor, behauptet Sicherheitsvorteile, belegt deren Umfang aber nicht unabhängig.",
       "fundorte": [
         {
@@ -14074,7 +14625,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 5,
@@ -14135,6 +14685,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut Bericht wollen iberoamerikanische Länder freiwillig bei Daten, regional angepasster KI und Rechenkapazitäten zusammenarbeiten, unter Wahrung nationaler Kontrolle und menschenrechtlicher Leitlinien.",
       "fundorte": [
         {
@@ -14181,7 +14733,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 41,
@@ -14242,6 +14793,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug aus Kapitel IX legt fest, wann der Sicherheitsrat öffentlich tagt und wie Sitzungsprotokolle berichtigt, genehmigt, veröffentlicht oder vertraulich behandelt werden.",
       "fundorte": [
         {
@@ -14288,7 +14841,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 52,
@@ -14349,6 +14901,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "CAIS präsentiert Beispiel-Icons zur Kennzeichnung synthetischer Medien, deren Verlässlichkeit laut Bericht von den Erkennungs- und Moderationssystemen der Plattformen abhängt.",
       "fundorte": [
         {
@@ -14395,7 +14949,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 35,
@@ -14456,6 +15009,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut Bericht läuft die Verifikation großen dezentralen KI-Trainings off-chain, während die Blockchain zusätzliche Koordinations- und Abrechnungskosten verursacht; Aussagen zu Forschungslücken und Energie bleiben wegen begrenzter Suche und fehlender Messungen vorläufig.",
       "fundorte": [
         {
@@ -14502,7 +15057,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 71,
@@ -14563,6 +15117,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht schildert, wie sichtbare KI-Kennzeichnungen für Werbung zunehmen, aber durch uneinheitliche Regeln, lückenhafte Erkennung und praktische Umsetzungsprobleme begrenzt bleiben.",
       "fundorte": [
         {
@@ -14607,21 +15163,6 @@
           2,
           1,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 23,
-        "beleg3": 30,
-        "verteilung": [
-          44,
-          18,
-          8,
-          7,
-          16,
-          2,
-          4,
-          1
         ]
       },
       "jev": {
@@ -14684,6 +15225,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 23,
+        "beleg3": 30,
+        "verteilung": [
+          44,
+          18,
+          8,
+          7,
+          16,
+          2,
+          4,
+          1
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht gibt es breite öffentliche Prüfungen für KI-Kennzeichnungen in Medien, aber keinen öffentlichen Text-Wasserzeichen-Checker; ein fehlender Fund beweist weder menschliche Urheberschaft noch die Wahrheit eines Inhalts.",
       "fundorte": [
         {
@@ -14730,7 +15287,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 12,
@@ -14791,6 +15347,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die iberoamerikanischen Staaten formulieren gemeinsame KI-Leitlinien und planen freiwillige regionale Zusammenarbeit, doch zentrale Vorhaben stehen noch aus; Argentinien und Paraguay distanzieren sich von der Erklärung.",
       "fundorte": [
         {
@@ -14837,7 +15395,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 8,
@@ -14898,6 +15455,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der nur auszugsweise vorliegende X-Beitrag warnt vor laut Autor möglicherweise verborgenen KI-Fähigkeiten in Modellgewichten, ohne die angekündigten Prüfwerkzeuge im Auszug zu zeigen.",
       "fundorte": [
         {
@@ -14941,21 +15500,6 @@
           23,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          85,
-          13,
-          1,
-          1,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -15019,6 +15563,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          85,
+          13,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 15,
+        "beleg3": 29,
+        "verteilung": [
+          35,
+          27,
+          9,
+          14,
+          7,
+          3,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Übersetzung eines taiwanischen Gesetzentwurfs von 2018 zum Schutz sensibler Technologie; die Begründungen der Antragsteller sind nicht unabhängig geprüft, und der Bericht nennt keinen späteren Gesetzesstatus.",
       "fundorte": [
         {
@@ -15062,21 +15636,6 @@
           21,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 6,
-        "verteilung": [
-          69,
-          21,
-          4,
-          3,
-          3,
-          0,
-          0,
           0
         ]
       },
@@ -15140,6 +15699,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 6,
+        "verteilung": [
+          69,
+          21,
+          4,
+          3,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht müssen KI-Produktbilder sichtbar als Deepfakes gekennzeichnet werden können, wenn sie das Produkt irreführend verändern; die Kommissionsleitlinien sind jedoch nicht bindend.",
       "fundorte": [
         {
@@ -15186,7 +15761,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 2,
@@ -15247,6 +15821,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Papier sieht in bestehenden und geplanten internationalen Normen eine Grundlage für vertrauenswürdigere Frontier-AI-Prüfungen, betont aber, dass wichtige Arbeiten noch laufen und Standards freiwillig sind.",
       "fundorte": [
         {
@@ -15288,21 +15864,6 @@
           15,
           30,
           22,
-          1,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 7,
-        "beleg3": 13,
-        "verteilung": [
-          55,
-          28,
-          4,
-          6,
-          5,
           1,
           1,
           0
@@ -15354,6 +15915,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 13,
+        "verteilung": [
+          55,
+          28,
+          4,
+          6,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 11,
+        "beleg3": 22,
+        "verteilung": [
+          43,
+          27,
+          8,
+          11,
+          5,
+          2,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Ein freiwilliger EU-Kodex soll die Umsetzung verbindlicher Kennzeichnungspflichten für KI-Inhalte erleichtern, ersetzt aber weder den AI Act noch dessen Leitlinien.",
       "fundorte": [
         {
@@ -15400,7 +15991,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 41,
@@ -15461,6 +16051,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht sieht bei CAISSI eine unklare Berichtslinie und begrenzte öffentliche Prüfbarkeit, gestützt auf Medienberichte und NIST-Einträge, die kein vollständiges Bild der internen Arbeit liefern.",
       "fundorte": [
         {
@@ -15507,7 +16099,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 37,
@@ -15568,6 +16159,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 14,
+        "verteilung": [
+          43,
+          34,
+          9,
+          7,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht sieht in KI und Blockchain Chancen für ein sichereres und stärker personalisiertes Gesundheitswesen, liefert dafür aber keine eigenen empirischen Nachweise und betont offene ethische, rechtliche und datenschutzbezogene Fragen.",
       "fundorte": [
         {
@@ -15614,7 +16221,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 34,
@@ -15675,6 +16281,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die chinesische Verordnung verpflichtet Betreiber kritischer Informationsinfrastrukturen zu umfassenden Sicherheitsmaßnahmen und regelt behördliche Aufsicht sowie Sanktionen, ohne im Bericht Angaben zur Umsetzung oder heutigen Rechtslage zu machen.",
       "fundorte": [
         {
@@ -15721,7 +16329,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 74,
@@ -15782,6 +16389,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 19,
+        "beleg3": 22,
+        "verteilung": [
+          51,
+          18,
+          9,
+          3,
+          16,
+          1,
+          2,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI schildert eigene Schutzmaßnahmen und erste Nutzungszahlen für das Wahljahr 2024, deren Wirksamkeit der Bericht nicht unabhängig überprüft.",
       "fundorte": [
         {
@@ -15828,7 +16451,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 10,
@@ -15889,6 +16511,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          55,
+          39,
+          2,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag stellt Leitlinien und Initiativen für KI- und Blockchain-Governance vor und argumentiert, Regulierung könne Risiken mindern; das angekündigte Interview mit CZ ist im bereitgestellten Text nicht wiedergegeben.",
       "fundorte": [
         {
@@ -15932,21 +16570,6 @@
           19,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 7,
-        "verteilung": [
-          56,
-          32,
-          5,
-          4,
-          3,
-          0,
-          0,
           0
         ]
       },
@@ -16010,6 +16633,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 7,
+        "verteilung": [
+          56,
+          32,
+          5,
+          4,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Debian erlaubt KI-Beiträge ohne Kennzeichnungspflicht; der Autor sieht darin vor allem ein Risiko für die spätere Nachvollziehbarkeit, erkennt aber die Grenzen durchsetzbarer Verbote an.",
       "fundorte": [
         {
@@ -16056,7 +16695,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 16,
@@ -16117,6 +16755,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug kündigt PAI’s Fallbeispiele zur Governance synthetischer Medien an, enthält aber weder die versprochenen sieben Praktiken noch die konkreten Analysen.",
       "fundorte": [
         {
@@ -16159,21 +16799,6 @@
           43,
           7,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          77,
-          21,
-          1,
-          1,
-          0,
-          0,
           0,
           0
         ]
@@ -16238,6 +16863,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          77,
+          21,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 11,
+        "verteilung": [
+          55,
+          28,
+          6,
+          7,
+          2,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "DeepMind kündigt eine doppelt verblindete Prüfung eines Gemini-Modells an, doch der bereitgestellte Beitrag nennt keine konkreten Ergebnisse oder technischen Details.",
       "fundorte": [
         {
@@ -16284,7 +16939,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 9,
@@ -16345,6 +16999,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Unternehmen sollen nachweisen, dass sie KI-Agenten samt allen Zugängen stoppen und ohne wiederkehrende unzulässige Rechte sicher neu starten können.",
       "fundorte": [
         {
@@ -16391,7 +17047,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 4,
@@ -16452,6 +17107,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vollständige Bericht empfiehlt, Agentenrechte, Freigaben und Protokolle eng zu kontrollieren, weist aber darauf hin, dass seine Berechtigungsmatrix nur ein Vorschlag ist und CodeGeeks keine agentenspezifischen Testergebnisse oder Zertifizierungen veröffentlicht.",
       "fundorte": [
         {
@@ -16498,7 +17155,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 9,
@@ -16559,6 +17215,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der bereitgestellte Auszug empfiehlt transparente Angaben zu Nutzung, Verteilung und Pflege von ML-Datensätzen und benennt dabei praktische, rechtliche und historische Zielkonflikte; es liegt nur ein Auszug vor.",
       "fundorte": [
         {
@@ -16605,7 +17263,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 29,
@@ -16666,6 +17323,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Whitepaper fordert gemeinsame Standards für identifizierbare, kontrolliert delegierende KI-Agenten, da heutige Verfahren vor allem einfache, organisationsinterne Fälle abdecken.",
       "fundorte": [
         {
@@ -16712,7 +17371,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 26,
@@ -16773,6 +17431,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI stellt die Model Spec als öffentliches, veränderbares Zielbild für Modellverhalten dar, räumt Umsetzungslücken ein und beschreibt Training, Rückmeldungen und Tests als Wege zur Annäherung.",
       "fundorte": [
         {
@@ -16816,21 +17476,6 @@
           13,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 11,
-        "verteilung": [
-          55,
-          29,
-          5,
-          5,
-          4,
-          1,
-          1,
           0
         ]
       },
@@ -16894,6 +17539,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 11,
+        "verteilung": [
+          55,
+          29,
+          5,
+          5,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht gibt es Wasserzeichen für manche KI-Texte, aber keinen öffentlichen Textprüfer der betrachteten Anbieter, und weder ein Treffer noch ein fehlendes Signal beweist, wer einen Text verfasst hat.",
       "fundorte": [
         {
@@ -16940,7 +17601,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -17001,6 +17661,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          90,
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Astra for Law verbindet GPT‑6 Astra mit juristischer Recherche und Kanzleiwerkzeugen; die von OpenAI berichteten Leistungsgewinne stammen aus einem begrenzten Benchmark, und der API-Zugang soll erst folgen.",
       "fundorte": [
         {
@@ -17044,21 +17720,6 @@
           17,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          61,
-          34,
-          2,
-          2,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -17122,6 +17783,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          61,
+          34,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "METR beschreibt Transparenz- und Unabhängigkeitsmaßnahmen für seine Risikobewertungen, räumt aber ein, dass freiwilliger Unternehmenszugang, mögliche Schwärzungen und ungeprüfte Informationen die öffentliche Evidenz begrenzen.",
       "fundorte": [
         {
@@ -17168,7 +17845,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 5,
@@ -17229,6 +17905,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Autor plädiert dafür, dass Länder des Globalen Südens eigene KI-Prüfkapazitäten und mehr Einfluss auf internationale Standards aufbauen, um deren mögliche Marktwirkung mitzugestalten.",
       "fundorte": [
         {
@@ -17275,7 +17953,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 12,
@@ -17336,6 +18013,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht zufolge verbreiten sich KI-Inhalte schneller, als Wahlregeln zuverlässig klären und durchsetzen können, was Deepfake, zulässige politische Äußerung oder Täuschung ist.",
       "fundorte": [
         {
@@ -17378,21 +18057,6 @@
           46,
           17,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          55,
-          40,
-          1,
-          3,
-          1,
-          0,
           0,
           0
         ]
@@ -17457,6 +18121,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          55,
+          40,
+          1,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 43,
+        "beleg3": 62,
+        "verteilung": [
+          12,
+          14,
+          12,
+          19,
+          17,
+          8,
+          9,
+          9
+        ]
+      },
       "tldr_de": "Der Auszug skizziert sechs ethische Leitlinien für KI in China, lässt die angekündigten Einzelregeln aus und hält fest, dass keine Strafen oder Durchsetzungsregeln genannt werden.",
       "fundorte": [
         {
@@ -17499,21 +18193,6 @@
           56,
           11,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 9,
-        "verteilung": [
-          75,
-          13,
-          3,
-          6,
-          3,
-          0,
           0,
           0
         ]
@@ -17578,6 +18257,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 9,
+        "verteilung": [
+          75,
+          13,
+          3,
+          6,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Artikel vergleicht Hedera, Bitcoin und Ethereum für Transaktionen und KI, empfiehlt eine bedarfsabhängige Auswahl und liefert für seine Leistungs- und Umweltbehauptungen keine ausführliche Messmethodik.",
       "fundorte": [
         {
@@ -17620,21 +18315,6 @@
           43,
           16,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          61,
-          34,
-          2,
-          2,
-          1,
-          0,
           0,
           0
         ]
@@ -17699,6 +18379,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          61,
+          34,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "KI kann laut Bericht Cyberrisiken verstärken und die Verteidigung unterstützen; nötig seien sichere Gestaltung, Aufklärung und internationale Zusammenarbeit.",
       "fundorte": [
         {
@@ -17745,7 +18441,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 3,
@@ -17806,6 +18501,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 5,
+        "verteilung": [
+          58,
+          33,
+          4,
+          3,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht empfiehlt international entwickelte, einfache und anpassbare Standardlizenzen als möglichen Weg zu verantwortungsvollerem und breiterem KI-Datenzugang, ohne zu behaupten, dass sie allein alle Hindernisse beseitigen.",
       "fundorte": [
         {
@@ -17848,21 +18559,6 @@
           54,
           13,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          69,
-          25,
-          2,
-          3,
-          1,
-          0,
           0,
           0
         ]
@@ -17927,6 +18623,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          69,
+          25,
+          2,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 42,
+        "beleg3": 61,
+        "verteilung": [
+          12,
+          15,
+          12,
+          19,
+          16,
+          8,
+          9,
+          9
+        ]
+      },
       "tldr_de": "Der Bericht ist nur ein Auszug eines chinesischen KI-Ethikentwurfs; die sichtbaren Artikel formulieren Grundsätze und Fördermaßnahmen, während der vollständige Regelungstext laut Webseite als PDF bereitsteht.",
       "fundorte": [
         {
@@ -17968,21 +18694,6 @@
           9,
           37,
           15,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 3,
-        "beleg3": 7,
-        "verteilung": [
-          53,
-          36,
-          4,
-          4,
-          3,
           0,
           0,
           0
@@ -18048,6 +18759,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 7,
+        "verteilung": [
+          53,
+          36,
+          4,
+          4,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "METR berichtet über organisatorische und technische Schutzmaßnahmen für vertrauliche Informationen und nichtöffentliche Modelle; die Angaben sind ein veränderlicher Überblick des Unternehmens mit Stand 17. Februar 2026.",
       "fundorte": [
         {
@@ -18090,21 +18817,6 @@
           45,
           13,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          74,
-          24,
-          1,
-          1,
-          0,
-          0,
           0,
           0
         ]
@@ -18169,6 +18881,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          74,
+          24,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag argumentiert, dass vertrauenswürdige KI offene Standards, überprüfbare Prüfungen und eine risikobasierte Governance braucht, liefert jedoch keine eigenen systematischen Wirksamkeitsnachweise.",
       "fundorte": [
         {
@@ -18215,7 +18943,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 2,
@@ -18276,6 +19003,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          73,
+          25,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der OECD-Beitrag fordert angesichts des Mangels an nutzbaren KI-Daten einen rechtmäßigen, vertrauenswürdigen und fairen Austausch, dessen konkrete Lösungen noch erprobt werden müssen.",
       "fundorte": [
         {
@@ -18317,21 +19060,6 @@
           11,
           47,
           10,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          51,
-          44,
-          2,
-          2,
-          1,
           0,
           0,
           0
@@ -18397,6 +19125,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          51,
+          44,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag sieht HAIP als ausbaufähigen freiwilligen Rahmen für vergleichbare KI-Transparenz, dessen Nutzen bislang vor allem als Potenzial beschrieben wird.",
       "fundorte": [
         {

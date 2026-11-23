@@ -6,6 +6,10 @@ Bericht Q001814 · Quelle cambridge.org · Datum – · [Original öffnen](https
 
 [Alle Berichte](../../../README.de.md) · Daten: [bericht.json](bericht.json)
 
+## Zusammenfassung (von Luna, ungeprüft)
+
+Der bereitgestellte Bericht ist ein Auszug aus einem Buch über konvexe Banditoptimierung, bei der nur verrauschte Funktionswerte und keine Gradienten verfügbar sind. Er stellt Regret, typische algorithmische Zielkonflikte und Annahmen wie eine beschränkte konvexe Menge sowie bedingt subgaussisches Rauschen vor; die Autoren betonen zugleich offene praktische und rechnerische Grenzen.
+
 ## Sammelfragen
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).

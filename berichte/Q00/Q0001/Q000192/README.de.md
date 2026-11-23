@@ -6,12 +6,16 @@ Bericht Q000192 · Quelle x.com · Datum 2026-10-27 · [Original öffnen](https:
 
 [Alle Berichte](../../../README.de.md) · Daten: [bericht.json](bericht.json)
 
+## Zusammenfassung (von Luna, ungeprüft)
+
+Der vorliegende Auszug behauptet, indonesische TNI-Offiziere nähmen im Rahmen einer mit den USA vereinbarten Verteidigungskooperation an Ausbildung an der National Defense University teil, und verweist außerdem auf West Point. Ein Kommentator kritisiert ausgelassene Hinweise auf Sukhoi-Kampfjets und WAICO; der kurze Auszug belegt diese Einwände nicht und erlaubt keine umfassende Einordnung.
+
 ## Sammelfragen
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
-|---|---|---|---|---|---|---|---|
-| [SF-P5](../../../../fragen/SF-P5/) Wie überprüft man, ob Zusagen zwischen Staaten eingehalten werden, auch über Jahre und Regierungswechsel hinweg? | 0 / 0 % | 26 / 86 % | – | 54 / 66 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-O2](../../../../fragen/SF-O2/) Was sollten Regierungen, Labore und Prüfer über ihre Gespräche, Zusagen, Prüfungen und Eingriffe offenlegen? | 0 / 0 % | 0 / 0 % | – | 36 / 47 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-K2](../../../../fragen/SF-K2/) Wie weit gelten KI-Abkommen für Verbündete und Geheimdienste, und wie verhalten sie sich zu bestehenden Rüstungskontrollverträgen und -regimen? | 0 / 0 % | 24 / 62 % | – | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| Frage | clef | Luna | JEV | amos | SubQ | drex | d3-ultra | d3-flash |
+|---|---|---|---|---|---|---|---|---|
+| [SF-P5](../../../../fragen/SF-P5/) Wie überprüft man, ob Zusagen zwischen Staaten eingehalten werden, auch über Jahre und Regierungswechsel hinweg? | 0 / 0 % | 26 / 86 % | 54 / 66 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |
+| [SF-O2](../../../../fragen/SF-O2/) Was sollten Regierungen, Labore und Prüfer über ihre Gespräche, Zusagen, Prüfungen und Eingriffe offenlegen? | 0 / 0 % | 0 / 0 % | 36 / 47 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |
+| [SF-K2](../../../../fragen/SF-K2/) Wie weit gelten KI-Abkommen für Verbündete und Geheimdienste, und wie verhalten sie sich zu bestehenden Rüstungskontrollverträgen und -regimen? | 0 / 0 % | 24 / 62 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |

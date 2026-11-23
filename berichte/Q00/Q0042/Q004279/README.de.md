@@ -6,6 +6,10 @@ Bericht Q004279 · Quelle cisco.com · Datum – · [Original öffnen](https://w
 
 [Alle Berichte](../../../README.de.md) · Daten: [bericht.json](bericht.json)
 
+## Zusammenfassung (von Luna, ungeprüft)
+
+Cisco prognostiziert für 2021 gegenüber 2016 stark steigenden weltweiten IP- und Internetverkehr, mehr mobile Datennutzung und vernetzte Geräte sowie einen größeren Anteil von Video, insbesondere HD und Ultra HD. Auch Anschlussgeschwindigkeiten und Datenverbrauch pro Nutzer sollen zunehmen. Der Bericht enthält Prognosen, erläutert jedoch weder Methode noch Datengrundlage oder Unsicherheiten.
+
 ## Sammelfragen
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).

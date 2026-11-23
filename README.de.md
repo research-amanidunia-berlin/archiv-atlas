@@ -4,7 +4,7 @@
 
 Ein Repo für den Fragen-Atlas von [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/): 44 Sammelfragen, 7924 Berichte, bewertet von mehreren Entscheidungsmodellen. Öffentliche Fassung unter CC BY 4.0 (siehe [LICENSE](LICENSE)).
 
-Bewertete Berichte: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · SubQ 7924 · drex 7924. Exportzeit: [STAND.json](STAND.json).
+Bewertete Berichte: clef 7924 · Luna 7924 · JEV 5667 · amos 7924 · SubQ 7924 · drex 7924 · d3-ultra 5449 · d3-flash 1675. Exportzeit: [STAND.json](STAND.json).
 
 | Ordner | Inhalt |
 |---|---|

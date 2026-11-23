@@ -4,7 +4,7 @@
 
 One repository for the question atlas of [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/): 44 collected questions, 7924 reports, rated by several decision models. Public edition, licensed under CC BY 4.0 (see [LICENSE](LICENSE)).
 
-Rated reports: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · SubQ 7924 · drex 7924. Date of export: [STAND.json](STAND.json).
+Rated reports: clef 7924 · Luna 7924 · JEV 5667 · amos 7924 · SubQ 7924 · drex 7924 · d3-ultra 5449 · d3-flash 1675. Date of export: [STAND.json](STAND.json).
 
 | Folder | Content |
 |---|---|

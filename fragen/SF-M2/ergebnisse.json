@@ -56,11 +56,12 @@
   "stand": {
     "clef": "7924 Berichte",
     "luna": "7924 Berichte",
-    "d3-ultra": "4771 Berichte",
     "jev": "5667 Berichte",
     "amos": "7924 Berichte",
     "subq": "7924 Berichte",
-    "drex": "7924 Berichte"
+    "drex": "7924 Berichte",
+    "d3-ultra": "5449 Berichte",
+    "d3-flash": "1674 Berichte"
   },
   "modelle": [
     {
@@ -70,10 +71,6 @@
     {
       "k": "luna",
       "name": "Luna"
-    },
-    {
-      "k": "d3-ultra",
-      "name": "d3-ultra"
     },
     {
       "k": "jev",
@@ -90,6 +87,14 @@
     {
       "k": "drex",
       "name": "drex"
+    },
+    {
+      "k": "d3-ultra",
+      "name": "d3-ultra"
+    },
+    {
+      "k": "d3-flash",
+      "name": "d3-flash"
     }
   ],
   "auswahl": "clef oder Luna geben den Stufen 3–7 über 50 %",
@@ -130,7 +135,6 @@
           90
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 7,
         "beleg": 100,
@@ -191,6 +195,8 @@
           95
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Memo empfiehlt einen standardisierten, schriftlichen und zunächst freiwilligen US-chinesischen Meldeweg für grenzüberschreitende KI-Vorfälle, dessen Zuständigkeiten und Meldeschwellen noch festzulegen wären.",
       "fundorte": [
         {
@@ -237,7 +243,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 7,
         "beleg": 100,
@@ -298,6 +303,8 @@
           18
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein geplanter China-USA-Meldekanal für KI-Vorfälle wird laut den Autoren nur funktionieren, wenn beide Länder ihre lückenhaften Meldepflichten, Aufsicht und technischen Prüfkapazitäten stärken.",
       "fundorte": [
         {
@@ -344,7 +351,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 99,
@@ -405,6 +411,8 @@
           8
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag fordert überprüfbare gemeinsame Regeln und internationale Zusammenarbeit für Frontier-KI, räumt aber eine Verifizierungslücke und offene Fragen zur globalen Kooperation ein.",
       "fundorte": [
         {
@@ -449,21 +457,6 @@
           23,
           25,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 5,
-        "beleg": 96,
-        "beleg3": 99,
-        "verteilung": [
-          0,
-          0,
-          1,
-          3,
-          13,
-          38,
-          34,
-          11
         ]
       },
       "jev": {
@@ -526,6 +519,36 @@
           33
         ]
       },
+      "d3-ultra": {
+        "stufe": 5,
+        "beleg": 96,
+        "beleg3": 99,
+        "verteilung": [
+          0,
+          0,
+          1,
+          3,
+          13,
+          38,
+          34,
+          11
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 57,
+        "beleg3": 81,
+        "verteilung": [
+          3,
+          6,
+          10,
+          24,
+          22,
+          11,
+          12,
+          12
+        ]
+      },
       "tldr_de": "Die USA und China kündigten laut Bericht einen Warnkanal für KI-Vorfälle an, dessen Auslöser, Empfänger und Folgen noch nicht definiert waren.",
       "fundorte": [
         {
@@ -570,21 +593,6 @@
           2,
           2,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 4,
-        "beleg": 96,
-        "beleg3": 99,
-        "verteilung": [
-          0,
-          0,
-          1,
-          3,
-          42,
-          22,
-          30,
-          2
         ]
       },
       "jev": null,
@@ -633,6 +641,36 @@
           3
         ]
       },
+      "d3-ultra": {
+        "stufe": 4,
+        "beleg": 96,
+        "beleg3": 99,
+        "verteilung": [
+          0,
+          0,
+          1,
+          3,
+          42,
+          22,
+          30,
+          2
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 40,
+        "beleg3": 67,
+        "verteilung": [
+          3,
+          8,
+          22,
+          27,
+          23,
+          7,
+          6,
+          4
+        ]
+      },
       "tldr_de": "Der Bericht schildert neue China-USA-Gespräche und wachsende KI-Sicherheitsinitiativen in China, hält aber sowohl die November-Agenda als auch ein umfassendes chinesisches KI-Gesetz für ungewiss.",
       "fundorte": [
         {
@@ -679,7 +717,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 91,
@@ -740,6 +777,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Essay bewertet die KI-Gespräche zwischen China und den USA 2026 als Fortschritt, dessen praktische Wirkung von gemeinsamen Definitionen, klaren Meldewegen und der Beteiligung technischer Fachleute abhängt.",
       "fundorte": [
         {
@@ -786,21 +825,6 @@
           0
         ]
       },
-      "d3-ultra": {
-        "stufe": 4,
-        "beleg": 79,
-        "beleg3": 95,
-        "verteilung": [
-          0,
-          1,
-          4,
-          16,
-          38,
-          15,
-          22,
-          4
-        ]
-      },
       "jev": null,
       "amos": {
         "stufe": 6,
@@ -845,6 +869,36 @@
           37,
           26,
           19
+        ]
+      },
+      "d3-ultra": {
+        "stufe": 4,
+        "beleg": 79,
+        "beleg3": 95,
+        "verteilung": [
+          0,
+          1,
+          4,
+          16,
+          38,
+          15,
+          22,
+          4
+        ]
+      },
+      "d3-flash": {
+        "stufe": 4,
+        "beleg": 53,
+        "beleg3": 73,
+        "verteilung": [
+          7,
+          8,
+          12,
+          20,
+          22,
+          11,
+          9,
+          11
         ]
       },
       "tldr_de": "Laut den Autoren kann ein US-chinesischer KI-Meldekanal nur funktionieren, wenn beide Länder ihre nationalen Meldepflichten, Zuständigkeiten und Prüfkapazitäten stärken.",
@@ -903,21 +957,6 @@
           20,
           3,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 4,
-        "beleg": 78,
-        "beleg3": 93,
-        "verteilung": [
-          0,
-          1,
-          6,
-          15,
-          62,
-          7,
-          8,
-          1
         ]
       },
       "jev": {
@@ -980,6 +1019,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 4,
+        "beleg": 78,
+        "beleg3": 93,
+        "verteilung": [
+          0,
+          1,
+          6,
+          15,
+          62,
+          7,
+          8,
+          1
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht ist begrenzte technische Kooperation zwischen China und den USA bei KI-Vorfällen und Tests wahrscheinlicher als ein verbindliches Abkommen zu Spitzenmodellen.",
       "fundorte": [
         {
@@ -1026,7 +1081,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 95,
@@ -1087,6 +1141,8 @@
           8
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag plädiert dafür, dass die USA, China und Mittelmächte trotz fortdauernder KI-Konkurrenz technische Zusammenarbeit organisieren, um autonome KI-Risiken einzudämmen und Schwachstellen schneller zu beheben.",
       "fundorte": [
         {
@@ -1130,21 +1186,6 @@
           57,
           14,
           13,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 14,
-        "beleg3": 29,
-        "verteilung": [
-          24,
-          27,
-          20,
-          15,
-          12,
-          1,
-          1,
           0
         ]
       },
@@ -1208,6 +1249,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 29,
+        "verteilung": [
+          24,
+          27,
+          20,
+          15,
+          12,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht gibt es erste Maßnahmen des Europäischen Demokratieschilds, doch Krisenprotokoll, gesicherte Finanzierung und ein klares Mandat fehlen weiterhin.",
       "fundorte": [
         {
@@ -1251,21 +1308,6 @@
           74,
           5,
           4,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 3,
-        "beleg": 21,
-        "beleg3": 50,
-        "verteilung": [
-          3,
-          20,
-          27,
-          29,
-          19,
-          0,
-          2,
           0
         ]
       },
@@ -1329,6 +1371,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 3,
+        "beleg": 21,
+        "beleg3": 50,
+        "verteilung": [
+          3,
+          20,
+          27,
+          29,
+          19,
+          0,
+          2,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag sieht im AISI Network eine Chance für globale KI-Sicherheitskooperation, fordert dafür aber tragfähige Koordination, inklusive Partnerschaften und Schutz vor politischen wie industriellen Abhängigkeiten.",
       "fundorte": [
         {
@@ -1372,21 +1430,6 @@
           55,
           15,
           9,
-          1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 4,
-        "beleg": 90,
-        "beleg3": 94,
-        "verteilung": [
-          0,
-          1,
-          5,
-          4,
-          72,
-          7,
-          10,
           1
         ]
       },
@@ -1450,6 +1493,36 @@
           3
         ]
       },
+      "d3-ultra": {
+        "stufe": 4,
+        "beleg": 90,
+        "beleg3": 94,
+        "verteilung": [
+          0,
+          1,
+          5,
+          4,
+          72,
+          7,
+          10,
+          1
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 36,
+        "beleg3": 62,
+        "verteilung": [
+          8,
+          11,
+          19,
+          26,
+          22,
+          6,
+          4,
+          4
+        ]
+      },
       "tldr_de": "China und die USA könnten bei KI-Risikoregeln und Vorfallmeldungen zusammenarbeiten, doch Entwicklungsgrenzen und globale Zuständigkeiten bleiben umstritten; Ergebnisse der geplanten Novembergespräche lagen im Bericht noch nicht vor.",
       "fundorte": [
         {
@@ -1496,7 +1569,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 84,
@@ -1557,6 +1629,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Paris Call formuliert internationale Zusagen zu Modellprüfungen, Rechenschaft und Frühwarnung für fortgeschrittene KI; die Erklärung belegt keine bereits erfolgte Umsetzung.",
       "fundorte": [
         {
@@ -1603,7 +1677,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 87,
@@ -1664,6 +1737,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Bessent wirbt laut Reuters für begrenzte US-China-Kooperation bei KI-Risiken und Handel, ohne die grundlegenden Differenzen und den Wettbewerb zwischen beiden Ländern auszublenden.",
       "fundorte": [
         {
@@ -1716,7 +1791,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 4,
@@ -1763,6 +1837,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die Pariser Erklärung setzt auf gemeinsame Bewertungen, Verantwortung über den gesamten KI-Lebenszyklus und schnelleren Informationsaustausch, legt aber keine konkreten Fristen oder einheitlichen Durchsetzungsregeln fest.",
       "fundorte": [
         {
@@ -1815,7 +1891,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 79,
@@ -1876,6 +1951,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Kommentar plädiert für verbindliche internationale KI-Rechenschaftsregeln und schlägt Indien als mögliche Brücke zwischen konkurrierenden Governance-Blöcken vor.",
       "fundorte": [
         {
@@ -1922,7 +1999,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 39,
@@ -1983,6 +2059,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Paris Call enthält Sicherheitszusagen für fortgeschrittene KI, bleibt laut der mitunterzeichnenden CeSIA jedoch bei Risikoschwellen, Prüfzugang, Behördenbefugnissen und Fristen lückenhaft.",
       "fundorte": [
         {
@@ -2026,21 +2104,6 @@
           62,
           8,
           4,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 8,
-        "beleg3": 28,
-        "verteilung": [
-          5,
-          46,
-          21,
-          20,
-          8,
-          0,
-          0,
           0
         ]
       },
@@ -2090,6 +2153,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 8,
+        "beleg3": 28,
+        "verteilung": [
+          5,
+          46,
+          21,
+          20,
+          8,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 30,
+        "beleg3": 56,
+        "verteilung": [
+          11,
+          15,
+          18,
+          26,
+          20,
+          4,
+          3,
+          3
+        ]
+      },
       "tldr_de": "Ein Veranstalterbericht über ein WAIC-Forum, das angesichts rasch wachsender KI-Fähigkeiten bessere Sicherheitsprüfungen, Agentenaufsicht und internationale Zusammenarbeit fordert.",
       "fundorte": [
         {
@@ -2136,7 +2229,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 69,
@@ -2197,6 +2289,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "FAR.AI berichtet über drei beim KI-Sicherheitsdialog in Venedig vorgeschlagene Maßnahmen – Notfallvorsorge, überprüfbare Sicherheitsnachweise und internationale Verifikationsforschung –, ohne eine Umsetzung zu belegen; der Bericht ist vollständig.",
       "fundorte": [
         {
@@ -2243,7 +2337,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 90,
@@ -2304,6 +2397,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der SIPRI-Essay beschreibt Fortschritte bei den US-chinesischen KI-Gesprächen, betont aber, dass Hotline, Meldewege und gemeinsame Vorfallsdefinitionen noch konkretisiert werden müssen.",
       "fundorte": [
         {
@@ -2350,7 +2445,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 88,
@@ -2411,6 +2505,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Kanada und die EU kündigen eine umfassende Partnerschaft für wirtschaftliche Sicherheit, gemeinsame Werte und engere Zusammenarbeit an, deren zahlreiche Vorhaben größtenteils noch politische Absichten sind.",
       "fundorte": [
         {
@@ -2457,7 +2553,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 64,
@@ -2518,6 +2613,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Artikel zufolge könnten neue Technologien Russlands Vorkriegs-Fehleinschätzung verstärkt haben; ihre direkten Eskalationswirkungen im Ukrainekrieg bleiben bislang begrenzt belegt.",
       "fundorte": [
         {
@@ -2564,7 +2661,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 87,
@@ -2625,6 +2721,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Staaten und Unternehmen sagen gemeinsame Standards, Rechenschaft und Frühwarnung für fortgeschrittene KI zu; konkrete Umsetzungsergebnisse nennt die Erklärung nicht.",
       "fundorte": [
         {
@@ -2671,7 +2769,6 @@
           2
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 62,
@@ -2732,6 +2829,8 @@
           6
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der FMF-Bericht empfiehlt klar getrennte und präzise gestaltete Wege für den Austausch von Sicherheitswissen, die Meldung von Vorfällen und deren operative Bewältigung.",
       "fundorte": [
         {
@@ -2778,7 +2877,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 92,
@@ -2839,6 +2937,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Bello fordert gemeinsame staatliche Mess- und Meldeverfahren, damit Kanada und Europa auch Fähigkeiten unveröffentlichter KI-Systeme beurteilen können.",
       "fundorte": [
         {
@@ -2885,7 +2985,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 71,
@@ -2946,6 +3045,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut chinesischem Außenministerium erzielten China und die USA Verständigungen zu Stabilität, Handel, KI und weiteren Themen, deren Umsetzung der Bericht nur begrenzt ausführt.",
       "fundorte": [
         {
@@ -3004,7 +3105,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 87,
@@ -3065,6 +3165,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Sechs Regierungen, KI-Unternehmen und zivilgesellschaftliche Organisationen sagen gemeinsame Bewertungen, mehr Verantwortlichkeit und bessere Frühwarnung für KI-Risiken zu; eine Umsetzung ist im Bericht nicht belegt.",
       "fundorte": [
         {
@@ -3106,21 +3208,6 @@
           4,
           33,
           61,
-          1,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 18,
-        "beleg3": 34,
-        "verteilung": [
-          8,
-          36,
-          22,
-          16,
-          16,
           1,
           1,
           0
@@ -3172,6 +3259,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 18,
+        "beleg3": 34,
+        "verteilung": [
+          8,
+          36,
+          22,
+          16,
+          16,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 20,
+        "beleg3": 46,
+        "verteilung": [
+          15,
+          21,
+          18,
+          26,
+          14,
+          3,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Der Bericht zeigt wachsende chinesische Debatten über KI-Sicherheit, aber auch unterschiedliche Einschätzungen zu Risiken, Regulierung und ihrer politischen Priorität.",
       "fundorte": [
         {
@@ -3218,7 +3335,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 92,
@@ -3279,6 +3395,8 @@
           7
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Newsletter-Auszug beschreibt einen noch nicht vereinbarten US-chinesischen KI-Meldekanal, dessen Regeln, Zustimmung und Zeitplan laut zitierten Quellen offen sind.",
       "fundorte": [
         {
@@ -3322,21 +3440,6 @@
           61,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          82,
-          15,
-          1,
-          2,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -3400,6 +3503,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          82,
+          15,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 17,
+        "beleg3": 35,
+        "verteilung": [
+          27,
+          24,
+          14,
+          18,
+          12,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Wolf bewertet die Russland-Exportkontrollen als wirksam, fordert aber mehr Befugnisse, Abstimmung und Ressourcen und kennzeichnet seine Einschätzungen als nicht systematisch datenbasiert.",
       "fundorte": [
         {
@@ -3444,21 +3577,6 @@
           13,
           7,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 27,
-        "beleg3": 40,
-        "verteilung": [
-          1,
-          8,
-          51,
-          13,
-          25,
-          1,
-          1,
-          0
         ]
       },
       "jev": null,
@@ -3507,6 +3625,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 27,
+        "beleg3": 40,
+        "verteilung": [
+          1,
+          8,
+          51,
+          13,
+          25,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 21,
+        "beleg3": 46,
+        "verteilung": [
+          16,
+          22,
+          16,
+          25,
+          14,
+          3,
+          2,
+          2
+        ]
+      },
       "tldr_de": "Der angekündigte KI-Dialog zwischen den USA und China eröffnet laut Bericht eine vorsichtige Kooperationschance, doch Themen, Ablauf und mögliche Ergebnisse sind noch offen.",
       "fundorte": [
         {
@@ -3550,21 +3698,6 @@
           59,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 14,
-        "beleg3": 38,
-        "verteilung": [
-          6,
-          33,
-          23,
-          24,
-          13,
-          0,
-          1,
           0
         ]
       },
@@ -3628,6 +3761,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 38,
+        "verteilung": [
+          6,
+          33,
+          23,
+          24,
+          13,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der OECD-Beitrag beschreibt AISIs als mögliche Säulen für KI-Prüfung und internationale Abstimmung, deren Wirksamkeit jedoch von sicherem Informationsaustausch, passenden Befugnissen, ausreichenden Fachkräften und geeignetem Modellzugang abhängt.",
       "fundorte": [
         {
@@ -3674,21 +3823,6 @@
           0
         ]
       },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 11,
-        "verteilung": [
-          6,
-          64,
-          19,
-          8,
-          3,
-          0,
-          0,
-          0
-        ]
-      },
       "jev": null,
       "amos": {
         "stufe": 2,
@@ -3731,6 +3865,36 @@
           38,
           5,
           2,
+          1,
+          1
+        ]
+      },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 11,
+        "verteilung": [
+          6,
+          64,
+          19,
+          8,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 21,
+        "verteilung": [
+          40,
+          29,
+          10,
+          11,
+          7,
+          1,
           1,
           1
         ]
@@ -3781,7 +3945,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 83,
@@ -3842,6 +4005,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht stellt US-chinesische KI-Gespräche, gegenseitige Vorwürfe zur Modell-Distillation und westliche Start-ups im Spannungsfeld zwischen günstigen chinesischen Modellen und möglicher Abhängigkeit dar.",
       "fundorte": [
         {
@@ -3888,7 +4053,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 82,
@@ -3949,6 +4113,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Altman wirbt in einer Rede für menschlich kontrollierte, demokratisch gestaltete KI und internationale Sicherheitsstandards; der Bericht gibt seine Positionen wieder, ohne sie unabhängig zu überprüfen.",
       "fundorte": [
         {
@@ -3995,7 +4161,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 64,
@@ -4056,6 +4221,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Papier sieht in bestehenden und geplanten internationalen Normen eine Grundlage für vertrauenswürdigere Frontier-AI-Prüfungen, betont aber, dass wichtige Arbeiten noch laufen und Standards freiwillig sind.",
       "fundorte": [
         {
@@ -4102,7 +4269,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 43,
@@ -4163,6 +4329,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag schildert einen September mit gemeldeten KI-Sicherheitsmängeln, wachsendem Regulierungsdruck und großen Investitionen und empfiehlt Unternehmen, ihre KI-Aufsicht zu überprüfen.",
       "fundorte": [
         {
@@ -4209,7 +4377,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 40,
@@ -4270,6 +4437,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 5,
+        "beleg3": 25,
+        "verteilung": [
+          4,
+          48,
+          23,
+          20,
+          4,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Auszug benennt sechs vertrauensbildende Maßnahmen gegen mögliche internationale Sicherheitsrisiken durch Foundation Models, erläutert oder bewertet ihre Umsetzung aber nicht.",
       "fundorte": [
         {
@@ -4316,7 +4499,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 47,
@@ -4377,6 +4559,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI fördert 14 geplante Forschungs- und Praxisprojekte zu Chancen und Risiken des KI-Wandels; Ergebnisse werden für 2027 angekündigt.",
       "fundorte": [
         {
@@ -4423,7 +4607,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 40,
@@ -4484,6 +4667,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das CCC verlangt einen nationalen, grundrechtswahrenden Plan gegen Deepfakes und Desinformation vor Nigerias Wahlen 2027.",
       "fundorte": [
         {
@@ -4530,7 +4715,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 37,
@@ -4591,6 +4775,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 31,
+        "beleg3": 42,
+        "verteilung": [
+          1,
+          5,
+          52,
+          11,
+          28,
+          1,
+          2,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI fordert eine von den USA angeführte internationale Standardsetzung für fortgeschrittene KI, betont aber, dass autonome Selbstverbesserung derzeit nicht stattfinde und nur unter gesicherter menschlicher Kontrolle verfolgt werden solle.",
       "fundorte": [
         {
@@ -4637,7 +4837,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 32,
@@ -4698,6 +4897,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der TÜV-Verband und das TÜV AI.Lab fordern unabhängige Prüfungen von Hochleistungs-KI und einen europäischen sowie internationalen Rahmen mit verbindlichen Sicherheitsregeln.",
       "fundorte": [
         {
@@ -4744,7 +4945,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 67,
@@ -4805,6 +5005,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "FAR.AI berichtet über Warnungen vor KI-gestütztem Terrorismus und fordert gemeinsame Sicherheitsstandards, Schutzmaßnahmen sowie sicheren Informationsaustausch.",
       "fundorte": [
         {
@@ -4851,7 +5053,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 54,
@@ -4912,6 +5113,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Weiße Haus behauptet, der Staatsbesuch habe Fortschritte bei Handel, Drogenkontrolle und strategischer Zusammenarbeit mit China gebracht.",
       "fundorte": [
         {
@@ -4958,7 +5161,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 21,
@@ -5019,6 +5221,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Vier KI-Unternehmen kündigen ein Forum für Sicherheitsforschung, Standards und Informationsaustausch zu Frontier-Modellen an; der Bericht beschreibt Pläne, keine bereits nachgewiesenen Wirkungen.",
       "fundorte": [
         {
@@ -5065,7 +5269,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 67,
@@ -5126,6 +5329,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug berichtet von behaupteten Vereinbarungen zwischen Xi und Trump sowie deutlichen Unterschieden zwischen den US- und chinesischen Gesprächsberichten; er enthält Auslassungen und erlaubt keine unabhängige Bestätigung.",
       "fundorte": [
         {
@@ -5169,21 +5374,6 @@
           49,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 28,
-        "beleg3": 38,
-        "verteilung": [
-          1,
-          4,
-          57,
-          10,
-          27,
-          0,
-          1,
           0
         ]
       },
@@ -5233,6 +5423,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 28,
+        "beleg3": 38,
+        "verteilung": [
+          1,
+          4,
+          57,
+          10,
+          27,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 30,
+        "beleg3": 56,
+        "verteilung": [
+          11,
+          14,
+          19,
+          26,
+          20,
+          5,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Chinas neuer, unverbindlicher KI-Sicherheitsrahmen behandelt laut Bericht ein breites und wachsendes Risikospektrum und könnte trotz politischer Differenzen Ansatzpunkte für internationalen Dialog bieten.",
       "fundorte": [
         {
@@ -5276,21 +5496,6 @@
           49,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 14,
-        "beleg3": 32,
-        "verteilung": [
-          6,
-          32,
-          30,
-          18,
-          13,
-          0,
-          1,
           0
         ]
       },
@@ -5354,6 +5559,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 32,
+        "verteilung": [
+          6,
+          32,
+          30,
+          18,
+          13,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht fordert gemeinsame internationale Forschung, Tests und Sicherheitspraktiken gegen Prompt-Injection, Agentenmissbrauch und Datenvergiftung, während er auf eine noch lückenhafte Evidenzbasis hinweist.",
       "fundorte": [
         {
@@ -5398,21 +5619,6 @@
           0,
           0,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 24,
-        "beleg3": 39,
-        "verteilung": [
-          16,
-          33,
-          12,
-          15,
-          19,
-          1,
-          3,
-          1
         ]
       },
       "jev": null,
@@ -5461,6 +5667,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 24,
+        "beleg3": 39,
+        "verteilung": [
+          16,
+          33,
+          12,
+          15,
+          19,
+          1,
+          3,
+          1
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 14,
+        "verteilung": [
+          48,
+          31,
+          7,
+          10,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug schlägt vor, vorbereitende KI-Fähigkeiten als abgestufte Frühwarnsignale und Auslöser für Sicherheitsmaßnahmen zu nutzen, belegt deren Wirksamkeit aber nicht und endet vor weiteren angekündigten Ergebnissen.",
       "fundorte": [
         {
@@ -5507,7 +5743,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 56,
@@ -5568,6 +5803,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die Iberoamerikanischen Staaten bekräftigen ihre Zusammenarbeit und beschließen neue Kooperationsvorhaben, wobei einzelne Staaten Vorbehalte zu Teilen der Erklärung festhalten.",
       "fundorte": [
         {
@@ -5614,21 +5851,6 @@
           0
         ]
       },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 8,
-        "verteilung": [
-          27,
-          59,
-          6,
-          6,
-          2,
-          0,
-          0,
-          0
-        ]
-      },
       "jev": null,
       "amos": {
         "stufe": 2,
@@ -5671,6 +5893,36 @@
           24,
           9,
           3,
+          2,
+          1
+        ]
+      },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 8,
+        "verteilung": [
+          27,
+          59,
+          6,
+          6,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 31,
+        "verteilung": [
+          27,
+          27,
+          15,
+          17,
+          9,
+          2,
           2,
           1
         ]
@@ -5721,7 +5973,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 15,
@@ -5782,6 +6033,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic kündigt Forschung zu wirtschaftlichen, gesellschaftlichen und sicherheitspolitischen Folgen von KI sowie zu KI-beschleunigter Forschung an, legt dabei aber vor allem Fragen und Vorhaben statt Ergebnisse vor.",
       "fundorte": [
         {
@@ -5825,21 +6078,6 @@
           34,
           5,
           7,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 7,
-        "beleg3": 23,
-        "verteilung": [
-          1,
-          17,
-          59,
-          16,
-          6,
-          0,
-          1,
           0
         ]
       },
@@ -5903,6 +6141,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 7,
+        "beleg3": 23,
+        "verteilung": [
+          1,
+          17,
+          59,
+          16,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 20,
+        "beleg3": 47,
+        "verteilung": [
+          11,
+          18,
+          24,
+          27,
+          12,
+          2,
+          4,
+          2
+        ]
+      },
       "tldr_de": "Der Auszug nennt sechs mögliche vertrauensbildende Maßnahmen gegen Sicherheitsrisiken von Foundation Models, liefert aber keine Details zu ihrer Umsetzung oder Wirksamkeit.",
       "fundorte": [
         {
@@ -5945,21 +6213,6 @@
           23,
           42,
           2,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 30,
-        "beleg3": 38,
-        "verteilung": [
-          1,
-          3,
-          58,
-          8,
-          29,
-          0,
           1,
           0
         ]
@@ -6024,6 +6277,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 30,
+        "beleg3": 38,
+        "verteilung": [
+          1,
+          3,
+          58,
+          8,
+          29,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "China kündigt ein umfassendes KI-Gesetz mit Sicherheits- und Meldeanforderungen an, doch Entwurf, Zeitplan und konkrete Pflichten bleiben laut Bericht offen.",
       "fundorte": [
         {
@@ -6070,7 +6339,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 82,
@@ -6131,6 +6399,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet von unbefugten Modellzugriffen auf australische Regierungsdienste, erklärt, keine individuellen Gesundheits- oder Kriminalitätsdaten seien betroffen gewesen, und kündigt Schutzmaßnahmen sowie Unterstützung an.",
       "fundorte": [
         {
@@ -6177,7 +6447,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 22,
@@ -6238,6 +6507,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Autor plädiert dafür, die Prüfung einzelner KI-Akteure um eine systemweite Aufsicht zu ergänzen, räumt aber ein, dass deren Zuständigkeiten und Instrumente noch offen sind.",
       "fundorte": [
         {
@@ -6282,21 +6553,6 @@
           6,
           3,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          57,
-          35,
-          3,
-          4,
-          1,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -6359,6 +6615,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          57,
+          35,
+          3,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 23,
+        "beleg3": 46,
+        "verteilung": [
+          20,
+          20,
+          14,
+          23,
+          14,
+          4,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug sieht Potenzial für KI-Systeme in Koalitionseinsätzen, betont aber, dass Datenaustausch, Vertrauen und politischer Wille über ihren Nutzen mitentscheiden.",
       "fundorte": [
         {
@@ -6402,21 +6688,6 @@
           38,
           4,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 17,
-        "verteilung": [
-          12,
-          58,
-          13,
-          11,
-          6,
-          0,
-          0,
           0
         ]
       },
@@ -6480,6 +6751,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 17,
+        "verteilung": [
+          12,
+          58,
+          13,
+          11,
+          6,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Das EU-KI-Gremium empfahl angesichts von Kontrollverlust-Vorfällen und sinkender Modellüberwachbarkeit bessere Aufsicht, Untersuchungsfähigkeit und internationale Zusammenarbeit; über abschließende Ergebnisse oder Umsetzung berichtet der Text nicht.",
       "fundorte": [
         {
@@ -6526,7 +6813,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 6,
         "beleg": 89,
@@ -6587,6 +6873,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht empfiehlt einen vertrauenswürdigen internen KI-Meldekanal nach strengem Standard und betont, dass viele Rechtsdetails aktuell und je nach Land geprüft werden müssen.",
       "fundorte": [
         {
@@ -6630,21 +6918,6 @@
           39,
           1,
           3,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 4,
-        "beleg3": 10,
-        "verteilung": [
-          12,
-          42,
-          36,
-          6,
-          4,
-          0,
-          0,
           0
         ]
       },
@@ -6708,6 +6981,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 4,
+        "beleg3": 10,
+        "verteilung": [
+          12,
+          42,
+          36,
+          6,
+          4,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 16,
+        "beleg3": 35,
+        "verteilung": [
+          22,
+          23,
+          20,
+          19,
+          11,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug ist nur die Executive Summary: Der Bericht empfiehlt, den militärischen Nutzen von KI mit besserer Forschung, Schulung und durchgängigen Sicherheitsmaßnahmen abzusichern.",
       "fundorte": [
         {
@@ -6751,21 +7054,6 @@
           40,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 4,
-        "beleg": 74,
-        "beleg3": 83,
-        "verteilung": [
-          1,
-          3,
-          13,
-          9,
-          66,
-          2,
-          6,
           0
         ]
       },
@@ -6829,6 +7117,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 4,
+        "beleg": 74,
+        "beleg3": 83,
+        "verteilung": [
+          1,
+          3,
+          13,
+          9,
+          66,
+          2,
+          6,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 27,
+        "beleg3": 50,
+        "verteilung": [
+          13,
+          17,
+          20,
+          23,
+          17,
+          4,
+          4,
+          2
+        ]
+      },
       "tldr_de": "Eine unverbindliche internationale KI-Sicherheitserklärung verspricht Zusammenarbeit und bessere Prüfungen, lässt laut Bericht aber zentrale Regeln, Fristen und Zugänge offen.",
       "fundorte": [
         {
@@ -6872,21 +7190,6 @@
           36,
           3,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          98,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -6950,6 +7253,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          98,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 8,
+        "verteilung": [
+          63,
+          25,
+          4,
+          4,
+          2,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Bericht übersetzt eine ausgewählte CSC-Vereinbarung mit Melde-, Rückkehr- und Dienstpflichten für geförderte Auslandsstudierende sowie finanzieller Haftung von zwei Bürgen, ohne ihre Rechtswirksamkeit zu bewerten.",
       "fundorte": [
         {
@@ -6996,7 +7329,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 43,
@@ -7057,6 +7389,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht gibt Forderungen nach gemeinsamen KI-Sicherheitsregeln und Warnungen vor Cyberrisiken wieder, ohne einen bestehenden globalen Standard oder konkrete Ergebnisse der Zusammenarbeit zu beschreiben.",
       "fundorte": [
         {
@@ -7100,21 +7434,6 @@
           32,
           5,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 16,
-        "verteilung": [
-          9,
-          62,
-          13,
-          13,
-          3,
-          0,
-          0,
           0
         ]
       },
@@ -7164,6 +7483,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 16,
+        "verteilung": [
+          9,
+          62,
+          13,
+          13,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 28,
+        "beleg3": 53,
+        "verteilung": [
+          13,
+          17,
+          17,
+          25,
+          17,
+          4,
+          4,
+          3
+        ]
+      },
       "tldr_de": "Apollo Research beschreibt fünf Felder seiner KI-Governance-Arbeit und dazugehörige Empfehlungen und Aktivitäten, deren Wirkung der institutseigene Überblick nicht systematisch belegt.",
       "fundorte": [
         {
@@ -7210,7 +7559,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 4,
@@ -7257,6 +7605,22 @@
           4
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 32,
+        "beleg3": 51,
+        "verteilung": [
+          18,
+          19,
+          12,
+          19,
+          16,
+          8,
+          4,
+          4
+        ]
+      },
       "tldr_de": "Die Vorlage enthält Notizen, keinen vollständigen Verordnungstext, und beschreibt den risikobasierten EU-KI-Rechtsrahmen mit Verboten, Hochrisiko-Anforderungen, Transparenzpflichten und schrittweisem Anwendungsbeginn ab 2025.",
       "fundorte": [
         {
@@ -7300,21 +7664,6 @@
           29,
           5,
           4,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 30,
-        "verteilung": [
-          7,
-          39,
-          24,
-          24,
-          5,
-          0,
-          1,
           0
         ]
       },
@@ -7378,6 +7727,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 30,
+        "verteilung": [
+          7,
+          39,
+          24,
+          24,
+          5,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 4,
+        "beleg": 45,
+        "beleg3": 68,
+        "verteilung": [
+          7,
+          10,
+          15,
+          23,
+          23,
+          7,
+          6,
+          9
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug empfiehlt kostspielige Signale und Dialoge, um KI-Absichten besser zu vermitteln und Eskalationsrisiken zu begrenzen, betont aber mögliche Fehlinterpretationen und Zielkonflikte.",
       "fundorte": [
         {
@@ -7424,7 +7803,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 90,
@@ -7485,6 +7863,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut dem Meinungsbeitrag kann die KI-Notfallverbindung zwischen den USA und China Krisen abfedern, während Europa trotz seiner Regeln kaum Einfluss auf die künftige KI-Governance haben dürfte.",
       "fundorte": [
         {
@@ -7531,7 +7911,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 48,
@@ -7592,6 +7971,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Chen und Qi plädieren für begrenzte Handelsvereinbarungen, KI-Leitplanken und stärkere Krisenkanäle, um trotz politischer Spannungen eine Eskalation zwischen den USA und China zu verhindern.",
       "fundorte": [
         {
@@ -7634,21 +8015,6 @@
           44,
           35,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 10,
-        "verteilung": [
-          19,
-          63,
-          8,
-          7,
-          3,
-          0,
           0,
           0
         ]
@@ -7713,6 +8079,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 10,
+        "verteilung": [
+          19,
+          63,
+          8,
+          7,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht über eine UN-Debatte fordert, maritime Innovation mit menschlicher Aufsicht, Cybersicherheit, internationalem Recht und internationaler Zusammenarbeit zu verbinden; die berichteten Zahlen und Positionen werden nicht unabhängig geprüft.",
       "fundorte": [
         {
@@ -7759,7 +8141,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 69,
@@ -7820,6 +8201,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Finnland und Estland fordern laut Bericht EU-weite Reaktionsvorkehrungen für schwere KI-Vorfälle und unabhängige Sicherheitsprüfungen, doch über Beschlüsse wird nicht berichtet.",
       "fundorte": [
         {
@@ -7866,7 +8249,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 15,
@@ -7927,6 +8309,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der kurze Auszug berichtet von der Forderung nach einer US-chinesischen Hotline gegen das Risiko KI-bedingter Nuklearangriffe.",
       "fundorte": [
         {
@@ -7973,7 +8357,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 59,
@@ -8034,6 +8417,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Großbritannien und die USA wollen ihre KI-Sicherheitsinstitute enger zusammenarbeiten lassen; der bereitgestellte Text beschreibt die Pläne und bricht am Ende in einer Bildunterschrift ab.",
       "fundorte": [
         {
@@ -8080,7 +8465,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 29,
@@ -8141,6 +8525,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 8,
+        "beleg3": 25,
+        "verteilung": [
+          4,
+          31,
+          40,
+          17,
+          7,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI zufolge soll Appia offene, interoperable Standards für KI-Prüfungen fördern; die Wirkung des Vorhabens wird im Bericht nicht unabhängig belegt.",
       "fundorte": [
         {
@@ -8187,7 +8587,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 47,
@@ -8248,6 +8647,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das FMF berichtet über einen etablierten Informationsaustausch zu Frontier-KI-Risiken und plant dessen Ausweitung, nennt jedoch keine unabhängigen Wirkungsnachweise oder quantitativen Ergebnisse.",
       "fundorte": [
         {
@@ -8294,7 +8695,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 29,
@@ -8355,6 +8755,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut überwiegend anonymen Quellen könnten China, die USA und Russland bei geplanten Apec-Gesprächen über KI und nukleare Sicherheit sprechen, doch ein Treffen und konkrete Vereinbarungen sind noch ungewiss.",
       "fundorte": [
         {
@@ -8401,7 +8803,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 58,
@@ -8462,6 +8863,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Kommentar plädiert dafür, dass die USA und China KI-Fortschritte und mögliche Folgen regelmäßig gemeinsam bewerten, bevor die Entwicklung ihre Reaktionsfähigkeit überholt.",
       "fundorte": [
         {
@@ -8508,7 +8911,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 39,
@@ -8569,6 +8971,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "@domainsea berichtet von einem vereinbarten US-chinesischen Dialog über Superintelligenz und stellt einen möglichen Meilenstein im November 2026 als offene Frage dar.",
       "fundorte": [
         {
@@ -8615,7 +9019,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 61,
@@ -8676,6 +9079,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der X-Thread-Auszug zur 14. Bulletin-Ausgabe berichtet über Chinas geplante KI-Exportkontrollen und Sicherheitsinitiativen, lässt aber die Reichweite einer wichtigen Sandbox-Klausel offen.",
       "fundorte": [
         {
@@ -8722,7 +9127,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 17,
@@ -8783,6 +9187,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht skizziert mögliche, noch zu prüfende Schutzmaßnahmen gegen katastrophalen KI-Bio-Missbrauch und plädiert für mehrere einander ergänzende technische und gesellschaftliche Schutzebenen.",
       "fundorte": [
         {
@@ -8829,7 +9235,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 44,
@@ -8890,6 +9295,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic will Fable 5 nach Aufhebung der Exportkontrollen wieder weltweit anbieten und berichtet von verstärkten Schutzmaßnahmen sowie geplanten gemeinsamen Standards und Sicherheitstests.",
       "fundorte": [
         {
@@ -8934,21 +9341,6 @@
           1,
           1,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 4,
-        "beleg": 41,
-        "beleg3": 63,
-        "verteilung": [
-          6,
-          19,
-          12,
-          22,
-          33,
-          3,
-          4,
-          1
         ]
       },
       "jev": null,
@@ -8997,6 +9389,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 4,
+        "beleg": 41,
+        "beleg3": 63,
+        "verteilung": [
+          6,
+          19,
+          12,
+          22,
+          33,
+          3,
+          4,
+          1
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 15,
+        "beleg3": 32,
+        "verteilung": [
+          33,
+          25,
+          10,
+          17,
+          10,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Laut Bericht überwachen nationale Behörden die Einhaltung des KI-Gesetzes und können Verstöße untersuchen und ahnden, während das KI-Büro für KI-Modelle mit allgemeinem Verwendungszweck zuständig ist.",
       "fundorte": [
         {
@@ -9043,7 +9465,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 25,
@@ -9104,6 +9525,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht empfiehlt freiwillige Sicherheitspraktiken für Vorfälle mit SI-Agenten und betont, dass Überwachung, Eindämmung, Wiederherstellung und Meldung noch offene Forschungsfragen enthalten.",
       "fundorte": [
         {
@@ -9147,21 +9570,6 @@
           26,
           2,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          72,
-          26,
-          1,
-          1,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -9225,6 +9633,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          72,
+          26,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht stellt DISHA als gemeinschaftlich gestalteten Ansatz für KI in der humanitären Hilfe vor und betont, dass Datenzugang, öffentliche Unterstützung und Beteiligung vor Ort nötig sind, ohne unabhängige Wirkungsnachweise vorzulegen.",
       "fundorte": [
         {
@@ -9271,7 +9695,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 16,
@@ -9332,6 +9755,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Fu Cong wirbt für friedlichen und regulierten Technologieeinsatz auf See, internationale Zusammenarbeit und die Einhaltung des Seerechts; die aufgeführten chinesischen Erfolge sind seine eigenen Angaben.",
       "fundorte": [
         {
@@ -9378,7 +9803,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 81,
@@ -9439,6 +9863,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug kündigt ein Brookings-Webinar zum geplanten US-chinesischen KI-Sicherheitsdialog an, enthält aber keine Ergebnisse oder Umsetzungsdetails.",
       "fundorte": [
         {
@@ -9481,21 +9907,6 @@
           34,
           28,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 17,
-        "beleg3": 22,
-        "verteilung": [
-          1,
-          8,
-          69,
-          5,
-          17,
-          0,
           0,
           0
         ]
@@ -9560,6 +9971,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 17,
+        "beleg3": 22,
+        "verteilung": [
+          1,
+          8,
+          69,
+          5,
+          17,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht fehlen den USA und China klare Grenzen dafür, wann die Fähigkeiten eines offenen KI-Modells seine Veröffentlichung zu riskant machen.",
       "fundorte": [
         {
@@ -9602,21 +10029,6 @@
           43,
           26,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 10,
-        "verteilung": [
-          16,
-          70,
-          4,
-          7,
-          3,
-          0,
           0,
           0
         ]
@@ -9667,6 +10079,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 10,
+        "verteilung": [
+          16,
+          70,
+          4,
+          7,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 15,
+        "beleg3": 40,
+        "verteilung": [
+          19,
+          22,
+          19,
+          25,
+          11,
+          2,
+          1,
+          1
+        ]
+      },
       "tldr_de": "China benennt vielfältige KI-Risiken, sondiert laut Berichten Gespräche mit den USA und erprobt mit Z.AIs verzögerter Gewichtsfreigabe frühe Sicherheitsmaßnahmen für offene Modelle.",
       "fundorte": [
         {
@@ -9713,7 +10155,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 18,
@@ -9774,6 +10215,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "China kündigt laut Bericht umfassende KI-Sicherheitsregeln an, lässt deren konkrete Ausgestaltung und Fristen aber offen.",
       "fundorte": [
         {
@@ -9820,7 +10263,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 31,
@@ -9881,6 +10323,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 8,
+        "beleg3": 18,
+        "verteilung": [
+          11,
+          51,
+          20,
+          10,
+          7,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI fordert, KI-Sicherheitszuständigkeiten, Cyberabwehr und öffentliche Institutionen rasch zu stärken, legt im vorliegenden Kurzbericht jedoch keine Wirksamkeitsnachweise vor.",
       "fundorte": [
         {
@@ -9923,21 +10381,6 @@
           42,
           27,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 12,
-        "verteilung": [
-          19,
-          58,
-          11,
-          9,
-          3,
-          0,
           0,
           0
         ]
@@ -9988,6 +10431,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 12,
+        "verteilung": [
+          19,
+          58,
+          11,
+          9,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 21,
+        "beleg3": 43,
+        "verteilung": [
+          18,
+          22,
+          17,
+          22,
+          13,
+          3,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Apollo Research plädiert für lebenszyklusweite KI-Evaluationen, Vorfallsdaten, unabhängige Prüfer und internationale Koordination, präsentiert dies aber als eigene Positionen ohne unabhängige Wirksamkeitsbelege.",
       "fundorte": [
         {
@@ -10032,21 +10505,6 @@
           3,
           2,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 0,
-        "beleg3": 3,
-        "verteilung": [
-          46,
-          50,
-          1,
-          3,
-          0,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -10109,6 +10567,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          46,
+          50,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Li Qiang wirbt laut Bericht für ein menschenzentriertes, sicheres und inklusives Internet sowie stärkere internationale Zusammenarbeit; die automatische Übersetzung und der Bericht belegen nicht, ob die angekündigten Vorhaben umgesetzt werden.",
       "fundorte": [
         {
@@ -10152,21 +10626,6 @@
           24,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          50,
-          47,
-          1,
-          2,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -10230,6 +10689,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          50,
+          47,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Abstract soll die AI Summit Series durch gemeinsame Planung, ein dauerhaftes Sekretariat und regelmäßige Folgetreffen mehr Kontinuität und Rechenschaft erhalten; der vollständige Bericht liegt hier nicht vor.",
       "fundorte": [
         {
@@ -10276,7 +10751,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 2,
@@ -10337,6 +10811,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          37,
+          54,
+          3,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet von der Sperrung von Konten fünf staatlich zugeordneter Akteure und setzt nach eigenen Angaben auf Überwachung, Zusammenarbeit und verbesserte Schutzmaßnahmen, kann Missbrauch aber nicht vollständig verhindern.",
       "fundorte": [
         {
@@ -10379,21 +10869,6 @@
           42,
           24,
           1,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 14,
-        "beleg3": 34,
-        "verteilung": [
-          2,
-          24,
-          40,
-          20,
-          13,
-          0,
           1,
           0
         ]
@@ -10458,6 +10933,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 14,
+        "beleg3": 34,
+        "verteilung": [
+          2,
+          24,
+          40,
+          20,
+          13,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "KI kann laut Bericht Cyberrisiken verstärken und die Verteidigung unterstützen; nötig seien sichere Gestaltung, Aufklärung und internationale Zusammenarbeit.",
       "fundorte": [
         {
@@ -10502,21 +10993,6 @@
           2,
           1,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 3,
-        "beleg": 13,
-        "beleg3": 54,
-        "verteilung": [
-          3,
-          32,
-          11,
-          41,
-          8,
-          1,
-          3,
-          1
         ]
       },
       "jev": {
@@ -10579,6 +11055,22 @@
           3
         ]
       },
+      "d3-ultra": {
+        "stufe": 3,
+        "beleg": 13,
+        "beleg3": 54,
+        "verteilung": [
+          3,
+          32,
+          11,
+          41,
+          8,
+          1,
+          3,
+          1
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der kurze Auszug beschreibt einen anpassbaren Rahmen mit 29 Kriterien zur Meldung und Bewertung von KI-Vorfällen, macht aber keine Angaben zu seiner Wirksamkeit.",
       "fundorte": [
         {
@@ -10625,7 +11117,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 38,
@@ -10686,6 +11177,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Christiano und Hinton plädieren für stärkere KI-Sicherheitsarbeit, überprüfbare Standards und internationale Kooperation; Christiano fordert zudem eine vorläufige Verlangsamung der Entwicklung, wobei die Risiken und Erfolgsaussichten unsicher bleiben.",
       "fundorte": [
         {
@@ -10732,7 +11225,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 6,
@@ -10793,6 +11285,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Christiano hält eine rasche, durch KI-Forschung beschleunigte Entwicklung sehr leistungsfähiger Systeme für ein ernstzunehmendes, aber unsicheres Risiko und fordert stärkere Überwachung, Transparenz und Vorsorge.",
       "fundorte": [
         {
@@ -10839,7 +11333,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 71,
@@ -10900,6 +11393,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein US-chinesischer Workshop erörterte Raketenstart-Benachrichtigungen und menschliche Kontrolle beim KI-Einsatz im Nuklearbereich, meldete laut Bericht aber keine konkreten Vereinbarungen oder Ergebnisse.",
       "fundorte": [
         {
@@ -10946,7 +11441,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 70,
@@ -11007,6 +11501,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein kurzer X-Post behauptet, ein US-chinesischer Kanal für KI-Vorfälle könne die Krisenkoordination verbessern, doch ohne veröffentlichte Auslösekriterien und Betriebsabläufe sei seine Marktwirkung unklar.",
       "fundorte": [
         {
@@ -11053,7 +11549,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 34,
@@ -11114,6 +11609,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die Gipfel-Mitteilung beschreibt internationale Pläne für gemeinsame KI-Sicherheitstests und weitere Forschung, jedoch noch keine fertigen Standards oder konkreten Prüfergebnisse.",
       "fundorte": [
         {
@@ -11160,7 +11657,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -11221,6 +11717,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag stellt ein Lehrbuch und einen Onlinekurs vor, die technische, ethische und gesellschaftliche Fragen der KI-Sicherheit verständlich behandeln sollen, ohne ihre Wirksamkeit zu belegen.",
       "fundorte": [
         {
@@ -11265,21 +11763,6 @@
           1,
           0,
           0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 3,
-        "beleg": 28,
-        "beleg3": 65,
-        "verteilung": [
-          3,
-          20,
-          12,
-          37,
-          19,
-          2,
-          6,
-          1
         ]
       },
       "jev": {
@@ -11342,6 +11825,22 @@
           3
         ]
       },
+      "d3-ultra": {
+        "stufe": 3,
+        "beleg": 28,
+        "beleg3": 65,
+        "verteilung": [
+          3,
+          20,
+          12,
+          37,
+          19,
+          2,
+          6,
+          1
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Die OECD wirbt für einen gemeinsamen KI-Vorfall-Berichtsrahmen mit 29 Kriterien, dessen tatsächliche Wirksamkeit der Beitrag nicht bewertet.",
       "fundorte": [
         {
@@ -11385,21 +11884,6 @@
           20,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 3,
-        "beleg": 20,
-        "beleg3": 55,
-        "verteilung": [
-          4,
-          27,
-          14,
-          35,
-          17,
-          1,
-          2,
           0
         ]
       },
@@ -11463,6 +11947,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 3,
+        "beleg": 20,
+        "beleg3": 55,
+        "verteilung": [
+          4,
+          27,
+          14,
+          35,
+          17,
+          1,
+          2,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Die OECD beschreibt AIM als Beta-Monitor für KI-Vorfälle in Nachrichten und als möglichen Baustein für ein internationales Meldesystem, wobei der Beitrag keine Belege für Vollständigkeit oder Erkennungsgenauigkeit liefert.",
       "fundorte": [
         {
@@ -11509,7 +12009,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 88,
@@ -11570,6 +12069,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht argumentiert, dass die US-Strategie für technologische Vorherrschaft auf Unternehmenszusicherungen beruht, solange Washington führende KI-Systeme nicht selbst unabhängig überprüfen kann.",
       "fundorte": [
         {
@@ -11613,21 +12114,6 @@
           19,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 10,
-        "verteilung": [
-          7,
-          74,
-          9,
-          8,
-          2,
-          0,
-          0,
           0
         ]
       },
@@ -11677,6 +12163,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 10,
+        "verteilung": [
+          7,
+          74,
+          9,
+          8,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 10,
+        "beleg3": 26,
+        "verteilung": [
+          30,
+          31,
+          13,
+          16,
+          7,
+          1,
+          1,
+          1
+        ]
+      },
       "tldr_de": "Concordia AI berichtet von umfangreicher internationaler und China-bezogener Arbeit zur KI-Sicherheit im Jahr 2025, legt im Tätigkeitsbericht aber keine unabhängige Prüfung der Angaben oder messbare Belege für eine Risikominderung vor.",
       "fundorte": [
         {
@@ -11723,7 +12239,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 10,
@@ -11784,6 +12299,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein US-chinesischer Dialog in Beijing behandelte nukleare Sicherheitsprüfungen und KI-Risiken; laut Bericht entstanden dabei Arbeitsgrundsätze, aber keine genannten verbindlichen Vereinbarungen.",
       "fundorte": [
         {
@@ -11830,7 +12347,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 30,
@@ -11891,6 +12407,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "AISI schildert den Aufbau von KI-Sicherheitsprüfungen, internationaler Zusammenarbeit und Forschungsförderung, betont aber, dass seine Tests keine Sicherheitszertifikate darstellen und nur begrenzt öffentlich ausgewertet werden können.",
       "fundorte": [
         {
@@ -11932,21 +12450,6 @@
           8,
           66,
           20,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 19,
-        "verteilung": [
-          7,
-          69,
-          5,
-          18,
-          1,
           0,
           0,
           0
@@ -12012,6 +12515,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 19,
+        "verteilung": [
+          7,
+          69,
+          5,
+          18,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 12,
+        "beleg3": 42,
+        "verteilung": [
+          18,
+          25,
+          15,
+          30,
+          8,
+          1,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Der Auszug plädiert für pragmatischen Austausch zur Verringerung von KI-Risiken, weist aber auf den Zielkonflikt hin, dass Kooperation zugleich militärische Fähigkeiten verbessern könnte.",
       "fundorte": [
         {
@@ -12058,7 +12591,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 14,
@@ -12119,6 +12651,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der AViD-Workshop untersuchte, wie KI-Systeme trotz Geheimhaltung überprüfbar werden können; die Ansätze entwickeln sich weiter, sind laut Bericht aber vielfach noch nicht für den großmaßstäblichen Einsatz bereit.",
       "fundorte": [
         {
@@ -12165,7 +12699,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 9,
@@ -12226,6 +12759,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          31,
+          61,
+          3,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI erwartet rasante KI-Fortschritte und empfiehlt, ihre Chancen durch breite Zugänglichkeit zu nutzen und Risiken mit Aufsicht, gemeinsamer Sicherheitsarbeit und robuster Kontrolle zu begrenzen.",
       "fundorte": [
         {
@@ -12272,7 +12821,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 44,
@@ -12333,6 +12881,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht schildert den Aufbau des britischen KI-Sicherheitsinstituts und seine ersten Prüf- und Kooperationsprojekte, während er vor möglichen Risiken autonomer KI-Agenten warnt.",
       "fundorte": [
         {
@@ -12379,7 +12929,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 3,
@@ -12440,6 +12989,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug warnt, dass KI nukleare Krisen durch verzerrte Informationsgrundlagen, schwer steuerbare Agenten und beschleunigte Entscheidungen verschärfen könnte, und fordert strenge Nachweise der Sicherheit vor ihrem Einsatz.",
       "fundorte": [
         {
@@ -12482,21 +13033,6 @@
           34,
           17,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 5,
-        "beleg3": 12,
-        "verteilung": [
-          11,
-          65,
-          12,
-          7,
-          5,
-          0,
           0,
           0
         ]
@@ -12547,6 +13083,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 5,
+        "beleg3": 12,
+        "verteilung": [
+          11,
+          65,
+          12,
+          7,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 21,
+        "verteilung": [
+          39,
+          30,
+          10,
+          13,
+          6,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Bericht sieht in Xis Sicherheitsforderungen, einer konkreten chinesischen Erklärung zu KI-Risiken und der Gründung von WAICO Hinweise auf Chinas wachsende Rolle in der KI-Governance, wobei wichtige Details und internationale Zustimmung teils offenbleiben.",
       "fundorte": [
         {
@@ -12589,21 +13155,6 @@
           47,
           17,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          42,
-          54,
-          2,
-          2,
-          0,
-          0,
           0,
           0
         ]
@@ -12668,6 +13219,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          42,
+          54,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 11,
+        "verteilung": [
+          52,
+          28,
+          9,
+          7,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Concordia AI skizziert Themen eines Podcastgesprächs über Chinas KI und verweist für die vollständige Diskussion auf die Podcastfolge.",
       "fundorte": [
         {
@@ -12714,7 +13295,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 15,
@@ -12775,6 +13355,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die Autoren schlagen vor, Frontier-KI anhand von Kontrolle, Zugang, Entscheidungsbefugnis und Verteilung gezielt zu regulieren, statt sich auf eine pauschale Verlangsamung zu verlassen.",
       "fundorte": [
         {
@@ -12821,7 +13403,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 61,
@@ -12882,6 +13463,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein EU-Gipfel in Dublin einigte sich laut Bericht auf ein europäisches Verhandlungsteam zur Ukraine, während das geplante KI-Thema in den Hintergrund trat.",
       "fundorte": [
         {
@@ -12928,7 +13511,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 5,
@@ -12989,6 +13571,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          82,
+          16,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI kündigt die Berufung der KI-Politikexpertin Helen Toner in seinen Verwaltungsrat an und verweist auf ihre Arbeit zu globaler KI-Strategie und Sicherheit.",
       "fundorte": [
         {
@@ -13035,7 +13633,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 45,
@@ -13096,6 +13693,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Landemore plädiert für eine globale, ausgeloste Bürgerversammlung, die KI-Grenzen mitbestimmt und öffentliche Antworten von Laboren und Regierungen einfordert, räumt aber ein, dass ihre Legitimität und Durchsetzung erst geschaffen werden müssten.",
       "fundorte": [
         {
@@ -13139,21 +13738,6 @@
           13,
           2,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 0,
-        "beleg3": 3,
-        "verteilung": [
-          43,
-          53,
-          1,
-          3,
-          0,
-          0,
-          0,
           0
         ]
       },
@@ -13217,6 +13801,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          43,
+          53,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 37,
+        "verteilung": [
+          22,
+          25,
+          16,
+          23,
+          9,
+          1,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Tómasdóttir und Pirc Musar rufen zu internationalem Dialog, Rechtsstaatlichkeit, menschlicher Kontrolle über Technologien und gemeinsamer Verantwortung für die Zukunft auf, räumen aber ein, dass Erklärungen allein keine Krisen lösen.",
       "fundorte": [
         {
@@ -13263,7 +13877,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 3,
@@ -13324,6 +13937,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "AISI fordert freiwillig entwickelte und fortlaufend angepasste technische Praktiken, damit Sicherheitsprüfungen und Aufsicht mit den Fähigkeiten fortgeschrittener KI Schritt halten.",
       "fundorte": [
         {
@@ -13366,21 +13981,6 @@
           43,
           14,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 10,
-        "verteilung": [
-          31,
-          55,
-          4,
-          9,
-          1,
-          0,
           0,
           0
         ]
@@ -13445,6 +14045,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 10,
+        "verteilung": [
+          31,
+          55,
+          4,
+          9,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 23,
+        "verteilung": [
+          38,
+          29,
+          10,
+          15,
+          6,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug berichtet, dass chinesische Fachleute KI zugleich als militärischen Vorteil und als Risiko für die Stabilität sehen, und empfiehlt den USA Vorsprungssicherung, Zurückhaltung beim Wettrüsten und Gespräche mit China.",
       "fundorte": [
         {
@@ -13491,7 +14121,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 58,
@@ -13552,6 +14181,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 18,
+        "verteilung": [
+          26,
+          47,
+          9,
+          12,
+          5,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet über eine koordinierte Behebung kritischer PHP-Schwachstellen und legt einen Vorschlag für künftige Reaktionen vor, den die Sicherheitsgemeinschaft mit Blick auf Nutzen, Risiken und offene Fragen prüfen soll.",
       "fundorte": [
         {
@@ -13593,21 +14238,6 @@
           14,
           60,
           15,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 7,
-        "verteilung": [
-          21,
-          65,
-          7,
-          6,
-          1,
           0,
           0,
           0
@@ -13673,6 +14303,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 7,
+        "verteilung": [
+          21,
+          65,
+          7,
+          6,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 13,
+        "beleg3": 29,
+        "verteilung": [
+          32,
+          28,
+          11,
+          16,
+          8,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Amodei schlägt vor, die KI-Entwicklung durch unabhängige Prüfungen und abgestimmte Sicherheitsgrenzen zu verlangsamen, räumt aber ein, dass Wirksamkeit und internationale Durchsetzung noch offen sind.",
       "fundorte": [
         {
@@ -13714,21 +14374,6 @@
           17,
           51,
           15,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 10,
-        "verteilung": [
-          22,
-          59,
-          9,
-          8,
-          2,
           0,
           0,
           0
@@ -13794,6 +14439,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 10,
+        "verteilung": [
+          22,
+          59,
+          9,
+          8,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Die OECD beschreibt eine allgemeine Klassifikation von KI-Systemen als mögliche Grundlage für verständlichere Politikdebatten, Risikobewertung und internationale Abstimmung, deren breite Wirkung laut Bericht noch aussteht.",
       "fundorte": [
         {
@@ -13837,21 +14498,6 @@
           4,
           0,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 8,
-        "verteilung": [
-          22,
-          64,
-          6,
-          7,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -13915,6 +14561,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 8,
+        "verteilung": [
+          22,
+          64,
+          6,
+          7,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 16,
+        "beleg3": 43,
+        "verteilung": [
+          18,
+          22,
+          17,
+          27,
+          11,
+          1,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Laut einer ausdrücklich spekulativen Analyse könnte maschinelles Lernen Cyberoperationen destabilisieren, weil Angreifer wie Verteidiger stärkere Anreize zu frühzeitigen Zugriffen auf gegnerische Netzwerke erhalten.",
       "fundorte": [
         {
@@ -13961,7 +14637,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 2,
@@ -14022,6 +14697,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut X-Beitrag beriet eine erweiterte G7+-Runde in Paris über KI, internationale Sicherheit und verantwortungsvolle Innovation; konkrete Ergebnisse nennt der Beitrag nicht.",
       "fundorte": [
         {
@@ -14068,7 +14745,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 4,
@@ -14129,6 +14805,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht sieht verlässliche Messungen und durchsetzbare Standards als zentrale, bislang ungelöste Aufgaben der KI-Sicherheit.",
       "fundorte": [
         {
@@ -14171,21 +14849,6 @@
           43,
           13,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          25,
-          65,
-          4,
-          5,
-          1,
-          0,
           0,
           0
         ]
@@ -14250,6 +14913,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          25,
+          65,
+          4,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Die OECD kündigt Beiträge zum India AI Impact Summit 2026 an und beschreibt mögliche Ziele, doch der Text belegt keine späteren Ergebnisse.",
       "fundorte": [
         {
@@ -14293,21 +14972,6 @@
           11,
           1,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          23,
-          68,
-          3,
-          5,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -14371,6 +15035,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          23,
+          68,
+          3,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Mehrere KI-Unternehmen unterstützen laut Bericht stärkere Prüfungen und eine langsamere Entwicklung fortgeschrittener KI, doch geopolitische Konkurrenz und politische Uneinigkeit erschweren gemeinsame Regeln.",
       "fundorte": [
         {
@@ -14414,21 +15094,6 @@
           10,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 15,
-        "verteilung": [
-          24,
-          56,
-          5,
-          12,
-          3,
-          0,
-          0,
           0
         ]
       },
@@ -14492,6 +15157,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 15,
+        "verteilung": [
+          24,
+          56,
+          5,
+          12,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 7,
+        "beleg3": 31,
+        "verteilung": [
+          22,
+          32,
+          15,
+          24,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug gibt Yuans Warnung vor KI-bedingten Eskalationsrisiken und seine Forderung nach gemeinsamen Grenzen für KI in der nuklearen Führung wieder, ist aber nicht der vollständige Bericht.",
       "fundorte": [
         {
@@ -14535,21 +15230,6 @@
           13,
           0,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 16,
-        "beleg3": 21,
-        "verteilung": [
-          1,
-          9,
-          69,
-          5,
-          14,
-          0,
-          2,
           0
         ]
       },
@@ -14599,6 +15279,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 16,
+        "beleg3": 21,
+        "verteilung": [
+          1,
+          9,
+          69,
+          5,
+          14,
+          0,
+          2,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 33,
+        "verteilung": [
+          26,
+          27,
+          14,
+          19,
+          9,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Die EU will über das AI Office internationale KI-Forschung, Sicherheit und Anwendungen zum öffentlichen Nutzen fördern; der Bericht beschreibt Ziele und Vorhaben, enthält aber keine Wirkungsbewertung.",
       "fundorte": [
         {
@@ -14645,7 +15355,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 28,
@@ -14706,6 +15415,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut Beitrag überschneiden sich US-Zusagen und EU-Regeln zur KI-Sicherheit, doch nur der EU-Rahmen verbindet detaillierte Pflichten mit öffentlicher Aufsicht und keiner der Ansätze begrenzt verbindlich das Entwicklungstempo.",
       "fundorte": [
         {
@@ -14752,7 +15463,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 20,
@@ -14813,6 +15523,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 15,
+        "verteilung": [
+          20,
+          54,
+          11,
+          9,
+          6,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Vier KI-Unternehmen kündigen ein Forum für Sicherheitsforschung, Standards und Informationsaustausch zu Frontier-Modellen an; die Quelle beschreibt Vorhaben, nicht deren Umsetzung oder Wirkung.",
       "fundorte": [
         {
@@ -14859,7 +15585,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 22,
@@ -14920,6 +15645,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein Lernvideo stellt Debatten über KI-Regulierung von 2023 und 2026 gegenüber und zeigt den Konflikt zwischen internationaler Koordination, nationaler Souveränität und Innovationsfreiheit.",
       "fundorte": [
         {
@@ -14966,7 +15693,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 9,
@@ -15027,6 +15753,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          61,
+          38,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI will KI sicher und breit nutzbar machen und nennt dafür drei Ziele, deren Erreichung der Bericht als Absicht und Prognose beschreibt.",
       "fundorte": [
         {
@@ -15073,7 +15815,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 70,
@@ -15134,6 +15875,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Großbritannien und Australien planen gemeinsame KI-Sicherheitsarbeit, besonders zu Cyberrisiken, wobei der Bericht die Dringlichkeit mit rasch wachsenden Fähigkeiten fortgeschrittener KI begründet, aber keine konkreten Daten nennt.",
       "fundorte": [
         {
@@ -15176,21 +15919,6 @@
           40,
           9,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          23,
-          71,
-          2,
-          3,
-          1,
-          0,
           0,
           0
         ]
@@ -15241,6 +15969,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          23,
+          71,
+          2,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 13,
+        "verteilung": [
+          47,
+          32,
+          8,
+          10,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Chinas KI-Sicherheitsarbeit gewinnt laut Bericht an Breite, doch bei Standards, Tests, Gesetzgebung und internationaler Wirkung sind zentrale Ergebnisse noch ungewiss.",
       "fundorte": [
         {
@@ -15282,21 +16040,6 @@
           16,
           64,
           6,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          11,
-          78,
-          5,
-          5,
-          1,
           0,
           0,
           0
@@ -15362,6 +16105,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          11,
+          78,
+          5,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 17,
+        "verteilung": [
+          43,
+          31,
+          9,
+          11,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Concordia AI stellt zahlreiche eigene Beiträge zur internationalen KI-Sicherheit im ersten Halbjahr 2025 vor, ohne deren Wirkung unabhängig zu messen.",
       "fundorte": [
         {
@@ -15408,7 +16181,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 11,
@@ -15469,6 +16241,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI beschreibt einen vorsichtigen und gesellschaftlich abgestimmten Weg zu AGI, räumt erhebliche Unsicherheit ein und kennzeichnet die Organisationsangaben des Beitrags als veraltet.",
       "fundorte": [
         {
@@ -15511,21 +16285,6 @@
           49,
           10,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 0,
-        "beleg3": 6,
-        "verteilung": [
-          17,
-          76,
-          1,
-          6,
-          0,
-          0,
           0,
           0
         ]
@@ -15590,6 +16349,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 6,
+        "verteilung": [
+          17,
+          76,
+          1,
+          6,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          64,
+          26,
+          4,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Die Ankündigung skizziert Ziele eines Berichts zu KI-Risiken und kooperativer Governance, enthält aber nicht dessen konkrete Analyse oder Ergebnisse.",
       "fundorte": [
         {
@@ -15631,21 +16420,6 @@
           10,
           50,
           3,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 7,
-        "verteilung": [
-          7,
-          84,
-          2,
-          6,
-          1,
           0,
           0,
           0
@@ -15711,6 +16485,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 7,
+        "verteilung": [
+          7,
+          84,
+          2,
+          6,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Auszug fordert eine inklusive internationale KI-Governance gegen mögliche Missbrauchsrisiken, enthält aber keine konkreten institutionellen Vorschläge oder Ergebnisse.",
       "fundorte": [
         {
@@ -15757,7 +16547,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 33,
@@ -15818,6 +16607,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI und Polens NASK vereinbaren, mögliche gemeinsame KI-Sicherheitsforschung zu prüfen; konkrete Projekte nennt der Bericht noch nicht.",
       "fundorte": [
         {
@@ -15864,7 +16655,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 24,
@@ -15925,6 +16715,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht beschreibt frühe Hinweise darauf, dass KI-Agenten zwar gemeinsam leistungsfähig sein können, aber ohne passende Koordinations- und Schutzmechanismen auch systematische Fehler, Konflikte und Sabotage erzeugen.",
       "fundorte": [
         {
@@ -15971,7 +16763,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 18,
@@ -16032,6 +16823,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug schildert begrenzte Ergebnisse von Xis Indienreise, geringe Erwartungen an einen US-chinesischen KI-Dialog und chinesische Sorgen über KI-Sicherheitsrisiken, insbesondere Cyberangriffe.",
       "fundorte": [
         {
@@ -16073,21 +16866,6 @@
           26,
           46,
           8,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 5,
-        "beleg3": 23,
-        "verteilung": [
-          7,
-          50,
-          20,
-          18,
-          5,
           0,
           0,
           0
@@ -16153,6 +16931,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 5,
+        "beleg3": 23,
+        "verteilung": [
+          7,
+          50,
+          20,
+          18,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 20,
+        "verteilung": [
+          40,
+          30,
+          10,
+          12,
+          6,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug warnt vor möglichen KI-Unfällen und empfiehlt Informationsaustausch, Sicherheitsforschung, Standards, Tests und internationale Zusammenarbeit.",
       "fundorte": [
         {
@@ -16199,7 +17007,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 3,
@@ -16260,6 +17067,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Auszug fordert globale Regeln und Rechenschaft für KI-Agenten, weist aber auf erhebliche Durchsetzungs-, Haftungs- und Abstimmungslücken hin.",
       "fundorte": [
         {
@@ -16301,21 +17110,6 @@
           6,
           57,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          83,
-          15,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -16381,6 +17175,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          83,
+          15,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "CAIAC soll verstreutes COVID-19-Wissen für politische Entscheidungen bündeln; der Bericht schildert die Initiative und erste Arbeitszahlen, belegt aber keine unabhängige Wirkungsevaluation.",
       "fundorte": [
         {
@@ -16427,7 +17237,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -16488,6 +17297,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut FAR.AI-Bericht betonte ein Londoner Workshop die Lücke zwischen dem schnellen KI-Fortschritt und der Fähigkeit, Sicherheit und Aufsicht verlässlich zu gewährleisten; die Zusammenfassung gibt Vortragspositionen wieder, ohne sie systematisch unabhängig zu prüfen.",
       "fundorte": [
         {
@@ -16531,21 +17342,6 @@
           6,
           0,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 9,
-        "beleg3": 44,
-        "verteilung": [
-          4,
-          39,
-          13,
-          35,
-          8,
-          0,
-          1,
           0
         ]
       },
@@ -16609,6 +17405,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 9,
+        "beleg3": 44,
+        "verteilung": [
+          4,
+          39,
+          13,
+          35,
+          8,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Die OECD schlägt gemeinsame Definitionen für tatsächliche KI-Schäden und mögliche Gefahren vor, um deren Erfassung und Prävention zu erleichtern.",
       "fundorte": [
         {
@@ -16655,7 +17467,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 11,
@@ -16716,6 +17527,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Bei einem Treffen in Peking schlugen Forschende laut Bericht internationale rote Linien für besonders riskante KI-Systeme vor und betonten die Notwendigkeit gemeinsamer Sicherheitsarbeit.",
       "fundorte": [
         {
@@ -16762,7 +17575,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 13,
@@ -16823,6 +17635,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          28,
+          68,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht schlägt klare gemeinsame Ziele, inklusive Beteiligung und geeignete Gastgeber vor, um die KI-Gipfelreihe dauerhaft zu stärken; die Vorschläge sind nicht als nachgewiesene Maßnahmen ausgewiesen.",
       "fundorte": [
         {
@@ -16864,21 +17692,6 @@
           19,
           49,
           4,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          27,
-          64,
-          5,
-          3,
-          1,
           0,
           0,
           0
@@ -16944,6 +17757,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          27,
+          64,
+          5,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OECD-Treffen in Tokio und Bangkok sollen den regionalen Austausch über vertrauenswürdige KI stärken und Erkenntnisse in ein politisches Toolkit überführen, dessen Wirkung der Bericht noch nicht misst.",
       "fundorte": [
         {
@@ -16990,7 +17819,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 6,
@@ -17051,6 +17879,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 7,
+        "verteilung": [
+          12,
+          77,
+          4,
+          6,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der angekündigte Roundtable soll internationale Zusammenarbeit zur KI-Governance stärken, doch der Bericht schildert Ziele und Programm statt Veranstaltungsergebnisse.",
       "fundorte": [
         {
@@ -17097,7 +17941,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 27,
@@ -17158,6 +18001,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Christiano warnt vor möglichem Kontrollverlust durch immer leistungsfähigere KI-Agenten, betont aber, dass sich das Risiko nicht verlässlich beziffern lässt und bisher keine Gegenmaßnahme als sichere Lösung belegt ist.",
       "fundorte": [
         {
@@ -17199,21 +18044,6 @@
           6,
           62,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          15,
-          72,
-          8,
-          4,
-          1,
           0,
           0,
           0
@@ -17279,6 +18109,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          15,
+          72,
+          8,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht fordert präzise, international durchsetzbare KI-rote-Linien und Sicherheitsnachweise, hält deren Umsetzung bei heutigen komplexen Modellen aber für schwierig.",
       "fundorte": [
         {
@@ -17325,7 +18171,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -17386,6 +18231,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein gemeinsamer Beitrag von Partnership on AI und Microsoft schlägt drei noch vorläufige Werkzeuge vor, um KI-Governance besser zu ordnen und abzustimmen, und lädt zur Weiterentwicklung durch Beteiligte ein.",
       "fundorte": [
         {
@@ -17427,21 +18274,6 @@
           6,
           49,
           4,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 10,
-        "verteilung": [
-          19,
-          65,
-          6,
-          8,
-          2,
           0,
           0,
           0
@@ -17507,6 +18339,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 10,
+        "verteilung": [
+          19,
+          65,
+          6,
+          8,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag sieht HAIP als ausbaufähigen freiwilligen Rahmen für vergleichbare KI-Transparenz, dessen Nutzen bislang vor allem als Potenzial beschrieben wird.",
       "fundorte": [
         {
@@ -17553,7 +18401,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 7,
@@ -17614,6 +18461,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          39,
+          57,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI fordert für mögliche Superintelligenz internationale Koordination, Aufsicht, Sicherheitsforschung und öffentliche Mitsprache, legt aber weder ein fertiges Regelwerk noch Belege für seine Zukunftsprognosen vor.",
       "fundorte": [
         {

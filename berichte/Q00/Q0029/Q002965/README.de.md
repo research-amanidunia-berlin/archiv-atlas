@@ -6,10 +6,14 @@ Bericht Q002965 · Quelle tandfonline.com · Datum – · [Original öffnen](htt
 
 [Alle Berichte](../../../README.de.md) · Daten: [bericht.json](bericht.json)
 
+## Zusammenfassung (von Luna, ungeprüft)
+
+In einer Wortassoziationsaufgabe wurden Hinweise bei hoher oder niedriger Alpha-Aktivität im rechten Schläfenbereich eingeblendet. Laut Studie gingen Hinweise bei hoher Aktivität mit mehr richtigen Lösungen und berichteten Aha-Erlebnissen einher; die kleine Stichprobe und das Versuchsdesign erlauben jedoch keinen abschließenden Kausalnachweis.
+
 ## Sammelfragen
 
 Je Zelle: Anteil Stufe 4–7 / Stufe 3–7 (4 = enthält zitierbare Belege … 7 = beantwortet direkt; 3 = nützlicher Hintergrund). Aufgeführt: Sammelfragen, bei denen mindestens ein Modell den Stufen 3–7 mindestens 10 % gibt. „–“ = Modell hat diesen Bericht nicht bewertet. Volle Verteilungen: [bericht.json](bericht.json).
 
-| Frage | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
-|---|---|---|---|---|---|---|---|
-| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 25 / 62 % | – | 60 / 68 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| Frage | clef | Luna | JEV | amos | SubQ | drex | d3-ultra | d3-flash |
+|---|---|---|---|---|---|---|---|---|
+| [SF-P3](../../../../fragen/SF-P3/) Woran erkennt man, dass ein Labor sich ehrlich selbst überwacht und dass seine Prüfungen gültig sind? | 0 / 0 % | 25 / 62 % | 60 / 68 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |

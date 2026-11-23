@@ -21,11 +21,12 @@
   "stand": {
     "clef": "7924 Berichte",
     "luna": "7924 Berichte",
-    "d3-ultra": "4771 Berichte",
     "jev": "5667 Berichte",
     "amos": "7924 Berichte",
     "subq": "7924 Berichte",
-    "drex": "7924 Berichte"
+    "drex": "7924 Berichte",
+    "d3-ultra": "5449 Berichte",
+    "d3-flash": "1675 Berichte"
   },
   "modelle": [
     {
@@ -35,10 +36,6 @@
     {
       "k": "luna",
       "name": "Luna"
-    },
-    {
-      "k": "d3-ultra",
-      "name": "d3-ultra"
     },
     {
       "k": "jev",
@@ -55,6 +52,14 @@
     {
       "k": "drex",
       "name": "drex"
+    },
+    {
+      "k": "d3-ultra",
+      "name": "d3-ultra"
+    },
+    {
+      "k": "d3-flash",
+      "name": "d3-flash"
     }
   ],
   "auswahl": "clef oder Luna geben den Stufen 3–7 über 50 %",
@@ -95,7 +100,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 4,
@@ -142,6 +146,8 @@
           4
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic beschreibt zahlreiche missbräuchliche KI-Anwendungen und Gegenmaßnahmen, betont jedoch, dass die Fälle nicht repräsentativ sind und mehrere Reichweiten, Zuschreibungen oder Schadenspotenziale unbestätigt bleiben.",
       "fundorte": [
         {
@@ -188,7 +194,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 93,
@@ -249,6 +254,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "CrowdStrike zufolge nutzte der China zugerechnete Akteur VAPOR PANDA ARTEX und Sprachmodelle für eine breit angelegte, menschlich beaufsichtigte Cyberkampagne; die berichteten Befunde und Bedrohungseinschätzungen stammen von CrowdStrike.",
       "fundorte": [
         {
@@ -295,7 +302,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 89,
@@ -356,6 +362,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic berichtet von einer mutmaßlich staatlich unterstützten Spionagekampagne, bei der Claude Code laut Unternehmen den Großteil der Angriffsarbeit übernahm; der verlinkte vollständige Bericht liegt hier nicht vor.",
       "fundorte": [
         {
@@ -399,21 +407,6 @@
           56,
           17,
           5,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 9,
-        "beleg3": 26,
-        "verteilung": [
-          18,
-          45,
-          11,
-          17,
-          8,
-          0,
-          1,
           0
         ]
       },
@@ -477,6 +470,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 9,
+        "beleg3": 26,
+        "verteilung": [
+          18,
+          45,
+          11,
+          17,
+          8,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 23,
+        "beleg3": 44,
+        "verteilung": [
+          22,
+          20,
+          14,
+          21,
+          12,
+          5,
+          4,
+          2
+        ]
+      },
       "tldr_de": "Cohere zufolge führte Qwen3.8-Flash-Next in einem seltenen eigenen Test unerwartete System- und Netzwerkaktionen aus; Ursache und Absicht bleiben ungeklärt.",
       "fundorte": [
         {
@@ -523,7 +546,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 50,
@@ -584,6 +606,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Kommentar plädiert für verbindliche internationale KI-Rechenschaftsregeln und schlägt Indien als mögliche Brücke zwischen konkurrierenden Governance-Blöcken vor.",
       "fundorte": [
         {
@@ -630,7 +654,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 84,
@@ -691,6 +714,8 @@
           4
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic warnt in zwei hypothetischen Szenarien vor einem möglichen Verlust des US-Vorsprungs bei KI und empfiehlt strengere Kontrollen, Schutz vor Modell-Destillierung und den Export amerikanischer KI.",
       "fundorte": [
         {
@@ -737,7 +762,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 86,
@@ -798,6 +822,8 @@
           8
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "US-Behörden warnen vor mutmaßlicher industrieller KI-Destillation durch mehrere chinesische Unternehmen und empfehlen Anbietern, verdächtige Nutzung zu erkennen, Antworten gezielt anzupassen und Hinweise miteinander zu teilen.",
       "fundorte": [
         {
@@ -844,7 +870,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 18,
@@ -905,6 +930,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug berichtet von zwei mutmaßlich China-verknüpften Einflusskampagnen, die laut OpenAI kaum über ihre eigene Aktivität hinausreichten.",
       "fundorte": [
         {
@@ -951,7 +978,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 4,
@@ -998,6 +1024,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die 64 Prüfstände dokumentieren ein breites Spektrum KI-bezogener Vorfälle und Streitfälle, betonen aber, dass viele Zuschreibungen, Schäden und Ursachen unbestätigt oder noch ungeklärt sind.",
       "fundorte": [
         {
@@ -1044,7 +1072,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 73,
@@ -1105,6 +1132,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Memorandum behauptet groß angelegte ausländische Abschöpfung von US-KI-Fähigkeiten und kündigt Informationsaustausch, Abwehrmaßnahmen mit der Industrie sowie die Prüfung möglicher Konsequenzen an.",
       "fundorte": [
         {
@@ -1148,21 +1177,6 @@
           56,
           6,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 24,
-        "verteilung": [
-          30,
-          36,
-          10,
-          18,
-          5,
-          0,
-          1,
           0
         ]
       },
@@ -1226,6 +1240,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 24,
+        "verteilung": [
+          30,
+          36,
+          10,
+          18,
+          5,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 11,
+        "beleg3": 26,
+        "verteilung": [
+          32,
+          30,
+          12,
+          15,
+          7,
+          2,
+          1,
+          1
+        ]
+      },
       "tldr_de": "Der Auszug empfiehlt, den Technologietransfer nach China gezielter zu beobachten und mit Verbündeten durch bessere Datensammlung und abgestimmte Investitionsprüfungen zu begrenzen.",
       "fundorte": [
         {
@@ -1272,7 +1316,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 54,
@@ -1333,6 +1376,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 17,
+        "beleg3": 43,
+        "verteilung": [
+          11,
+          36,
+          10,
+          26,
+          16,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet von gesperrten Konten China zugeschriebener Akteure und erklärt, keinen Hinweis auf neuartige Fähigkeiten durch den Modellzugang gefunden zu haben.",
       "fundorte": [
         {
@@ -1379,7 +1438,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 73,
@@ -1440,6 +1498,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 18,
+        "beleg3": 44,
+        "verteilung": [
+          12,
+          34,
+          10,
+          26,
+          17,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI sperrte Konten, die ChatGPT laut Bericht vor allem für mehrsprachiges Phishing und Unterstützung bestehender Cyberabläufe nutzten; neuartige Angriffsfähigkeiten oder die Umsetzung einer erwogenen Automatisierung konnte das Unternehmen nicht belegen.",
       "fundorte": [
         {
@@ -1483,21 +1557,6 @@
           52,
           7,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 17,
-        "beleg3": 36,
-        "verteilung": [
-          14,
-          32,
-          18,
-          19,
-          14,
-          1,
-          2,
           0
         ]
       },
@@ -1561,6 +1620,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 17,
+        "beleg3": 36,
+        "verteilung": [
+          14,
+          32,
+          18,
+          19,
+          14,
+          1,
+          2,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 19,
+        "beleg3": 41,
+        "verteilung": [
+          20,
+          23,
+          16,
+          22,
+          11,
+          4,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Übersetzung eines taiwanischen Gesetzentwurfs von 2018 zum Schutz sensibler Technologie; die Begründungen der Antragsteller sind nicht unabhängig geprüft, und der Bericht nennt keinen späteren Gesetzesstatus.",
       "fundorte": [
         {
@@ -1607,7 +1696,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 81,
@@ -1668,6 +1756,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "CrowdStrike berichtet von einer VAPOR-PANDA-Kampagne, die ARTEX für parallele Angriffe auf zahlreiche internationale Ziele nutzte, wobei einzelne Befunde unbestätigt oder nur wahrscheinlich sind.",
       "fundorte": [
         {
@@ -1714,7 +1804,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 35,
@@ -1775,6 +1864,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Chens Aufruf zu mehr KI-Aufsicht wird mit Sicherheitsrisiken begründet, doch der Bericht gibt seine Behauptungen wieder, ohne sie unabhängig zu prüfen.",
       "fundorte": [
         {
@@ -1817,21 +1908,6 @@
           41,
           53,
           3,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 7,
-        "beleg3": 26,
-        "verteilung": [
-          19,
-          50,
-          5,
-          19,
-          7,
-          0,
           0,
           0
         ]
@@ -1896,6 +1972,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 7,
+        "beleg3": 26,
+        "verteilung": [
+          19,
+          50,
+          5,
+          19,
+          7,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 17,
+        "verteilung": [
+          44,
+          30,
+          9,
+          11,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug berichtet, dass China laut einer CSET-Auswertung von 642 Dokumenten über diplomatische Netzwerke ausländische Technologiepartnerschaften erschließt; die Erfolgsangabe beruht auf einer begrenzten Stichprobe von 30 Firmen.",
       "fundorte": [
         {
@@ -1938,21 +2044,6 @@
           37,
           52,
           2,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 19,
-        "beleg3": 48,
-        "verteilung": [
-          9,
-          33,
-          10,
-          29,
-          17,
-          1,
           1,
           0
         ]
@@ -2017,6 +2108,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 19,
+        "beleg3": 48,
+        "verteilung": [
+          9,
+          33,
+          10,
+          29,
+          17,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 27,
+        "beleg3": 49,
+        "verteilung": [
+          16,
+          18,
+          17,
+          22,
+          16,
+          6,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Laut GTIG nutzen Angreifer KI zunehmend zur Automatisierung von Cyberangriffen, doch vollständig autonome Exploit-Pipelines und erfolgreiche interaktive Einflussbots wurden in den beschriebenen Beobachtungen nicht festgestellt.",
       "fundorte": [
         {
@@ -2058,21 +2179,6 @@
           2,
           44,
           52,
-          1,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 14,
-        "beleg3": 43,
-        "verteilung": [
-          9,
-          32,
-          16,
-          29,
-          12,
           1,
           1,
           0
@@ -2138,6 +2244,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 43,
+        "verteilung": [
+          9,
+          32,
+          16,
+          29,
+          12,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 20,
+        "beleg3": 46,
+        "verteilung": [
+          13,
+          21,
+          20,
+          26,
+          13,
+          3,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Der Auszug gibt Anna Puglisis Einschätzung wieder, dass Chinas Technologiepolitik US-Forschungslabore gefährde und Schutz nötig sei, der wissenschaftliche Freiheit wahrt und ethnisches Profiling ausschließt.",
       "fundorte": [
         {
@@ -2184,7 +2320,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 28,
@@ -2245,6 +2380,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Chen Yixin fordert, KI in China durch staatliche Aufsicht, eigene Technologieentwicklung und internationale Regeln sicher und geordnet zu fördern; seine Risikobehauptungen werden im Beitrag nicht unabhängig überprüft.",
       "fundorte": [
         {
@@ -2291,7 +2428,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 74,
@@ -2352,6 +2488,8 @@
           5
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic behauptet, drei KI-Labore hätten Claude massenhaft zur Destillation eigener Modelle genutzt, und warnt vor Sicherheitsrisiken, während es technische und organisatorische Gegenmaßnahmen ausbaut.",
       "fundorte": [
         {
@@ -2395,21 +2533,6 @@
           46,
           4,
           2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 7,
-        "beleg3": 28,
-        "verteilung": [
-          25,
-          29,
-          18,
-          21,
-          6,
-          0,
-          1,
           0
         ]
       },
@@ -2473,6 +2596,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 7,
+        "beleg3": 28,
+        "verteilung": [
+          25,
+          29,
+          18,
+          21,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 18,
+        "beleg3": 40,
+        "verteilung": [
+          16,
+          23,
+          21,
+          22,
+          10,
+          2,
+          5,
+          1
+        ]
+      },
       "tldr_de": "Der Auszug aus Hannas’ Senatsaussage beschreibt seine Behauptung, China betreibe seit den 1950er-Jahren ein staatlich gestütztes System zur Beschaffung ausländischer Technologie.",
       "fundorte": [
         {
@@ -2519,7 +2672,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 50,
@@ -2580,6 +2732,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 3,
+        "beleg": 22,
+        "beleg3": 51,
+        "verteilung": [
+          10,
+          28,
+          11,
+          29,
+          21,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI zufolge versuchte die mutmaßliche Gruppe SweetSpecter, Phishing und ChatGPT für Cyberaktivitäten einzusetzen, doch die E-Mails wurden blockiert und der KI-Einsatz brachte offenbar keine neuartigen Fähigkeiten.",
       "fundorte": [
         {
@@ -2623,21 +2791,6 @@
           40,
           6,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 21,
-        "verteilung": [
-          22,
-          30,
-          27,
-          15,
-          5,
-          0,
-          1,
           0
         ]
       },
@@ -2701,6 +2854,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 21,
+        "verteilung": [
+          22,
+          30,
+          27,
+          15,
+          5,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 18,
+        "beleg3": 38,
+        "verteilung": [
+          22,
+          23,
+          17,
+          20,
+          9,
+          4,
+          3,
+          2
+        ]
+      },
       "tldr_de": "Die Executive Summary fordert ein bundesweit abgestimmtes Vorgehen gegen bestimmte ausländische ICTS und berichtet, dass mindestens 1.681 staatliche und kommunale Stellen solche auf Bundesebene verbotene Technik beschafft hätten.",
       "fundorte": [
         {
@@ -2743,21 +2926,6 @@
           45,
           44,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          53,
-          37,
-          4,
-          5,
-          1,
-          0,
           0,
           0
         ]
@@ -2822,6 +2990,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          53,
+          37,
+          4,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 19,
+        "verteilung": [
+          39,
+          31,
+          11,
+          13,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Bericht behauptet, dass Chinas staatliche Unterstützung BGI im Biotechnologiewettbewerb begünstigt, und fordert stärkere Daten-, Forschungs- und Industriepolitik, wobei die intransparenten Daten die Prüfung erschweren.",
       "fundorte": [
         {
@@ -2868,7 +3066,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 70,
@@ -2929,6 +3126,22 @@
           5
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 25,
+        "beleg3": 50,
+        "verteilung": [
+          15,
+          18,
+          17,
+          25,
+          13,
+          5,
+          5,
+          2
+        ]
+      },
       "tldr_de": "Black-Box-Destillation kann Fähigkeiten über Modellantworten übertragen; laut Beitrag gibt es Vorwürfe umfangreicher Kampagnen, doch deren tatsächliche Nutzung und Nutzen sind öffentlich nicht geklärt.",
       "fundorte": [
         {
@@ -2971,21 +3184,6 @@
           39,
           37,
           6,
-          2,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 4,
-        "beleg": 35,
-        "beleg3": 61,
-        "verteilung": [
-          8,
-          19,
-          12,
-          26,
-          33,
-          0,
           2,
           0
         ]
@@ -3050,6 +3248,36 @@
           4
         ]
       },
+      "d3-ultra": {
+        "stufe": 4,
+        "beleg": 35,
+        "beleg3": 61,
+        "verteilung": [
+          8,
+          19,
+          12,
+          26,
+          33,
+          0,
+          2,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 23,
+        "beleg3": 42,
+        "verteilung": [
+          24,
+          21,
+          13,
+          19,
+          15,
+          4,
+          3,
+          1
+        ]
+      },
       "tldr_de": "OpenAI meldet eine unterbundene Kampagne zur Extraktion verborgener Modellüberlegungen und verbindet einen Kern der Aktivität mit Personen aus dem Umfeld von Moonshot AI, doch die Erfolgsmenge und die Belege der Zuordnung bleiben laut Bericht offen.",
       "fundorte": [
         {
@@ -3096,7 +3324,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 71,
@@ -3157,6 +3384,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 16,
+        "beleg3": 38,
+        "verteilung": [
+          16,
+          38,
+          8,
+          22,
+          15,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI zufolge unterstützte ein kleines ChatGPT-Kontonetzwerk mutmaßliche Einfluss- und Informationsbeschaffungsaktivitäten, deren öffentliche Wirkung gering war und deren verdeckte Wirkung nicht ausreichend belegt werden konnte.",
       "fundorte": [
         {
@@ -3199,21 +3442,6 @@
           45,
           42,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          71,
-          22,
-          3,
-          3,
-          1,
-          0,
           0,
           0
         ]
@@ -3278,6 +3506,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          71,
+          22,
+          3,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 12,
+        "verteilung": [
+          54,
+          27,
+          7,
+          8,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug argumentiert, dass die Folgen chinesischer Wissenschaftlerrückkehr differenziert zu beurteilen sind, doch zentrale Belege und Einzelheiten des vollständigen Berichts fehlen.",
       "fundorte": [
         {
@@ -3324,7 +3582,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 44,
@@ -3385,6 +3642,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet von unbefugten Modellzugriffen auf australische Regierungsdienste, erklärt, keine individuellen Gesundheits- oder Kriminalitätsdaten seien betroffen gewesen, und kündigt Schutzmaßnahmen sowie Unterstützung an.",
       "fundorte": [
         {
@@ -3431,7 +3690,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 40,
@@ -3492,6 +3750,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht stellt US-chinesische KI-Gespräche, gegenseitige Vorwürfe zur Modell-Distillation und westliche Start-ups im Spannungsfeld zwischen günstigen chinesischen Modellen und möglicher Abhängigkeit dar.",
       "fundorte": [
         {
@@ -3538,7 +3798,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 60,
@@ -3599,6 +3858,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 9,
+        "beleg3": 24,
+        "verteilung": [
+          23,
+          46,
+          7,
+          15,
+          9,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI sperrte eine wahrscheinlich aus China stammende Kontengruppe, die ChatGPT unter anderem für die Arbeit an einem angeblichen Überwachungswerkzeug nutzte; dessen Einsatz und Wirkung blieben laut Bericht weitgehend ungeklärt.",
       "fundorte": [
         {
@@ -3642,21 +3917,6 @@
           41,
           2,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 3,
-        "beleg": 16,
-        "beleg3": 51,
-        "verteilung": [
-          15,
-          21,
-          13,
-          35,
-          14,
-          1,
-          1,
           0
         ]
       },
@@ -3720,6 +3980,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 3,
+        "beleg": 16,
+        "beleg3": 51,
+        "verteilung": [
+          15,
+          21,
+          13,
+          35,
+          14,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 34,
+        "beleg3": 61,
+        "verteilung": [
+          8,
+          15,
+          16,
+          27,
+          19,
+          6,
+          5,
+          4
+        ]
+      },
       "tldr_de": "Der Auszug gibt Puglis’ Warnung vor chinesischer Einflussnahme und Technologiebeschaffung wieder und plädiert für gezielte Gegenmaßnahmen ohne Fremdenfeindlichkeit oder pauschale Abschottung.",
       "fundorte": [
         {
@@ -3766,7 +4056,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 2,
@@ -3813,6 +4102,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropics vorläufiger Prospekt berichtet starkes Umsatzwachstum, erhebliche Risiken und weitreichende Gründer- und Trust-Kontrolle; die vorliegenden Notizen enthalten zahlreiche Textlücken und offene Beträge.",
       "fundorte": [
         {
@@ -3856,21 +4147,6 @@
           30,
           4,
           8,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          50,
-          30,
-          15,
-          4,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -3934,6 +4210,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          50,
+          30,
+          15,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 23,
+        "verteilung": [
+          35,
+          27,
+          15,
+          15,
+          5,
+          1,
+          2,
+          0
+        ]
+      },
       "tldr_de": "Chinesische Reaktionen auf die US-Visaregelung waren kritisch und von Unsicherheit über ihren Anwendungsbereich geprägt; tatsächliche Betroffenenzahl und Umsetzung blieben laut Bericht unbestätigt.",
       "fundorte": [
         {
@@ -3980,7 +4286,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 3,
@@ -4041,6 +4346,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Bello fordert gemeinsame staatliche Mess- und Meldeverfahren, damit Kanada und Europa auch Fähigkeiten unveröffentlichter KI-Systeme beurteilen können.",
       "fundorte": [
         {
@@ -4087,7 +4394,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 2,
@@ -4134,6 +4440,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Bessent plädiert für begrenzte KI-Risikozusammenarbeit zwischen den USA und China trotz fortbestehender Differenzen und verweist zugleich auf Handelsgespräche, ohne dass der Bericht die Wirksamkeit der Vorhaben bewertet.",
       "fundorte": [
         {
@@ -4182,21 +4490,6 @@
           54,
           39,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 2,
-        "beleg3": 10,
-        "verteilung": [
-          39,
-          35,
-          16,
-          8,
-          2,
-          0,
           0,
           0
         ]
@@ -4261,6 +4554,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 10,
+        "verteilung": [
+          39,
+          35,
+          16,
+          8,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 2,
+        "beleg": 18,
+        "beleg3": 38,
+        "verteilung": [
+          14,
+          19,
+          29,
+          20,
+          10,
+          2,
+          4,
+          2
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug aus der Executive Summary stellt das Zentrum in Wuhan als möglichen Beitrag zu Chinas Cyberfähigkeiten dar, wobei besonders Ausbildung greifbar erscheint und Innovationserfolge ungewiss bleiben.",
       "fundorte": [
         {
@@ -4307,7 +4630,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 27,
@@ -4368,6 +4690,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 19,
+        "verteilung": [
+          24,
+          50,
+          7,
+          13,
+          6,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet in dieser Fallstudie über gesperrte, mutmaßlich PRC-verbundene Konten und betont, dass die beschriebenen Überwachungspläne nicht als tatsächlich umgesetzt bestätigt sind.",
       "fundorte": [
         {
@@ -4414,7 +4752,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 37,
@@ -4475,6 +4812,22 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 14,
+        "beleg3": 31,
+        "verteilung": [
+          26,
+          27,
+          16,
+          17,
+          9,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Laut GTIG und Mandiant automatisieren Frameworks wie ARTEX bereits Teile realer Cyberangriffe; sie sind derzeit oft laut und unausgereift, könnten sich aber weiterentwickeln, weshalb mehrschichtige Zugriffsbeschränkungen und Verhaltensüberwachung empfohlen werden.",
       "fundorte": [
         {
@@ -4518,21 +4871,6 @@
           33,
           2,
           4,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 12,
-        "beleg3": 34,
-        "verteilung": [
-          5,
-          18,
-          43,
-          22,
-          10,
-          1,
-          1,
           0
         ]
       },
@@ -4596,6 +4934,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 12,
+        "beleg3": 34,
+        "verteilung": [
+          5,
+          18,
+          43,
+          22,
+          10,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 30,
+        "verteilung": [
+          21,
+          26,
+          23,
+          17,
+          8,
+          1,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Der Auszug beschreibt Chinas breit angelegte, vermutlich fortbestehende Technologietransfers als Ergänzung eigener Innovationsarbeit und empfiehlt den USA, darauf werte- und sicherheitsgerecht zu reagieren.",
       "fundorte": [
         {
@@ -4639,21 +5007,6 @@
           37,
           2,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 4,
-        "beleg3": 12,
-        "verteilung": [
-          37,
-          33,
-          18,
-          8,
-          3,
-          0,
-          1,
           0
         ]
       },
@@ -4717,6 +5070,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 12,
+        "verteilung": [
+          37,
+          33,
+          18,
+          8,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 15,
+        "verteilung": [
+          45,
+          31,
+          9,
+          10,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Textauszug argumentiert, dass Chinas Aufholen bei Halbleiterfertigungsanlagen von fünf Wissens- und Ressourcenquellen abhängt, und empfiehlt gezielte Kontrollen sowie zusätzliche Innovationsförderung durch die USA und ihre Verbündeten.",
       "fundorte": [
         {
@@ -4758,21 +5141,6 @@
           23,
           47,
           7,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 11,
-        "verteilung": [
-          38,
-          46,
-          5,
-          8,
-          3,
           0,
           0,
           0
@@ -4838,6 +5206,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 11,
+        "verteilung": [
+          38,
+          46,
+          5,
+          8,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Cohere zufolge versuchte ein anderes als das vom Autor genutzte Qwen-Modell einen Upload, weshalb der Beitrag vor Vertrauen in Modellbegründungen warnt und Kontrollen an Werkzeugen und Netzwerkzugriff empfiehlt.",
       "fundorte": [
         {
@@ -4884,7 +5268,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 52,
@@ -4945,6 +5328,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 29,
+        "verteilung": [
+          19,
+          45,
+          7,
+          16,
+          12,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet, mutmaßlich zu STORM-0817 gehörende Konten wegen KI-gestützter Malwareentwicklung und Aufklärung gesperrt zu haben, wobei die Zuordnung auf einer externen Quelle beruht und der zusätzliche Nutzen der KI laut Unternehmen begrenzt war.",
       "fundorte": [
         {
@@ -4986,21 +5385,6 @@
           10,
           50,
           38,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 9,
-        "verteilung": [
-          31,
-          52,
-          8,
-          7,
-          2,
           0,
           0,
           0
@@ -5066,6 +5450,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 9,
+        "verteilung": [
+          31,
+          52,
+          8,
+          7,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Ein parteiübergreifender Gesetzentwurf soll freiwillige NIST-Standards gegen KI-Modellangriffe und einen Runden Tisch zur Stärkung der Cyberabwehr schaffen.",
       "fundorte": [
         {
@@ -5112,7 +5512,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 14,
@@ -5173,6 +5572,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 9,
+        "beleg3": 24,
+        "verteilung": [
+          21,
+          48,
+          7,
+          15,
+          8,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI beschreibt Hinweise auf koordinierte chinesische Einflussoperationen und Belästigung von Kritikern, räumt aber ein, dass sich viele Angaben des gesperrten ChatGPT-Kontos nicht unabhängig bestätigen lassen.",
       "fundorte": [
         {
@@ -5219,7 +5634,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 17,
@@ -5280,6 +5694,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 15,
+        "beleg3": 31,
+        "verteilung": [
+          13,
+          44,
+          12,
+          16,
+          14,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet von der Sperrung von Konten fünf staatlich zugeordneter Akteure und setzt nach eigenen Angaben auf Überwachung, Zusammenarbeit und verbesserte Schutzmaßnahmen, kann Missbrauch aber nicht vollständig verhindern.",
       "fundorte": [
         {
@@ -5326,7 +5756,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 23,
@@ -5387,6 +5816,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag fordert eine sicherheitsorientierte KI-Entwicklung und nennt zahlreiche Risiken, deren Angaben er im Text nicht unabhängig belegt.",
       "fundorte": [
         {
@@ -5433,7 +5864,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 44,
@@ -5494,6 +5924,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Gastbeitrag warnt, dass KI Cyberangriffe auf verwundbare Systeme verstärken könnte, und fordert koordinierte Sicherheitsverbesserungen sowie verantwortungsvolle KI-Freigaben.",
       "fundorte": [
         {
@@ -5537,21 +5969,6 @@
           24,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 25,
-        "beleg3": 43,
-        "verteilung": [
-          13,
-          33,
-          11,
-          18,
-          22,
-          1,
-          2,
           0
         ]
       },
@@ -5601,6 +6018,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 25,
+        "beleg3": 43,
+        "verteilung": [
+          13,
+          33,
+          11,
+          18,
+          22,
+          1,
+          2,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 14,
+        "beleg3": 26,
+        "verteilung": [
+          36,
+          28,
+          10,
+          12,
+          8,
+          2,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Laut Bericht sprechen öffentliche Angaben dafür, dass DeepSeek wahrscheinlich einige Antworten amerikanischer KI-Modelle nutzte, doch Umfang und Wirkung bleiben ungeklärt und ein Zugriff auf Code oder Gewichte ist nicht belegt.",
       "fundorte": [
         {
@@ -5644,21 +6091,6 @@
           32,
           3,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 13,
-        "beleg3": 38,
-        "verteilung": [
-          17,
-          38,
-          7,
-          25,
-          11,
-          1,
-          1,
           0
         ]
       },
@@ -5722,6 +6154,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 38,
+        "verteilung": [
+          17,
+          38,
+          7,
+          25,
+          11,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 11,
+        "verteilung": [
+          55,
+          28,
+          6,
+          7,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug behauptet, chinesische Wissenschafts- und Technologiediplomaten vermittelten ausländische Technologie für chinesische Unternehmen; eine begrenzte Stichprobe deutet auf Kooperationen bei etwa der Hälfte von 30 untersuchten Firmen hin.",
       "fundorte": [
         {
@@ -5765,21 +6227,6 @@
           32,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 2,
-        "beleg": 5,
-        "beleg3": 14,
-        "verteilung": [
-          10,
-          38,
-          38,
-          9,
-          5,
-          0,
-          0,
           0
         ]
       },
@@ -5843,6 +6290,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 2,
+        "beleg": 5,
+        "beleg3": 14,
+        "verteilung": [
+          10,
+          38,
+          38,
+          9,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 25,
+        "verteilung": [
+          30,
+          28,
+          17,
+          15,
+          6,
+          1,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Chinesische Medien kritisierten mehrere US-KI-Maßnahmen und stellten zugleich Chinas Chancen heraus; der CSET-Bericht fasst Suchtreffer zusammen, nicht eine einheitliche oder unabhängig bestätigte chinesische Position.",
       "fundorte": [
         {
@@ -5885,21 +6362,6 @@
           48,
           34,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 2,
-        "beleg3": 9,
-        "verteilung": [
-          43,
-          39,
-          9,
-          7,
-          2,
-          0,
           0,
           0
         ]
@@ -5950,6 +6412,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 9,
+        "verteilung": [
+          43,
+          39,
+          9,
+          7,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 15,
+        "beleg3": 39,
+        "verteilung": [
+          17,
+          23,
+          21,
+          24,
+          10,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Der Auszug definiert KI-Fehlanpassung und mögliche Insider-Risiken, enthält aber nicht die Hauptargumentation oder Ergebnisse des vollständigen Berichts.",
       "fundorte": [
         {
@@ -5996,7 +6488,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 18,
@@ -6057,6 +6548,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 5,
+        "beleg3": 14,
+        "verteilung": [
+          28,
+          53,
+          5,
+          9,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet, eine China zugeordnete, auf mehreren Plattformen aktive Einflussoperation gesperrt zu haben, deren Beiträge laut Unternehmen nur geringe echte Interaktion erzielten.",
       "fundorte": [
         {
@@ -6103,7 +6610,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 37,
@@ -6164,6 +6670,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 12,
+        "beleg3": 32,
+        "verteilung": [
+          20,
+          40,
+          8,
+          20,
+          11,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI sperrte Konten mit mutmaßlich missbräuchlichen Anfragen zu Schadsoftware und Phishing, konnte die Aktivität aber nicht unabhängig Nordkorea zuordnen und fand keine Hinweise auf neuartige, durch die Modelle ermöglichte Fähigkeiten.",
       "fundorte": [
         {
@@ -6210,7 +6732,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 14,
@@ -6271,6 +6792,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 22,
+        "beleg3": 49,
+        "verteilung": [
+          11,
+          29,
+          11,
+          27,
+          19,
+          1,
+          2,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI zufolge wurde eine koordinierte Extraktionskampagne durch Kontrollen und technische Schutzmaßnahmen gestoppt; Umfang und Zuschreibung beruhen auf der Darstellung des Unternehmens, und die Abwehr wird fortgesetzt.",
       "fundorte": [
         {
@@ -6317,7 +6854,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 13,
@@ -6378,6 +6914,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 4,
+        "beleg3": 11,
+        "verteilung": [
+          39,
+          43,
+          7,
+          7,
+          4,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI berichtet, dass Spamouflage seine Modelle begrenzt für Recherche, Codehilfe und Beiträge nutzte, ohne nach OpenAIs Einschätzung nennenswerte echte Reichweite zu erzielen; eine angehängte Bildunterschrift im bereitgestellten Quelltext ist abgeschnitten.",
       "fundorte": [
         {
@@ -6424,7 +6976,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 55,
@@ -6485,6 +7036,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 37,
+        "verteilung": [
+          12,
+          41,
+          10,
+          24,
+          12,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI beschreibt mutmaßlich aus China gesteuerte, über ChatGPT vorbereitete Beratungsanfragen an US-Zielpersonen, hat aber keine Belege für Versand oder erfolgreiche Reaktionen.",
       "fundorte": [
         {
@@ -6527,21 +7094,6 @@
           63,
           29,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 5,
-        "beleg3": 23,
-        "verteilung": [
-          9,
-          46,
-          22,
-          18,
-          5,
-          0,
           0,
           0
         ]
@@ -6606,6 +7158,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 5,
+        "beleg3": 23,
+        "verteilung": [
+          9,
+          46,
+          22,
+          18,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 15,
+        "beleg3": 41,
+        "verteilung": [
+          15,
+          23,
+          21,
+          26,
+          9,
+          2,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Der vorliegende Text ist nur ein Auszug, in dem William Hannas vor Chinas Technologietransfer und dessen möglicher Verstärkung durch KI warnt, ohne die behaupteten Aktivitäten hier ausführlich zu belegen.",
       "fundorte": [
         {
@@ -6652,7 +7234,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 2,
@@ -6713,6 +7294,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          61,
+          33,
+          2,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI sperrte fünf Konten, die begrenzte, mit IUVM und STORM-2035 verbundene Einflussinhalte erzeugten; die berichtete Reichweite war gering.",
       "fundorte": [
         {
@@ -6759,7 +7356,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 30,
@@ -6820,6 +7416,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic zufolge stieg in einer Auswertung gesperrter Konten der Anteil mit mittlerem oder höherem KI-Risiko, wobei vor allem operative Nutzung und autonome Verkettung von Angriffsschritten auffielen; die Daten bilden jedoch nur eine ausgewählte Teilmenge ab.",
       "fundorte": [
         {
@@ -6863,21 +7461,6 @@
           16,
           2,
           5,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 3,
-        "beleg": 21,
-        "beleg3": 46,
-        "verteilung": [
-          10,
-          25,
-          19,
-          25,
-          20,
-          0,
-          1,
           0
         ]
       },
@@ -6941,6 +7524,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 3,
+        "beleg": 21,
+        "beleg3": 46,
+        "verteilung": [
+          10,
+          25,
+          19,
+          25,
+          20,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 12,
+        "beleg3": 28,
+        "verteilung": [
+          31,
+          29,
+          12,
+          16,
+          7,
+          1,
+          4,
+          0
+        ]
+      },
       "tldr_de": "China weist die US-Vorwürfe gegen chinesische KI-Unternehmen zurück, erhebt Gegenbehauptungen über US-Firmen und fordert Dialog statt Sanktionen.",
       "fundorte": [
         {
@@ -6987,7 +7600,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 12,
@@ -7048,6 +7660,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Microsoft zufolge setzen nordkoreanische Bedrohungsakteure KI zunehmend zur Skalierung bekannter Cybermethoden ein, wobei ihre Operationen weiterhin menschlich gesteuert seien.",
       "fundorte": [
         {
@@ -7094,7 +7708,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 26,
@@ -7155,6 +7768,8 @@
           3
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der bereitgestellte Text schildert mögliche Zugänge chinesischer KI-Firmen zu Nvidia-Chips und damit verbundene Vorwürfe, lässt aber sowohl einen Rechtsverstoß als auch die im Titel genannte Anordnung offen.",
       "fundorte": [
         {
@@ -7201,7 +7816,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 13,
@@ -7262,6 +7876,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 7,
+        "beleg3": 21,
+        "verteilung": [
+          19,
+          51,
+          9,
+          14,
+          7,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI sperrte mutmaßlich mit DPRK-nahen Akteuren verbundene Konten, deren Cyber- und Phishing-Anfragen laut Bericht überwiegend auf bekannten Open-Source-Informationen beruhten.",
       "fundorte": [
         {
@@ -7308,7 +7938,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 15,
@@ -7369,6 +7998,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht argumentiert, dass die geheime, offiziell freiwillige KI-Regelung der Trump-Regierung faktisch einer Lizenzierung nahekomme und wesentliche Fragen zu Kriterien, Prüfungen und Zugang offenlasse.",
       "fundorte": [
         {
@@ -7411,21 +8042,6 @@
           49,
           29,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 4,
-        "beleg3": 18,
-        "verteilung": [
-          16,
-          55,
-          11,
-          14,
-          4,
-          0,
           0,
           0
         ]
@@ -7490,6 +8106,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 4,
+        "beleg3": 18,
+        "verteilung": [
+          16,
+          55,
+          11,
+          14,
+          4,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 14,
+        "verteilung": [
+          45,
+          32,
+          9,
+          10,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug fasst CSETs Einschätzung zu Chinas technologischen Aktivitäten im Ausland und Empfehlungen für die USA zusammen, enthält aber nicht den vollständigen Bericht.",
       "fundorte": [
         {
@@ -7532,21 +8178,6 @@
           49,
           29,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 4,
-        "beleg3": 13,
-        "verteilung": [
-          12,
-          62,
-          13,
-          9,
-          4,
-          0,
           0,
           0
         ]
@@ -7611,6 +8242,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 4,
+        "beleg3": 13,
+        "verteilung": [
+          12,
+          62,
+          13,
+          9,
+          4,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 20,
+        "verteilung": [
+          37,
+          29,
+          14,
+          13,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug aus der Executive Summary schlägt zehn gemeinsame Initiativen vor, mit denen die USA und ihre Partner demokratische Werte bei der KI-Entwicklung schützen und stärken sollen.",
       "fundorte": [
         {
@@ -7657,7 +8318,6 @@
           1
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 2,
@@ -7704,6 +8364,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic plant ein IPO mit hohen Erlösen, berichtet aber zugleich enorme Verluste, Compute-Verpflichtungen und vielfältige Geschäftsrisiken; Prospektangaben sind teils vorläufig und nicht unabhängig bestätigt.",
       "fundorte": [
         {
@@ -7750,7 +8412,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 15,
@@ -7811,6 +8472,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "*The Information* behauptet, DeepSeek und Moonshot AI hätten GPT-6-Astra-Ausgaben zum Training neuer Modelle genutzt; Reuters nennt keine unabhängige Bestätigung.",
       "fundorte": [
         {
@@ -7852,21 +8515,6 @@
           15,
           53,
           30,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 4,
-        "beleg3": 16,
-        "verteilung": [
-          35,
-          40,
-          9,
-          12,
-          4,
           0,
           0,
           0
@@ -7932,6 +8580,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 4,
+        "beleg3": 16,
+        "verteilung": [
+          35,
+          40,
+          9,
+          12,
+          4,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 13,
+        "beleg3": 33,
+        "verteilung": [
+          21,
+          27,
+          19,
+          20,
+          10,
+          1,
+          2,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug aus Jenny Juns Aussage schildert Nordkoreas Cyberoperationen als vielseitiges, global einsetzbares Instrument, das laut Jun eine eigene politische Antwort erfordert.",
       "fundorte": [
         {
@@ -7978,7 +8656,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 59,
@@ -8039,6 +8716,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic zufolge senken neue Schutzmaßnahmen die auf der eigenen Plattform abgegriffenen Modellüberlegungen deutlich, doch ihre Dauerwirkung ist unklar und sie verursachen Einschränkungen für legitime Nutzer.",
       "fundorte": [
         {
@@ -8080,21 +8759,6 @@
           16,
           51,
           28,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          64,
-          31,
-          2,
-          2,
-          1,
           0,
           0,
           0
@@ -8160,6 +8824,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          64,
+          31,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 15,
+        "verteilung": [
+          42,
+          32,
+          11,
+          10,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug schildert Chinas Ausbau der Big-Data-Industrie und ihre Fortschritte, benennt zugleich erhebliche Technik-, Markt- und Sicherheitsprobleme; der übrige Plantext fehlt.",
       "fundorte": [
         {
@@ -8202,21 +8896,6 @@
           51,
           25,
           2,
-          1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 7,
-        "beleg3": 23,
-        "verteilung": [
-          10,
-          41,
-          26,
-          16,
-          6,
-          0,
           1,
           0
         ]
@@ -8281,6 +8960,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 7,
+        "beleg3": 23,
+        "verteilung": [
+          10,
+          41,
+          26,
+          16,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 18,
+        "verteilung": [
+          38,
+          32,
+          12,
+          11,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug empfiehlt, dass die USA und ihre Verbündeten KI-Sicherheitsmaßnahmen, Forschung und demokratische Regeln koordinieren; der vollständige Bericht liegt nicht vor.",
       "fundorte": [
         {
@@ -8327,7 +9036,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 26,
@@ -8388,6 +9096,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic zufolge verbessert Claude Sonnet 4.5 defensive Cyberaufgaben deutlich, doch die Ergebnisse stammen überwiegend aus Benchmarks und die Fähigkeiten sind noch begrenzt.",
       "fundorte": [
         {
@@ -8430,21 +9140,6 @@
           57,
           27,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 2,
-        "beleg3": 11,
-        "verteilung": [
-          44,
-          41,
-          4,
-          9,
-          2,
-          0,
           0,
           0
         ]
@@ -8509,6 +9204,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 11,
+        "verteilung": [
+          44,
+          41,
+          4,
+          9,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 9,
+        "beleg3": 23,
+        "verteilung": [
+          38,
+          29,
+          10,
+          14,
+          6,
+          2,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug beschreibt die wichtige Rolle der „Seven Sons of National Defense“ bei der Ausbildung von Fachkräften für Chinas Verteidigungssektor und mögliche Risiken durch Kooperationen mit US-Technologieunternehmen, ohne deren konkrete Auswirkungen nachzuweisen.",
       "fundorte": [
         {
@@ -8551,21 +9276,6 @@
           62,
           26,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 9,
-        "verteilung": [
-          37,
-          48,
-          6,
-          7,
-          2,
-          0,
           0,
           0
         ]
@@ -8630,6 +9340,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 9,
+        "verteilung": [
+          37,
+          48,
+          6,
+          7,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 22,
+        "verteilung": [
+          33,
+          31,
+          14,
+          14,
+          5,
+          1,
+          2,
+          0
+        ]
+      },
       "tldr_de": "Cary sieht den Wettbewerb um Cyber-Talente als zentral an und empfiehlt, US-Ausbildung und Anwerbung qualifizierter Fachkräfte zu stärken, da Sanktionen gegen einzelne chinesische Hochschulen Chinas Cyberfähigkeiten seiner Einschätzung nach nicht aufhalten würden.",
       "fundorte": [
         {
@@ -8672,21 +9412,6 @@
           50,
           25,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          78,
-          17,
-          2,
-          2,
-          1,
-          0,
           0,
           0
         ]
@@ -8751,6 +9476,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          78,
+          17,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 13,
+        "verteilung": [
+          53,
+          27,
+          7,
+          8,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug skizziert Israels 2022 eingeführte Sicherheitsprüfung ausländischer Investitionen und einen beratenden Ausschuss, enthält aber nicht den vollständigen Verfahrensablauf.",
       "fundorte": [
         {
@@ -8794,21 +9549,6 @@
           26,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 7,
-        "beleg3": 25,
-        "verteilung": [
-          6,
-          38,
-          31,
-          18,
-          6,
-          0,
-          1,
           0
         ]
       },
@@ -8872,6 +9612,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 7,
+        "beleg3": 25,
+        "verteilung": [
+          6,
+          38,
+          31,
+          18,
+          6,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "KI kann laut Bericht Cyberrisiken verstärken und die Verteidigung unterstützen; nötig seien sichere Gestaltung, Aufklärung und internationale Zusammenarbeit.",
       "fundorte": [
         {
@@ -8918,7 +9674,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -8979,6 +9734,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "In künstlichen Unternehmenstests zeigten mehrere Sprachmodelle laut Anthropic strategisch schädliches Verhalten; ob und wie oft dies in realen Einsätzen geschieht, belegt der Bericht nicht.",
       "fundorte": [
         {
@@ -9025,7 +9782,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 8,
@@ -9086,6 +9842,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der AViD-Workshop untersuchte, wie KI-Systeme trotz Geheimhaltung überprüfbar werden können; die Ansätze entwickeln sich weiter, sind laut Bericht aber vielfach noch nicht für den großmaßstäblichen Einsatz bereit.",
       "fundorte": [
         {
@@ -9130,21 +9888,6 @@
           4,
           2,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 3,
-        "verteilung": [
-          75,
-          20,
-          2,
-          3,
-          0,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -9207,6 +9950,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          75,
+          20,
+          2,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          69,
+          23,
+          3,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug beschreibt Chinas mehrgleisige Fachkräftestrategie mit gemischten Ergebnissen und empfiehlt den USA gezielte internationale Zusammenarbeit sowie Investitionen in die eigene Fachkräftebasis.",
       "fundorte": [
         {
@@ -9250,21 +10023,6 @@
           24,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 11,
-        "verteilung": [
-          20,
-          53,
-          16,
-          5,
-          5,
-          0,
-          1,
           0
         ]
       },
@@ -9314,6 +10072,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 11,
+        "verteilung": [
+          20,
+          53,
+          16,
+          5,
+          5,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 24,
+        "verteilung": [
+          31,
+          29,
+          16,
+          14,
+          7,
+          1,
+          2,
+          0
+        ]
+      },
       "tldr_de": "China benennt vielfältige KI-Risiken, sondiert laut Berichten Gespräche mit den USA und erprobt mit Z.AIs verzögerter Gewichtsfreigabe frühe Sicherheitsmaßnahmen für offene Modelle.",
       "fundorte": [
         {
@@ -9360,7 +10148,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -9421,6 +10208,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht argumentiert, dass die US-Strategie für technologische Vorherrschaft auf Unternehmenszusicherungen beruht, solange Washington führende KI-Systeme nicht selbst unabhängig überprüfen kann.",
       "fundorte": [
         {
@@ -9467,7 +10256,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 21,
@@ -9528,6 +10316,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "China kündigt laut Bericht umfassende KI-Sicherheitsregeln an, lässt deren konkrete Ausgestaltung und Fristen aber offen.",
       "fundorte": [
         {
@@ -9570,21 +10360,6 @@
           47,
           22,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 9,
-        "verteilung": [
-          34,
-          46,
-          11,
-          8,
-          1,
-          0,
           0,
           0
         ]
@@ -9649,6 +10424,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 9,
+        "verteilung": [
+          34,
+          46,
+          11,
+          8,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 10,
+        "verteilung": [
+          56,
+          28,
+          6,
+          7,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Nur ein Auszug: Laut Autoren dominieren US-Investoren Israels großes KI-Ökosystem, während chinesische Investitionen seit 2019 zurückgehen, mögliche Technologierisiken aber weiter berücksichtigt werden sollten.",
       "fundorte": [
         {
@@ -9690,21 +10495,6 @@
           5,
           78,
           12,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 3,
-        "beleg3": 11,
-        "verteilung": [
-          25,
-          59,
-          5,
-          8,
-          3,
           0,
           0,
           0
@@ -9770,6 +10560,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 3,
+        "beleg3": 11,
+        "verteilung": [
+          25,
+          59,
+          5,
+          8,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 21,
+        "verteilung": [
+          36,
+          31,
+          12,
+          14,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Sechs mit staatlich unterstützten Hackerteams in Verbindung gebrachte chinesische Universitäten forschen laut Bericht zu ML und Cybersicherheit, doch ein Einsatz dieser Forschung in tatsächlichen Operationen ist damit nicht belegt.",
       "fundorte": [
         {
@@ -9812,21 +10632,6 @@
           55,
           22,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          83,
-          12,
-          2,
-          2,
-          1,
-          0,
           0,
           0
         ]
@@ -9891,6 +10696,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          83,
+          12,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 23,
+        "verteilung": [
+          36,
+          29,
+          12,
+          13,
+          6,
+          2,
+          1,
+          1
+        ]
+      },
       "tldr_de": "Ein chinesischer Beitrag stellt das US-Regelwerk zur zivil-militärischen Integration als mögliches Vorbild dar und empfiehlt China, zivile und militärische Entwicklung, Wettbewerb und Technologietransfer mit klaren Sicherheitsregeln zu verbinden.",
       "fundorte": [
         {
@@ -9934,21 +10769,6 @@
           18,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 9,
-        "beleg3": 31,
-        "verteilung": [
-          17,
-          46,
-          6,
-          22,
-          8,
-          0,
-          1,
           0
         ]
       },
@@ -10012,6 +10832,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 9,
+        "beleg3": 31,
+        "verteilung": [
+          17,
+          46,
+          6,
+          22,
+          8,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 12,
+        "verteilung": [
+          52,
+          29,
+          7,
+          9,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug fasst einen CSET-Bericht zusammen, der Chinas diplomatische Beobachtung und Vermittlung ausländischer Technologiemöglichkeiten beschreibt und anhand einer begrenzten Firmenstichprobe auf mögliche Kooperationen hinweist.",
       "fundorte": [
         {
@@ -10053,21 +10903,6 @@
           2,
           73,
           23,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          44,
-          46,
-          4,
-          5,
-          1,
           0,
           0,
           0
@@ -10133,6 +10968,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          44,
+          46,
+          4,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 11,
+        "verteilung": [
+          51,
+          31,
+          7,
+          8,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Bericht ist nur ein Auszug: Corrigan skizziert US-Beschaffungsverbote für chinesische ICTS und empfiehlt, sie gezielt, ausreichend finanziert und mit laufender Wirksamkeitskontrolle umzusetzen.",
       "fundorte": [
         {
@@ -10179,7 +11044,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 8,
@@ -10240,6 +11104,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag plädiert dafür, dass die USA, China und Mittelmächte trotz fortdauernder KI-Konkurrenz technische Zusammenarbeit organisieren, um autonome KI-Risiken einzudämmen und Schwachstellen schneller zu beheben.",
       "fundorte": [
         {
@@ -10282,21 +11148,6 @@
           68,
           22,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          34,
-          53,
-          8,
-          4,
-          1,
-          0,
           0,
           0
         ]
@@ -10361,6 +11212,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          34,
+          53,
+          8,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 11,
+        "beleg3": 24,
+        "verteilung": [
+          32,
+          31,
+          13,
+          13,
+          6,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Laut Bericht führten die USA 2019 bei privaten KI-Investitionen, doch die Analyse erfasst nur nicht börsennotierte Unternehmen bis Ende 2019 und beruht teils auf Schätzungen.",
       "fundorte": [
         {
@@ -10407,7 +11288,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -10468,6 +11348,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Auszug gibt PAI-Empfehlungen für zugänglichere und fairere Visawege für internationale KI/ML-Talente wieder; das vollständige Papier ist nicht enthalten.",
       "fundorte": [
         {
@@ -10514,7 +11396,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 5,
@@ -10575,6 +11456,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag fordert überprüfbare gemeinsame Regeln und internationale Zusammenarbeit für Frontier-KI, räumt aber eine Verifizierungslücke und offene Fragen zur globalen Kooperation ein.",
       "fundorte": [
         {
@@ -10621,7 +11504,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 6,
@@ -10682,6 +11564,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Kanada und die EU kündigen eine umfassende Partnerschaft für wirtschaftliche Sicherheit, gemeinsame Werte und engere Zusammenarbeit an, deren zahlreiche Vorhaben größtenteils noch politische Absichten sind.",
       "fundorte": [
         {
@@ -10728,7 +11612,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 9,
@@ -10789,6 +11672,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Das Memo empfiehlt einen standardisierten, schriftlichen und zunächst freiwilligen US-chinesischen Meldeweg für grenzüberschreitende KI-Vorfälle, dessen Zuständigkeiten und Meldeschwellen noch festzulegen wären.",
       "fundorte": [
         {
@@ -10832,21 +11717,6 @@
           20,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 6,
-        "beleg3": 19,
-        "verteilung": [
-          35,
-          40,
-          6,
-          13,
-          4,
-          1,
-          1,
           0
         ]
       },
@@ -10910,6 +11780,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 19,
+        "verteilung": [
+          35,
+          40,
+          6,
+          13,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 19,
+        "verteilung": [
+          44,
+          29,
+          8,
+          11,
+          5,
+          2,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug erläutert Zweck, Begriffe und allgemeine Pflichten des südkoreanischen Technologeschutzgesetzes, enthält aber nur die ersten vier Artikel.",
       "fundorte": [
         {
@@ -10951,21 +11851,6 @@
           9,
           69,
           21,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 2,
-        "beleg3": 8,
-        "verteilung": [
-          50,
-          37,
-          5,
-          6,
-          2,
           0,
           0,
           0
@@ -11031,6 +11916,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 8,
+        "verteilung": [
+          50,
+          37,
+          5,
+          6,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 15,
+        "verteilung": [
+          47,
+          30,
+          8,
+          10,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Schuerger fordert, globale Biotechnologietrends und mögliche Risiken systematisch zu beobachten; die von CSET geplanten Analysewerkzeuge werden in der Aussage beschrieben, aber noch nicht mit Ergebnissen belegt.",
       "fundorte": [
         {
@@ -11073,21 +11988,6 @@
           82,
           11,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 9,
-        "verteilung": [
-          50,
-          37,
-          4,
-          8,
-          1,
-          0,
           0,
           0
         ]
@@ -11152,6 +12052,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 9,
+        "verteilung": [
+          50,
+          37,
+          4,
+          8,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 12,
+        "beleg3": 27,
+        "verteilung": [
+          32,
+          29,
+          12,
+          15,
+          7,
+          2,
+          2,
+          1
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug behauptet, Chinas umfangreiche Wissenschafts- und Technologieaufklärung könne den USA als Vorbild dienen, und empfiehlt ein nationales US-Analysezentrum; detaillierte Belege fehlen.",
       "fundorte": [
         {
@@ -11198,7 +12128,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 3,
@@ -11259,6 +12188,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Auszug schildert begrenzte Ergebnisse von Xis Indienreise, geringe Erwartungen an einen US-chinesischen KI-Dialog und chinesische Sorgen über KI-Sicherheitsrisiken, insbesondere Cyberangriffe.",
       "fundorte": [
         {
@@ -11301,21 +12232,6 @@
           52,
           18,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          57,
-          39,
-          2,
-          2,
-          0,
-          0,
           0,
           0
         ]
@@ -11380,6 +12296,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          57,
+          39,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht über eine UN-Debatte fordert, maritime Innovation mit menschlicher Aufsicht, Cybersicherheit, internationalem Recht und internationaler Zusammenarbeit zu verbinden; die berichteten Zahlen und Positionen werden nicht unabhängig geprüft.",
       "fundorte": [
         {
@@ -11422,21 +12354,6 @@
           65,
           19,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          52,
-          41,
-          2,
-          4,
-          1,
-          0,
           0,
           0
         ]
@@ -11501,6 +12418,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          52,
+          41,
+          2,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 9,
+        "verteilung": [
+          57,
+          27,
+          7,
+          6,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug beschreibt Singapur als Schwerpunkt der KI-Investitionen Südostasiens und berichtet von wachsender chinesischer Technologiepräsenz sowie möglichen Folgen für Wettbewerb und Rechte.",
       "fundorte": [
         {
@@ -11547,7 +12494,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -11608,6 +12554,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Artikel zufolge könnten neue Technologien Russlands Vorkriegs-Fehleinschätzung verstärkt haben; ihre direkten Eskalationswirkungen im Ukrainekrieg bleiben bislang begrenzt belegt.",
       "fundorte": [
         {
@@ -11654,7 +12602,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 6,
@@ -11715,6 +12662,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Nvidia soll laut Bericht neue Cloudpartner in Südostasien zur GPU-Überwachung verpflichten; Umfang und Wirkung der Vorgabe bleiben unklar, und Monitoring belegt keine Exportkonformität.",
       "fundorte": [
         {
@@ -11757,21 +12706,6 @@
           62,
           18,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          42,
-          50,
-          2,
-          5,
-          1,
-          0,
           0,
           0
         ]
@@ -11836,6 +12770,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          42,
+          50,
+          2,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 12,
+        "verteilung": [
+          48,
+          34,
+          6,
+          8,
+          3,
+          1,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug erläutert Ziele und allgemeine Grundsätze des chinesischen Cybersicherheitsgesetzes samt Hinweis auf KI-bezogene Änderungen von 2025, enthält aber nur die Einleitung und Artikel 1 bis 5.",
       "fundorte": [
         {
@@ -11882,7 +12846,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": null,
       "amos": {
         "stufe": 1,
@@ -11929,6 +12892,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 8,
+        "verteilung": [
+          23,
+          65,
+          4,
+          7,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der bereitgestellte Auszug skizziert OpenAIs Anliegen und die angekündigten Fallstudien zu KI-Missbrauch, enthält diese Fallstudien und Ergebnisse aber nicht.",
       "fundorte": [
         {
@@ -11975,7 +12954,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -12036,6 +13014,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "China schlägt laut Behördenangaben Exportkontrollen für 40 Technologien aus KI, Biomedizin und Photovoltaik vor und verlangt für bestimmte Exporte bis zur endgültigen Regelung eine Vorabregistrierung.",
       "fundorte": [
         {
@@ -12082,7 +13062,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 4,
         "beleg": 36,
@@ -12143,6 +13122,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein X-Beitrag mit teils abgebrochenen Kommentarauszügen diskutiert, ob ein API-Schlüsseldiebstahl mit belegtem Trainingszweck als „Distillation“ gelten kann; der Bericht klärt diesen Zusammenhang nicht.",
       "fundorte": [
         {
@@ -12185,21 +13166,6 @@
           56,
           17,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 8,
-        "verteilung": [
-          27,
-          57,
-          8,
-          7,
-          1,
-          0,
           0,
           0
         ]
@@ -12264,6 +13230,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 8,
+        "verteilung": [
+          27,
+          57,
+          8,
+          7,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 20,
+        "verteilung": [
+          31,
+          33,
+          16,
+          14,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug stellt Khans Einschätzung dar, dass China technologisch schnell aufholt, die USA aber in einigen schwer zugänglichen Technologien und der Grundlagenforschung Vorteile behalten.",
       "fundorte": [
         {
@@ -12306,21 +13302,6 @@
           72,
           17,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 3,
-        "verteilung": [
-          77,
-          18,
-          2,
-          3,
-          0,
-          0,
           0,
           0
         ]
@@ -12385,6 +13366,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          77,
+          18,
+          2,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 17,
+        "verteilung": [
+          42,
+          32,
+          9,
+          11,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug beschreibt eine Auswertung von Chinas Jugend-Talentprogramm und berichtet, dass die meisten Zielstellen zivil waren, während ein kleinerer Teil verteidigungsnahen Einrichtungen galt.",
       "fundorte": [
         {
@@ -12427,21 +13438,6 @@
           42,
           15,
           3,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          78,
-          20,
-          1,
-          1,
-          0,
-          0,
           0,
           0
         ]
@@ -12506,6 +13502,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          78,
+          20,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 17,
+        "verteilung": [
+          43,
+          32,
+          8,
+          10,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Eine übersetzte chinesische Bekanntmachung von 2018 legt Regeln für Cybersecurity-Wettbewerbe fest, darunter Meldepflichten und Genehmigungen, bewertet aber nicht deren Umsetzung oder Wirkung.",
       "fundorte": [
         {
@@ -12552,7 +13578,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 18,
@@ -12613,6 +13638,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Anthropic will Organisationen nach Eigentümerkontrolle aus nicht unterstützten Regionen ausschließen und begründet dies mit Sicherheitsrisiken, die der Beitrag als Einschätzung des Unternehmens darstellt.",
       "fundorte": [
         {
@@ -12655,21 +13682,6 @@
           68,
           15,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 16,
-        "verteilung": [
-          21,
-          57,
-          6,
-          14,
-          2,
-          0,
           0,
           0
         ]
@@ -12734,6 +13746,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 16,
+        "verteilung": [
+          21,
+          57,
+          6,
+          14,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 18,
+        "verteilung": [
+          37,
+          34,
+          11,
+          13,
+          4,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Im bereitgestellten Auszug warnt Anna Puglisi, dass Chinas staatlich gelenkte Talent- und Technologiepolitik strategische Ziele auch auf Kosten wirtschaftlicher Effizienz verfolgen könne; die angeführten Einschätzungen werden dort nur teilweise erläutert.",
       "fundorte": [
         {
@@ -12777,21 +13819,6 @@
           16,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 10,
-        "beleg3": 40,
-        "verteilung": [
-          9,
-          31,
-          20,
-          30,
-          8,
-          1,
-          1,
           0
         ]
       },
@@ -12855,6 +13882,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 10,
+        "beleg3": 40,
+        "verteilung": [
+          9,
+          31,
+          20,
+          30,
+          8,
+          1,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 3,
+        "beleg": 17,
+        "beleg3": 41,
+        "verteilung": [
+          16,
+          24,
+          19,
+          24,
+          10,
+          3,
+          3,
+          1
+        ]
+      },
       "tldr_de": "Der Bericht empfiehlt eine unabhängige öffentlich-private Einrichtung zur Forschungssicherheit in den USA, weil Bundesbehörden laut den Autoren allein nicht weit genug reichen.",
       "fundorte": [
         {
@@ -12897,21 +13954,6 @@
           58,
           6,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 6,
-        "verteilung": [
-          25,
-          66,
-          3,
-          5,
-          1,
-          0,
           0,
           0
         ]
@@ -12976,6 +14018,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          25,
+          66,
+          3,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 17,
+        "verteilung": [
+          42,
+          32,
+          9,
+          12,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug nennt sechs mögliche vertrauensbildende Maßnahmen gegen Sicherheitsrisiken von Foundation Models, liefert aber keine Details zu ihrer Umsetzung oder Wirksamkeit.",
       "fundorte": [
         {
@@ -13022,7 +14094,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 1,
@@ -13083,6 +14154,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der bereitgestellte Auszug berichtet, dass der Schutz von KI-Modellgewichten einen umfassenden, investitionsintensiven Ansatz erfordert, nennt aber keine Details zu den untersuchten Angriffen oder Sicherheitsmaßnahmen.",
       "fundorte": [
         {
@@ -13129,7 +14202,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 2,
@@ -13190,6 +14262,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "KI-Evaluationen werden weltweit ausgebaut, bleiben laut Bericht aber wegen begrenzter Benchmarks, fehlendem Einsatzkontext und ungelöster Fragen zu Unabhängigkeit und Rechenschaft nur ein unvollständiger Beleg für tatsächliche Risiken.",
       "fundorte": [
         {
@@ -13236,7 +14310,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -13297,6 +14370,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die iberoamerikanischen Staaten formulieren gemeinsame KI-Leitlinien und planen freiwillige regionale Zusammenarbeit, doch zentrale Vorhaben stehen noch aus; Argentinien und Paraguay distanzieren sich von der Erklärung.",
       "fundorte": [
         {
@@ -13340,21 +14415,6 @@
           16,
           1,
           0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 6,
-        "beleg3": 21,
-        "verteilung": [
-          32,
-          31,
-          16,
-          15,
-          5,
-          0,
-          1,
           0
         ]
       },
@@ -13418,6 +14478,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 21,
+        "verteilung": [
+          32,
+          31,
+          16,
+          15,
+          5,
+          0,
+          1,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 11,
+        "beleg3": 29,
+        "verteilung": [
+          27,
+          27,
+          17,
+          18,
+          7,
+          2,
+          2,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Berichtsauszug dokumentiert Technologietransfer-Aktivitäten bei vielen untersuchten chinesischen Berufsverbänden im Ausland, kann aber deren staatliche oder parteiliche Steuerung nicht feststellen.",
       "fundorte": [
         {
@@ -13462,21 +14552,6 @@
           3,
           1,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          67,
-          26,
-          3,
-          3,
-          1,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -13539,6 +14614,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          67,
+          26,
+          3,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 8,
+        "verteilung": [
+          61,
+          26,
+          5,
+          6,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der Bericht plädiert für gezielte Technologiekontrollen gegenüber China und stärkere Förderung der US-amerikanischen und alliierten Halbleiterindustrie, ohne im bereitgestellten Text empirische Wirkungsnachweise auszuführen.",
       "fundorte": [
         {
@@ -13585,7 +14690,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 2,
@@ -13646,6 +14750,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht sieht verlässliche Messungen und durchsetzbare Standards als zentrale, bislang ungelöste Aufgaben der KI-Sicherheit.",
       "fundorte": [
         {
@@ -13688,21 +14794,6 @@
           57,
           4,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 10,
-        "verteilung": [
-          20,
-          64,
-          6,
-          9,
-          1,
-          0,
           0,
           0
         ]
@@ -13767,6 +14858,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 10,
+        "verteilung": [
+          20,
+          64,
+          6,
+          9,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 21,
+        "verteilung": [
+          35,
+          33,
+          11,
+          15,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Laut einer ausdrücklich spekulativen Analyse könnte maschinelles Lernen Cyberoperationen destabilisieren, weil Angreifer wie Verteidiger stärkere Anreize zu frühzeitigen Zugriffen auf gegnerische Netzwerke erhalten.",
       "fundorte": [
         {
@@ -13810,21 +14931,6 @@
           13,
           2,
           1,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          83,
-          13,
-          1,
-          2,
-          1,
-          0,
-          0,
           0
         ]
       },
@@ -13888,6 +14994,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          83,
+          13,
+          1,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 12,
+        "verteilung": [
+          56,
+          26,
+          6,
+          7,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug skizziert Israels Verfahren zur Sicherheitsprüfung ausländischer Investitionen und die Einrichtung eines Beratungsausschusses; der vollständige Beschluss liegt hier nicht vor.",
       "fundorte": [
         {
@@ -13929,21 +15065,6 @@
           8,
           57,
           13,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 8,
-        "verteilung": [
-          30,
-          58,
-          4,
-          6,
-          2,
           0,
           0,
           0
@@ -14009,6 +15130,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 8,
+        "verteilung": [
+          30,
+          58,
+          4,
+          6,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 14,
+        "verteilung": [
+          49,
+          29,
+          8,
+          8,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug berichtet, dass die PLA KI in mehreren militärischen Bereichen beschafft, doch Ausmaß und Folgen bleiben teils unsicher.",
       "fundorte": [
         {
@@ -14055,7 +15206,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -14116,6 +15266,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der X-Austausch zeigt Gomez’ Kritik an unabhängigen KI-Audits und unterschiedliche Ansichten zu wirksamen Sicherheitsmaßnahmen, ohne die Behauptungen unabhängig zu überprüfen.",
       "fundorte": [
         {
@@ -14157,21 +15309,6 @@
           11,
           68,
           16,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          28,
-          62,
-          6,
-          3,
-          1,
           0,
           0,
           0
@@ -14237,6 +15374,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          28,
+          62,
+          6,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 10,
+        "beleg3": 24,
+        "verteilung": [
+          33,
+          29,
+          14,
+          14,
+          7,
+          1,
+          1,
+          1
+        ]
+      },
       "tldr_de": "China und die USA könnten bei KI-Risikoregeln und Vorfallmeldungen zusammenarbeiten, doch Entwicklungsgrenzen und globale Zuständigkeiten bleiben umstritten; Ergebnisse der geplanten Novembergespräche lagen im Bericht noch nicht vor.",
       "fundorte": [
         {
@@ -14283,7 +15450,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 31,
@@ -14344,6 +15510,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Quelltext erläutert eine Chronologie von 563 angeblich KI-unterstützten Cybervorfällen und ihre Grenzen, enthält aber nicht die einzelnen Chronologie-Fälle.",
       "fundorte": [
         {
@@ -14390,7 +15558,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 5,
@@ -14451,6 +15618,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Beitrag schildert einen September mit gemeldeten KI-Sicherheitsmängeln, wachsendem Regulierungsdruck und großen Investitionen und empfiehlt Unternehmen, ihre KI-Aufsicht zu überprüfen.",
       "fundorte": [
         {
@@ -14493,21 +15662,6 @@
           67,
           14,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          73,
-          24,
-          1,
-          2,
-          0,
-          0,
           0,
           0
         ]
@@ -14572,6 +15726,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          73,
+          24,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          70,
+          22,
+          3,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Nur die Executive Summary liegt vor: Der Bericht sieht Chinas Strategie für Biodaten, Forschung und Kommerzialisierung medizinischer KI als möglichen Weg zur wirtschaftlichen und technologischen Führungsrolle.",
       "fundorte": [
         {
@@ -14618,7 +15802,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -14679,6 +15862,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          26,
+          65,
+          3,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Auszug benennt sechs vertrauensbildende Maßnahmen gegen mögliche internationale Sicherheitsrisiken durch Foundation Models, erläutert oder bewertet ihre Umsetzung aber nicht.",
       "fundorte": [
         {
@@ -14720,21 +15919,6 @@
           15,
           73,
           3,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 12,
-        "verteilung": [
-          34,
-          43,
-          11,
-          10,
-          2,
           0,
           0,
           0
@@ -14800,6 +15984,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 12,
+        "verteilung": [
+          34,
+          43,
+          11,
+          10,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 1,
+        "beleg": 6,
+        "beleg3": 22,
+        "verteilung": [
+          29,
+          33,
+          16,
+          16,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug argumentiert, Exportkontrollen könnten Technologietransfers verzögern, müssten aber wegen ihrer wirtschaftlichen Kosten, Umgehungsmöglichkeiten und des technischen Wandels koordiniert und laufend angepasst werden.",
       "fundorte": [
         {
@@ -14846,7 +16060,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 3,
         "beleg": 10,
@@ -14907,6 +16120,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Bericht gibt Forderungen nach gemeinsamen KI-Sicherheitsregeln und Warnungen vor Cyberrisiken wieder, ohne einen bestehenden globalen Standard oder konkrete Ergebnisse der Zusammenarbeit zu beschreiben.",
       "fundorte": [
         {
@@ -14953,7 +16168,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -15014,6 +16228,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Auszug stellt PAI-Vorschläge für zugänglichere und fairere Visawege in KI/ML vor und betont, dass sie weder andere Migrationsanliegen ersetzen noch zwingend die Position einzelner PAI-Mitglieder wiedergeben.",
       "fundorte": [
         {
@@ -15060,7 +16276,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 1,
@@ -15121,6 +16336,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Laut Bericht verbindet Chen KI-Fortschritt, Sicherheit und Parteiführung mit Chinas nationalen und internationalen Zielen; die vorgeschlagenen Maßnahmen und ihre Wirkungen sind jedoch nicht als umgesetzt oder belegt ausgewiesen.",
       "fundorte": [
         {
@@ -15167,7 +16384,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 1,
@@ -15228,6 +16444,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Auszug fordert globale Regeln und Rechenschaft für KI-Agenten, weist aber auf erhebliche Durchsetzungs-, Haftungs- und Abstimmungslücken hin.",
       "fundorte": [
         {
@@ -15269,21 +16487,6 @@
           23,
           47,
           5,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 7,
-        "verteilung": [
-          15,
-          53,
-          25,
-          5,
-          2,
           0,
           0,
           0
@@ -15349,6 +16552,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 7,
+        "verteilung": [
+          15,
+          53,
+          25,
+          5,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Mehrere KI-Unternehmen unterstützen laut Bericht stärkere Prüfungen und eine langsamere Entwicklung fortgeschrittener KI, doch geopolitische Konkurrenz und politische Uneinigkeit erschweren gemeinsame Regeln.",
       "fundorte": [
         {
@@ -15391,21 +16610,6 @@
           82,
           11,
           2,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          73,
-          22,
-          1,
-          3,
-          1,
-          0,
           0,
           0
         ]
@@ -15470,6 +16674,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          73,
+          22,
+          1,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 10,
+        "verteilung": [
+          60,
+          25,
+          5,
+          7,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug beschreibt Chinas SKL-System anhand von 469 erfassten Laboren und berichtet, dass die Autoren keinen Beleg für das Erreichen des Ziels von 700 Laboren bis 2020 fanden.",
       "fundorte": [
         {
@@ -15510,21 +16744,6 @@
           18,
           3,
           60,
-          1,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          36,
-          59,
-          1,
-          3,
           1,
           0,
           0,
@@ -15591,6 +16810,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          36,
+          59,
+          1,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 11,
+        "verteilung": [
+          51,
+          31,
+          7,
+          8,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug empfiehlt kostspielige Signale und Dialoge, um KI-Absichten besser zu vermitteln und Eskalationsrisiken zu begrenzen, betont aber mögliche Fehlinterpretationen und Zielkonflikte.",
       "fundorte": [
         {
@@ -15633,21 +16882,6 @@
           73,
           12,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          73,
-          21,
-          1,
-          4,
-          1,
-          0,
           0,
           0
         ]
@@ -15712,6 +16946,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          73,
+          21,
+          1,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 9,
+        "verteilung": [
+          57,
+          29,
+          5,
+          7,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Weinstein zufolge ist Chinas militärisch-zivile Fusion strategisch bedeutsam, aber noch in Umsetzung; die USA sollten vor allem ihre eigenen Fähigkeiten und Prüfstrukturen stärken.",
       "fundorte": [
         {
@@ -15758,7 +17022,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 1,
@@ -15819,6 +17082,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der techUK-Beitrag berichtet, dass das NCSC trotz neuer KI-Risiken auf grundlegende Sicherheitsmaßnahmen, stärkere Resilienz und gemeinsames Handeln setzt.",
       "fundorte": [
         {
@@ -15865,7 +17130,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -15926,6 +17190,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          88,
+          12,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI zufolge sollen seine neuen offenen KI-Modelle den Zugang verbreitern und demokratisch geprägte KI-Infrastruktur stärken, doch der Bericht nennt keine konkreten Leistungsdaten oder unabhängigen Wirkungsnachweise.",
       "fundorte": [
         {
@@ -15967,21 +17247,6 @@
           19,
           51,
           9,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          48,
-          43,
-          6,
-          2,
-          1,
           0,
           0,
           0
@@ -16033,6 +17298,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          48,
+          43,
+          6,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 17,
+        "verteilung": [
+          42,
+          29,
+          12,
+          10,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Apollo Research bewertet sieben NDAA-Bestimmungen vorläufig als mögliche Stärkung von KI-Sicherheit und menschlicher Kontrolle, weist aber darauf hin, dass die Analyse nicht vollständig ist.",
       "fundorte": [
         {
@@ -16074,21 +17369,6 @@
           6,
           80,
           13,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          77,
-          13,
-          5,
-          4,
-          1,
           0,
           0,
           0
@@ -16154,6 +17434,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          77,
+          13,
+          5,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 18,
+        "verteilung": [
+          39,
+          31,
+          12,
+          12,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug beschreibt Umfang und Merkmale der CSC-Stipendien, betont mögliche Rückkehrerwartungen und lässt die Absichten der Programme jenseits chinesischer Primärquellenangaben offen.",
       "fundorte": [
         {
@@ -16198,21 +17508,6 @@
           3,
           1,
           1
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          86,
-          12,
-          1,
-          1,
-          0,
-          0,
-          0,
-          0
         ]
       },
       "jev": {
@@ -16275,6 +17570,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          86,
+          12,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          67,
+          24,
+          3,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der Bericht beschreibt eine von den USA und ihren Verbündeten dominierte Halbleiterlieferkette, während China laut Autoren aufholt, aber bei wichtigen Produktionsinputs weiter Schwierigkeiten hat.",
       "fundorte": [
         {
@@ -16316,21 +17641,6 @@
           4,
           52,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 0,
-        "beleg3": 3,
-        "verteilung": [
-          29,
-          66,
-          2,
-          3,
-          0,
           0,
           0,
           0
@@ -16396,6 +17706,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          29,
+          66,
+          2,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 15,
+        "verteilung": [
+          41,
+          34,
+          10,
+          11,
+          3,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug plädiert für pragmatischen Austausch zur Verringerung von KI-Risiken, weist aber auf den Zielkonflikt hin, dass Kooperation zugleich militärische Fähigkeiten verbessern könnte.",
       "fundorte": [
         {
@@ -16442,7 +17782,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -16503,6 +17842,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Autor plädiert dafür, die Prüfung einzelner KI-Akteure um eine systemweite Aufsicht zu ergänzen, räumt aber ein, dass deren Zuständigkeiten und Instrumente noch offen sind.",
       "fundorte": [
         {
@@ -16545,21 +17886,6 @@
           59,
           8,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          42,
-          52,
-          2,
-          3,
-          1,
-          0,
           0,
           0
         ]
@@ -16624,6 +17950,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          42,
+          52,
+          2,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 21,
+        "verteilung": [
+          36,
+          32,
+          11,
+          14,
+          5,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Lohn warnt vor wachsenden Möglichkeiten für KI-gestützte Cyberangriffe und Angriffen auf KI-Systeme, betont aber die begrenzte öffentliche Beleglage und die weiterhin zentrale Rolle von Menschen.",
       "fundorte": [
         {
@@ -16666,21 +18022,6 @@
           68,
           11,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 9,
-        "verteilung": [
-          33,
-          50,
-          8,
-          8,
-          1,
-          0,
           0,
           0
         ]
@@ -16745,6 +18086,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 9,
+        "verteilung": [
+          33,
+          50,
+          8,
+          8,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 7,
+        "beleg3": 22,
+        "verteilung": [
+          33,
+          31,
+          14,
+          15,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Executive-Summary-Auszug empfiehlt eine öffentlich-private Clearingstelle, damit Forschende nach Ansicht der Autoren Sicherheitsentscheidungen besser selbst treffen können.",
       "fundorte": [
         {
@@ -16787,21 +18158,6 @@
           55,
           11,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          64,
-          34,
-          1,
-          1,
-          0,
-          0,
           0,
           0
         ]
@@ -16866,6 +18222,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          64,
+          34,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der CADA soll laut Bericht Europas Cloud- und KI-Infrastruktur ausbauen und ihre Souveränität stärken; konkrete Umsetzungsergebnisse werden nicht genannt.",
       "fundorte": [
         {
@@ -16912,7 +18284,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 1,
@@ -16973,6 +18344,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Der Veranstaltungsbericht fordert angesichts vielfältiger, von den Vortragenden beschriebener KI-Sicherheitsrisiken vorausschauende Schutzmaßnahmen, bietet aber keine unabhängige Prüfung oder Risikobewertung.",
       "fundorte": [
         {
@@ -17019,7 +18392,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 2,
         "beleg": 1,
@@ -17080,6 +18452,8 @@
           2
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Christiano und Hinton plädieren für stärkere KI-Sicherheitsarbeit, überprüfbare Standards und internationale Kooperation; Christiano fordert zudem eine vorläufige Verlangsamung der Entwicklung, wobei die Risiken und Erfolgsaussichten unsicher bleiben.",
       "fundorte": [
         {
@@ -17121,21 +18495,6 @@
           8,
           58,
           3,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 8,
-        "verteilung": [
-          21,
-          58,
-          13,
-          7,
-          1,
           0,
           0,
           0
@@ -17201,6 +18560,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 8,
+        "verteilung": [
+          21,
+          58,
+          13,
+          7,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 21,
+        "verteilung": [
+          37,
+          30,
+          12,
+          13,
+          5,
+          1,
+          2,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Auszug warnt laut Autor vor schwer erkennbaren Manipulationen an ML-Werkzeugen, Modellen und Datensätzen und empfiehlt staatliche Maßnahmen zur Erkennung und Verringerung dieser Lieferkettenrisiken.",
       "fundorte": [
         {
@@ -17242,21 +18631,6 @@
           8,
           74,
           11,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 4,
-        "verteilung": [
-          66,
-          29,
-          1,
-          3,
-          1,
           0,
           0,
           0
@@ -17322,6 +18696,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 4,
+        "verteilung": [
+          66,
+          29,
+          1,
+          3,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 13,
+        "verteilung": [
+          46,
+          32,
+          9,
+          10,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Die Executive Summary fordert, strategische Technologien langfristig staatlich mitzufördern, und führt Huaweis Aufstieg auf umfassende chinesische Unterstützung bei gleichzeitigem Rückgang der US-Telekommunikationsindustrie zurück.",
       "fundorte": [
         {
@@ -17363,21 +18767,6 @@
           9,
           51,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          22,
-          67,
-          6,
-          4,
-          1,
           0,
           0,
           0
@@ -17443,6 +18832,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          22,
+          67,
+          6,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Laut Bericht ist begrenzte technische Kooperation zwischen China und den USA bei KI-Vorfällen und Tests wahrscheinlicher als ein verbindliches Abkommen zu Spitzenmodellen.",
       "fundorte": [
         {
@@ -17484,21 +18889,6 @@
           5,
           41,
           10,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          72,
-          23,
-          2,
-          2,
-          1,
           0,
           0,
           0
@@ -17564,6 +18954,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          72,
+          23,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 11,
+        "verteilung": [
+          56,
+          27,
+          6,
+          7,
+          2,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorgelegte Auszug schätzt eine mögliche Betroffenheit von 3.000 bis 5.000 chinesischen Studierenden jährlich, kennzeichnet die Schätzung wegen unklarer Regeln und Datenlücken jedoch als wenig zuverlässig.",
       "fundorte": [
         {
@@ -17605,21 +19025,6 @@
           5,
           60,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          53,
-          44,
-          1,
-          2,
-          0,
           0,
           0,
           0
@@ -17685,6 +19090,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          53,
+          44,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht fordert gemeinsame internationale Forschung, Tests und Sicherheitspraktiken gegen Prompt-Injection, Agentenmissbrauch und Datenvergiftung, während er auf eine noch lückenhafte Evidenzbasis hinweist.",
       "fundorte": [
         {
@@ -17726,21 +19147,6 @@
           4,
           70,
           11,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          52,
-          45,
-          1,
-          2,
-          0,
           0,
           0,
           0
@@ -17806,6 +19212,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          52,
+          45,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 9,
+        "verteilung": [
+          59,
+          26,
+          6,
+          5,
+          2,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug skizziert sechs ethische Leitlinien für KI in China, lässt die angekündigten Einzelregeln aus und hält fest, dass keine Strafen oder Durchsetzungsregeln genannt werden.",
       "fundorte": [
         {
@@ -17847,21 +19283,6 @@
           13,
           57,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          61,
-          37,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -17927,6 +19348,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          61,
+          37,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der OECD-Beitrag beschreibt AISIs als mögliche Säulen für KI-Prüfung und internationale Abstimmung, deren Wirksamkeit jedoch von sicherem Informationsaustausch, passenden Befugnissen, ausreichenden Fachkräften und geeignetem Modellzugang abhängt.",
       "fundorte": [
         {
@@ -17973,7 +19410,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 6,
@@ -18034,6 +19470,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "China plant laut Bericht Exportkontrollen für fortgeschrittene KI-Technologien und hat eine vorläufige Registrierungspflicht für betroffene Exporte eingeführt; der Quelltext enthält zusätzlich einen separaten Rupiah-Abschnitt.",
       "fundorte": [
         {
@@ -18076,21 +19514,6 @@
           51,
           4,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 0,
-        "beleg3": 4,
-        "verteilung": [
-          43,
-          51,
-          2,
-          4,
-          0,
-          0,
           0,
           0
         ]
@@ -18155,6 +19578,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 0,
+        "beleg3": 4,
+        "verteilung": [
+          43,
+          51,
+          2,
+          4,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 17,
+        "verteilung": [
+          43,
+          31,
+          9,
+          11,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug warnt vor Cyberrisiken maschinellen Lernens und plädiert für fallbezogene Abwägung, widerstandsfähige Systeme und Vorsicht bei offensiven Angriffen.",
       "fundorte": [
         {
@@ -18196,21 +19649,6 @@
           5,
           65,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          67,
-          31,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -18276,6 +19714,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          67,
+          31,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          68,
+          23,
+          4,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug sieht großes KI-Potenzial in Indonesien, aber auch Infrastruktur-, Fachkräfte- und Cybersicherheitsprobleme; die vollständigen Belege und Methoden des Berichts liegen nicht vor.",
       "fundorte": [
         {
@@ -18318,21 +19786,6 @@
           85,
           9,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          83,
-          15,
-          1,
-          1,
-          0,
-          0,
           0,
           0
         ]
@@ -18397,6 +19850,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          83,
+          15,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 10,
+        "verteilung": [
+          57,
+          28,
+          5,
+          7,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug empfiehlt länder- und feldgerechte Forschungssicherheitsstrategien angesichts einer veränderten globalen Forschungslandschaft; der vollständige Bericht liegt nicht vor.",
       "fundorte": [
         {
@@ -18438,21 +19921,6 @@
           7,
           60,
           3,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          61,
-          37,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -18504,6 +19972,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          61,
+          37,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 16,
+        "verteilung": [
+          43,
+          31,
+          10,
+          10,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Laut den Autoren kann ein US-chinesischer KI-Meldekanal nur funktionieren, wenn beide Länder ihre nationalen Meldepflichten, Zuständigkeiten und Prüfkapazitäten stärken.",
       "fundorte": [
         {
@@ -18550,7 +20048,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -18611,6 +20108,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          74,
+          24,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag fordert klare Datenschutz-, Zugriffs- und Nachlassregeln für KI-Gespräche, weil Assistenten zunehmend sensible persönliche Informationen verarbeiten.",
       "fundorte": [
         {
@@ -18652,21 +20165,6 @@
           43,
           45,
           9,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 1,
-        "beleg": 2,
-        "beleg3": 6,
-        "verteilung": [
-          26,
-          51,
-          17,
-          4,
-          2,
           0,
           0,
           0
@@ -18718,6 +20216,36 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 1,
+        "beleg": 2,
+        "beleg3": 6,
+        "verteilung": [
+          26,
+          51,
+          17,
+          4,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 8,
+        "beleg3": 21,
+        "verteilung": [
+          30,
+          28,
+          21,
+          13,
+          5,
+          1,
+          2,
+          0
+        ]
+      },
       "tldr_de": "Chinas neuer, unverbindlicher KI-Sicherheitsrahmen behandelt laut Bericht ein breites und wachsendes Risikospektrum und könnte trotz politischer Differenzen Ansatzpunkte für internationalen Dialog bieten.",
       "fundorte": [
         {
@@ -18759,21 +20287,6 @@
           8,
           81,
           8,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          59,
-          39,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -18839,6 +20352,22 @@
           2
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          59,
+          39,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "China kündigt ein umfassendes KI-Gesetz mit Sicherheits- und Meldeanforderungen an, doch Entwurf, Zeitplan und konkrete Pflichten bleiben laut Bericht offen.",
       "fundorte": [
         {
@@ -18880,21 +20409,6 @@
           8,
           48,
           8,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          53,
-          45,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -18946,6 +20460,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          53,
+          45,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 9,
+        "verteilung": [
+          57,
+          29,
+          5,
+          6,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der angekündigte KI-Dialog zwischen den USA und China eröffnet laut Bericht eine vorsichtige Kooperationschance, doch Themen, Ablauf und mögliche Ergebnisse sind noch offen.",
       "fundorte": [
         {
@@ -18987,21 +20531,6 @@
           8,
           59,
           8,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          67,
-          30,
-          2,
-          1,
-          0,
           0,
           0,
           0
@@ -19067,6 +20596,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          67,
+          30,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 11,
+        "verteilung": [
+          52,
+          30,
+          7,
+          8,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug sieht Potenzial für KI-Systeme in Koalitionseinsätzen, betont aber, dass Datenaustausch, Vertrauen und politischer Wille über ihren Nutzen mitentscheiden.",
       "fundorte": [
         {
@@ -19108,21 +20667,6 @@
           11,
           48,
           3,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          66,
-          32,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -19188,6 +20732,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          66,
+          32,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 4,
+        "beleg3": 9,
+        "verteilung": [
+          58,
+          28,
+          5,
+          5,
+          2,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug berichtet von hohen Verbleibsraten internationaler KI-Promovierter in den USA, warnt vor Einwanderungshürden und wachsender Konkurrenz und empfiehlt Reformen sowie bessere Datenerhebung.",
       "fundorte": [
         {
@@ -19230,21 +20804,6 @@
           70,
           8,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 3,
-        "verteilung": [
-          74,
-          22,
-          1,
-          2,
-          1,
-          0,
           0,
           0
         ]
@@ -19309,6 +20868,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 3,
+        "verteilung": [
+          74,
+          22,
+          1,
+          2,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 5,
+        "beleg3": 13,
+        "verteilung": [
+          54,
+          28,
+          5,
+          8,
+          3,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Bericht ist nur ein Auszug: Die Artikel 1 bis 5 skizzieren Ziele und Grundregeln für wissenschaftliche Daten, während der Rest der chinesischen Maßnahmen fehlt.",
       "fundorte": [
         {
@@ -19351,21 +20940,6 @@
           61,
           3,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 3,
-        "verteilung": [
-          51,
-          45,
-          1,
-          3,
-          0,
-          0,
           0,
           0
         ]
@@ -19430,6 +21004,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 3,
+        "verteilung": [
+          51,
+          45,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 9,
+        "verteilung": [
+          56,
+          30,
+          5,
+          6,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug zufolge entsteht ein möglicher Datenvorteil für militärische KI vor allem durch aufbereitete, anwendungsspezifische Daten; kommerzielle Daten sind nur begrenzt übertragbar und die Relevanz künftiger Ansätze bleibt unklar.",
       "fundorte": [
         {
@@ -19472,21 +21076,6 @@
           44,
           6,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          66,
-          31,
-          1,
-          2,
-          0,
-          0,
           0,
           0
         ]
@@ -19551,6 +21140,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          66,
+          31,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 9,
+        "verteilung": [
+          55,
+          31,
+          5,
+          7,
+          2,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug beschreibt Chinas staatlich geförderte Robot-Hacking-Wettbewerbe als möglichen Baustein auf dem Weg zur Cybermacht, weist aber darauf hin, dass sie dieses Ziel allein nicht erreichen.",
       "fundorte": [
         {
@@ -19592,21 +21211,6 @@
           4,
           51,
           4,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          79,
-          19,
-          0,
-          2,
-          0,
           0,
           0,
           0
@@ -19672,6 +21276,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          79,
+          19,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          63,
+          28,
+          4,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der vorliegende Auszug argumentiert, dass US-Technologiefirmen wegen ihrer tiefen China-Abhängigkeiten in einer Taiwan-Krise vor größeren strategischen Schwierigkeiten stehen könnten als im Ukraine-Fall; die vollständige Aussage ist nicht enthalten.",
       "fundorte": [
         {
@@ -19718,7 +21352,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 1,
@@ -19779,6 +21412,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Ein geplanter China-USA-Meldekanal für KI-Vorfälle wird laut den Autoren nur funktionieren, wenn beide Länder ihre lückenhaften Meldepflichten, Aufsicht und technischen Prüfkapazitäten stärken.",
       "fundorte": [
         {
@@ -19820,21 +21455,6 @@
           5,
           79,
           5,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          59,
-          38,
-          2,
-          1,
-          0,
           0,
           0,
           0
@@ -19900,6 +21520,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          59,
+          38,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Beitrag empfiehlt, KI-Souveränität anhand von Kontrolle über Rechenleistung, Daten, Modelle und Wechselmöglichkeiten zu prüfen, statt sie allein am Serverstandort oder an offenen Modellgewichten festzumachen.",
       "fundorte": [
         {
@@ -19942,21 +21578,6 @@
           79,
           6,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          62,
-          36,
-          1,
-          1,
-          0,
-          0,
           0,
           0
         ]
@@ -20021,6 +21642,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          62,
+          36,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der Bericht argumentiert, dass mittelgroße Volkswirtschaften durch gemeinsame KI-Entwicklung Abhängigkeiten verringern könnten, warnt jedoch, dass Kooperation und Erfolg nicht garantiert sind.",
       "fundorte": [
         {
@@ -20062,21 +21699,6 @@
           9,
           68,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          56,
-          42,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -20142,6 +21764,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          56,
+          42,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Li Qiang wirbt laut Bericht für ein menschenzentriertes, sicheres und inklusives Internet sowie stärkere internationale Zusammenarbeit; die automatische Übersetzung und der Bericht belegen nicht, ob die angekündigten Vorhaben umgesetzt werden.",
       "fundorte": [
         {
@@ -20188,7 +21826,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 0,
         "beleg": 0,
@@ -20249,6 +21886,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          59,
+          39,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "OpenAI kündigt fünf Schwerpunkte für breiter zugängliche KI-Cyberabwehr an; der bereitgestellte Text fasst den Aktionsplan nur knapp zusammen.",
       "fundorte": [
         {
@@ -20291,21 +21944,6 @@
           55,
           6,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 1,
-        "beleg3": 5,
-        "verteilung": [
-          50,
-          43,
-          2,
-          4,
-          1,
-          0,
           0,
           0
         ]
@@ -20370,6 +22008,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 5,
+        "verteilung": [
+          50,
+          43,
+          2,
+          4,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 6,
+        "beleg3": 16,
+        "verteilung": [
+          43,
+          33,
+          8,
+          10,
+          4,
+          1,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug skizziert Chinas Ziele für wirtschaftliche Datennutzung unter Sicherheits- und Schutzauflagen; die Übersetzung ist unvollständig und soll im verlinkten PDF weitergehen.",
       "fundorte": [
         {
@@ -20411,21 +22079,6 @@
           8,
           55,
           2,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          58,
-          40,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -20491,6 +22144,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          58,
+          40,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Die Analyse staatlicher KI-Politiken findet weltweit wiederkehrende, regional unterschiedlich kombinierte Themen, liefert aber keine Aussage darüber, ob angekündigte Ziele erreicht werden.",
       "fundorte": [
         {
@@ -20532,21 +22201,6 @@
           3,
           56,
           6,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          59,
-          38,
-          1,
-          2,
-          0,
           0,
           0,
           0
@@ -20612,6 +22266,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          59,
+          38,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 6,
+        "verteilung": [
+          64,
+          27,
+          3,
+          5,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Die Einleitung sieht in US-KI-Abkommen mit den VAE und Saudi-Arabien strategische Chancen, betont aber, dass sie ohne starke Governance und Aufsicht scheitern könnten; der bereitgestellte Text ist nur ein Auszug.",
       "fundorte": [
         {
@@ -20653,21 +22337,6 @@
           16,
           52,
           7,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          87,
-          11,
-          1,
-          1,
-          0,
           0,
           0,
           0
@@ -20733,6 +22402,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          87,
+          11,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 10,
+        "verteilung": [
+          52,
+          30,
+          8,
+          7,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Das CSET fordert mehr heimische Biomanufaktur, qualifizierte Fachkräfte, nutzbare und geschützte Forschungsdaten sowie umfassendere Biosicherheitsaufsicht, um Versorgung und Krisenreaktion der USA zu stärken.",
       "fundorte": [
         {
@@ -20775,21 +22474,6 @@
           52,
           2,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          65,
-          34,
-          0,
-          1,
-          0,
-          0,
           0,
           0
         ]
@@ -20854,6 +22538,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          65,
+          34,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 2,
+        "beleg3": 6,
+        "verteilung": [
+          65,
+          25,
+          4,
+          4,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Text enthält nur die Executive Summary: Der Bericht beschreibt laut eigener Darstellung enge KI-Beziehungen der Quad-Staaten zu den USA und China, aber schwache Verbindungen zwischen Australien, Indien und Japan, und empfiehlt mehr Zusammenarbeit unter diesen dreien.",
       "fundorte": [
         {
@@ -20895,21 +22609,6 @@
           2,
           78,
           3,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 1,
-        "verteilung": [
-          84,
-          15,
-          0,
-          1,
-          0,
           0,
           0,
           0
@@ -20975,6 +22674,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 1,
+        "verteilung": [
+          84,
+          15,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 9,
+        "verteilung": [
+          59,
+          27,
+          5,
+          6,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Der bereitgestellte Executive-Summary-Auszug warnt, dass starke China-Verbindungen bei einigen US-Technologieunternehmen ihre Unterstützung in einer Taiwan-Krise erschweren könnten, ohne deren Verhalten vorhersagen zu können.",
       "fundorte": [
         {
@@ -21021,7 +22750,6 @@
           0
         ]
       },
-      "d3-ultra": null,
       "jev": {
         "stufe": 1,
         "beleg": 1,
@@ -21082,6 +22810,8 @@
           1
         ]
       },
+      "d3-ultra": null,
+      "d3-flash": null,
       "tldr_de": "Die chinesische Verordnung verpflichtet Betreiber kritischer Informationsinfrastrukturen zu umfassenden Sicherheitsmaßnahmen und regelt behördliche Aufsicht sowie Sanktionen, ohne im Bericht Angaben zur Umsetzung oder heutigen Rechtslage zu machen.",
       "fundorte": [
         {
@@ -21124,21 +22854,6 @@
           52,
           5,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          83,
-          14,
-          1,
-          2,
-          0,
-          0,
           0,
           0
         ]
@@ -21203,6 +22918,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          83,
+          14,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 7,
+        "verteilung": [
+          63,
+          25,
+          5,
+          6,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
       "tldr_de": "Der Auszug behauptet, dass Chinas Hochschulfinanzierung und Eliteuniversitätsbudgets stark gestiegen seien und die politische Einbindung der Universitäten laut Bericht Herausforderungen für ausländische Forschungspartnerschaften schaffe.",
       "fundorte": [
         {
@@ -21245,21 +22990,6 @@
           48,
           5,
           1,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 2,
-        "verteilung": [
-          69,
-          29,
-          0,
-          2,
-          0,
-          0,
           0,
           0
         ]
@@ -21324,6 +23054,22 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 2,
+        "verteilung": [
+          69,
+          29,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": null,
       "tldr_de": "Der vorliegende Bericht ist ein Auszug, der gerechtere, am Gemeinwohl orientierte Datenregulierung und mehr Datensouveränität fordert.",
       "fundorte": [
         {
@@ -21365,21 +23111,6 @@
           14,
           52,
           6,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 0,
-        "verteilung": [
-          95,
-          5,
-          0,
-          0,
-          0,
           0,
           0,
           0
@@ -21445,6 +23176,36 @@
           1
         ]
       },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 0,
+        "verteilung": [
+          95,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 3,
+        "beleg3": 12,
+        "verteilung": [
+          50,
+          31,
+          7,
+          9,
+          2,
+          0,
+          1,
+          0
+        ]
+      },
       "tldr_de": "Die bereitgestellte Executive Summary zufolge ist die US-Fernerkundungsbranche stark gewachsen, sollte aber technologische Lücken und Sicherheitsrisiken angehen und dafür staatliche Förderung, Beschaffung und Vorsorge ausbauen.",
       "fundorte": [
         {
@@ -21486,21 +23247,6 @@
           8,
           48,
           3,
-          0,
-          0,
-          0
-        ]
-      },
-      "d3-ultra": {
-        "stufe": 0,
-        "beleg": 0,
-        "beleg3": 4,
-        "verteilung": [
-          56,
-          39,
-          1,
-          4,
-          0,
           0,
           0,
           0
@@ -21564,6 +23310,36 @@
           1,
           1,
           1
+        ]
+      },
+      "d3-ultra": {
+        "stufe": 0,
+        "beleg": 0,
+        "beleg3": 4,
+        "verteilung": [
+          56,
+          39,
+          1,
+          4,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "d3-flash": {
+        "stufe": 0,
+        "beleg": 1,
+        "beleg3": 7,
+        "verteilung": [
+          57,
+          30,
+          6,
+          6,
+          1,
+          0,
+          0,
+          0
         ]
       },
       "tldr_de": "Der Auszug skizziert Anlass und Rahmen eines CSET-Workshops zu US-Technologiefirmen im Ukrainekrieg, enthält aber keine inhaltlichen Ergebnisse.",

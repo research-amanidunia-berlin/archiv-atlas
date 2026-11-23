@@ -6,11 +6,15 @@ Report Q002539 · Source sciengine.com · Date – · [Open original](https://ww
 
 [All reports](../../../README.md) · Data: [bericht.json](bericht.json)
 
+## Summary (German, by Luna, unchecked)
+
+Der Bericht stellt DKGFN vor, das Interaktionsdaten und Knowledge-Graph-Wissen mithilfe dynamischer Aufmerksamkeit und zweier kontrastiver Lernverfahren verbindet. In Tests auf drei Datensätzen übertrifft es laut Autoren zwölf Vergleichsmodelle bei Recall@20 und NDCG@20; die Aussagekraft ist auf diese Datensätze und das beschriebene Top-20-Protokoll begrenzt.
+
 ## Collected questions
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
-|---|---|---|---|---|---|---|---|
-| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 81 / 96 % | – | 95 / 97 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 7 / 43 % | – | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| Question | clef | Luna | JEV | amos | SubQ | drex | d3-ultra | d3-flash |
+|---|---|---|---|---|---|---|---|---|
+| [SF-H3](../../../../fragen/SF-H3/) How can one trace what a model was built from and what it contains? | 0 / 0 % | 81 / 96 % | 95 / 97 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |
+| [SF-V5](../../../../fragen/SF-V5/) What should apply today to how models behave and how they are run? | 0 / 0 % | 7 / 43 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |

@@ -6,13 +6,17 @@ Report Q000350 · Source gov.cn · Date – · [Open original](https://www.gov.c
 
 [All reports](../../../README.md) · Data: [bericht.json](bericht.json)
 
+## Summary (German, by Luna, unchecked)
+
+Laut einer knappen Mitteilung der chinesischen Regierungswebsite sprachen He Lifeng und die US-Vertreter Bessent und Greer per Video über frühere Verständigungen, Handelsfragen und jüngste US-Beschränkungen, über die China seine ernste Besorgnis geäußert habe. Sie hätten vereinbart, den Dialog fortzusetzen, zusammenzuarbeiten und Differenzen zu steuern; konkrete Ergebnisse oder die US-Sicht nennt der Bericht nicht. Es handelt sich um eine vollständige Kurzmeldung, nicht um einen Auszug oder eine Fehlerseite.
+
 ## Collected questions
 
 Each cell: share of levels 4–7 / levels 3–7 (4 = contains facts that could be cited as evidence … 7 = directly answers; 3 = useful background). Listed: questions where at least one model gives levels 3–7 at least 10 %. “–” = model has not rated this report. Full distributions: [bericht.json](bericht.json).
 
-| Question | clef | Luna | d3-ultra | JEV | amos | SubQ | drex |
-|---|---|---|---|---|---|---|---|
-| [SF-M2](../../../../fragen/SF-M2/) How must a reporting channel between states be built so that it works reliably, including in a crisis? | 0 / 0 % | 0 / 0 % | – | 49 / 69 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-O2](../../../../fragen/SF-O2/) What should governments, labs and evaluators disclose about their talks, commitments, evaluations and interventions? | 0 / 0 % | 0 / 0 % | – | 47 / 63 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-P5](../../../../fragen/SF-P5/) How do you verify that commitments between states are kept, including over years and changes of government? | 0 / 0 % | 33 / 68 % | – | 45 / 71 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
-| [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 0 / 0 % | – | 2 / 20 % | 0 / 0 % | 0 / 0 % | 0 / 0 % |
+| Question | clef | Luna | JEV | amos | SubQ | drex | d3-ultra | d3-flash |
+|---|---|---|---|---|---|---|---|---|
+| [SF-M2](../../../../fragen/SF-M2/) How must a reporting channel between states be built so that it works reliably, including in a crisis? | 0 / 0 % | 0 / 0 % | 49 / 69 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |
+| [SF-O2](../../../../fragen/SF-O2/) What should governments, labs and evaluators disclose about their talks, commitments, evaluations and interventions? | 0 / 0 % | 0 / 0 % | 47 / 63 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |
+| [SF-P5](../../../../fragen/SF-P5/) How do you verify that commitments between states are kept, including over years and changes of government? | 0 / 0 % | 33 / 68 % | 45 / 71 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |
+| [SF-H5](../../../../fragen/SF-H5/) When are chip and export controls a security measure, and when a permanent advantage? | 0 / 0 % | 0 / 0 % | 2 / 20 % | 0 / 0 % | 0 / 0 % | 0 / 0 % | – | – |
