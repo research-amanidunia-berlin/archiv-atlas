@@ -2,7 +2,7 @@
 
 # Archiv-Atlas
 
-Ein Repo für den Fragen-Atlas von [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/): 44 Sammelfragen, 7924 Berichte, bewertet von mehreren Entscheidungsmodellen. Private Arbeitsquelle; eine öffentliche, gefilterte Fassung folgt.
+Ein Repo für den Fragen-Atlas von [research.amanidunia.berlin](https://research.amanidunia.berlin/de/quellen/): 44 Sammelfragen, 7924 Berichte, bewertet von mehreren Entscheidungsmodellen. Öffentliche Fassung unter CC BY 4.0 (siehe [LICENSE](LICENSE)).
 
 Bewertete Berichte: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 7924 · SubQ 7924 · drex 7924. Exportzeit: [STAND.json](STAND.json).
 
@@ -14,7 +14,6 @@ Bewertete Berichte: clef 7924 · Luna 7924 · d3-ultra 4771 · JEV 5667 · amos 
 | `zusammenfassungen/<sprache>/` | eigene Zusammenfassungen je Bericht (tldr, kurz, mittel, ausfuehrlich) |
 | `i18n/<sprache>/` | Fragen, Teilfragen und Stufennamen |
 | `pruefung/` | Prüfbefunde der Übersetzungen |
-| `intern/` | Läufe, Token, Kosten; geteilte Berichte |
 | `daten/` | die Eingabedateien der Website |
 
 ## Sammelfragen
